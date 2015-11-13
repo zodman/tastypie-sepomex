@@ -1,0 +1,25 @@
+84920|Aconchi|Pueblo|Aconchi|Sonora||84921|26|84921||28|001|0838|Rural|
+84923|Tres Álamos|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3392|Urbano|
+84923|Agua Caliente|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3390|Rural|
+84923|La Loma|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3394|Rural|
+84923|Rafael Noriega Soufflé|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3391|Rural|
+84923|Barranca las Higueritas|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3393|Rural|
+84924|Los Alisos|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3395|Rural|
+84924|Las Albóndigas|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3396|Rural|
+84925|El Tarais|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3397|Rural|
+84925|Represo de Romo|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3398|Rural|
+84928|La Higuera|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3401|Rural|
+84928|El Rodeo (El Rodeo de Aconchi)|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3403|Rural|
+84928|San Pablo (San Pablo de Aconchi)|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|0840|Rural|
+84928|La Alamedita|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3399|Rural|
+84928|La Alameda|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3402|Rural|
+84928|Havinanchi|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3400|Rural|
+84929|La Misión|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3406|Rural|
+84929|Chavoverachi|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3405|Rural|
+84929|La Estancia|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|0841|Rural|
+84929|Establo López|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3404|Rural|
+84930|Maicobabi|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3407|Rural|
+84930|Las Garzas|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3408|Rural|
+84933|La Sauceda|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3409|Rural|
+84934|Tepúa (El Carricito)|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3410|Rural|
+84935|Valencia|Poblado comunal|Aconchi|Sonora||84921|26|84921||27|001|3411|Rural|

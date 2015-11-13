@@ -1,0 +1,17 @@
+84340|Cantera 2|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|1868|Rural|
+84340|Tepupa|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|1874|Rural|
+84340|Olas Altas|Barrio|Nacozari de García|Sonora||84341|26|84341||02|041|1873|Rural|
+84340|Cantera 1|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|1869|Rural|
+84340|Nacozari de García Centro|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|0714|Urbano|
+84340|Lomas Nuevas|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|1871|Rural|
+84340|Puesta Del Sol|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|1870|Rural|
+84340|Lomas de Nacozari|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|1872|Rural|
+84346|La Caridad|Ranchería|Nacozari de García|Sonora||84341|26|84341||29|041|0716|Rural|
+84346|Satélite Tres|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|2933|Rural|
+84347|Los Abanicos|Ranchería|Nacozari de García|Sonora||84341|26|84341||29|041|0717|Rural|
+84347|El Globo|Colonia|Nacozari de García|Sonora||84341|26|84341||09|041|2921|Rural|
+84348|Nacozari Viejo|Congregación|Nacozari de García|Sonora||84341|26|84341||11|041|0718|Rural|
+84349|Santo Domingo|Ejido|Nacozari de García|Sonora||84341|26|84341||15|041|0719|Rural|
+84350|La Angostura|Congregación|Nacozari de García|Sonora||84341|26|84341||11|041|0720|Rural|
+84352|Pilares de Nacozari|Pueblo|Nacozari de García|Sonora||84341|26|84341||28|041|0721|Rural|
+84353|El Tigre|Ranchería|Nacozari de García|Sonora||84341|26|84341||29|041|0722|Rural|

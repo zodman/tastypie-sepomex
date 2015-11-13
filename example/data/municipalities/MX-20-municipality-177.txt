@@ -1,0 +1,23 @@
+68600|Cuicatlán|Villa|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||32|177|0618|Urbano|
+68601|San Juan Coyula|Pueblo|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||28|177|0620|Rural|
+68602|Santiago Quiotepec|Pueblo|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||28|177|0622|Rural|
+68603|Santa María Almoloyas|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|4527|Rural|
+68603|Dominguillo|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0623|Rural|
+68603|San Francisco Tutepetongo|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0624|Rural|
+68603|Santiago Dominguillo|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0625|Rural|
+68604|Santa Catarina Tlaxila|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0628|Rural|
+68604|Iberia|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|4895|Rural|
+68604|San Jose Del Chilar|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0626|Rural|
+68604|San Pedro Chicozapote|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0627|Rural|
+68605|San Pedro Nodon|Ranchería|San Juan Bautista Cuicatlán|Oaxaca||68608|20|68608||29|177|0629|Rural|
+68606|Cuicatlan Centro|Colonia|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||09|177|0619|Rural|21
+68607|Grande|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|1023|Rural|21
+68607|Tecomojaca|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|1331|Rural|21
+68607|Guadalupe|Colonia|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||09|177|3654|Rural|21
+68607|Ojo de Agua|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|1205|Rural|21
+68607|Galeana|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|3652|Rural|21
+68607|La Cruz|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|3653|Rural|21
+68609|Río Chiquito|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|0929|Rural|21
+68609|Cuauhtémoc|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|0923|Rural|21
+68609|La Garita|Barrio|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||02|177|1088|Rural|21
+68609|Emiliano Zapata|Colonia|San Juan Bautista Cuicatlán|Oaxaca|San Juan Bautista Cuicatlán|68608|20|68608||09|177|1006|Rural|21

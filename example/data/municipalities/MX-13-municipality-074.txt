@@ -1,0 +1,37 @@
+42950|La Cruz|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|0921|Urbano|09
+42950|Centro|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|0872|Urbano|09
+42952|Tlaxcoapan|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5546|Urbano|09
+42952|La Vega|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|1082|Urbano|09
+42952|Carrizos|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5545|Urbano|09
+42952|Industrial|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|2084|Urbano|09
+42952|Educación|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|2083|Urbano|09
+42952|Villa Jardín|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5539|Urbano|09
+42952|Valle San Pedro|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5540|Urbano|09
+42953|Lomas de Tlaxcoapan|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|1005|Urbano|09
+42953|Magisterial|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5541|Urbano|09
+42953|Tlaxcoapan|Barrio|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||02|074|5542|Urbano|09
+42954|El Panteón|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5547|Urbano|09
+42954|Morelos|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|2087|Urbano|09
+42954|Ciudadela|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|2086|Urbano|09
+42954|Morelos|Fraccionamiento|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||21|074|5543|Urbano|09
+42955|Anáhuac|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|0899|Urbano|09
+42955|El Calvario|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|2088|Urbano|09
+42956|1ro de Mayo|Barrio|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||02|074|1049|Urbano|09
+42956|Era|Fraccionamiento|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||21|074|2085|Urbano|09
+42956|Independencia|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|0970|Urbano|09
+42957|La Patricia|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|5544|Urbano|09
+42957|Apepechoca|Barrio|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||02|074|0901|Urbano|09
+42957|Popular|Colonia|Tlaxcoapan|Hidalgo|Tlaxcoapan|42951|13|42951||09|074|1048|Urbano|09
+42960|Campestre|Colonia|Tlaxcoapan|Hidalgo||42951|13|42951||09|074|5537|Urbano|
+42960|Doxey|Pueblo|Tlaxcoapan|Hidalgo||42951|13|42951||28|074|0874|Urbano|
+42963|Teltipán de Juárez|Poblado comunal|Tlaxcoapan|Hidalgo||42951|13|42951||27|074|0871|Urbano|
+42963|La Cruz|Colonia|Tlaxcoapan|Hidalgo||42951|13|42951||09|074|5538|Urbano|
+42964|Camino a Puente Negro|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|5548|Rural|
+42964|Grande|Ejido|Tlaxcoapan|Hidalgo||42951|13|42951||15|074|5551|Rural|
+42964|Camino al Tecolote|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|5549|Rural|
+42964|Los Olivos|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|5554|Rural|
+42965|El Monte|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|5553|Rural|
+42965|Teocalco|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|0875|Rural|
+42965|San Miguel|Ejido|Tlaxcoapan|Hidalgo||42951|13|42951||15|074|5550|Rural|
+42966|El Gavillero|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|5552|Rural|
+42967|San Miguel|Ranchería|Tlaxcoapan|Hidalgo||42951|13|42951||29|074|5555|Rural|

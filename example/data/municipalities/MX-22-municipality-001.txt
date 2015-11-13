@@ -1,0 +1,155 @@
+76850|Jardines del Bosque|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1056|Urbano|
+76850|Amealco de Bonfil Centro|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|0697|Urbano|
+76850|Lomas de San Higinio|Fraccionamiento|Amealco de Bonfil|Querétaro||76852|22|76852||21|001|1259|Urbano|
+76850|Primavera|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1057|Urbano|
+76850|El Fresno|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2626|Urbano|
+76850|Los Miradores|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1055|Urbano|
+76850|Cerro de los Gallos|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1838|Urbano|
+76850|Balcones de Amealco|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2625|Urbano|
+76850|El Vicario|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1053|Urbano|
+76850|San Higinio|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1857|Urbano|
+76853|Las Américas 2a. Sección|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2624|Urbano|
+76853|Las Américas (La Haciendita)|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2633|Urbano|
+76853|La Isla|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2629|Urbano|
+76853|Las Américas|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2630|Urbano|
+76854|La Mora|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1840|Urbano|
+76854|Aguadores|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1841|Urbano|
+76854|Bosdha|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2628|Urbano|
+76854|San Martín|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1839|Urbano|
+76854|Los Duraznos|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2632|Urbano|
+76855|Las Delicias|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2627|Urbano|
+76855|Las Ánimas|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2631|Urbano|
+76855|La Cruz|Fraccionamiento|Amealco de Bonfil|Querétaro||76852|22|76852||21|001|0719|Urbano|
+76856|El Pinar|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1859|Rural|
+76856|La Perita el Sillar|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1858|Rural|
+76860|Hacienda Blanca|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1865|Rural|
+76860|Galindillo|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0704|Rural|
+76861|Palos Altos|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0705|Rural|
+76862|El Granjeno|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2604|Rural|
+76862|Quiotillos|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0706|Rural|
+76862|El Pino|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1864|Rural|
+76862|La Mesa|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1867|Rural|
+76862|San Antonio la Labor|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1866|Rural|
+76863|Los Reyes|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1870|Rural|
+76870|San Miguel Dehetí|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0708|Rural|
+76870|El Rincón|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0707|Rural|
+76870|La Cofradía|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|1856|Rural|
+76874|El Baño|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2615|Rural|
+76875|La Alameda del Rincón|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1869|Rural|
+76875|Laguna de Servín|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0709|Rural|
+76876|Mal Paso (La Laguna)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2601|Rural|
+76876|El Juvilete|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2610|Rural|
+76876|Bordos Cuates|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2562|Rural|
+76877|San Martín|Ejido|Amealco de Bonfil|Querétaro||76852|22|76852||15|001|0711|Rural|
+76877|El Rincón (La Botija)|Ejido|Amealco de Bonfil|Querétaro||76852|22|76852||15|001|1876|Rural|
+76877|Mesa de San Martín|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2614|Rural|
+76878|Llano Largo|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2565|Rural|
+76878|Arroyo Hondo|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2587|Rural|
+76878|El Fresno|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2623|Rural|
+76878|Parques de San Miguel|Fraccionamiento|Amealco de Bonfil|Querétaro||76852|22|76852||21|001|1861|Rural|
+76878|La Isla|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2608|Rural|
+76879|El Rayo|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1868|Rural|
+76879|El Batán|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0712|Rural|
+76879|El Aserrín (Ojo de Agua del Hornito)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1863|Rural|
+76879|La Beata|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2599|Rural|
+76879|El Salvador|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2607|Rural|
+76880|Tenasdá (Barrio de San Ildefonso)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0713|Rural|
+76883|El Tepozán (Barrio de San Ildefonso)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0714|Rural|
+76883|La Cruz del Apartadero (La Garita)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2569|Rural|
+76883|Veinte de Noviembre|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2619|Rural|
+76883|El Saucito Sección la Muralla|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2612|Rural|
+76883|La Muralla|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0715|Rural|
+76883|El Bothé|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1871|Rural|
+76884|San Bartolomé del Pino (San Bartolo)|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0718|Rural|
+76884|La Paloma (San Bartolo)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2575|Rural|
+76884|San José (San Bartolo)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2581|Rural|
+76884|San Antonio (San Bartolo)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2606|Rural|
+76884|El Atorón|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0716|Rural|
+76884|La Cruz (San Bartolo)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2605|Rural|
+76884|La Esperanza (San Bartolo)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2593|Rural|
+76885|Nuevo Amanecer|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|1860|Rural|
+76885|Agua Blanca|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1862|Rural|
+76886|Mesillas|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0720|Rural|
+76887|Tesquedó (Puerto del Chivato)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2621|Rural|
+76887|San Ildefonso Tultepec (Centro)|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0721|Rural|
+76887|Xajay|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1873|Rural|
+76887|El Rincón de San Ildefonso|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1842|Rural|
+76887|Yosphí|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1872|Rural|
+76887|Cuicillo (Barrio de San Ildefonso)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2567|Rural|
+76887|Loma de los Blases|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2609|Rural|
+76888|El Saucito|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0722|Rural|
+76889|San Pablo|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0723|Rural|
+76889|La Piní|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1874|Rural|
+76890|Chitejé de la Cruz|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0724|Rural|
+76890|Donicá|Poblado comunal|Amealco de Bonfil|Querétaro||76852|22|76852||27|001|0725|Rural|
+76890|San Felipe (Santiago Mexquititlán Barrio 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0730|Rural|
+76890|Santiago Mexquititlán Barrio 3o.|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|0733|Rural|
+76890|Santiago Mexquititlán Barrio 4o.|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|0734|Rural|
+76890|Las Lajas|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2600|Rural|
+76890|Santiago Mexquititlán Barrio 2o.|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|0732|Rural|
+76890|Santiago Mexquititlán Barrio 5o. (El Pastoreo)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1854|Rural|
+76890|Santiago Mexquititlán Barrio 1o.|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|0731|Rural|
+76893|El Jaral (Santiago Mexquititlán Barrio 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2589|Rural|
+76893|El Río (Santiago Mexquititlán Barrio 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2611|Rural|
+76893|La Concepción (La Concha)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2159|Rural|
+76893|Amárcigo (San Luis)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2588|Rural|
+76893|Las Grullas|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2566|Rural|
+76893|Loma de las Víboras (S. Mexquititlán B. 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2592|Rural|
+76893|Presa del Tecolote (El Lindero)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2574|Rural|
+76893|La Isla (Stgo. Mexquititlán B. 6o.)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2584|Rural|
+76893|Tierra Negra|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2620|Rural|
+76893|El Carmen (Santiago Mexquititlán Barrio 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1855|Rural|
+76893|Tierras Negras (Stgo. Mexquititlán B. 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2590|Rural|
+76893|San Nicolás de la Torre|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2510|Rural|
+76893|Loma las Liebres (Los Árboles)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2563|Rural|
+76893|La Venta (Santiago Mexquititlán Barrio 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2582|Rural|
+76893|De Sta. Teresa (S. Mexquititlan B. 6o.)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2591|Rural|
+76893|Los Arcos|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2603|Rural|
+76893|Los Árboles|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1852|Rural|
+76893|El Cacahuate (Stgo. Mexquititlán Barrio 6o.)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1853|Rural|
+76894|Los Argueta|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2559|Rural|
+76894|La Joya|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2576|Rural|
+76894|San José de los Encinos (Las Cabañas)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2594|Rural|
+76894|San José Ithó|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0702|Rural|
+76894|La Perita|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2613|Rural|
+76894|La Soledad|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1846|Rural|
+76894|San Juan Dehedó|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0699|Rural|
+76894|Vista Real|Colonia|Amealco de Bonfil|Querétaro||76852|22|76852||09|001|2618|Rural|
+76894|El Capulín|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0700|Rural|
+76894|Rincón de la Florida|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1844|Rural|
+76895|Ojo de Agua (San Miguel Tlaxcaltepec)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2580|Rural|
+76895|San Miguel Tlaxcaltepec (Barrio Centro)|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|0737|Rural|
+76895|El Lindero|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0738|Rural|
+76895|De la Cruz (San Miguel Tlaxcaltepec)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2585|Rural|
+76895|El Pueblito (San Miguel Tlaxcaltepec)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2586|Rural|
+76895|Guadalupe el Terrero|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0727|Rural|
+76895|El Cerrito|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1843|Rural|
+76895|Del Coyote (San Bartolo)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2578|Rural|
+76895|De la Ladera (San Miguel Tlaxcaltepec)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2583|Rural|
+76895|El Picacho|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1845|Rural|
+76895|El Rincón de Agua Buena (San M. Tlaxcaltepec)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1850|Rural|
+76895|Del Barco (San Miguel Tlaxcaltepec)|Barrio|Amealco de Bonfil|Querétaro||76852|22|76852||02|001|2579|Rural|
+76895|San Pedro Tenango|Pueblo|Amealco de Bonfil|Querétaro||76852|22|76852||28|001|2597|Rural|
+76895|Bosques del Renacimiento|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2573|Rural|
+76896|Los Arenales (San Juan Dehedó)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1848|Rural|
+76896|El Varal|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|1849|Rural|
+76896|Chitejé de Garabato|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0739|Rural|
+76896|San Juan Dehedó|Ejido|Amealco de Bonfil|Querétaro||76852|22|76852||15|001|1847|Rural|
+76896|La Cañada del Varal|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2568|Rural|
+76896|Las Salvas|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2577|Rural|
+76896|San Juan Dehedó Sección Sur|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2622|Rural|
+76897|Loma Linda|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0740|Rural|
+76897|La Loma del Apartadero|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2564|Rural|
+76897|San Carlos|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2560|Rural|
+76897|La Estancia|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2602|Rural|
+76897|San Antonio|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0717|Rural|
+76897|La Loma del Rosario|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2561|Rural|
+76897|El Coyote|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2570|Rural|
+76897|El Apartadero|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0726|Rural|
+76897|Buenos Aires (El Apartadero)|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2572|Rural|
+76897|La Atarjea|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2616|Rural|
+76897|La Manzana|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0736|Rural|
+76897|El Colorín|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2571|Rural|
+76897|La Ladera|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|0728|Rural|
+76897|Jacal de la Piedad|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2509|Rural|
+76897|Santa Clara|Ranchería|Amealco de Bonfil|Querétaro||76852|22|76852||29|001|2617|Rural|

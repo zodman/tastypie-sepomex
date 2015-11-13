@@ -1,0 +1,102 @@
+95100|Tierra Blanca Centro|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3215|Semiurbano|18
+95110|Hojas de Maíz|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3217|Semiurbano|18
+95110|Infonavit Quechuleño|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4451|Semiurbano|18
+95110|Infonavit Quechuleño II|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4452|Semiurbano|18
+95110|Ugocep|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4450|Semiurbano|18
+95110|Luis Echeverría Alvarez|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3218|Semiurbano|18
+95110|Del Carmen|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5551|Urbano|18
+95110|Ugocp|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|1137|Semiurbano|18
+95110|Quechuleño|Unidad habitacional|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||31|174|4405|Semiurbano|18
+95110|El Recreo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5231|Semiurbano|18
+95110|Unidad Deportiva|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4514|Semiurbano|18
+95118|Lomas de Tierra Blanca|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5234|Semiurbano|18
+95118|Fonhapo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5736|Semiurbano|18
+95118|Miraflores|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4515|Semiurbano|18
+95118|Las Flores|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3219|Semiurbano|18
+95119|Segundo Verde|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|1105|Semiurbano|18
+95119|Arroyo Hondo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5728|Semiurbano|18
+95119|Santa Elena|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5729|Semiurbano|18
+95119|Jesús Garcia Coronado|Unidad habitacional|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||31|174|4516|Semiurbano|18
+95119|Los Chilangos|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5237|Semiurbano|18
+95119|Fredepo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0811|Semiurbano|18
+95119|Infonavit|Unidad habitacional|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||31|174|3220|Semiurbano|18
+95119|Lomas Verdes|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5727|Semiurbano|18
+95119|Federal|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0795|Semiurbano|18
+95120|Puerta Negra|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|1036|Semiurbano|18
+95120|El Nanche|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0759|Semiurbano|18
+95120|Torreón|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3221|Semiurbano|18
+95120|Las Prietas|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5242|Semiurbano|18
+95120|Elvira|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5737|Semiurbano|18
+95120|Del Valle|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0710|Semiurbano|18
+95130|Roma|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3222|Semiurbano|18
+95130|Del Ferrocarril|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5549|Urbano|18
+95130|Rancho Grande|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5235|Semiurbano|18
+95140|Nueva Zapata|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5726|Semiurbano|18
+95140|Benito Juárez|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4454|Semiurbano|18
+95140|Emiliano Zapata|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3223|Semiurbano|18
+95150|Lomas Del Jazmín|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3224|Semiurbano|18
+95150|Lomas de Sotelo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5239|Semiurbano|18
+95160|Nuevo Zapata|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0991|Semiurbano|18
+95160|Las Colmenas|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5232|Semiurbano|18
+95160|La Arenera|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5233|Semiurbano|18
+95160|Cojinillo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3225|Semiurbano|18
+95160|De los Gonzalez|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5550|Urbano|18
+95160|Cojinillo|Ampliación|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||38|174|5725|Semiurbano|18
+95160|Nueva|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4407|Semiurbano|18
+95160|12 de Noviembre|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5241|Semiurbano|18
+95160|Cañera|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5724|Semiurbano|18
+95170|Santa Lucrecia|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3226|Semiurbano|18
+95170|Del Agua|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4408|Semiurbano|18
+95170|Del Anda|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4456|Semiurbano|18
+95179|O N A F A|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5721|Semiurbano|18
+95179|Santa Rosa|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5723|Semiurbano|18
+95179|Terraplen|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3227|Semiurbano|18
+95179|Palma Sola|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5722|Semiurbano|18
+95180|Lomas de Guadalupe|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5240|Semiurbano|18
+95180|PEMEX|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|1010|Semiurbano|18
+95180|Tierra Blanca El Viejo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3228|Semiurbano|18
+95190|San Rosendo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5238|Semiurbano|18
+95190|Lázaro Cárdenas|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0908|Semiurbano|18
+95190|20 de Noviembre|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4458|Semiurbano|18
+95190|Obrera|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|3229|Semiurbano|18
+95193|20 de Junio|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|5236|Semiurbano|18
+95193|Primero de Mayo|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|1028|Semiurbano|18
+95193|6 de Enero|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|4410|Semiurbano|18
+95193|Flores Magón|Colonia|Tierra Blanca|Veracruz de Ignacio de la Llave|Tierra Blanca|95101|30|95101||09|174|0804|Semiurbano|18
+95200|Nopiloa|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|0006|Rural|
+95200|Las Lajitas|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0001|Rural|
+95200|Joachin|Estación|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||16|174|3230|Rural|
+95201|Paso Magueyitos|Barrio|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||02|174|3231|Rural|
+95202|Paso Escondido (Rincón Escondido)|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0011|Rural|
+95203|Los Cedros|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0002|Rural|
+95203|Las Conchas|Congregación|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||11|174|7249|Rural|
+95203|Gral. Marquez Galindo|Barrio|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||02|174|3232|Rural|
+95203|Paso Canoa|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|7237|Rural|
+95204|San Rafael|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0010|Rural|
+95204|La Tepetaca|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|7887|Rural|
+95205|Roberto Barrios|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|0005|Rural|
+95205|Buena Vista|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|6093|Rural|
+95205|El Coyote|Congregación|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||11|174|7336|Rural|
+95205|Quechuleño|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|3233|Rural|
+95206|Mata Redonda|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|3234|Rural|
+95207|Rodriguez Tejeda|Pueblo|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||28|174|3235|Rural|
+95209|Enrique Rodríguez Cano|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0004|Rural|
+95209|Los Horcones|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0008|Rural|
+95209|Mata Borrego|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0003|Rural|
+95209|Huixcolotla|Pueblo|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||28|174|0012|Rural|
+95213|El Codo|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0007|Rural|
+95215|Moreno Sur|Rancho|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||48|174|0009|Rural|
+95215|La Cruz del Cedro|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|7797|Rural|
+95215|Jicaro|Pueblo|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||28|174|3236|Rural|
+95215|San José del Cacao|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|7886|Rural|
+95215|Loma del Caballo|Pueblo|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||28|174|6090|Rural|
+95216|La Barahunda|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|3237|Rural|
+95217|El Palenque|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|5735|Rural|
+95217|La Campana|Congregación|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||11|174|7335|Rural|
+95217|Atalaya|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|5730|Rural|
+95217|La Victoria (San Joaquín)|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|5731|Rural|
+95217|Ejido las Flores|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|6092|Rural|
+95217|Loma Alta|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|5733|Rural|
+95217|San Joaquín|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|5732|Rural|
+95217|El Progreso|Ejido|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||15|174|5734|Rural|
+95217|Pitalillo (Pinolillo)|Ranchería|Tierra Blanca|Veracruz de Ignacio de la Llave||95101|30|95101||29|174|7265|Rural|

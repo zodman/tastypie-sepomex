@@ -1,0 +1,83 @@
+95640|Isla Centro|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|4771|Semiurbano|31
+95642|Cetis|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0682|Semiurbano|31
+95643|Benito Juárez|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0646|Semiurbano|31
+95643|San Jose|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|1072|Semiurbano|31
+95643|Lázaro Cárdenas|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0910|Semiurbano|31
+95643|San Juan de Dios|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|1074|Semiurbano|31
+95645|Naranjo|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|5441|Semiurbano|31
+95645|Emiliano Zapata|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0779|Semiurbano|31
+95645|La Loma|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|4769|Semiurbano|31
+95645|Mariano Aguirre Uscanga|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|4770|Semiurbano|31
+95645|La Luz|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|5250|Semiurbano|31
+95646|Luis Donaldo Colosio|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|5247|Semiurbano|31
+95646|La Gravera|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0866|Semiurbano|31
+95647|Chamizal|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0698|Semiurbano|31
+95647|Agropista|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|5248|Semiurbano|31
+95648|Fernando López Arias|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0009|Urbano|31
+95648|Obrera|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|5246|Semiurbano|31
+95648|Santa Fe|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|4768|Semiurbano|31
+95648|Limón de Guerrero|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|0912|Semiurbano|31
+95648|Victor M Aguirre|Colonia|Isla|Veracruz de Ignacio de la Llave|Isla|95641|30|95641||09|077|5245|Semiurbano|31
+95650|Las Tunas|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5256|Rural|
+95650|San Nicolás Zacapexco|Pueblo|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||28|077|3427|Rural|
+95650|Nuevo Canton|Barrio|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||02|077|3429|Rural|
+95650|San Simón II|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0013|Rural|
+95650|Viloria Nuevo|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5255|Rural|
+95650|Palmarillo|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5257|Rural|
+95650|El Chancarro|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5254|Rural|
+95652|El Nanche|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5249|Rural|
+95652|Raudal|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5251|Rural|
+95652|Vista Hermosa|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5252|Rural|
+95652|Garro|Barrio|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||02|077|3428|Rural|
+95652|Viloria Viejo|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5253|Rural|
+95653|Las Hojas (Las Hojitas)|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0005|Rural|
+95654|San Pedro Jalpa|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5289|Rural|
+95654|Montecristo|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0007|Rural|
+95654|Las Playas|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|0008|Rural|
+95654|Rodolfo Fierro|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5271|Rural|
+95654|Totoloche|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5272|Rural|
+95654|San Anastasio|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5287|Rural|
+95654|Agua Fría|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5270|Rural|
+95654|Cañada|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5269|Rural|
+95654|Licenciado Alfredo V. Bonfil|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5291|Rural|
+95654|San Pedro Mártir|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5290|Rural|
+95654|Ignacio Ramirez|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5293|Rural|
+95654|El Maguial (La Laguna)|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5292|Rural|
+95655|Las Golondrinas|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0004|Rural|
+95655|El Pozon|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5274|Rural|
+95655|Los Dos Hermanos|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0006|Rural|
+95655|Chiltepec|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5273|Rural|
+95655|El Paisaje|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0012|Rural|
+95655|La Granja|Ejido|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||15|077|3423|Rural|
+95655|El Serrano|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5275|Rural|
+95655|Palma de Oro|Pueblo|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||28|077|3424|Rural|
+95655|Loma Alta|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5278|Rural|
+95655|El Paraíso|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0011|Rural|
+95655|Cerro Colorado|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0014|Rural|
+95655|Macuile|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5276|Rural|
+95655|Garza Blanca|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5279|Rural|
+95657|Oro Verde|Ejido|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||15|077|3425|Rural|
+95657|Francisco Villa|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|0003|Rural|
+95657|La Peña|Pueblo|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||28|077|0001|Rural|
+95657|San Luis|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|3426|Rural|
+95657|El Marcial|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5281|Rural|
+95657|Santa María|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5282|Rural|
+95657|Las Garzas|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|7768|Rural|
+95657|Coapa|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5283|Rural|
+95658|Mazoco|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|3431|Rural|
+95658|Rancho Nuevo|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0010|Rural|
+95658|Leyes de Reforma|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5285|Rural|
+95658|El Ñape|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5267|Rural|
+95658|San Ramón|Rancho|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||48|077|0002|Rural|
+95658|El Mosquito|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5265|Rural|
+95658|Mata Limones|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5284|Rural|
+95658|Nuevo Potrero|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5266|Rural|
+95658|Cujuluapan (El Guayabo)|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5268|Rural|
+95659|Las Cruces|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5263|Rural|
+95659|El Tesoro|Ejido|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||15|077|3430|Rural|
+95659|Las Maracas|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5260|Rural|
+95659|Solerilla|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5262|Rural|
+95659|Potrerillos|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5259|Rural|
+95659|Palo Blanco|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5261|Rural|
+95659|Balboa|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5258|Rural|
+95659|Huatillo|Ranchería|Isla|Veracruz de Ignacio de la Llave||95641|30|95641||29|077|5264|Rural|

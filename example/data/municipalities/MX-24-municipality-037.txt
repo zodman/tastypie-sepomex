@@ -1,0 +1,107 @@
+79960|Del Carmen|Barrio|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||02|037|1924|Semiurbano|18
+79960|El Sol|Fraccionamiento|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||21|037|1928|Semiurbano|18
+79960|San José|Barrio|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||02|037|1930|Semiurbano|18
+79960|Xew|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1932|Semiurbano|18
+79960|Benito Juárez|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1940|Rural|18
+79960|Estrella|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1926|Semiurbano|18
+79960|Zacatipan|Barrio|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||02|037|1935|Urbano|18
+79960|Buenos Aires|Fraccionamiento|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||21|037|1936|Semiurbano|18
+79960|INFONAVIT|Fraccionamiento|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||21|037|1938|Semiurbano|18
+79960|Los Naranjos|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1927|Semiurbano|18
+79960|Los Tamarindos|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1934|Semiurbano|18
+79960|Tencazapa y Netzahualcoyotl|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1939|Semiurbano|18
+79960|Valle Alto|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|2300|Semiurbano|18
+79960|Lindavista|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1931|Semiurbano|18
+79960|Jardines del Valle|Fraccionamiento|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||21|037|1937|Semiurbano|18
+79960|Mirador|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1942|Rural|18
+79960|Tamazunchale Centro|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1710|Semiurbano|18
+79960|Emiliano Zapata Sección I|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1933|Semiurbano|18
+79960|San Juan Zona Centro|Barrio|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||02|037|1923|Semiurbano|18
+79960|San Rafael|Barrio|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||02|037|1925|Semiurbano|18
+79960|San Miguel|Barrio|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||02|037|1929|Semiurbano|18
+79960|La Cañada|Colonia|Tamazunchale|San Luis Potosí|Tamazunchale|79961|24|79961||09|037|1941|Semiurbano|18
+79962|Palictla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|1713|Rural|
+79963|La Peña|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2579|Rural|
+79963|Totectitla los Ciruelos|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|2583|Rural|
+79964|Mazatétl|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2584|Rural|
+79964|Cuapacho|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2571|Rural|
+79964|Ixteamel|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|2408|Rural|
+79964|Ahuehueyo|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2567|Rural|
+79964|Tacial|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2594|Rural|
+79965|Xaltipa|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1719|Rural|
+79965|Xomoco|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2743|Rural|
+79966|Poxtla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2674|Rural|
+79966|El Platanito|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2575|Rural|
+79966|Los Amigos|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|2581|Rural|
+79966|Tierra Blanca|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2602|Rural|
+79966|Aguazarca|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|1715|Rural|
+79966|Huazalingo|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|2577|Rural|
+79966|Barrio de Guadalupe|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2569|Rural|
+79966|Tlacuilola|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2697|Rural|
+79967|Xilhuazo|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2606|Rural|
+79967|San Francisco|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2591|Rural|
+79967|El Banco (San Francisco)|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|2572|Rural|
+79967|Xinictle|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2607|Rural|
+79980|Chapulhuacanito|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1721|Rural|
+79980|Tianguispicula|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1725|Rural|
+79980|La Providencia|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|2580|Rural|
+79980|Cojolapa|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1720|Rural|
+79980|El Tepetate|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1723|Rural|
+79980|Tezontla|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1724|Rural|
+79980|La Laguna|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1722|Rural|
+79980|Rancho Nuevo|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|2527|Rural|
+79980|La Cuchilla|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|2526|Rural|
+79981|Zacatipan|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1726|Rural|
+79982|Tenexco|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2979|Rural|
+79982|Temamatla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|1727|Rural|
+79983|El Palmito|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1728|Rural|
+79983|San Sebastián|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|2593|Rural|
+79983|Tepetzintla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2598|Rural|
+79983|Los Cerritos|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2582|Rural|
+79985|Arroyo de los Patos|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|2568|Rural|
+79985|Xicotla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2605|Rural|
+79985|Acuapich (Pixteyo)|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2745|Rural|
+79985|El Laurel|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2573|Rural|
+79986|Tecomate Uno|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2596|Rural|
+79987|Encino Solo|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2576|Rural|
+79987|Tantoyuquita|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2595|Rural|
+79987|El Piñal|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2574|Rural|
+79987|Achiquico|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2566|Rural|
+79987|San Isidro|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|2592|Rural|
+79990|Nezahualcóyotl|Colonia|Tamazunchale|San Luis Potosí||79961|24|79961||09|037|2709|Rural|
+79990|Nuevo México|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|2710|Rural|
+79990|Tamán|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1729|Rural|
+79990|Pahuayo|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|0001|Rural|
+79990|Tlalnepantla|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1730|Rural|
+79990|La Cruz (Sector)|Colonia|Tamazunchale|San Luis Potosí||79961|24|79961||09|037|2711|Rural|
+79990|El Carrizal|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|1718|Rural|
+79991|Vega Larga|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|1734|Rural|
+79991|Atlajque|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|2525|Rural|
+79991|Cuixcuatitla|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|1731|Rural|
+79991|Mecatlán|Ejido|Tamazunchale|San Luis Potosí||79961|24|79961||15|037|1732|Rural|
+79991|Tamacol|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|1733|Rural|
+79993|Tencaxapa|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2597|Rural|
+79993|Enramaditas|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1735|Rural|
+79994|Mecachiquico|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2585|Rural|
+79994|Mecapala|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2586|Rural|
+79994|Zoquitipa|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|1736|Rural|
+79994|Axhumol|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2685|Rural|
+79994|Payantla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2589|Rural|
+79994|Coaxocotitla|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|0002|Rural|
+79994|Monte Alegre|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2686|Rural|
+79995|Santa María Picula|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|1737|Rural|
+79995|Tixcuayuca|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2603|Rural|
+79995|Tlalixco|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2608|Rural|
+79995|Tezapotla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2601|Rural|
+79995|Zapotitla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2646|Rural|
+79996|Coahuica|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2570|Rural|
+79996|Pemucho|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|1738|Rural|
+79996|Santiago Centro|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|1739|Rural|
+79997|Quinta Chilla|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2590|Rural|
+79997|Paguayo|Pueblo|Tamazunchale|San Luis Potosí||79961|24|79961||28|037|2588|Rural|
+79997|Tetlama|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2599|Rural|
+79997|Texopis|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2600|Rural|
+79997|Pahuayo San Miguel|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2587|Rural|
+79997|La Fortuna|Ranchería|Tamazunchale|San Luis Potosí||79961|24|79961||29|037|2578|Rural|
+79997|Choteo|Poblado comunal|Tamazunchale|San Luis Potosí||79961|24|79961||27|037|2744|Rural|
+79997|Ixtla (Ixtla Santiago)|Barrio|Tamazunchale|San Luis Potosí||79961|24|79961||02|037|1740|Rural|

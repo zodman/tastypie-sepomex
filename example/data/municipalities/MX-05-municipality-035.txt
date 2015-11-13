@@ -1,0 +1,512 @@
+27000|Torreón Centro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|0995|Urbano|11
+27000|Jardines Reforma|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1033|Urbano|11
+27009|Administración Fiscal Regional Norte Centro|Gran usuario|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||22|035|1000|Urbano|11
+27010|Las Trojes|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3063|Urbano|11
+27010|Estrella|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1001|Urbano|11
+27010|Magdalenas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1002|Urbano|11
+27010|Navarro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1003|Urbano|11
+27010|Libertad|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|3055|Urbano|11
+27010|La Victoria|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3059|Urbano|11
+27013|La Paz|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3058|Urbano|11
+27013|Villas San Agustín|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3081|Urbano|11
+27013|San Agustín|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3082|Urbano|11
+27014|Quintas Anna|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3030|Urbano|11
+27014|Alebrijes Residencial|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3024|Urbano|11
+27014|Jardines del Sol|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3162|Urbano|11
+27014|Real de San Agustín|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3170|Urbano|11
+27014|Conjunto de Todos los Santos|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|3246|Urbano|11
+27015|Aviación San Ignacio Segunda Etapa|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2499|Urbano|11
+27015|Satélite de la Laguna|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1894|Urbano|11
+27015|Villas San José|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2498|Urbano|11
+27015|Puerta Real|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2744|Urbano|11
+27016|Aeropuerto|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1006|Urbano|11
+27016|Torreón 2000|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2446|Urbano|11
+27016|Rincón San José|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3033|Urbano|11
+27016|Quintas San Isidro|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1007|Urbano|11
+27016|El Siglo de Torreón|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|3172|Urbano|11
+27016|Aviación San Ignacio|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3004|Urbano|11
+27017|Los Rodríguez|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||15|035|2607|Urbano|11
+27018|Residencial Senderos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2743|Urbano|11
+27018|Ampliación Senderos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2745|Urbano|11
+27018|Residencial el Fresno|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1009|Urbano|11
+27018|Villas de la Ibero|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2441|Urbano|11
+27018|Quintas Ibero|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2473|Urbano|11
+27018|Residencial Cumbres|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2502|Urbano|11
+27018|Campiñas de Iberia|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2739|Urbano|11
+27018|Real del Nogalar|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2740|Urbano|11
+27018|La Ciénega|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2742|Urbano|11
+27018|Residencial los Fresnos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3025|Urbano|11
+27018|Residencial Galerías|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3031|Urbano|11
+27018|La Arboleda|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2952|Urbano|11
+27018|Magisterio Iberoamericana|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3027|Urbano|11
+27019|Ciudad Industrial|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||37|035|1011|Urbano|11
+27020|Abastos|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1012|Urbano|11
+27020|Santa María|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1013|Urbano|11
+27023|Los Viñedos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2500|Urbano|11
+27023|Cerrada las Palmas II|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3091|Urbano|11
+27023|Residencial Palma Real|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3069|Urbano|11
+27029|El Capricho|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1014|Urbano|11
+27030|Bocanegra|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1015|Urbano|11
+27030|Moctezuma|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1016|Urbano|11
+27039|Aeropuerto Internacional de Torreón Francisco Sara|Aeropuerto|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||01|035|1017|Urbano|11
+27040|Carolinas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1018|Urbano|11
+27040|Tierra y Libertad|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1020|Urbano|11
+27050|Aviación|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1021|Urbano|11
+27050|Salvador Allende|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1024|Urbano|11
+27050|Palmas Aeropuerto|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1023|Urbano|11
+27050|Francisco Villa|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1022|Urbano|11
+27053|Los Virreyes|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2497|Urbano|11
+27053|Quintas Campestre los Laureles|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2535|Urbano|11
+27053|San Luis|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1194|Urbano|11
+27053|Conjunto Habitacional Oyamel|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0012|Urbano|11
+27053|La Libertad|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||15|035|1196|Urbano|11
+27054|Ciudad Nazas Polígono 24 A|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2451|Urbano|11
+27054|El Pedregal|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2508|Urbano|11
+27054|Hacienda la Noria|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2791|Urbano|11
+27054|Valle Revolución|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1026|Urbano|11
+27054|Quintas del Nazas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3073|Urbano|11
+27054|El Kiosco|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3042|Urbano|11
+27054|Rincón del Pedregal|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2521|Urbano|11
+27054|Villas Centenario|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3238|Urbano|11
+27054|Valle Verde|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1027|Urbano|11
+27054|La Cortina|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2450|Urbano|11
+27054|Pedregal del Valle|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2452|Urbano|11
+27054|La Amistad|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2525|Urbano|11
+27054|Privadas de Santa Fe|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0018|Urbano|11
+27054|Ciudad Nazas Polígono 24|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3072|Urbano|11
+27054|Rincón de los Nogales|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2520|Urbano|11
+27054|Chapultepec|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3039|Urbano|11
+27054|Parque Industrial la Amistad|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||37|035|3051|Urbano|11
+27054|Residencial Victoria|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3079|Urbano|11
+27055|La Mina|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1028|Urbano|11
+27056|Elsa Hernández de las Fuentes|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1029|Urbano|11
+27056|Villas Saltillo 400|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2513|Urbano|11
+27057|Residencial Santiago|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3268|Urbano|11
+27057|Miguel de La Madrid|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1030|Urbano|11
+27058|Los Almendros|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|0016|Urbano|11
+27058|Quintas San Antonio|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2447|Urbano|11
+27058|Los Portones|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2950|Urbano|11
+27058|Rincón San Salvador|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2449|Urbano|11
+27058|Residencial las Etnias|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2656|Urbano|11
+27058|Las Lomas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2951|Urbano|11
+27058|San Antonio de los Bravos|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||15|035|1031|Urbano|11
+27058|Jardines las Etnias|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2657|Urbano|11
+27059|Fidel Velázquez|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1032|Urbano|11
+27060|San Marcos|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1019|Urbano|11
+27060|Nuevo Torreón|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1034|Urbano|11
+27070|Residencial Rincón del Desierto|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3101|Urbano|11
+27073|La Joya|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||15|035|1192|Urbano|11
+27073|Loma Real|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2701|Urbano|11
+27080|Gustavo Díaz Ordaz|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1036|Urbano|11
+27080|Felipe Ángeles|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1037|Urbano|11
+27083|Ciudad Nazas Polígono 27|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2644|Urbano|11
+27083|Joyas del Oriente|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2646|Urbano|11
+27083|Ciudad Nazas Polígono 30|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2645|Urbano|11
+27083|Rincón de las Nóas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2453|Urbano|11
+27083|José de las Fuentes|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2491|Urbano|11
+27083|Valles del Nazas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2454|Urbano|11
+27083|Residencial del Nazas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2455|Urbano|11
+27083|Quintas Laguna|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2493|Urbano|11
+27084|Residencial el Secreto|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2456|Urbano|11
+27084|Las Arboledas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1038|Urbano|11
+27085|San Felipe|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1901|Urbano|11
+27085|FOVISSSTE Nueva California|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3049|Urbano|11
+27085|Horizonte|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2660|Urbano|11
+27085|Residencial las Torres|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1039|Urbano|11
+27085|Nueva Villas California|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2306|Urbano|11
+27085|INFONAVIT Nueva California|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3050|Urbano|11
+27086|Villas de San Ángel III|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0015|Urbano|11
+27086|Los Ciruelos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0017|Urbano|11
+27086|El Castaño|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|4243|Urbano|11
+27086|La Joya|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3053|Urbano|11
+27086|Las Aves|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0002|Urbano|11
+27086|Villas de la Joya|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0006|Urbano|11
+27086|Oscar Flores Tapia|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1040|Urbano|11
+27086|Villas Diamante|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3192|Urbano|11
+27086|Ex Hacienda la Joya|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3044|Urbano|11
+27086|Ampliación la Joya|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|3054|Urbano|11
+27086|San Diego|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3085|Urbano|11
+27086|Villas de San Ángel|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3186|Urbano|11
+27087|Joyas de Torreón|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2942|Urbano|11
+27087|Villas del Sol|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0011|Urbano|11
+27087|Sol de Oriente|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1738|Urbano|11
+27087|Real del Sol II|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3078|Urbano|11
+27087|Quintas los Nogales|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0001|Urbano|11
+27087|Veredas de la Joya|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0005|Urbano|11
+27087|Amistad|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1041|Urbano|11
+27087|Jardines Universidad|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2705|Urbano|11
+27087|Joyas del Bosque|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3092|Urbano|11
+27087|Recintos Villa Universidad|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2947|Urbano|11
+27087|Quintas Residencial|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2949|Urbano|11
+27087|Real del Sol I|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3077|Urbano|11
+27087|Sol de Oriente III|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2532|Urbano|11
+27087|Viñedos de la Joya|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2719|Urbano|11
+27087|Villas del Bosque|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2941|Urbano|11
+27087|Villas de la Huerta|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2720|Urbano|11
+27087|San Eduardo|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2948|Urbano|11
+27087|Joyas del Desierto|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2706|Urbano|11
+27087|Villas Universidad Oriente|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2943|Urbano|11
+27087|Rincón de la Joya|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0007|Urbano|11
+27087|Villas Universidad|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2944|Urbano|11
+27088|Pequeña Zona Industrial|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||37|035|3070|Urbano|11
+27088|Plan de San Luis|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1042|Urbano|11
+27088|Residencial Portones Paraíso|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3026|Urbano|11
+27089|Nueva California|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1044|Urbano|11
+27090|Aquiles Serdán|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1046|Urbano|11
+27090|Cerro de la Cruz|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1047|Urbano|11
+27090|Martínez Adame|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1049|Urbano|11
+27096|Torreón Viejo|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1050|Urbano|11
+27098|20 de Noviembre|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1051|Urbano|11
+27100|San Isidro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1055|Urbano|11
+27100|El Tajito|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||15|035|1052|Urbano|11
+27100|Villa San Isidro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|3034|Urbano|11
+27100|Granjas San Isidro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1053|Urbano|11
+27100|Nuevo San Isidro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1054|Urbano|11
+27103|Club de Golf los Azulejos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3006|Urbano|11
+27104|Palmas San Isidro|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1056|Urbano|11
+27105|Las Villas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2472|Urbano|11
+27105|Residencial Frondoso|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2643|Urbano|11
+27105|Residencial las Isabeles|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1878|Urbano|11
+27105|Cipreses|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2937|Urbano|11
+27105|Villas Santorini|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2938|Urbano|11
+27105|Quintas del Desierto|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2939|Urbano|11
+27105|Villa Florida|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2442|Urbano|11
+27105|Las Quintas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2642|Urbano|11
+27105|Country Frondoso|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2940|Urbano|11
+27105|Santa Bárbara|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2641|Urbano|11
+27106|Hacienda del Rosario|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2429|Urbano|11
+27106|San Luciano|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1059|Urbano|11
+27106|Villas las Margaritas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2522|Urbano|11
+27106|Villa Romana|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2936|Urbano|11
+27106|Residencial Ibero|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2640|Urbano|11
+27106|Ricardo Flores Magón|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2636|Urbano|11
+27107|La Muralla|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3013|Urbano|11
+27107|Andares|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|0020|Urbano|11
+27107|El Campanario|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3008|Urbano|11
+27107|El Ranchito|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||15|035|3010|Rural|11
+27108|Rincón San Ángel|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|2440|Urbano|11
+27110|Jacarandas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1061|Urbano|11
+27110|Nueva Laguna Sur|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2444|Urbano|11
+27110|Universidad|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2445|Urbano|11
+27110|Paraíso del Nazas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2501|Urbano|11
+27110|INFONAVIT Alamedas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|1060|Urbano|11
+27110|Nueva Laguna Norte|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2443|Urbano|11
+27110|Villa Jacarandas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1062|Urbano|11
+27110|Residencial los Llanos|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|0019|Urbano|11
+27119|El Roble|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1064|Urbano|11
+27120|Los Nogales|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1067|Urbano|11
+27120|Leandro Rovirosa Wade|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3022|Urbano|11
+27120|Leandro Rovirosa Wade|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1066|Urbano|11
+27130|Las Margaritas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1068|Urbano|11
+27130|Villa Jardín|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1070|Urbano|11
+27140|Los Ángeles|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1072|Urbano|11
+27140|FOVISSSTE Nueva los Ángeles|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3011|Urbano|11
+27140|Nueva los Ángeles|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1073|Urbano|11
+27148|Los Ángeles|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1074|Urbano|11
+27150|Esparza|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1075|Urbano|11
+27150|Nazario Ortíz Garza|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1076|Urbano|11
+27159|Eugenio Aguirre Benavides|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1077|Urbano|11
+27160|Francisco Villa Poniente|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1078|Urbano|11
+27160|28 de Abril|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1079|Urbano|11
+27167|Arenal|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1080|Urbano|11
+27168|Cuauhtémoc|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1081|Urbano|11
+27170|Ana|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1082|Urbano|11
+27170|Moderna|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1083|Urbano|11
+27180|Nueva Rosita|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1084|Urbano|11
+27190|Maclovio Herrera|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1086|Urbano|11
+27199|Plan de Ayala|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1087|Urbano|11
+27200|Torreón Jardín|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1088|Urbano|11
+27210|Antigua Aceitera|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1090|Urbano|11
+27210|Vencedora|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1091|Urbano|11
+27217|José López Portillo|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1092|Urbano|11
+27220|Luis Echeverría Álvarez|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1095|Urbano|11
+27220|Nueva Aurora|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1096|Urbano|11
+27228|Jesús María del Bosque Rodríguez|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1097|Urbano|11
+27229|Monumental Madero|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1098|Urbano|11
+27230|Lucio Blanco|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1099|Urbano|11
+27230|Miguel Alemán|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1100|Urbano|11
+27240|Jardines de California|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1103|Urbano|11
+27240|Ferrocarrilera|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1101|Urbano|11
+27240|Bugambilias|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2468|Urbano|11
+27250|Residencial Campestre la Rosita|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1104|Urbano|11
+27250|Villas la Rosita|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3037|Urbano|11
+27250|Palmas la Rosita|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||21|035|3028|Urbano|11
+27258|Roma|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1106|Urbano|11
+27258|Ampliación la Rosita|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1105|Urbano|11
+27258|Residencial Saulo|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2762|Urbano|11
+27260|Los Ángeles I, II y III|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1108|Urbano|11
+27260|Ex Hacienda Antigua los Ángeles|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|3043|Urbano|11
+27265|Ex Hacienda los Ángeles|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1110|Urbano|11
+27265|Casa Blanca|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1936|Urbano|11
+27266|Villas Residenciales|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1112|Urbano|11
+27266|Residencial la Rosa|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1111|Urbano|11
+27267|Rincón Aurora|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3080|Urbano|11
+27267|FOVISSSTE la Rosita|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3048|Urbano|11
+27267|Rincón la Rosita|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1113|Urbano|11
+27267|Quinta Isabella|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3074|Urbano|11
+27268|Florida Blanca|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2510|Urbano|11
+27268|Torreón Residencial|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1114|Urbano|11
+27269|Ampliación FOVISSSTE la Rosita|Unidad habitacional|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||31|035|1115|Urbano|11
+27270|San José|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2458|Urbano|11
+27270|Jesús Garcia Corona|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2663|Urbano|11
+27270|Residencial del Valle|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2662|Urbano|11
+27270|Lucio Cabañas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1911|Urbano|11
+27270|Villas del Valle|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2457|Urbano|11
+27270|Britania|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2459|Urbano|11
+27270|Plaza Jumbo|Zona comercial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||33|035|2470|Urbano|11
+27270|Ex Hacienda la Merced|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3045|Urbano|11
+27270|División del Norte|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1116|Urbano|11
+27270|Las Flores Cooperativa Habitacional|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1117|Urbano|11
+27270|Nueva Corona|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2469|Urbano|11
+27270|PROVITEC|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1118|Urbano|11
+27270|Rincón del Valle|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2512|Urbano|11
+27270|Santa Bárbara|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2661|Urbano|11
+27272|Parque Industrial Oriente|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||37|035|2489|Urbano|11
+27272|Parque Industrial Lajat|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||37|035|2490|Urbano|11
+27272|La Orquídea|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2488|Urbano|11
+27272|Villas de la Hacienda|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1121|Urbano|11
+27272|Sección 38|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2462|Urbano|11
+27272|Residencial Tecnológico|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2665|Urbano|11
+27272|Rincón de la Hacienda|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1120|Urbano|11
+27272|Residencial las Misiones|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2466|Urbano|11
+27272|Santa Fe|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2460|Urbano|11
+27273|Lomas del Campestre|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1122|Urbano|11
+27274|Montebello|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2461|Urbano|11
+27274|Cerrada Esmeralda Montebello|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3038|Urbano|11
+27274|Lindavista|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2619|Urbano|11
+27274|Residencial del Norte|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2664|Urbano|11
+27275|Los Sauces|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1917|Urbano|11
+27275|El Águila|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||15|035|1201|Rural|11
+27275|Campo Militar la Joya|Zona militar|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||47|035|1209|Urbano|11
+27276|Residencial la Hacienda|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1937|Urbano|11
+27276|La Merced Ampliación Fuentes|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|3056|Urbano|11
+27276|La Hacienda Oriente|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1126|Urbano|11
+27276|La Merced II|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1918|Urbano|11
+27276|Carmen Romano|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1125|Urbano|11
+27276|La Merced|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1127|Urbano|11
+27277|Latinoamericano|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2649|Urbano|11
+27277|Hacienda Santa María|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3158|Urbano|11
+27277|Condominios Punta Diamante|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3040|Urbano|11
+27277|Perla del Oriente|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0022|Urbano|11
+27277|Valle Oriente|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1129|Urbano|11
+27277|Condominio los Agaves|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3185|Urbano|11
+27277|Quintas la Perla|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3235|Urbano|11
+27277|La Rosita|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||15|035|2651|Urbano|11
+27277|Cerrada las Flores II|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2647|Urbano|11
+27277|Zaragoza Norte|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2650|Urbano|11
+27277|Zaragoza|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||15|035|3089|Urbano|11
+27277|Campo Nuevo de Zaragoza|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2515|Urbano|11
+27277|Los Periodistas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2648|Urbano|11
+27277|Perla del Mar del Norte|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3071|Urbano|11
+27277|Villas Zaragoza|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3088|Urbano|11
+27277|Rincón del Bosque|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|3182|Urbano|11
+27277|Campiñas Romanas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0021|Urbano|11
+27277|Monte Real|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2311|Urbano|11
+27277|Villas de las Perlas|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2756|Urbano|11
+27277|Ex Hacienda la Perla|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3046|Urbano|11
+27277|Nueva Provincia|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3068|Urbano|11
+27278|Parque Industrial las Américas|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||37|035|1130|Urbano|11
+27279|Luis Horacio Salinas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1131|Urbano|11
+27280|Eduardo Guerra|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1132|Urbano|11
+27287|Narciso Mendoza|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1133|Urbano|11
+27289|Hogares Ferrocarrileros|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1135|Urbano|11
+27290|Fuentes del Sur|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1137|Urbano|11
+27290|La Fuente|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1139|Urbano|11
+27293|La Perla|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1197|Urbano|11
+27293|Santa Sofía|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3086|Urbano|11
+27293|Los Monasterios|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|0010|Urbano|11
+27293|Los Arenales|Ejido|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||15|035|3065|Urbano|11
+27293|La Perla|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1048|Urbano|11
+27294|Residencial los Cedros|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|2480|Urbano|11
+27294|Santa Anita|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1928|Urbano|11
+27294|María Mercado de López Sánchez|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2486|Urbano|11
+27294|Prados del Oriente|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|0013|Urbano|11
+27294|Rincón de la Merced|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2463|Urbano|11
+27294|Rogelio Montemayor|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2481|Urbano|11
+27294|Quinta la Merced|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1932|Urbano|11
+27294|Emiliano Zapata|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2465|Urbano|11
+27294|Mayrán|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2487|Urbano|11
+27294|Santa Elena|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1141|Urbano|11
+27294|El Oasis|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2477|Urbano|11
+27295|Cerrada las Flores|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1142|Urbano|11
+27296|Villas la Merced|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1935|Urbano|11
+27296|Las Julietas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1143|Urbano|11
+27297|Zaragoza Sur|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2523|Urbano|11
+27297|Rosario Villanueva|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|0009|Urbano|11
+27297|Ferropuerto|Zona industrial|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||37|035|2517|Urbano|11
+27297|El Arenal|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2516|Urbano|11
+27297|El Pensador|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|0003|Urbano|11
+27297|Rinconada Zaragoza|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|0004|Urbano|11
+27297|José Luz Torres|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2518|Urbano|11
+27297|Cuca Orona|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|3041|Urbano|11
+27297|Nueva Merced|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1145|Urbano|11
+27297|Luis Donaldo Colosio|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|3066|Urbano|11
+27298|Valle Dorado|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1146|Urbano|11
+27299|El Obispado|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2464|Urbano|11
+27299|Bellavista|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1147|Urbano|11
+27299|5 de Febrero|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2524|Urbano|11
+27300|Victoria|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1148|Urbano|11
+27309|Vista Hermosa|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1149|Urbano|11
+27310|Miguel Hidalgo|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1151|Urbano|11
+27320|La Constancia|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1154|Urbano|11
+27320|Durangueña|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1155|Urbano|11
+27329|Independencia|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1156|Urbano|11
+27330|Caleras Martínez|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1157|Urbano|11
+27330|Jacobo Meyer|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1158|Urbano|11
+27337|Benito Juárez|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1159|Urbano|11
+27338|Guadalupe|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1160|Urbano|11
+27340|San Joaquín|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1162|Urbano|11
+27340|Caleras Solares|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1161|Urbano|11
+27349|San Carlos|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1163|Urbano|11
+27350|La Fe|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1165|Urbano|11
+27350|Torreón y Anexas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1166|Urbano|11
+27350|Compresora|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1164|Urbano|11
+27357|Nuevo México|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1167|Urbano|11
+27360|Primera Rinconada de la Unión|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1170|Urbano|11
+27360|Buenos Aires|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2475|Urbano|11
+27360|Morelos|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1169|Urbano|11
+27360|Segunda Rinconada de la Unión|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1171|Urbano|11
+27360|José Ramírez Mijares|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1168|Urbano|11
+27364|Camilo Torres|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1172|Urbano|11
+27368|Polvorera|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1174|Urbano|11
+27370|Primero de Mayo|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1176|Urbano|11
+27370|Metalúrgica|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1175|Urbano|11
+27370|Zacatecas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1177|Urbano|11
+27376|Diana María Galindo|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2478|Urbano|11
+27376|Nueva Creación|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|2479|Urbano|11
+27376|Francisco I Madero|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1178|Urbano|11
+27377|Justo Sierra|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1179|Urbano|11
+27380|Braulio Fernández Aguirre|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1180|Urbano|11
+27380|Vicente Guerrero|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|1181|Urbano|11
+27380|Caleras de la Laguna|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27001|05|27001||09|035|3005|Urbano|11
+27390|Las Luisas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1182|Urbano|11
+27390|Lázaro Cárdenas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1184|Urbano|11
+27390|Las Brisas|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|2519|Urbano|11
+27397|La Dalia|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|1186|Urbano|11
+27397|La Dalia Oriente|Fraccionamiento|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||21|035|3052|Urbano|11
+27399|Santiago Ramírez|Colonia|Torreón|Coahuila de Zaragoza|Torreón|27271|05|27271||09|035|1189|Urbano|11
+27400|Noria Cuatro (La Joya)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3759|Rural|
+27400|Santa Fe|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1195|Rural|
+27400|San Armando|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|3083|Urbano|
+27400|El Diamante|Ranchería|Torreón|Coahuila de Zaragoza||27001|05|27001||29|035|3707|Rural|
+27400|Ignacio Allende|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1191|Rural|
+27400|Veredas de Santa Fe|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|3719|Rural|
+27400|San Agustín|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1193|Urbano|
+27403|La Joyita (Recreativo la Hacienda)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3734|Rural|
+27403|La Libertad|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3735|Rural|
+27403|La Joyita Dos (Ismael Soto González)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3720|Rural|
+27403|La Rosa|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3746|Rural|
+27404|La Noria Once|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3741|Rural|
+27405|La Cuchilla|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3730|Rural|
+27405|Braulio Fernández Aguirre (Providencia)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3693|Rural|
+27405|Cruz Colunga|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3699|Rural|
+27405|Braña [Granja]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3692|Rural|
+27405|La Barranca|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3726|Rural|
+27405|Noria la Cinco la Paz|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3764|Rural|
+27406|Santa Fe|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3779|Rural|
+27406|Ciudad de los Niños [Internado]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3696|Rural|
+27406|La Cigüeña|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3727|Rural|
+27407|Amapolas [Escobera]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3685|Rural|
+27407|El Clavel (El Rosario)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3705|Rural|
+27407|Sector Uno Kilómetro Doce|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3785|Rural|
+27407|Sector Doce A Santa Fe|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3784|Rural|
+27407|Amapolas Uno|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3686|Rural|
+27407|Patricio González|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3770|Rural|
+27407|Santa Fe [Granja Porcina]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3780|Rural|
+27410|Anna|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|2666|Rural|
+27410|La Partida|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1204|Rural|
+27412|La Paz|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1207|Rural|
+27413|Noria 773 (La Partida)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3758|Rural|
+27413|El Doce|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3708|Rural|
+27413|El Cuatro|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3706|Rural|
+27413|El Estanque|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3711|Rural|
+27413|El Pacífico|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1206|Rural|
+27414|Monte Alegre|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3756|Rural|
+27414|Diez de Abril (El Queso)|Colonia|Torreón|Coahuila de Zaragoza||27001|05|27001||09|035|3697|Rural|
+27414|La Noria del Perú|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3740|Rural|
+27414|La Palma|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1203|Rural|
+27415|El Perú|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1202|Rural|
+27415|Ricardo Flores Magón|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1208|Rural|
+27415|Diana|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3700|Rural|
+27415|Providencia|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3029|Urbano|
+27415|Ramos [Granja]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3773|Rural|
+27415|Nueva la Paz|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3768|Rural|
+27415|Lagos|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|3717|Rural|
+27416|Paso del Águila|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1205|Rural|
+27416|El Cercado (El Perico)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3703|Rural|
+27416|Mayran|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3754|Rural|
+27420|Villas del Renacimiento|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|3035|Urbano|
+27420|La Unión|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1211|Rural|
+27420|La Mancha (Albia Sociedad)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3737|Rural|
+27420|Albia|Ranchería|Torreón|Coahuila de Zaragoza||27001|05|27001||29|035|3684|Rural|
+27420|Albia|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1210|Rural|
+27422|Sendas del Bosque|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|0023|Urbano|
+27422|La Concha|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1212|Rural|
+27423|El Duraznito (El Ranchito)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3709|Rural|
+27423|La Polka (Albia Sector Tres)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3743|Rural|
+27424|Siglo XXI|Residencial|Torreón|Coahuila de Zaragoza||27001|05|27001||30|035|3236|Urbano|
+27424|Montolleras|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3757|Rural|
+27424|Jesús María Echavarría [Recreativo]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3721|Rural|
+27424|Los Azulejos [Campestre]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3750|Rural|
+27425|El Perú (Albia Dos)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3713|Rural|
+27425|Sector Cuatro la Concha|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3783|Rural|
+27425|Taller los Azulejos|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3787|Rural|
+27425|Quinta San Nicolás [Club Hípico]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3772|Rural|
+27426|El Chaparral|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3704|Rural|
+27426|La Conchita Roja|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3012|Rural|
+27426|Noria Sector Seis a la Concha|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3767|Rural|
+27426|Antonio Noriega|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3690|Rural|
+27426|Enrique Solís (Sector Seis A)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3716|Rural|
+27426|La Concha|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3729|Rural|
+27426|Noria Sector Dieciocho la Concha (Noria Uno)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3766|Rural|
+27427|Las Moras|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3748|Rural|
+27427|Marsella|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3753|Rural|
+27427|San Gerardo (Cardenchal)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3777|Rural|
+27430|La Noria (La Rosita)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3738|Rural|
+27430|El Águila|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3702|Rural|
+27430|Residencial Rancho Alegre|Fraccionamiento|Torreón|Coahuila de Zaragoza||27001|05|27001||21|035|3718|Rural|
+27430|Antonio Guerrero|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3689|Rural|
+27430|Sin Cabeza|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3786|Rural|
+27430|Rancho Alegre|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1198|Rural|
+27433|Los Álvarez (San Esteban)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3749|Rural|
+27433|Campo Sagrado [Establo]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3694|Rural|
+27433|El Encino|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3710|Rural|
+27433|La Familia|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3731|Rural|
+27433|Elgera|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3714|Rural|
+27433|La Magaña|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3736|Rural|
+27433|San Esteban|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3776|Rural|
+27433|La Sagra|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3747|Rural|
+27433|Enrique Murey García|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3715|Rural|
+27434|Nuevo Mieleras (La Tres)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1199|Rural|
+27434|Carroceras|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3695|Rural|
+27434|El Mostrenco (Euskal)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3712|Rural|
+27434|La Fortuna|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3733|Rural|
+27434|Mieleras [Aeropuerto]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3755|Rural|
+27434|San Luis|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3778|Rural|
+27435|Quince de Mayo (Las Magdalenas)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3771|Rural|
+27435|Nueva Unión (San Alberto)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3769|Rural|
+27435|Ampuero (La Arenosa)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3687|Rural|
+27435|Santa Gema|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3781|Rural|
+27435|Torreón [Club de Caza y Tiro]|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3788|Rural|
+27436|La Fe|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3732|Rural|
+27438|San Antonio|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3775|Rural|
+27438|El Pozo de Calvo|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1219|Rural|
+27438|Jalisco|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1221|Rural|
+27438|Juan Eugenio Cinco (Noria Nueva York)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3723|Rural|
+27438|Santa María|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3782|Rural|
+27438|La Nueva Colonia (Peralta)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1218|Rural|
+27438|Ávila Camacho (El Coronel)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3691|Rural|
+27438|La Colonia|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3728|Rural|
+27438|Noria del Uno|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3763|Rural|
+27438|Barreal de Guadalupe|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1216|Rural|
+27438|Doce de Diciembre|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3701|Rural|
+27438|La Flor de Jimulco|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1215|Rural|
+27438|Juan Eugenio|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1214|Rural|
+27438|Juan Eugenio Cinco (Cuba)|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3722|Rural|
+27438|Juan Eugenio Número Dos|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3724|Rural|
+27438|Noria de la Trinidad|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3762|Rural|
+27438|Jimulco|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1213|Rural|
+27438|Juan Eugenio Número Uno|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3725|Rural|
+27438|La Presa de la Flor|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3744|Rural|
+27438|Noria de la Sociedad|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|3761|Rural|
+27438|La Trinidad|Ejido|Torreón|Coahuila de Zaragoza||27001|05|27001||15|035|1220|Rural|

@@ -1,0 +1,66 @@
+98700|Jarillas|Exhacienda|Ojocaliente|Zacatecas||98711|32|98711||18|036|0337|Rural|
+98700|Milagros|Pueblo|Ojocaliente|Zacatecas||98711|32|98711||28|036|0338|Rural|
+98700|Palmillas|Pueblo|Ojocaliente|Zacatecas||98711|32|98711||28|036|0340|Rural|
+98700|Pastoría|Pueblo|Ojocaliente|Zacatecas||98711|32|98711||28|036|0341|Rural|
+98700|Sauceda de Mulatos|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|0343|Rural|
+98700|El Refugio|Pueblo|Ojocaliente|Zacatecas||98711|32|98711||28|036|0336|Rural|
+98700|San Pablo|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|0342|Rural|
+98700|Palmira|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1374|Rural|
+98700|Tlacotes|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|0344|Rural|
+98700|Concepción|Pueblo|Ojocaliente|Zacatecas||98711|32|98711||28|036|0335|Rural|
+98704|Dolores|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1365|Rural|
+98705|La Capilla|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1368|Rural|
+98705|La Puerta de Fierro|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1369|Rural|
+98705|Nuevo Mundo|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1373|Rural|
+98706|Las Coloradas|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1371|Rural|
+98706|Cerrito de La Cruz|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1364|Rural|
+98706|La Verde|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1370|Rural|
+98707|Las Lajas|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1372|Rural|
+98707|Perales|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1386|Rural|
+98707|Pozo de Jarillas|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1375|Rural|
+98710|Ojocaliente Centro|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0339|Semiurbano|07
+98712|Indeco|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0873|Semiurbano|07
+98712|Reginaldo Sandoval|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0887|Semiurbano|07
+98712|Nombre de Dios|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0879|Semiurbano|07
+98712|Las Lomas|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0875|Semiurbano|07
+98712|San Miguel|Barrio|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||02|036|0889|Semiurbano|07
+98712|Las Cumbres|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|1361|Semiurbano|07
+98712|Nuevo Ojocaliente|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0880|Semiurbano|07
+98712|El Papanton|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0870|Semiurbano|07
+98712|Real de Sacramento|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0884|Semiurbano|07
+98713|Las Villitas|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0876|Semiurbano|07
+98713|Huerta Santa Teresa|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0872|Semiurbano|07
+98713|Renacimiento|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0885|Semiurbano|07
+98713|Veteranos de La Revolución|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0891|Semiurbano|07
+98714|El Trébol|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|1359|Semiurbano|07
+98714|Parga|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0882|Semiurbano|07
+98715|Real Bastidas|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0883|Semiurbano|07
+98715|Luis Reyes|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0886|Semiurbano|07
+98715|San Jorge|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0888|Semiurbano|07
+98715|Jerusalem|Barrio|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||02|036|0874|Semiurbano|07
+98715|Martel|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0878|Semiurbano|07
+98716|Lázaro Cárdenas|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0865|Semiurbano|07
+98717|El Húmedo|Barrio|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||02|036|0869|Semiurbano|07
+98717|Magisterial|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0877|Semiurbano|07
+98717|San Pedro|Barrio|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||02|036|0890|Semiurbano|07
+98717|Chinanpas|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0867|Semiurbano|07
+98717|Chinanpas|Barrio|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||02|036|0866|Semiurbano|07
+98717|El Fresno|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0868|Semiurbano|07
+98718|Elias Valadez|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|1358|Semiurbano|07
+98718|Fernando Pamanes Escobedo|Colonia|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||09|036|0881|Semiurbano|07
+98718|El Portalillo|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|0871|Semiurbano|07
+98718|Industrial Ladrillero|Fraccionamiento|Ojocaliente|Zacatecas|Ojocaliente|98711|32|98711||21|036|1360|Semiurbano|07
+98720|San Cristóbal|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1378|Rural|
+98723|El Tildío|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1367|Rural|
+98723|San Jose Del Vaquero|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1380|Rural|
+98723|Santa Maria de La Paz|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1382|Rural|
+98723|San Blas de Copudas|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1377|Rural|
+98723|San Jose de los Llanos|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1379|Rural|
+98724|Buenavista|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1363|Rural|
+98725|Boquillas|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1362|Rural|
+98725|San Juan de Carboneras|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1381|Rural|
+98725|Santo Tomas|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1383|Rural|
+98726|Cerrito Del Agua|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1385|Rural|
+98726|Venaditos|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1384|Rural|
+98727|El Chepinque|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1366|Rural|
+98727|San Antonio Del Volcán|Ranchería|Ojocaliente|Zacatecas||98711|32|98711||29|036|1376|Rural|

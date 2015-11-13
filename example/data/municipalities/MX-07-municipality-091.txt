@@ -1,0 +1,42 @@
+29730|Albores Guillén|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4683|Rural|
+29730|Lindavista|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4679|Rural|
+29730|San Judas Tadeo|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4680|Rural|
+29730|Tapilula|Pueblo|Tapilula|Chiapas||29731|07|29731||28|091|0717|Rural|
+29730|Esquipulas|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4676|Rural|
+29730|San Felipe|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4677|Rural|
+29730|Santo Tomás|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4678|Rural|
+29730|Juan Ibarra|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4681|Rural|
+29730|Guadalupe|Barrio|Tapilula|Chiapas||29731|07|29731||02|091|4682|Rural|
+29733|Santa Cruz|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4651|Rural|
+29733|El Paraíso|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4655|Rural|
+29733|San Agustín|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4657|Rural|
+29733|San Vicente Agua Clara|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4645|Rural|
+29733|Nueva Esperanza|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4649|Rural|
+29733|El Salvador|Finca|Tapilula|Chiapas||29731|07|29731||20|091|4648|Rural|
+29733|La Revancha|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4652|Rural|
+29733|La Cascada|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4650|Rural|
+29733|Tulipán|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4656|Rural|
+29733|Canalejo|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4654|Rural|
+29733|Santa Esperanza|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4658|Rural|
+29734|Zaquinguez|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4646|Rural|
+29734|Vedeme de Campo 2a Sección|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4662|Rural|
+29734|Videme de Campo 3a Sección|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4663|Rural|
+29734|Videme de Ocampo 1a Sección|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4661|Rural|
+29734|El Retiro|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4665|Rural|
+29734|Nueva Florida|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4659|Rural|
+29734|Crisol|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4647|Rural|
+29734|El Campanario|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4653|Rural|
+29734|San Isidro|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4660|Rural|
+29735|Pajonal|Colonia|Tapilula|Chiapas||29731|07|29731||09|091|4675|Rural|
+29735|San Cristóbal de Los Llanos|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4674|Rural|
+29735|El Choreo (EL Chorro)|Pueblo|Tapilula|Chiapas||29731|07|29731||28|091|4673|Rural|
+29735|Portaceli|Pueblo|Tapilula|Chiapas||29731|07|29731||28|091|0719|Rural|
+29736|San Antonio|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4671|Rural|
+29736|Palomar|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4670|Rural|
+29736|La Piedad|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4672|Rural|
+29736|Candelaria|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4664|Rural|
+29736|Sabinal|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4669|Rural|
+29737|San Antonio Jacona|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4666|Rural|
+29737|San Francisco Jacona|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|0716|Rural|
+29737|San Antonio Jacona 3a Sección|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4667|Rural|
+29737|San Bernardo|Ranchería|Tapilula|Chiapas||29731|07|29731||29|091|4668|Rural|

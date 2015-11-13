@@ -1,0 +1,177 @@
+36400|Purísima de Bustos Centro|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|0241|Urbano|29
+36403|Fraccionamiento las Arcinas|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|5476|Urbano|29
+36403|Los Arcos|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|5401|Urbano|29
+36403|Real del Bosque|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8351|Urbano|29
+36403|Los Laureles|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4026|Urbano|29
+36404|Valle de los Girasoles|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8355|Urbano|29
+36404|La Barda|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4030|Urbano|29
+36404|Los Mirasoles|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4025|Urbano|29
+36404|Libramiento Carretera|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4031|Urbano|29
+36405|Anenecuilco|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4022|Rural|29
+36405|Avante|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|5468|Urbano|29
+36405|Vergel de La Pradera|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|8356|Urbano|29
+36405|Monte de Jesús|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8350|Urbano|29
+36406|Los Naranjos|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4028|Urbano|29
+36406|Tepeyac de las Cobachas|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8353|Urbano|29
+36406|San Jorge|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4254|Urbano|29
+36406|Las Granadas|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4029|Urbano|29
+36406|La Huerta|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8346|Urbano|29
+36406|López Mujica|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8345|Urbano|29
+36406|Las Crucitas|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4032|Urbano|29
+36406|Villas del Parque|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8358|Urbano|29
+36407|La Alameda|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4035|Urbano|29
+36407|Los Cipreses|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4034|Urbano|29
+36407|Terranova|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|8354|Urbano|29
+36407|Salas|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4036|Urbano|29
+36410|San Silvestre|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4051|Urbano|29
+36410|Francisco Villa|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4052|Urbano|29
+36413|San José del Barrial|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|5277|Urbano|29
+36413|Hacienda de Santiago Occidental|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|8344|Urbano|29
+36413|Lindavista|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4053|Urbano|29
+36413|San José de La Presa|Ejido|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||15|025|0257|Urbano|29
+36413|Villas de Santiago|Ranchería|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||29|025|8357|Urbano|29
+36414|Lomas del Carmen|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8348|Urbano|29
+36414|El Carmen|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4050|Urbano|29
+36415|El Manantial|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4027|Urbano|29
+36415|Los Veneros|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4037|Urbano|29
+36415|Loma Alta I|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4039|Urbano|29
+36416|Guanajuatito|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4041|Urbano|29
+36416|Panorama|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4043|Urbano|29
+36416|Valle de Girasoles|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4044|Urbano|29
+36416|San Juan Bosque|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8352|Urbano|29
+36416|Lomas Guanajuatito|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4054|Urbano|29
+36416|El Amanecer|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|4042|Urbano|29
+36417|Lomas de Obrageros|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4047|Urbano|29
+36417|Del Carmen|Ampliación|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||38|025|4048|Urbano|29
+36417|La Brisa|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4049|Urbano|29
+36417|Bello Horizonte|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8343|Urbano|29
+36417|Emiliano Zapata|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|5376|Urbano|29
+36418|Colinas del Real|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4046|Urbano|29
+36418|Colonia San Javier|Fraccionamiento|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||21|025|4045|Urbano|29
+36418|Los Olivos|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8349|Urbano|29
+36418|Loma Ejidal|Colonia|Purísima del Rincón|Guanajuato|Purísima de Bustos|36301|11|36301||09|025|8347|Urbano|29
+36420|Cañada de Negros|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0260|Rural|
+36420|Fraccionamiento Campestre Cañada de Negros|Fraccionamiento|Purísima del Rincón|Guanajuato||36301|11|36301||21|025|8280|Rural|
+36420|San Nicolás del Palenque|Ejido|Purísima del Rincón|Guanajuato||36301|11|36301||15|025|0243|Rural|
+36423|Los Pinos|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8310|Rural|
+36423|Puente Blanco|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8324|Rural|
+36423|San Jerónimo|Ejido|Purísima del Rincón|Guanajuato||36301|11|36301||15|025|0249|Rural|
+36423|Las Aguilillas|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|8299|Rural|
+36423|Los Cerritos|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8307|Rural|
+36423|San Bernardo|Ejido|Purísima del Rincón|Guanajuato||36301|11|36301||15|025|0242|Rural|
+36423|Los Tabiqueros|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|8312|Rural|
+36423|Monte Grande|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8318|Rural|
+36423|Dolores|Ejido|Purísima del Rincón|Guanajuato||36301|11|36301||15|025|0244|Rural|
+36423|Valle del Rincón|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|5380|Rural|
+36423|Real del Bosque|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|5530|Rural|
+36423|Barzón de las Américas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8248|Rural|
+36423|El Refugio|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0250|Rural|
+36423|Parque de San Jerónimo|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8321|Rural|
+36424|El Vallao Grande|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8276|Rural|
+36424|El Manantiales (Fraccionamiento Ruenes)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0245|Rural|
+36424|El Entronque [La Gasera]|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|8257|Rural|
+36424|Fraccionamiento Santa Cecilia|Fraccionamiento|Purísima del Rincón|Guanajuato||36301|11|36301||21|025|8284|Rural|
+36424|Los Tanques|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8313|Rural|
+36424|La Providencia|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8296|Rural|
+36424|Vallao de Villalobos|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8342|Rural|
+36424|Cerro del Palenque|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8250|Rural|
+36424|Fracción los Tanques (El Potrero)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8279|Rural|
+36424|La Descubridora|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0248|Rural|
+36424|El Mezquite|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8260|Rural|
+36424|Fraccionamiento Nuevo Condado|Fraccionamiento|Purísima del Rincón|Guanajuato||36301|11|36301||21|025|8283|Rural|
+36424|Mil Azares [Ecoparque]|Parque industrial|Purísima del Rincón|Guanajuato||36301|11|36301||26|025|8316|Rural|
+36424|El Vallao Blanco|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8275|Rural|
+36424|La Fragua|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8289|Rural|
+36424|La Mina|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8294|Rural|
+36425|El Capulín Dos|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8255|Rural|
+36425|Rancho la Soledad|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8327|Rural|
+36425|El Capulín|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8254|Rural|
+36425|Los Girasoles|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|8308|Rural|
+36425|El Manso|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|8259|Rural|
+36425|Los Toriles|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8314|Rural|
+36425|El Caracol|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8256|Rural|
+36425|Tierras de San Juan (Tablas de San Juan)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8341|Rural|
+36425|La Escondida (Juan Lara)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8288|Rural|
+36425|Los Milagros|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8309|Rural|
+36425|Los Revenideros|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8311|Rural|
+36425|Guardarrayas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0256|Rural|
+36425|Bunker Ranch|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8249|Rural|
+36426|Potrerillos (Guanajal)|Ejido|Purísima del Rincón|Guanajuato||36301|11|36301||15|025|0253|Rural|
+36426|Fraccionamiento la Paz|Fraccionamiento|Purísima del Rincón|Guanajuato||36301|11|36301||21|025|8281|Rural|
+36426|San Antonio Casas Blancas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0254|Rural|
+36426|La Mojonera|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8295|Rural|
+36426|Rancho los Muñoz|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8328|Rural|
+36427|Lomas de Buenavista|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8305|Rural|
+36427|Villas San Fernando|Fraccionamiento|Purísima del Rincón|Guanajuato||36301|11|36301||21|025|8333|Rural|
+36427|La Loma del Gallo|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8292|Rural|
+36427|Buenavista|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0259|Rural|
+36427|El Ratón|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8264|Rural|
+36427|Tepetate del Gallo|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0255|Rural|
+36427|Cañada de Soto|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0258|Rural|
+36427|Rincón de la Pradera|Campamento|Purísima del Rincón|Guanajuato||36301|11|36301||04|025|4023|Rural|
+36427|Puente Blanco|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8325|Rural|
+36430|Las Saudas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8302|Rural|
+36430|San Fernando|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8332|Rural|
+36430|Puerta de Jalpa|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0264|Rural|
+36430|El Pedernal|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0262|Rural|
+36430|Guadalupe de Jalpa|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0267|Rural|
+36433|San Andrés (San Andrés de Jalpa)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0268|Rural|
+36433|San Juanico|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8335|Rural|
+36433|El Zapote|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8278|Rural|
+36433|Rancho Seco|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0269|Rural|
+36433|El Cabrito|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8253|Rural|
+36433|El Tepetate|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8273|Rural|
+36433|Las Colonias de Jalpa|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8301|Rural|
+36433|El Salitre|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8267|Rural|
+36433|Santa Eduviges de Jalpa|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8340|Rural|
+36433|El Potrerito|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8262|Rural|
+36433|La Cintilla|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8287|Rural|
+36433|Peñitas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8323|Rural|
+36433|Jalpa de Cánovas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0266|Rural|
+36434|Carrizo de Rubios|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0272|Rural|
+36434|El Bajío|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8252|Rural|
+36434|La Higuera|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8290|Rural|
+36434|El Cócono|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0271|Rural|
+36434|La Lagartija|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8291|Rural|
+36434|La Trinidad|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0270|Rural|
+36434|El Liebrero|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8258|Rural|
+36435|El Saucillo|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8268|Rural|
+36435|San Luis del Jaralillo|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8336|Rural|
+36435|San Rafael|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8338|Rural|
+36435|El Potrerito|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8263|Rural|
+36435|San Antonio|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8330|Rural|
+36435|El Ojo de Agua|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8261|Rural|
+36435|Fraccionamiento los Ángeles|Fraccionamiento|Purísima del Rincón|Guanajuato||36301|11|36301||21|025|8282|Rural|
+36435|La Cañadita|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8286|Rural|
+36435|Loma del Tecolote (Loma de San Ángel)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8304|Rural|
+36435|San Ángel|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0261|Rural|
+36436|El Tambor (Granja los Fuentes)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8270|Rural|
+36436|El Tecolote (Tecolote de Arriba)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8272|Rural|
+36436|San Cayetano|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8331|Rural|
+36436|El Refugio|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8265|Rural|
+36436|Las Colonias|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8300|Rural|
+36436|Granjas Azteca|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8285|Rural|
+36436|San Roque de Torres|Poblado comunal|Purísima del Rincón|Guanajuato||36301|11|36301||27|025|8339|Rural|
+36436|Paso del Herrero (Apolonio Vera)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8322|Rural|
+36436|El Tecolote|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0263|Rural|
+36436|El Tábano|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8274|Rural|
+36436|María Dolores|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8315|Rural|
+36436|Nombre de Dios (El Zacatal)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8320|Rural|
+36436|San José de Tierras Blancas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8334|Rural|
+36436|La Quebradora|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8297|Rural|
+36436|Los Arcos|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|8306|Rural|
+36436|El Rosal|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8266|Rural|
+36436|Monte Quemado|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8319|Rural|
+36436|Rancho la Esperanza|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8326|Rural|
+36436|El Tecolote (Funes)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8271|Rural|
+36437|La Trinidad|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8298|Rural|
+36437|Monte de Lara|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8317|Rural|
+36437|El Toro|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|0265|Rural|
+36437|El Venado|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8277|Rural|
+36437|Reserva del Venado|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8329|Rural|
+36437|El Carmen|Colonia|Purísima del Rincón|Guanajuato||36301|11|36301||09|025|0246|Rural|
+36437|El Anteojo (El Cuatro)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8251|Rural|
+36437|La Martinica|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8293|Rural|
+36437|San Rafael|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8337|Rural|
+36437|Las Tablas|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8303|Rural|
+36437|El Suspiro (El Venado)|Ranchería|Purísima del Rincón|Guanajuato||36301|11|36301||29|025|8269|Rural|

@@ -1,0 +1,455 @@
+44009|Palacio de Gobierno Del Estado de Jalisco|Gran usuario|Guadalajara|Jalisco|Guadalajara|44101|14|44101||22|039|0002|Urbano|03
+44100|Guadalajara Centro|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0003|Urbano|03
+44110|Vallarta Poniente|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44101|14|44101||21|039|0005|Urbano|03
+44130|Arcos Vallarta|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0007|Urbano|03
+44130|Arcos|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44101|14|44101||21|039|0200|Urbano|03
+44140|Obrera Centro|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0008|Urbano|03
+44150|Barrera|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0010|Urbano|03
+44150|Lafayette|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|4188|Urbano|03
+44158|Deitz|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0011|Urbano|03
+44160|Americana|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0013|Urbano|03
+44170|San Antonio|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0014|Urbano|03
+44180|Mexicaltzingo|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0016|Urbano|03
+44190|Moderna|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0017|Urbano|03
+44200|El Santuario|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0020|Urbano|03
+44200|Sagrada Familia|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0023|Urbano|03
+44200|Capilla de Jesús|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0021|Urbano|03
+44200|Artesanos|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0019|Urbano|03
+44210|Jardines del Country|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0024|Urbano|03
+44210|Jardines del Country 2a. Sección|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|4943|Urbano|03
+44214|Universidad|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||31|039|0026|Urbano|03
+44215|Parían|Condominio|Guadalajara|Jalisco|Guadalajara|44291|14|44291||10|039|0028|Urbano|03
+44216|Del Trabajo CTM|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||31|039|0029|Urbano|03
+44216|Fidel Velázquez|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||31|039|4921|Urbano|03
+44217|Residencial Vallarta Country|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||12|039|0030|Urbano|03
+44218|Fabrica de Atemajac|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0031|Urbano|03
+44219|Casa Hogar CTM|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||31|039|0032|Urbano|03
+44220|Simón Bolívar|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||31|039|5029|Urbano|03
+44220|Circunvalación Metro Carballo|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|0033|Urbano|03
+44220|Santa Mónica|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0036|Urbano|03
+44220|Guadalupana Norte|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|4931|Urbano|03
+44220|Guadalupana Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|0034|Urbano|03
+44220|Santa Elena Alcalde Poniente|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|4920|Urbano|03
+44220|Santa Elena Alcalde Oriente|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0035|Urbano|03
+44227|Jardines de Atemajac|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|0039|Urbano|03
+44230|Santa Elena Estadio|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0047|Urbano|03
+44230|División del Norte|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|4620|Urbano|03
+44230|Autocinema|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0042|Urbano|03
+44230|Santa Elena de La Cruz|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0046|Urbano|03
+44240|Villas Del Estadio|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|4168|Urbano|03
+44240|Lomas de Independencia|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|0051|Urbano|03
+44240|Colomos Independencia|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44241|14|44241||21|039|4380|Urbano|03
+44240|Residencial San Elias|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44241|14|44241||21|039|0054|Urbano|03
+44240|Ricardo Flores Magón|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|0055|Urbano|03
+44240|Estadio|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|0050|Urbano|03
+44240|FOVISSSTE Independencia|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|4941|Urbano|03
+44240|Rancho Nuevo 2da. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|5237|Urbano|03
+44240|Independencia INFONAVIT|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||12|039|0049|Urbano|03
+44240|Rancho Nuevo 1ra. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0053|Urbano|03
+44240|Nuevo Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|3784|Urbano|03
+44240|Paseos Independencia|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44241|14|44241||21|039|4954|Urbano|03
+44246|Estadio Poniente|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0095|Urbano|03
+44247|Rancho Nuevo INFONAVIT|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|0059|Urbano|03
+44249|El Jaguey|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0061|Urbano|03
+44250|Lomas del Paraíso 3a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0064|Urbano|03
+44250|Lomas del Paraíso 1a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0063|Urbano|03
+44250|Praderas del Paraíso (Rinconadas del Paraíso)|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44241|14|44241||21|039|4859|Urbano|03
+44250|Lomas del Paraíso 4a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0065|Urbano|03
+44250|Balcones de Huentitán|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|3744|Urbano|03
+44250|Huentitán El Bajo|Pueblo|Guadalajara|Jalisco|Guadalajara|44241|14|44241||28|039|0062|Urbano|03
+44250|Lomas del Paraíso 2a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|4947|Urbano|03
+44250|Lomas del Paraíso 5a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|4948|Urbano|03
+44257|San Antonio|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44241|14|44241||21|039|4964|Urbano|03
+44257|INFONAVIT Planetario|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|0066|Urbano|03
+44258|Colonial Independencia|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0067|Urbano|03
+44259|Zoológico|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44241|14|44241||31|039|5062|Urbano|03
+44259|Panorámica Huentitán|Colonia|Guadalajara|Jalisco|Guadalajara|44241|14|44241||09|039|0068|Urbano|03
+44260|San Bernardo|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0074|Urbano|03
+44260|San Miguel de Mezquitan|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0075|Urbano|03
+44260|Barrio Mezquitan|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|4936|Urbano|03
+44260|Mezquitan|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|5061|Urbano|03
+44260|Miguel Galindo|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44101|14|44101||31|039|0072|Urbano|03
+44260|Niños Héroes|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0073|Urbano|03
+44260|Mezquitan Country|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0071|Urbano|03
+44260|La Normal|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0069|Urbano|03
+44265|Ramón Corona|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44101|14|44101||31|039|0077|Urbano|03
+44266|Observatorio|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0078|Urbano|03
+44267|Eugenia|Condominio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||10|039|0079|Urbano|03
+44268|Fray Antonio Alcalde|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44101|14|44101||31|039|0080|Urbano|03
+44270|Alcalde Barranquitas|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0082|Urbano|03
+44270|Miraflores|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0085|Urbano|03
+44270|Colinas de La Normal|Colonia|Guadalajara|Jalisco|Guadalajara|44101|14|44101||09|039|0084|Urbano|03
+44280|El Retiro|Barrio|Guadalajara|Jalisco|Guadalajara|44101|14|44101||02|039|0090|Urbano|03
+44290|Independencia Poniente|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0096|Urbano|03
+44290|Independencia|Colonia|Guadalajara|Jalisco|Guadalajara|44291|14|44291||09|039|5236|Urbano|03
+44298|Jardines Alcalde|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44291|14|44291||21|039|0099|Urbano|03
+44299|Villas de San Juan|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44291|14|44291||31|039|0100|Urbano|03
+44300|Esperanza|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0101|Urbano|03
+44300|Jardines de Santa Isabel|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44308|14|44308||21|039|0102|Urbano|03
+44300|San Miguel de Huentitán El Alto 1a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0109|Urbano|03
+44300|La Joya|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0105|Urbano|03
+44300|Margarita Maza de Juárez|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0107|Urbano|03
+44300|La Federacha|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0103|Urbano|03
+44300|Batallón de San Patricio|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44308|14|44308||21|039|3218|Urbano|03
+44300|Colonia No. 9|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44308|14|44308||31|039|3217|Urbano|03
+44306|Bosques de La Cantera|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|4937|Urbano|03
+44306|Villas de la Cantera|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|5034|Urbano|03
+44306|La Cantera|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0110|Urbano|03
+44307|Estadio|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44308|14|44308||31|039|0111|Urbano|03
+44320|Monumental|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0115|Urbano|03
+44320|Belisario Domínguez|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0114|Urbano|03
+44329|Belisario Domínguez|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44381|14|44381||31|039|0116|Urbano|03
+44330|San Vicente|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0122|Urbano|03
+44330|Circunvalación Belisario|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0117|Urbano|03
+44330|San Marcos Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0121|Urbano|03
+44330|Vicente Guerrero|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|3219|Urbano|03
+44330|San Marcos Poniente|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|4922|Urbano|03
+44340|Independencia Oriente|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44381|14|44381||21|039|0124|Urbano|03
+44350|Postes Cuates (Federalismo)|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|0129|Urbano|03
+44350|Santa María|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|0132|Urbano|03
+44350|Santa María Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|5028|Urbano|03
+44350|Lomas Independencia|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|4552|Urbano|03
+44360|La Natividad|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|4945|Urbano|03
+44360|La Perla|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|0133|Urbano|03
+44360|San Juan de Dios|Barrio|Guadalajara|Jalisco|Guadalajara|44381|14|44381||02|039|0135|Urbano|03
+44360|Sagrado Corazón|Barrio|Guadalajara|Jalisco|Guadalajara|44381|14|44381||02|039|4963|Urbano|03
+44370|San Ramón|Barrio|Guadalajara|Jalisco|Guadalajara|44381|14|44381||02|039|4965|Urbano|03
+44370|El Mirador|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|0143|Urbano|03
+44380|San Felipe|Barrio|Guadalajara|Jalisco|Guadalajara|44381|14|44381||02|039|0148|Urbano|03
+44390|Rinconada de Huentitán|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44308|14|44308||21|039|4589|Urbano|03
+44390|Real de Huentitán|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44308|14|44308||12|039|4500|Urbano|03
+44390|Huentitán El Alto|Pueblo|Guadalajara|Jalisco|Guadalajara|44308|14|44308||28|039|0152|Urbano|03
+44390|La Joyita|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0394|Urbano|03
+44390|San Miguel de Huentitán El Alto 3a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0153|Urbano|03
+44390|Balcones de La Joya|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44308|14|44308||21|039|4520|Urbano|03
+44395|INFONAVIT El Verde|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44308|14|44308||31|039|0154|Urbano|03
+44398|Colinas de Huentitán|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0156|Urbano|03
+44399|Dr. Atl|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0157|Urbano|03
+44399|Altavista de Guadalajara|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|4522|Urbano|03
+44399|Villas de La Barranca|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|4523|Urbano|03
+44400|Revolución|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0159|Urbano|03
+44400|La Divina Providencia|Barrio|Guadalajara|Jalisco|Guadalajara|44891|14|44891||02|039|4944|Urbano|03
+44400|Gral. Real|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0158|Urbano|03
+44400|Real|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4959|Urbano|03
+44410|Medrano|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0162|Urbano|03
+44410|La Loma|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0161|Urbano|03
+44419|Hernández Romo|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0163|Urbano|03
+44420|Obrera|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0164|Urbano|03
+44420|Unidad Modelo|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0166|Urbano|03
+44420|Valentín Gómez Farías|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|5032|Urbano|03
+44430|El Periodista|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0170|Urbano|03
+44430|González Gallo|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0168|Urbano|03
+44430|Quinta Velarde|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0171|Urbano|03
+44430|Olímpica|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0169|Urbano|03
+44438|Dólar|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0173|Urbano|03
+44440|El Dean|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0175|Urbano|03
+44440|Valle Del Álamo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0177|Urbano|03
+44440|Ferrocarril|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0176|Urbano|03
+44440|Valle Del Álamo|Ampliación|Guadalajara|Jalisco|Guadalajara|44891|14|44891||38|039|0178|Urbano|03
+44450|Analco|Barrio|Guadalajara|Jalisco|Guadalajara|44891|14|44891||02|039|0180|Urbano|03
+44460|Las Conchas|Barrio|Guadalajara|Jalisco|Guadalajara|44891|14|44891||02|039|0184|Urbano|03
+44460|San Carlos|Barrio|Guadalajara|Jalisco|Guadalajara|44891|14|44891||02|039|0185|Urbano|03
+44460|La Aurora|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0183|Urbano|03
+44467|Rincón de Agua Azul|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0187|Urbano|03
+44469|Barragán y Hernández|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0189|Urbano|03
+44470|Higuerillas 2a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0191|Urbano|03
+44470|La Nogalera|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0192|Urbano|03
+44470|Higuerillas 1a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0190|Urbano|03
+44490|Lázaro Cárdenas|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0195|Urbano|03
+44490|Parque Industrial El Álamo|Zona industrial|Guadalajara|Jalisco|Guadalajara|44891|14|44891||37|039|0196|Urbano|03
+44493|Las Juntas|Colonia|Guadalajara|Jalisco|Guadalajara|45591|14|45591||09|039|5025|Urbano|03
+44500|Residencial Chapalita|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|45042|14|45042||21|039|4570|Urbano|03
+44500|Campo de Polo Chapalita|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|45042|14|45042||21|039|4938|Urbano|03
+44500|Vallarta Sur|Colonia|Guadalajara|Jalisco|Guadalajara|45042|14|45042||09|039|0201|Urbano|03
+44500|Jardines de los Arcos|Colonia|Guadalajara|Jalisco|Guadalajara|45042|14|45042||09|039|0613|Urbano|03
+44500|Arcos Sur|Colonia|Guadalajara|Jalisco|Guadalajara|45042|14|45042||09|039|0197|Urbano|03
+44500|Chapalita|Colonia|Guadalajara|Jalisco|Guadalajara|45042|14|45042||09|039|3743|Urbano|03
+44509|Vallarta Cuauhtémoc|Colonia|Guadalajara|Jalisco|Guadalajara|45042|14|45042||09|039|0203|Urbano|03
+44510|Juan Diego|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|45042|14|45042||21|039|0205|Urbano|03
+44510|Residencial Del Bosque|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|45042|14|45042||21|039|0207|Urbano|03
+44510|Jardines de Plaza Del Sol|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|45042|14|45042||21|039|0204|Urbano|03
+44520|Jardines del Bosque Norte|Colonia|Guadalajara|Jalisco|Guadalajara|45042|14|45042||09|039|4929|Urbano|03
+44520|Jardines del Bosque Centro|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|45042|14|45042||21|039|0209|Urbano|03
+44530|Comercial Abastos|Zona comercial|Guadalajara|Jalisco|Guadalajara|44534|14|44534||33|039|0212|Urbano|03
+44530|Mercado de Abastos|Zona comercial|Guadalajara|Jalisco|Guadalajara|44534|14|44534||33|039|0216|Urbano|03
+44530|Bertha Cuervo de Jaredo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0213|Urbano|03
+44530|Rincón Del Bosque|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0217|Urbano|03
+44530|Margal|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44534|14|44534||31|039|0215|Urbano|03
+44535|Villa La Victoria|Colonia|Guadalajara|Jalisco|Guadalajara|44531|14|44531||09|039|0219|Urbano|03
+44538|Rinconada de La Victoria|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0221|Urbano|03
+44540|Bosques Del Valle|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0224|Urbano|03
+44540|Perla Real|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0009|Urbano|03
+44540|Jardines del Valle|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0225|Urbano|03
+44540|Bosques de La Victoria|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0223|Urbano|03
+44549|Rinconada de La Arboleda|Colonia|Guadalajara|Jalisco|Guadalajara|44534|14|44534||09|039|0226|Urbano|03
+44550|Verde Valle Anexo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0229|Urbano|03
+44550|Verde Valle|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0228|Urbano|03
+44559|Turquesa|Colonia|Guadalajara|Jalisco|Guadalajara|44534|14|44534||09|039|0230|Urbano|03
+44560|Residencial Victoria|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0231|Urbano|03
+44580|Santa Eduwiges|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44534|14|44534||21|039|0234|Urbano|03
+44600|Santa Teresita|Barrio|Guadalajara|Jalisco|Guadalajara|44602|14|44602||02|039|0237|Urbano|03
+44600|Villaseñor|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0238|Urbano|03
+44600|Ladrón de Guevara|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0236|Urbano|03
+44610|Lomas Del Country|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0240|Urbano|03
+44610|Country Club|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0255|Urbano|03
+44619|Villas Del Country|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0241|Urbano|03
+44620|Ayuntamiento|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0243|Urbano|03
+44620|Chapultepec Country|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0244|Urbano|03
+44630|Providencia 1a Secc|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0249|Urbano|03
+44630|Providencia 3a Secc|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0251|Urbano|03
+44630|Providencia 2a Secc|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0250|Urbano|03
+44630|Circunvalación Américas|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0247|Urbano|03
+44635|Rubio y Corona|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0253|Urbano|03
+44638|Providencia 5a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0256|Urbano|03
+44639|Providencia 4a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0257|Urbano|03
+44647|Lomas de Providencia|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0258|Urbano|03
+44648|Italia Providencia|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0259|Urbano|03
+44650|Las Américas|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0261|Urbano|03
+44650|Rojas Ladrón de Guevara|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0262|Urbano|03
+44656|Jesús Garcia|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0263|Urbano|03
+44657|Lomas de Guevara|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0264|Urbano|03
+44658|Italia|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0265|Urbano|03
+44658|Providencia Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|4957|Urbano|03
+44659|Secretaria de Relaciones Exteriores|Gran usuario|Guadalajara|Jalisco|Guadalajara|44602|14|44602||22|039|0267|Urbano|03
+44660|Aldrete|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0268|Urbano|03
+44660|Colomos Providencia|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|5060|Urbano|03
+44660|Villa de los Colomos|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0274|Urbano|03
+44660|Colinas de San Javier|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0270|Urbano|03
+44660|Los Colomos|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0271|Urbano|03
+44665|Rinconada Del Arroyo|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0277|Urbano|03
+44667|Agraria|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0279|Urbano|03
+44668|Vista Del Country|Condominio|Guadalajara|Jalisco|Guadalajara|44602|14|44602||10|039|0280|Urbano|03
+44670|Prados de Providencia|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0285|Urbano|03
+44670|Eulogio Parra|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0282|Urbano|03
+44670|Monraz|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0283|Urbano|03
+44670|Terrazas Monraz|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0287|Urbano|03
+44670|Lomas del Valle|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|4949|Urbano|03
+44678|Lomas Santa Rita|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0288|Urbano|03
+44679|Circunvalación Sarcófago|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0289|Urbano|03
+44680|Residencial Juan Manuel|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0292|Urbano|03
+44680|Circunvalación Vallarta|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0291|Urbano|03
+44680|Circunvalación Guevara|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0290|Urbano|03
+44689|Terranova|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0293|Urbano|03
+44690|Villa Santa Rita|Colonia|Guadalajara|Jalisco|Guadalajara|44602|14|44602||09|039|0715|Urbano|03
+44690|Vallarta Norte|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0296|Urbano|03
+44690|Vallarta San Lucas|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0298|Urbano|03
+44690|Vallarta San Jorge|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0297|Urbano|03
+44690|Rinconada Santa Rita|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44602|14|44602||21|039|0295|Urbano|03
+44700|Guadalajara Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0300|Urbano|03
+44700|Santa Cecilia 2a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|5058|Urbano|03
+44700|Santa Cecilia 3a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|5059|Urbano|03
+44700|Unidad Río Verde|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44721|14|44721||31|039|0309|Urbano|03
+44700|Río Verde Oblatos|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|4962|Urbano|03
+44700|Oblatos|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0301|Urbano|03
+44700|Santa Rosa|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0307|Urbano|03
+44700|Santa Cecilia 1a. sección|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0306|Urbano|03
+44710|Popular|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0303|Urbano|03
+44710|San Martín|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0313|Urbano|03
+44710|San Martín Anexo|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0315|Urbano|03
+44710|Santos Degollado|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44731|14|44731||31|039|0316|Urbano|03
+44716|Circunvalación Oblatos|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0318|Urbano|03
+44719|Ampliación Talpita|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|5023|Urbano|03
+44719|Talpita Poniente|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|4930|Urbano|03
+44719|Talpita Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44381|14|44381||09|039|0321|Urbano|03
+44720|Bethel|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44721|14|44721||21|039|0325|Urbano|03
+44720|San José Río Verde 2a. Sección|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44721|14|44721||21|039|0330|Urbano|03
+44720|Arandas|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44721|14|44721||31|039|0323|Urbano|03
+44720|Lomas de Oblatos 1a Secc|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44721|14|44721||21|039|0328|Urbano|03
+44720|Villas de Guadalupe|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|4558|Urbano|03
+44720|Lomas de San Eugenio|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44721|14|44721||21|039|0331|Urbano|03
+44720|Heliodoro Hernández Loza 1a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0326|Urbano|03
+44720|Heliodoro Hernández Loza 2a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0327|Urbano|03
+44720|Balcones de Oblatos|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0324|Urbano|03
+44720|Lomas de Oblatos 2a Secc|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44721|14|44721||21|039|0329|Urbano|03
+44723|Plutarco Elias Calles 1|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0333|Urbano|03
+44724|San Eugenio|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0355|Urbano|03
+44724|San Eugenio|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44721|14|44721||31|039|0334|Urbano|03
+44725|Plutarco Elias Calles 2|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44721|14|44721||31|039|0335|Urbano|03
+44726|San José Río Verde 1a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0336|Urbano|03
+44727|Tetlán Rio Verde|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44721|14|44721||31|039|0337|Urbano|03
+44729|Jardines de La Barranca|Colonia|Guadalajara|Jalisco|Guadalajara|44721|14|44721||09|039|0338|Urbano|03
+44729|Residencial de La Barranca|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44721|14|44721||21|039|4960|Urbano|03
+44730|Rinconada San Andres Poniente|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0004|Urbano|03
+44730|Progreso|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0342|Urbano|03
+44730|San Juan Bosco|Barrio|Guadalajara|Jalisco|Guadalajara|44731|14|44731||02|039|0343|Urbano|03
+44730|Blanco y Cuellar 2da.|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|5026|Urbano|03
+44730|Blanco y Cuellar 3ra.|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|5027|Urbano|03
+44730|Antigua Penal de Oblatos|Barrio|Guadalajara|Jalisco|Guadalajara|44731|14|44731||02|039|0341|Urbano|03
+44730|El Porvenir Unidad Hogar|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44731|14|44731||31|039|0362|Urbano|03
+44730|Blanco y Cuellar 1ra.|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0339|Urbano|03
+44737|Los Mártires|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|4950|Urbano|03
+44739|Las Huertas|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0349|Urbano|03
+44740|Industria|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44731|14|44731||31|039|0350|Urbano|03
+44740|Jardines de Guadalupe|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0351|Urbano|03
+44740|San Isidro|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0356|Urbano|03
+44740|Potrero Alto|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0353|Urbano|03
+44748|Esteban Alatorre|Colonia|Guadalajara|Jalisco|Guadalajara|44731|14|44731||09|039|0357|Urbano|03
+44750|Cuauhtémoc INFONAVIT|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0361|Urbano|03
+44750|Barajas Villaseñor San Pablo|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0359|Urbano|03
+44750|Libertad|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0364|Urbano|03
+44750|Santa María de Silo|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0368|Urbano|03
+44750|Cuauhtémoc Popular|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0360|Urbano|03
+44755|Rinconada San Andres|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0369|Urbano|03
+44755|El Porvenir Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|4939|Urbano|03
+44757|Los Romo|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0371|Urbano|03
+44760|Lomas Del Gallo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44761|14|44761||21|039|0376|Urbano|03
+44760|Miguel Hidalgo|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0375|Urbano|03
+44760|Ramón López Velarde|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0378|Urbano|03
+44760|Pablo Valdez|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0377|Urbano|03
+44760|Los Tulipanes|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|3220|Urbano|03
+44760|El Zalate|Pueblo|Guadalajara|Jalisco|Guadalajara|44761|14|44761||28|039|0373|Urbano|03
+44760|Beatriz Hernández|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0372|Urbano|03
+44765|Pablo Valdez|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||12|039|0383|Urbano|03
+44765|Pablo Valdez|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|5063|Urbano|03
+44765|Ampliación Provincia|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|4932|Urbano|03
+44766|Los Arrayanes|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0384|Urbano|03
+44766|Rinconada del Valle|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44761|14|44761||21|039|4961|Urbano|03
+44768|Joaquín Aarón|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0386|Urbano|03
+44769|La Campesina|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0387|Urbano|03
+44770|Lagos de Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0389|Urbano|03
+44770|San Joaquín|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0392|Urbano|03
+44770|Hermosa Provincia|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0388|Urbano|03
+44770|INFONAVIT Benito Juárez|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0390|Urbano|03
+44770|Benito Juárez|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0391|Urbano|03
+44770|Lagos de Oriente 2a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|4946|Urbano|03
+44780|San Miguel de Huentitán El Alto 2a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44308|14|44308||09|039|0393|Urbano|03
+44790|Versalles|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||12|039|5033|Urbano|03
+44790|Jardines de San Francisco|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44761|14|44761||21|039|0397|Urbano|03
+44790|La Florida|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0399|Urbano|03
+44790|Agustín Yánez|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0395|Urbano|03
+44790|La Aurora|Colonia|Guadalajara|Jalisco|Guadalajara|44761|14|44761||09|039|0398|Urbano|03
+44790|Lagos de Oriente|Ampliación|Guadalajara|Jalisco|Guadalajara|44761|14|44761||38|039|0400|Urbano|03
+44799|Javier Mina|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44761|14|44761||31|039|0403|Urbano|03
+44800|San Antonio|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0408|Urbano|03
+44800|Magaña|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0405|Urbano|03
+44810|Europa|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0006|Urbano|03
+44810|INFONAVIT San Rafael|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0421|Urbano|03
+44810|San Rafael|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0422|Urbano|03
+44810|Lomas de Revolución|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|5024|Urbano|03
+44810|San Andrés|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0418|Urbano|03
+44810|San Rafael|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0420|Urbano|03
+44810|Hormiguero|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0413|Urbano|03
+44810|San Andrés 1a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|5056|Urbano|03
+44810|Electricistas|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0404|Urbano|03
+44810|San Andrés Gigantes|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0419|Urbano|03
+44810|Residencial San Andrés|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0416|Urbano|03
+44810|San Andrés 2a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|5057|Urbano|03
+44810|Residencial Del Parque|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0415|Urbano|03
+44815|Jardines de los Escritores|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0425|Urbano|03
+44817|San Rafael 2|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||12|039|0426|Urbano|03
+44818|Plan de Ayala|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0427|Urbano|03
+44820|Dioses Del Nilo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|4559|Urbano|03
+44820|Tetlán II|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|5031|Urbano|03
+44820|Insurgentes 2a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0432|Urbano|03
+44820|Insurgentes La Presa|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4942|Urbano|03
+44820|Jardines de los Historiadores|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0434|Urbano|03
+44820|Jardines de los Poetas|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0435|Urbano|03
+44820|Parques Del Nilo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|3747|Urbano|03
+44820|2001|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|5022|Urbano|03
+44820|Tetlán I|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|5030|Urbano|03
+44820|Aldama Tetlán|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0429|Urbano|03
+44820|Insurgentes 3a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0433|Urbano|03
+44820|Los Obeliscos|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0436|Urbano|03
+44820|Insurgentes 1a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0431|Urbano|03
+44820|Villas de la Presa|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|5035|Urbano|03
+44820|Tetlán|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0437|Urbano|03
+44824|Villas Del Nilo|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0438|Urbano|03
+44824|Florencia|Conjunto habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||12|039|4076|Urbano|03
+44825|Popular Hornos|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4956|Urbano|03
+44825|Parques de San Pedro|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4074|Urbano|03
+44827|El Barro|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0441|Urbano|03
+44828|Las Piedrotas|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0442|Urbano|03
+44828|Vistas del Nilo|Condominio|Guadalajara|Jalisco|Guadalajara|44891|14|44891||10|039|4167|Urbano|03
+44829|Cantarranas|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0443|Urbano|03
+44840|Lomas Del Paradero|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0445|Urbano|03
+44840|Sutaj|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0447|Urbano|03
+44840|Universitaria|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0448|Urbano|03
+44840|Prados Del Nilo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0446|Urbano|03
+44840|Ciudad Universitaria|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0444|Urbano|03
+44860|Jardines del Nilo Norte|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0454|Urbano|03
+44860|La Paz|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4075|Urbano|03
+44860|Jardines de La Paz Norte|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0451|Urbano|03
+44860|Jardines del Nilo|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0452|Urbano|03
+44860|Vicente Guerrero|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0455|Urbano|03
+44860|El Manantial|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0550|Urbano|03
+44860|Jardines de La Paz|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0450|Urbano|03
+44860|Jardines del Nilo Sur|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|0453|Urbano|03
+44870|Atlas|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|4924|Urbano|03
+44870|Atlas Poniente|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|4935|Urbano|03
+44870|Atlas|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0458|Urbano|03
+44870|Atlas 2a. Sección|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44891|14|44891||21|039|4934|Urbano|03
+44879|Arandas|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0460|Urbano|03
+44890|Jardines Del Rosario|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0462|Urbano|03
+44890|Rancho Blanco Álamo|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4958|Urbano|03
+44890|Rancho Blanco|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0464|Urbano|03
+44890|Reforma|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0465|Urbano|03
+44890|El Rosario|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|4940|Urbano|03
+44895|El Mirador Álamo|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0466|Urbano|03
+44896|Orozco El Mirador|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0467|Urbano|03
+44897|Lomas de San Pedro|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0468|Urbano|03
+44898|El Rosario|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44891|14|44891||31|039|0469|Urbano|03
+44899|Bosques Del Boulevard|Colonia|Guadalajara|Jalisco|Guadalajara|44891|14|44891||09|039|0470|Urbano|03
+44900|Del Fresno 2a. sección|Colonia|Guadalajara|Jalisco|Guadalajara|44921|14|44921||09|039|4925|Urbano|03
+44900|Del Fresno 1a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44921|14|44921||09|039|0472|Urbano|03
+44910|Morelos|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0479|Urbano|03
+44910|8 de Julio|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0480|Urbano|03
+44910|Tepopote|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0482|Urbano|03
+44918|Mariano Matamoros|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44943|14|44943||31|039|0483|Urbano|03
+44919|Tepopote Oeste|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0484|Urbano|03
+44920|Las Torres|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0488|Urbano|03
+44920|Colón|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0485|Urbano|03
+44920|Villa La Cruz|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0490|Urbano|03
+44920|Del Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44921|14|44921||09|039|0487|Urbano|03
+44929|Del Sur|Ampliación|Guadalajara|Jalisco|Guadalajara|44921|14|44921||38|039|0492|Urbano|03
+44930|Colón Industrial|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44943|14|44943||21|039|0493|Urbano|03
+44940|Bienestar Social|Zona industrial|Guadalajara|Jalisco|Guadalajara|44943|14|44943||37|039|0494|Urbano|03
+44940|Zona Industrial|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44943|14|44943||21|039|0495|Urbano|03
+44948|Villa Hermosa|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0498|Urbano|03
+44949|Zona Industrial 2a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0499|Urbano|03
+44950|Jardines de La Cruz 1a. Sección|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0500|Urbano|03
+44950|Jardines Del Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44921|14|44921||09|039|4166|Urbano|03
+44950|Jardines de La Cruz 2a. Sección|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0501|Urbano|03
+44950|Jardines de San José|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0502|Urbano|03
+44950|Residencial La Cruz|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44921|14|44921||21|039|0505|Urbano|03
+44956|Villas del Sur 1|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44921|14|44921||31|039|0507|Urbano|03
+44956|Villas del Sur 2|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44921|14|44921||31|039|4926|Urbano|03
+44959|Villas Jardín|Colonia|Guadalajara|Jalisco|Guadalajara|44921|14|44921||09|039|0508|Urbano|03
+44960|López Portillo|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0532|Urbano|03
+44960|18 de Marzo|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44943|14|44943||31|039|0510|Urbano|03
+44960|Lomas de Polanco|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0511|Urbano|03
+44960|Polanco Oriente|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|4955|Urbano|03
+44966|Patria Nueva|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0514|Urbano|03
+44967|Patria|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0516|Urbano|03
+44969|Polanquito|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0518|Urbano|03
+44970|Zona Industrial 3a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|5037|Urbano|03
+44970|5 de Mayo 2a Secc|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0520|Urbano|03
+44970|Echeverría 1a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0521|Urbano|03
+44970|Zona Industrial 1a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|5036|Urbano|03
+44970|1 de Mayo|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0524|Urbano|03
+44970|Echeverría 3a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|4928|Urbano|03
+44970|5 de Mayo|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0519|Urbano|03
+44970|Francisco Villa|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0522|Urbano|03
+44970|José Clemente Orozco|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44943|14|44943||31|039|0523|Urbano|03
+44970|Echeverría 2a. Sección|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|4927|Urbano|03
+44977|Valentín Gómez Farias|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0525|Urbano|03
+44977|El Rocio|Fraccionamiento|Guadalajara|Jalisco|Guadalajara|44943|14|44943||21|039|4079|Urbano|03
+44977|Vistas Del Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|4300|Urbano|03
+44978|Las Palmas|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|0526|Urbano|03
+44980|El Carmen|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0529|Urbano|03
+44980|Nueva España|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0534|Urbano|03
+44980|Arboledas Del Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0528|Urbano|03
+44980|Los Colorines|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0533|Urbano|03
+44980|Emiliano Zapata|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0530|Urbano|03
+44980|Lázaro Cárdenas Sur|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0531|Urbano|03
+44980|Nueva Santa María|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|4953|Urbano|03
+44984|Balcones Del 4|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0538|Urbano|03
+44985|Revolucionaria|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0540|Urbano|03
+44986|Loma Linda|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0541|Urbano|03
+44986|Lomas Del Pedregal|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0542|Urbano|03
+44987|Parques de Colón Sección 2|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|4491|Urbano|03
+44987|Jardines El Sauz|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|4632|Urbano|03
+44987|El Sauz INFONAVIT|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44981|14|44981||31|039|0544|Urbano|03
+44987|Villa Vicente Guerrero|Colonia|Guadalajara|Jalisco|Guadalajara|44981|14|44981||09|039|0545|Urbano|03
+44989|Colón C.R.O.C.|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44921|14|44921||31|039|0547|Urbano|03
+44990|Terralta|Colonia|Guadalajara|Jalisco|Guadalajara|44943|14|44943||09|039|4562|Urbano|03
+44990|Miravalle|Unidad habitacional|Guadalajara|Jalisco|Guadalajara|44943|14|44943||31|039|0551|Urbano|03

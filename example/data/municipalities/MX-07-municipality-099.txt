@@ -1,0 +1,34 @@
+30160|Álvaro Obregón|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1149|Rural|
+30160|Allende|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1150|Rural|
+30160|Rodolfo Figueroa|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1160|Rural|
+30160|Tziscao|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1162|Rural|
+30160|Copalar|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1987|Rural|
+30160|José María Morelos|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1155|Rural|
+30160|La Esperanza|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1156|Rural|
+30160|Lázaro Cárdenas|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1158|Rural|
+30160|Porvenir Agrarista|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1159|Rural|
+30160|Chihuahua|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1152|Rural|
+30160|Hidalgo|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1154|Rural|
+30160|Vicente Guerrero|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1163|Rural|
+30160|Las delicias|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1157|Rural|
+30160|Santa Rita|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1161|Rural|
+30160|Pozo Blanco|Barrio|La Trinitaria|Chiapas||30001|07|30001||02|099|5547|Rural|
+30160|Angel Albino Corzo|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1151|Rural|
+30160|El Progreso|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1153|Rural|
+30160|Villa La Trinitaria|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|1164|Rural|
+30162|Unión Juárez|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1169|Rural|
+30162|Juncana|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1167|Rural|
+30162|San Diego|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1168|Rural|
+30163|Las Cumbres|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1170|Rural|
+30164|San Pedro el Porvenir|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|5800|Rural|
+30165|El Paraíso|Ejido|La Trinitaria|Chiapas||30001|07|30001||15|099|2942|Rural|
+30165|Guadalupe El Zapote|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1172|Rural|
+30165|San Juan del Valle|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1173|Rural|
+30165|Flor de Mayo|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1165|Rural|
+30165|Juan Sabinez Gutiérrez|Ejido|La Trinitaria|Chiapas||30001|07|30001||15|099|5602|Rural|
+30165|Nuevo Llano Grande|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1166|Rural|
+30166|San Pablo|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|0002|Rural|
+30166|Trece de Septiembre|Ejido|La Trinitaria|Chiapas||30001|07|30001||15|099|0004|Rural|
+30166|Francisco Villa|Pueblo|La Trinitaria|Chiapas||30001|07|30001||28|099|0001|Rural|
+30167|Tres Arbolitos|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|0003|Rural|
+30168|San Antonio Tzalani|Ranchería|La Trinitaria|Chiapas||30001|07|30001||29|099|1174|Rural|

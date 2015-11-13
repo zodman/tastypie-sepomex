@@ -1,0 +1,58 @@
+94450|Potrerillo|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||02|085|2891|Rural|
+94450|Escamela|Ranchería|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||29|085|2889|Rural|
+94450|Del Santísimo|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||02|085|4617|Rural|
+94450|San Lorenzo|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||09|085|4618|Rural|
+94450|Vista Hermosa|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2890|Rural|
+94452|Moyoapan|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2893|Rural|
+94452|Chiltepec|Ejido|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||15|085|2895|Rural|
+94452|Sumidero|Ejido|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||15|085|2897|Rural|
+94453|Buenavista|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2894|Rural|
+94453|Jose Maria Morelos|Ejido|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||15|085|2886|Rural|
+94454|Ex-Hacienda Tuxpango|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2906|Rural|
+94454|Zacatla|Congregación|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||11|085|6085|Rural|
+94454|Barrio San Isidro|Ranchería|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||29|085|2901|Rural|
+94454|Tuxpanguillo|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2907|Rural|
+94454|Rincón de Maravillas|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||09|085|6868|Rural|
+94455|Cuautlapan|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2892|Rural|
+94456|Zoquitlán Viejo|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2887|Rural|
+94456|Campo Grande|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||02|085|2898|Rural|
+94457|Campo Chico|Ranchería|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||29|085|2900|Rural|
+94457|Capoluca|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||28|085|2899|Rural|
+94458|Cumbres de Tuxpango|Ranchería|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||29|085|2904|Rural|
+94459|La Cadena|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave||94301|30|94301||02|085|5417|Rural|
+94460|Empleados Kcm|Fraccionamiento|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||21|085|4612|Semiurbano|29
+94460|El Calvario|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||02|085|4608|Semiurbano|29
+94460|De La Luz|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||02|085|4756|Semiurbano|29
+94460|Ixtaczoquitlan Centro|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|2885|Semiurbano|29
+94460|La Luz|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|4607|Semiurbano|29
+94460|La Santísima|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||02|085|4610|Semiurbano|29
+94460|Kimberly|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|4611|Semiurbano|29
+94460|San Jose|Barrio|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||02|085|4609|Semiurbano|29
+94460|Villas de Ixtac|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|6531|Semiurbano|29
+94462|Potrerillo 2|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|4757|Semiurbano|29
+94462|Lagunilla|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4761|Semiurbano|29
+94462|Dos Arroyos|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4763|Semiurbano|29
+94462|Potrerillo 1|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|4759|Semiurbano|29
+94462|Lomas Altas|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|7150|Urbano|29
+94462|Potrerillo 3 El Bosque|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|4619|Semiurbano|29
+94462|Chiltepec|Ejido|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||15|085|4760|Semiurbano|29
+94463|El Guayabo|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|0749|Semiurbano|29
+94463|Unión y Progreso|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4758|Semiurbano|29
+94463|Los Cafetales|Fraccionamiento|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||21|085|0001|Urbano|29
+94463|Morelos 2a Sección|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4613|Semiurbano|29
+94463|Jose Maria Morelos|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4754|Rural|29
+94463|Escamela|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4755|Urbano|29
+94463|Agrícola Lezama|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4765|Semiurbano|29
+94463|Morelos 1a Sección|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4614|Semiurbano|29
+94463|Villa Unión|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4615|Semiurbano|29
+94463|27 de Septiembre El Guayabal|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|4616|Semiurbano|29
+94463|Sumidero|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4762|Semiurbano|29
+94463|Buenavista|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4764|Semiurbano|29
+94463|19 de Octubre|Fraccionamiento|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||21|085|7223|Urbano|29
+94464|Barrientos|Colonia|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||09|085|4766|Semiurbano|29
+94464|Campo Chico|Ranchería|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||29|085|4767|Semiurbano|29
+94464|Zapoapan|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||28|085|2902|Semiurbano|29
+94464|Fresnal|Pueblo|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||28|085|2905|Semiurbano|29
+94464|Cuesta del Mexicano|Ranchería|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||29|085|2903|Semiurbano|29
+94465|El Mirador|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|0756|Semiurbano|29
+94465|El Trébol CTM|Unidad habitacional|Ixtaczoquitlán|Veracruz de Ignacio de la Llave|Ixtaczoquitlán|94301|30|94301||31|085|2843|Semiurbano|29

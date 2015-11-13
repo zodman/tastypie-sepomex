@@ -1,0 +1,137 @@
+63300|Los Limos|Fraccionamiento|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||21|015|0956|Semiurbano|01
+63300|Cerro Chico|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0039|Urbano|01
+63300|Santiago Ixcuintla Centro|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0222|Semiurbano|01
+63310|Amado Nervo|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0224|Semiurbano|01
+63311|El Mirador|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0040|Urbano|01
+63311|Infonavit|Unidad habitacional|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||31|015|0225|Semiurbano|01
+63311|Magisterial|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0042|Urbano|01
+63311|Ramón López Velarde|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0041|Urbano|01
+63311|Universidad|Fraccionamiento|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||21|015|0043|Urbano|01
+63312|Independencia|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0226|Semiurbano|01
+63313|CTM|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0227|Semiurbano|01
+63320|Obrera|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0228|Semiurbano|01
+63321|Flores Magón|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0229|Semiurbano|01
+63330|Los Hornos|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|1004|Semiurbano|01
+63330|19 de Septiembre|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|1005|Semiurbano|01
+63330|Cuauhtémoc|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0230|Semiurbano|01
+63340|Nuevo México|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0231|Semiurbano|01
+63340|La Quinta|Fraccionamiento|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||21|015|0012|Urbano|01
+63341|Las Flores|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0013|Urbano|01
+63341|Primero de Enero|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0232|Semiurbano|01
+63350|Juárez|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0233|Semiurbano|01
+63351|12 de Octubre|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0234|Semiurbano|01
+63352|Luís Donaldo Colosio|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0014|Urbano|01
+63352|Villas de Ixcuintla|Fraccionamiento|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||21|015|0015|Urbano|01
+63352|Los Pinos|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0235|Semiurbano|01
+63360|Cerro Grande|Colonia|Santiago Ixcuintla|Nayarit|Santiago Ixcuintla|63301|18|63301||09|015|0236|Semiurbano|01
+63380|Yago Estación|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0451|Rural|
+63380|La Cruz|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0017|Rural|
+63380|Campo 7|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0016|Rural|
+63383|Pantano Grande|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0439|Rural|
+63384|Emerita|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0444|Rural|
+63384|Las Parejas|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0447|Rural|
+63384|Caramota|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0024|Rural|
+63384|Acaponetilla|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0440|Rural|
+63384|Redención|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0450|Rural|
+63384|Corral de Piedra|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0442|Rural|
+63385|El Manguito|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0022|Rural|
+63385|Acatán de las Piñas|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0441|Rural|
+63385|Hacienda Vieja|Pueblo|Santiago Ixcuintla|Nayarit||63301|18|63301||28|015|0445|Rural|
+63385|Paso Real de Cahuipa|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0449|Rural|
+63385|Las Higueras|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0035|Rural|
+63385|El Cantón de Lozada|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0443|Rural|
+63386|El Colomo|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0452|Rural|
+63550|Leyes de Reforma|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0008|Urbano|08
+63550|Crispín Duran Z|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0877|Semiurbano|08
+63550|Roma|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0878|Semiurbano|08
+63550|Las Colonias|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0009|Urbano|08
+63550|Emiliano Zapata|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0875|Semiurbano|08
+63550|Benito Juárez|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0879|Semiurbano|08
+63550|San Martín|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0881|Semiurbano|08
+63550|Santa Cecilia|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0874|Semiurbano|08
+63550|Talpita|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0876|Semiurbano|08
+63550|Miguel Hidalgo|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0007|Urbano|08
+63550|José Martínez Escobedo|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0010|Urbano|08
+63550|Solorceño|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0871|Semiurbano|08
+63550|San Antonio|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0873|Semiurbano|08
+63550|La Nayarita|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0882|Semiurbano|08
+63550|Morelos|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0006|Urbano|08
+63550|Villa Hidalgo Centro|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0409|Semiurbano|08
+63550|Villa de Guadalupe|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0870|Semiurbano|08
+63550|Amado Nervo|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0011|Urbano|08
+63550|San José|Colonia|Santiago Ixcuintla|Nayarit|Villa Hidalgo (El Nuevo)|63551|18|63551||09|015|0880|Semiurbano|08
+63552|Ojos de Agua|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0403|Rural|
+63552|Paredones (La Punta de la Laguna)|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0405|Rural|
+63552|Valle Morelos|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0408|Rural|
+63552|El Novillero|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0400|Rural|
+63552|Emiliano Zapata|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0413|Rural|
+63552|El Puente|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0401|Rural|
+63552|Puerta Azul|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0407|Rural|
+63552|Loma Bonita|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0025|Rural|
+63552|Pozo de Villa|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0436|Rural|
+63553|San Isidro|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0416|Rural|
+63553|Valle Zaragoza|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0417|Rural|
+63553|18 de Septiembre|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|1204|Rural|
+63554|Gavilán Grande|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0414|Rural|
+63554|Amapa|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0418|Rural|
+63554|El Carrizo|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0030|Rural|
+63554|Cerritos|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0399|Rural|
+63555|Marcos Cárdenas|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0001|Urbano|
+63555|Talpita|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0003|Urbano|
+63555|La Presa|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0419|Rural|
+63555|Olímpica|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0002|Urbano|
+63556|Pozo de Ibarra|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0411|Rural|
+63556|El Limón|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0434|Rural|
+63557|El Papalote|Ejido|Santiago Ixcuintla|Nayarit||63551|18|63551||15|015|0020|Rural|
+63558|Vado del Cora|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0029|Rural|
+63558|El Tambor|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0421|Rural|
+63558|Vado del Cora (Estación Pani)|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0404|Rural|
+63559|Crucero de Villa Hidalgo|Paraje|Santiago Ixcuintla|Nayarit||63301|18|63301||45|015|0028|Rural|
+63559|Estación Nanchi (Peñasquillo)|Paraje|Santiago Ixcuintla|Nayarit||63301|18|63301||45|015|0453|Rural|
+63559|Crucero las Higueras|Paraje|Santiago Ixcuintla|Nayarit||63301|18|63301||45|015|0034|Rural|
+63559|Mojarritas|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0448|Rural|
+63559|Parque Industrial El Tizate|Zona industrial|Santiago Ixcuintla|Nayarit||63301|18|63301||37|015|0412|Rural|
+63559|Las Higueras|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0446|Rural|
+63559|Crucero Bonfil|Paraje|Santiago Ixcuintla|Nayarit||63301|18|63301||45|015|0038|Rural|
+63559|Valle Lerma|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0415|Rural|
+63560|Santa Cruz|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0423|Rural|
+63560|La Quinta (El Rancho de la Higuera)|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0036|Rural|
+63561|Sinaloa|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0027|Rural|
+63561|Cañada Grande|Ejido|Santiago Ixcuintla|Nayarit||63201|18|63201||15|015|0023|Rural|
+63561|Mayorquín|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0430|Rural|
+63561|San Andrés|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0427|Rural|
+63561|Rancho Nuevo|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0426|Rural|
+63561|La Higuerita (La Escondida)|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0425|Rural|
+63561|Las Labores|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0429|Rural|
+63562|Puerta de Palapares|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0428|Rural|
+63562|El Famoso|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0032|Rural|
+63563|San Vicente|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0031|Rural|
+63563|Mexcaltitán de Uribe|Pueblo|Santiago Ixcuintla|Nayarit||63201|18|63201||28|015|0422|Rural|
+63563|El Nuevo Mexcaltitán|Ranchería|Santiago Ixcuintla|Nayarit||63201|18|63201||29|015|0033|Rural|
+63564|El Mezcal|Ejido|Santiago Ixcuintla|Nayarit||63201|18|63201||15|015|0431|Rural|
+63565|Los Pérez|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0037|Urbano|
+63565|Aztlán de las Garzas|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0432|Rural|
+63565|4 de Octubre|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0005|Urbano|
+63565|San Miguel Número Dos (El Quemado)|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0019|Rural|
+63565|Campo de los Limones|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0433|Rural|
+63565|Gavilán Chico|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0435|Rural|
+63565|Sentispac|Pueblo|Santiago Ixcuintla|Nayarit||63301|18|63301||28|015|0437|Rural|
+63565|El Estero|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0004|Urbano|
+63567|El Capomal|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0438|Rural|
+63568|Palmar de Cuautla|Ejido|Santiago Ixcuintla|Nayarit||63451|18|63451||15|015|0018|Rural|
+63570|La Guinea|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0021|Rural|
+63570|Sauta|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0455|Rural|
+63573|Boca de Camichin|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0456|Rural|
+63573|Los Corchos|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0464|Rural|
+63573|Playa el Sesteo|Colonia|Santiago Ixcuintla|Nayarit||63301|18|63301||09|015|0026|Rural|
+63573|Toro Mocho|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0465|Rural|
+63575|Patroneño I|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0406|Rural|
+63575|Pueblo Nuevo|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0459|Rural|
+63575|El Botadero|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0458|Rural|
+63576|El Turco|Ranchería|Santiago Ixcuintla|Nayarit||63551|18|63551||29|015|0461|Rural|
+63576|El Corte (El Tuchi)|Ranchería|Santiago Ixcuintla|Nayarit||63551|18|63551||29|015|0454|Rural|
+63577|Puerta de Mangos|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0462|Rural|
+63578|Los Otates|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0457|Rural|
+63578|Cañada del Tabaco|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0460|Rural|
+63578|Santa Rosa|Ranchería|Santiago Ixcuintla|Nayarit||63301|18|63301||29|015|0463|Rural|
+63579|Villa Juárez|Ejido|Santiago Ixcuintla|Nayarit||63301|18|63301||15|015|0466|Rural|

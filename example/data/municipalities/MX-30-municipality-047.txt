@@ -1,0 +1,18 @@
+94140|La Piedad|Fraccionamiento|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||21|047|0005|Urbano|
+94140|Tozongo|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|2686|Rural|
+94140|Chacalapa|Ranchería|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||29|047|7854|Rural|
+94140|Teteltzingo|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|2684|Rural|
+94140|Tetlaxco|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|2685|Rural|
+94140|México|Colonia|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||09|047|0002|Urbano|
+94140|Coscomatepec de Bravo|Pueblo|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||28|047|2682|Rural|
+94140|Xaltenango|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|6078|Rural|
+94140|Xocotla|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|2687|Rural|
+94140|Zacatla|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|2688|Rural|
+94140|Tenixtepec|Congregación|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||11|047|2683|Rural|
+94142|El Cebadal|Rancho|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||48|047|0001|Rural|
+94143|Xalatlaco|Pueblo|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||28|047|0007|Rural|
+94143|Ixtepec|Ranchería|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||29|047|7903|Rural|
+94143|Duraznillo|Ranchería|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||29|047|7139|Rural|
+94144|Cuchapa|Pueblo|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||28|047|0003|Rural|
+94147|Cuiyachapa|Pueblo|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||28|047|0006|Rural|
+94149|Tlamapa|Rancho|Coscomatepec|Veracruz de Ignacio de la Llave||94141|30|94141||48|047|0004|Rural|

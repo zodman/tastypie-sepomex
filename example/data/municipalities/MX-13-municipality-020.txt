@@ -1,0 +1,24 @@
+43330|Hualula (San Juan Hualula)|Pueblo|Eloxochitlán|Hidalgo||43207|13|43207||28|020|1546|Rural|
+43330|Eloxochitlán Centro|Colonia|Eloxochitlán|Hidalgo||43207|13|43207||09|020|1545|Urbano|
+43333|El Calvario|Barrio|Eloxochitlán|Hidalgo||43207|13|43207||02|020|5869|Urbano|
+43333|El Paredón|Barrio|Eloxochitlán|Hidalgo||43207|13|43207||02|020|5868|Urbano|
+43334|La Alameda|Barrio|Eloxochitlán|Hidalgo||43207|13|43207||02|020|5871|Urbano|
+43334|La Fuente|Barrio|Eloxochitlán|Hidalgo||43207|13|43207||02|020|5870|Urbano|
+43335|Almoloya|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5872|Rural|
+43335|Mecapala|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5880|Rural|
+43340|San Miguel Almolón (Almolón)|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|1547|Rural|
+43343|Tepeyica|Pueblo|Eloxochitlán|Hidalgo||43207|13|43207||28|020|1548|Rural|
+43344|San Juan Amajaque|Pueblo|Eloxochitlán|Hidalgo||43207|13|43207||28|020|1549|Rural|
+43344|Metzquititla|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5881|Rural|
+43344|Chacaya|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5873|Rural|
+43344|Otatla|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5882|Rural|
+43344|Patoloya|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5883|Rural|
+43344|El Rancho de Tecuanimito|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5876|Rural|
+43345|San Pedro Gilo (Gilo)|Pueblo|Eloxochitlán|Hidalgo||43207|13|43207||28|020|1550|Rural|
+43346|Tecomate|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5885|Rural|
+43346|Chalmita|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5874|Rural|
+43346|La Ciénega|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5878|Rural|
+43346|Itztacapa|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5877|Rural|
+43347|El Puerto de Jiliapa (El Puerto de Hualula)|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5875|Rural|
+43347|Rincón de Santiago|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5884|Rural|
+43347|La Punta de Hualula (La Punta de Cerro)|Ranchería|Eloxochitlán|Hidalgo||43207|13|43207||29|020|5879|Rural|

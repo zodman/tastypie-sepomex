@@ -1,0 +1,10 @@
+60240|San Lorenzo|Barrio|Charapan|Michoacán de Ocampo||60053|16|60053||02|021|0004|Urbano|
+60240|San Andrés|Barrio|Charapan|Michoacán de Ocampo||60053|16|60053||02|021|0002|Urbano|
+60240|Santo Santiago|Barrio|Charapan|Michoacán de Ocampo||60053|16|60053||02|021|0006|Urbano|
+60240|San Bartolo|Barrio|Charapan|Michoacán de Ocampo||60053|16|60053||02|021|0003|Urbano|
+60240|Charapan|Pueblo|Charapan|Michoacán de Ocampo||60053|16|60053||28|021|1722|Urbano|
+60240|San Miguel|Barrio|Charapan|Michoacán de Ocampo||60053|16|60053||02|021|0005|Urbano|
+60242|Ocumicho|Pueblo|Charapan|Michoacán de Ocampo||59751|16|59751||28|021|1724|Urbano|
+60244|Cocucho|Pueblo|Charapan|Michoacán de Ocampo||60053|16|60053||28|021|1721|Urbano|
+60246|San Felipe de los Herreros|Ranchería|Charapan|Michoacán de Ocampo||60053|16|60053||29|021|1723|Rural|
+60247|Cruz de Piedra|Rancho|Charapan|Michoacán de Ocampo||60053|16|60053||48|021|0001|Rural|

@@ -1,0 +1,49 @@
+79900|El Naranjal (La Ceiba)|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1654|Rural|
+79900|La Joya de Tlaletla|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1656|Rural|
+79900|Ahuehueyo|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|1653|Rural|
+79900|Poxtla|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1655|Rural|
+79900|Xilitla|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|1657|Rural|
+79900|Xilosuchico|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|1658|Rural|
+79901|El Jobo|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|1659|Rural|
+79903|La Conchita|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|2402|Rural|
+79903|Cruztitla|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2627|Rural|
+79903|Huachichila (Barrio los Pocitos)|Pueblo|Xilitla|San Luis Potosí||79902|24|79902||28|054|2834|Rural|
+79904|La Loma|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2753|Rural|
+79904|Itztacapa|Pueblo|Xilitla|San Luis Potosí||79902|24|79902||28|054|2551|Rural|
+79904|Pemoxco|Pueblo|Xilitla|San Luis Potosí||79902|24|79902||28|054|2550|Rural|
+79904|Arroyo Seco|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1661|Rural|
+79905|Cuartillo Nuevo|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2628|Rural|
+79905|San Antonio Xalcuayo 1|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|1662|Rural|
+79906|Puerto Encinal|Colonia|Xilitla|San Luis Potosí||79902|24|79902||09|054|2720|Rural|
+79907|Plan de Júarez|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|2537|Rural|
+79907|San Antonio Xalcuayo 2|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|2538|Rural|
+79907|Tierra Blanca|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|2630|Rural|
+79908|Petatillo|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|1663|Rural|
+79910|Tlamaya|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|1664|Rural|
+79913|El Cañón|Pueblo|Xilitla|San Luis Potosí||79902|24|79902||28|054|2553|Rural|
+79915|San Pedro Huitzquilico|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2625|Rural|
+79915|El Nacimiento|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2668|Rural|
+79916|Peña Blanca|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2629|Rural|
+79917|La Escalera|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2622|Rural|
+79917|La Herradura|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|2535|Rural|
+79917|Chichimixtitla|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2621|Rural|
+79917|Ixtacamel Buenos Aires|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2699|Rural|
+79917|Tlacuapa (Temazcal)|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|2536|Rural|
+79917|Las Crucitas|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2623|Rural|
+79917|Pitzóatl|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2624|Rural|
+79920|Potrerillos|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1668|Rural|
+79920|Soledad de Zaragoza|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1670|Rural|
+79920|Amayo de Zaragoza|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1666|Rural|
+79920|Ahuacatlan|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|1665|Rural|
+79920|San Antonio Huitzquilico|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1669|Rural|
+79920|Xilitlilla|Ejido|Xilitla|San Luis Potosí||79902|24|79902||15|054|1671|Rural|
+79920|Miramar|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1667|Rural|
+79922|Tlamimil|Ejido|Xilitla|San Luis Potosí||79001|24|79001||15|054|2412|Rural|
+79923|La Silleta|Ranchería|Xilitla|San Luis Potosí||79902|24|79902||29|054|1672|Rural|
+79924|Zacatipa|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|1673|Rural|
+79924|El Retén|Colonia|Xilitla|San Luis Potosí||79902|24|79902||09|054|2721|Rural|
+79927|Puerto Tres Cruces (San Antonio Xalcuayo Uno)|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2679|Rural|
+79927|Apetzco|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2618|Rural|
+79927|El Túnel|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2620|Rural|
+79927|Cerro Quebrado|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2619|Rural|
+79928|Rancho Nuevo|Poblado comunal|Xilitla|San Luis Potosí||79902|24|79902||27|054|2626|Rural|

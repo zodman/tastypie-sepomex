@@ -1,0 +1,55 @@
+33270|Santa Isabel Centro|Colonia|Santa Isabel|Chihuahua||31001|08|31001||09|024|1685|Rural|
+33270|Barrio las Colonias|Barrio|Santa Isabel|Chihuahua||31001|08|31001||02|024|4146|Rural|
+33270|La Estación|Colonia|Santa Isabel|Chihuahua||31001|08|31001||09|024|1687|Rural|
+33270|La Frontera|Colonia|Santa Isabel|Chihuahua||31001|08|31001||09|024|7745|Urbano|
+33270|Loma Jaqueña|Colonia|Santa Isabel|Chihuahua||31001|08|31001||09|024|4147|Rural|
+33273|Rancho de Peña|Ejido|Santa Isabel|Chihuahua||31001|08|31001||15|024|1683|Rural|
+33273|El Ranchito|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7751|Rural|
+33273|Boquilla del Río|Barrio|Santa Isabel|Chihuahua||31001|08|31001||02|024|1690|Rural|
+33273|La Higuera|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7760|Rural|
+33273|San Leopoldo|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7782|Rural|
+33273|Santa Sabina|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7784|Rural|
+33273|Fraccionamiento Valle Dorado|Fraccionamiento|Santa Isabel|Chihuahua||31001|08|31001||21|024|7754|Rural|
+33273|Lago de Jacales|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7767|Rural|
+33274|La Frontera|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7759|Rural|
+33274|Rancho Maldonado|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7779|Rural|
+33274|Temporales de Peña (Palomas de Arriba)|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7785|Rural|
+33274|Nuevo Palomas|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|5788|Rural|
+33274|La Tinaja|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7766|Rural|
+33274|La Lengüetita|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7762|Rural|
+33274|El Rincón|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7752|Rural|
+33274|Rancho Piñones|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7781|Rural|
+33274|El Muerto|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7749|Rural|
+33274|Granillas|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7755|Rural|
+33274|Rancho de Duarte|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7778|Rural|
+33274|San Pedro del Pino (El Cuarenta y Cinco)|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7783|Rural|
+33274|Rancho de Rosas|Ejido|Santa Isabel|Chihuahua||31001|08|31001||15|024|1692|Rural|
+33274|Piedras Verdes|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7776|Rural|
+33274|La Lengüeta|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7761|Rural|
+33275|Plan de Iguala (La Tapia)|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|1688|Rural|
+33275|Las Gallinas|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7770|Rural|
+33275|Perales|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7775|Rural|
+33275|El Lugo|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7748|Rural|
+33275|La Noria|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7765|Rural|
+33275|Otra Banda del Río|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7774|Rural|
+33275|Mesa Calderón|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7772|Rural|
+33275|La Baeza|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7756|Rural|
+33275|La Nopalera|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7764|Rural|
+33275|Santa Rosa (Xicoténcatl)|Ejido|Santa Isabel|Chihuahua||31001|08|31001||15|024|1686|Rural|
+33275|El Terrero|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|1689|Rural|
+33275|El Álamo|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7747|Rural|
+33275|La Dalia|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7758|Rural|
+33275|Quiroga|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7777|Rural|
+33276|Chirihuía (San Vicente de Pau)|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7746|Rural|
+33276|Lajas de Abajo|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7768|Rural|
+33276|Santa Ana|Congregación|Santa Isabel|Chihuahua||31001|08|31001||11|024|1691|Rural|
+33276|La Misión|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7763|Rural|
+33276|Los Chirriones|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7771|Rural|
+33276|Rancho Palacio|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7780|Rural|
+33276|Lajas de Arriba|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7769|Rural|
+33276|Ojo de Agua|Barrio|Santa Isabel|Chihuahua||31001|08|31001||02|024|1682|Rural|
+33277|El Pedregal|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7750|Rural|
+33277|La Cruz|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7757|Rural|
+33277|Nopales|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7773|Rural|
+33277|San Miguel de los Anchondo|Ejido|Santa Isabel|Chihuahua||31001|08|31001||15|024|1684|Rural|
+33277|El Tecuán|Ranchería|Santa Isabel|Chihuahua||31001|08|31001||29|024|7753|Rural|

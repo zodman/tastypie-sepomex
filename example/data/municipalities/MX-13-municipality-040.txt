@@ -1,0 +1,85 @@
+42260|La Misión|Pueblo|La Misión|Hidalgo||42202|13|42202||28|040|0338|Urbano|
+42262|El Roa|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2657|Rural|
+42262|Las Fuentes|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4948|Rural|
+42262|Las Adjuntas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4946|Rural|
+42262|Loma de Naranjos|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0340|Rural|
+42262|Loma de Pericón|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2659|Rural|
+42262|Los Naranjos|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2661|Rural|
+42262|Los Castros|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2895|Rural|
+42263|Crucita de Pilas|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2606|Rural|
+42263|Las Pilas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0339|Rural|
+42263|Lagunita de Pilas|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2607|Rural|
+42263|Mesa de Pilas|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2608|Rural|
+42263|Loma de Pilas|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2660|Rural|
+42263|Nogal de Pilas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4955|Rural|
+42263|Escrito de Pilas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4940|Rural|
+42263|La Ladera|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4942|Rural|
+42263|Ocote de Pilas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4957|Rural|
+42264|Álamo de Rancho Viejo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4918|Rural|
+42264|La Culebra|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2609|Rural|
+42264|El Chamal|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2654|Rural|
+42264|Piedra Larga|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4960|Rural|
+42264|Puerto de la Culebra|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2610|Rural|
+42264|Puerto del Aire|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4962|Rural|
+42264|El Paraje|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4937|Rural|
+42265|Encino Largo|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|4939|Rural|
+42265|Puertecito|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4961|Rural|
+42265|Álamo de la Misión|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2653|Rural|
+42265|Aguaje de Cerro Prieto (Los Paredones)|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|4921|Rural|
+42265|Arroyo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4922|Rural|
+42265|El Fresno|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|4930|Rural|
+42265|Tierra Caliente|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4965|Rural|
+42265|Cerro Prieto|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0341|Rural|
+42265|La Mesa del Fresno|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4943|Rural|
+42265|Nogal de Cerro Prieto|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4954|Rural|
+42265|El Balcón|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4928|Rural|
+42265|El Nogalito|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4935|Rural|
+42265|La Palizada|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4944|Rural|
+42266|Cerro Frío|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4924|Rural|
+42266|La Soledad (El Enebro)|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|4945|Rural|
+42266|La Joya|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0342|Rural|
+42266|Palo Hueco|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0343|Rural|
+42266|El Fuste|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4931|Rural|
+42266|San Cristóbal|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0349|Rural|
+42266|Pemuche de Soledad|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4959|Rural|
+42266|Puerto de Naranjos|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0348|Rural|
+42266|La Mora|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2658|Rural|
+42267|Agua Zarca|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4920|Rural|
+42267|Coñe Viejo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0344|Rural|
+42267|Cerro Frío de Rancho Viejo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0346|Rural|
+42267|Rancho Viejo|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2611|Rural|
+42267|Puerto de Piedra|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2835|Rural|
+42267|Loma de Macangui|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4949|Rural|
+42267|Curva de San José|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4926|Rural|
+42267|Macanguí|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0345|Rural|
+42268|El Mexe Chico|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4933|Rural|
+42268|Palo Hueco|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4958|Rural|
+42268|El Mexe Grande|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4934|Rural|
+42268|Mirador de la Culebra|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4953|Rural|
+42268|Jacalilla|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0347|Rural|
+42268|El Llano (Llano de Jacalilla)|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2656|Rural|
+42268|El Rayo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4938|Rural|
+42268|Cuartel de Jacalilla|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4925|Rural|
+42268|Tinaja de Jacalilla|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4966|Rural|
+42273|La Hondura|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2896|Rural|
+42273|Naranjitas|Poblado comunal|La Misión|Hidalgo||42202|13|42202||27|040|2625|Rural|
+42273|El Ocote|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4936|Rural|
+42273|Macojú|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4951|Rural|
+42273|La Ciénega|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0351|Rural|
+42273|Rancho Nuevo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2557|Rural|
+42273|Zipatla|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|2668|Rural|
+42274|Agua Fría Chica|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4919|Rural|
+42274|Las Cañitas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4947|Rural|
+42274|Las Palmitas|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0352|Rural|
+42274|El Hualul|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4932|Rural|
+42274|Tepehuaje|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4964|Rural|
+42274|Nuevo Linares|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4956|Rural|
+42274|El Naranjo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0337|Rural|
+42274|Barbechos|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4923|Rural|
+42274|Puerto del Algodón|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4963|Rural|
+42274|El Algodón|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|0350|Rural|
+42274|El Capulín|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4929|Rural|
+42275|Vega de la Carrera|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4968|Rural|
+42275|Vado Hondo|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4967|Rural|
+42275|Mesa del Huizache|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4952|Rural|
+42275|Damathi|Ranchería|La Misión|Hidalgo||42202|13|42202||29|040|4927|Rural|

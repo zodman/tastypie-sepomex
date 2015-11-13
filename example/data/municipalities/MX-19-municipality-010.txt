@@ -1,0 +1,14 @@
+66550|El Carmen Centro|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|1351|Rural|
+66550|El Mirador|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|5836|Urbano|
+66550|Villas de los Arcos 1er Sector|Fraccionamiento|El Carmen|Nuevo León||65601|19|65601||21|010|4884|Urbano|
+66553|Rincón del Carmen|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|5402|Rural|
+66553|Alianza Real|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|4864|Rural|
+66556|Parque Industrial el Carmen|Zona industrial|El Carmen|Nuevo León||65601|19|65601||37|010|0003|Rural|
+66557|Paseo del Carmen|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|4854|Rural|
+66557|Privadas del Carmen|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|5835|Urbano|
+66559|El Jaral|Hacienda|El Carmen|Nuevo León||65601|19|65601||24|010|1353|Rural|
+66563|Los González|Colonia|El Carmen|Nuevo León||65601|19|65601||09|010|5846|Rural|
+66580|Privadas El Jaral|Fraccionamiento|El Carmen|Nuevo León||65601|19|65601||21|010|0004|Rural|
+66580|El Jaral|Fraccionamiento|El Carmen|Nuevo León||65601|19|65601||21|010|0001|Rural|
+66580|Villas del Jaral|Fraccionamiento|El Carmen|Nuevo León||65601|19|65601||21|010|0002|Rural|
+66583|Buena Vista|Ranchería|El Carmen|Nuevo León||65601|19|65601||29|010|4933|Rural|

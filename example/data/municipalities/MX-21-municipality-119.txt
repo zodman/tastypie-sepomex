@@ -1,0 +1,181 @@
+72803|Rinconada de San Andrés|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6747|Urbano|07
+72803|San Andrés|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6828|Urbano|07
+72803|San Mateo|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6831|Urbano|07
+72803|Rinconada de Atzala|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6680|Urbano|07
+72803|Floral|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6810|Urbano|07
+72803|Los Sapos|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6821|Urbano|07
+72803|Real de Cholula|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6823|Urbano|07
+72803|De San Andrés|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6807|Urbano|07
+72803|Cortijo San Andrés|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6850|Urbano|07
+72803|Quintas de Atzala|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6665|Urbano|07
+72803|Real del Pedregal|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6669|Urbano|07
+72805|San José|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6856|Urbano|07
+72805|Las Cumbres|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6855|Urbano|07
+72805|La Virgen|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6849|Urbano|07
+72805|Lázaro Cárdenas|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6852|Urbano|07
+72805|Paseos de Cholula|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6854|Urbano|07
+72805|Santa Teresa|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6851|Urbano|07
+72805|Villas Lolita|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6853|Urbano|07
+72810|Zona de Profesores|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6848|Urbano|07
+72810|El Puente|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2960|Urbano|07
+72810|Santo Niño|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2963|Urbano|07
+72810|De la Santísima|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2964|Urbano|07
+72810|La Alfonsina|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6038|Urbano|07
+72810|San Juan Aquiahuac|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2967|Urbano|07
+72810|La Aureola|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6812|Urbano|07
+72810|Santa María|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6839|Urbano|07
+72810|Santa Catarina|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2959|Urbano|07
+72810|Santa Teresa|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2958|Urbano|07
+72810|Santiago Xicohtenco|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2966|Urbano|07
+72810|Villa Roma|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|5914|Urbano|07
+72810|Santa María|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|6838|Urbano|07
+72810|San Andrés Cholula|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|0464|Urbano|07
+72810|Las Américas|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2961|Urbano|07
+72810|Futura|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2962|Urbano|07
+72810|Aztlán|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6802|Urbano|07
+72810|Centro|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|0462|Urbano|07
+72810|Bertha|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|3641|Urbano|07
+72810|San Miguel|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|6832|Urbano|07
+72810|Lumaha|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6975|Urbano|07
+72813|Los Encinos|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|2968|Urbano|07
+72813|Campestre Morillotla|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|2970|Urbano|07
+72813|Atzala|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6629|Urbano|07
+72813|Bosques de Morillotla|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6783|Urbano|07
+72813|La Rivera|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2969|Urbano|07
+72813|Los Volcanes|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6658|Urbano|07
+72813|Residencial Rinconada de Morillotla|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6675|Urbano|07
+72813|Morillotla|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6715|Urbano|07
+72813|Rincón de Atzala|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6844|Urbano|07
+72813|La Escondida|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6743|Urbano|07
+72813|Real de San Pedro|Unidad habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||31|119|6765|Urbano|07
+72813|Morillotla|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6660|Urbano|07
+72813|Quintas de Morillotla|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6666|Urbano|07
+72813|Ex-Hacienda de Santa Teresa|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2950|Urbano|07
+72813|Los Arrayanes|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6655|Urbano|07
+72814|Santa Emma|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3560|Urbano|07
+72814|Quetzalli|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3640|Urbano|07
+72814|Residencial Barrio Real|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6671|Urbano|07
+72814|Rincón de las Américas|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6678|Urbano|07
+72814|El Barreal|Unidad habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||31|119|3643|Urbano|07
+72814|Almanares Cholollan|Unidad habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||31|119|6800|Urbano|07
+72814|Jardines de los Cipreses|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6858|Urbano|07
+72814|Joyas Arqueológicas|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|3639|Urbano|07
+72814|San Andrés|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6827|Urbano|07
+72815|Los Potrillos|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6820|Urbano|07
+72815|Guadalupana o Finca San Andrés|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6973|Urbano|07
+72815|San Andresito|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6826|Urbano|07
+72815|Santa María Cuaco|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6842|Urbano|07
+72815|San Miguel|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6833|Urbano|07
+72815|San Pedro Colomoxco|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6976|Urbano|07
+72817|Actipac|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|2971|Urbano|07
+72817|El Arenal|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6809|Urbano|07
+72817|La Magdalena|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6816|Urbano|07
+72817|Maple|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6822|Urbano|07
+72819|Universidad de las Américas|Equipamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||17|119|2972|Urbano|07
+72820|Santa María|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|5860|Urbano|07
+72820|San Bernardino la Trinidad|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|2973|Urbano|07
+72820|Xinacatla|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6847|Urbano|07
+72820|Ciudad Judicial|Equipamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||17|119|3648|Urbano|07
+72820|Rincón de Atlixcayotl|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6676|Urbano|07
+72820|Reserva Territorial Atlixcayotl|Equipamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||17|119|0001|Urbano|07
+72820|San Bernardino Tlaxcalancingo|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|0468|Urbano|07
+72823|Coyotepec|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6804|Urbano|07
+72823|Tepecuitlalpa|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6977|Urbano|07
+72823|Los Cedros|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6819|Urbano|07
+72823|Los Caballos|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6974|Urbano|07
+72823|Cuayantla|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6805|Urbano|07
+72824|Vistas del Ángel|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3537|Urbano|07
+72824|Villas de Morillotla|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3768|Urbano|07
+72824|Universidad del Valle de México|Equipamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||17|119|6766|Urbano|07
+72824|Villas de San Antonio|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6688|Urbano|07
+72824|Arcángeles de Morillotla|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3645|Urbano|07
+72824|Ángeles de Morillotla|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6801|Urbano|07
+72824|Villas Mirage|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6824|Urbano|07
+72824|Arcángeles Xaltepec|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6992|Urbano|07
+72824|Emiliano Zapata|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|0560|Urbano|07
+72824|Las Galvias Residencial|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6636|Urbano|07
+72824|Jardines de San Carlos|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|5915|Urbano|07
+72824|Rivera del Garda|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6682|Urbano|07
+72825|Mayaquen|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3637|Urbano|07
+72825|Santa Fe|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|3816|Urbano|07
+72825|Orión|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|5918|Urbano|07
+72825|Villas Orión|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6403|Urbano|07
+72825|Lyra|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|6599|Urbano|07
+72825|Ex-Hacienda Cortijo de San Martinito|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6626|Urbano|07
+72825|Rincón de Ángeles|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6749|Urbano|07
+72825|Villa de los Ángeles II|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6769|Urbano|07
+72825|San Martinito|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|3817|Urbano|07
+72825|Ángeles|Unidad habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||31|119|6059|Urbano|07
+72825|Oyametl|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6662|Urbano|07
+72825|Rinconada de la Fortuna|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6677|Urbano|07
+72825|San Martinito|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6803|Urbano|07
+72825|Gobernadores|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3535|Urbano|07
+72825|Magisterio 2000 II|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3538|Urbano|07
+72825|Real de Santa Clara I|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3559|Urbano|07
+72825|Real de Santa Clara II|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3563|Urbano|07
+72825|La Fortuna|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|5917|Urbano|07
+72825|Mira|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6745|Urbano|07
+72825|Villas Orión II|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6404|Urbano|07
+72825|La Viga|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3529|Urbano|07
+72825|Villa Floresta|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3530|Urbano|07
+72825|Paseos de San Andrés|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3534|Urbano|07
+72825|El Molinito|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|3647|Urbano|07
+72825|Paseos del Ángel|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2977|Urbano|07
+72825|Atlixcayotl 2000|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2984|Urbano|07
+72825|Molino Viejo|Conjunto habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||12|119|5916|Urbano|07
+72825|Las Mercedes|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6982|Urbano|07
+72825|Villa de los Angeles I|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3431|Urbano|07
+72825|Las Animas|Unidad habitacional|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||31|119|3646|Urbano|07
+72825|Ex-Hacienda Concepción Morillotla|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6625|Urbano|07
+72825|Geovillas Santa Clara Sección I y II|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6693|Urbano|07
+72825|Misión de San Martinito|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6659|Urbano|07
+72826|Parque Veneto|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6724|Urbano|07
+72826|El Deseo|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6620|Urbano|07
+72826|Parque el Cairo|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6721|Urbano|07
+72826|Parque Victoria|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6725|Urbano|07
+72826|Vista Marques|Residencial|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||30|119|6776|Urbano|07
+72826|Parque de la Plata|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6720|Urbano|07
+72826|Parque el Nilo|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6722|Urbano|07
+72826|Puebla Blanca|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6735|Urbano|07
+72826|Parque Terranova|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6723|Urbano|07
+72826|Parque de la Castellana|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6719|Urbano|07
+72828|San Juan|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2978|Urbano|07
+72828|San Luis|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6830|Urbano|07
+72828|Xicotzingo|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6846|Urbano|07
+72828|San Antonio Cacalotepec|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|0475|Urbano|07
+72828|San Diego|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2979|Urbano|07
+72828|Galeotitla|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6811|Urbano|07
+72828|Santa María Acuyah 1|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6841|Urbano|07
+72828|San Miguel|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6835|Urbano|07
+72830|La Vista Contry Club|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2980|Urbano|07
+72830|Lomas de Angelópolis II|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|7495|Urbano|07
+72830|Vista Real|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6690|Urbano|07
+72830|Alta Vista|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6628|Urbano|07
+72830|Vista Real del Sur|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6692|Urbano|07
+72830|Lomas de Angelópolis Privanza|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|3771|Urbano|07
+72830|Valle Real|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6469|Urbano|07
+72830|Rincón de los Reyes|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6679|Urbano|07
+72830|El Secreto|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6633|Urbano|07
+72830|Lomas de Angelópolis|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6643|Urbano|07
+72840|La Misión|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2981|Urbano|07
+72840|San Rafael Comac|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|0465|Rural|07
+72840|Santa María Tonantzintla|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|0471|Rural|07
+72840|San Miguel|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6834|Urbano|07
+72840|Puerta San Rafael|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|6029|Urbano|07
+72840|San Isidro|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|2982|Urbano|07
+72840|La Candelaria|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6813|Urbano|07
+72840|La Purísima|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6817|Urbano|07
+72843|San Diego|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|6829|Rural|07
+72845|Santa Maria Acuyah|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6840|Urbano|07
+72845|Santiago|Fraccionamiento|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||21|119|2965|Urbano|07
+72846|La Purísima|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6818|Urbano|07
+72846|San Pedro|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6836|Urbano|07
+72846|Texcoco|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6845|Urbano|07
+72846|San Francisco Acatepec|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|2983|Urbano|07
+72846|La Candelaria|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6814|Urbano|07
+72848|De Jesús|Barrio|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||02|119|6806|Rural|07
+72848|San Salvador|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6837|Rural|07
+72848|Santo Entierro|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6843|Rural|07
+72848|San Luis Tehuiloyocan|Pueblo|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||28|119|0470|Rural|07
+72848|Eccehomo|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6808|Rural|07
+72848|Saltepehz|Colonia|San Andrés Cholula|Puebla|San Andrés Cholula|72761|21|72761||09|119|6825|Rural|07

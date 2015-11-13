@@ -1,0 +1,11 @@
+48000|Centro Unión de Tula|Colonia|Unión de Tula|Jalisco||48001|14|48001||09|110|2350|Rural|
+48000|Ixtlahuacan de Santiago|Congregación|Unión de Tula|Jalisco||48001|14|48001||11|110|2349|Rural|
+48010|Santa Rosa|Ranchería|Unión de Tula|Jalisco||48001|14|48001||29|110|2352|Rural|
+48017|La Taberna|Ranchería|Unión de Tula|Jalisco||48001|14|48001||29|110|2353|Rural|
+48020|San Clemente|Hacienda|Unión de Tula|Jalisco||48001|14|48001||24|110|2354|Rural|
+48026|La Piñuela|Ejido|Unión de Tula|Jalisco||48001|14|48001||15|110|2355|Rural|
+48030|San Gaspar|Congregación|Unión de Tula|Jalisco||48001|14|48001||11|110|2356|Rural|
+48035|Alcaparrosa|Ranchería|Unión de Tula|Jalisco||48001|14|48001||29|110|2357|Rural|
+48040|San Agustin|Ranchería|Unión de Tula|Jalisco||48541|14|48541||29|110|2358|Rural|
+48047|San Cayetano|Ranchería|Unión de Tula|Jalisco||48001|14|48001||29|110|2359|Rural|
+48048|San Jose de Avila|Ranchería|Unión de Tula|Jalisco||48001|14|48001||29|110|2360|Rural|

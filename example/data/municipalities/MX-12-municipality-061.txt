@@ -1,0 +1,56 @@
+39170|Tixtla de Guerrero Centro|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3659|Semiurbano|27
+39172|Chichipico|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|1195|Semiurbano|27
+39172|La Huerta|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3661|Semiurbano|27
+39172|Rinconada de Santiago|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3886|Semiurbano|27
+39172|Los Amates|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|1467|Semiurbano|27
+39172|De Santiago|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3663|Semiurbano|27
+39172|Emiliano Zapata|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3668|Semiurbano|27
+39172|San Lucas|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3662|Semiurbano|27
+39172|Villita|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3665|Semiurbano|27
+39172|6 de Noviembre|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|4537|Urbano|27
+39172|La Villita|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|1406|Semiurbano|27
+39172|Vicente Guerrero|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3664|Semiurbano|27
+39172|Santa Cruz|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3660|Semiurbano|27
+39172|Tlapochinalapa|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3666|Semiurbano|27
+39173|Adolfo López Mateos|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|1058|Semiurbano|27
+39173|Niños Héroes|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3671|Semiurbano|27
+39173|López Mateos|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3672|Semiurbano|27
+39173|del Camposanto|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3669|Semiurbano|27
+39173|San Antonio|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3670|Semiurbano|27
+39174|Del Santuario|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3675|Semiurbano|27
+39174|La Alameda|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3887|Semiurbano|27
+39174|San Isidro|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3673|Semiurbano|27
+39174|Santuario|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|1656|Semiurbano|27
+39174|Santa Cecilia|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3674|Semiurbano|27
+39175|Antonia Nava de Catalán|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3678|Semiurbano|27
+39175|Ignacio Manuel Altamirano|Fraccionamiento|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||21|061|3683|Semiurbano|27
+39175|San Agustin|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3680|Semiurbano|27
+39175|Jardines de Tixtla|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3682|Semiurbano|27
+39175|San José|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3679|Semiurbano|27
+39175|Luis Donaldo Colosio|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3684|Semiurbano|27
+39175|Ayotzinapa|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3686|Semiurbano|27
+39175|El Calvario|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|1233|Semiurbano|27
+39175|El Palito Verde|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3676|Semiurbano|27
+39175|Del Fortín|Barrio|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||02|061|3681|Semiurbano|27
+39175|Domingo Sanchez|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3685|Semiurbano|27
+39175|Los Manguitos|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3677|Semiurbano|27
+39175|Rinconada del Zapote|Colonia|Tixtla de Guerrero|Guerrero|Tixtla de Guerrero|39171|12|39171||09|061|3885|Semiurbano|27
+39177|El Troncón|Campamento|Tixtla de Guerrero|Guerrero||39171|12|39171||04|061|0299|Rural|
+39178|El Durazno|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0296|Rural|
+39178|El Potrero|Campamento|Tixtla de Guerrero|Guerrero||39171|12|39171||04|061|0300|Rural|
+39179|Zacatzonapa|Campamento|Tixtla de Guerrero|Guerrero||39171|12|39171||04|061|0302|Rural|
+39179|Iyotla|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0301|Rural|
+39180|Atliaca|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0303|Rural|
+39181|Ayotzinapa|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0304|Rural|
+39183|Amoxtepec|Ranchería|Tixtla de Guerrero|Guerrero||39171|12|39171||29|061|0305|Rural|
+39183|Matlalapa|Ranchería|Tixtla de Guerrero|Guerrero||39171|12|39171||29|061|0306|Rural|
+39190|Almolonga|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0307|Rural|
+39190|Zoquiapa|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0308|Rural|
+39190|Barrio Monterrey|Barrio|Tixtla de Guerrero|Guerrero||39171|12|39171||02|061|4546|Rural|
+39193|Acatempa|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0309|Rural|
+39195|Ojitos de Agua|Ejido|Tixtla de Guerrero|Guerrero||39171|12|39171||15|061|0310|Rural|
+39196|Plan de Guerrero|Ranchería|Tixtla de Guerrero|Guerrero||39171|12|39171||29|061|0311|Rural|
+39197|San Juan Omeapa|Ranchería|Tixtla de Guerrero|Guerrero||39171|12|39171||29|061|0312|Rural|
+39198|El Ahuejote|Ranchería|Tixtla de Guerrero|Guerrero||39171|12|39171||29|061|0313|Rural|
+39198|La Estacada|Pueblo|Tixtla de Guerrero|Guerrero||39171|12|39171||28|061|0314|Rural|
+39199|Chilacachapa|Campamento|Tixtla de Guerrero|Guerrero||39171|12|39171||04|061|0315|Rural|

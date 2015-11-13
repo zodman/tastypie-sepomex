@@ -1,0 +1,84 @@
+83400|Cuauhtémoc|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0226|Urbano|01
+83403|Del Río|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0002|Urbano|01
+83419|Campamento|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0231|Urbano|01
+83420|Bellavista|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0232|Urbano|01
+83420|Oasis|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|1988|Urbano|01
+83420|La Mesa|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0234|Urbano|01
+83423|Los Adobes|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0004|Urbano|01
+83430|Los Portales|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0005|Urbano|01
+83430|Alameda|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|1989|Urbano|01
+83430|Industrial|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0238|Urbano|01
+83439|Ruiz Cortines|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0243|Urbano|01
+83440|Sonora|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0250|Urbano|01
+83447|Jalisco|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0255|Urbano|01
+83448|Residencias|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0269|Urbano|01
+83449|Comercial|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0270|Urbano|01
+83450|Diana Residencial|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0003|Urbano|01
+83450|Burócrata|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0277|Urbano|01
+83455|Parque Industrial|Zona industrial|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||37|055|0286|Urbano|01
+83457|Misión Del Sol|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|1994|Urbano|01
+83457|Chula Vista I|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|3252|Urbano|01
+83457|Del Parque|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|3268|Urbano|01
+83457|Chula Vista 2 del Parque|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0001|Urbano|01
+83457|Nuevo Palmira|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|2274|Urbano|01
+83457|Chula Vista III|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|3267|Urbano|01
+83457|La Mesa|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0022|Urbano|01
+83457|Chula Vista II|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|3253|Urbano|01
+83457|Joyas del Parque|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|3269|Urbano|01
+83457|Las Palmas|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|1995|Urbano|01
+83458|Progreso|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0287|Urbano|01
+83459|10 de Abril|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0288|Urbano|01
+83470|Villas del Río|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0008|Urbano|01
+83470|Aviación|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0289|Urbano|01
+83479|Paraiso del Bosque|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0006|Urbano|01
+83479|Aeropuerto|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0294|Urbano|01
+83479|La Grullita|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|2981|Urbano|01
+83480|Del Bosque|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0301|Urbano|01
+83487|Libertad|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0307|Urbano|01
+83488|Mezquite|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0309|Urbano|01
+83489|Federal|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0315|Urbano|01
+83490|Altar|Barrio|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||02|055|0318|Urbano|01
+83496|Villa Las Flores|Fraccionamiento|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||21|055|0007|Urbano|01
+83496|Solidaridad|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0319|Urbano|01
+83497|Reforma|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0320|Urbano|01
+83498|México|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0321|Urbano|01
+83498|Nuevo San Luis|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|1991|Urbano|01
+83499|Villa Colonial|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|1990|Urbano|01
+83499|Campestre|Colonia|San Luis Río Colorado|Sonora|San Luis Río Colorado|83401|26|83401||09|055|0325|Urbano|01
+83500|Luis B. Sánchez|Pueblo|San Luis Río Colorado|Sonora||21724|26|21724||28|055|0334|Urbano|
+83503|Los Olivos|Colonia|San Luis Río Colorado|Sonora||21724|26|21724||09|055|2203|Rural|
+83504|Villa Florida|Colonia|San Luis Río Colorado|Sonora||21724|26|21724||09|055|2205|Rural|
+83510|Nuevo Michoacán (Estación Riíto)|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0344|Rural|
+83510|Mesa Rica Dos|Congregación|San Luis Río Colorado|Sonora||83401|26|83401||11|055|0348|Rural|
+83510|Mesa Rica|Congregación|San Luis Río Colorado|Sonora||83401|26|83401||11|055|0347|Rural|
+83513|Independencia|Congregación|San Luis Río Colorado|Sonora||83401|26|83401||11|055|0333|Rural|
+83513|Agrícola Agros|Equipamiento|San Luis Río Colorado|Sonora||83401|26|83401||17|055|0010|Rural|
+83513|Nuevo Leon|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0339|Rural|
+83513|La Bolsa|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0343|Rural|
+83513|Coahuila|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0345|Rural|
+83513|Río Norte|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|2937|Rural|
+83513|Tsunami|Equipamiento|San Luis Río Colorado|Sonora||83401|26|83401||17|055|0018|Rural|
+83513|Emiliano Zapata|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|2896|Rural|
+83514|Campamento Tornero|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0331|Rural|
+83514|25 de Enero (Productora)|Equipamiento|San Luis Río Colorado|Sonora||83401|26|83401||17|055|0009|Rural|
+83514|El Fronterizo|Congregación|San Luis Río Colorado|Sonora||83401|26|83401||11|055|0332|Rural|
+83514|Lagunitas|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0336|Rural|
+83515|Colonia del Río|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0011|Rural|
+83515|Islita|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0340|Rural|
+83515|El Barrote|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0012|Rural|
+83515|Lagunitas|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0013|Rural|
+83515|El Bordo|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0020|Rural|
+83515|El Cheque Ocho|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|2897|Rural|
+83516|Pozas de Arvizu (La Reserva)|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0021|Rural|
+83516|Moctezuma|Congregación|San Luis Río Colorado|Sonora||83401|26|83401||11|055|0337|Rural|
+83516|Unión King|Equipamiento|San Luis Río Colorado|Sonora||83401|26|83401||17|055|0019|Rural|
+83516|La Azteca|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0330|Rural|
+83516|Campillo|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0342|Rural|
+83517|Ramiro Dunton|Ranchería|San Luis Río Colorado|Sonora||83401|26|83401||29|055|0016|Rural|
+83517|Roberto Tejeda|Ranchería|San Luis Río Colorado|Sonora||83401|26|83401||29|055|0017|Rural|
+83517|Monumentos|Congregación|San Luis Río Colorado|Sonora||83401|26|83401||11|055|0338|Rural|
+83517|La Grullita|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0335|Rural|
+83517|San Luis|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0341|Rural|
+83520|Las Adelitas|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0014|Rural|
+83520|Las Adelitas|Ranchería|San Luis Río Colorado|Sonora||83401|26|83401||29|055|0015|Rural|
+83540|Golfo de Santa Clara|Ejido|San Luis Río Colorado|Sonora||83401|26|83401||15|055|0346|Rural|

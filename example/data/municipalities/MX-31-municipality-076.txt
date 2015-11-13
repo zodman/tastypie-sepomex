@@ -1,0 +1,12 @@
+97820|Tecoh|Estación|Tecoh|Yucatán||97161|31|97161||16|076|0486|Rural|
+97822|Sotuta de Peón|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1422|Rural|
+97822|Oxtapacab|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1420|Rural|
+97822|Itzincab|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1421|Rural|
+97822|Lepan|Hacienda|Tecoh|Yucatán||97161|31|97161||24|076|0485|Rural|
+97823|Sabacchen|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1424|Rural|
+97823|Pixyah|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1425|Rural|
+97823|Chinkilá|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1423|Rural|
+97824|Telchaquillo|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|0487|Rural|
+97824|Mahzucil|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1427|Rural|
+97824|Mayapan|Pueblo|Tecoh|Yucatán||97161|31|97161||28|076|1426|Rural|
+97824|Xcanchakan|Hacienda|Tecoh|Yucatán||97161|31|97161||24|076|0488|Rural|

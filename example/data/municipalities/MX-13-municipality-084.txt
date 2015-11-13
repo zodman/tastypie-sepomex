@@ -1,0 +1,179 @@
+42330|Centro|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0431|Urbano|07
+42332|Solidaridad|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0439|Urbano|07
+42332|Minera|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|2190|Urbano|07
+42332|Llano Norte|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0436|Urbano|07
+42333|Campo Aéreo|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0912|Urbano|07
+42334|Tierras Coloradas|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0449|Urbano|07
+42334|El Sabino|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0001|Urbano|07
+42335|Libramiento|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|5743|Urbano|07
+42335|Cerrito Romero|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0916|Urbano|07
+42335|Minera INFONAVIT|Unidad habitacional|Zimapán|Hidalgo|Zimapan|42331|13|42331||31|084|0972|Urbano|07
+42336|Las Limas|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0448|Urbano|07
+42336|Unidad Deportiva|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|5742|Urbano|07
+42336|Doxthí la Sabina (La Sabina)|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|5744|Urbano|07
+42336|La Llave|Unidad habitacional|Zimapán|Hidalgo|Zimapan|42331|13|42331||31|084|0451|Urbano|07
+42337|Tierra Blanca|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0444|Urbano|07
+42337|La Alberca|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|2093|Urbano|07
+42337|Nueva Reforma|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|5740|Urbano|07
+42337|FAS|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|2919|Urbano|07
+42337|El Calvario|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0450|Urbano|07
+42337|Santa María|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|5741|Urbano|07
+42338|La Reforma|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|1053|Urbano|07
+42339|5o. Batallón de Infanteria|Colonia|Zimapán|Hidalgo|Zimapan|42331|13|42331||09|084|0442|Urbano|07
+42340|Cobrecito|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0457|Rural|
+42340|El Cobre|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0455|Rural|
+42340|Durango|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0454|Rural|
+42340|Los Nogales|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5800|Rural|
+42340|La Tinaja Durango|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5790|Rural|
+42341|La Casota|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5776|Rural|
+42341|Encarnación|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0456|Rural|
+42341|La Manzana|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0463|Rural|
+42342|La Mesa de Camposanto del Oro|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5786|Rural|
+42342|Camposanto del Oro|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0459|Rural|
+42342|San José del Oro (San Vicente)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0464|Rural|
+42342|Los Duraznos|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5798|Rural|
+42342|Los Mármoles|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5799|Rural|
+42342|La Calera|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5775|Rural|
+42342|Puerto de Vigas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5810|Rural|
+42343|El Palmar|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5762|Rural|
+42343|Francisco Villa (Llano Segundo)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2641|Rural|
+42343|El Aguacatal|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2897|Rural|
+42343|El Zapote|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5771|Rural|
+42343|La Mesa|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5785|Rural|
+42343|Coaxithi|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0460|Rural|
+42344|Ex-hacienda la Estancia|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2636|Rural|
+42344|Xindhó Primero|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2898|Rural|
+42344|Maguey Blanco|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5802|Rural|
+42344|Xindhó Guadalupe|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5832|Rural|
+42344|Xindhó San Pedro|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5833|Rural|
+42344|Venustiano Carranza (San Pedro)|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0430|Rural|
+42344|El Sabino|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0445|Rural|
+42344|El Salitre|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0470|Rural|
+42344|El Muhí|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2582|Rural|
+42344|El Dedhó|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5759|Rural|
+42344|El Rancho|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5763|Rural|
+42344|Los Carrizos|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0428|Rural|
+42344|Plutarco Elías Calles (Santiago)|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0468|Rural|
+42344|La Rinconada|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5788|Rural|
+42344|Llano Blanco|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5797|Rural|
+42344|El Tule|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2581|Rural|
+42344|La Barranca del Muhí|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5774|Rural|
+42344|Pueblo Nuevo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5807|Rural|
+42344|Toxhi|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5828|Rural|
+42344|Francisco I. Madero (Guadalupe)|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|0433|Rural|
+42344|Tlalpan|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2637|Rural|
+42344|Tenguedhó|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0429|Rural|
+42344|Puerto de la Estancia|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2687|Rural|
+42344|La Milpota|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5787|Rural|
+42344|Peña Colorada|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5803|Rural|
+42345|Villa Nueva|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2841|Rural|
+42345|Potreritos|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0437|Rural|
+42345|Apezco|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0461|Rural|
+42345|Xodhé|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0441|Rural|
+42345|Codornices|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5753|Rural|
+42345|Garabatos (Garabatos la Estancia)|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5772|Rural|
+42345|Morelos (Trancas)|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0472|Rural|
+42345|La Majada|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5783|Rural|
+42345|Puerto la Palma (Cerrito Enmedio)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5813|Rural|
+42345|Puerto Ingeniero Isidro Díaz|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5812|Rural|
+42345|Las Pilas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5794|Rural|
+42345|Tierras Amarillas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5826|Rural|
+42345|Puerto Xodhe|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5815|Rural|
+42345|Llanitos|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0435|Rural|
+42345|Cajay|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5750|Rural|
+42345|La Ruda|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5789|Rural|
+42346|El Salitre|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5766|Rural|
+42346|San Francisco|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5822|Rural|
+42346|Yerbabuena|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5835|Rural|
+42346|Mezquite Primero|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0434|Rural|
+42346|Las Vegas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5796|Rural|
+42346|Iglesia Vieja|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5773|Rural|
+42346|Puerto Montero|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5814|Rural|
+42346|Verdosas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5830|Rural|
+42346|Tadhé|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0453|Rural|
+42346|La Loma|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5781|Rural|
+42348|Jagüey Colorado|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0458|Rural|
+42348|La Escondida|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5778|Rural|
+42348|Cerro Colorado|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0481|Rural|
+42348|Pelillos|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2664|Rural|
+42348|Maguey Verde|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0462|Rural|
+42350|Doxthí|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0467|Rural|
+42351|Álvaro Obregón (Temuthe)|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0466|Rural|
+42351|Puetzey|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5817|Rural|
+42351|Boñhú|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5746|Rural|
+42351|Lázaro Cárdenas (Remedios)|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0471|Rural|
+42351|El Tathí|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5768|Rural|
+42351|La Tinaja|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0476|Rural|
+42351|El Cuarto|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0469|Rural|
+42351|Cruz Pinta|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5754|Rural|
+42352|San Isidro|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2580|Rural|
+42352|El Cerrote|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0482|Rural|
+42352|Santa Rita|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0486|Rural|
+42353|Puertecito del Megüi|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5808|Rural|
+42353|Sóstenes Vega (Xithá Segundo Cedho)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5818|Rural|
+42353|Cuesta Texquedhó|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5756|Rural|
+42353|San Miguel Tetillas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0485|Rural|
+42353|El Tepozán|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5770|Rural|
+42353|Megüí|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0483|Rural|
+42353|Puerto Juárez|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0484|Rural|
+42353|Xhitá Segundo (San Isidro)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2882|Rural|
+42353|Xhitá Primero|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5831|Rural|
+42354|El Aguacatito|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2579|Rural|
+42354|Tinthé|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2662|Rural|
+42354|La Cebada|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5777|Rural|
+42354|San Francisco Texquedho|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5823|Rural|
+42354|Aguas Blancas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0473|Rural|
+42354|Llano Segundo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0474|Rural|
+42354|El Tepozán|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5769|Rural|
+42354|La Loma|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5780|Rural|
+42354|Tzijay (Emiliano Zapata)|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0475|Rural|
+42354|Taxthó|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0477|Rural|
+42354|Vicente Guerrero (El Tablón)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0478|Rural|
+42354|La Venta de Coaxithi|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5791|Rural|
+42354|La Cruz|Ejido|Zimapán|Hidalgo||42331|13|42331||15|084|5757|Rural|
+42354|La Cruz (Ejido de la Cruz)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2689|Rural|
+42354|Las Pilas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5793|Rural|
+42354|Buenavista|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5749|Rural|
+42354|El Rodeo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5765|Rural|
+42354|Pontihú|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5805|Rural|
+42354|Taxthó|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|5825|Rural|
+42355|San Cristóbal|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5820|Rural|
+42355|Las Adjuntas|Pueblo|Zimapán|Hidalgo||42331|13|42331||28|084|0480|Rural|
+42356|Botha|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5747|Rural|
+42356|Bothiña|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5748|Rural|
+42356|El Carrizal|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5758|Rural|
+42356|La Loma|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5782|Rural|
+42356|Las Piletas|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5795|Rural|
+42356|Xindhó Segundo (Xindhó Saucillo)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5834|Rural|
+42356|Cuesta Blanca|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5755|Rural|
+42356|Changui|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5752|Rural|
+42356|Xajhá|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0440|Rural|
+42356|Tzitzi|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5829|Rural|
+42356|El Saucillo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5767|Rural|
+42356|San Vicente|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0465|Rural|
+42356|El Sauz|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2639|Rural|
+42356|Yethay|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2665|Rural|
+42357|El Organal|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5761|Rural|
+42357|La Estanzuela|Hacienda|Zimapán|Hidalgo||42331|13|42331||24|084|0487|Rural|
+42357|Puerto del Efe|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5811|Rural|
+42357|San Antonio (Cuauhtémoc)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0438|Rural|
+42357|Cazay|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5751|Rural|
+42357|San Miguel|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5824|Rural|
+42357|Pozo Hondo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5806|Rural|
+42357|La Loma|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5779|Rural|
+42357|Los Pilares|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5801|Rural|
+42359|La Ortiga|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0446|Rural|
+42359|San Andrés (Toxthi)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5819|Rural|
+42359|Barrón|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5745|Rural|
+42359|Puerto Zapote (La Nopalera)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5816|Rural|
+42359|Benito Juárez (Detzani)|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0427|Rural|
+42359|El Dedhó|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|0452|Rural|
+42359|El Álamo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|2573|Rural|
+42359|Puerto del Ángel|Poblado comunal|Zimapán|Hidalgo||42331|13|42331||27|084|2638|Rural|
+42359|El Mezquite Segundo|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5760|Rural|
+42359|El Rincón|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5764|Rural|
+42359|La Majada Grande|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5784|Rural|
+42359|Puerto Colorado|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5809|Rural|
+42359|Tolimán|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5827|Rural|
+42359|La Ventolera|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5792|Rural|
+42359|San Felipe|Ranchería|Zimapán|Hidalgo||42331|13|42331||29|084|5821|Rural|

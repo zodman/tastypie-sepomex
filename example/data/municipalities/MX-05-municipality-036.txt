@@ -1,0 +1,41 @@
+27480|Monterrey|Barrio|Viesca|Coahuila de Zaragoza|Viesca|27441|05|27441||02|036|2154|Urbano|21
+27480|La Ermita|Colonia|Viesca|Coahuila de Zaragoza|Viesca|27441|05|27441||09|036|2155|Urbano|21
+27480|Oscar Flores Tapia|Colonia|Viesca|Coahuila de Zaragoza|Viesca|27441|05|27441||09|036|2156|Urbano|21
+27480|La Tapatía|Colonia|Viesca|Coahuila de Zaragoza|Viesca|27441|05|27441||09|036|2153|Urbano|21
+27480|Viesca Centro|Colonia|Viesca|Coahuila de Zaragoza|Viesca|27441|05|27441||09|036|1305|Urbano|21
+27484|Flor de Mayo|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1307|Rural|
+27485|Héroes de Chapultepec (Niños Héroes)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1310|Rural|
+27485|Villa de Bilbao|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1312|Rural|
+27485|La Fe|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1309|Rural|
+27485|Venustiano Carranza (Hacienda de Hornos)|Hacienda|Viesca|Coahuila de Zaragoza||27001|05|27001||24|036|1308|Rural|
+27485|Venustiano Carranza|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1311|Rural|
+27486|San Isidro|Ranchería|Viesca|Coahuila de Zaragoza||27001|05|27001||29|036|1314|Rural|
+27486|Boquilla de las Perlas|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1313|Rural|
+27487|Emiliano Zapata|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1315|Rural|
+27487|Saucillo|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1317|Rural|
+27487|Tierra y Libertad|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1318|Rural|
+27487|Las Margaritas|Ranchería|Viesca|Coahuila de Zaragoza||27001|05|27001||29|036|1316|Rural|
+27488|Nuevo Margaritas|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1321|Rural|
+27488|San Manuel|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1324|Rural|
+27488|Buenavista|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1319|Rural|
+27488|Gabino Vázquez (San Luis)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1320|Rural|
+27488|San Juan de Villanueva (Villanueva)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1323|Rural|
+27488|Nueva Reynosa|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1322|Rural|
+27489|Rosita Cuatro A (Noria los Valero)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1331|Rural|
+27489|Ignacio Zaragoza|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1327|Rural|
+27489|Mieleras|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1329|Rural|
+27489|Río Escondido|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1330|Rural|
+27489|Tejabán de la Rosita|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1332|Rural|
+27489|Gregorio García (El Taconazo)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1326|Rural|
+27489|La Ventana|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1328|Rural|
+27489|Tejabán del Esfuerzo (El Esfuerzo)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1333|Rural|
+27489|Gilita|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1325|Rural|
+27490|San José del Aguaje|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1335|Rural|
+27490|La Mancha|Estación|Viesca|Coahuila de Zaragoza||27001|05|27001||16|036|1334|Rural|
+27494|Bajío de Ahuichila|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1336|Rural|
+27494|Gatas Mochas|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1337|Rural|
+27497|Darías Estación|Zona federal|Viesca|Coahuila de Zaragoza||27001|05|27001||34|036|1338|Rural|
+27498|Darías|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1339|Rural|
+27498|Tanque Aguilereño (El Tanque)|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1340|Rural|
+27499|Punta de Santo Domingo|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1342|Rural|
+27499|La Punta de Santo Domingo|Ejido|Viesca|Coahuila de Zaragoza||27001|05|27001||15|036|1341|Rural|

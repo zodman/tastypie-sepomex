@@ -1,0 +1,22 @@
+20460|Cosío Centro|Colonia|Cosío|Aguascalientes|Cosío|20401|01|20401||09|004|0570|Semiurbano|09
+20462|Luis Donaldo Colosio|Fraccionamiento|Cosío|Aguascalientes|Cosío|20401|01|20401||21|004|0996|Semiurbano|09
+20466|Rancho El Potrerito|Colonia|Cosío|Aguascalientes|Cosío|20401|01|20401||09|004|1294|Urbano|09
+20466|Villas del Potrerito|Fraccionamiento|Cosío|Aguascalientes|Cosío|20401|01|20401||21|004|1151|Urbano|09
+20467|Popular|Fraccionamiento|Cosío|Aguascalientes|Cosío|20401|01|20401||21|004|0999|Semiurbano|09
+20468|Santa Cruz|Colonia|Cosío|Aguascalientes|Cosío|20401|01|20401||09|004|0998|Semiurbano|09
+20469|Mexiquito|Colonia|Cosío|Aguascalientes|Cosío|20401|01|20401||09|004|0997|Semiurbano|09
+20469|Coplamar|Colonia|Cosío|Aguascalientes|Cosío|20401|01|20401||09|004|1149|Urbano|09
+20469|Vista Hermosa|Colonia|Cosío|Aguascalientes|Cosío|20401|01|20401||09|004|1150|Urbano|09
+20470|Soledad de Abajo [Estación de Adames]|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0577|Rural|
+20470|Zacatequillas|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0578|Rural|
+20470|Soledad de Arriba|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0579|Rural|
+20472|El Durazno|Ranchería|Cosío|Aguascalientes||20401|01|20401||29|004|1295|Rural|
+20472|El Durazno|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0574|Rural|
+20472|La Punta|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0575|Rural|
+20472|La Esperanza (El Salerito)|Poblado comunal|Cosío|Aguascalientes||20401|01|20401||27|004|1107|Rural|
+20472|Los Nava|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|1296|Rural|
+20476|El Salero|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0571|Rural|
+20476|Guadalupito|Granja|Cosío|Aguascalientes||20401|01|20401||23|004|0580|Rural|
+20478|El Refugio de Agua Zarca|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0572|Rural|
+20478|El Refugio de Providencia (Providencia)|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0573|Rural|
+20478|Santa María de la Paz|Pueblo|Cosío|Aguascalientes||20401|01|20401||28|004|0581|Rural|

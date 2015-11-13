@@ -1,0 +1,55 @@
+92900|El Águila|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1718|Rural|
+92900|Xocotla|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1727|Rural|
+92900|La Isla|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1720|Rural|
+92900|Rancho Nuevo|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||29|175|1722|Rural|
+92902|Pajaritos|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|2041|Rural|
+92903|San Miguel Mecatepec|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||29|175|1724|Rural|
+92903|Acontitla|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||28|175|0006|Rural|
+92904|Chichicuastla|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||29|175|7939|Rural|
+92904|El Manantial|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||09|175|1854|Rural|
+92904|Enrique Rodriguez Cano|Congregación|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||11|175|1730|Rural|
+92905|La Concepción|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1731|Rural|
+92906|Paso Del Pital|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1732|Rural|
+92907|Úrsulo Galvan|Congregación|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||11|175|1733|Rural|
+92909|Poza Rica (El Tajín)|Aeropuerto|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||01|175|1734|Rural|
+92910|Emiliano Zapata (La Bomba)|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|0005|Rural|
+92910|El Mamey|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1735|Rural|
+92910|Hidalgo|Fraccionamiento|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||21|175|1900|Rural|
+92910|Francisco I. Madero|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||29|175|7366|Rural|
+92911|Nuevo Progreso|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1736|Rural|
+92912|Plan de Ayala|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|1729|Rural|
+92912|Ampliación Plan de Ayala|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5962|Rural|
+92913|Miahuapan|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1721|Rural|
+92916|El Huizotate|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|1719|Rural|
+92917|Sector Cinco|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5684|Urbano|
+92917|Manantial|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5679|Rural|
+92917|Sector Ceiba|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5960|Rural|
+92917|Lindero|Ejido|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||15|175|1973|Rural|
+92917|Sector México|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5961|Rural|
+92917|Sector Cuatro|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|0001|Urbano|
+92917|General Lázaro Cárdenas del Río|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|0004|Rural|
+92917|Sector Pajaritos|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||29|175|5881|Rural|
+92917|Ricardo Flores Magón|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||29|175|1723|Rural|
+92917|Santa Isabel|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5682|Rural|
+92917|Totolapa|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||28|175|1726|Rural|
+92917|Zacate Colorado|Ejido|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||15|175|5680|Rural|
+92917|Dirección de Caminos|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5683|Rural|
+92917|Fredepo|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave||93261|30|93261||09|175|5678|Rural|
+92920|Tierra Blanca|Rancho|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||48|175|0008|Rural|
+92927|Zapotal Santa Cruz|Pueblo|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||28|175|0007|Rural|
+92928|La Pasadita|Ranchería|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||29|175|0002|Rural|
+92929|Chapolhuac|Rancho|Tihuatlán|Veracruz de Ignacio de la Llave||92931|30|92931||48|175|0003|Rural|
+92930|Tihuatlan Centro|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|1725|Semiurbano|55
+92933|Socialistas|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4433|Semiurbano|55
+92933|Unidad Nacional|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4432|Semiurbano|55
+92933|Lázaro Cárdenas|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4434|Semiurbano|55
+92934|Azteca|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4435|Semiurbano|55
+92934|Magisterial|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4510|Semiurbano|55
+92934|San Francisco de Asís|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|7857|Urbano|55
+92935|Cruz Blanca|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4436|Semiurbano|55
+92936|Independencia|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4437|Semiurbano|55
+92936|Benito Juárez|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4438|Semiurbano|55
+92937|Totomoxtte|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4439|Semiurbano|55
+92937|Tepetate|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4440|Semiurbano|55
+92937|Lomas Del Paraíso|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4441|Semiurbano|55
+92937|Lomas Verdes|Colonia|Tihuatlán|Veracruz de Ignacio de la Llave|Tihuatlán|92931|30|92931||09|175|4511|Semiurbano|55

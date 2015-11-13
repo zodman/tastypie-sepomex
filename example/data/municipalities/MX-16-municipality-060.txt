@@ -1,0 +1,18 @@
+59430|La Ermita|Colonia|Numarán|Michoacán de Ocampo||59301|16|59301||09|060|0002|Urbano|
+59430|Pueblo Nuevo|Colonia|Numarán|Michoacán de Ocampo||59301|16|59301||09|060|1216|Urbano|
+59430|Santa Cruz|Colonia|Numarán|Michoacán de Ocampo||59301|16|59301||09|060|0003|Urbano|
+59430|Numarán|Pueblo|Numarán|Michoacán de Ocampo||59301|16|59301||28|060|1215|Urbano|
+59430|25 de Enero|Colonia|Numarán|Michoacán de Ocampo||59301|16|59301||09|060|0001|Urbano|
+59433|Altamira|Rancho|Numarán|Michoacán de Ocampo||59301|16|59301||48|060|0004|Rural|
+59433|La Angostura|Rancho|Numarán|Michoacán de Ocampo||59301|16|59301||48|060|0007|Rural|
+59434|Nuevo Morelos (Colonia Nuevo Morelos)|Rancho|Numarán|Michoacán de Ocampo||59301|16|59301||48|060|0008|Rural|
+59434|El Palmito|Ranchería|Numarán|Michoacán de Ocampo||59301|16|59301||29|060|1211|Rural|
+59434|La Tepuza|Ranchería|Numarán|Michoacán de Ocampo||59301|16|59301||29|060|1213|Rural|
+59434|El Capulín|Rancho|Numarán|Michoacán de Ocampo||59301|16|59301||48|060|0005|Rural|
+59435|El Triunfo|Congregación|Numarán|Michoacán de Ocampo||59301|16|59301||11|060|1212|Rural|
+59436|Jaripitiro|Ranchería|Numarán|Michoacán de Ocampo||59301|16|59301||29|060|1218|Rural|
+59436|San Vicente (Tunas Agrias)|Rancho|Numarán|Michoacán de Ocampo||59301|16|59301||48|060|0009|Rural|
+59438|La Unión (Unión de Guadalupe)|Ranchería|Numarán|Michoacán de Ocampo||59301|16|59301||29|060|1214|Rural|
+59438|Japacurio|Pueblo|Numarán|Michoacán de Ocampo||59301|16|59301||28|060|1219|Rural|
+59438|Cañada de Ramírez|Ranchería|Numarán|Michoacán de Ocampo||59301|16|59301||29|060|1210|Rural|
+59438|El Huizachal (El Cerro)|Rancho|Numarán|Michoacán de Ocampo||59301|16|59301||48|060|0006|Rural|

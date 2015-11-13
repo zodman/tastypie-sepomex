@@ -1,0 +1,42 @@
+59550|El Hurelio|Colonia|Villamar|Michoacán de Ocampo||59555|16|59555||09|104|0002|Urbano|
+59550|Camino Real|Colonia|Villamar|Michoacán de Ocampo||59555|16|59555||09|104|0001|Urbano|
+59550|Villamar|Villa|Villamar|Michoacán de Ocampo||59555|16|59555||32|104|1285|Urbano|
+59550|Lomas de Villamar|Colonia|Villamar|Michoacán de Ocampo||59555|16|59555||09|104|0003|Urbano|
+59552|Cerrito de Cotijarán|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1287|Rural|
+59553|El Platanal|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1288|Urbano|
+59554|Emiliano Zapata|Pueblo|Villamar|Michoacán de Ocampo||59555|16|59555||28|104|1286|Urbano|
+59557|El Salitre|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1283|Rural|
+59557|La Agua Santa|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0010|Rural|
+59557|El Varal|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1284|Rural|
+59560|La Joya de Magallanes|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0012|Rural|
+59560|Las Zarquillas|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1291|Rural|
+59563|Cerrito Colorado|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1292|Rural|
+59566|Nicolás Romero|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|3915|Rural|
+59570|Jaripo|Pueblo|Villamar|Michoacán de Ocampo||59555|16|59555||28|104|1293|Rural|
+59570|Los Granados|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|1294|Rural|
+59573|La Ortiga de San Antonio Guaracha|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0015|Rural|
+59573|San Miguel|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4720|Rural|
+59573|Crucero de San Antonio|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0006|Rural|
+59573|La Raya de San Antonio Guaracha|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4708|Rural|
+59573|Los Ángeles|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0005|Rural|
+59573|San Antonio Guaracha|Hacienda|Villamar|Michoacán de Ocampo||59555|16|59555||24|104|1295|Rural|
+59573|La Presa Nueva|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0017|Rural|
+59574|Las Estacas|Pueblo|Villamar|Michoacán de Ocampo||59555|16|59555||28|104|4062|Rural|
+59574|Estación Guaracha|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0009|Rural|
+59575|El Aguacate|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4926|Rural|
+59575|Coameo Chico|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0004|Rural|
+59576|El Aguate (El Ajuate)|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4736|Rural|
+59576|El Rincón de Jaripo|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0008|Rural|
+59576|La Joya del Aire|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0013|Rural|
+59576|La Ladera|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0014|Rural|
+59577|La Caramicua|Rancho|Villamar|Michoacán de Ocampo||59555|16|59555||48|104|0011|Rural|
+59577|Tumbiscato|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0020|Rural|
+59577|Tarimoro|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0019|Rural|
+59577|Agua Caliente|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4711|Rural|
+59577|La Vinata|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4719|Rural|
+59577|Benito Juárez (San Benito)|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4925|Rural|
+59577|El Tecolote|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4718|Rural|
+59578|El Fresno|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0007|Rural|
+59578|Los Ceja|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0018|Rural|
+59578|La Palmita (La Palma)|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|0016|Rural|
+59578|El Zapotito|Ranchería|Villamar|Michoacán de Ocampo||59555|16|59555||29|104|4804|Rural|

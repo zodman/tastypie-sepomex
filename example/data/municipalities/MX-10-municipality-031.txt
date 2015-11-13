@@ -1,0 +1,45 @@
+35880|Santa Clara Centro|Colonia|Santa Clara|Durango||98331|10|98331||09|031|1785|Semiurbano|
+35883|Las Poanas|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7381|Urbano|
+35883|Las Playas|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7382|Urbano|
+35883|La Loma|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7383|Urbano|
+35884|El Junco|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7384|Urbano|
+35884|El Rancho|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7385|Urbano|
+35885|San Francisco|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7386|Urbano|
+35886|El Epazote (El Ipazote)|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7355|Rural|
+35886|El Rayo|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7356|Rural|
+35886|Las Curvas (El Pozo)|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7371|Rural|
+35886|La Vega|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7369|Rural|
+35886|Edgar Cruz|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7352|Rural|
+35886|Morteros|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7373|Rural|
+35887|San Antonio de la Laguna (La Pequeña)|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7378|Rural|
+35887|San Antonio de la Laguna|Ejido|Santa Clara|Durango||98331|10|98331||15|031|1787|Rural|
+35887|San Antonio de la Laguna (Los Álvarez)|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7379|Rural|
+35887|El Socorro|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7358|Rural|
+35888|San Marcos (24 de Febrero)|Ejido|Santa Clara|Durango||98331|10|98331||15|031|1782|Rural|
+35888|El Cinco|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7354|Rural|
+35890|San José de Flechas|Ejido|Santa Clara|Durango||98331|10|98331||15|031|1786|Rural|
+35893|El Agostadero|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7353|Rural|
+35893|La Tarumala|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7367|Rural|
+35893|La Vuelta del Río|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7370|Rural|
+35893|Piedra Agujerada|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7376|Rural|
+35893|Piedras Negras|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7377|Rural|
+35893|El Torito|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7360|Rural|
+35893|Los Amarillos|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7372|Rural|
+35894|Juventino Casas|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7362|Rural|
+35894|Peñolitos|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7375|Rural|
+35894|El Tepozán (Ramón Carranza)|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7359|Rural|
+35894|La Carreta|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7363|Rural|
+35894|Antonio Puentes|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7349|Rural|
+35894|Colonia el Rosario|Colonia|Santa Clara|Durango||98331|10|98331||09|031|7350|Rural|
+35895|Crucero de Santa Clara|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7351|Rural|
+35895|San Valentín|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7380|Rural|
+35895|Paulino Bonilla|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7374|Rural|
+35895|La Gatuña|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7365|Rural|
+35896|Diez de Abril|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|1783|Rural|
+35896|El Naranjo|Ejido|Santa Clara|Durango||98331|10|98331||15|031|1781|Rural|
+35896|El Nogalito (Nogales)|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|1784|Rural|
+35896|La Tinajita|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7368|Rural|
+35896|La Concepción|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7364|Rural|
+35896|El Siete|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7357|Rural|
+35896|El Zorrillo|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7361|Rural|
+35896|La Noria|Ranchería|Santa Clara|Durango||98331|10|98331||29|031|7366|Rural|

@@ -1,0 +1,43 @@
+45430|La Morita|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1075|Rural|
+45430|El Bajío|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1072|Rural|
+45430|Zapotlanejo|Ciudad|Zapotlanejo|Jalisco||45431|14|45431||08|124|1076|Rural|
+45430|El Ocote de Nuño|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1073|Rural|
+45430|La Ceja|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1074|Rural|
+45430|Grupo de los 100|Zona comercial|Zapotlanejo|Jalisco||45431|14|45431||33|124|4607|Rural|
+45432|Lomas de Huizquilco|Colonia|Zapotlanejo|Jalisco||45431|14|45431||09|124|0001|Urbano|
+45434|Colimilla|Hacienda|Zapotlanejo|Jalisco||45431|14|45431||24|124|1078|Rural|
+45434|El Aguacate|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1079|Rural|
+45435|Matatlan|Pueblo|Zapotlanejo|Jalisco||45431|14|45431||28|124|1081|Rural|
+45435|El Maestranzo 1|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1080|Rural|
+45435|Noxtla|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1082|Rural|
+45436|Los Platos|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1083|Rural|
+45437|Mezquite Grande|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1084|Rural|
+45438|La Laja|Pueblo|Zapotlanejo|Jalisco||45431|14|45431||28|124|1085|Rural|
+45438|Las Americas|Condominio|Zapotlanejo|Jalisco||45431|14|45431||10|124|4608|Rural|
+45439|El Salitre (La Mora)|Pueblo|Zapotlanejo|Jalisco||45431|14|45431||28|124|0002|Rural|
+45439|Cuchillas|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1086|Rural|
+45439|La Mezquitera|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1087|Rural|
+45440|El Saucillo de Maldonado|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1088|Rural|
+45443|Joya Chica|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1090|Rural|
+45443|El Cacalote|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1089|Rural|
+45443|La Purísima|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1091|Rural|
+45444|San Joaquín Zorrillos|Pueblo|Zapotlanejo|Jalisco||45431|14|45431||28|124|0003|Rural|
+45444|Calabozo|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1092|Rural|
+45445|Agua Bermeja|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1093|Rural|
+45445|Joya Del Camino|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1094|Rural|
+45445|San Jose de las Flores|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1095|Rural|
+45446|Tinajeros|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1096|Rural|
+45448|Las Tortugas Del Cacalote|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1097|Rural|
+45450|Tecomatlan|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1098|Rural|
+45452|Buenos Aires|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1099|Rural|
+45452|Cerrito de Buenos Aires|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1100|Rural|
+45453|El Carrizo|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1101|Rural|
+45453|Salto de Coyotes|Hacienda|Zapotlanejo|Jalisco||45431|14|45431||24|124|1102|Rural|
+45454|El Cebadero|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1103|Rural|
+45455|Los Ocotes|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1104|Rural|
+45460|Santa Fe|Pueblo|Zapotlanejo|Jalisco||45431|14|45431||28|124|1105|Rural|
+45462|Agua Escondida|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1106|Rural|
+45463|Escalofrío de Santa Fe|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1107|Rural|
+45464|San Román Corralillos de las Flores|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1108|Rural|
+45465|La Paz (Piedras Negras)|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1109|Rural|
+45466|La Huizachera|Ranchería|Zapotlanejo|Jalisco||45431|14|45431||29|124|1110|Rural|

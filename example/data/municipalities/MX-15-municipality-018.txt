@@ -1,0 +1,44 @@
+52200|Calimaya de Diaz González|Pueblo|Calimaya|México||52201|15|52201||28|018|1883|Rural|
+52200|San Pedro - San Pablo|Barrio|Calimaya|México||52201|15|52201||02|018|9435|Rural|
+52200|San Juan|Barrio|Calimaya|México||52201|15|52201||02|018|9441|Rural|
+52200|San Martín|Barrio|Calimaya|México||52201|15|52201||02|018|9444|Rural|
+52200|Calimaya|Colonia|Calimaya|México||52201|15|52201||09|018|9443|Rural|
+52203|Santa Cecilia|Barrio|Calimaya|México||52201|15|52201||02|018|9446|Rural|
+52203|El Rosario|Barrio|Calimaya|México||52201|15|52201||02|018|9447|Rural|
+52203|Los Ángeles|Barrio|Calimaya|México||52201|15|52201||02|018|9437|Rural|
+52204|Cruz Verde|Barrio|Calimaya|México||52201|15|52201||02|018|9436|Rural|
+52204|Las Torres|Colonia|Calimaya|México||52201|15|52201||09|018|9445|Rural|
+52204|Cruz Blanca|Barrio|Calimaya|México||52201|15|52201||02|018|9438|Rural|
+52204|Guadalupe|Barrio|Calimaya|México||52201|15|52201||02|018|9439|Rural|
+52205|Del Calvario|Barrio|Calimaya|México||52201|15|52201||02|018|9442|Rural|
+52205|Sauces|Colonia|Calimaya|México||52201|15|52201||09|018|9440|Rural|
+52210|Zaragoza de Guadalupe|Pueblo|Calimaya|México||52201|15|52201||28|018|1886|Rural|
+52213|El Calvario|Ranchería|Calimaya|México||52201|15|52201||29|018|8506|Rural|
+52213|San Diego la Huerta|Pueblo|Calimaya|México||52201|15|52201||28|018|5169|Rural|
+52214|La Loma|Ranchería|Calimaya|México||52201|15|52201||29|018|9453|Rural|
+52215|Las Jarillas|Colonia|Calimaya|México||52201|15|52201||09|018|9454|Rural|
+52215|Francisco Villa|Colonia|Calimaya|México||52201|15|52201||09|018|9455|Rural|
+52220|San Andrés Ocotlán|Pueblo|Calimaya|México||52201|15|52201||28|018|1889|Rural|
+52220|San Andrés|Colonia|Calimaya|México||52201|15|52201||09|018|9450|Rural|
+52220|El Mesón|Fraccionamiento|Calimaya|México||52201|15|52201||21|018|8507|Rural|
+52223|San Bartolito Tlaltelolco|Pueblo|Calimaya|México||52201|15|52201||28|018|1890|Rural|
+52224|La Concepción Coatipac (La Conchita)|Pueblo|Calimaya|México||52201|15|52201||28|018|1892|Rural|
+52224|Valle del Nevado|Fraccionamiento|Calimaya|México||52201|15|52201||21|018|9097|Rural|
+52224|Santa Cruz Tecuantitlán|Colonia|Calimaya|México||52201|15|52201||09|018|5156|Rural|
+52225|Arboledas (San Andrés)|Colonia|Calimaya|México||52201|15|52201||09|018|9460|Rural|
+52226|Vistahermosa (Rancho los Jardines)|Ranchería|Calimaya|México||52201|15|52201||29|018|9458|Rural|
+52226|Bosque de las Fuentes Residencial|Fraccionamiento|Calimaya|México||52201|15|52201||21|018|0001|Urbano|
+52226|El Mesón|Ranchería|Calimaya|México||52201|15|52201||29|018|9457|Rural|
+52227|Hacienda de las Fuentes|Fraccionamiento|Calimaya|México||52201|15|52201||21|018|9512|Rural|
+52227|La Loma|Colonia|Calimaya|México||52201|15|52201||09|018|9462|Rural|
+52227|Villas del Campo|Fraccionamiento|Calimaya|México||52201|15|52201||21|018|8059|Rural|
+52228|Cruz de la Misión|Barrio|Calimaya|México||52201|15|52201||02|018|9452|Rural|
+52230|Santa María|Colonia|Calimaya|México||52201|15|52201||09|018|9449|Rural|
+52230|Santa María Nativitas|Pueblo|Calimaya|México||52201|15|52201||28|018|1888|Rural|
+52230|La Aurora II|Barrio|Calimaya|México||52201|15|52201||02|018|9448|Rural|
+52233|San Lorenzo Cuauhtenco|Pueblo|Calimaya|México||52201|15|52201||28|018|1891|Rural|
+52233|La Guadalupana|Barrio|Calimaya|México||52201|15|52201||02|018|9451|Rural|
+52234|San Marcos de la Cruz|Pueblo|Calimaya|México||52201|15|52201||28|018|1885|Rural|
+52235|San Cristóbal|Ranchería|Calimaya|México||52201|15|52201||29|018|9459|Rural|
+52235|El Arenal|Colonia|Calimaya|México||52201|15|52201||09|018|9461|Rural|
+52236|El Tarimoro|Colonia|Calimaya|México||52201|15|52201||09|018|9456|Rural|

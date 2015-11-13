@@ -1,0 +1,102 @@
+52760|San Ramón|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2051|Urbano|06
+52760|Santa María|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|8914|Urbano|06
+52760|El Cerrito|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2037|Urbano|06
+52760|San Martín|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|5557|Urbano|06
+52760|El Retiro|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|8910|Urbano|06
+52760|Huixquilucan de Degollado Centro|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2038|Urbano|06
+52760|San Juan Bautista|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|5559|Urbano|06
+52760|El Plan|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|7818|Urbano|06
+52760|San Melchor|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|5558|Urbano|06
+52760|San Miguel|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8190|Urbano|06
+52763|Hacienda de las Palmas|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||21|037|2041|Urbano|06
+52763|Villa Florence|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||21|037|2042|Urbano|06
+52764|Jesús del Monte|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||09|037|2043|Urbano|06
+52764|La Retama|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||09|037|2044|Urbano|06
+52765|Esfuerzo Obrero|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||09|037|2045|Urbano|06
+52765|San Fernando|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||09|037|2048|Urbano|06
+52765|Industria Militar y Cove|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||09|037|2046|Urbano|06
+52765|San Fernando|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||21|037|2049|Urbano|06
+52766|El Mirasol|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|8908|Urbano|06
+52766|Santiago Yancuitlalpan|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2052|Urbano|06
+52766|San Jacinto|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2050|Urbano|06
+52766|Zacamulpa|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2053|Urbano|06
+52767|El Palacio|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|5066|Urbano|06
+52767|Ignacio Allende|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2054|Urbano|06
+52767|El Xiguiro|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8911|Urbano|06
+52768|San Juan Yautepec|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2055|Urbano|06
+52769|Agua de Santo|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|8902|Urbano|06
+52769|La Cañada|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2056|Urbano|06
+52769|La Cima|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2057|Urbano|06
+52770|Paseos del Bosque|Condominio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||10|037|0001|Urbano|06
+52770|Las Canteras|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2076|Urbano|06
+52773|El Escobal|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8906|Urbano|06
+52773|El Rayo|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8913|Urbano|06
+52773|Magdalena Chichicaspa (Las Campanitas)|Ejido|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||15|037|8905|Urbano|06
+52773|El Manzano|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8907|Urbano|06
+52773|La Capilla|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|8912|Urbano|06
+52773|La Manzana (La Rinconada)|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8904|Urbano|06
+52773|La Magdalena Chichicaspa|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2059|Urbano|06
+52773|Del Rio|Barrio|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||02|037|8903|Urbano|06
+52774|El Pedregal|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2060|Urbano|06
+52774|Bosque Real|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||21|037|5059|Urbano|06
+52774|El Arenal|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5060|Urbano|06
+52775|Constituyentes de 1917|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2061|Urbano|06
+52775|Tierra y Libertad|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2063|Urbano|06
+52776|Loma del Carmen|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2065|Urbano|06
+52776|La Unidad|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5058|Urbano|06
+52777|Federal Burocrática|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2066|Urbano|06
+52777|Paradice|Unidad habitacional|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||31|037|5465|Urbano|06
+52777|El Bosque|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5057|Urbano|06
+52778|Ampliación Palo Solo|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5056|Urbano|06
+52778|Palo Solo|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2068|Urbano|06
+52779|Montón Cuarteles|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2071|Urbano|06
+52779|Green House|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||21|037|2069|Urbano|06
+52779|Pirules|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2072|Urbano|06
+52779|Lomas Country Club|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||21|037|5084|Urbano|06
+52780|Lomas de Tecamachalco Sección Bosques I y II|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|53831|15|53831||21|037|2073|Urbano|06
+52780|Lomas de Tecamachalco Sección Cumbres|Colonia|Huixquilucan|México|Huixquilucan de Degollado|53831|15|53831||09|037|2074|Urbano|06
+52783|Rinconada de la Herradura|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2067|Urbano|06
+52783|Bosques de la Herradura|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2075|Urbano|06
+52784|La Herradura Sección II|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2079|Urbano|06
+52784|La Herradura Sección III|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2078|Urbano|06
+52784|La Herradura Sección I|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2080|Urbano|06
+52784|La Herradura|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2077|Urbano|06
+52785|Jardines de la Herradura|Colonia|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||09|037|0158|Urbano|06
+52785|Galardón|Conjunto habitacional|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||12|037|2082|Urbano|06
+52785|Lomas de La Herradura|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2083|Urbano|06
+52785|Balcones de la Herradura|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2081|Urbano|06
+52786|Lomas Anáhuac|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2084|Urbano|06
+52786|Magnocentro|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2085|Urbano|06
+52786|Parques de la Herradura|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2086|Urbano|06
+52787|Valle de las Palmas|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|5085|Urbano|06
+52787|Bosques de las Palmas|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2087|Urbano|06
+52787|Villa de las Lomas|Colonia|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||09|037|2090|Urbano|06
+52787|Interlomas|Colonia|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||09|037|5604|Urbano|06
+52787|Paseo de las Palmas|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2089|Urbano|06
+52787|Palmas Altas|Colonia|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||09|037|5605|Urbano|06
+52788|Lomas de las Palmas|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2092|Urbano|06
+52788|Frondoso Torres|Condominio|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||10|037|2091|Urbano|06
+52788|Lomas del Olivo|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|2093|Urbano|06
+52788|Conjunto Urbano El Bosque|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|11002|15|11002||21|037|7888|Urbano|06
+52789|Lomas del Sol|Fraccionamiento|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||21|037|2097|Urbano|06
+52789|El Olivo|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52762|15|52762||09|037|2095|Urbano|06
+52790|San Francisco Dos Ríos|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2098|Urbano|06
+52790|La Pera|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5062|Urbano|06
+52793|El Obraje|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|8909|Urbano|06
+52793|El Mirador|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|2099|Urbano|06
+52793|Trejo|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5061|Urbano|06
+52793|San Bartolomé Coatepec|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2058|Urbano|06
+52794|El Guarda|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|5064|Urbano|06
+52794|La Glorieta|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2100|Urbano|06
+52794|El Hielo|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5063|Urbano|06
+52795|Santa Cruz Ayotuxco|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2101|Urbano|06
+52795|Canales|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|5065|Urbano|06
+52796|San Cristóbal Texcalucan|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2102|Urbano|06
+52797|San José Huiloteapan|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2103|Urbano|06
+52798|San Francisco Ayotuxco|Pueblo|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||28|037|2104|Urbano|06
+52798|Cerro de San Francisco|Colonia|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||09|037|0002|Urbano|06
+52799|Agua Bendita|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2105|Urbano|06
+52799|Llano Grande|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2108|Urbano|06
+52799|El Laurel|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2107|Urbano|06
+52799|Piedra Grande|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2109|Urbano|06
+52799|Agua Blanca|Ranchería|Huixquilucan|México|Huixquilucan de Degollado|52761|15|52761||29|037|2106|Urbano|06

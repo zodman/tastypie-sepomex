@@ -1,0 +1,19 @@
+90740|Centro|Colonia|Zacatelco|Tlaxcala||90741|29|90741||09|044|0377|Urbano|
+90740|4 Caminos 2da Sección|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|0608|Rural|
+90740|Eriberto Juárez Blancas|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1058|Rural|
+90740|Las Palomas|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1076|Rural|
+90740|La Venta|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|0607|Rural|
+90740|Nextlalpan|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|1069|Urbano|
+90740|Tlatlacola|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|1070|Urbano|
+90750|Xochicalco|Colonia|Zacatelco|Tlaxcala||90741|29|90741||09|044|0618|Urbano|
+90750|Guardia|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1074|Urbano|
+90750|Exquitla|Colonia|Zacatelco|Tlaxcala||90741|29|90741||09|044|0617|Urbano|
+90750|La Libertad|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|0769|Rural|
+90750|Manantiales|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|0569|Rural|
+90750|Girasoles|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1073|Urbano|
+90750|De Guardia 3ra Sección|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|0568|Rural|
+90750|Xitototla|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|0571|Rural|
+90750|Privansa|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1077|Urbano|
+90750|CROM Santa Inés|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1071|Urbano|
+90750|Las Américas|Unidad habitacional|Zacatelco|Tlaxcala||90741|29|90741||31|044|1075|Urbano|
+90750|Del Cerrito 4ta Sección|Barrio|Zacatelco|Tlaxcala||90741|29|90741||02|044|0570|Rural|

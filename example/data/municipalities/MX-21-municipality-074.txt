@@ -1,0 +1,37 @@
+74160|Paseo de los Sauces|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|0001|Urbano|
+74160|Las Huertas|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6418|Urbano|
+74160|Paseo del Convento|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6423|Urbano|
+74160|Las Ánimas|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6427|Urbano|
+74160|Valle de San Miguel|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|0002|Urbano|
+74160|Cuarto|Barrio|Huejotzingo|Puebla||74164|21|74164||02|074|3697|Rural|
+74160|Magisteria|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6422|Urbano|
+74160|El Huesito|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6426|Urbano|
+74160|El Manzano|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6428|Urbano|
+74160|Nepopualco|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1502|Rural|
+74160|Primero|Barrio|Huejotzingo|Puebla||74164|21|74164||02|074|3694|Rural|
+74160|Las Tapias|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6420|Urbano|
+74160|San Miguel Tianguizolco|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1504|Rural|
+74160|Los Encinos|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6430|Urbano|
+74160|Real de Huejotzingo|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6433|Urbano|
+74160|Predio Ex-Hacienda San José|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6434|Urbano|
+74160|Segundo|Barrio|Huejotzingo|Puebla||74164|21|74164||02|074|3695|Rural|
+74160|La Joya de Santiago Mextla|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6429|Urbano|
+74160|Santa María Atexcac|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1500|Rural|
+74160|Tercero|Barrio|Huejotzingo|Puebla||74164|21|74164||02|074|3696|Rural|
+74160|Los Pirules|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6417|Urbano|
+74160|Santa Bárbara|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6421|Urbano|
+74160|Guadalupe la Vega|Colonia|Huejotzingo|Puebla||74164|21|74164||09|074|6425|Urbano|
+74160|Los Carrizos|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6419|Urbano|
+74160|Rancho los Oroza|Colonia|Huejotzingo|Puebla||74164|21|74164||09|074|6424|Urbano|
+74160|Ex-Rancho de Niebla|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6431|Urbano|
+74160|La Victoria|Fraccionamiento|Huejotzingo|Puebla||74164|21|74164||21|074|6432|Urbano|
+74162|Buenavista|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1506|Rural|
+74165|San Luis Coyotzingo|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1509|Rural|
+74166|Santa María Tianguistenco|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1513|Rural|
+74166|Santa Elena|Ranchería|Huejotzingo|Puebla||74164|21|74164||29|074|1512|Rural|
+74166|San Juan Pancoac|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1511|Rural|
+74167|San Mateo Capultitlán|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1515|Rural|
+74167|Capultitlan|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1514|Rural|
+74168|Puebla (Hermanos Serdán)|Aeropuerto|Huejotzingo|Puebla||74164|21|74164||01|074|1516|Rural|
+74169|Santo Domingo Ciénega Honda|Ranchería|Huejotzingo|Puebla||74164|21|74164||29|074|1518|Rural|
+74169|Santa Ana Xalmimilulco|Pueblo|Huejotzingo|Puebla||74164|21|74164||28|074|1517|Rural|

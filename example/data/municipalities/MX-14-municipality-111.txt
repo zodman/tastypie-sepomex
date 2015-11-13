@@ -1,0 +1,6 @@
+47380|Valle de Guadalupe|Colonia|Valle de Guadalupe|Jalisco|Valle de Guadalupe|47381|14|47381||09|111|1944|Rural|56
+47383|Alameda|Fraccionamiento|Valle de Guadalupe|Jalisco|Valle de Guadalupe|47381|14|47381||21|111|4021|Rural|56
+47384|San Juan Bosco|Colonia|Valle de Guadalupe|Jalisco|Valle de Guadalupe|47381|14|47381||09|111|4020|Rural|56
+47384|Aragón|Fraccionamiento|Valle de Guadalupe|Jalisco|Valle de Guadalupe|47381|14|47381||21|111|4050|Rural|56
+47386|El Trigo|Ranchería|Valle de Guadalupe|Jalisco||47381|14|47381||29|111|1946|Rural|
+47398|El Talle|Ranchería|Valle de Guadalupe|Jalisco||47381|14|47381||29|111|1947|Rural|

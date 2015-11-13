@@ -1,0 +1,11 @@
+47590|San Diego de Alejandría Centro|Colonia|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||09|072|3343|Rural|15
+47592|Chulavista|Fraccionamiento|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||21|072|3362|Rural|15
+47593|La Campaña|Colonia|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||09|072|3796|Rural|15
+47595|San Jose|Colonia|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||09|072|3340|Rural|15
+47595|La Vaquita|Colonia|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||09|072|3341|Rural|15
+47595|Arboledas|Colonia|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||09|072|3342|Rural|15
+47595|San Antonio|Colonia|San Diego de Alejandría|Jalisco|San Diego de Alejandría|47591|14|47591||09|072|0001|Rural|15
+47596|El Ocote|Ranchería|San Diego de Alejandría|Jalisco||47591|14|47591||29|072|2041|Rural|
+47597|Las Pintas|Ranchería|San Diego de Alejandría|Jalisco||47591|14|47591||29|072|2042|Rural|
+47599|La Campaña de Morelos|Ranchería|San Diego de Alejandría|Jalisco||47591|14|47591||29|072|2038|Rural|
+47599|El Ranchito|Ranchería|San Diego de Alejandría|Jalisco||47591|14|47591||29|072|2043|Rural|

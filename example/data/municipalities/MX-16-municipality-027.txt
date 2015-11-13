@@ -1,0 +1,26 @@
+58860|El Calvario|Barrio|Chucándiro|Michoacán de Ocampo||58841|16|58841||02|027|0002|Urbano|
+58860|El Pitahayo|Colonia|Chucándiro|Michoacán de Ocampo||58841|16|58841||09|027|0005|Urbano|
+58860|La Joya|Colonia|Chucándiro|Michoacán de Ocampo||58841|16|58841||09|027|0004|Urbano|
+58860|El Cerrito|Colonia|Chucándiro|Michoacán de Ocampo||58841|16|58841||09|027|0006|Urbano|
+58860|Chucándiro|Pueblo|Chucándiro|Michoacán de Ocampo||58841|16|58841||28|027|0823|Urbano|
+58860|El Acuario|Barrio|Chucándiro|Michoacán de Ocampo||58841|16|58841||02|027|0001|Urbano|
+58860|Emiliano Zapata|Colonia|Chucándiro|Michoacán de Ocampo||58841|16|58841||09|027|0003|Urbano|
+58862|Las Cruces de Barreras|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0826|Rural|
+58862|Siberia|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0011|Rural|
+58863|Buenavista|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0007|Rural|
+58863|San Sebastián|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0825|Rural|
+58863|Santa Inés|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0828|Rural|
+58863|Las Arenas|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0009|Rural|
+58863|El Salitre|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0824|Rural|
+58863|La Pitahaya|Pueblo|Chucándiro|Michoacán de Ocampo||58841|16|58841||28|027|0008|Rural|
+58863|Los Baños|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0010|Rural|
+58863|El Jacal|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0827|Rural|
+58864|Urundaneo|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0829|Rural|
+58865|El Salto|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0830|Rural|
+58866|Suro|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0012|Rural|
+58866|Tanimireche|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0831|Rural|
+58867|Carucheo Grande|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0833|Rural|
+58867|Tahuácuaro|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0013|Rural|
+58867|Carucheo Chico|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0832|Rural|
+58868|La Presa|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0834|Rural|
+58868|El Marijo|Ranchería|Chucándiro|Michoacán de Ocampo||58841|16|58841||29|027|0835|Rural|

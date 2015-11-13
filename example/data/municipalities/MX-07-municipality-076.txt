@@ -1,0 +1,16 @@
+29800|Santa Cecilia|Barrio|Sabanilla|Chiapas||29931|07|29931||02|076|0002|Rural|
+29800|Sabanilla Centro|Colonia|Sabanilla|Chiapas||29931|07|29931||09|076|0776|Rural|
+29800|Calvario|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0775|Rural|
+29800|Buenavista|Congregación|Sabanilla|Chiapas||29931|07|29931||11|076|0774|Rural|
+29802|El Paraíso|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0777|Rural|
+29802|Asunción Huitiupan|Ejido|Sabanilla|Chiapas||29931|07|29931||15|076|0003|Rural|
+29803|Atoyac Naylum|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0778|Rural|
+29804|El Bebedero|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0779|Rural|
+29810|Moyos|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0781|Rural|
+29810|Los Naranjos|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0780|Rural|
+29813|Unión Hidalgo (El Charro)|Ejido|Sabanilla|Chiapas||29931|07|29931||15|076|5571|Rural|
+29814|Majestic|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0782|Rural|
+29814|Unión Juárez|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0783|Rural|
+29815|Cristóbal Colon|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0784|Rural|
+29815|Quintana Roo|Pueblo|Sabanilla|Chiapas||29931|07|29931||28|076|0785|Rural|
+29816|Jesús Carranza|Ejido|Sabanilla|Chiapas||29931|07|29931||15|076|0001|Rural|

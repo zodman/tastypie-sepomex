@@ -1,0 +1,316 @@
+09000|San Ignacio|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1300|Urbano|09
+09000|San Pablo|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1303|Urbano|09
+09000|San Pedro|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1304|Urbano|09
+09000|San Lucas|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1302|Urbano|09
+09000|San José|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1301|Urbano|09
+09000|Santa Bárbara|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1305|Urbano|09
+09000|La Asunción|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||02|007|1299|Urbano|09
+09009|Delegación Política Iztapalapa|Gran usuario|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||22|007|1307|Urbano|09
+09010|Real del Moral|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1308|Urbano|09
+09020|Dr. Alfonso Ortiz Tirado|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1310|Urbano|09
+09030|Paseos de Churubusco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1314|Urbano|09
+09040|Central de Abasto|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1316|Urbano|09
+09040|Paseos de Churubusco FOVISSSTE|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||31|007|1317|Urbano|09
+09060|Sector Popular|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1321|Urbano|09
+09060|Escuadrón 201|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1320|Urbano|09
+09070|Granjas de San Antonio|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1322|Urbano|09
+09080|Cacama|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1325|Urbano|09
+09080|Xopa|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||31|007|1326|Urbano|09
+09089|Unidad Modelo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1328|Urbano|09
+09090|Héroes de Churubusco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1329|Urbano|09
+09099|Mexicaltzingo|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||28|007|1330|Urbano|09
+09100|Juan Escutia|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||09|007|1331|Urbano|09
+09110|La Valenciana|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|1332|Urbano|09
+09120|Voceadores de México|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|1333|Urbano|09
+09130|San Lorenzo Xicotencatl|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||28|007|1334|Urbano|09
+09140|Santa Martha Acatitla Norte|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||09|007|1335|Urbano|09
+09150|Fuentes de Zaragoza|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|1336|Urbano|09
+09150|La Concordia|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|2650|Urbano|09
+09160|Solidaridad|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|1337|Urbano|09
+09160|Predio el Brillante|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|2651|Urbano|09
+09170|La Colmena|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||31|007|1338|Urbano|09
+09180|Ermita Zaragoza|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09181|09|09181||09|007|1339|Urbano|09
+09200|Unidad Vicente Guerrero|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1341|Urbano|09
+09207|Complejo Industrial Ecológico|Fraccionamiento|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||21|007|1344|Urbano|09
+09208|Chinampac de Juárez Frente X|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1349|Urbano|09
+09208|6 de Octubre|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2743|Urbano|09
+09208|Chinampac de Juárez|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1345|Urbano|09
+09208|Chinampac de Juárez Frente IX|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1346|Urbano|09
+09208|Hacienda de las Flores|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2676|Urbano|09
+09208|Chinampac de Juárez Frente XI|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1350|Urbano|09
+09208|Los Cedros|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2674|Urbano|09
+09208|Chinampac de Juárez Frente VII|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1347|Urbano|09
+09208|Chinampac de Juárez Frente VIII|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1348|Urbano|09
+09208|Chinampac de Juárez Frente VI|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2917|Urbano|09
+09209|Purísima|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1351|Urbano|09
+09209|Renovación|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1352|Urbano|09
+09210|Tepalcates I|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1354|Urbano|09
+09210|Tepalcates|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1355|Urbano|09
+09210|Moras Primavera|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1353|Urbano|09
+09219|Reforma Educativa|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1356|Urbano|09
+09220|Unidad Ejército Constitucionalista|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1357|Urbano|09
+09226|Rotaria|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1360|Urbano|09
+09227|Cabeza de Juárez|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1361|Urbano|09
+09227|Lienzo Charro|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2671|Urbano|09
+09228|Ignacio Zaragoza|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1362|Urbano|09
+09229|Guelatao Benito Juárez|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1363|Urbano|09
+09230|Álvaro Obregón|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1364|Urbano|09
+09230|Ejército de Oriente|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1365|Urbano|09
+09230|José María Morelos y Pavón|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1369|Urbano|09
+09230|El Paraíso|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1368|Urbano|09
+09233|Peñón Viejo|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2915|Urbano|09
+09239|Ejército de Oriente Zona Peñon|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1370|Urbano|09
+09240|Progresista|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1371|Urbano|09
+09249|Albarrada|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1372|Urbano|09
+09250|Las Américas|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2677|Urbano|09
+09250|La Regadera|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1373|Urbano|09
+09250|Plutarco Elías Calles|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1374|Urbano|09
+09260|Constitución de 1917|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1375|Urbano|09
+09270|Colonial Iztapalapa|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1376|Urbano|09
+09280|Jacarandas|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1377|Urbano|09
+09290|Cuartos de Tlatelolco|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2767|Urbano|09
+09290|Santa Cruz Meyehualco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1378|Urbano|09
+09290|Luis Donaldo Colosio|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|2675|Urbano|09
+09300|Guadalupe del Moral|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1380|Urbano|09
+09310|Leyes de Reforma 2a Sección|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1383|Urbano|09
+09310|Leyes de Reforma 1a Sección|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1382|Urbano|09
+09310|Leyes de Reforma 3a Sección|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|2839|Urbano|09
+09319|Cuchilla del Moral|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1384|Urbano|09
+09320|Sideral|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1388|Urbano|09
+09330|Margarita Maza de Juárez|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1389|Urbano|09
+09350|Albarrada|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1392|Urbano|09
+09359|Eva Sámano de López Mateos|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1393|Urbano|09
+09360|Ermita Iztapalapa|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1395|Urbano|09
+09360|Ampliación San Miguel|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||09|007|1399|Urbano|09
+09360|Hidalgo y Mina|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1396|Urbano|09
+09360|INFONAVIT|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1397|Urbano|09
+09360|San Miguel|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||02|007|1398|Urbano|09
+09366|Norma FOVISSSTE|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1400|Urbano|09
+09368|P.R.I.|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1402|Urbano|09
+09369|El Gavilán|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1404|Urbano|09
+09369|Alborada|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1403|Urbano|09
+09369|Gama Gavilán|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09201|09|09201||31|007|1405|Urbano|09
+09400|San Juanico Nextipac|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||28|007|1407|Urbano|09
+09400|El Sifón|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1408|Urbano|09
+09400|La Viga|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||31|007|1406|Urbano|09
+09410|Magdalena Atlazolpa|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||28|007|1413|Urbano|09
+09410|Jardines de Churubusco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1412|Urbano|09
+09410|Aculco|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||28|007|1410|Urbano|09
+09410|San José Aculco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1414|Urbano|09
+09420|Nueva Rosita|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1416|Urbano|09
+09420|Los Picos VI-B|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1415|Urbano|09
+09429|Purísima Atlazolpa|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1417|Urbano|09
+09430|Apatlaco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1418|Urbano|09
+09430|El Triunfo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1419|Urbano|09
+09437|Secretaria de la Reforma Agraria|Gran usuario|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||22|007|1421|Urbano|09
+09438|Ampliación El Triunfo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1422|Urbano|09
+09440|El Retoño|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1425|Urbano|09
+09440|Zacahuitzco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|2840|Urbano|09
+09440|San Andrés Tetepilco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1426|Urbano|09
+09450|Banjidal|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1429|Urbano|09
+09460|Justo Sierra|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1430|Urbano|09
+09470|Sinatel|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1431|Urbano|09
+09479|Ampliación Sinatel|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1432|Urbano|09
+09480|El Prado|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09081|09|09081||09|007|1433|Urbano|09
+09500|Santa María Aztahuacán Ampliación|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2565|Urbano|09
+09500|Santa María Aztahuacán|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||28|007|1435|Urbano|09
+09510|Santa Martha Acatitla|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||28|007|1436|Urbano|09
+09519|Penitenciaria Santa Martha Acatitla|Gran usuario|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||22|007|1438|Urbano|09
+09520|El Edén|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1439|Urbano|09
+09520|San Sebastián Tecoloxtitla|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||28|007|1440|Urbano|09
+09530|Santa Martha Acatitla Sur|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1441|Urbano|09
+09550|Monte Alban|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1443|Urbano|09
+09560|Paraje Zacatepec|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1444|Urbano|09
+09570|Santa María Aztahuacán|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1445|Urbano|09
+09577|Artículo 4°. Constitucional|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||31|007|1446|Urbano|09
+09577|Cabeza de Juárez 4 o Frente 4|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||31|007|1448|Urbano|09
+09577|Fuerte de Loreto|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||31|007|2673|Urbano|09
+09578|Ejército de Agua Prieta|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1449|Urbano|09
+09579|Cabeza de Juárez 5 o Frente 5|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||31|007|1451|Urbano|09
+09579|Las Rosas|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||31|007|1452|Urbano|09
+09600|Santiago Acahualtepec|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||28|007|1453|Urbano|09
+09608|Santiago Acahualtepec 1ra. Ampliación|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1454|Urbano|09
+09609|Santiago Acahualtepec 2a. Ampliación|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1455|Urbano|09
+09620|Lomas de Zaragoza|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1456|Urbano|09
+09630|San Miguel Teotongo Sección Corrales|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1481|Urbano|09
+09630|San Miguel Teotongo Sección Iztlahuaca|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2854|Urbano|09
+09630|San Miguel Teotongo Sección La Cruz|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2856|Urbano|09
+09630|San Miguel Teotongo Sección Loma Alta|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2857|Urbano|09
+09630|San Miguel Teotongo Sección Puente|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2860|Urbano|09
+09630|San Miguel Teotongo Sección Torres|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2863|Urbano|09
+09630|San Miguel Teotongo Sección Acorralado|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2850|Urbano|09
+09630|San Miguel Teotongo Sección Palmitas|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2859|Urbano|09
+09630|San Miguel Teotongo Sección Ranchito|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2861|Urbano|09
+09630|San Miguel Teotongo Sección Guadalupe|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2853|Urbano|09
+09630|San Miguel Teotongo Sección Jardines|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2855|Urbano|09
+09630|San Miguel Teotongo Sección Avisadero|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2851|Urbano|09
+09630|San Miguel Teotongo Sección Mercedes|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2858|Urbano|09
+09630|San Miguel Teotongo Sección Capilla|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2852|Urbano|09
+09630|San Miguel Teotongo Sección Rancho Bajo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|2862|Urbano|09
+09637|Campestre Potrero|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1461|Urbano|09
+09638|Ampliación Emiliano Zapata|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1462|Urbano|09
+09640|Lomas de la Estancia|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1464|Urbano|09
+09640|Xalpa|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1465|Urbano|09
+09648|San Pablo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1467|Urbano|09
+09660|Citlalli|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1470|Urbano|09
+09670|Palmitas|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1471|Urbano|09
+09680|Tenorios|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1473|Urbano|09
+09689|Barranca de Guadalupe|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1477|Urbano|09
+09690|Iztlahuacán|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1478|Urbano|09
+09696|Miravalles|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1480|Urbano|09
+09698|Miguel de La Madrid Hurtado|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09511|09|09511||09|007|1482|Urbano|09
+09700|Matamoros|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1489|Urbano|09
+09700|Morelos II|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1490|Urbano|09
+09700|Desarrollo Urbano Quetzalcoatl|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1488|Urbano|09
+09700|Buenavista|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1485|Urbano|09
+09700|Carlos Hank Gonzalez|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1486|Urbano|09
+09700|Cuauhtémoc|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2541|Urbano|09
+09700|Santa Cruz Meyehualco|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||28|007|1491|Urbano|09
+09704|Degollado|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1492|Urbano|09
+09704|Arboledas Zafiro|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1495|Urbano|09
+09704|La Magueyera|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1493|Urbano|09
+09704|Predio San Rafael|Campamento|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||04|007|2655|Urbano|09
+09704|Tejocotes|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1494|Urbano|09
+09704|Prados|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2658|Urbano|09
+09705|Degollado - Mexicatlalli|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|2726|Urbano|09
+09705|Predio Xaltepec|Campamento|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||04|007|2728|Urbano|09
+09706|San José Buenavista|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1497|Urbano|09
+09706|Predio San Pedro y San Pablo|Campamento|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||04|007|2732|Urbano|09
+09708|Violeta|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2564|Urbano|09
+09708|Mixcoatl|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1500|Urbano|09
+09709|Lomas de Santa Cruz|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1501|Urbano|09
+09710|Los Ángeles Apanoaya|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1502|Urbano|09
+09719|STUNAM|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1504|Urbano|09
+09720|Francisco Villa|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1505|Urbano|09
+09720|La Era|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1506|Urbano|09
+09730|Sierra del Valle|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1509|Urbano|09
+09730|Reforma Política|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1508|Urbano|09
+09740|Anastasio Bustamante|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2566|Urbano|09
+09740|Presidentes de México|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1511|Urbano|09
+09750|La Polvorilla|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1514|Urbano|09
+09750|Las Peñas|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1515|Urbano|09
+09750|Insurgentes|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1512|Urbano|09
+09759|Las Torres|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1517|Urbano|09
+09760|Consejo Agrarista Mexicano|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1518|Urbano|09
+09760|Presidentes y Plaza de La Constitución|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1520|Urbano|09
+09767|Residencial del Valle|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1521|Urbano|09
+09768|Opus 3|Conjunto habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||12|007|1522|Urbano|09
+09769|El Triángulo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1523|Urbano|09
+09770|Puente Blanco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1524|Urbano|09
+09779|Fase II|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1525|Urbano|09
+09780|El Tesoro|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2652|Urbano|09
+09780|Fividesu Avenida 3|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2654|Urbano|09
+09780|El Árbol FOVISSSTE|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2567|Urbano|09
+09780|Lomas de San Lorenzo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1528|Urbano|09
+09780|Año de Juárez|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1527|Urbano|09
+09780|INFONAVIT|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2653|Urbano|09
+09789|Reclusorio Oriente|Gran usuario|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||22|007|1530|Urbano|09
+09790|San Lorenzo Tezonco|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||28|007|1531|Urbano|09
+09800|El Mirador|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1534|Urbano|09
+09800|Estrella Culhuacán|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1535|Urbano|09
+09800|Valle de Luces|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1542|Urbano|09
+09800|Pueblo Culhuacán|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||28|007|1532|Urbano|09
+09800|Fuego Nuevo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1536|Urbano|09
+09800|Predio Maravillas|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|2660|Urbano|09
+09800|San Antonio Culhuacán|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1538|Urbano|09
+09800|Barrio Tula|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||02|007|1541|Urbano|09
+09800|Barrio San Antonio Culhuacán|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||02|007|1539|Urbano|09
+09800|San Simón Culhuacán|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||02|007|1540|Urbano|09
+09800|San Marcos|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|2692|Urbano|09
+09809|Valle de Luces|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1545|Urbano|09
+09810|Granjas Esmeralda|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1547|Urbano|09
+09810|Los Cipreses|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1548|Urbano|09
+09810|Minerva|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1549|Urbano|09
+09810|Progreso del Sur|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1550|Urbano|09
+09819|Valle del Sur|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1551|Urbano|09
+09820|El Santuario|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1552|Urbano|09
+09820|Ricardo Flores Magón|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1556|Urbano|09
+09820|Santa Isabel Industrial|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1557|Urbano|09
+09820|La Mora Grande|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1555|Urbano|09
+09820|Estrella del Sur|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1553|Urbano|09
+09828|Ampliación Ricardo Flores Magón|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1559|Urbano|09
+09829|Ampliación El Santuario|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1560|Urbano|09
+09829|Villas San Diego|Fraccionamiento|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||21|007|1561|Urbano|09
+09830|Jesús Vela|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1564|Urbano|09
+09830|Lomas El Manto|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1565|Urbano|09
+09830|Paraje San Juan|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1568|Urbano|09
+09830|El Manto|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1562|Urbano|09
+09830|Los Ángeles|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1566|Urbano|09
+09830|El Molino|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1563|Urbano|09
+09836|Cuitlahuac|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1569|Urbano|09
+09837|San Miguel 8va. Ampliación|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1570|Urbano|09
+09838|Plan de Iguala|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1571|Urbano|09
+09839|San Juan Joya|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1576|Urbano|09
+09839|Ampliación Paraje San Juan|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1573|Urbano|09
+09840|Los Reyes Culhuacán|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||28|007|1578|Urbano|09
+09849|Ampliación Los Reyes|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1580|Urbano|09
+09850|Cedros|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1582|Urbano|09
+09850|San Juan Xalpa|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1585|Urbano|09
+09850|Naranjos|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1583|Urbano|09
+09850|Santa María del Monte|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1589|Urbano|09
+09850|Lirios FOVISSSTE|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1661|Urbano|09
+09850|San Nicolás Tolentino|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1587|Urbano|09
+09850|San Juan Xalpa|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1586|Urbano|09
+09850|Predio Nautla|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1584|Urbano|09
+09850|Carolinas|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1581|Urbano|09
+09850|San Nicolás Tolentino|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1588|Urbano|09
+09850|Popular Oriente|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|2708|Urbano|09
+09850|Vikingos|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1670|Urbano|09
+09856|Estado de Veracruz|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1590|Urbano|09
+09856|Ampliación Veracruzana|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1591|Urbano|09
+09857|El Tule|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1667|Urbano|09
+09857|San Lorenzo|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1593|Urbano|09
+09857|San Francisco INFONAVIT|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1592|Urbano|09
+09858|Paraje San Juan Cerro|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1594|Urbano|09
+09859|Benito Juárez|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1595|Urbano|09
+09860|Parque Nacional Cerro  de la Estrella|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1601|Urbano|09
+09860|España|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1603|Urbano|09
+09860|Ampliación Bellavista|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1597|Urbano|09
+09860|Reforma Garay INFONAVIT|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1604|Urbano|09
+09860|El Rodeo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1602|Urbano|09
+09860|Sabadell Bellavista|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1605|Urbano|09
+09860|Viva Sur|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1671|Urbano|09
+09860|Bellavista|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1596|Urbano|09
+09860|Cerro de La Estrella|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1600|Urbano|09
+09860|Casa Blanca|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1598|Urbano|09
+09864|Bertha Von Bloumer|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|2570|Urbano|09
+09868|Plaza Estrella I|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1606|Urbano|09
+09868|San Juan Estrella|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1607|Urbano|09
+09869|Plaza Estrella II|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1608|Urbano|09
+09870|La Loma|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1658|Urbano|09
+09870|12 de Diciembre|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1609|Urbano|09
+09870|San Andrés Tomatlán|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1611|Urbano|09
+09870|Santa María Tomatlán|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||28|007|1616|Urbano|09
+09870|San Andrés Tomatlán|Pueblo|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||28|007|1613|Urbano|09
+09880|Cooperativa de Trabajadores Sector Pesca|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1619|Urbano|09
+09880|El Vergel|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1620|Urbano|09
+09880|Granjas Estrella|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1621|Urbano|09
+09880|Campestre Estrella|Fraccionamiento|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||21|007|1618|Urbano|09
+09880|Jacarandas|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1622|Urbano|09
+09889|Rinconada Estrella|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1627|Urbano|09
+09890|Lomas Estrella|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1629|Urbano|09
+09897|Carlos Jonguitud Barrios|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||09|007|1633|Urbano|09
+09897|Residencial Venecia|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1669|Urbano|09
+09899|Lomas Estrella FOVISSSTE|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09821|09|09821||31|007|1636|Urbano|09
+09900|Guadalupe|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||02|007|1637|Urbano|09
+09900|San Antonio|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||02|007|1638|Urbano|09
+09900|San Lorenzo|Barrio|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||02|007|1639|Urbano|09
+09910|La Esperanza|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1640|Urbano|09
+09910|Los Mirasoles|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1641|Urbano|09
+09920|José López Portillo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1643|Urbano|09
+09930|El Rosario|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1644|Urbano|09
+09940|Jardines de San Lorenzo Tezonco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1645|Urbano|09
+09960|USCOVI|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1647|Urbano|09
+09960|Allapetlalli|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1961|Urbano|09
+09960|Cooperativa Tlaltenco|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2569|Urbano|09
+09960|Nueva Generación|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2734|Urbano|09
+09960|Celoalliotli|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1646|Urbano|09
+09960|La Planta|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|2736|Urbano|09
+09960|Moyocoyani|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2730|Urbano|09
+09960|Huasipungo|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2659|Urbano|09
+09960|Rinconada del Molino|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2727|Urbano|09
+09960|Na hal ti|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|2729|Urbano|09
+09960|El Molino Tezonco|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1648|Urbano|09
+09969|Cananea|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1651|Urbano|09
+09970|Valle de San Lorenzo|Colonia|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||09|007|1652|Urbano|09
+09979|Carmen Serdán|Unidad habitacional|Iztapalapa|Distrito Federal|Ciudad de México|09291|09|09291||31|007|1653|Urbano|09

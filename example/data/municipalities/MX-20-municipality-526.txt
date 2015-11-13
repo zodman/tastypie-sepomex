@@ -1,0 +1,69 @@
+71960|La Soledad|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5322|Urbano|
+71960|Los Remedios|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5324|Urbano|
+71960|La Ladrillera|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5326|Urbano|
+71960|El Naranjo|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5330|Urbano|
+71960|San Antonio|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5331|Urbano|
+71960|El Mirador|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5319|Urbano|
+71960|Candelaria Loma Bonita|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5317|Urbano|
+71960|21 de Marzo|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5320|Urbano|
+71960|La Guadalupe|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5323|Urbano|
+71960|Santa Catarina|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5325|Urbano|
+71960|Jacarandas|Colonia|Santos Reyes Nopala|Oaxaca||71981|20|71981||09|526|4838|Urbano|
+71960|Santa Cruz|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5328|Urbano|
+71960|La Toma|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5318|Urbano|
+71960|Azteca|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5329|Urbano|
+71960|De Jesús|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5327|Urbano|
+71960|Santos Reyes Nopala|Pueblo|Santos Reyes Nopala|Oaxaca||71981|20|71981||28|526|3200|Rural|
+71960|Agua Blanca|Barrio|Santos Reyes Nopala|Oaxaca||71981|20|71981||02|526|5321|Urbano|
+71963|Santa María Magdalena Tiltepec|Pueblo|Santos Reyes Nopala|Oaxaca||71981|20|71981||28|526|3202|Rural|
+71963|Arroyo Piedra|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5152|Rural|
+71963|El Costoche|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5163|Rural|
+71963|Finca Buena Vista|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5172|Rural|
+71963|Finca el Pajarito|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5174|Rural|
+71963|El Mamey|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5164|Rural|
+71963|El Sinaí|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5168|Rural|
+71963|San Martín Miramar|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5192|Rural|
+71963|Cañada de los Matus|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|4360|Rural|
+71963|El Paraíso|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5165|Rural|
+71963|Finca San Lucas|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5177|Rural|
+71963|La Perla|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5181|Rural|
+71964|El Recodo|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5167|Rural|
+71964|San Marcos Zapotalito (El Zapote)|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5191|Rural|
+71964|El Tetique|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5169|Rural|
+71964|Rancho Viejo|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5187|Rural|
+71964|San Antonio Cuixtla|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5188|Rural|
+71965|Arroyo Cuche|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5150|Rural|
+71965|Santiago Cuixtla|Pueblo|Santos Reyes Nopala|Oaxaca||71981|20|71981||28|526|3201|Rural|
+71965|Finca Agua Fria|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5171|Rural|
+71965|Finca el Macahuitillo|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5173|Rural|
+71965|San Gonzalo Pueblo Viejo|Pueblo|Santos Reyes Nopala|Oaxaca||71981|20|71981||28|526|5189|Rural|
+71965|Rancho Nuevo Cuixtla|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5186|Rural|
+71966|El Cangrejo|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5160|Rural|
+71966|La Matraca|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5180|Rural|
+71966|Arroyo Hierba Santa|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5151|Rural|
+71966|El Aguacatal|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5159|Rural|
+71966|Los Ciruelos (Los Sabinos)|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5183|Rural|
+71966|Ciénega Grande|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5158|Rural|
+71966|El Corozal|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5162|Rural|
+71966|Piedra Negra|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5184|Rural|
+71966|Vista Hermosa|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5194|Rural|
+71967|Cerro Cuero|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5154|Rural|
+71967|El Zacatal|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5170|Rural|
+71967|El Armadillo (San José Armadillo)|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5118|Rural|
+71967|Cerro de Aire|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|3199|Rural|
+71967|El Portillo Sauco|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5166|Rural|
+71967|Finca la Encinera|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5176|Rural|
+71967|La Pitiona|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5182|Rural|
+71967|Santa Lucía Teotepec|Pueblo|Santos Reyes Nopala|Oaxaca||71981|20|71981||28|526|3203|Rural|
+71967|Cerro Niño|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5157|Rural|
+71967|La Constancia|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5178|Rural|
+71967|Cerro Iglesias|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5156|Rural|
+71967|El Carrizal|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5161|Rural|
+71967|San José Atotonilco|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5190|Rural|
+71967|Cerro Guitarra|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5155|Rural|
+71967|Finca el Potrero|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5175|Rural|
+71967|La Hierba Santa|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5179|Rural|
+71967|Rancho Nuevo Cerro del Aire|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5185|Rural|
+71967|El Zanate|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|4644|Rural|
+71967|Cañada las Flores|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5153|Rural|
+71967|San Martín Pie del Cerro|Ranchería|Santos Reyes Nopala|Oaxaca||71981|20|71981||29|526|5193|Rural|

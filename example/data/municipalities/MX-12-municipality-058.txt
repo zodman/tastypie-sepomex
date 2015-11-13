@@ -1,0 +1,116 @@
+40400|Benito Juárez|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1093|Semiurbano|24
+40400|Teloloapan Centro|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1130|Semiurbano|24
+40400|San Andrés|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1591|Semiurbano|24
+40400|Vicente Guerrero|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1711|Semiurbano|24
+40400|Ixcaltitlán|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1340|Semiurbano|24
+40400|Lomas de Atliaca|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1463|Semiurbano|24
+40400|Mexicapan|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1490|Semiurbano|24
+40400|Miguel Hidalgo|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1495|Semiurbano|24
+40400|Sol Azteca|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|3866|Semiurbano|24
+40400|Xaxalpa|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|3867|Semiurbano|24
+40400|Las Flores|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|4664|Urbano|24
+40400|Emiliano Zapata|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1291|Semiurbano|24
+40400|El Sabino|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1282|Semiurbano|24
+40400|ISSSTE|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1339|Semiurbano|24
+40400|El Resumidero|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|3865|Semiurbano|24
+40400|FOVISSSTE|Unidad habitacional|Teloloapan|Guerrero|Teloloapan|40401|12|40401||31|058|1308|Semiurbano|24
+40400|La Copalera|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1358|Semiurbano|24
+40400|20 de Noviembre|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1703|Semiurbano|24
+40400|Guadalupe Victoria|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|4315|Urbano|24
+40400|El Encanto|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|4685|Semiurbano|24
+40400|El Calvario|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1235|Semiurbano|24
+40400|El Chicuicuilt|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1251|Semiurbano|24
+40400|Eutimio Pinzón|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1304|Semiurbano|24
+40400|El Boliche|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1227|Semiurbano|24
+40400|Lindavista|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1450|Semiurbano|24
+40400|San Miguel|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1627|Semiurbano|24
+40400|Rubén Figueroa|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|3863|Semiurbano|24
+40400|Pedregal|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|4316|Urbano|24
+40400|El Coporito|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1248|Semiurbano|24
+40400|Las Pilas|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1432|Semiurbano|24
+40400|Niños Héroes|Colonia|Teloloapan|Guerrero|Teloloapan|40401|12|40401||09|058|1515|Semiurbano|24
+40400|Benito Juárez|Ampliación|Teloloapan|Guerrero|Teloloapan|40401|12|40401||38|058|3864|Semiurbano|24
+40402|Zacatlancillo|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2095|Rural|
+40402|Los Aguajes|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2094|Rural|
+40402|Las Neblinas|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2093|Rural|
+40402|El Pochote|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2092|Rural|
+40403|El Aguacate|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2097|Rural|
+40403|Buenavista del Aire|Campamento|Teloloapan|Guerrero||40001|12|40001||04|058|2096|Rural|
+40403|San Francisco|Campamento|Teloloapan|Guerrero||40001|12|40001||04|058|2098|Rural|
+40403|Villa de Ayala|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2099|Rural|
+40404|Río de Sayulapa|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2081|Rural|
+40404|Ahuehuetla|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2100|Rural|
+40404|Tlanquizolco Ixticapa|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2083|Rural|
+40404|Cerro Alto|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2101|Rural|
+40404|El Capire|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2102|Rural|
+40404|Tierra Blanca|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2103|Rural|
+40405|12 de Mayo|Colonia|Teloloapan|Guerrero||40401|12|40401||09|058|0001|Rural|
+40405|Concepción Pura|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2105|Rural|
+40405|Cruz Blanca|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2106|Rural|
+40405|Cruz Grande|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2107|Rural|
+40405|Cantorpa de La Ceiba|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2104|Rural|
+40405|La Guadalupe|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2108|Rural|
+40405|Totoltepec|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2109|Rural|
+40406|La Unión|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2115|Rural|
+40406|El Zapote|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2113|Rural|
+40406|Acatlán de La Cruz|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2111|Rural|
+40406|Verdecillo|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2084|Rural|
+40406|Acachautla|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2110|Rural|
+40406|La Magdalena|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2114|Rural|
+40406|Alcholoa|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2080|Rural|
+40406|Alpixafia|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2112|Rural|
+40407|Mesas Neblinas|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2118|Rural|
+40407|Ixtazacatla|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2089|Rural|
+40407|Cacahuatlán|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2116|Rural|
+40407|Dolores|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2088|Rural|
+40407|Ozolotepec|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2090|Rural|
+40407|Alahuixtlan|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2085|Rural|
+40407|Calpantitla|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2086|Rural|
+40407|Limones|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2117|Rural|
+40407|Zopiloac|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2091|Rural|
+40407|Colotepec|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2087|Rural|
+40407|Tenantitlán|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2119|Rural|
+40407|Tlalpexco|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2120|Rural|
+40408|El Duraznal|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2121|Rural|
+40408|Tetzilacatlán|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2122|Rural|
+40409|Ranchos Nuevos|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2123|Rural|
+40410|Los Espinos|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2125|Rural|
+40410|Chapa|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2124|Rural|
+40411|Miacatzingo|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2126|Rural|
+40412|Tonalapa del Río|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2127|Rural|
+40413|Los Sabinos|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2129|Rural|
+40414|Tlacuitlapa|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2130|Rural|
+40415|Coatepec de los Costales|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2128|Rural|
+40415|Tonalcual|Pueblo|Teloloapan|Guerrero||40001|12|40001||28|058|2131|Rural|
+40416|San Antonio Guerrero|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2132|Rural|
+40416|Tonalapa del Río Cuauhtémoc|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2133|Rural|
+40417|Tuxtla Cuevillas|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2137|Rural|
+40417|Oculixtlahuacan|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2136|Rural|
+40417|El Calvario|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2134|Rural|
+40417|Hacienda de Oculixtlahuacan|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2135|Rural|
+40420|El Tanque|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2141|Rural|
+40420|Acatempan|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2139|Rural|
+40420|Ahuacatitlán|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2140|Rural|
+40420|Zacatlán de Guerrero|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2143|Rural|
+40420|Valle de Xóchitl|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2142|Rural|
+40421|Huerta Grande Sur|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2145|Rural|
+40421|Mesas Miraval|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2147|Rural|
+40421|Huerta Grande Norte|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2144|Rural|
+40421|La Concordia|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2146|Rural|
+40422|El Mirador|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2149|Rural|
+40422|Los Sauces|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2150|Rural|
+40422|Apatzingan|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2148|Rural|
+40423|El Calguaje|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2151|Rural|
+40423|Oxtotitlán|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2152|Rural|
+40424|Palo Verde|Colonia|Teloloapan|Guerrero||40401|12|40401||09|058|4075|Rural|
+40424|Santa Cruz Unión|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2154|Rural|
+40424|Tlanipatlán|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2155|Rural|
+40424|Buenavista de Guadalupe|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2153|Rural|
+40425|San Lorenzo|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2157|Rural|
+40425|Tlajocotla|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2160|Rural|
+40425|Tepozonalquillo|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2159|Rural|
+40425|Pezuapilla y Naranjo|Campamento|Teloloapan|Guerrero||40401|12|40401||04|058|2156|Rural|
+40425|Tenancingo|Ranchería|Teloloapan|Guerrero||40401|12|40401||29|058|2158|Rural|
+40426|Laguna Seca|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2161|Rural|
+40428|Tehuixtla|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2162|Rural|
+40429|El Plan del Sabino|Pueblo|Teloloapan|Guerrero||40401|12|40401||28|058|2163|Rural|

@@ -1,0 +1,224 @@
+80800|Mocorito Centro|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|1396|Urbano|14
+80803|Candilejas|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3173|Urbano|14
+80803|Bugambilias|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3172|Urbano|14
+80804|Las Delicias|Barrio|Mocorito|Sinaloa|Mocorito|80801|25|80801||02|013|1806|Urbano|14
+80804|Mercadito|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3174|Urbano|14
+80805|Las Casitas Nuevas|Fraccionamiento|Mocorito|Sinaloa|Mocorito|80801|25|80801||21|013|0080|Urbano|14
+80805|Fovissste|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|1809|Urbano|14
+80805|La Brecha|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3176|Urbano|14
+80805|Las Playitas|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3175|Urbano|14
+80806|Las Palmas|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3177|Urbano|14
+80806|Infonavit|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|1808|Rural|14
+80807|La Loma|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3179|Urbano|14
+80807|Aviación|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|1807|Urbano|14
+80807|Tabachines|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3178|Urbano|14
+80808|Alameda|Colonia|Mocorito|Sinaloa|Mocorito|80801|25|80801||09|013|3180|Urbano|14
+80810|Constancio Rodríguez (La Otra Banda)|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|2373|Rural|
+80830|Alhueycito|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1397|Rural|
+80830|Palmarito Mineral|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1402|Rural|
+80830|Las Milpas de los González|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1401|Rural|
+80830|Cerro Agudo|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1398|Rural|
+80830|Los Pérez|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|1399|Rural|
+80830|Rancho Viejo|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1400|Rural|
+80833|Las Tahonas|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1403|Rural|
+80833|La Campanilla|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3066|Rural|
+80833|El Salto|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0004|Rural|
+80833|La Palma|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1405|Rural|
+80833|El Reparo de los Galindo|Poblado comunal|Mocorito|Sinaloa||80801|25|80801||27|013|3194|Rural|
+80833|Lo de Gabriel|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0025|Rural|
+80833|El Valle de Leyva Solano (El Valle)|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1404|Rural|
+80833|Mautillos|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0026|Rural|
+80834|Las Juntas|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3077|Rural|
+80834|La Ladrillera|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0024|Rural|
+80834|El Chinal|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1406|Rural|
+80834|La Primavera|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0059|Rural|
+80834|Ranchito de los Gaxiola|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0041|Rural|
+80834|Lomas Blancas|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1407|Rural|
+80836|Los Pocitos|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1408|Rural|
+80836|La Cañada|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0013|Rural|
+80840|Mazate de los Sánchez|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1413|Rural|
+80840|El Becal|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1409|Rural|
+80840|Palo de Asta|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1411|Rural|
+80840|Higuera de los Vega|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1410|Rural|
+80840|Mazate de los López|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1412|Rural|
+80845|El Gallo|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1415|Rural|
+80845|El Tule de Arriba|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1414|Rural|
+80846|Boca de Guamúchil|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0022|Rural|
+80846|Milpas Viejas|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1417|Rural|
+80846|La Laguna|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0003|Rural|
+80846|La Joya de los López|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0002|Rural|
+80846|Corral Quemado|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0017|Rural|
+80846|El Sauce de los Gámez|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1416|Rural|
+80846|Tabalopa|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1418|Rural|
+80846|Los Charcos|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0064|Rural|
+80846|Los Vasitos|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0051|Rural|
+80850|El Tule|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1419|Rural|
+80850|El Magistral|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1421|Rural|
+80850|El Mezquite|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1420|Rural|
+80850|Los Medina|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0058|Rural|
+80853|El Encinal|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0021|Rural|
+80853|El Potrero Grande|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0061|Rural|
+80853|Canutillos|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1424|Rural|
+80853|El Pueblito|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0039|Rural|
+80853|El Taray|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3125|Rural|
+80853|Los Llanos|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1423|Rural|
+80853|El Manchón|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3124|Rural|
+80853|El Nacimiento|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0031|Rural|
+80853|San Miguel|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3126|Rural|
+80853|Lagunillas|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0005|Rural|
+80853|El Potrero de las Perdices|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|2885|Rural|
+80853|Cahuinahuatillo|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0055|Rural|
+80853|La Virgen|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|2884|Rural|
+80853|Cahuinahuato|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0010|Rural|
+80853|La Higuerita|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3130|Rural|
+80853|Bacamopa|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0008|Rural|
+80853|La Loma|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0057|Rural|
+80853|Rincón de los Santos|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1422|Rural|
+80854|La Bebelama|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0062|Rural|
+80854|La Pionilla|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3127|Rural|
+80854|Santa Rosalía|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1425|Rural|
+80855|Terrero de los Pacheco|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1426|Rural|
+80855|El Salto|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0046|Rural|
+80855|Palo Verde|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1428|Rural|
+80855|Las Quebradas|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0040|Rural|
+80855|Palos Colorados|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1427|Rural|
+80856|La Laguna de los Bojórquez|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1430|Rural|
+80856|El Aguaje|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0006|Rural|
+80856|La Higuera Caída|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0023|Rural|
+80856|La Cascada|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0063|Rural|
+80856|El Sabinito|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0045|Rural|
+80856|Guamúchiles Altos|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1434|Rural|
+80856|Palmarito de la Sierra|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|2995|Rural|
+80856|El Lancón Número Dos|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0065|Rural|
+80856|Potrero de los Gastélum|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1432|Rural|
+80856|La Cueva|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1435|Rural|
+80856|Rancho Viejo|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0042|Rural|
+80856|El Recodo|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0043|Rural|
+80856|Palmarito de la Sierra (Casas de Abajo)|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0056|Rural|
+80856|Los Letreros|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1429|Rural|
+80856|Ojo de Agua|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1431|Rural|
+80856|La Tasajera|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0069|Rural|
+80856|Loma Redonda|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0066|Rural|
+80856|Las Milpas de los Valenzuela|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1433|Rural|
+80857|San Benito|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1436|Rural|
+80857|Palmarito|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1437|Rural|
+80870|Bequillos|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1439|Rural|
+80870|El Guasimal|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1438|Rural|
+80873|El Zapote de los Moya|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1441|Rural|
+80873|El Limón|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1440|Rural|
+80875|La Huerta|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|2374|Rural|
+80875|Los Chinos|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0020|Rural|
+80875|El Sabino Gordo|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1443|Rural|
+80875|Lo de Félix|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1444|Rural|
+80875|Bebelama|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1442|Rural|
+80876|Bequillitos|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1446|Rural|
+80876|Palma de los Rocha|Poblado comunal|Mocorito|Sinaloa||80801|25|80801||27|013|3193|Rural|
+80876|Pochotillos|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0053|Rural|
+80876|La Higuerita|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0072|Rural|
+80876|La Palma Envuelta|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1447|Rural|
+80877|Portezuelo de Abajo|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0035|Rural|
+80877|Portezuelo de Arriba|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0036|Rural|
+80877|Aguaje de Rosa Morada|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0007|Rural|
+80880|Rosa Morada|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1448|Rural|
+80880|La Calera de los Moya|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1450|Rural|
+80880|El Carrizal|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|3065|Rural|
+80880|La Nanche|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0032|Rural|
+80880|Potrero de los Guerrero|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0038|Rural|
+80880|El Aguaje|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1445|Rural|
+80880|La Estancia|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0071|Rural|
+80880|El Limoncito|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1449|Rural|
+80880|La Tasajera|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0070|Rural|
+80883|Puerta de los Rocha|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1451|Rural|
+80883|El Guayabito|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|2724|Rural|
+80884|El Malinal|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1456|Rural|
+80884|El Número Tres|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0033|Rural|
+80884|La Cañada|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1452|Rural|
+80884|La Noria de Arriba|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1453|Rural|
+80884|Batamotita|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1455|Rural|
+80884|La Reforma|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0044|Rural|
+80884|El Sauce de Arriba|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0049|Rural|
+80884|La Noria de Abajo|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1454|Rural|
+80885|Los Mezcales|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1458|Rural|
+80885|Jurisdicción de Abajo|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1457|Rural|
+80886|Bacamacari|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1459|Rural|
+80887|El Aguajito de León|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1460|Rural|
+80887|Potrerillos Aguajito de León|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1461|Rural|
+80888|Mezquite Gordo|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0028|Rural|
+80890|El Palmar de los Leal|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1462|Rural|
+80893|Boca de Arroyo|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1463|Rural|
+80893|La Loma (El Altón)|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0076|Rural|
+80893|La Misión|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1464|Rural|
+80894|El Pochote|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1465|Rural|
+80895|Tecomate|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1468|Rural|
+80895|La Cofradía de Soto|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1469|Rural|
+80895|Mecatita de Abajo|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0027|Rural|
+80895|Mecatita de Arriba|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|1466|Rural|
+80895|San Juan|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0048|Rural|
+80895|Los Ángeles|Ejido|Mocorito|Sinaloa||80801|25|80801||15|013|1467|Rural|
+80896|Monte Verde|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0029|Rural|
+80896|El Progreso (El Jalón)|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1470|Rural|
+80896|Tepantita|Pueblo|Mocorito|Sinaloa||80801|25|80801||28|013|1471|Rural|
+80897|Potrerillos|Ranchería|Mocorito|Sinaloa||80801|25|80801||29|013|0037|Rural|
+80920|El Platanar|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|1473|Rural|
+80920|La Nanchita|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|1474|Rural|
+80923|El Tancote|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|2983|Rural|
+80925|El Guadare|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|1477|Rural|
+80926|El Chino|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|1478|Rural|
+80926|El Zapote de los Cázares|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|1480|Rural|
+80926|El Guamúchil|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|1479|Rural|
+80927|Majada de Abajo|Pueblo|Mocorito|Sinaloa||80951|25|80951||28|013|1481|Rural|
+80927|Piedras Blancas|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|1482|Rural|
+80928|Chicorato|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0019|Rural|
+80928|Sasalpa|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|2984|Rural|
+80930|Perico Petrolero|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0068|Rural|
+80930|Santiago de Comanito (Comanito)|Pueblo|Mocorito|Sinaloa||80951|25|80951||28|013|1498|Rural|
+80930|Bachoco Pollo|Granja|Mocorito|Sinaloa||80951|25|80951||23|013|0079|Rural|
+80930|Juan Escutia|Pueblo|Mocorito|Sinaloa||80951|25|80951||28|013|1483|Rural|
+80935|El Barrial de Capirato|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0009|Rural|
+80935|La Cofradía de Capirato|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0016|Rural|
+80935|Las Aguamitas|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0073|Rural|
+80935|La Calera de Capirato|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0011|Rural|
+80935|El Salto (De Capirato)|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0060|Rural|
+80936|Tepuche|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|1485|Rural|
+80936|Aguapepe de los Gallardo|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|1486|Rural|
+80936|Capirato|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|2376|Rural|
+80936|El Carrizo|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0015|Rural|
+80936|La Vainilla|Pueblo|Mocorito|Sinaloa||80951|25|80951||28|013|1484|Rural|
+80936|La Morita|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0030|Rural|
+80940|El Zapote de los Gastélum|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0001|Rural|
+80940|El Aguaje de Pericos|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|2375|Rural|
+80940|Guamuchilera Segunda|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|2377|Rural|
+80940|Juan Escutia|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0075|Rural|
+80950|Fonhapo|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|2051|Rural|
+80950|La Loma|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|2054|Rural|
+80950|Del Parque|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|2053|Rural|
+80950|Pericos|Pueblo|Mocorito|Sinaloa||80951|25|80951||28|013|1497|Rural|
+80950|Ampliación Salinas de Gortari|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|2699|Rural|
+80950|Guadalupe|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|2050|Rural|
+80950|Salinas de Gortari|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|2052|Rural|
+80953|Calomato (Calomatillo)|Ejido|Mocorito|Sinaloa||80951|25|80951||15|013|0012|Rural|
+80953|La Pipima|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0034|Rural|
+80953|San Francisco (El Crucero)|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|0047|Rural|
+80953|El Nazario [SPR]|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0078|Rural|
+80953|El Rosario (Chayo)|Colonia|Mocorito|Sinaloa||80951|25|80951||09|013|0018|Rural|
+80953|Albergue Calomato|Equipamiento|Mocorito|Sinaloa||80951|25|80951||17|013|0081|Rural|
+80954|El Rodeo|Ejido|Mocorito|Sinaloa||80321|25|80321||15|013|1488|Rural|
+80954|Dique Mariquita|Ranchería|Mocorito|Sinaloa||80321|25|80321||29|013|0067|Rural|
+80954|Los Altos de Jalisco|Ranchería|Mocorito|Sinaloa||80321|25|80321||29|013|0052|Rural|
+80954|Calomato|Pueblo|Mocorito|Sinaloa||80321|25|80321||28|013|1487|Rural|
+80955|El Capule|Ranchería|Mocorito|Sinaloa||80321|25|80321||29|013|0014|Rural|
+80955|Agua Salada|Pueblo|Mocorito|Sinaloa||80321|25|80321||28|013|1489|Rural|
+80956|Guamuchilera|Pueblo|Mocorito|Sinaloa||80321|25|80321||28|013|1491|Rural|
+80956|El Bueycito|Ejido|Mocorito|Sinaloa||80321|25|80321||15|013|1490|Rural|
+80957|Caimanero|Pueblo|Mocorito|Sinaloa||80321|25|80321||28|013|1492|Rural|
+80957|Estación Retes|Pueblo|Mocorito|Sinaloa||80321|25|80321||28|013|1493|Rural|
+80957|Recoveco|Pueblo|Mocorito|Sinaloa||80321|25|80321||28|013|1495|Rural|
+80957|La Loma|Rancho|Mocorito|Sinaloa||80321|25|80321||48|013|0077|Rural|
+80960|Potrero de los Sánchez (Estación Techa)|Ranchería|Mocorito|Sinaloa||81681|25|81681||29|013|1496|Rural|
+80963|Campo Mazao|Rancho|Mocorito|Sinaloa||80951|25|80951||48|013|0074|Rural|
+80963|Rancho Viejo|Ranchería|Mocorito|Sinaloa||80951|25|80951||29|013|1472|Rural|
+80964|Zapotillo|Ranchería|Mocorito|Sinaloa||81681|25|81681||29|013|1494|Rural|
+80965|Melchor Ocampo|Pueblo|Mocorito|Sinaloa||81681|25|81681||28|013|1476|Rural|
+80965|San Jorge|Ranchería|Mocorito|Sinaloa||81681|25|81681||29|013|0054|Rural|
+80966|Tierritas Blancas|Pueblo|Mocorito|Sinaloa||80951|25|80951||28|013|1475|Rural|
+80967|Tobora|Rancho|Mocorito|Sinaloa||80801|25|80801||48|013|0050|Rural|

@@ -1,0 +1,85 @@
+61900|Los Cuirindales|Colonia|Nocupétaro|Michoacán de Ocampo||58482|16|58482||09|057|0002|Urbano|
+61900|El Mirador|Colonia|Nocupétaro|Michoacán de Ocampo||58482|16|58482||09|057|0003|Urbano|
+61900|Barrio Alto|Colonia|Nocupétaro|Michoacán de Ocampo||58482|16|58482||09|057|0001|Urbano|
+61900|Nocupétaro de Morelos|Pueblo|Nocupétaro|Michoacán de Ocampo||58482|16|58482||28|057|2814|Urbano|
+61903|El Paso del Pinzán|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0023|Rural|
+61903|Cuimbo (Coimbo)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0007|Rural|
+61904|La Chorreada (La Peña Chorreada)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0038|Rural|
+61904|El Palmar|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0020|Rural|
+61904|Ojo de Agua del Cobre|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0062|Rural|
+61904|San Nicolás|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0067|Rural|
+61904|Los Cuirindales|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0056|Rural|
+61905|El Coyol|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0014|Rural|
+61905|El Coyolito|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0015|Rural|
+61905|La Escondida|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0040|Rural|
+61907|El Cacao|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0009|Rural|
+61907|Las Huertas|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0047|Rural|
+61907|San Juan|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0065|Rural|
+61907|El Palo Blanco|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0022|Rural|
+61907|Ceiba Prieta|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2815|Rural|
+61907|El Potrero|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0024|Rural|
+61907|Las Sidras|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0052|Rural|
+61908|San Juan de la Concepción|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0066|Rural|
+61908|Las Parotas|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2816|Rural|
+61909|Los Planes|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0059|Rural|
+61909|La Chalana|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0037|Rural|
+61909|Vista Bella|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0073|Rural|
+61909|La Estancia Chica (La Estancia de Mamey)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0041|Rural|
+61909|El Platanal (Hacienda del Platanal)|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2817|Rural|
+61909|El Coyolito|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0016|Rural|
+61910|Upácuaro|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0072|Rural|
+61910|El Manguito|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0018|Rural|
+61910|Melchor Ocampo (San Antonio de las Huertas)|Pueblo|Nocupétaro|Michoacán de Ocampo||58482|16|58482||28|057|2818|Rural|
+61911|La Estancia Grande|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2820|Rural|
+61913|La Cadena|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0035|Rural|
+61913|Las Pilas|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2822|Rural|
+61913|La Calera|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0036|Rural|
+61913|Santa Inés (La Escondida)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0068|Rural|
+61913|Santo Domingo|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|0069|Rural|
+61913|Las Cocinas|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2821|Rural|
+61913|El Palmito|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0021|Rural|
+61913|Los Brasiles (Puerto los Brasiles)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0055|Rural|
+61914|El Cirián|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0011|Rural|
+61914|El Quino|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0025|Rural|
+61914|El Salitrillo|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0028|Rural|
+61914|La Mocha|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0044|Rural|
+61915|La Angostura (Puerto Hondo)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0034|Rural|
+61915|El Atravesaño|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0008|Rural|
+61915|Agua Santa|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0005|Rural|
+61915|Las Calabazas|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0046|Rural|
+61915|El Copalito (Piedra de Alacranes)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0012|Rural|
+61915|Los Variles|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0060|Rural|
+61916|Rincón de San Isidro|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0064|Rural|
+61916|El Zapotito|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|0031|Rural|
+61916|Mariana|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|0061|Rural|
+61916|El Sauz|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0029|Rural|
+61916|Las Palmas|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0049|Rural|
+61917|Los Piñoncillos|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0057|Rural|
+61917|La Limoncilla|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0042|Rural|
+61917|La Sanguijuela|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0045|Rural|
+61917|Loma los Pelillos|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0054|Rural|
+61917|Santa Bárbara (El Reparo)|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2824|Rural|
+61917|El Zapote|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0030|Rural|
+61917|Las Saibas|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0051|Rural|
+61917|La Loma Blanca|Pueblo|Nocupétaro|Michoacán de Ocampo||58482|16|58482||28|057|3984|Rural|
+61917|Las Trojes|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|2823|Rural|
+61917|La Loma del Copal|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0043|Rural|
+61917|Puerto el Mirador|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0063|Rural|
+61917|Tumbiriche|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0071|Rural|
+61917|Aparandán (Mesa de Aparandán)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0006|Rural|
+61917|Las Paredes|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0050|Rural|
+61917|El Rodeo|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0027|Rural|
+61917|Los Planes|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|0058|Rural|
+61917|La Ciénega|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0039|Rural|
+61918|Tamarindo (Hacienda de Guadalupe)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0070|Rural|
+61918|El Coyol|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0013|Rural|
+61918|El Limón|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0017|Rural|
+61918|Guaginiquil (Guajiniquil)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0033|Rural|
+61918|Las Juntas|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0048|Rural|
+61918|Guadalupe (Hacienda de Guadalupe)|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0032|Rural|
+61918|Agua Agria|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|0004|Rural|
+61918|El Rincón Romero de las Palmas|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0026|Rural|
+61918|Loma Blanca|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0053|Rural|
+61918|Cuispio|Poblado comunal|Nocupétaro|Michoacán de Ocampo||58482|16|58482||27|057|6352|Rural|
+61918|El Calabozo|Rancho|Nocupétaro|Michoacán de Ocampo||58482|16|58482||48|057|0010|Rural|
+61918|El Ojo de Agua de Cuispio|Ranchería|Nocupétaro|Michoacán de Ocampo||58482|16|58482||29|057|0019|Rural|

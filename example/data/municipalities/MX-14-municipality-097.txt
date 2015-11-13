@@ -1,0 +1,239 @@
+45640|La Providencia|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4506|Semiurbano|11
+45640|La Purísima|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4686|Rural|11
+45640|Arcos de la Cruz|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5096|Urbano|11
+45640|El Tecolote|Poblado comunal|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||27|097|4308|Urbano|11
+45640|Banús|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4601|Urbano|11
+45640|Colinas de Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4681|Urbano|11
+45640|Los Mezquites|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4691|Urbano|11
+45640|Rancho el Zapote|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5100|Urbano|11
+45640|Valle de Tlajomulco|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5107|Urbano|11
+45640|Villanova|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5108|Urbano|11
+45640|El Cortijo|Ejido|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||15|097|0020|Rural|11
+45640|Las Flores|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4685|Urbano|11
+45640|Héroes de Nacozari|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4688|Urbano|11
+45640|Las Galeanas|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4690|Urbano|11
+45640|Rinconadas del Sol|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|0014|Urbano|11
+45640|Buenavista|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||29|097|1293|Rural|11
+45640|La Teja|Poblado comunal|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||27|097|4309|Urbano|11
+45640|Rancho el Derramadero|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5099|Urbano|11
+45640|Hacienda Real|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5101|Urbano|11
+45640|Patria|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5105|Urbano|11
+45640|Tlajomulco Centro|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|1296|Urbano|11
+45640|Cima Del Sol|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4481|Urbano|11
+45640|La Noria|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||29|097|4496|Rural|11
+45640|Cofradía|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4682|Rural|11
+45640|Los Pinos|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5103|Urbano|11
+45640|Nuevo Tlajomulco|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5104|Urbano|11
+45640|Rinconada las Auroras|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5106|Urbano|11
+45640|Cofradia de La Luz|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||29|097|1294|Urbano|11
+45640|El Centarro|Poblado comunal|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||27|097|4322|Urbano|11
+45640|Mirador del Valle|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4692|Urbano|11
+45640|Los Álamos|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4818|Urbano|11
+45640|Colinas Desarrollo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5098|Urbano|11
+45640|Rancho los Ocampo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5102|Urbano|11
+45640|Santa Cruz de las Flores|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||28|097|1295|Semiurbano|11
+45640|Jardines de Tlajomulco|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4280|Semiurbano|11
+45640|Lomas de Tejeda ing.|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4494|Semiurbano|11
+45640|La Lomita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4683|Urbano|11
+45640|Larios|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4684|Urbano|11
+45640|El Esquivel|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|5304|Urbano|11
+45640|Lomas de Tejeda Habitacional|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4495|Urbano|11
+45640|Las Víboras (Fraccionamiento Valle de las Flores)|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4548|Rural|11
+45640|Los Arcos|Granja|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||23|097|4687|Rural|11
+45640|Prados de La Higuera|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4689|Urbano|11
+45640|Bosques de la Esperanza|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5097|Urbano|11
+45640|Lomas del Pedregal|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|5324|Urbano|11
+45641|Lomas de Tejeda|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|1297|Urbano|11
+45641|Los Sauces|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4267|Semiurbano|11
+45641|Rinconada de Los Nogales I y II|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4698|Urbano|11
+45641|Residencial Lomas de Tejeda|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4694|Urbano|11
+45641|Hacienda La Noria|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4697|Urbano|11
+45641|Los Tapia|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4696|Urbano|11
+45641|Tierra de la Esperanza|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4695|Urbano|11
+45641|El Mirador|Poblado comunal|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||27|097|4307|Rural|11
+45641|Lomas Habitacional|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4693|Urbano|11
+45643|El Palomar Secc Bosques|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1300|Urbano|11
+45643|El Palomar Secc Cañadas|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1301|Urbano|11
+45643|Las Villas|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1304|Urbano|11
+45643|El Palomar Secc Balcones|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1299|Urbano|11
+45643|San Martin Del Tajo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|4071|Urbano|11
+45643|El Palomar|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1260|Urbano|11
+45643|El Palomar Secc Jockey Club|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1302|Urbano|11
+45643|El Palomar Secc Panorámica|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1303|Urbano|11
+45643|Rinconada Del Palomar|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|4063|Urbano|11
+45644|Los Tepetates|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45701|14|45701||09|097|4266|Rural|11
+45644|Santa Cruz de la Loma (Tepetates)|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45701|14|45701||09|097|4846|Rural|11
+45644|La Cruz Vieja (Soledad de Cruz Vieja)|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45701|14|45701||29|097|1305|Rural|11
+45645|Villas de Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4065|Semiurbano|11
+45645|Pueblo Bonito|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4321|Urbano|11
+45645|Cortijo de San Agustin|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4534|Urbano|11
+45645|Bosque Real|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|5278|Urbano|11
+45645|Santa Anita Camino Real|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0002|Urbano|11
+45645|Naturezza|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0013|Urbano|11
+45645|Villas de San Agustin|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4058|Semiurbano|11
+45645|Vistas de San Agustin|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4067|Semiurbano|11
+45645|Hacienda La Candelaria|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4435|Urbano|11
+45645|Monte Benarés|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4680|Urbano|11
+45645|Hacienda del Oro|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0005|Urbano|11
+45645|San Antonio Lagunitas|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4323|Urbano|11
+45645|Residencial Provenza (La Romana)|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4434|Urbano|11
+45645|Jade|Condominio|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||10|097|4847|Urbano|11
+45645|La Loma Residencial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0012|Urbano|11
+45645|Los Gavilanes|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||29|097|1309|Semiurbano|11
+45645|San Agustin|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||28|097|1310|Semiurbano|11
+45645|Santa Isabel|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||28|097|1312|Semiurbano|11
+45645|Los Laureles|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4062|Semiurbano|11
+45645|Lomas de Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4160|Semiurbano|11
+45645|Del Pilar Residencial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4476|Urbano|11
+45645|Sendero las Moras|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4499|Urbano|11
+45645|Arbolada Bosques de Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4535|Urbano|11
+45645|El Manantial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4616|Urbano|11
+45645|Los Naranjos|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0003|Urbano|11
+45645|Las Varitas|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|0004|Urbano|11
+45645|Bellaterra|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0011|Urbano|11
+45645|Hacienda San Agustin|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|1307|Semiurbano|11
+45645|El Alcázar (Casa Fuerte)|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4551|Semiurbano|11
+45645|El Oro|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|1306|Semiurbano|11
+45645|Santa Anita|Condominio|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||10|097|1311|Semiurbano|11
+45645|Lago Nogal|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4061|Semiurbano|11
+45645|Los Gavilanes Poniente|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4153|Semiurbano|11
+45645|Villa Real|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4471|Urbano|11
+45645|Bonanza Residencial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4606|Urbano|11
+45645|Cañada Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4661|Urbano|11
+45645|Campo Nogal|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4816|Urbano|11
+45645|Real de Santa Anita|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4865|Urbano|11
+45645|Nueva Galicia Residencial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4478|Urbano|11
+45645|Primavera Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4662|Urbano|11
+45645|Rinconada Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4664|Urbano|11
+45645|La Loma|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||29|097|4666|Rural|11
+45645|Coto Nueva Galicia|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4060|Semiurbano|11
+45645|San José del Tajo|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||29|097|4070|Urbano|11
+45645|Bosques de Santa Anita|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4090|Semiurbano|11
+45645|Club de Golf Santa Anita|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4306|Urbano|11
+45645|Nicolás R Casillas|Poblado comunal|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||27|097|4402|Semiurbano|11
+45645|Real del Bosque|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4663|Urbano|11
+45645|Bosques de Las Moras|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4665|Urbano|11
+45645|Villa California|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4980|Urbano|11
+45646|Senderos de Monte Verde|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0009|Urbano|11
+45646|Mirage|Hacienda|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||24|097|4066|Semiurbano|11
+45646|Acueducto San Agustín|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4812|Semiurbano|11
+45646|Haciendas Del Sur|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4072|Semiurbano|11
+45646|Acueducto San Javier|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4667|Urbano|11
+45646|Los Álamos|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4848|Semiurbano|11
+45646|El Renacimiento|Condominio|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||10|097|4668|Urbano|11
+45646|Villas Camino Real de Colima|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4669|Semiurbano|11
+45646|Villas Santa Sofía|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4817|Semiurbano|11
+45647|Hacienda La Tijera|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||21|097|4387|Urbano|11
+45647|Villas de La Tijera|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|4392|Urbano|11
+45647|La Tijera|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1308|Urbano|11
+45647|Jardín de Las Moras|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|4849|Urbano|11
+45647|Cuatro Camichines de La Tijera|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|4850|Urbano|11
+45647|Las Amapas|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|5125|Urbano|11
+45647|Tulipanes|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||09|097|1263|Urbano|11
+45647|Las Moras|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45082|14|45082||21|097|4389|Urbano|11
+45650|La Fresa [Dulcera]|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4064|Rural|11
+45650|Los Portales de San Sebastián|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4671|Semiurbano|11
+45650|Rinconada de San Sebastián|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4672|Semiurbano|11
+45650|Valle de San Sebastián|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4088|Semiurbano|11
+45650|El Paraíso|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4095|Semiurbano|11
+45650|Vistas del Valle|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4811|Semiurbano|11
+45650|Colinas del Roble|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4905|Urbano|11
+45650|La Roca|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|0019|Rural|11
+45650|San Sebastián El Grande|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||29|097|1313|Rural|11
+45650|Villas de Zapotepec|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4055|Semiurbano|11
+45650|Huertas Productivas de Jalisco|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4281|Rural|11
+45650|Balcones de Santa Anita|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4404|Semiurbano|11
+45650|San Miguel Residencial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4858|Semiurbano|11
+45650|El Ojo de Agua|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4670|Rural|11
+45650|Jardines de San Sebastián|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4674|Semiurbano|11
+45650|Rancho Grande|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4676|Semiurbano|11
+45650|Lomas de San Agustin|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4053|Semiurbano|11
+45650|Jardines de Verano|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4054|Semiurbano|11
+45650|El Arroyo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4056|Semiurbano|11
+45650|Villas del Edén|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4673|Semiurbano|11
+45650|San Antonio|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||29|097|4677|Rural|11
+45650|Villas Terranova|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0001|Urbano|11
+45650|Valle de los Encinos|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0015|Urbano|11
+45650|La Fortuna|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0022|Urbano|11
+45650|Santa Anita|Ejido|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||15|097|1314|Semiurbano|11
+45650|Lomas de San Agustin II|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4057|Semiurbano|11
+45650|Paseo de Las Aves|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4675|Semiurbano|11
+45650|Los Abedúles|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|0017|Urbano|11
+45650|Villas de San Sebastián|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4092|Semiurbano|11
+45650|El Chirimoyo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4094|Semiurbano|11
+45650|San Pablo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4403|Semiurbano|11
+45650|Lomas Del Sur|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4507|Semiurbano|11
+45650|Los Arcos de San Sebastián|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||09|097|4678|Semiurbano|11
+45650|Las Casas de San Sebastián|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45603|14|45603||21|097|4813|Semiurbano|11
+45653|Colina de la Cruz|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0025|Rural|11
+45653|Hacienda Santa Fe|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4091|Urbano|11
+45653|Lomas del Mirador|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0016|Urbano|11
+45653|Villa Fontana Aqua|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0007|Urbano|11
+45653|Villalta|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0006|Urbano|11
+45653|La Troje|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4611|Urbano|11
+45653|Los Cantaros|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|5229|Urbano|11
+45653|Los Encinos|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|5230|Urbano|11
+45653|Concepción Del Valle|Hacienda|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||24|097|1316|Rural|11
+45653|Valle Dorado|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4069|Urbano|11
+45653|Chulavista|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4855|Rural|11
+45653|San Jose Del Valle|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4068|Urbano|11
+45654|San José Residencial|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4327|Rural|11
+45654|El Paraíso|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4353|Urbano|11
+45654|Real Del Valle|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4325|Urbano|11
+45654|La Esperanza|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4572|Urbano|11
+45654|Luis Donaldo Colosio|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4571|Urbano|11
+45654|Altus Bosques|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4613|Urbano|11
+45654|La Concha|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4093|Urbano|11
+45654|La Arbolada|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4600|Urbano|11
+45654|Villa Esmeralda|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0018|Urbano|11
+45654|Belcanto|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0021|Urbano|11
+45654|La Unión Del 4|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||29|097|1317|Rural|11
+45654|Los Fresnos|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4352|Urbano|11
+45654|Senderos Del Valle|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4355|Urbano|11
+45654|Multiplaza|Zona comercial|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||33|097|4612|Urbano|11
+45654|Puerta del Sol|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4679|Urbano|11
+45654|Punta Coral Aqua|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0023|Urbano|11
+45654|Villas de La Hacienda|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4324|Urbano|11
+45654|Arboledas Plus|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4354|Urbano|11
+45654|Real del Sol|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4907|Urbano|11
+45654|Jardines Del Edén|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|4326|Urbano|11
+45655|Quintas del Valle|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||21|097|0024|Urbano|11
+45655|Santa Cruz Del Valle|Congregación|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||11|097|1318|Rural|11
+45656|Hacienda los Eucaliptos|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4609|Urbano|11
+45656|Campo Sur|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4610|Urbano|11
+45659|Guadalajara (Miguel Hidalgo y Costilla)|Aeropuerto|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||01|097|1319|Rural|11
+45660|San Diego|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4277|Semiurbano|11
+45660|San Miguel Cuyutlan|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||28|097|1321|Semiurbano|11
+45660|Nuevo San Miguel I y II|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4701|Rural|11
+45660|Lomas de San Diego|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4278|Semiurbano|11
+45660|Cuyutlan|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||28|097|1320|Rural|11
+45660|Pedregal de San Miguel|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4700|Rural|11
+45663|Las Gaviotas|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||21|097|4703|Rural|11
+45663|San Lucas Evangelista|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||28|097|1322|Rural|11
+45663|Coto del Valle|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4702|Rural|11
+45664|Cuexcomatitlán|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4704|Rural|11
+45665|San Juan Evangelista (San Juan)|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||28|097|1323|Rural|11
+45668|Cerro Viejo|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45642|14|45642||09|097|4699|Semiurbano|11
+45670|Tres Reyes|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||21|097|4161|Rural|11
+45670|Colinas de Cajititlán|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4852|Rural|11
+45670|Arvento|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||21|097|5249|Urbano|11
+45670|Cajititlán|Pueblo|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||28|097|1324|Rural|11
+45670|La Noria de Los Reyes|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4851|Rural|11
+45672|Rancho Alegre|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||21|097|4276|Semiurbano|11
+45672|El Zapote Del Valle|Ejido|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||15|097|1325|Rural|11
+45672|Refugio Del Valle|Poblado comunal|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||27|097|4310|Urbano|11
+45672|Paseos del Valle|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||21|097|5306|Rural|11
+45673|Vistas de Monteblanco|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45649|14|45649||09|097|4705|Semiurbano|11
+45675|Colinas del Paraíso I y II|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4707|Rural|11
+45675|Jardines del Capulín|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4824|Rural|11
+45675|Paseo de Los Agaves|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||21|097|4916|Urbano|11
+45675|El Capulín|Ranchería|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||29|097|1326|Rural|11
+45675|Nuevo Progreso|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4706|Rural|11
+45676|Jardines de La Calera|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4710|Semiurbano|11
+45677|Balcones de La Calera|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||09|097|4711|Semiurbano|11
+45678|La Calera|Hacienda|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45851|14|45851||24|097|1327|Rural|11
+45679|Jardines de La Alameda|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||09|097|4708|Rural|11
+45679|Parque Industrial Aeropuerto|Zona industrial|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||37|097|0008|Rural|11
+45679|Villas de la Alameda|Fraccionamiento|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||21|097|0010|Urbano|11
+45679|Alameda|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||09|097|1328|Rural|11
+45679|Los Ciruelos|Colonia|Tlajomulco de Zúñiga|Jalisco|Tlajomulco de Zúñiga|45648|14|45648||09|097|4709|Rural|11

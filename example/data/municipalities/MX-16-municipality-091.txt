@@ -1,0 +1,29 @@
+59980|San Pedro|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6595|Urbano|
+59980|La Purísima|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6593|Urbano|
+59980|Valle Real|Fraccionamiento|Tingüindín|Michoacán de Ocampo||59982|16|59982||21|091|6601|Urbano|
+59980|La Asunción|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6597|Urbano|
+59980|Los Maestros|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6600|Urbano|
+59980|Lomas de Tingüindín|Fraccionamiento|Tingüindín|Michoacán de Ocampo||59982|16|59982||21|091|6599|Urbano|
+59980|San Miguel|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6594|Urbano|
+59980|San Pablo|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6596|Urbano|
+59980|La Ermita|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|4746|Urbano|
+59980|Centro|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|1493|Urbano|
+59980|Río Muerto|Colonia|Tingüindín|Michoacán de Ocampo||59982|16|59982||09|091|6598|Urbano|
+59983|San Miguel (Los Ranchitos)|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6610|Rural|
+59985|Las Trojes|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6607|Rural|
+59986|El Moral|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6605|Rural|
+59986|Tata Lázaro (Rancho Flores)|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6611|Rural|
+59987|Tacátzcuaro|Pueblo|Tingüindín|Michoacán de Ocampo||59982|16|59982||28|091|1494|Rural|
+59990|Barrio Alto|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6602|Rural|
+59990|Aquiles Serdán (San Ángel)|Pueblo|Tingüindín|Michoacán de Ocampo||59982|16|59982||28|091|1496|Rural|
+59990|El Tecolote|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|1497|Rural|
+59990|Rincón del Chino|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|4705|Rural|
+59990|El Purengue|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6606|Rural|
+59990|El Letijio|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6604|Rural|
+59991|Guáscuaro de Múgica|Pueblo|Tingüindín|Michoacán de Ocampo||59982|16|59982||28|091|1498|Rural|
+59993|El Mercado|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|1500|Rural|
+59993|Chucandirán|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|1499|Rural|
+59993|Los Laureles|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6608|Rural|
+59995|Patamburapio|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6609|Rural|
+59995|Colonia Morelos (Guaquián)|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|6603|Rural|
+59995|San Juanico|Ranchería|Tingüindín|Michoacán de Ocampo||59982|16|59982||29|091|1501|Rural|

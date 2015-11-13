@@ -1,0 +1,377 @@
+36200|Romita Centro|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|0044|Urbano|14
+36203|Las Palmas|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|3721|Urbano|14
+36203|Solidaridad|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3722|Urbano|14
+36203|Roma|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3718|Urbano|14
+36203|De San Antonio|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|6154|Urbano|14
+36203|Real del Bosque|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|5226|Urbano|14
+36203|Ampliación Roma|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3719|Urbano|14
+36203|Ampliación Las Palmas|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5224|Urbano|14
+36203|La Paz de Dios|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|5225|Urbano|14
+36204|Haciendas de Romita|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5214|Urbano|14
+36204|Cristo Rey|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|6155|Urbano|14
+36204|Valle Verde|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5215|Urbano|14
+36204|Villa de Las Flores|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|3723|Urbano|14
+36204|Fraccionamiento Brisas de Romita Uno|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|6156|Urbano|14
+36205|Los Arcos|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|5219|Urbano|14
+36205|San Francisco|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3715|Urbano|14
+36205|La Providencia|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3717|Urbano|14
+36205|Santa Cruz|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5216|Urbano|14
+36205|Bosques de San Rafael I|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5217|Urbano|14
+36205|La Purísima|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|3713|Urbano|14
+36205|Villa Patricia|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5218|Urbano|14
+36206|Campo Verde 2da. Sección|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5220|Urbano|14
+36206|Cuauhtémoc|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3712|Urbano|14
+36206|Campo Verde|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|3716|Urbano|14
+36206|Privada de Reyes|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5222|Urbano|14
+36206|Juárez|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3720|Urbano|14
+36206|El Paraíso|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5221|Urbano|14
+36207|Bosques de San Rafael II|Fraccionamiento|Romita|Guanajuato|Romita|36201|11|36201||21|026|5223|Urbano|14
+36207|Los Gómez|Colonia|Romita|Guanajuato|Romita|36201|11|36201||09|026|3714|Urbano|14
+36210|Ejido Colonia Juárez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5672|Rural|
+36210|Ejido Colonia Juárez (Alejandro Mata)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5673|Rural|
+36210|El Terronal (José Rocha Nava)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5709|Rural|
+36210|Granja el Cristal (Macario Guerra)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5733|Rural|
+36210|Juan Frausto|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5779|Rural|
+36210|Juan Mata|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5782|Rural|
+36210|La Casa del Alto (Miguel Hinojosa)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5793|Rural|
+36210|Moisés Soria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5852|Rural|
+36210|Noria de Guadalupe Rojas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5855|Rural|
+36210|Rancho el Esfuerzo|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5882|Rural|
+36210|San Isidro (Jerónimo Hernández)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5910|Rural|
+36210|Trinidad Pérez Juárez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5945|Rural|
+36210|Mezquite Gordo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0061|Rural|
+36210|Las Liebres|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0062|Rural|
+36210|Capilla Blanca|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5663|Rural|
+36210|El Amarillo (Las Pilas)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5674|Rural|
+36210|El Monte de Anguiano|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5692|Rural|
+36210|El Ramadero (Jorge Méndez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5702|Rural|
+36210|La Noria (Mezquite Gordo)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5807|Rural|
+36210|Las Cruces|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5826|Rural|
+36210|Rancho la Concepción|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5884|Rural|
+36210|San Vicente|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5928|Rural|
+36210|Maritas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0065|Rural|
+36210|El Pozo Viejo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5700|Rural|
+36210|El Rincón de los Gasca|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5703|Rural|
+36210|El Taller (Ejido Colonia Juárez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5705|Rural|
+36210|El Tecolote|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5707|Rural|
+36210|El Tuzo (Heriberto González Lara)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5710|Rural|
+36210|Granja Guzmán (Salvador Guzmán)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5737|Rural|
+36210|Granja la Concepción|Granja|Romita|Guanajuato||36201|11|36201||23|026|5740|Rural|
+36210|Javier Anguiano|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5772|Rural|
+36210|La Noria de Chapingo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5808|Rural|
+36210|Los Marmolejo (Las Cruces)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5835|Rural|
+36210|Miguel Rojas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5851|Rural|
+36210|Monte de San Salvador (Los Méndez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5853|Rural|
+36210|Pedro Reyes|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5869|Rural|
+36210|Rogelio Gutiérrez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5894|Rural|
+36210|Tierras Pintas (René Sánchez Montoya)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5942|Rural|
+36210|Celayita de Tejamanil|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4699|Rural|
+36210|Capilla Blanca (Santa Teresa)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5665|Rural|
+36210|Francisco Medina|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5724|Rural|
+36210|Granja Antonio Sánchez|Granja|Romita|Guanajuato||36201|11|36201||23|026|5728|Rural|
+36210|Granja Domingo Trejo|Granja|Romita|Guanajuato||36201|11|36201||23|026|5732|Rural|
+36210|Granja las Charritas|Granja|Romita|Guanajuato||36201|11|36201||23|026|5744|Rural|
+36210|Las Polvaderas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5830|Rural|
+36210|Los Guzmán (La Caseta)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5834|Rural|
+36210|Santa Lucía (Delfino Mendoza)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5936|Rural|
+36210|Amansio Elías|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5654|Rural|
+36210|El Monte (Los Zavala)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5691|Rural|
+36210|Granja de los Tres Álamos (Luz Guzmán)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5730|Rural|
+36210|Granja Jacaranda (Los Rangel)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5739|Rural|
+36210|Granja las Margaritas|Granja|Romita|Guanajuato||36201|11|36201||23|026|5745|Rural|
+36210|Granja los Reyes|Granja|Romita|Guanajuato||36201|11|36201||23|026|5746|Rural|
+36210|Granja los Sauces (Jesús López)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5747|Rural|
+36210|Granja San Rafael (Constantino Rodríguez)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5757|Rural|
+36210|La Gloria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5801|Rural|
+36210|Los Reyes (Monte de la Malanca)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5839|Rural|
+36210|Manuel Domínguez Soria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5847|Rural|
+36210|Rancho de Toñín|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5879|Rural|
+36210|Rincón de los Martínez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5892|Rural|
+36210|Tomás García Méndez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5943|Rural|
+36210|El Huizachal (Pedro Marmolejo)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5685|Rural|
+36210|El Ingeniero|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5686|Rural|
+36210|El Monte de la Malanca|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5693|Rural|
+36210|El Tecolote (Los Martínez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5708|Rural|
+36210|Granja la Españita (Filomeno Martínez)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5741|Rural|
+36210|Granja San Francisco|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5753|Rural|
+36210|Granja Tierra Larga|Granja|Romita|Guanajuato||36201|11|36201||23|026|5764|Rural|
+36210|Ignacio Rodríguez Porras|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5771|Rural|
+36210|José Guzmán Caudillo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5777|Rural|
+36210|Las Pilas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5828|Rural|
+36210|Los Guerra|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5832|Rural|
+36210|Los Reyes (Los Caudillo)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5838|Rural|
+36210|Noria de los Méndez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5858|Rural|
+36210|Rancho Calderón del Bajío|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5874|Rural|
+36210|Sagrado Corazón de Jesús (La Noria de Lole)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5895|Rural|
+36210|Tierras Negras|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5941|Rural|
+36210|Capilla Blanca (Rancho de los Pérez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5664|Rural|
+36210|El Monte (Carmen García)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5690|Rural|
+36210|Granja Nuestra Señora del Carmen (Tirsio)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5750|Rural|
+36210|Idelfonso Marmolejo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5770|Rural|
+36210|Javier Segura Rangel|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5773|Rural|
+36210|Justino Gutiérrez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5787|Rural|
+36210|La Caseta|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5795|Rural|
+36210|La Concepción de Fernández|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5796|Rural|
+36210|Noria de los Jasso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5857|Rural|
+36210|Granja Maravillas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0063|Rural|
+36210|Donasiano Salinas y Sansón|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5671|Rural|
+36210|El Monte de la Malanca (Ventura Salinas)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5694|Rural|
+36210|Fracción los Hernández|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5720|Rural|
+36210|Granja San Francisco|Granja|Romita|Guanajuato||36201|11|36201||23|026|5752|Rural|
+36210|Los Gutiérrez (Ejido Colonia Juárez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5833|Rural|
+36210|Martín Frausto (El Texano)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5850|Rural|
+36210|San Isidro (Los Pérez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5911|Rural|
+36212|El Escoplo|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0042|Rural|
+36212|Juan Gamiño|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5780|Rural|
+36212|La Bonita del Pochote Dos|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5790|Rural|
+36212|La Escondida|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5799|Rural|
+36212|La Paz|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5813|Rural|
+36212|La Rosa|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5823|Rural|
+36212|Noria de Silva|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5859|Rural|
+36212|Rancho las Polvorillas|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5885|Rural|
+36212|Fracción la Paz (Quinta Galo)|Colonia|Romita|Guanajuato||36201|11|36201||09|026|5227|Rural|
+36212|El Cuete (Güero Perla)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5679|Rural|
+36212|Granja Andrade|Granja|Romita|Guanajuato||36201|11|36201||23|026|5727|Rural|
+36212|Granja San Hipólito (Don Eufemio)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5754|Rural|
+36212|Granja Santa Rosa|Granja|Romita|Guanajuato||36201|11|36201||23|026|5763|Rural|
+36212|La Bonita del Pochote|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5789|Rural|
+36212|La Paz de Dios|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5815|Rural|
+36212|La Paz de Dios (Chayo Ramos)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5816|Rural|
+36212|Las Playas de Guadalupe (El Chino)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5829|Rural|
+36212|Luis Barroso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5843|Rural|
+36212|Nueva Paz de Dios|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5862|Rural|
+36212|Colonia Rafael Corrales Ayala|Colonia|Romita|Guanajuato||36201|11|36201||09|026|4700|Rural|
+36212|El Zapote|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5421|Rural|
+36212|Fraccionamiento Campestre Lomas del Sur|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5722|Rural|
+36212|Granja Hortencia|Granja|Romita|Guanajuato||36201|11|36201||23|026|5738|Rural|
+36212|Granja la Soledad|Granja|Romita|Guanajuato||36201|11|36201||23|026|5743|Rural|
+36212|Jesús Barroso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5774|Rural|
+36212|La Providencia|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5818|Rural|
+36212|La Providencia (Pedro Rangel)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5819|Rural|
+36212|Lagunillas (Fernando Nava González)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5825|Rural|
+36212|Rancho de Don Benjamín|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5875|Rural|
+36212|Granja Santa Cruz|Granja|Romita|Guanajuato||36201|11|36201||23|026|5761|Rural|
+36212|La Paz (Carlos Rocha)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5814|Rural|
+36212|La Purísima (Rancho de Efrén Méndez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5821|Rural|
+36212|La Trinidad|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5824|Rural|
+36212|Los Mendoza (La Resolana)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5836|Rural|
+36212|Rancho Güero|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5883|Rural|
+36212|San Antonio del Pochote|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5900|Rural|
+36212|Santa Julia|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5935|Rural|
+36212|Santa Mónica|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5937|Rural|
+36212|Silva|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0048|Rural|
+36212|Loma Bonita|Colonia|Romita|Guanajuato||36201|11|36201||09|026|4692|Rural|
+36212|Colonia Nueva Creación|Colonia|Romita|Guanajuato||36201|11|36201||09|026|5228|Rural|
+36212|Benito Rodríguez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5658|Rural|
+36212|El Cuete (Jesús Granados Calderón)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5680|Rural|
+36212|Granja de Abel Valtierra (La Rosa)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5729|Rural|
+36212|Granja Yolanda|Granja|Romita|Guanajuato||36201|11|36201||23|026|5765|Rural|
+36212|Guadalupe Buzo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5766|Rural|
+36212|La Casa de Vicente|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5792|Rural|
+36212|La Noria (José Jaramillo)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5806|Rural|
+36212|Luis Barroso|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5844|Rural|
+36212|Ofelia Chacón|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5863|Rural|
+36212|Rancho de los Rodríguez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5877|Rural|
+36212|San Gonzalo|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0047|Rural|
+36212|Colonia la Perla|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5667|Rural|
+36212|El Venado|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5712|Rural|
+36212|Granja María de la Luz|Granja|Romita|Guanajuato||36201|11|36201||23|026|5748|Rural|
+36212|Granja María Teresa|Granja|Romita|Guanajuato||36201|11|36201||23|026|5749|Rural|
+36212|La Casa de Ángel|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5791|Rural|
+36212|La Noria de Pedro Ramírez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5810|Rural|
+36212|La Purísima (Don Armando)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5820|Rural|
+36212|Los Valdez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5842|Rural|
+36212|Lupe Padilla|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5845|Rural|
+36212|Noria de Jesús Ríos|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5856|Rural|
+36212|Rancho el Escoplo (Nicolás Velázquez)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5880|Rural|
+36212|Cuarta del Guaricho|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5669|Rural|
+36212|El Cariño|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5677|Rural|
+36212|El Fresno|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5681|Rural|
+36212|El Maguey (Rancho de los Silva)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5688|Rural|
+36212|Granja San Hipólito (José Ramírez)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5755|Rural|
+36212|Granja San Manuel|Granja|Romita|Guanajuato||36201|11|36201||23|026|5756|Rural|
+36212|Juan Muñoz|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5783|Rural|
+36212|La Parra de Don David (La Trinidad)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5812|Rural|
+36212|Pedro Rangel (San Isidro Polvorillas)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5868|Rural|
+36212|Rancho San Hipólito|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5888|Rural|
+36212|Fracción la Paz (Los Rangel)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5719|Rural|
+36212|Granja Santa Isabel|Granja|Romita|Guanajuato||36201|11|36201||23|026|5762|Rural|
+36212|Guadalupe Jaramillo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5768|Rural|
+36212|Gustavo Trejo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5769|Rural|
+36212|Los Reyes|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5837|Rural|
+36212|Rancho de Silvestre Valadez|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5878|Rural|
+36212|Rancho el Escoplo (Señora Velázquez)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5881|Rural|
+36212|San Isidro de las Polvorillas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5912|Rural|
+36213|La Cumbre|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5797|Rural|
+36213|Santa Gertrudis (Santa Tula)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4698|Rural|
+36213|El Carmen de Sánchez (La Ponzoña)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0064|Rural|
+36213|Vista Hermosa|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4697|Rural|
+36213|El Gallo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5682|Rural|
+36213|El Mogote|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5689|Rural|
+36213|Santo Domingo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5938|Rural|
+36213|San Clemente|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0066|Rural|
+36213|Santa Rosa de Rivas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0067|Rural|
+36214|San Pedrito de López (El Tenamaste)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4690|Rural|
+36214|Belén de Gavita|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4695|Rural|
+36214|El Monte de San Carlos del Jagüey|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5695|Rural|
+36214|El Jagüey|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0050|Rural|
+36214|Luz de Silva|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4686|Rural|
+36214|La Adriana|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5788|Rural|
+36214|La Primavera|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5817|Rural|
+36214|El Jagüey (Manuel Luna)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5687|Rural|
+36214|Jesús Muñoz|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5776|Rural|
+36214|José Ponce|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5778|Rural|
+36214|La Joya|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5803|Rural|
+36214|San Agustín|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5897|Rural|
+36214|San José del Jagüey|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5918|Rural|
+36214|Ninguno [La Bodega]|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5854|Rural|
+36214|Plan Libertador (El Xoconoxtle)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5870|Rural|
+36214|Santa Elena (David López)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5933|Rural|
+36214|Lourdes|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4574|Rural|
+36214|La Huizachada (La Loma)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5802|Rural|
+36214|La Loma|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5804|Rural|
+36214|El Camaleón|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0049|Rural|
+36214|Juan Nila Ramírez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5784|Rural|
+36214|Vía a Valenciana|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5946|Rural|
+36214|San Carlos del Jagüey|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0052|Rural|
+36214|Valenciana de Gavia|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0056|Rural|
+36214|Cuatro Milpas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5670|Rural|
+36214|Granja del Doctor (Largana)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5731|Rural|
+36214|La Esmeralda|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5800|Rural|
+36214|Rancho los Olivos|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5886|Rural|
+36214|Reyes de San José (El Nido)|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5891|Rural|
+36214|Santa Elena de la Cruz (La Oreja)|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5934|Rural|
+36215|Pedregal de Barroso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0071|Rural|
+36215|Benjamín García|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5659|Rural|
+36215|Cruz Guadián|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5668|Rural|
+36215|El Sillero (La Viuda de Flores)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5704|Rural|
+36215|El Vallecillo (Lupe Guadián)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5711|Rural|
+36215|Granja San Vicente|Granja|Romita|Guanajuato||36201|11|36201||23|026|5758|Rural|
+36215|Juan Ramírez Rangel|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5785|Rural|
+36215|San Miguel del Guaricho|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0068|Rural|
+36215|El Tapanco|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5706|Rural|
+36215|Fracción Guaricho (Raúl Torres)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5718|Rural|
+36215|Roberto Rocha|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5893|Rural|
+36215|Los Ángeles|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0070|Rural|
+36215|Antolino Pérez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5656|Rural|
+36215|El Progreso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5701|Rural|
+36215|Granja el Maguey|Granja|Romita|Guanajuato||36201|11|36201||23|026|5734|Rural|
+36215|Granja la Luz (Moisés García)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5742|Rural|
+36215|Providencia de Rangel (El Barrial)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5872|Rural|
+36215|Salvador González|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5896|Rural|
+36215|El Mármol|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0054|Rural|
+36215|Ángel Banderas Pérez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5655|Rural|
+36215|El Guaricho|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5683|Rural|
+36215|El Guaricho (Cruz Castro)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5684|Rural|
+36215|Granja San Ángel Fracción del Guaricho|Granja|Romita|Guanajuato||36201|11|36201||23|026|5751|Rural|
+36215|Juan Silva|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5786|Rural|
+36215|Rancho Agrícola|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5873|Rural|
+36215|Rancho de Don Joaquín|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5876|Rural|
+36215|San Felipe|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5904|Rural|
+36215|Pedregal de Martínez|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4687|Rural|
+36215|El Pochote|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5699|Rural|
+36215|Fracción del Sillero (Los Barroso)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5716|Rural|
+36215|Granja Guillermo Rocha|Granja|Romita|Guanajuato||36201|11|36201||23|026|5736|Rural|
+36215|La Palma|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5811|Rural|
+36215|Marcelino González|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5848|Rural|
+36215|Santos Zavala|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5939|Rural|
+36215|Tomás López|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5944|Rural|
+36215|Camerino Banderas Pérez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5662|Rural|
+36215|Fracción Guaricho (Crispín Vargas)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5717|Rural|
+36215|Gabriel García (Las Camelias)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5726|Rural|
+36215|Pedregal de Rangel|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5867|Rural|
+36215|Jesús López|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5775|Rural|
+36215|Juan Guadián|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5781|Rural|
+36215|Buenavista Chica (San Antonio Chico)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5660|Rural|
+36215|Fracción del Guaricho (José Barroso)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5715|Rural|
+36215|Granja San Vicente (Tabla de la Purísima)|Granja|Romita|Guanajuato||36201|11|36201||23|026|5759|Rural|
+36215|San Fernando del Guaricho|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5905|Rural|
+36215|Santa Anita del Guaricho (Corea)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5932|Rural|
+36215|San Francisco de Ortega|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5908|Rural|
+36216|La Cruz de Aguilar|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0069|Rural|
+36216|Ojos de Rana|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0073|Rural|
+36216|El Verino|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5713|Rural|
+36216|Buenavista de San Francisco|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5661|Rural|
+36216|Fraccionamiento San Ramón|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5723|Rural|
+36216|Guadalupe de Amoles (El Camarón)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5767|Rural|
+36216|Nueva California|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5860|Rural|
+36216|San José de Cuba|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5914|Rural|
+36216|San Luisito (Benito Landeros)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5919|Rural|
+36216|San Luisito de Amoles|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5920|Rural|
+36216|Elías Martínez|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5714|Rural|
+36216|Francisco Romo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5725|Rural|
+36216|Ojos de Rana (Juan González)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5864|Rural|
+36216|Providencia de Rangel (Benito Mata)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5871|Rural|
+36216|San Ramón Viejo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5926|Rural|
+36216|Santa Ana|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5930|Rural|
+36216|El Pato (Ejido Guadalupe de Amoles)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5698|Rural|
+36216|Granja Gómez|Granja|Romita|Guanajuato||36201|11|36201||23|026|5735|Rural|
+36216|Las Lajas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5827|Rural|
+36216|Refugio de Gavia|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5890|Rural|
+36216|San Antonio|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5899|Rural|
+36216|San Francisco de Gavia Dos (El Chocho)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5907|Rural|
+36216|San Isidro|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5909|Rural|
+36216|San José de Amoles (El Diluvio)|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5913|Rural|
+36216|San Nicolás|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5923|Rural|
+36216|Monte de Hoyos|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0058|Rural|
+36216|La Casa del Durazno|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5794|Rural|
+36216|Rancho Viejo|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5889|Rural|
+36216|San Martín de Amoles|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5922|Rural|
+36216|Colonia de Gavia|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5666|Rural|
+36216|El Pato|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5697|Rural|
+36216|La Efigenia (Los Ruiseñor)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5798|Rural|
+36216|La Noria de José Acosta|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5809|Rural|
+36216|Ojos de Rana (Saúl Aguirre Gallardo)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5865|Rural|
+36216|San Ramón Viejo (Faustino Arredondo)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5927|Rural|
+36216|Santa Efigenia|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0045|Rural|
+36216|Luz de Buenavista (Las Pulgas)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4688|Rural|
+36216|Antonio Estrada (Gavia de Rivas)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5657|Rural|
+36216|El Nuevo San Antonio (La Loma)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5696|Rural|
+36216|La Rana|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5822|Rural|
+36216|Los Amoles|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0072|Rural|
+36216|San Francisco de Gavia Uno|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4693|Rural|
+36216|El Barrial|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5675|Rural|
+36216|La Muralla Nueva|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5805|Rural|
+36216|Los Sabinos|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5841|Rural|
+36216|Luz de Buenavista Chica|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5846|Rural|
+36216|San Ángel (Rancho de Godoy)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5898|Rural|
+36216|San Francisco de Gavia|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5906|Rural|
+36216|San Luisito de Amoles (El Ranchito)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5921|Rural|
+36216|Saúl Aguirre Gallardo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5940|Rural|
+36217|El Paraíso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0078|Rural|
+36217|Las Tablas Nuevas (La Oreja)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4696|Rural|
+36217|Las Tablas|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0074|Rural|
+36217|La Angostura (José Ramírez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0076|Rural|
+36217|Tierras Blancas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0077|Rural|
+36217|San Pedrito de Roma|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5925|Rural|
+36217|San Isidro Ojo de Agua|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0075|Rural|
+36217|San José del Paraíso|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0079|Rural|
+36217|San José de la Angostura (Ejido Paso de León)|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5915|Rural|
+36217|Paso de León (El Tildio)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5866|Rural|
+36217|San Nicolás de Martínez (Tadeo Martínez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5924|Rural|
+36217|San Antonio Cerro Prieto|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0060|Rural|
+36217|El Berrinche|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5676|Rural|
+36218|San José de Solís (La Garita)|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4691|Rural|
+36218|Los Ocotes|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0057|Rural|
+36218|Santa Rosalía de Gavia|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|0059|Rural|
+36218|Fracción Santa Rosalía de Gavia|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5721|Rural|
+36218|Loma de Portillo|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5831|Rural|
+36218|Los Ruiseñor (Luis García)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5840|Rural|
+36218|Gavia de Rivas|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0055|Rural|
+36218|Granja Santa Anita|Granja|Romita|Guanajuato||36201|11|36201||23|026|5760|Rural|
+36218|San Vicente de Tuna Agria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5929|Rural|
+36218|Nueva California (Roberto Juárez)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5861|Rural|
+36218|San José de la Concepción|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5916|Rural|
+36218|San José de Tuna Agria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5917|Rural|
+36218|Gavia de Rionda|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0043|Rural|
+36218|La Sardina|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0051|Rural|
+36218|San Jorge de Tuna Agria|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4689|Rural|
+36218|El Carril de Romita|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5678|Rural|
+36218|Marcos Juárez Vargas (Valle Hermoso)|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5849|Rural|
+36218|San Carlos|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5902|Rural|
+36218|San Carlos Tuna Agria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5903|Rural|
+36218|Tuna Agria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|0053|Rural|
+36218|San Ramón Nuevo|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|4694|Rural|
+36218|San Antonio Loma de Portillo|Poblado comunal|Romita|Guanajuato||36201|11|36201||27|026|5901|Rural|
+36218|Rancho los Tavares|Ranchería|Romita|Guanajuato||36201|11|36201||29|026|5887|Rural|
+36218|Santa Anita de Tuna Agria|Ejido|Romita|Guanajuato||36201|11|36201||15|026|5931|Rural|

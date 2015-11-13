@@ -1,0 +1,43 @@
+45300|Tala Centro|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|0959|Semiurbano|31
+45302|La Higuera|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3628|Semiurbano|31
+45303|Tempisque|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3632|Semiurbano|31
+45303|Los Naranjos|Fraccionamiento|Tala|Jalisco|Tala|45301|14|45301||21|083|4301|Semiurbano|31
+45303|Jacarandas|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3631|Semiurbano|31
+45303|La Higuerita|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3629|Semiurbano|31
+45303|Los Cerritos|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3630|Semiurbano|31
+45303|El Mirador|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3638|Semiurbano|31
+45305|El Álamo|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3633|Semiurbano|31
+45306|Manuel M Dieguez|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3634|Semiurbano|31
+45306|La Estancia|Fraccionamiento|Tala|Jalisco|Tala|45301|14|45301||21|083|0001|Urbano|31
+45306|Camino Real|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3635|Semiurbano|31
+45306|La Estancia 2da. Sección|Fraccionamiento|Tala|Jalisco|Tala|45301|14|45301||21|083|0002|Urbano|31
+45307|El Ranchito|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3621|Semiurbano|31
+45307|La Cañera|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3636|Semiurbano|31
+45307|Los Fresnos|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3620|Semiurbano|31
+45307|Guadalupe|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3622|Semiurbano|31
+45307|Las Rosas|Fraccionamiento|Tala|Jalisco|Tala|45301|14|45301||21|083|4870|Urbano|31
+45308|Puerta Grande|Fraccionamiento|Tala|Jalisco|Tala|45301|14|45301||21|083|5307|Urbano|31
+45308|Infonavit Lagunitas|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3627|Semiurbano|31
+45308|San Francisco|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3639|Semiurbano|31
+45308|Los Maestros|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3624|Semiurbano|31
+45308|Obrera|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3623|Semiurbano|31
+45308|Gamboa|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3625|Semiurbano|31
+45308|Libertad|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3626|Semiurbano|31
+45308|Ingenio|Colonia|Tala|Jalisco|Tala|45301|14|45301||09|083|3637|Semiurbano|31
+45310|Tala|Ingenio|Tala|Jalisco||45301|14|45301||25|083|0961|Rural|
+45310|Guadalupe|Ranchería|Tala|Jalisco||45301|14|45301||29|083|0958|Rural|
+45310|El Refugio|Hacienda|Tala|Jalisco||45301|14|45301||24|083|0962|Rural|
+45314|Los Ruiseñores|Fraccionamiento|Tala|Jalisco||45301|14|45301||21|083|4862|Rural|
+45315|Flores|Ranchería|Tala|Jalisco||45642|14|45642||29|083|0963|Rural|
+45320|Cuisillos|Hacienda|Tala|Jalisco||45301|14|45301||24|083|0964|Rural|
+45325|Pacana|Hacienda|Tala|Jalisco||45301|14|45301||24|083|0966|Rural|
+45325|Castro Urdiales|Hacienda|Tala|Jalisco||45301|14|45301||24|083|0965|Rural|
+45330|Ahuisculco|Congregación|Tala|Jalisco||45301|14|45301||11|083|0967|Rural|
+45331|San Juan de los Arcos|Hacienda|Tala|Jalisco||45301|14|45301||24|083|0968|Rural|
+45335|Las Navajas|Hacienda|Tala|Jalisco||45301|14|45301||24|083|0969|Rural|
+45340|San Isidro Mazatepec|Hacienda|Tala|Jalisco||45642|14|45642||24|083|0970|Rural|
+45341|Cuspala|Ranchería|Tala|Jalisco||45301|14|45301||29|083|0971|Rural|
+45345|La Villita|Ranchería|Tala|Jalisco||45301|14|45301||29|083|0972|Rural|
+45347|San Antonio Mazatepec|Ranchería|Tala|Jalisco||45301|14|45301||29|083|0973|Rural|
+45348|Mazatepec|Estación|Tala|Jalisco||45301|14|45301||16|083|0974|Rural|
+45349|San Ignacio de Carboneras|Pueblo|Tala|Jalisco||45301|14|45301||28|083|0975|Rural|

@@ -1,0 +1,10 @@
+99980|Moyahua Centro|Colonia|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99981|32|99981||09|033|0750|Rural|15
+99984|Santa Cruz|Fraccionamiento|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99981|32|99981||21|033|1022|Rural|15
+99984|Santa Maria|Fraccionamiento|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99981|32|99981||21|033|1024|Rural|15
+99987|Bajío Blanco|Fraccionamiento|Moyahua de Estrada|Zacatecas|Moyahua de Estrada|99981|32|99981||21|033|1023|Rural|15
+99990|Alameda Juárez|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0754|Rural|
+99993|Cuxpala|Pueblo|Moyahua de Estrada|Zacatecas||99981|32|99981||28|033|0753|Rural|
+99994|Vicente Guerrero|Pueblo|Moyahua de Estrada|Zacatecas||99981|32|99981||28|033|0751|Rural|
+99998|Palmarejo|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0756|Rural|
+99998|San Jose de Palmarejo|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0757|Rural|
+99998|Jesús Maria|Ranchería|Moyahua de Estrada|Zacatecas||99961|32|99961||29|033|0755|Rural|

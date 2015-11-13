@@ -1,0 +1,29 @@
+71100|Fortín|Barrio|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||02|026|5863|Urbano|
+71100|Chalcatongo de Hidalgo|Pueblo|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||28|026|2656|Rural|
+71100|Natividad|Barrio|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||02|026|5862|Urbano|
+71103|Reforma|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2669|Rural|
+71103|El Portillo|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|5865|Rural|
+71103|La Providencia|Congregación|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||11|026|2665|Rural|
+71103|Guadalupe Villanueva|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|5866|Rural|
+71103|Reyes Ixcatlán|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|5868|Rural|
+71103|Santa Catalina Yuxía|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2671|Rural|
+71103|La Paz|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2664|Rural|
+71104|Allende|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2674|Rural|
+71104|Abasolo|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2668|Rural|
+71105|Chapultepec|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2662|Rural|
+71105|Plan de Ayala|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|5867|Rural|
+71105|Progreso|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2666|Rural|
+71105|Independencia|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2675|Rural|
+71105|Iturbide|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2657|Rural|
+71106|Zaragoza|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2661|Rural|
+71106|El Fortín|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|4435|Rural|
+71106|Yutianucaje|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|5870|Rural|
+71106|Juárez|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2658|Rural|
+71106|Guerrero|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2660|Rural|
+71106|Colonia Yurancho|Colonia|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||09|026|5864|Rural|
+71106|Vista Alegre|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|5869|Rural|
+71106|Hidalgo|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2663|Rural|
+71106|Vista Hermosa|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|4434|Rural|
+71107|La Unión|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2659|Rural|
+71107|Cañada de Morelos|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2670|Rural|
+71107|Molinos Aldama|Ranchería|Chalcatongo de Hidalgo|Oaxaca||71102|20|71102||29|026|2673|Rural|

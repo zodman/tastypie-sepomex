@@ -1,0 +1,50 @@
+62840|Santa Bárbara|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1537|Rural|
+62840|San Mateo|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1538|Rural|
+62840|La Asunción|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1540|Rural|
+62840|San Sebastián|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1541|Rural|
+62840|San Lucas|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1542|Rural|
+62840|Atlatlahucan|Pueblo|Atlatlahucan|Morelos||62734|17|62734||28|002|0553|Rural|
+62840|Los Reyes|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1535|Rural|
+62843|Santo Tomás|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1533|Rural|
+62843|San Antonio|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1532|Rural|
+62843|San Antonio|Ampliación|Atlatlahucan|Morelos||62734|17|62734||38|002|1530|Rural|
+62843|Emiliano Zapata|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1531|Rural|
+62843|El Puente|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|1534|Rural|
+62843|El Mirador|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1536|Rural|
+62844|Hacienda del Rey|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|1539|Rural|
+62844|San Marcos|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1543|Rural|
+62844|Guadalupana|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1544|Rural|
+62844|San Andrés|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1545|Rural|
+62844|Santa Ana|Ampliación|Atlatlahucan|Morelos||62734|17|62734||38|002|1547|Rural|
+62844|Santa Ana|Barrio|Atlatlahucan|Morelos||62734|17|62734||02|002|1546|Rural|
+62845|Centro Asturiano de México|Congregación|Atlatlahucan|Morelos||62734|17|62734||11|002|1509|Rural|
+62845|Hacienda la Alborada|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|1510|Rural|
+62845|Pozo Mancera|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1511|Rural|
+62845|Telchicayac (Cabellito)|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1512|Rural|
+62845|El Chilar|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1513|Rural|
+62845|Loma de Malpais|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1515|Rural|
+62845|Santa Inés|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|0555|Rural|
+62845|San Diego Tepantongo|Pueblo|Atlatlahucan|Morelos||62734|17|62734||28|002|0561|Rural|
+62845|El Oasis|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1508|Rural|
+62845|Rancho Santa Cruz|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1514|Rural|
+62845|Tlaltetelco (San Miguel Tlaltetelco)|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|0554|Rural|
+62845|La Cascada|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|0560|Rural|
+62845|El Astillero|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1507|Rural|
+62846|El Salto|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1518|Rural|
+62846|Kunetzin de los Volcanes|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|1524|Rural|
+62846|El Jaral|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1528|Rural|
+62846|Telminca|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1519|Rural|
+62846|Juan Antonio|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1526|Rural|
+62846|Framboyanes|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|1521|Rural|
+62846|La Tortuga|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1517|Rural|
+62846|Los Cerritos|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1522|Rural|
+62846|San Francisco|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|0557|Rural|
+62846|Achititlán|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1520|Rural|
+62846|Mochomilpa de San Francisco|Ranchería|Atlatlahucan|Morelos||62734|17|62734||29|002|1523|Rural|
+62846|Punta de Malpais|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1516|Rural|
+62846|La Mohonera|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|1525|Rural|
+62846|Kilómetro 88|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|0558|Rural|
+62847|Lomas de Cocoyoc|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|0946|Semiurbano|
+62847|Vicente Guerrero|Unidad habitacional|Atlatlahucan|Morelos||62734|17|62734||31|002|1504|Rural|
+62847|Lomas de San Juan Texcalpan|Fraccionamiento|Atlatlahucan|Morelos||62734|17|62734||21|002|1529|Rural|
+62847|San Juan Texcalpan|Colonia|Atlatlahucan|Morelos||62734|17|62734||09|002|0559|Rural|

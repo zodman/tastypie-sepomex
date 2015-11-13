@@ -1,0 +1,419 @@
+33000|Ciudad Delicias Centro|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1430|Urbano|04
+33000|Sector Sur|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|3756|Urbano|04
+33000|Sector Oriente|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|3757|Urbano|04
+33000|Bugambilias|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3806|Urbano|04
+33000|Sector Norte|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|0686|Urbano|04
+33000|Sector Poniente|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|0687|Urbano|04
+33010|Carmen Serdán|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1432|Urbano|04
+33010|Cipreses|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3751|Urbano|04
+33013|Central de Abastos|Equipamiento|Delicias|Chihuahua|Delicias|33001|08|33001||17|021|0001|Urbano|04
+33013|Quintas Mariana|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|7338|Urbano|04
+33014|Paseos del Algodón|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|0004|Urbano|04
+33016|Solidaridad|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1433|Urbano|04
+33016|Las Vírgenes|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|2865|Urbano|04
+33017|Santa Catarina|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3702|Urbano|04
+33017|Las Torres|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3700|Urbano|04
+33017|Santa Gertrudis|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3609|Urbano|04
+33017|Laderas del Norte|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3694|Urbano|04
+33017|Paseo las Virgenes|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|4185|Urbano|04
+33017|Inf. los Nogales|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1434|Urbano|04
+33018|Las Vírgenes|Parque industrial|Delicias|Chihuahua|Delicias|33001|08|33001||26|021|1435|Urbano|04
+33018|San Marcos|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3612|Urbano|04
+33019|Las Flores|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1437|Urbano|04
+33019|Inf. Cielo Vista|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|1436|Urbano|04
+33020|El Pedregal|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3610|Urbano|04
+33020|Señor Lorenzo Hernández|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3811|Urbano|04
+33020|El Pedregal III|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3810|Urbano|04
+33020|El Pedregal II|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3809|Urbano|04
+33020|Villas del Sol|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3611|Urbano|04
+33020|Rincón del Álamo|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3699|Urbano|04
+33023|Tecnologico|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|5775|Urbano|04
+33023|El Progreso|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|5774|Urbano|04
+33023|Valle de Monte Alban|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|5773|Urbano|04
+33023|Monte Alban|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|5776|Urbano|04
+33029|Flamingo|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3614|Urbano|04
+33029|Montealbán|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|4131|Urbano|04
+33029|Revolución|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|4133|Urbano|04
+33029|La Labor|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3755|Urbano|04
+33029|Obrera|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1439|Urbano|04
+33030|Industrial Norte|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|2867|Urbano|04
+33030|Imperial|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1440|Urbano|04
+33038|Lotes Urbanos|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|2866|Urbano|04
+33038|Del Real|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3401|Urbano|04
+33038|Carmona|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1441|Urbano|04
+33038|Campo Real|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|5891|Urbano|04
+33038|Las Misiones|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3701|Urbano|04
+33039|Norte Infonavit|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|1442|Urbano|04
+33040|Los Naranjos|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1443|Urbano|04
+33050|Loma de Pérez|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1444|Urbano|04
+33058|Los Nogales|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1445|Urbano|04
+33059|Del Empleado|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1446|Urbano|04
+33060|San Isidro|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1449|Urbano|04
+33060|Benito Juárez|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1447|Urbano|04
+33060|Delia|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1448|Urbano|04
+33060|Villa los Laureles|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1450|Urbano|04
+33063|Fovissste Garzas|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3807|Urbano|04
+33063|Residencial del Bosque|Residencial|Delicias|Chihuahua|Delicias|33001|08|33001||30|021|3813|Urbano|04
+33063|Oasis Galerias|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3814|Urbano|04
+33065|Inf. Nuevo Delicias|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|1451|Urbano|04
+33066|31 de Octubre|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1453|Urbano|04
+33067|Fovissste 1 (Las Garzas)|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1454|Urbano|04
+33068|Viñedos|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1455|Urbano|04
+33069|Los Pinos|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1456|Urbano|04
+33070|El Álamo|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3805|Urbano|04
+33070|Infonavit Sur|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|1457|Urbano|04
+33070|Residencial Jardín|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1458|Urbano|04
+33070|Inf. Delicias Sur|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3804|Urbano|04
+33070|Pueblo Bonito|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1460|Urbano|04
+33070|La Llave de Oro|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1459|Urbano|04
+33076|Alameda|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1461|Urbano|04
+33076|Los Ángeles|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1463|Urbano|04
+33076|Las Haciendas|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1462|Urbano|04
+33077|Fovissste Granjas|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|2868|Urbano|04
+33077|Santa Sofía|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|9660|Urbano|04
+33077|La Cantera|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3752|Urbano|04
+33077|Las Granjas|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|4230|Urbano|04
+33077|San Patricio|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1466|Urbano|04
+33077|Delicias Residencial|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1465|Urbano|04
+33077|San Andrés|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|4186|Urbano|04
+33077|Residencial Santa Mónica|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3758|Urbano|04
+33078|Magisterial|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1468|Urbano|04
+33078|Infonavit Revolución|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|2869|Urbano|04
+33078|Infonavit Norte|Unidad habitacional|Delicias|Chihuahua|Delicias|33001|08|33001||31|021|1467|Urbano|04
+33078|Fátima|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3399|Urbano|04
+33080|División del Norte|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1470|Urbano|04
+33080|Francisco Villa|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1471|Urbano|04
+33083|Parque Industrial Delicias|Parque industrial|Delicias|Chihuahua|Delicias|33001|08|33001||26|021|4132|Urbano|04
+33084|Haciendas del Valle|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|4210|Urbano|04
+33084|Laderas del Valle|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1472|Urbano|04
+33085|Privada del Cumbres|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|0005|Urbano|04
+33085|Los Girasoles|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1474|Urbano|04
+33085|Cumbres del Deporte|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|4206|Urbano|04
+33085|Colinas del Valle|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|5772|Urbano|04
+33085|Flores del Tepeyac|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1473|Urbano|04
+33086|Francisco Villa|Ampliación|Delicias|Chihuahua|Delicias|33001|08|33001||38|021|1475|Urbano|04
+33086|La Salle|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|0639|Urbano|04
+33086|Ricardo Flores Magón|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1479|Urbano|04
+33086|San Carlos|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3695|Urbano|04
+33086|Granja Santo Niño|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1480|Urbano|04
+33086|San Francisco|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|2860|Urbano|04
+33086|Las Hueras IV Etapa|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3812|Urbano|04
+33086|Los Jazmines|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|0650|Urbano|04
+33086|Las Huertas|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1476|Urbano|04
+33086|Linda Vista|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1477|Urbano|04
+33086|Amp.Linda Vista|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1478|Urbano|04
+33086|Magisterio 42 Sur|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|2861|Urbano|04
+33086|Las Palmas|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3744|Urbano|04
+33086|Génesis|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|2862|Urbano|04
+33086|El Mirador|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|2863|Urbano|04
+33086|Roma 2|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|3808|Urbano|04
+33086|El Rincón|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3400|Urbano|04
+33087|Del PRI|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1484|Urbano|04
+33087|Roma|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|1485|Urbano|04
+33087|Independencia|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1483|Urbano|04
+33087|Emiliano J. Laing|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1482|Urbano|04
+33087|Desarrollo Urbano|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1481|Urbano|04
+33087|El Refugio|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|2864|Urbano|04
+33087|Las Moras|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3613|Urbano|04
+33088|Fonapo|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1487|Urbano|04
+33088|Parque Industrial Fama|Parque industrial|Delicias|Chihuahua|Delicias|33001|08|33001||26|021|0002|Urbano|04
+33088|Tierra y Libertad|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1489|Urbano|04
+33088|Ignacio C. Enríquez (FONAPO)|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|5733|Urbano|04
+33088|Pablo Gómez|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1488|Urbano|04
+33089|1ro de Mayo|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1490|Urbano|04
+33089|Vencedores del Desierto|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1491|Urbano|04
+33090|Residencial San Jorge|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3753|Urbano|04
+33090|Magisterial|Colonia|Delicias|Chihuahua|Delicias|33001|08|33001||09|021|1492|Urbano|04
+33090|Los Olivos|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|0003|Urbano|04
+33093|Residencial Valle Verde|Fraccionamiento|Delicias|Chihuahua|Delicias|33001|08|33001||21|021|3754|Urbano|04
+33100|Carretera a Rosetilla Kilometro 3|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5381|Rural|
+33100|Golfito el Porvenir|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5443|Rural|
+33100|La Caseta del Canalero|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5476|Rural|
+33100|Ladrillera Meléndez|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5500|Rural|
+33100|Rancho el Jazmín|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5559|Rural|
+33100|Rancho Reyes López|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5585|Rural|
+33100|Rancho Santa Fe|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5590|Rural|
+33100|Colonia Abraham González (La Quemada)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|5892|Rural|
+33100|Colonia el Alamito|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1501|Rural|
+33100|Colonia las Virginias|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1502|Rural|
+33100|Colonia Vicente Guerrero|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|3398|Rural|
+33100|El Gallo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5409|Rural|
+33100|Granja Rico|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5458|Rural|
+33100|La Concepción|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5480|Rural|
+33100|La Joya|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5486|Rural|
+33100|La Joyita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5487|Rural|
+33100|La Rosita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5494|Rural|
+33100|Pénjamo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5541|Rural|
+33100|Rancho Delgado Villa (El Crucero)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5553|Rural|
+33100|Rancho Santa Mónica|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5591|Rural|
+33100|El Olvido|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5421|Rural|
+33100|El Papalote|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5422|Rural|
+33100|La Esperanza|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5483|Rural|
+33100|Colinia Abraham González (La Quemada)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1493|Rural|
+33100|El Quelite|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5428|Rural|
+33100|El Altar|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5395|Rural|
+33100|El Mirador|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5420|Rural|
+33100|Castillo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5382|Rural|
+33100|Santa Teresa|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5632|Rural|
+33100|Veintidós de Enero|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5640|Rural|
+33103|El Menfis|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5415|Rural|
+33103|Santa Cecilia (Rancho Urrutia)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5622|Rural|
+33103|Colonia Santa Fe (El Hachazo)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1504|Rural|
+33103|Betania|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5379|Rural|
+33103|El Charro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5404|Rural|
+33103|Leche Delicias|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5509|Rural|
+33103|Granja Cielo Vista|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5444|Rural|
+33103|La Candelaria|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5475|Rural|
+33103|Rancho los Olivos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5579|Rural|
+33103|Valle del Conchos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5639|Rural|
+33103|El Cañón|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5400|Rural|
+33103|El Sombrerete|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5437|Rural|
+33103|La Aurora|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5473|Rural|
+33103|Los Cedros|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5514|Rural|
+33103|Rancho el Compadre|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5556|Rural|
+33103|El Jaibo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5412|Rural|
+33103|El Pedregal|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5424|Rural|
+33103|El Socorro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5436|Rural|
+33103|San Antonio (Viññedos San Antonio)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5604|Rural|
+33103|Castillón|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5383|Rural|
+33103|El Mirador|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5419|Rural|
+33103|El Tres (El Arere Número Tres)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5439|Rural|
+33103|Granja la Chave|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5449|Rural|
+33103|La Chabeña (El Arete)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5477|Rural|
+33103|Los Tres Chiriscos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5531|Rural|
+33103|El Paraíso|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5423|Rural|
+33104|Miguel Hidalgo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|1497|Rural|
+33105|El Refugio (Los Gómez)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5431|Rural|
+33105|José Reyes Ríos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5469|Rural|
+33105|Juan González|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5470|Rural|
+33105|La Aurora|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5472|Rural|
+33105|Monarca|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5539|Rural|
+33105|Puente Terrazas (Yonke)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5543|Rural|
+33105|San Antonio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5601|Rural|
+33105|El Barril|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5397|Rural|
+33105|El Milagro (Valenzuela)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5418|Rural|
+33105|El Porvenir|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5426|Rural|
+33105|Granja el Refugio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5448|Rural|
+33105|Los López|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5521|Rural|
+33105|San Antonio|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5602|Rural|
+33105|San Pascual Baylón|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5617|Rural|
+33105|Santo Domingo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5634|Rural|
+33105|Colonia Industrial Sur|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|5387|Rural|
+33105|La Sandía|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5495|Rural|
+33105|Las Isabeles|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5504|Rural|
+33105|María Bonita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5536|Rural|
+33105|Rancho Aladino|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5545|Rural|
+33105|El Guadalupano|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5410|Rural|
+33105|El Lucero|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5414|Rural|
+33105|La Providencia|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5491|Rural|
+33105|Los Estrada|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5516|Rural|
+33105|El Brandy|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5399|Rural|
+33105|Colonia Armendáriz|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1494|Rural|
+33105|El Charro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5403|Rural|
+33105|Monte Cristo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5540|Rural|
+33105|Bella Vista|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5377|Rural|
+33105|Las Maravillas|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5507|Rural|
+33105|Los Bustillos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5512|Rural|
+33105|Los Frutales|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5517|Rural|
+33105|San Rafael|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5618|Rural|
+33105|El Retiro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5432|Rural|
+33105|El Triunfo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5440|Rural|
+33105|Cruz Mancha|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5390|Rural|
+33105|El Porvenir|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5425|Rural|
+33105|San Andrés|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5599|Rural|
+33105|Las Moras (Río Conchos)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1503|Rural|
+33105|Agua Azul|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5372|Rural|
+33106|El Retoño|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5433|Rural|
+33106|Granja el Borrego (La Rojeña)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5446|Rural|
+33106|Granja el Bronco|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5447|Rural|
+33106|Granja los Ponce|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5455|Rural|
+33106|La Cruz|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5481|Rural|
+33106|La Vaca|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5498|Rural|
+33106|Rancho del Agrarista|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5552|Rural|
+33106|Rancho el Mirador (Rancho de Doña Rosa)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5563|Rural|
+33106|Rancho el Porvenir|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5565|Rural|
+33106|Rancho los Martínez|Hacienda|Delicias|Chihuahua||33001|08|33001||24|021|5576|Rural|
+33106|Rancho los Pinos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5580|Rural|
+33106|Rancho Nuevo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5583|Rural|
+33106|El Ranchito|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5429|Rural|
+33106|Granja Dos Potros|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5445|Rural|
+33106|Rancho el Milagro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5562|Rural|
+33106|Rancho Herrera|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5569|Rural|
+33106|Rancho los Nieto|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5577|Rural|
+33106|Rancho los Nogales|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5578|Rural|
+33106|San Isidro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5608|Rural|
+33106|La Cigüeña|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5478|Rural|
+33106|Los Potrillos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5524|Rural|
+33106|Tapiceria Géminis|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5636|Rural|
+33106|El Amaranto|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5396|Rural|
+33106|Ladrilleras de la Revolución|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5501|Rural|
+33106|Rancho los Martínez|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5575|Rural|
+33106|Santa Marcelina|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5626|Rural|
+33106|Granja la Rojeña|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5452|Rural|
+33106|Granja la Rojeña|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5453|Rural|
+33106|Granja Santo Niño|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5461|Rural|
+33106|Rancho el Fortín|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5557|Rural|
+33106|Rancho el Fresno|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5558|Rural|
+33106|San Andrés|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5600|Rural|
+33106|San Felipe del Real|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5605|Rural|
+33106|San Lorenzo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5611|Rural|
+33106|Villa Campo Real|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5641|Rural|
+33106|Colonia Terrazas|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1496|Rural|
+33106|Granja la Fama|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5450|Rural|
+33106|Granja Ramón Ornelas|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5457|Rural|
+33106|La Rojeña|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5493|Rural|
+33106|Los Guillén|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5518|Rural|
+33106|Rancho de Jesús del Río|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5549|Rural|
+33106|Rancho el Mirador (Roman Casa Salcedo)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5564|Rural|
+33106|Sacramento|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5595|Rural|
+33106|Granja la Promesa|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5451|Rural|
+33106|Granja Lidia|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5454|Rural|
+33106|La Maravilla|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5488|Rural|
+33106|Las Esponjas|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5503|Rural|
+33106|Rancho de Lucas Hernández|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5550|Rural|
+33106|Rancho los Amparán|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5571|Rural|
+33106|Rancho los Robles|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5581|Rural|
+33106|Rancho Rodeo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5586|Rural|
+33106|Rancho los Franco|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5573|Rural|
+33106|Rancho Ramireño|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5584|Rural|
+33106|Rancho San Fernando|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5588|Rural|
+33106|Santa Cecilia|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5621|Rural|
+33107|Revolución Magisterial|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5643|Rural|
+33108|El Cuervo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5406|Rural|
+33108|Los Portales|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5523|Rural|
+33108|Mi Ranchito|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5538|Rural|
+33108|Rancho el Carmen|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5555|Rural|
+33108|El Carmen Uno|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5401|Rural|
+33108|Rancho el León|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5560|Rural|
+33108|Tres Pinos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5637|Rural|
+33108|Colonia Francisci I. Madero (La Gomeña)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1499|Rural|
+33108|Benjamín Martínez|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5378|Rural|
+33108|El Diamante|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5407|Rural|
+33108|Los Reyes Quiñones|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5526|Rural|
+33108|Rancho el Refugio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5566|Rural|
+33108|Diete Hermanos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5635|Rural|
+33108|Albino Loya (San Antonio)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5374|Rural|
+33108|Rancho Flores (Rancho Morales)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5567|Rural|
+33108|San Gerardo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5607|Rural|
+33108|Granja Romanita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5459|Rural|
+33108|Los Aguirre (Los Palomos)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5510|Rural|
+33108|Los Chinos (Rancho el Contrabando)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5515|Rural|
+33108|Rancho Agustín Baca|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5544|Rural|
+33108|Rancho Edmundo Blanco|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5554|Rural|
+33108|San José|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5609|Rural|
+33108|El Agrónomo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5394|Rural|
+33108|El Bosque|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5398|Rural|
+33108|José María Durán|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5468|Rural|
+33108|La Merced|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5489|Rural|
+33108|Los Herrera|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5519|Rural|
+33108|Los Solís|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5529|Rural|
+33108|Rancho Vitolas|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5593|Rural|
+33108|San Luciano|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5612|Rural|
+33108|Colonia Cuauhtémoc|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1498|Rural|
+33108|Cuatro Vientos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5391|Rural|
+33108|El Rosal|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5434|Rural|
+33108|La Aurora|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5474|Rural|
+33108|San Miguel|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5616|Rural|
+33108|Santa Rita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5631|Rural|
+33108|Colonia Morelos (Cuatro Vientos)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1495|Rural|
+33108|La Merced|Ejido|Delicias|Chihuahua||33001|08|33001||15|021|1500|Rural|
+33108|Manuel Chacón|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5534|Rural|
+33108|Manuel Garay|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5535|Rural|
+33108|Rancho la Piñata|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5570|Rural|
+33108|Rancho Manuel Porras|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5582|Rural|
+33108|Rancho Vicente Armendáriz|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5592|Rural|
+33110|Don Evaristo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5392|Rural|
+33110|La Colectiva|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5479|Rural|
+33110|Santa Mónica|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5630|Rural|
+33110|El Chueco Uno|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5405|Rural|
+33110|Las Alicias|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5502|Rural|
+33110|Rancho de Arriaga (Granja 70)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5547|Rural|
+33110|Santa Lucía|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5624|Rural|
+33110|Manuel Alonso (El Churumbel)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5533|Rural|
+33110|Rancho de Enfrente|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5548|Rural|
+33110|Colonia Nicolás Bravo (Km. Noventa y Dos)|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|1508|Rural|
+33110|Chaquistianguis|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5385|Rural|
+33113|El Valparaíso|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5441|Rural|
+33113|San Luis|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5613|Rural|
+33113|Santa Teresita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5633|Rural|
+33113|Abarrotes la Granja|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5371|Rural|
+33113|La Tiznada|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5497|Rural|
+33113|Rancho Alegre|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5546|Rural|
+33113|El Indio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5411|Rural|
+33113|Granja Lupita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5456|Rural|
+33113|Granja San Armando|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5460|Rural|
+33113|Rancho García|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5568|Rural|
+33113|Residencial Campestre del Desierto|Club de golf|Delicias|Chihuahua||33001|08|33001||39|021|5594|Rural|
+33113|Corrales la Promesa|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5389|Rural|
+33113|Ebenezer|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5393|Rural|
+33113|Rancho el Lucero|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5561|Rural|
+33113|Buena Vista (Los Pavos)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5380|Rural|
+33113|Los Rentería|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5525|Rural|
+33113|Los Sánchez|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5527|Rural|
+33113|Los Tres Sietes|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5532|Rural|
+33113|San Alfredo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5597|Rural|
+33113|El Dorado|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5408|Rural|
+33113|El Refugio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5430|Rural|
+33113|La Estancia|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5484|Rural|
+33113|Las Liebres|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5505|Rural|
+33113|María Dolores (El Fresno)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5537|Rural|
+33113|Unidad Habitacional Cadete Agustín Melgar|Unidad habitacional|Delicias|Chihuahua||33001|08|33001||31|021|5638|Rural|
+33113|Ejido Km. Ochenta y Seis Cuatro (El Diez)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|1506|Rural|
+33113|Colinia Campesina|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|3397|Rural|
+33113|Alberto García|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5373|Rural|
+33113|Chapultepec|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5384|Rural|
+33113|Guadalupe Carrillo|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5464|Rural|
+33113|San Luis|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5614|Rural|
+33113|Santa Lucía|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5625|Rural|
+33113|El Legendario|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5413|Rural|
+33113|Los Jiménez|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5520|Rural|
+33114|Los Álamos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5511|Rural|
+33114|La Florida|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5485|Rural|
+33114|El Ochenta y Dos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|1505|Rural|
+33114|El Vergel|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5442|Rural|
+33114|Las Lilas|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5506|Rural|
+33115|Rancho San Isidro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5589|Rural|
+33115|San Rafael|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5619|Rural|
+33115|Granja Familiares|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|5462|Rural|
+33115|Colonia Uribe de Alba|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5388|Rural|
+33115|Huerta Marytere|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5466|Rural|
+33115|Jardines de Fátima (Panteón)|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5467|Rural|
+33115|La Soledad|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5496|Rural|
+33115|Los Sicomoros|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5528|Rural|
+33115|San Andrés|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5598|Rural|
+33115|San Juan de los Lagos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5610|Rural|
+33115|San Martín|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5615|Rural|
+33115|Vista Hermosa|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5642|Rural|
+33115|Puente Terrazas|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5542|Rural|
+33115|San Antonio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5603|Rural|
+33115|Santa María|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5628|Rural|
+33115|Santa María|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5629|Rural|
+33115|Rancho los Fierro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5572|Rural|
+33115|Colonia Altavista|Colonia|Delicias|Chihuahua||33001|08|33001||09|021|5386|Rural|
+33115|La Esperanza|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5482|Rural|
+33115|San Francisco|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5606|Rural|
+33115|Alta Vista|Pueblo|Delicias|Chihuahua||33001|08|33001||28|021|5375|Rural|
+33115|Alta Vista|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5376|Rural|
+33115|Rancho de Terriz (San José)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5551|Rural|
+33116|Kéndel|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5471|Rural|
+33116|Los Olmos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5522|Rural|
+33116|Salsipuedes|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5596|Rural|
+33116|Santa Lucía|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5623|Rural|
+33116|Santa María|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5627|Rural|
+33116|El Milagro|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5417|Rural|
+33116|Granjas Villa Santa Teresa|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5463|Rural|
+33116|El Mexicano|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5416|Rural|
+33116|El Potrero|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5427|Rural|
+33116|San Salvador|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5620|Rural|
+33116|El Salvador|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5435|Rural|
+33116|Rancho San Antonio|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5587|Rural|
+33116|El Chaparral|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5402|Rural|
+33116|Las Rositas (El Mirador)|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5508|Rural|
+33116|Los Carlos|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5513|Rural|
+33116|La Purísima|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5492|Rural|
+33117|La Varita|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5499|Rural|
+33117|Rancho los Guámis|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5574|Rural|
+33117|Guamis|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5465|Rural|
+33117|El Tres|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5438|Rural|
+33117|La Ponderosa|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5490|Rural|
+33117|Los Tenejales|Ranchería|Delicias|Chihuahua||33001|08|33001||29|021|5530|Rural|

@@ -1,0 +1,35 @@
+40760|Puerto Verde|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1567|Rural|
+40760|El Ranchito|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1275|Rural|
+40760|El Barrio|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|3994|Rural|
+40760|Las Golondrinas|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1417|Rural|
+40760|La Poza|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1390|Rural|
+40760|Buenos Aires|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1101|Rural|
+40760|Centro|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1138|Rural|
+40760|Corutzen|Pueblo|Zirándaro|Guerrero||40763|12|40763||28|073|2559|Rural|
+40760|San José del Pilón|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2560|Rural|
+40760|Aviación|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1081|Rural|
+40760|San Agustin|Colonia|Zirándaro|Guerrero||40763|12|40763||09|073|1590|Rural|
+40760|Zirándaro|Pueblo|Zirándaro|Guerrero||40763|12|40763||28|073|2561|Rural|
+40761|Alita de Cuapucuaro|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2562|Rural|
+40761|Ciriquicho|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2563|Rural|
+40761|La Quingucua|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2564|Rural|
+40762|Las Humedades|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2565|Rural|
+40764|Pandacuareo|Campamento|Zirándaro|Guerrero||40763|12|40763||04|073|2569|Rural|
+40764|El Terrero|Pueblo|Zirándaro|Guerrero||40763|12|40763||28|073|2568|Rural|
+40764|Cerano|Campamento|Zirándaro|Guerrero||40763|12|40763||04|073|2567|Rural|
+40765|El Naranjo|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|4654|Rural|
+40766|Huitzataro|Campamento|Zirándaro|Guerrero||40763|12|40763||04|073|2571|Rural|
+40766|Las Pilas|Pueblo|Zirándaro|Guerrero||40763|12|40763||28|073|2572|Rural|
+40766|El Ranchito|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2570|Rural|
+40769|Los Alacranes|Campamento|Zirándaro|Guerrero||40763|12|40763||04|073|2574|Rural|
+40769|La Parota|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2573|Rural|
+40770|Guayameo|Pueblo|Zirándaro|Guerrero||40763|12|40763||28|073|2577|Rural|
+40770|Aratichanguio|Pueblo|Zirándaro|Guerrero||40763|12|40763||28|073|2575|Rural|
+40770|San Rafael|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2578|Rural|
+40770|Cupuan|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2576|Rural|
+40771|Catzundaro|Campamento|Zirándaro|Guerrero||40763|12|40763||04|073|2579|Rural|
+40771|La Hacienda Vieja|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2580|Rural|
+40771|La Ordeña|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2581|Rural|
+40772|Ziritzicuaro|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2582|Rural|
+40773|La Barranca Honda|Ranchería|Zirándaro|Guerrero||40763|12|40763||29|073|2583|Rural|
+40775|Carachurio El Nuevo|Campamento|Zirándaro|Guerrero||40707|12|40707||04|073|2584|Rural|

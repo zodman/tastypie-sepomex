@@ -1,0 +1,48 @@
+98800|San Blas|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0365|Rural|
+98804|Santa Maria de los Angeles|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0366|Rural|
+98805|Jesús María|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0003|Rural|
+98807|Crisóstomos|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0370|Rural|
+98810|El Tepetate|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0371|Rural|
+98810|Felipe Carrillo Puerto|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0372|Rural|
+98815|Tierra Blanca|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0368|Rural|
+98817|Bimbaletes|Pueblo|Loreto|Zacatecas||98831|32|98831||28|024|0369|Rural|
+98820|La Loma|Pueblo|Loreto|Zacatecas||98831|32|98831||28|024|0819|Rural|
+98820|San Marcos|Pueblo|Loreto|Zacatecas||98831|32|98831||28|024|0374|Urbano|
+98824|La Concepción|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0375|Rural|
+98825|El Hinojo|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|1638|Rural|
+98827|El Lobo|Ranchería|Loreto|Zacatecas||98831|32|98831||29|024|0373|Rural|
+98830|Loreto Centro|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|0364|Urbano|18
+98832|Los Ángeles|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|0001|Urbano|18
+98832|La Esperanza I|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1075|Urbano|18
+98832|La Huerta|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1077|Urbano|18
+98832|Los Viñedos|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|0004|Urbano|18
+98832|Acevedo|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1072|Urbano|18
+98832|El Mezquite|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1076|Urbano|18
+98832|La Esperanza II|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1078|Urbano|18
+98833|El Edén|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|1074|Urbano|18
+98833|San Marcos I|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1073|Urbano|18
+98833|Valle Real|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|1082|Urbano|18
+98833|San Marcos II|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1079|Urbano|18
+98833|Revolución|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1102|Urbano|18
+98833|Santa Cruz|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1101|Urbano|18
+98834|La Martinica I|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1085|Urbano|18
+98834|Torres|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1086|Urbano|18
+98834|La Martinica II|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1083|Urbano|18
+98834|Minera|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1084|Urbano|18
+98835|Reforma|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1087|Urbano|18
+98835|Vega|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1088|Urbano|18
+98836|Llanos de San Miguel|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1099|Urbano|18
+98837|Esmeralda|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1091|Urbano|18
+98837|San Manuel|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1092|Urbano|18
+98837|San Francisco|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1090|Urbano|18
+98838|El Socorro|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|1080|Urbano|18
+98838|Valle de Loreto|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|1094|Urbano|18
+98838|Los Pirules|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1081|Urbano|18
+98838|Lázaro Cárdenas|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|1089|Urbano|18
+98838|Herrada|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1093|Urbano|18
+98839|Arboledas|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|1095|Urbano|18
+98839|Arenas|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1098|Urbano|18
+98839|Escobedo|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1097|Urbano|18
+98839|Los Puentes|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1747|Urbano|18
+98839|San Agusín|Fraccionamiento|Loreto|Zacatecas|Loreto|98831|32|98831||21|024|0002|Urbano|18
+98839|La Victoria|Colonia|Loreto|Zacatecas|Loreto|98831|32|98831||09|024|1096|Urbano|18

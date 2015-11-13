@@ -1,0 +1,41 @@
+29130|Emiliano Zapata|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3023|Urbano|
+29130|Lindos Aires|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3027|Urbano|
+29130|Miravalle|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3028|Urbano|
+29130|San Miguel|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3035|Urbano|
+29130|Solidaridad San Jerónimo|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3040|Urbano|
+29130|El Palmar|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3616|Urbano|
+29130|Pedregal Bugambilias|Fraccionamiento|Berriozábal|Chiapas||29131|07|29131||21|012|5693|Urbano|
+29130|Candelaria|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3021|Urbano|
+29130|Pénjamo|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3029|Urbano|
+29130|La Caridad|Ranchería|Berriozábal|Chiapas||29131|07|29131||29|012|3030|Urbano|
+29130|Rochesther|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3031|Urbano|
+29130|Santa Cecilia|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3036|Urbano|
+29130|San Jacinto|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3621|Urbano|
+29130|El Sabino|Unidad habitacional|Berriozábal|Chiapas||29131|07|29131||31|012|3609|Urbano|
+29130|Santa Inés|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3618|Urbano|
+29130|Berriozabal Centro|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|0266|Urbano|
+29130|Guadalupe Oriente|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3615|Urbano|
+29130|Bugambilias|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3020|Urbano|
+29130|Guadalupe Poniente|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3024|Urbano|
+29130|La Piedad|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3025|Urbano|
+29130|La Piedad|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|5776|Urbano|
+29130|El Mirador|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3022|Urbano|
+29130|Santa Cruz|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3039|Urbano|
+29130|Ciudad Maya|Fraccionamiento|Berriozábal|Chiapas||29131|07|29131||21|012|5775|Urbano|
+29130|San Francisco|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3032|Urbano|
+29130|San José|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3033|Urbano|
+29130|San Sebastián|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3038|Urbano|
+29130|La Ejidal|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3617|Urbano|
+29130|Ignacio Zaragoza|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|0267|Urbano|
+29130|Linda Vista|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3026|Urbano|
+29130|San Marcos|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3034|Urbano|
+29130|Juan Sabines|Barrio|Berriozábal|Chiapas||29131|07|29131||02|012|3037|Urbano|
+29130|San Antonio Bombano|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3619|Urbano|
+29130|Río Blanco|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3620|Urbano|
+29133|Amendu|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3612|Urbano|
+29133|Vista Hermosa|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3613|Urbano|
+29133|El Sabinito|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3610|Urbano|
+29133|El Caracol|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3614|Urbano|
+29133|Berlín|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|3611|Urbano|
+29133|Efraín A Gutiérrez|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|0269|Rural|
+29136|Las Maravillas|Colonia|Berriozábal|Chiapas||29131|07|29131||09|012|0270|Rural|

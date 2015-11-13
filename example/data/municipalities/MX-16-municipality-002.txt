@@ -1,0 +1,217 @@
+60570|Del Parque|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5137|Urbano|
+60570|El Parnaso|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5139|Urbano|
+60570|Aguililla|Pueblo|Aguililla|Michoacán de Ocampo||60572|16|60572||28|002|1864|Urbano|
+60570|David Franco Rodríguez|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5136|Urbano|
+60570|Ejidal|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5138|Urbano|
+60570|Las Enrramadas|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5141|Urbano|
+60570|Lázaro Cárdenas|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5144|Urbano|
+60570|24 de Agosto|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5132|Urbano|
+60570|Charcos|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5135|Urbano|
+60570|Las Flores|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5142|Urbano|
+60570|Cantera|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5134|Urbano|
+60570|La Guayabera|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5140|Urbano|
+60570|Leandro Valle|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5143|Urbano|
+60570|Magisterio|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5145|Urbano|
+60570|Amezcua|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5133|Urbano|
+60570|San Antonio|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5146|Urbano|
+60571|Dos Aguas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|1865|Rural|
+60573|La Calabaza|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5229|Rural|
+60573|El Puente del Encinal|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5204|Rural|
+60573|Las Enramadas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5283|Rural|
+60573|Puerto la Guayabera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5323|Rural|
+60573|El Rincón|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5208|Rural|
+60573|El Barbasco|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5165|Rural|
+60573|La Cabra|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5228|Rural|
+60573|El Capire|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5170|Rural|
+60573|La Mora|Rancho|Aguililla|Michoacán de Ocampo||60572|16|60572||48|002|0003|Rural|
+60573|El Palo Dulce|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5194|Rural|
+60573|La Estancia|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5237|Rural|
+60573|La Laguna|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5250|Rural|
+60573|La Tacuachera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5271|Rural|
+60573|La Gallina|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5239|Rural|
+60573|La Pinzanera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5268|Rural|
+60573|La Tasajera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5272|Rural|
+60573|El Manguito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5190|Rural|
+60573|La Lobera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5253|Rural|
+60574|El Salto|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5209|Rural|
+60574|La Laja|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5252|Rural|
+60574|Las Camelinas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5277|Rural|
+60574|Falsetes|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5224|Rural|
+60574|Las Crucitas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5282|Rural|
+60574|Colonia la Paz (Crucero de Dos Aguas)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5158|Rural|
+60574|El Guaco|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5182|Rural|
+60574|Patacuas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5315|Rural|
+60574|El Pelechado|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5197|Rural|
+60574|El Pinzán|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5200|Rural|
+60574|El Platanillo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5201|Rural|
+60574|El Chino|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5175|Rural|
+60574|El Tigre|Ejido|Aguililla|Michoacán de Ocampo||60572|16|60572||15|002|5217|Rural|
+60574|La Palma (La Palmita)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5262|Rural|
+60574|El Chical|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5174|Rural|
+60574|El Limoncito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5188|Rural|
+60574|El Tigre|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5216|Rural|
+60575|El Encino|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5179|Rural|
+60575|Los Llanitos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5300|Rural|
+60575|La Cruz|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5234|Rural|
+60575|Las Parotas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5291|Rural|
+60575|El Pino|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5199|Rural|
+60575|Palo Dulce|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5309|Rural|
+60575|La Laja|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5251|Rural|
+60575|Piedra Verde|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5317|Rural|
+60575|Barranca de Enmedio|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5152|Rural|
+60575|El Resumidero|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5206|Rural|
+60575|El Tecomate|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5214|Rural|
+60575|El Varil|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5219|Rural|
+60575|Las Ollas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5289|Rural|
+60575|Envarillada|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5223|Rural|
+60575|Los Horcones|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5298|Rural|
+60575|Paracho|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5312|Rural|
+60575|El Capulín|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5172|Rural|
+60575|Palos Verdes|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5311|Rural|
+60576|La Guayabera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5242|Rural|
+60576|Piedra Rodada|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5316|Rural|
+60576|La Canoa|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5231|Rural|
+60576|Agua Fría|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5147|Rural|
+60576|El Comalito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5177|Rural|
+60576|La Línea|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5256|Rural|
+60576|El Corral de Piedra|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5178|Rural|
+60576|El Palmito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5193|Rural|
+60576|El Tacote|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5211|Rural|
+60576|Barranca de Ruelas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5153|Rural|
+60576|Las Trojas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5293|Rural|
+60576|Los Fresnos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5297|Rural|
+60576|Tierra de Bueyes|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5329|Rural|
+60577|El Cedral|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5173|Rural|
+60577|Tepoztán de Abajo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5328|Rural|
+60577|Barranca Honda|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5155|Rural|
+60577|La Parota|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5264|Rural|
+60577|La Parota de la Pista|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5266|Rural|
+60577|Alberca|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5149|Rural|
+60577|La Palmera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5263|Rural|
+60577|Las Canoas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5280|Rural|
+60577|Los Fierrillos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5296|Rural|
+60577|Tierras Blancas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5331|Rural|
+60577|La Joyita|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5249|Rural|
+60578|La Canoyita (Canoítas)|Rancho|Aguililla|Michoacán de Ocampo||60572|16|60572||48|002|0002|Rural|
+60578|La Mina|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5258|Rural|
+60578|La Sidra|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5270|Rural|
+60578|Mesa del Tigre|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5306|Rural|
+60578|Tierra de Bueyes|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5330|Rural|
+60578|Paso de las Vacas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5313|Rural|
+60578|El Zapote|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5222|Rural|
+60578|La Ordeñita|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5260|Rural|
+60578|Las Juntas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5288|Rural|
+60578|Viveros el Roble|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5332|Rural|
+60578|La Curva del Pino|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5236|Rural|
+60578|La Troja Nueva|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5274|Rural|
+60578|Los Llanitos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5301|Rural|
+60578|Los Manguitos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5302|Rural|
+60578|Alacranes|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5148|Rural|
+60578|El Cóbano|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5168|Rural|
+60578|El Pinabete|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5198|Rural|
+60578|La Cuata|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5235|Rural|
+60578|Salto Blanco|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5326|Rural|
+60580|El Aguaje (Cantarranas)|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5130|Urbano|
+60580|El Aguaje (El Fraile)|Colonia|Aguililla|Michoacán de Ocampo||60572|16|60572||09|002|5131|Urbano|
+60580|El Aguaje|Pueblo|Aguililla|Michoacán de Ocampo||60572|16|60572||28|002|1868|Urbano|
+60581|El Rodeo|Pueblo|Aguililla|Michoacán de Ocampo||60572|16|60572||28|002|3999|Rural|
+60581|General Lázaro Cárdenas (El Limón)|Hacienda|Aguililla|Michoacán de Ocampo||60572|16|60572||24|002|1869|Rural|
+60581|La Bocanita|Pueblo|Aguililla|Michoacán de Ocampo||60572|16|60572||28|002|4000|Rural|
+60582|El Charapo (Palo Alto)|Pueblo|Aguililla|Michoacán de Ocampo||60572|16|60572||28|002|1870|Rural|
+60582|Naranjo de Chila|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|1872|Rural|
+60583|Las Camichinas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5278|Rural|
+60583|Palo Alto (Hacienda Palo Alto)|Residencial|Aguililla|Michoacán de Ocampo||60572|16|60572||30|002|1873|Rural|
+60583|La Parota|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5265|Rural|
+60583|El Limoncito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|1874|Rural|
+60583|Las Palomas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5290|Rural|
+60583|Potrerillos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5319|Rural|
+60584|La Mina|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5259|Rural|
+60584|Naranjo Viejo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5308|Rural|
+60584|Las Ánimas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5276|Rural|
+60585|Cuirindales|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5160|Rural|
+60585|Los Horcones|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5299|Rural|
+60585|El Tazumbo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5213|Rural|
+60585|El Varil (Loma de la Paja)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5220|Rural|
+60585|Rancho Viejo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5325|Rural|
+60586|Puente del Limón|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5320|Rural|
+60586|La Tasajerilla|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5273|Rural|
+60586|El Fraile (Desviación del Cajón)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5180|Rural|
+60586|La Palma|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5261|Rural|
+60587|Arroyo Seco|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5150|Rural|
+60587|El Reparito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5205|Rural|
+60587|Los Chilillos (Buenavista)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5295|Rural|
+60587|El Tepeguaje|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5215|Rural|
+60587|Huisto|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5225|Rural|
+60587|La Longaniza|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5255|Rural|
+60587|Palos Altos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5310|Rural|
+60587|Voladeros|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5333|Rural|
+60587|El Tamarindo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5212|Rural|
+60587|La Huerta|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5247|Rural|
+60587|El Guayabal (El Guayabal Sur)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5183|Rural|
+60587|El Paso de la Laja|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5196|Rural|
+60587|Los Parajes|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5305|Rural|
+60590|El Pueblito|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5203|Rural|
+60590|Puerto de la Olla|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5321|Rural|
+60590|Peña Colorada (la Peña)|Pueblo|Aguililla|Michoacán de Ocampo||60572|16|60572||28|002|1875|Rural|
+60590|La Sidra|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5269|Rural|
+60590|El Timbiriche (Barranca del Timbiriche)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5218|Rural|
+60590|La Cebadilla (Barranca de la Cebadilla)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5233|Rural|
+60590|Los Obscuros|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5304|Rural|
+60590|La Haciendita|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5243|Rural|
+60590|La Golondrina|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5240|Rural|
+60593|La Casona|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5232|Rural|
+60593|Las Higueras Tarepe|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5285|Rural|
+60593|El Higueral|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5184|Rural|
+60593|La Granja|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5241|Rural|
+60593|Barranca del Aguacate|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5154|Rural|
+60593|Corral de Piedra|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5159|Rural|
+60593|El Moro|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5191|Rural|
+60593|La Higuera de la Virgen|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5244|Rural|
+60593|La Pilastra|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5267|Rural|
+60593|El Capire|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5171|Rural|
+60593|La Huerta|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5246|Rural|
+60593|Rancho de Macías|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5324|Rural|
+60593|La Bocana de la Barranca del Aguacate|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5227|Rural|
+60593|El Añil (Agua Zarca)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5162|Rural|
+60593|Las Crucitas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5281|Rural|
+60593|Subida a Tres Cerritos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5327|Rural|
+60594|Las Piedras de Amolar|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5292|Rural|
+60594|El Sauz|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5210|Rural|
+60595|El Zapote|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5221|Rural|
+60595|La Camalotera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5230|Rural|
+60595|La Fortuna|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5238|Rural|
+60595|La Hujera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5248|Rural|
+60595|La Barilera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5226|Rural|
+60595|El Cóbano|Rancho|Aguililla|Michoacán de Ocampo||60572|16|60572||48|002|0004|Rural|
+60595|Paso de los Atutos|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5314|Rural|
+60596|El Hondable|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5185|Rural|
+60596|Los Nogales (Los Nogales de Chapula)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5303|Rural|
+60596|El Barbecho|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5166|Rural|
+60596|El Jovero|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5187|Rural|
+60596|Chapula|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5157|Rural|
+60596|La Venadera|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5275|Rural|
+60596|Las Canoas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5279|Rural|
+60596|Mirador de Chapula|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5307|Rural|
+60596|El Rincón|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5207|Rural|
+60596|Puerto del Platanillo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5322|Rural|
+60596|El Barro|Rancho|Aguililla|Michoacán de Ocampo||60572|16|60572||48|002|0005|Rural|
+60596|El Ojo de Agua|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5192|Rural|
+60596|Las Juntas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5287|Rural|
+60597|El Infiernillo|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5186|Rural|
+60597|El Potrero|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5202|Rural|
+60597|La Higuera Podrida|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5245|Rural|
+60597|Porucho|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5318|Rural|
+60597|El Fresnal (El Limoncito)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5181|Rural|
+60597|El Aguacate|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5163|Rural|
+60597|La Mesa del Burro|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5257|Rural|
+60597|El Capire|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5169|Rural|
+60597|Las Guasimitas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5284|Rural|
+60597|La Bolsa (Paso de la Bolsa)|Rancho|Aguililla|Michoacán de Ocampo||60572|16|60572||48|002|0001|Rural|
+60597|Barbechitos (Capirones)|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5151|Rural|
+60597|Casas Blanqueadas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5156|Rural|
+60597|El Ancón|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5164|Rural|
+60597|El Blanqueadero|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5167|Rural|
+60597|El Chupadero|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5176|Rural|
+60597|El Paredón Colorado|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5195|Rural|
+60597|La Loma|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5254|Rural|
+60597|Las Huertas|Ranchería|Aguililla|Michoacán de Ocampo||60572|16|60572||29|002|5286|Rural|

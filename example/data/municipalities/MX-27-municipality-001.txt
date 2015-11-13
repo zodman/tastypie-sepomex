@@ -1,0 +1,489 @@
+86930|Gregorio Méndez|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1811|Rural|
+86930|Carlos Enrique Abreu|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1815|Semiurbano|
+86930|San Joaquín|Barrio|Balancán|Tabasco||86939|27|86939||02|001|1236|Semiurbano|
+86930|Nuevo Milenio|Colonia|Balancán|Tabasco||86939|27|86939||09|001|2554|Rural|
+86930|San Marcos|Colonia|Balancán|Tabasco||86939|27|86939||09|001|2966|Urbano|
+86930|Monte Libano|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1809|Rural|
+86930|Municipal|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1808|Rural|
+86930|Carlos A. Madrazo|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1813|Semiurbano|
+86930|Las Flores|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1817|Semiurbano|
+86930|Balancán Centro|Colonia|Balancán|Tabasco||86939|27|86939||09|001|0965|Urbano|
+86930|Magisterial|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1810|Rural|
+86930|Luis Felipe Domínguez|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1816|Semiurbano|
+86930|Nuevo México|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1814|Semiurbano|
+86930|Del Carmen|Barrio|Balancán|Tabasco||86939|27|86939||02|001|1070|Semiurbano|
+86930|Palenque|Barrio|Balancán|Tabasco||86939|27|86939||02|001|1202|Semiurbano|
+86930|La 21|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1713|Rural|
+86930|Jardines de Balancán|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1812|Rural|
+86933|Pejelagarto 2a Secc|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1774|Rural|
+86933|La Providencia (Parada San Antonio)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2829|Rural|
+86933|Santa Elena|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2944|Rural|
+86933|La Providencia|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3012|Rural|
+86933|Asunción|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|1806|Rural|
+86933|El Doble G|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2728|Rural|
+86933|El Recuerdo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2758|Rural|
+86933|San Miguel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2930|Rural|
+86933|Sonora|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2961|Rural|
+86933|Catalina (Altamira)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2691|Rural|
+86933|Dos Estrellas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2699|Rural|
+86933|Dos Hermanos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2700|Rural|
+86933|El Zapotal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2778|Rural|
+86933|Mi Ranchito|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|2867|Rural|
+86933|Santa Isabel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2946|Rural|
+86933|Asunción|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2969|Rural|
+86933|Suniná|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1783|Rural|
+86933|Las Maravillas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3016|Rural|
+86933|El Paraíso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2749|Rural|
+86933|La Aurora|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2796|Rural|
+86933|San José 2a. Sección|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2912|Rural|
+86933|Misicab|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0982|Rural|
+86933|El Bajío|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2704|Rural|
+86933|El Sacrificio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2764|Rural|
+86933|Santa Celia|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2938|Rural|
+86933|Santa Clara|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2939|Rural|
+86933|Santa Martha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2950|Rural|
+86934|Las Mercedes|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2849|Rural|
+86934|El Luinar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2984|Rural|
+86934|Isla Conja|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2999|Rural|
+86934|San Antonio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3029|Rural|
+86934|San Juan|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1780|Rural|
+86934|Soledad|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2960|Rural|
+86934|Santa Lucía|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3040|Rural|
+86934|Arenal|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0964|Rural|
+86934|Tierra Blanca|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0968|Rural|
+86934|Mi Gran Aventura|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3020|Rural|
+86934|Macayal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2864|Rural|
+86934|Vicente Guerrero|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0969|Rural|
+86934|Isla Sebastopol|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2794|Rural|
+86934|El Llano|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2983|Rural|
+86934|Pejelagarto|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0976|Rural|
+86934|Jahuactal|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1781|Rural|
+86934|El Cuyo de Sánchez|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2723|Rural|
+86935|Campo Alto|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2686|Rural|
+86935|El Colmenar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2979|Rural|
+86935|Oklahoma|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2876|Rural|
+86935|El Silencio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2994|Rural|
+86935|Chacavita|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1782|Rural|
+86935|Frente Único|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2784|Rural|
+86935|San Jorge|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2908|Rural|
+86935|Santa Rosa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2954|Rural|
+86935|Balancán (Carcel Municipal de Balancán)|Equipamiento|Balancán|Tabasco||86939|27|86939||17|001|2680|Rural|
+86935|El Yomel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2777|Rural|
+86935|La Esperanza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2806|Rural|
+86935|Uquina y La Loma|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1702|Rural|
+86935|Alianza Balancán|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2677|Rural|
+86935|Chajol|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2694|Rural|
+86935|El Dorado|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2730|Rural|
+86935|Santo Domingo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2958|Rural|
+86935|El Arrozal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2975|Rural|
+86935|El Cortador|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2980|Rural|
+86935|Santa Marlene|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3041|Rural|
+86935|El Garrafón|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2734|Rural|
+86935|El Zapote|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2779|Rural|
+86935|Centro Usumacinta|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0977|Rural|
+86935|El Chinal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2718|Rural|
+86936|Bajo Nezahualcoyotl|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0983|Rural|
+86936|Laguna Colorada|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1785|Rural|
+86936|Santo Domingo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2959|Rural|
+86936|El Foco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2733|Rural|
+86936|Isla Santa Ana|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2793|Rural|
+86936|Los Mangos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2856|Rural|
+86936|Isla Misicab|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0980|Rural|
+86936|Nezahualcoyotl|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|0987|Rural|
+86936|Cancún|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2687|Rural|
+86936|El Nido|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2743|Rural|
+86936|La Poza de la Tortuga|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2827|Rural|
+86936|Santa Elena|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2943|Rural|
+86936|La Veleta|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3015|Rural|
+86936|Leona Vicario|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0978|Rural|
+86936|Leona Vicario|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1703|Rural|
+86936|Pajonal|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1788|Rural|
+86936|San Juan (Guerrero)|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1789|Rural|
+86936|Multé|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|1017|Rural|
+86936|El Porvenir|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2753|Rural|
+86936|Las Campanas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2843|Rural|
+86936|Chancabal|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0979|Rural|
+86936|El Pajaral|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2745|Rural|
+86936|El Sacrificio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2993|Rural|
+86936|Josefa Ortiz de Domínguez|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1784|Rural|
+86936|La Herradura|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2815|Rural|
+86937|Pantoja|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3025|Rural|
+86937|Cuba|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1704|Rural|
+86937|Agua Bendita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2674|Rural|
+86937|Gral. Luis Felipe Domínguez Suárez|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2787|Rural|
+86937|San José del Río|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2914|Rural|
+86937|El Faisán|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2732|Rural|
+86940|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2810|Rural|
+86940|Narciso Rovirosa|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1698|Rural|
+86940|Aguacatal Dos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2676|Rural|
+86940|Santa Fe|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2945|Rural|
+86940|Constitución|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1697|Rural|
+86940|El Sahuayo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2768|Rural|
+86940|Santa María Luisa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2952|Rural|
+86940|San Elpidio|Congregación|Balancán|Tabasco||86939|27|86939||11|001|0989|Rural|
+86940|San Miguel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2929|Rural|
+86940|Graciela Pintado de Madrazo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2786|Rural|
+86940|La Trinidad|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2833|Rural|
+86940|San Lazarito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3035|Rural|
+86940|Santa Cruz|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1700|Urbano|
+86940|El Sacrificio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2765|Rural|
+86940|Los Hermanos Hernández|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2855|Rural|
+86940|Los Tres Reyes|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2862|Rural|
+86943|San Manuel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2924|Rural|
+86943|La Guadalupe|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3007|Rural|
+86943|La Huleria|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0966|Rural|
+86943|San Joaquín|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0972|Rural|
+86943|Acatempan|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2673|Rural|
+86943|La Poza|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1707|Rural|
+86943|El Consuelo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2720|Rural|
+86943|La Envidia|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2801|Rural|
+86943|San Joaquín 2a. Sección|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2906|Rural|
+86943|La Esperanza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2805|Rural|
+86943|El Roblar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2991|Rural|
+86943|San Joaquín|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3033|Rural|
+86943|Santa Josefa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3039|Rural|
+86943|El Pimiental|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0992|Rural|
+86943|Potrero del Llano|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2885|Rural|
+86943|San Alberto|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2890|Rural|
+86944|Tarimas|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1711|Rural|
+86944|La Lupita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2819|Rural|
+86944|La Victoria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2838|Rural|
+86944|El Carmen|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2710|Rural|
+86944|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2808|Rural|
+86944|Tarimas (Emiliano Zapata)|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0974|Rural|
+86944|Santa Adela|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3037|Rural|
+86945|El Caoba|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2708|Rural|
+86945|El Cristo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2721|Rural|
+86945|El Paraíso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2747|Rural|
+86945|La Nueva Lucha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2823|Rural|
+86945|San Nicolás|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2934|Rural|
+86945|El Deseo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2726|Rural|
+86945|Lontanasa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2852|Rural|
+86945|Plan de Guadalupe|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|0967|Rural|
+86945|El Chaparral|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2716|Rural|
+86945|Santa Catalina|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2937|Rural|
+86945|Plan de Guadalupe Sección Central|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|3027|Rural|
+86945|El Mango|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2740|Rural|
+86945|El Paraíso|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|2748|Rural|
+86945|El Herradero|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2735|Rural|
+86945|San José|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2910|Rural|
+86945|Fátima|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2785|Rural|
+86945|Dos Arbolitos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2973|Rural|
+86945|Plan de Guadalupe Sección Km. 21|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2883|Rural|
+86945|Buena Vista|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2683|Rural|
+86945|San Cosme|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2897|Rural|
+86946|El Sacrificio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2767|Rural|
+86946|San José|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2909|Rural|
+86946|San Marcos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2927|Rural|
+86946|Santa Martha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2949|Rural|
+86946|El Clavo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2719|Rural|
+86946|Guajimalpa 2a. Sección|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2788|Rural|
+86946|Jalisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3003|Rural|
+86946|Guajimalpa 1a. Sección|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0991|Rural|
+86946|El Ajusco (Plan de Guadalupe)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2703|Rural|
+86946|La Gironda|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2807|Rural|
+86946|La Papaya (Manuel Rosado)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2825|Rural|
+86946|Las Minitas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2850|Rural|
+86946|San Francisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2899|Rural|
+86946|El Recreo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2757|Rural|
+86946|El Retacito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2760|Rural|
+86946|Nueva Esperanza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2872|Rural|
+86946|San Martín|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2928|Rural|
+86946|El Rinconcito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2990|Rural|
+86946|Alianza Campesina|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2678|Rural|
+86946|La Unión|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2837|Rural|
+86946|San Judas Tadeo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2919|Rural|
+86946|San Luis|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2922|Rural|
+86946|San Manuel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2926|Rural|
+86946|San Miguel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3036|Rural|
+86946|Santa Rosa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3042|Rural|
+86946|El Desengaño|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2725|Rural|
+86946|La Esperancita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2804|Rural|
+86946|La Victoria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2839|Rural|
+86946|Paraíso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2881|Rural|
+86946|San Lázaro|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2921|Rural|
+86946|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3006|Rural|
+86946|Santa Cruz|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0985|Rural|
+86946|Bienvenido|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2681|Rural|
+86946|El Achotal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2702|Rural|
+86946|La Mina|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2822|Rural|
+86946|San Andrés|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2891|Rural|
+86946|San Juanito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2916|Rural|
+86946|El Carmen|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2977|Rural|
+86946|La Lucha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3008|Rural|
+86946|El Toro|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2772|Rural|
+86946|Plan de Guadalupe (El Guapaque)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2882|Rural|
+86946|El Paraíso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2987|Rural|
+86946|Tequisquiapan|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3044|Rural|
+86947|El Cupimo|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|2722|Rural|
+86947|La Palma|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2824|Rural|
+86947|La Cruz de Belén|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3004|Rural|
+86947|María de Jesús|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3019|Rural|
+86947|San José Domingo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3034|Rural|
+86947|Mario Calcania|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1699|Rural|
+86947|El Faisán|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2731|Rural|
+86947|El Porvenir|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2752|Rural|
+86947|Santa Rita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2953|Rural|
+86947|Los Triángulos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3018|Rural|
+86947|El Dollar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2729|Rural|
+86947|El Laberinto|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2738|Rural|
+86947|Las Delicias|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2847|Rural|
+86947|La Pista|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3011|Rural|
+86947|Ojo de Agua|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3024|Rural|
+86947|El Marino|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2741|Rural|
+86947|La Lupita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2820|Rural|
+86947|Los Robles|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2860|Rural|
+86947|Rafael Palmer Cámara|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2887|Rural|
+86947|San Francisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2900|Rural|
+86947|San Lazarito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2920|Rural|
+86947|El Pato|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2988|Rural|
+86947|La Santa Cruz|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3013|Rural|
+86947|La Sultana Dos (Caba Hermanos)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3014|Rural|
+86947|Chupacabras|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2695|Rural|
+86947|Los Naranjos (Sofocante)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2857|Rural|
+86947|Mata de la Hoja|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2866|Rural|
+86947|Santa Martha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2948|Rural|
+86947|El Sacrificio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2992|Rural|
+86947|El Belén|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2705|Rural|
+86947|La Arenita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2795|Rural|
+86947|San Manuel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2923|Rural|
+86947|San Miguel|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|2932|Rural|
+86947|Nueva Esperanza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3022|Rural|
+86947|Miguel Hidalgo|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0970|Rural|
+86947|El Pipila|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0971|Rural|
+86947|Miguel Hidalgo 2a. Sección|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2868|Rural|
+86947|Nuevo Xochimilco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2875|Rural|
+86947|Oklahoma I|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2877|Rural|
+86947|Águilas del Norte|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2967|Rural|
+86947|El Jobal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2736|Rural|
+86947|Molino de Arroz|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2869|Rural|
+86947|San Miguel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2931|Rural|
+86947|Campo Alto (El Tamarindo)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2970|Rural|
+86949|Pimiental 2da Secc|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1705|Rural|
+86949|Faustino|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1708|Rural|
+86949|La 10|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1709|Rural|
+86950|Las Flores|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1166|Semiurbano|
+86950|El Triunfo|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|0993|Semiurbano|
+86950|El Tigre|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1090|Semiurbano|
+86953|Cuauhtémoc|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0998|Rural|
+86953|Arroyo El Triunfo 1a Sección|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1002|Rural|
+86953|El Destino|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0999|Rural|
+86953|Quetzalcoalt|Villa|Balancán|Tabasco||86939|27|86939||32|001|1818|Rural|
+86954|24 de Junio|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1778|Rural|
+86954|Lázaro Cárdenas|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1174|Semiurbano|
+86954|Francisco Villa|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1776|Rural|
+86954|Agricultores Del Norte 1a Sección|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0997|Rural|
+86954|El Pichi|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1777|Rural|
+86954|Ojo de Agua|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1779|Rural|
+86954|Agricultores del Norte 2a Sección|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1775|Rural|
+86955|Mag|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2865|Rural|
+86955|San Juan del Río|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2915|Rural|
+86955|Altamira|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2968|Rural|
+86955|Gustavo Diaz Ordaz|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1701|Rural|
+86955|El Chimón|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2717|Rural|
+86955|El Porvenir|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2989|Rural|
+86955|Cuatro Hermanos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2697|Rural|
+86955|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3005|Rural|
+86955|Agua Negra|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2675|Rural|
+86955|El Roble|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2761|Rural|
+86955|La Huasteca|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2816|Rural|
+86955|El Pitayo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2750|Rural|
+86955|El Repudio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2759|Rural|
+86955|La Torre|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2832|Rural|
+86955|Zacatecas|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1714|Rural|
+86955|El Tintal Grande|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2771|Rural|
+86955|El Rosarito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2763|Rural|
+86955|Pdte Adolfo Lopez Mateos|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0995|Rural|
+86955|Adolfo López Mateos|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1706|Rural|
+86955|La Escondida|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2803|Rural|
+86955|Lic. Gustavo Díaz Ordaz 2a. Sección|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2851|Rural|
+86956|San Carlos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2894|Rural|
+86956|El Coahuila|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2978|Rural|
+86956|El Tiradero (El Ramón)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2997|Rural|
+86956|San José|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1791|Rural|
+86956|El Calentano|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2707|Rural|
+86956|Los Venados|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2863|Rural|
+86956|El Silencio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2995|Rural|
+86956|Piedra Santa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3026|Rural|
+86956|San Felipe|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3032|Rural|
+86956|La Cuchilla|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2799|Rural|
+86956|Salvador|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2889|Rural|
+86956|San Manuel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2925|Rural|
+86956|Santa Rosa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3043|Rural|
+86956|Tierra y Libertad|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1792|Rural|
+86956|El Diamante|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2727|Rural|
+86956|Elisa María (El Tani)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2780|Rural|
+86956|Palmira|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2878|Rural|
+86956|El Palomar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2746|Rural|
+86956|El Naranjito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2985|Rural|
+86956|Cuatro Caminos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2696|Rural|
+86956|La Tropicana|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2834|Rural|
+86956|San Francisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2901|Rural|
+86956|San Jorge|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2907|Rural|
+86956|El Nido|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2986|Rural|
+86956|La Manzana|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3009|Rural|
+86956|Santa Isabel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3038|Rural|
+86957|Naranjito|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1018|Rural|
+86957|Ing. Emilio López Zamora|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2790|Rural|
+86957|El Mical|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2742|Rural|
+86960|El Mical|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|1796|Rural|
+86960|Bonanza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2682|Rural|
+86960|Carlos A Madrazo|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1011|Rural|
+86960|Los Gómez|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2854|Rural|
+86960|El Cambio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2976|Rural|
+86960|La Lupita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2821|Rural|
+86960|El Barí|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1004|Rural|
+86960|La Guadalupe|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2813|Rural|
+86960|Las Maravillas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2848|Rural|
+86960|Santa Cruz|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2940|Rural|
+86960|Revancha|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1013|Rural|
+86963|Santa María|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2951|Rural|
+86963|Cementerio de los Mayas (El Caballero)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2693|Rural|
+86963|Isla el Chipre|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2792|Rural|
+86963|San Antonio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2892|Rural|
+86963|Isla de la Doctora|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3000|Rural|
+86963|Isla Francita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3001|Rural|
+86963|Reforma (Provincia)|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1006|Rural|
+86963|Acalán|Ejido|Balancán|Tabasco||86939|27|86939||15|001|2671|Rural|
+86963|Cuatro Hermanos González Piña|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2972|Rural|
+86963|El Descanso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2724|Rural|
+86963|Isla la Botica|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3002|Rural|
+86963|El Limón|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1000|Rural|
+86963|San Antonio|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|2893|Rural|
+86963|Zaragoza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2965|Rural|
+86963|Cascadas de Reforma|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2690|Rural|
+86963|San Juanito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2918|Rural|
+86964|Ramonal|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1003|Rural|
+86964|El Chorro (El Capulín)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2709|Rural|
+86964|Emiliano Zapata Salazar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2781|Rural|
+86964|El Capulín|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1007|Rural|
+86964|Arroyo el Triunfo 2a Sección|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1798|Rural|
+86965|Ototal|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1795|Rural|
+86965|El Carmen|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2711|Rural|
+86965|El Pozo (El Pocito)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2754|Rural|
+86965|El Pucté|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2756|Rural|
+86965|San Juanito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2917|Rural|
+86965|Nueva Orma|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3023|Rural|
+86965|La Unión|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2835|Rural|
+86965|Santa Lucía|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2947|Rural|
+86965|El Sibalito|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1008|Rural|
+86965|Capitán Felipe Castellanos Díaz (San Pedro)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2935|Rural|
+86965|El Tamarindo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2996|Rural|
+86965|Último Esfuerzo|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1793|Rural|
+86965|La Victoria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2841|Rural|
+86965|Nuevo León|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2873|Rural|
+86965|Nuevo Paraíso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2874|Rural|
+86965|San Francisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2902|Rural|
+86966|Jolochero|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1009|Rural|
+86966|El Chamizal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2715|Rural|
+86966|Pan Duro|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2880|Rural|
+86966|Francisco I. Madero 1a Sección|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1804|Rural|
+86966|Francisco I. Madero 2a Sección|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1805|Rural|
+86967|Isla del Carmen|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2791|Rural|
+86967|Cuyos de Caoba|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1801|Rural|
+86967|Miguel Hidalgo Sacaola|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1799|Rural|
+86967|Apatzingán|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1800|Rural|
+86967|Vicenta Lombardo Toledano|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1802|Rural|
+86967|Los Cenotes|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1010|Rural|
+86967|Buena Vista 23|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1803|Rural|
+86970|El Tinto|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1012|Rural|
+86970|Polevar|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2884|Rural|
+86970|Santa Rosalía|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2956|Rural|
+86970|San Carlos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2896|Rural|
+86970|El Achotal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2701|Rural|
+86970|Cibal la Cloria|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|1797|Rural|
+86970|La Unión|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2836|Rural|
+86973|Los Tres Hermanos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2861|Rural|
+86973|Mactún|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|1014|Rural|
+86973|El Águila|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1016|Rural|
+86973|El Pleito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2751|Rural|
+86973|El Triunfo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2774|Rural|
+86973|San José|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2911|Rural|
+86973|San Antonio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3028|Rural|
+86973|La Camaronera|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2797|Rural|
+86973|Santa Rosa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2955|Rural|
+86973|Esperanza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2998|Rural|
+86973|Buenavista|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2685|Rural|
+86973|Texas (Vidamar)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2962|Rural|
+86973|La Providencia|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2828|Rural|
+86973|San Francisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2903|Rural|
+86973|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2811|Rural|
+86973|Tres de Mayo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2963|Rural|
+86973|El Aguacate|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2974|Rural|
+86973|La Lucha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2817|Rural|
+86974|Nicolás Bravo|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1015|Rural|
+86974|Dos de Noviembre|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2698|Rural|
+86974|La Lucha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2818|Rural|
+86974|El Sacrificio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2766|Rural|
+86974|Pucteal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2886|Rural|
+86974|Estapilla Tercera Ampliación|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2783|Rural|
+86974|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2812|Rural|
+86974|La Pava|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2826|Rural|
+86974|Las Carmelitas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2844|Rural|
+86974|El Bilín|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2706|Rural|
+86974|Altamira|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2679|Rural|
+86974|Las Cumbres|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2846|Rural|
+86974|Caudillo del Sur|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1790|Rural|
+86974|La Victoria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2840|Rural|
+86974|San Marcos|Colonia|Balancán|Tabasco||86939|27|86939||09|001|1807|Rural|
+86975|Acatempan|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2672|Rural|
+86975|Las Cabañas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2842|Rural|
+86975|Las Tablas|Congregación|Balancán|Tabasco||86939|27|86939||11|001|1019|Rural|
+86975|El Cedro|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2712|Rural|
+86975|San Pedro|Ejido|Balancán|Tabasco||86939|27|86939||15|001|1001|Rural|
+86975|San Fernando|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2898|Rural|
+86975|Canutillo (Santa Cruz)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2688|Rural|
+86975|La Nueva Lucha|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3010|Rural|
+86975|Buenavista|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2684|Rural|
+86975|La Escoba|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2802|Rural|
+86975|La Purísima|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2830|Rural|
+86975|San Miguel|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2933|Rural|
+86976|La Pita|Ejido|Balancán|Tabasco||86939|27|86939||15|001|0981|Rural|
+86976|El Suspiro|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2769|Rural|
+86976|Monte Líbano|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2870|Rural|
+86976|Santa Cruz|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2941|Rural|
+86976|Vista Hermosa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2964|Rural|
+86976|Palomas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2879|Rural|
+86976|San Carlos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2895|Rural|
+86976|San Francisco|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2904|Rural|
+86976|Canta Rana|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2971|Rural|
+86976|Buena Vista|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|0984|Rural|
+86976|Carlos Enrique Ocampo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2689|Rural|
+86976|El Limoncito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2739|Rural|
+86976|Las Coronelas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2845|Rural|
+86976|Santa Teresa|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2957|Rural|
+86976|El Triángulo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2773|Rural|
+86976|El Jobo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2737|Rural|
+86976|El Cedro|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2713|Rural|
+86976|Catec|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2692|Rural|
+86976|El Tacistal|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2770|Rural|
+86977|Pangonal|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1786|Rural|
+86977|El Progreso|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2755|Rural|
+86977|Monte Bello|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3021|Rural|
+86977|San Antonio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3030|Rural|
+86977|Vista Alegre|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3045|Rural|
+86977|El Vergel (Los Trescientos)|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2776|Rural|
+86977|El Hormiguero|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2982|Rural|
+86977|El Tuzo|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2775|Rural|
+86977|La Herradura|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2814|Rural|
+86977|Los Pinos|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2859|Rural|
+86977|No Te Metas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2871|Rural|
+86977|Santa Cruz del Santuario|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2942|Rural|
+86977|La Cuchilla|Pueblo|Balancán|Tabasco||86939|27|86939||28|001|1005|Rural|
+86977|El Nopalito|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2744|Rural|
+86977|La Cueva|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2800|Rural|
+86977|Santa Ana|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2936|Rural|
+86977|Epigmenio Espinoza|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2782|Rural|
+86977|La Silvita|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2831|Rural|
+86977|San Gregorio|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2905|Rural|
+86977|Hermanas Priego|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2789|Rural|
+86977|La Gloria|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2809|Rural|
+86977|Los Colorines|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2853|Rural|
+86977|San José de Palmiras|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2913|Rural|
+86977|San Felipe|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3031|Rural|
+86977|El Rosario|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2762|Rural|
+86977|Los Parra|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2858|Rural|
+86977|Las Palmas|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|3017|Rural|
+86977|El Pocito|Ranchería|Balancán|Tabasco||86939|27|86939||29|001|1794|Rural|
+86977|La Concepción|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2798|Rural|
+86977|Rancho Alegre|Poblado comunal|Balancán|Tabasco||86939|27|86939||27|001|2888|Rural|

@@ -1,0 +1,16 @@
+83960|Barrio Guadalupe|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1822|Rural|
+83960|Infonavit San Javier|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1820|Rural|
+83960|Las Pilas|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1826|Rural|
+83960|Pitiquito|Pueblo|Pitiquito|Sonora||83601|26|83601||28|047|0416|Rural|
+83960|Bellavista|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1823|Rural|
+83960|Barrio Luz Molina|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1824|Rural|
+83960|Barrio Zaragoza|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1819|Rural|
+83960|Infonavit San Diego|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1821|Rural|
+83960|Luz Molina|Colonia|Pitiquito|Sonora||83601|26|83601||09|047|1825|Rural|
+83961|La Estación|Ranchería|Pitiquito|Sonora||83601|26|83601||29|047|0417|Rural|
+83970|Puerto Libertad|Ranchería|Pitiquito|Sonora||83345|26|83345||29|047|0419|Rural|
+83974|Victoria y Libertad|Ranchería|Pitiquito|Sonora||83341|26|83341||29|047|0420|Rural|
+83980|Félix Gómez|Ranchería|Pitiquito|Sonora||83341|26|83341||29|047|0421|Rural|
+83981|La Ciénega|Congregación|Pitiquito|Sonora||83341|26|83341||11|047|0422|Rural|
+83983|La Inmaculada|Ranchería|Pitiquito|Sonora||83341|26|83341||29|047|0423|Rural|
+83990|Desemboque de los Seris|Congregación|Pitiquito|Sonora||83341|26|83341||11|047|0424|Rural|

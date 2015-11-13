@@ -1,0 +1,103 @@
+92200|Chontla|Pueblo|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||28|063|1347|Rural|
+92203|Santo Domingo|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7464|Rural|
+92203|Ejido Adolfo López Mateos|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7389|Rural|
+92203|San Nicolasillo|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7457|Rural|
+92204|La Tronadora|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7429|Rural|
+92204|Rancho las Flores|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7453|Rural|
+92204|Tamalcuatitla|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7465|Rural|
+92204|Huizache|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7416|Rural|
+92204|San Juan Otontepec|Pueblo|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||28|063|1349|Rural|
+92204|Xochitlán (Parajes)|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7473|Rural|
+92204|El Maguey (El Maguey Chiquito)|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7407|Rural|
+92204|Las Cruces|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7431|Rural|
+92204|Los Tigres|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7444|Rural|
+92204|Paso Manantial|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7450|Rural|
+92204|Tezitlal|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7469|Rural|
+92205|El Encinal|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7399|Rural|
+92205|El Nopal|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7408|Rural|
+92205|La Cuchilla|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7418|Rural|
+92205|El Chote|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7396|Rural|
+92205|Finca el Llano|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7413|Rural|
+92206|Arranca Estacas|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7378|Rural|
+92206|San Francisco|Pueblo|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||28|063|1351|Rural|
+92206|Tancolol|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7467|Rural|
+92207|El Cajón|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7393|Rural|
+92207|La Garita|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7423|Rural|
+92207|El Llano|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7405|Rural|
+92207|Santa Valeria|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7462|Rural|
+92207|La Reforma|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7427|Rural|
+92207|Llano Verde|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7435|Rural|
+92207|Paso Quebrache|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7451|Rural|
+92207|Rancho Quemado|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7454|Rural|
+92207|Sabana Grande|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7455|Rural|
+92210|El Coyol|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7397|Rural|
+92210|Guasimal|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7414|Rural|
+92210|Cedro Agujerado|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7381|Rural|
+92210|La Estrella|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7420|Rural|
+92210|El Higo|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7402|Rural|
+92210|Santa Rita|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7461|Rural|
+92210|El Tanque|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7411|Rural|
+92210|Las Canoas|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7430|Rural|
+92210|Dos Caminos|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7387|Rural|
+92210|El Cajete|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7394|Rural|
+92210|Doña Ana|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7386|Rural|
+92210|El Maguey|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7406|Rural|
+92210|Palo de Rosas|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7449|Rural|
+92213|Las Guásimas|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7433|Rural|
+92213|Mata de Otate|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|1350|Rural|
+92213|Cruz Manantial|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7385|Rural|
+92213|Los Callejones|Congregación|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||11|063|7441|Rural|
+92213|Tlatemalco|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7470|Rural|
+92214|La Florida|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7422|Rural|
+92214|El Arenal|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7392|Rural|
+92214|El Órgano|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7400|Rural|
+92214|San Mateo|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7456|Rural|
+92215|Tecomate|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7468|Rural|
+92215|El Zapote|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7412|Rural|
+92215|Mala Gana|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7445|Rural|
+92216|Canoas|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7380|Rural|
+92216|El Ebanal|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7398|Rural|
+92216|Comales Naranjado|Congregación|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||11|063|7384|Rural|
+92216|El Rosario|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7409|Rural|
+92216|La Cañada|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7417|Rural|
+92216|Huayacocotla|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7415|Rural|
+92217|El Aguacate|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7390|Rural|
+92217|Santa Fe|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7458|Rural|
+92217|Pacheco (Chalahuite)|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7447|Rural|
+92217|La Laja|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7424|Rural|
+92217|Chalahuite|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7382|Rural|
+92217|Los Anteojos|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7438|Rural|
+92220|La Floreña|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7421|Rural|
+92220|Las Delicias|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7432|Rural|
+92220|Loma Grande|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7436|Rural|
+92220|Tres Potrillos|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7471|Rural|
+92220|El Limonar|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7404|Rural|
+92220|Ochenta y Uno|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7446|Rural|
+92220|Tampac (El Ojital)|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7466|Rural|
+92220|Charco Prieto|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7383|Rural|
+92220|Los Manantiales|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7442|Rural|
+92220|Zocohuite|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7474|Rural|
+92220|Rancho Abajo|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|7452|Rural|
+92220|Santa Lucía|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7460|Rural|
+92220|Santana|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7463|Rural|
+92220|El Solito|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7410|Rural|
+92220|La Estrella|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7419|Rural|
+92220|Comales|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|1352|Rural|
+92220|El Carrizal|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7395|Rural|
+92220|Los Altos de Jesús|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7437|Rural|
+92220|Los Perales|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7443|Rural|
+92220|Paciencia|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7448|Rural|
+92220|Magozal|Ranchería|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||29|063|1353|Rural|
+92220|El Jardín|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7403|Rural|
+92220|La Mora|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7425|Rural|
+92220|Santa Julia|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7459|Rural|
+92220|Villa Hermosa (El Crucero)|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7472|Rural|
+92223|La Sierrita|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7428|Rural|
+92225|Los Azahares (El Jardín)|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7440|Rural|
+92225|Los Arroyos|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7439|Rural|
+92226|El Alto la Providencia|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7391|Rural|
+92226|Buenos Aires|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7379|Rural|
+92226|Las Limas|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7434|Rural|
+92227|El Espíritu|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7401|Rural|
+92227|Durazno|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7388|Rural|
+92227|La Peñita|Ejido|Chontla|Veracruz de Ignacio de la Llave||92301|30|92301||15|063|7426|Rural|

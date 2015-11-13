@@ -1,0 +1,61 @@
+87600|San Fernando Centro|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0537|Urbano|09
+87602|Las Torres|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|2080|Urbano|09
+87602|Independencia|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|3140|Urbano|09
+87602|Bellavista Norte|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0539|Urbano|09
+87602|Emiliano Zapata|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0541|Urbano|09
+87602|Jardín|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0542|Urbano|09
+87602|La Valentina|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0543|Urbano|09
+87602|Villa Del Mar|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0545|Urbano|09
+87602|Magisterial|Fraccionamiento|San Fernando|Tamaulipas|San Fernando|87601|28|87601||21|035|0544|Urbano|09
+87602|Caminera|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|2966|Urbano|09
+87604|Francisco Galván Loperena|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|3139|Urbano|09
+87604|Nuevo Amanecer|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|2967|Urbano|09
+87604|Manuel Cavazos Lerma|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|3138|Urbano|09
+87604|Américo Villarreal|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0546|Urbano|09
+87604|Bellavista Sur|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0547|Urbano|09
+87604|Obrera|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0548|Urbano|09
+87604|Tamaulipas|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0549|Urbano|09
+87605|5 de Mayo|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0550|Urbano|09
+87605|Loma Alta|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0552|Urbano|09
+87605|La Rivereña|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0551|Urbano|09
+87605|Luis Donaldo Colosio|Fraccionamiento|San Fernando|Tamaulipas|San Fernando|87601|28|87601||21|035|3133|Urbano|09
+87605|Infonavit|Fraccionamiento|San Fernando|Tamaulipas|San Fernando|87601|28|87601||21|035|3134|Urbano|09
+87606|Lomas de San Fernando|Fraccionamiento|San Fernando|Tamaulipas|San Fernando|87601|28|87601||21|035|3135|Urbano|09
+87606|Paso Real|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0555|Urbano|09
+87606|Los Cisnes|Fraccionamiento|San Fernando|Tamaulipas|San Fernando|87601|28|87601||21|035|3136|Urbano|09
+87607|Gabriel de La Garza|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|3137|Urbano|09
+87607|Las Fuentes|Fraccionamiento|San Fernando|Tamaulipas|San Fernando|87601|28|87601||21|035|0557|Urbano|09
+87607|Las Malvinas|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0558|Urbano|09
+87607|México|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0559|Urbano|09
+87607|Ladrillera|Colonia|San Fernando|Tamaulipas|San Fernando|87601|28|87601||09|035|0556|Urbano|09
+87610|Santa Teresa|Ranchería|San Fernando|Tamaulipas||87601|28|87601||29|035|0564|Rural|
+87610|La Loma|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0561|Rural|
+87610|San Germán|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0563|Rural|
+87610|Guadalupe Victoria 2|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0560|Rural|
+87610|Palos Blancos|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0562|Rural|
+87612|Las Escobas|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0565|Rural|
+87613|Miguel Hidalgo 2|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0567|Rural|
+87613|Juan Antonio|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0566|Rural|
+87616|San Francisco|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0568|Rural|
+87617|La Carreta|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0569|Rural|
+87618|Gral. Francisco Gonzalez Villarreal|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0570|Rural|
+87618|Plan Del Alazán|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0571|Rural|
+87619|Alfredo V Bonfil|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0572|Rural|
+87619|Los Vergeles|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0573|Rural|
+87620|San Jose|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0576|Rural|
+87620|General Francisco Villa|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0575|Urbano|
+87620|Águila Azteca 1|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0574|Rural|
+87622|Las Norias|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0577|Rural|
+87624|Horacio Terán|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0578|Rural|
+87624|Laguna Seca Del Sur|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0581|Rural|
+87624|Laguna de San Juan|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0580|Rural|
+87625|Adolfo Ruiz Cortines|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0582|Rural|
+87626|Miguel Hidalgo 1|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0583|Rural|
+87627|6 de Enero|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0584|Rural|
+87628|La Joya|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0585|Rural|
+87629|Los Pastores|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0586|Rural|
+87629|Campo Pesquero Barrancon|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|2185|Rural|
+87629|Palo Solo|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0587|Rural|
+87630|Carboneras (La Carbonera)|Pueblo|San Fernando|Tamaulipas||87601|28|87601||28|035|0588|Urbano|
+87636|Campo Pesquero Carbajal|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|0589|Rural|
+87636|Campo Pesquero Punta de Alambre|Ejido|San Fernando|Tamaulipas||87601|28|87601||15|035|3603|Rural|

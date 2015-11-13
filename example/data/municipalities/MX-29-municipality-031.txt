@@ -1,0 +1,67 @@
+90430|4ta San Bartolomé Matlalohcan|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|1367|Urbano|
+90430|Villa Celeste|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1374|Urbano|
+90430|América del Sur|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1378|Urbano|
+90430|1ra San Bartolomé Matlalohcan|Barrio|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||02|031|0222|Urbano|
+90430|Cuatepec|Unidad habitacional|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||31|031|1372|Urbano|
+90430|El Pedregal|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1375|Urbano|
+90430|Las Arboledas|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1379|Urbano|
+90430|Teotlalpan|Barrio|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||02|031|0223|Urbano|
+90430|Alberto Juárez Blancas|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1382|Urbano|
+90430|Villas de Tetla|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1383|Urbano|
+90430|Paseos de Xolalpa|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|0773|Urbano|
+90430|Jardines de San Bartolo|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|0828|Urbano|
+90430|3ra San Bartolomé Matlalohcan|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|1368|Urbano|
+90430|Vista de Sol|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1377|Urbano|
+90430|Antorcha Revolucionaria INFONAVIT Tetla|Unidad habitacional|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||31|031|0221|Urbano|
+90430|Metenco|Residencial|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||30|031|1206|Urbano|
+90430|Actipac|Colonia|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||09|031|1371|Urbano|
+90430|Ocotitla|Colonia|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||09|031|1384|Urbano|
+90430|Los Robles|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|0816|Rural|
+90430|La Cañada|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|0818|Rural|
+90430|Villa de las Flores|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|1376|Urbano|
+90430|Los Sabinales|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1380|Urbano|
+90430|Paseos de Tetla|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1381|Urbano|
+90432|4ta Manzana San Francisco Atexcatzinco|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1369|Urbano|
+90432|1ra Manzana San Francisco Atezcatzinco|Barrio|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||02|031|0228|Urbano|
+90432|San Francisco Atexcatzinco 2da Manzana|Fraccionamiento|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||21|031|1370|Urbano|
+90432|San Francisco Atexcatzingo 3ra Manz|Barrio|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||02|031|0789|Urbano|
+90433|Chautzingo|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|0229|Rural|
+90434|José María Morelos y Pavón|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|0226|Rural|
+90434|Ciudad Industrial Xicohtencatl|Zona industrial|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||37|031|0230|Rural|
+90435|San Gregorio|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|1385|Rural|
+90435|Guillermo Macías|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1412|Rural|
+90435|La Divina Providencia|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|1386|Rural|
+90435|San Isidro|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1416|Rural|
+90435|Xometla|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|0001|Rural|
+90435|Capulac|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|0224|Rural|
+90435|Santa Fe la Troje|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1410|Rural|
+90435|El Pozo|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1413|Rural|
+90435|Los Dolores|Colonia|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||09|031|0231|Urbano|
+90435|El Prado|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1414|Rural|
+90435|Felipe Gutiérrez|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1398|Rural|
+90435|Campo David|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1387|Rural|
+90435|Fracción el Derramadero|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1417|Rural|
+90435|El Carmen|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1411|Rural|
+90435|El Prado|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1415|Rural|
+90436|NCPE San Francisco Tepeyanco|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1390|Rural|
+90436|El Ocote|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1392|Rural|
+90436|Ricardo Flores Magón|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1405|Rural|
+90436|Juan Lima Olivares|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1391|Rural|
+90437|San José Piedras Negras|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1399|Rural|
+90437|Las Cabañas|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1397|Rural|
+90437|San Isidro Piedras Negras|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1400|Rural|
+90437|San Miguel|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1407|Rural|
+90437|Las Arenas|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1409|Rural|
+90437|De Gómez|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1408|Rural|
+90437|La Caridad|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1406|Rural|
+90438|De Apizaquito|Ejido|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||15|031|1393|Rural|
+90438|Santa Rosa Mena|Pueblo|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||28|031|0225|Rural|
+90438|Santa Margarita|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1396|Rural|
+90438|Plan de Ayala|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1402|Rural|
+90438|El Corazón|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1403|Rural|
+90438|San Isidro|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1388|Rural|
+90438|Alejandro López Ávila (Los Temontones)|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1395|Rural|
+90438|La Concepción|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1404|Rural|
+90438|Anastacio Lemus|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1389|Rural|
+90438|San Juan|Poblado comunal|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||27|031|1401|Rural|
+90438|La Loma|Ranchería|Tetla de la Solidaridad|Tlaxcala||90301|29|90301||29|031|1394|Rural|

@@ -1,0 +1,19 @@
+40330|Buenavista de Cuellar Centro|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|1129|Rural|12
+40333|Las Palmas|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|1426|Rural|12
+40334|San Antonio|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|3813|Rural|12
+40335|Jardines del Agua Nueva|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|3812|Rural|12
+40336|Guadalupe|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|1317|Rural|12
+40337|La Huerta|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|1374|Rural|12
+40338|El Trigal|Fraccionamiento|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||21|015|3814|Rural|12
+40338|Tlachichilpa|Colonia|Buenavista de Cuéllar|Guerrero|Buenavista de Cuellar|40332|12|40332||09|015|1688|Rural|12
+40340|Santa Fe Tepetlapa|Pueblo|Buenavista de Cuéllar|Guerrero||40001|12|40001||28|015|2035|Rural|
+40340|San Isidro (La Hacienda de San Isidro)|Ranchería|Buenavista de Cuéllar|Guerrero||40001|12|40001||29|015|0001|Rural|
+40341|Los Limones|Ranchería|Buenavista de Cuéllar|Guerrero||40332|12|40332||29|015|2036|Rural|
+40341|Palmillas|Ranchería|Buenavista de Cuéllar|Guerrero||40332|12|40332||29|015|2037|Rural|
+40342|Zacapalco|Campamento|Buenavista de Cuéllar|Guerrero||40201|12|40201||04|015|2038|Rural|
+40347|El Zapote|Pueblo|Buenavista de Cuéllar|Guerrero||40332|12|40332||28|015|2033|Rural|
+40348|Venta de La Negra|Ranchería|Buenavista de Cuéllar|Guerrero||40332|12|40332||29|015|2039|Rural|
+40350|Coxcatlan|Pueblo|Buenavista de Cuéllar|Guerrero||40332|12|40332||28|015|2040|Rural|
+40351|Los Amates|Campamento|Buenavista de Cuéllar|Guerrero||40332|12|40332||04|015|2041|Rural|
+40352|Cieneguillas|Campamento|Buenavista de Cuéllar|Guerrero||40332|12|40332||04|015|2042|Rural|
+40355|Pimentel|Ranchería|Buenavista de Cuéllar|Guerrero||40332|12|40332||29|015|2032|Rural|

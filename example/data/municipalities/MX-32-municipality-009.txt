@@ -1,0 +1,6 @@
+99260|Colorada|Ranchería|Chalchihuites|Zacatecas||99261|32|99261||29|009|0570|Rural|
+99260|Chalchihuites|Ranchería|Chalchihuites|Zacatecas||99261|32|99261||29|009|0571|Rural|
+99260|Jose Maria Morelos|Ranchería|Chalchihuites|Zacatecas||99261|32|99261||29|009|0572|Rural|
+99270|Canutillo|Estación|Chalchihuites|Zacatecas||99261|32|99261||16|009|0574|Rural|
+99270|San Jose de Buenavista|Ejido|Chalchihuites|Zacatecas||99261|32|99261||15|009|0575|Rural|
+99279|Gualterio|Estación|Chalchihuites|Zacatecas||99261|32|99261||16|009|0576|Rural|

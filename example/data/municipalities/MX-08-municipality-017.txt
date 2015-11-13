@@ -1,0 +1,267 @@
+31500|Ciudad Cuauhtémoc Centro|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0104|Urbano|03
+31510|Fernando Baeza|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0618|Urbano|03
+31510|REDECOP|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0622|Urbano|03
+31510|Barrio de la Presa|Barrio|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||02|017|3218|Urbano|03
+31510|Rincones 2|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0008|Urbano|03
+31510|Alicantes|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3734|Urbano|03
+31510|La Campana|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3735|Urbano|03
+31510|Américas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0585|Urbano|03
+31510|Hacienda de San Antonio|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3846|Urbano|03
+31510|CTM|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0106|Urbano|03
+31510|La Presa|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0107|Urbano|03
+31512|Pensiones Civiles|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3223|Urbano|03
+31512|Madeira|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0009|Urbano|03
+31512|Campo Real|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0592|Urbano|03
+31512|Villas de San Antonio|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|5677|Urbano|03
+31512|Los Trigales|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|5722|Urbano|03
+31512|El Corcel|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0011|Urbano|03
+31512|Villita Valle Grande|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0700|Urbano|03
+31512|Vista Hermosa|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3619|Urbano|03
+31512|Villas de España|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|8178|Urbano|03
+31512|Pensiones|Ampliación|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||38|017|3617|Urbano|03
+31512|Los Nogales|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3736|Urbano|03
+31512|Quintas del Valle|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0676|Urbano|03
+31513|Los Frailes|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3847|Urbano|03
+31513|Los Girasoles|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3836|Urbano|03
+31514|Tecnológico 2|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3849|Urbano|03
+31514|Senderos del Tecnológico|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|5725|Urbano|03
+31515|Tecnológico|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3848|Urbano|03
+31516|Monte Carlo|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|7340|Urbano|03
+31517|Quintas Lupitas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0006|Urbano|03
+31520|Barrio Santa María|Barrio|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||02|017|0112|Urbano|03
+31520|Ampliación Barrio Lerdo|Ampliación|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||38|017|0645|Urbano|03
+31520|Barrio Delicias|Barrio|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||02|017|0110|Urbano|03
+31520|Barrio Lerdo|Barrio|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||02|017|0111|Urbano|03
+31520|Fernando Martínez|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3837|Urbano|03
+31522|Arturo Rodríguez Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3235|Urbano|03
+31522|A Maldonado Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3237|Urbano|03
+31522|Altavista|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0583|Urbano|03
+31522|Lazara Pérez Vda. de S|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3238|Urbano|03
+31522|Tomas Rodelas Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3234|Urbano|03
+31522|José RodrÍguez S Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3236|Urbano|03
+31522|Los Pinos|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3835|Urbano|03
+31523|Miguel Sigala|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0656|Urbano|03
+31523|PRI I|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0671|Urbano|03
+31523|PRI II|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3225|Urbano|03
+31523|Salome Gallegos Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0681|Urbano|03
+31523|Tarahumara|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3618|Urbano|03
+31524|Bosques de la Tarahumara|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0007|Urbano|03
+31524|San Cristóbal|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|4222|Urbano|03
+31524|Tierra Nueva 2a Etapa|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3242|Urbano|03
+31524|Del Bosque|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3842|Urbano|03
+31524|Tierra Nueva|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0692|Urbano|03
+31524|Los Olivos|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3739|Urbano|03
+31526|Los Alcaldes|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|4232|Urbano|03
+31527|Campesina|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0590|Urbano|03
+31527|José María Morelos|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0632|Urbano|03
+31527|Pacheco y Vielmas|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0663|Urbano|03
+31527|Juan Estrada|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0633|Urbano|03
+31527|Tierra y Libertad Sect. A|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0113|Urbano|03
+31527|La Esperanza|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0616|Urbano|03
+31527|Las Águilas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|5747|Urbano|03
+31528|Tierra y Libertad Sect. C|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0114|Urbano|03
+31528|Francisco Hernández Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3240|Urbano|03
+31528|H Loya Sector|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3239|Urbano|03
+31529|San Pedro|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0684|Urbano|03
+31529|Tierra y Libertad Sect. B|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0115|Urbano|03
+31530|San Antonio|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0108|Urbano|03
+31530|Francisco Villa|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0116|Urbano|03
+31530|San Antonio|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0118|Urbano|03
+31530|Independencia|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0117|Urbano|03
+31530|INFONAVIT Revolución|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3220|Urbano|03
+31532|Dublán|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0605|Urbano|03
+31532|Holanda|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0626|Urbano|03
+31532|Barrio Viejo|Barrio|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||02|017|3219|Urbano|03
+31533|Haciendas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3844|Urbano|03
+31533|Cerrada de San Antonio|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3839|Urbano|03
+31533|Dublán 2da Etapa|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3840|Urbano|03
+31533|Quinta Real|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3845|Urbano|03
+31540|Retornos del Sol|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0678|Urbano|03
+31540|Puertas del Sol|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3226|Urbano|03
+31540|Niños Héroes|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0120|Urbano|03
+31540|Benito Juárez|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0119|Urbano|03
+31542|Basaseachi|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0587|Urbano|03
+31542|San Javier|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|4184|Urbano|03
+31543|Héctor Valdez|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0625|Urbano|03
+31543|Valle de Anáhuac|Ampliación|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||38|017|3843|Urbano|03
+31543|Quintas Sebastián|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|5746|Urbano|03
+31543|Paquimé|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0010|Urbano|03
+31543|Mirador|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3615|Urbano|03
+31543|Lomas del Campestre|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3616|Urbano|03
+31543|Parque Industrial Cuauhtémoc|Parque industrial|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||26|017|0665|Urbano|03
+31544|Nuevo Milenio|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3834|Urbano|03
+31544|Silvano Portillo|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3838|Urbano|03
+31544|Elba Esther Gordillo|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0614|Urbano|03
+31550|Progreso|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0122|Urbano|03
+31550|Puerto Alturas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3227|Urbano|03
+31550|Colinas del Puerto|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3379|Urbano|03
+31552|Real del Monte|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3228|Urbano|03
+31555|Residencial los Trigales|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|4136|Urbano|03
+31555|Los Manzanos|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0123|Urbano|03
+31555|Las Huertas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3221|Urbano|03
+31555|Lindavista|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3222|Urbano|03
+31555|Potrero del Puerto|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|4163|Urbano|03
+31557|Las Huertas Etapa 3|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0124|Urbano|03
+31558|Las Huertas Etapa 1|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0125|Urbano|03
+31559|Las Huertas Etapa 2|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0126|Urbano|03
+31559|Residelcial la Sierra|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|8179|Urbano|03
+31560|FOVISSSTE|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0129|Urbano|03
+31560|Rinconada de Villa|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0679|Urbano|03
+31560|Burócrata|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0127|Urbano|03
+31560|Nezahualcoyotl|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0130|Urbano|03
+31560|Burócrata 2|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0128|Urbano|03
+31570|Del Empleado Municipal|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3241|Urbano|03
+31570|Las Alamedas|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|5740|Urbano|03
+31570|Ampliación Francisco Villa|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0131|Urbano|03
+31570|Industrial|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0627|Urbano|03
+31570|PEMEX|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3233|Urbano|03
+31572|El Roble|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0613|Urbano|03
+31572|Revolución Mexicana|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3229|Urbano|03
+31572|Lázaro Cárdenas|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0644|Urbano|03
+31572|Pascual Orozco|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0666|Urbano|03
+31573|Ciudadela|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0005|Urbano|03
+31578|Las Cuchillas|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0641|Urbano|03
+31578|Valle de Anáhuac (Sector los Alamitos)|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0132|Urbano|03
+31578|Emiliano Zapata II|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3231|Urbano|03
+31579|Pradera Dorada|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3841|Urbano|03
+31579|Emiliano Zapata|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0133|Urbano|03
+31579|La Cima|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0634|Urbano|03
+31579|La Cima y Valle de Los Manzanos|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3833|Urbano|03
+31579|Sierra Azul|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0689|Urbano|03
+31579|Venustiano Carranza|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0698|Urbano|03
+31579|Emiliano Zapata I|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|3230|Urbano|03
+31579|Ampliación Lázaro Cárdenas|Ampliación|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||38|017|3217|Urbano|03
+31580|Guadalupe Victoria|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0134|Urbano|03
+31580|Los Arenales|Fraccionamiento|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||21|017|0649|Urbano|03
+31590|República|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0136|Urbano|03
+31590|Ampliación República|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|5759|Urbano|03
+31590|Reforma|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|0135|Urbano|03
+31590|Periodista|Colonia|Cuauhtémoc|Chihuahua|Cuauhtémoc|31501|08|31501||09|017|3224|Urbano|03
+31600|Anáhuac Centro|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|0137|Rural|10
+31600|El Pedregal|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3170|Rural|10
+31600|El Ojito|Barrio|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||02|017|3167|Rural|10
+31600|Dr. Belisario Domínguez|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3178|Rural|10
+31600|Sierra Blanca|Fraccionamiento|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||21|017|0141|Rural|10
+31600|Francisco Villa|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3165|Rural|10
+31600|Parque Turístico|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3169|Rural|10
+31600|Progreso|Fraccionamiento|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||21|017|3176|Rural|10
+31600|San José|Barrio|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||02|017|3168|Rural|10
+31600|Los Pinos|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|0140|Rural|10
+31600|Los Manzanos|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3171|Rural|10
+31600|Habitación|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3173|Rural|10
+31600|Solidaridad|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|0142|Rural|10
+31600|Laguna Azul|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3172|Rural|10
+31600|Bellavista|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|3177|Rural|10
+31600|Lindavista|Colonia|Cuauhtémoc|Chihuahua|Colonia Anáhuac|31601|08|31601||09|017|0646|Rural|10
+31604|Campo 9.5 O Casa Colorada|Congregación|Cuauhtémoc|Chihuahua||31501|08|31501||11|017|0146|Rural|
+31604|Campo 2a|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0144|Rural|
+31604|Napavechic|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0148|Rural|
+31604|6 de Enero|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0149|Rural|
+31604|Campo 2b|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0145|Rural|
+31604|Miguel Chiquito|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0147|Rural|
+31604|Campo Uno y Medio C|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0003|Rural|
+31605|Campo 27 . 5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4130|Rural|
+31605|Campo 24|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4213|Rural|
+31605|Campo 27 B|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5736|Rural|
+31605|Campo Número Treinta y Cuatro|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5786|Rural|
+31605|Campo 26.5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0152|Rural|
+31605|Campo 26|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0151|Rural|
+31605|Campo 1.5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5654|Rural|
+31605|Campo 27|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0153|Rural|
+31605|Tascate del Águila|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0156|Rural|
+31605|Campo 1 A|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4127|Rural|
+31605|Barraganes|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|4141|Rural|
+31605|Campo 1 C|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5680|Rural|
+31605|Campo 28|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0154|Rural|
+31605|Campo 1b|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0150|Rural|
+31605|Ciénega de Castillo|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0155|Rural|
+31606|Rodrigo M Quevedo|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0161|Rural|
+31606|Zamaloapan|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0163|Rural|
+31606|Bustillos|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0157|Rural|
+31606|El Apache|Pueblo|Cuauhtémoc|Chihuahua||31501|08|31501||28|017|0158|Rural|
+31606|Favela|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0159|Rural|
+31606|Loma Pelona|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0160|Rural|
+31606|3 Lagunitas|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0162|Rural|
+31606|Centro Calles (San Isidro)|Ranchería|Cuauhtémoc|Chihuahua||31501|08|31501||29|017|5656|Rural|
+31607|Campo 3a|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0164|Rural|
+31607|Campo 25 . 5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4120|Rural|
+31607|Campo 25|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5713|Rural|
+31607|Campo 4|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0166|Rural|
+31607|Campo 18|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0168|Rural|
+31607|Campo 22|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0172|Rural|
+31607|Campo 4.5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4183|Rural|
+31607|Campo Número Dieciocho B|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0002|Rural|
+31607|Campo 21|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0171|Rural|
+31607|Campo Doscientos Cinco|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5695|Rural|
+31607|Campo 1 D|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5723|Rural|
+31607|Campo 19|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0169|Rural|
+31607|Campo 20|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0170|Rural|
+31607|Campo 23|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0173|Rural|
+31607|Campo Número Cinco|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5693|Rural|
+31607|Campo Número Quince|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0001|Rural|
+31607|Campo 3b|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0165|Rural|
+31607|Campo 6b|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0167|Rural|
+31607|Campo 6.5 B|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4175|Rural|
+31608|Campo 6a|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0174|Rural|
+31608|Campo 6.5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0175|Rural|
+31608|Campo 15.5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4169|Rural|
+31608|Campo 7-C|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4214|Rural|
+31608|Campo 17|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0178|Rural|
+31608|Campo 7 D|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4170|Rural|
+31608|Campo 16|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5712|Rural|
+31608|Campo 7a|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0176|Rural|
+31608|Campo 7b|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0177|Rural|
+31609|La Selva|Pueblo|Cuauhtémoc|Chihuahua||31501|08|31501||28|017|0181|Rural|
+31609|Cuitláhuac|Ranchería|Cuauhtémoc|Chihuahua||31501|08|31501||29|017|0179|Rural|
+31609|Vista Hermosa|Fraccionamiento|Cuauhtémoc|Chihuahua||31501|08|31501||21|017|0183|Rural|
+31609|El Llorón|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0180|Rural|
+31609|Morelos|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0182|Rural|
+31610|Campo Número Ciento Dieciocho|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|4124|Rural|
+31610|Campo Número Ciento Uno|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|0186|Rural|
+31610|Campo Número Ciento Siete|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|0187|Rural|
+31610|Campo Número Ciento Seis|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|4129|Rural|
+31610|Obregón (Rubio)|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|0184|Rural|
+31610|Campo Número Ciento Quince|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|0188|Rural|
+31610|Campo Número Ciento Nueve|Colonia|Cuauhtémoc|Chihuahua||31616|08|31616||09|017|5785|Rural|
+31610|La Quemada|Ejido|Cuauhtémoc|Chihuahua||31616|08|31616||15|017|0189|Rural|
+31610|Arroyo del Agua|Ejido|Cuauhtémoc|Chihuahua||31616|08|31616||15|017|0185|Rural|
+31611|Lázaro Cárdenas|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0190|Rural|
+31612|Maurilio Ortiz|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0192|Rural|
+31612|Reforma|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0194|Rural|
+31612|Nuevo Horizonte|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0193|Rural|
+31612|Chupaderos|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0191|Rural|
+31613|Campo 102|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0197|Rural|
+31613|Campo 11|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0196|Rural|
+31613|Campo 103|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0198|Rural|
+31613|Campo 10|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0195|Rural|
+31613|Campo 100|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5888|Rural|
+31613|Campo Número Ciento Dos y Medio|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0004|Rural|
+31614|Campo 13|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4125|Rural|
+31614|Campo 13 . 5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4126|Rural|
+31614|Campo 12 A|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4121|Rural|
+31614|Campo 14 B|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5711|Rural|
+31614|Campo 7 . 5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4122|Rural|
+31614|Campo 8 B|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4123|Rural|
+31614|Campo 8|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4144|Rural|
+31614|Campo 117|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4171|Rural|
+31614|Nuevo Zaragoza|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0202|Rural|
+31614|Campo 8. 5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4128|Rural|
+31614|Campo 12b|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0200|Rural|
+31614|Nicolás Bravo|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0201|Rural|
+31614|Campo 9|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0199|Rural|
+31614|Campo 14 A|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4119|Rural|
+31615|Campo 105|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0203|Rural|
+31615|Campo 108|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0204|Rural|
+31615|Campo 111|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0206|Rural|
+31615|El Rayo|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0208|Rural|
+31615|Campo 110|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0205|Rural|
+31615|Progreso|Ejido|Cuauhtémoc|Chihuahua||31501|08|31501||15|017|0209|Rural|
+31615|Campo 114 A|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4118|Rural|
+31615|Campo 104|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4168|Rural|
+31615|Campo 15.5|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4174|Rural|
+31615|Campo 116|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4182|Rural|
+31615|Campo 112|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|5655|Rural|
+31615|Campo 113|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|0207|Rural|
+31617|Campo 78|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4201|Rural|
+31617|Campo 64-A|Colonia|Cuauhtémoc|Chihuahua||31501|08|31501||09|017|4211|Rural|
+31619|Santa Lucia|Ranchería|Cuauhtémoc|Chihuahua||31501|08|31501||29|017|0211|Rural|

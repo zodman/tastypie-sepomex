@@ -1,0 +1,109 @@
+55740|El Calvario|Barrio|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||02|081|8122|Urbano|12
+55740|Tecámac de Felipe Villanueva Centro|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3912|Urbano|12
+55740|Galaxias el Llano|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|9426|Urbano|12
+55743|Hacienda del Bosque|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8189|Urbano|12
+55743|Rancho la Luz|Condominio|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||10|081|8068|Urbano|12
+55743|San Nicolás la Redonda|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8227|Urbano|12
+55743|Isidro Fabela|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5597|Urbano|12
+55743|La Palma|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8075|Urbano|12
+55743|Real Granada|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0008|Urbano|12
+55744|San Pedro Potzohuacan|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3915|Urbano|12
+55745|Ampliación San Jerónimo|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8083|Urbano|12
+55745|Nuevo México|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8084|Urbano|12
+55745|San Jerónimo Xonacahuacan|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3916|Urbano|12
+55745|Jardines de Xonacahuacan|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8276|Urbano|12
+55746|Santa Cruz Tecámac|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|9423|Urbano|12
+55747|San Antonio de San Pablo Tecalco|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7018|Urbano|12
+55747|San Isidro|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8123|Urbano|12
+55747|San Pablo Tecalco|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3930|Urbano|12
+55747|Nueva Santa María (De San Pablo Tecalco)|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7017|Urbano|12
+55747|Citlalcoatl|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7014|Urbano|12
+55748|San Martín Azcatepec|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3918|Urbano|12
+55748|Los Olivos|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5598|Urbano|12
+55748|Los Olivos|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|7025|Urbano|12
+55748|Ejido de Tecámac|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5335|Urbano|12
+55748|San José|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3917|Urbano|12
+55748|San Mateo Tecalco|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3919|Urbano|12
+55748|Primero de Marzo|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5596|Urbano|12
+55748|Ampliación Ejido de Tecámac|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8079|Urbano|12
+55749|Hueyotenco|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3921|Urbano|12
+55749|Villa del Real|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|5099|Urbano|12
+55749|Ampliación 5 de Mayo|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5337|Urbano|12
+55749|Del Catillo|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8278|Urbano|12
+55749|Jardines de Tecámac|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8629|Urbano|12
+55749|5 de Mayo|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3920|Urbano|12
+55749|Electricistas|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5650|Urbano|12
+55749|Sierra Hermosa|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|6583|Urbano|12
+55749|La Nopalera|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|5599|Urbano|12
+55749|Azul|Ranchería|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||29|081|8070|Urbano|12
+55749|Texcaltitla|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7019|Urbano|12
+55749|Ixotitla|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8069|Urbano|12
+55749|Vista Hermosa|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8078|Urbano|12
+55749|Nueva Santa María|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3922|Urbano|12
+55750|Santa María Ajoloapan|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3923|Urbano|12
+55752|San Juan Pueblo Nuevo|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55601|15|55601||28|081|3924|Urbano|12
+55754|Paseos de Tecámac|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|7867|Urbano|12
+55754|Santo Domingo Ajoloapan|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3925|Urbano|12
+55754|Loma de San Jerónimo (Ampliación Santo Domingo)|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8080|Urbano|12
+55755|Progreso|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8077|Urbano|12
+55755|El Calvario de Reyes Acozac|Barrio|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||02|081|8081|Urbano|12
+55755|Los Reyes Acozac|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3926|Urbano|12
+55755|Guadalupe de Reyes Acozac|Barrio|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||02|081|8073|Urbano|12
+55755|La Michapa|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8074|Urbano|12
+55755|San Miguel|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8121|Urbano|12
+55755|La Campiña|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7991|Urbano|12
+55755|Buenavista|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8071|Urbano|12
+55755|La Palma de Reyes|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8076|Urbano|12
+55757|San Lucas Xolox|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55601|15|55601||28|081|3927|Urbano|12
+55757|Ejidal|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55601|15|55601||09|081|8072|Urbano|12
+55758|Ampliación la Palma (Zona Industrial)|Zona industrial|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||37|081|9424|Urbano|12
+55760|San Francisco Cuautliquixca|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3929|Urbano|12
+55760|Santa María Ozumbilla|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3931|Urbano|12
+55760|Magisterial|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7016|Urbano|12
+55760|Atlautenco|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7022|Urbano|12
+55760|El Calvario de Ozumbilla|Barrio|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||02|081|7023|Urbano|12
+55760|Mexicanos Unidos|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|7011|Urbano|12
+55760|Portal Ojo de Agua|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|7026|Urbano|12
+55763|Los Héroes Tecámac|Unidad habitacional|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||31|081|5672|Urbano|12
+55764|Los Héroes Tecámac II|Unidad habitacional|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||31|081|5673|Urbano|12
+55764|Los Héroes Ozumbilla|Unidad habitacional|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||31|081|8626|Urbano|12
+55764|Nuevo Paraíso|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8628|Urbano|12
+55764|Margarito F. Ayala|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3932|Urbano|12
+55765|Los Héroes San Pablo|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0007|Urbano|12
+55765|Jesús Romero Flores|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8250|Urbano|12
+55765|México Independiente|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8252|Urbano|12
+55765|La Cañada|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7021|Urbano|12
+55765|Esmeralda|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3935|Urbano|12
+55765|Lomas de Tecámac|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|5632|Urbano|12
+55765|21 de Agosto|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8253|Urbano|12
+55765|10 de Junio|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8254|Urbano|12
+55765|Soto y Gama|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8255|Urbano|12
+55765|Granjas Valle de Guadalupe|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|8251|Urbano|12
+55765|Nueva Tlalnepantla|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3934|Urbano|12
+55766|Ampliación Ozumbilla|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3940|Urbano|12
+55767|Valle San Pedro Urbi Villa del Campo|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8487|Urbano|12
+55767|Conjunto urbano Real Verona|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0003|Urbano|12
+55767|Punta Palermo|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0005|Urbano|12
+55767|Valle San Pedro Urbi Quinta Versalles|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0002|Urbano|12
+55767|Los Arcos|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7015|Urbano|12
+55767|Real del Cid|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|7847|Urbano|12
+55767|Real Castell|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8053|Urbano|12
+55767|Real del Sol|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|7024|Urbano|12
+55767|Real Toscana|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0004|Urbano|12
+55767|Loma Bonita|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3942|Urbano|12
+55767|Santa Cruz|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3943|Urbano|12
+55767|Real Firenze|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|8478|Urbano|12
+55768|La Azteca|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7013|Urbano|12
+55768|Tezontla|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|9425|Urbano|12
+55768|Cuauhtémoc|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3944|Urbano|12
+55768|Lomas de Ozumbilla|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3945|Urbano|12
+55768|Vista Hermosa (De Ozumbilla)|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|7020|Urbano|12
+55768|San Antonio (de San Francisco Cuautliquixca)|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3946|Urbano|12
+55769|Norchuca|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3947|Urbano|12
+55770|Ojo de Agua|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|3949|Urbano|12
+55770|Rinconada San Pedro|Fraccionamiento|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||21|081|0006|Urbano|12
+55770|El Terromote|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|0001|Urbano|12
+55770|San Pedro Atzompa|Pueblo|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||28|081|3950|Urbano|12
+55773|Hacienda Provenzal|Conjunto habitacional|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||12|081|8572|Urbano|12
+55776|Lomas de San Pedro Atzompa|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|3952|Urbano|12
+55778|Ampliación de la Concepción|Colonia|Tecámac|México|Tecamac de Felipe Villanueva|55762|15|55762||09|081|9427|Urbano|12

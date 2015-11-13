@@ -1,0 +1,90 @@
+63400|San José de Gracia|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0242|Rural|
+63400|El Motaje|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0277|Rural|
+63403|Las Mesitas|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0010|Rural|
+63403|La Lagunita|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0246|Rural|
+63403|Las Higueras|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0020|Rural|
+63403|El Naranjo|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0012|Rural|
+63403|El Vigal|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0022|Rural|
+63403|La Morita (Anamorita)|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0013|Rural|
+63404|San Diego Naranjo|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0248|Rural|
+63404|Mesa las Arpas|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0009|Rural|
+63405|San Dieguito de Arriba|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0250|Rural|
+63405|San Dieguito de Abajo|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0249|Rural|
+63406|Los Murillos|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0252|Rural|
+63406|El Carrizo|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0251|Rural|
+63407|Mesa de la Laguna|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0007|Rural|
+63407|El Duraznito|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0021|Rural|
+63407|Santa Cruz|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0247|Rural|
+63408|El Oro|Congregación|Acaponeta|Nayarit||63431|18|63431||11|001|0253|Rural|
+63408|San Diego de Alcalá|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0255|Rural|
+63409|Cañones|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0024|Rural|
+63409|La Guacamaya|Colonia|Acaponeta|Nayarit||63431|18|63431||09|001|0032|Rural|
+63409|El Carrizal|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0015|Rural|
+63410|La Higuerita Nueva (El Carrizo)|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0019|Rural|
+63410|El Aguaje|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0257|Rural|
+63410|La Bayona|Congregación|Acaponeta|Nayarit||63431|18|63431||11|001|0259|Rural|
+63410|El Tigre|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0254|Rural|
+63412|El Tacote|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0260|Rural|
+63412|La Haciendilla|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0014|Rural|
+63412|Cerro Bola|Congregación|Acaponeta|Nayarit||63431|18|63431||11|001|0261|Rural|
+63412|El Guayabo|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0025|Rural|
+63413|Hacienda de Mariquitas|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|1161|Rural|
+63413|Ochenta y Seis Batallón|Unidad habitacional|Acaponeta|Nayarit||63431|18|63431||31|001|0031|Rural|
+63413|Hacienda Vieja|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0023|Rural|
+63413|El Recodo|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0238|Rural|
+63413|Las Casitas|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0263|Rural|
+63413|La Palma|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0011|Rural|
+63413|Llano de Mariquitas|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0029|Rural|
+63413|El Centenario|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0006|Rural|
+63413|La Haciendita|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0262|Rural|
+63414|Las Palmitas|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0018|Rural|
+63414|Hojas Anchas|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0027|Rural|
+63414|Estación Crucero de Acaponeta|Paraje|Acaponeta|Nayarit||63431|18|63431||45|001|0030|Rural|
+63415|Chalpa|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0008|Rural|
+63415|Valle de la Urraca (El Cabildo)|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0264|Rural|
+63416|El Tejón (El Cantón)|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0258|Rural|
+63420|Piedra Ancha|Congregación|Acaponeta|Nayarit||63431|18|63431||11|001|0267|Rural|
+63420|Sayulilla|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0268|Rural|
+63420|Casas Coloradas|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0265|Rural|
+63420|La Cortez (El Zapote)|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0028|Rural|
+63420|Llano de la Cruz|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0273|Rural|
+63421|Las Bugambilias|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0017|Rural|
+63421|La Higuerita Vieja|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0026|Rural|
+63421|Los Sandovales|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0270|Rural|
+63421|El Alacrán|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0005|Rural|
+63421|Buenavista (Las Paredes)|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0269|Rural|
+63423|Saycota|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0241|Rural|
+63424|San Blasito|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0002|Rural|
+63424|El Zapote|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0266|Rural|
+63425|Arroyo de San Francisco|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0016|Rural|
+63425|Amado Nervo|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0271|Rural|
+63425|La Guásima|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0272|Rural|
+63425|El Llorón|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0004|Rural|
+63426|Mesa de Pedro Pablo|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0240|Rural|
+63426|San Pedro de Honor|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0278|Rural|
+63427|La Paloma Primera|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0001|Rural|
+63427|La Paloma Nueva Reforma|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|1178|Rural|
+63427|San Miguel|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0276|Rural|
+63429|San José de Motaje|Ejido|Acaponeta|Nayarit||63431|18|63431||15|001|0003|Rural|
+63429|El Resbalón|Pueblo|Acaponeta|Nayarit||63431|18|63431||28|001|0275|Rural|
+63429|San Francisco|Ranchería|Acaponeta|Nayarit||63431|18|63431||29|001|0274|Rural|
+63429|Zavala|Poblado comunal|Acaponeta|Nayarit||63431|18|63431||27|001|1360|Rural|
+63430|Acaponeta Centro|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0784|Semiurbano|04
+63433|Obrera|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1022|Semiurbano|04
+63434|Infonavit|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0786|Semiurbano|04
+63434|Jardín|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0243|Rural|04
+63434|El Camichin|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0033|Urbano|04
+63434|Antonio Chumacero|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0785|Semiurbano|04
+63435|INVINAY|Colonia|Acaponeta|Nayarit||63431|18|63431||09|001|0244|Rural|
+63435|El Molino|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1021|Semiurbano|04
+63435|Independencia|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1018|Semiurbano|04
+63435|Nueva Galaxia|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1024|Semiurbano|04
+63435|Porfirio Vázquez Cosío|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1023|Semiurbano|04
+63436|Las Colonias|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0036|Urbano|04
+63436|Mazatlancito|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1026|Semiurbano|04
+63436|La Capilla|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1859|Urbano|04
+63437|Juan Escutia|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1025|Semiurbano|04
+63437|Lázaro Cárdenas|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0239|Rural|04
+63437|Las Mojoneras|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|1008|Semiurbano|04
+63438|Cerro de la Cruz|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0034|Urbano|04
+63438|Cerro de la Glorieta|Colonia|Acaponeta|Nayarit|Acaponeta|63431|18|63431||09|001|0035|Urbano|04

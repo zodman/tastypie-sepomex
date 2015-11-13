@@ -1,0 +1,58 @@
+95330|Carlos A Carrillo Centro|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3287|Semiurbano|20
+95332|Los Pinos|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3307|Urbano|20
+95332|Las Yacas|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3301|Urbano|20
+95333|Hidalgo|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|4428|Urbano|20
+95333|Luis Donaldo Colosio|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|4429|Urbano|20
+95334|Paso Real|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3289|Semiurbano|20
+95335|Carriles|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3291|Semiurbano|20
+95336|Batey|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3293|Semiurbano|20
+95336|La Paz|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3294|Semiurbano|20
+95337|Zaragoza|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3296|Semiurbano|20
+95338|Campo Agrario|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|4508|Semiurbano|20
+95338|Petrolera O Campo Deportivo|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3297|Semiurbano|20
+95339|Guadalupe|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3298|Semiurbano|20
+95340|Monte Alto|Fraccionamiento|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||21|208|3300|Semiurbano|20
+95340|Enrique Ramos Rodríguez|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|0001|Urbano|20
+95340|Jose Lopez Portillo|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3299|Semiurbano|20
+95340|Carlos Salinas de Gortari|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|4426|Semiurbano|20
+95342|La Granja|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3302|Urbano|20
+95342|Papelera|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3303|Urbano|20
+95343|Mario Moreno Cantinflas|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|4427|Urbano|20
+95343|Juan Diaz Montalvo|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|4509|Urbano|20
+95344|San Cristóbal|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3306|Urbano|20
+95344|Pancho Villa|Colonia|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||09|208|3304|Urbano|20
+95345|Vicente Guerrero|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0034|Rural|20
+95345|Venustiano Carranza|Ejido|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||15|208|3332|Rural|20
+95345|Candayoa|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0005|Rural|20
+95346|Cerro de Torres Uno (San Martín de la Barranca)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0008|Rural|20
+95346|La Loma|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0021|Rural|20
+95346|Los Cocos|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0027|Rural|20
+95346|Playa Medina (Mata de Agua)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0030|Rural|20
+95346|Tilapa|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0032|Rural|20
+95346|Cerro de Torres Dos|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0007|Rural|20
+95346|El Mostalillo (El Mostelo)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0012|Rural|20
+95346|Yorca Boca del Paite|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0035|Rural|20
+95346|La Barranca|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0018|Rural|20
+95347|El Azuzul|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0011|Rural|20
+95347|La Guadalupe|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0019|Rural|20
+95347|El Nanche|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0013|Rural|20
+95347|Jobo Chico|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0016|Rural|20
+95347|La Alondra|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0017|Rural|20
+95347|Durán|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0009|Rural|20
+95347|La Pajita|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0022|Rural|20
+95347|La Palmita|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0023|Rural|20
+95347|Buena Vista|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0004|Rural|20
+95347|Ejido la Primavera|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0010|Rural|20
+95347|San Benito|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0031|Rural|20
+95347|Guasimal|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0002|Rural|20
+95347|Uluapeño|Pueblo|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||28|208|0033|Rural|20
+95348|La Herradura|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0020|Rural|20
+95348|La Zanja del Bajo|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0024|Rural|20
+95348|El Rincón (La Herradura)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0015|Rural|20
+95348|Las Carretas|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0025|Rural|20
+95348|Los Corralillos|Ranchería|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||29|208|0028|Rural|20
+95349|Casa Blanca|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0006|Rural|20
+95349|Amatepec de Vázquez (Los Pionches)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0003|Rural|20
+95349|El Palmichal|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0014|Rural|20
+95349|Loma Larga (Las Trojas)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0026|Rural|20
+95349|Paso Ancho Amatepec (Laguna Amatepec)|Congregación|Carlos A. Carrillo|Veracruz de Ignacio de la Llave|Carlos A. Carrillo|95331|30|95331||11|208|0029|Rural|20

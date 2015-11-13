@@ -1,0 +1,32 @@
+97770|Benito Juárez García|Colonia|Chemax|Yucatán||97781|31|97781||09|019|1055|Semiurbano|
+97770|Chemax|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|0456|Rural|
+97773|Uspibil|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1145|Rural|
+97773|Xalau|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1151|Rural|
+97773|Kuxeb|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1165|Rural|
+97773|Xmaab|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1147|Rural|
+97773|Xuneb|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1150|Rural|
+97773|Chechmil|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1146|Rural|
+97773|Sisbichen|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1166|Rural|
+97774|San Andrés|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1157|Rural|
+97774|San Pedro Chemax|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1160|Rural|
+97774|San Juan Chen|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1162|Rural|
+97774|Cholul|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1143|Rural|
+97774|Xcohuo|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1142|Rural|
+97774|Mucel|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1163|Rural|
+97774|Santa Elena|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1161|Rural|
+97774|Santa Cruz|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1140|Rural|
+97774|San Roman|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1158|Rural|
+97774|Xtejas|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1164|Rural|
+97774|X-can|Ranchería|Chemax|Yucatán||97781|31|97781||29|019|0459|Rural|
+97775|Santa Rita|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1144|Rural|
+97775|Buenavista|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1141|Rural|
+97775|El Cedral|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1159|Rural|
+97776|Sisbichen|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|0457|Rural|
+97776|Pabalam|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1148|Rural|
+97776|Champolin|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1149|Rural|
+97777|Chachadzonot|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1152|Rural|
+97777|Chuluntan|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1154|Rural|
+97777|Yaxche|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1156|Rural|
+97777|Catzim|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|0458|Rural|
+97777|Lolbe|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1153|Rural|
+97777|Bolmay|Pueblo|Chemax|Yucatán||97781|31|97781||28|019|1155|Rural|

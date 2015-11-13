@@ -1,0 +1,57 @@
+39960|El Cántaro|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1111|Semiurbano|29
+39960|San Marcos|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1010|Semiurbano|29
+39960|Progreso|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1556|Semiurbano|29
+39960|Revolución|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1574|Semiurbano|29
+39960|Emiliano Zapata|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1741|Semiurbano|29
+39960|El Aterrizaje|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|3652|Semiurbano|29
+39960|El Tanque|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1283|Semiurbano|29
+39960|Nuevo|Barrio|San Marcos|Guerrero|San Marcos|39961|12|39961||02|053|3884|Semiurbano|29
+39960|Jardín|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1345|Semiurbano|29
+39960|Santa Cruz|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|1646|Semiurbano|29
+39960|Emiliano Zapata|Ampliación|San Marcos|Guerrero|San Marcos|39961|12|39961||38|053|3658|Semiurbano|29
+39960|La Colmena|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|3883|Semiurbano|29
+39960|5a Sección|Colonia|San Marcos|Guerrero|San Marcos|39961|12|39961||09|053|3656|Semiurbano|29
+39962|El Guayabo|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1012|Rural|
+39962|Llano Grande Vía Bravos|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1013|Rural|
+39962|Rancho Nuevo|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1014|Rural|
+39963|Yucatán de las Flores|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1015|Rural|
+39963|Piedra Blanca|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1018|Rural|
+39963|Anáhuac|Colonia|San Marcos|Guerrero||39961|12|39961||09|053|1017|Rural|
+39964|Jimenez|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1019|Rural|
+39965|Rancho Viejo|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1020|Rural|
+39965|Santa Elena|Campamento|San Marcos|Guerrero||39961|12|39961||04|053|1021|Rural|
+39965|Santa Elena de La Villa|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1022|Rural|
+39966|El Cuco|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1023|Rural|
+39966|San Miguel|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1011|Rural|
+39967|Moctezuma|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1026|Rural|
+39967|Arroyo del Limón|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1025|Rural|
+39967|Altamira|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1024|Rural|
+39968|Piedra Parada|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1027|Rural|
+39970|Las Mesas|Pueblo|San Marcos|Guerrero||39943|12|39943||28|053|1029|Rural|
+39970|Las Cruces|Pueblo|San Marcos|Guerrero||39943|12|39943||28|053|1028|Rural|
+39971|Chacalapa de Bravos|Ranchería|San Marcos|Guerrero||39943|12|39943||29|053|1030|Rural|
+39972|El Tamarindo|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1031|Rural|
+39976|Agua Zarca de La Peña|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1032|Rural|
+39980|Monte Alto|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1033|Rural|
+39980|Plan de Quintero|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1034|Rural|
+39981|El Cortes|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1035|Rural|
+39981|El Tecomate Nanchal|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1036|Rural|
+39981|Llano de La Puerta|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1038|Rural|
+39981|Las Minas|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1037|Rural|
+39984|San Juan Chiquito|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1039|Rural|
+39985|El Coacoyul|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1040|Rural|
+39986|Barrera|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1041|Rural|
+39987|Las Lomitas de Papagayo|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1042|Rural|
+39987|San José Guatemala|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1043|Rural|
+39989|Chacalapa del Pacifico|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1044|Rural|
+39990|Las Lomitas|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1047|Rural|
+39990|Las Vigas|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1048|Rural|
+39990|Caridad|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1045|Rural|
+39990|Estero Verde|Pueblo|San Marcos|Guerrero||39961|12|39961||28|053|1046|Rural|
+39992|Barranca Prieta|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1049|Rural|
+39992|El Palomar|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1050|Rural|
+39995|El Tecomate Pesquería|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1051|Rural|
+39995|Santo Domingo|Ranchería|San Marcos|Guerrero||39961|12|39961||29|053|1052|Rural|
+39997|Alto Ventura|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1053|Rural|
+39997|Las Lechugas|Congregación|San Marcos|Guerrero||39961|12|39961||11|053|1054|Rural|
+39997|La Barra de Santa Rosa|Barrio|San Marcos|Guerrero||39961|12|39961||02|053|1055|Rural|

@@ -1,0 +1,48 @@
+52600|Cipreses|Fraccionamiento|Tianguistenco|México||52601|15|52601||21|101|5516|Rural|
+52600|Guadalupe Rhon de Hank|Colonia|Tianguistenco|México||52601|15|52601||09|101|5512|Rural|
+52600|San Cayetano|Colonia|Tianguistenco|México||52601|15|52601||09|101|5519|Rural|
+52600|20 de Noviembre|Conjunto habitacional|Tianguistenco|México||52601|15|52601||12|101|7527|Rural|
+52600|Santiago Tianguistenco de Galeana|Pueblo|Tianguistenco|México||52601|15|52601||28|101|1998|Rural|
+52600|Izcalli|Unidad habitacional|Tianguistenco|México||52601|15|52601||31|101|5514|Rural|
+52600|Isidro Fabela|Parque industrial|Tianguistenco|México||52601|15|52601||26|101|5515|Rural|
+52603|Guadalupe Yancuictlalpan (Gualupita)|Pueblo|Tianguistenco|México||52601|15|52601||28|101|0001|Urbano|
+52603|Las Granjas (Barrio de Guadalupe)|Colonia|Tianguistenco|México||52601|15|52601||09|101|7528|Rural|
+52604|San Isidro|Ranchería|Tianguistenco|México||52601|15|52601||29|101|8608|Rural|
+52605|La Mora|Fraccionamiento|Tianguistenco|México||52601|15|52601||21|101|5518|Rural|
+52605|Jardines de Santiago|Fraccionamiento|Tianguistenco|México||52601|15|52601||21|101|5517|Rural|
+52607|La Palma|Colonia|Tianguistenco|México||52601|15|52601||09|101|5513|Rural|
+52613|San José Mezapa Sección Uno|Pueblo|Tianguistenco|México||52601|15|52601||28|101|1996|Rural|
+52613|San José Mezapa Sección Dos|Pueblo|Tianguistenco|México||52601|15|52601||28|101|6889|Rural|
+52614|San Lorenzo Huehuetitlán|Pueblo|Tianguistenco|México||52601|15|52601||28|101|1997|Rural|
+52640|San Miguel|Colonia|Tianguistenco|México||52601|15|52601||09|101|8600|Urbano|
+52640|San Pedro Tlaltizapan|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2001|Rural|
+52644|El Buen Suceso|Ranchería|Tianguistenco|México||52601|15|52601||29|101|8607|Rural|
+52645|San Isidro|Colonia|Tianguistenco|México||52601|15|52601||09|101|8602|Urbano|
+52645|Ex-hacienda de Atenco (Atenco)|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2002|Rural|
+52646|El Tejocote|Ranchería|Tianguistenco|México||52601|15|52601||29|101|8604|Rural|
+52650|Santiago Tilapa|Pueblo|Tianguistenco|México||52681|15|52681||28|101|2005|Rural|
+52653|Coamilpa de Juárez (El Colero)|Pueblo|Tianguistenco|México||52701|15|52701||28|101|5645|Rural|
+52654|San Felipe Mirasol (El Mirasol)|Pueblo|Tianguistenco|México||52681|15|52681||28|101|2003|Rural|
+52656|La Magdalena de los Reyes (La Magdalena)|Pueblo|Tianguistenco|México||52681|15|52681||28|101|2004|Rural|
+52656|Santa Cruz de Bravo (Santa Cruz)|Pueblo|Tianguistenco|México||52681|15|52681||28|101|6895|Rural|
+52656|El Apilulco|Colonia|Tianguistenco|México||52681|15|52681||09|101|8603|Rural|
+52660|San Nicolás Coatepec|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2006|Urbano|
+52663|Tierra Colorada|Pueblo|Tianguistenco|México||52681|15|52681||28|101|5157|Rural|
+52664|Pueblo Nuevo|Colonia|Tianguistenco|México||52601|15|52601||09|101|8606|Rural|
+52664|Chiquixpac Sección Dos (Chiquilpa)|Pueblo|Tianguistenco|México||52601|15|52601||28|101|6893|Rural|
+52664|Techmaninalli|Pueblo|Tianguistenco|México||52601|15|52601||28|101|6894|Rural|
+52664|Chiquixpac Sección Uno|Congregación|Tianguistenco|México||52601|15|52601||11|101|7529|Rural|
+52664|Techmalinali|Colonia|Tianguistenco|México||52601|15|52601||09|101|8609|Rural|
+52664|Tzitzicazapa|Colonia|Tianguistenco|México||52601|15|52601||09|101|8611|Rural|
+52665|La Lagunilla|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2009|Rural|
+52665|Tlacuitlapa|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2011|Rural|
+52665|Mumana-Átl|Ranchería|Tianguistenco|México||52601|15|52601||29|101|8612|Rural|
+52665|Metztitla|Colonia|Tianguistenco|México||52601|15|52601||09|101|8605|Rural|
+52665|Texoconalco (El Llano)|Colonia|Tianguistenco|México||52601|15|52601||09|101|8610|Rural|
+52665|San Bartolo del Progreso (San Bartolo)|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2008|Rural|
+52665|Campesina|Colonia|Tianguistenco|México||52601|15|52601||09|101|6892|Rural|
+52666|Tlacomulco|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2010|Rural|
+52666|Atlantlacpac|Pueblo|Tianguistenco|México||52601|15|52601||28|101|6891|Rural|
+52667|Tlaminca|Pueblo|Tianguistenco|México||52601|15|52601||28|101|6896|Rural|
+52667|Ocotenco|Pueblo|Tianguistenco|México||52601|15|52601||28|101|2007|Rural|
+52667|Ahuatenco|Pueblo|Tianguistenco|México||52601|15|52601||28|101|6890|Rural|

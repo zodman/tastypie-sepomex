@@ -1,0 +1,98 @@
+34480|San Juan del Río del Centauro del Norte Centro|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|0522|Urbano|06
+34482|La Loma|Barrio|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||02|028|1922|Urbano|06
+34482|Cañada Segunda|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|2224|Urbano|06
+34482|San Rafael del Salto|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|2239|Urbano|06
+34482|La Cañadita|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|5182|Urbano|06
+34482|La Cañada (Cañada Primera)|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|2240|Urbano|06
+34482|La Haciendita|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|2227|Urbano|06
+34483|Puerto del Aire|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|1923|Rural|06
+34483|Las Nubes|Fraccionamiento|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||21|028|2225|Urbano|06
+34483|La Pila|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|2226|Urbano|06
+34484|Americana|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|1924|Urbano|06
+34485|Las Peñas|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|5183|Urbano|06
+34485|Chapultepec|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|1929|Urbano|06
+34485|Francisco Villa|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|1927|Urbano|06
+34485|La Quinta|Colonia|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||09|028|2228|Urbano|06
+34485|Centauro del Norte|Fraccionamiento|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||21|028|1925|Urbano|06
+34485|Del Grillo|Barrio|San Juan del Río|Durango|San Juan del Río del Centauro del Norte|34481|10|34481||02|028|1926|Urbano|06
+34486|Colonia Benito Juárez|Colonia|San Juan del Río|Durango||34481|10|34481||09|028|3555|Urbano|
+34486|José María Patoni (Menores de Arriba)|Pueblo|San Juan del Río|Durango||34481|10|34481||28|028|0510|Rural|
+34486|Francisco Primo Verdad (Menores de Abajo)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0514|Rural|
+34486|Ignacio López Rayón (Potrero de los Higos)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0512|Rural|
+34486|San José de la Vieja|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0513|Rural|
+34486|San José del Rincón|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3591|Rural|
+34486|La Virgen|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3575|Rural|
+34486|Los Picachos|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3580|Rural|
+34486|González Ortega (Santa Rosalía)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0515|Rural|
+34486|Trincheras de Arriba|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3595|Rural|
+34487|El Agostadero|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3557|Rural|
+34487|Santa Gertrudis|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0511|Rural|
+34487|Atotonilco|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0516|Rural|
+34487|Jorge Ochoa Rutíaga|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3578|Rural|
+34487|Mesa de Carretas|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3582|Rural|
+34487|El Ciento Diez|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3562|Rural|
+34487|Presa García|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3584|Rural|
+34487|Cinco Hermanos|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4718|Rural|
+34488|El Saucito|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0520|Rural|
+34488|El Papalote|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3565|Rural|
+34488|Rancho Grande|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3587|Rural|
+34488|Toledo|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0519|Rural|
+34488|Ciénega de Pastores|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3554|Rural|
+34488|La Casita|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3573|Rural|
+34488|Puerto del Apartadero|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3585|Rural|
+34488|Estancia Blanca|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0517|Rural|
+34488|Los Charcos (Las Minas)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0521|Rural|
+34488|Rancho los Charcos|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4722|Rural|
+34488|Otilio Montaño (La Boquilla)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0518|Rural|
+34490|El Ojo Caliente (La Alberca)|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3564|Rural|
+34490|Diez de Octubre (San Lucas de Ocampo)|Pueblo|San Juan del Río|Durango||34481|10|34481||28|028|0524|Rural|
+34490|El Soldadito|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3567|Rural|
+34490|San Agustín de Ocampo|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0536|Rural|
+34490|Rancho San Pablo|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4724|Rural|
+34490|Los Soldaditos|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3581|Rural|
+34493|Felipe Gallegos Quiñones|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3577|Rural|
+34493|El Suspiro|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3568|Rural|
+34493|Las Cruces|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3576|Rural|
+34493|El Carmen|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3560|Rural|
+34493|La Barranca|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0532|Rural|
+34493|Los Mimbres|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3579|Rural|
+34494|Santa Cruz|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3594|Rural|
+34494|El Mezquite|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4719|Rural|
+34494|El Resbalón|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0530|Rural|
+34494|Ciénega Grande|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0544|Rural|
+34494|Los Frijoles|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4721|Rural|
+34494|Francisco de Ibarra (El Ranchito)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0531|Rural|
+34494|El Huizache|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0537|Rural|
+34494|Corrales Blancos|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3556|Rural|
+34494|El Berrendo|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3559|Rural|
+34494|La Mesa|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3574|Rural|
+34494|San José del Rosario (Rancho de los Rocha)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3592|Rural|
+34494|Arroyo la Estancia|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3553|Rural|
+34494|El Tanque|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3569|Rural|
+34494|Rancho los Borjas|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3590|Rural|
+34494|Pueblo Nuevo Francisco de Ibarra (El Crucero)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0533|Rural|
+34495|Piedras Negras|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3583|Rural|
+34495|El Chabacano|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0545|Rural|
+34495|Leona Vicario|Pueblo|San Juan del Río|Durango||34481|10|34481||28|028|0538|Rural|
+34495|El Barranco Colorado|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3558|Rural|
+34495|La Boca del Reliz (El Bajío)|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3571|Rural|
+34495|El Cerro de la Ventana (Las Burras)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3561|Rural|
+34495|La Casita (La Laborcita)|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4720|Rural|
+34496|Llano del Pino|Pueblo|San Juan del Río|Durango||34481|10|34481||28|028|0540|Rural|
+34496|Tesvino|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0542|Rural|
+34496|Charco Hondo|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0526|Rural|
+34496|El Aguaje|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0539|Rural|
+34496|Sauz de Arriba|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0541|Rural|
+34496|Rancho el Tepozán|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3586|Rural|
+34496|El Saucito|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3566|Rural|
+34496|Sauz de Abajo|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0528|Rural|
+34496|Rancho las Flores|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3589|Rural|
+34497|El Terrero|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|0534|Rural|
+34497|La Coyotada|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0535|Rural|
+34497|La Alberca|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3570|Rural|
+34497|El Molino Tercero|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3563|Rural|
+34497|Rancho la Querencia|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|3588|Rural|
+34497|Río Grande|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0527|Rural|
+34497|Doroteo Arango (Ciénega de Basoco)|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|0543|Rural|
+34497|Rancho los Ojitos|Ranchería|San Juan del Río|Durango||34481|10|34481||29|028|4723|Rural|
+34497|La Bolsa|Ejido|San Juan del Río|Durango||34481|10|34481||15|028|3572|Rural|

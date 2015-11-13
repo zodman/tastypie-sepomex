@@ -1,0 +1,35 @@
+27640|Cuatrociénegas de Carranza Centro|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1416|Semiurbano|14
+27642|Maldonado|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1965|Semiurbano|14
+27642|1ro de Mayo|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1970|Semiurbano|14
+27642|Pedregal|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1967|Semiurbano|14
+27642|Francisco Villa|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1969|Semiurbano|14
+27642|San José|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1973|Semiurbano|14
+27642|22 de Noviembre|Fraccionamiento|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||21|007|1974|Semiurbano|14
+27642|Siller|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1968|Semiurbano|14
+27642|Álamos|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1972|Semiurbano|14
+27642|Palo Blanco|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1966|Semiurbano|14
+27642|Benito Juárez|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1971|Semiurbano|14
+27642|San Antonio|Fraccionamiento|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||21|007|1979|Semiurbano|14
+27643|26 de Marzo|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1975|Semiurbano|14
+27643|Ramón Guevara|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|2974|Urbano|14
+27643|Elsa Hernández de las Fuentes|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1977|Semiurbano|14
+27643|Las Magdalenas|Fraccionamiento|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||21|007|2975|Urbano|14
+27644|Venustiano Carranza|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|1963|Semiurbano|14
+27644|Coronel Jesús Carranza|Colonia|Cuatro Ciénegas|Coahuila de Zaragoza|Cuatro Ciénegas de Carranza|27641|05|27641||09|007|2973|Urbano|14
+27645|El Oso|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1418|Rural|
+27646|La Victoria|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1419|Rural|
+27647|Dolores|Hacienda|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||24|007|1420|Rural|
+27650|San Juan de Boquillas (San Juan)|Estación|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||16|007|1421|Rural|
+27652|Reforma (La Colonia)|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1422|Rural|
+27655|El Venado|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1423|Rural|
+27656|Nuevo Atalaya (San Marcos)|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1425|Rural|
+27656|Antiguos Mineros del Norte (Santa Tecla)|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1424|Rural|
+27657|La Vega|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1426|Rural|
+27658|San Vicente|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1427|Rural|
+27660|Gabino Vázquez (El Naranjo)|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1428|Rural|
+27670|El Socorro|Estación|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||16|007|1429|Rural|
+27680|Tanque Nuevo (El Cinco)|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1430|Rural|
+27682|Cuates de Australia|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1431|Rural|
+27689|Santa Teresa de Sofía|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1432|Rural|
+27690|Estanque de Palomas (Las Palomas)|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1433|Rural|
+27695|Estanque de Norias|Ejido|Cuatro Ciénegas|Coahuila de Zaragoza||27641|05|27641||15|007|1434|Rural|

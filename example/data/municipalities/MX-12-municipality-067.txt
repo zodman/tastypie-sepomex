@@ -1,0 +1,32 @@
+40600|Guadalupano|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1316|Semiurbano|31
+40600|San Isidro|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1612|Semiurbano|31
+40600|Zaragoza|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|3925|Semiurbano|31
+40600|Esquipula|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1299|Semiurbano|31
+40600|Tlapehuala Centro|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|2355|Semiurbano|31
+40600|Cuetzala|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1191|Semiurbano|31
+40600|Carretera|Barrio|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||02|067|1115|Semiurbano|31
+40600|Nueva|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|3924|Semiurbano|31
+40600|San Jerónimo|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1614|Semiurbano|31
+40600|Cajarito|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|3922|Semiurbano|31
+40600|Almoloyita del Río|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|3921|Semiurbano|31
+40600|El Calvario|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1237|Semiurbano|31
+40600|Petatlan|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1538|Semiurbano|31
+40600|Tupatarillo|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|3923|Semiurbano|31
+40600|Tecapulco|Colonia|Tlapehuala|Guerrero|Tlapehuala|40601|12|40601||09|067|1674|Semiurbano|31
+40602|Tiringueo|Pueblo|Tlapehuala|Guerrero||40666|12|40666||28|067|2357|Rural|
+40603|El Tinoco|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2360|Rural|
+40603|Morelita|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2356|Rural|
+40603|San Antonio de las Huertas|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2359|Rural|
+40604|San Juan Mina|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2361|Rural|
+40604|Almoloyita del Río|Ranchería|Tlapehuala|Guerrero||40601|12|40601||29|067|2354|Rural|
+40605|El Tanque|Ranchería|Tlapehuala|Guerrero||40601|12|40601||29|067|2362|Rural|
+40605|Juárez|Colonia|Tlapehuala|Guerrero||40601|12|40601||09|067|2363|Rural|
+40605|Las Fraguas|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2364|Rural|
+40606|El Guayabo|Ranchería|Tlapehuala|Guerrero||40666|12|40666||29|067|2365|Rural|
+40607|San José Poliutla|Pueblo|Tlapehuala|Guerrero||40501|12|40501||28|067|2366|Rural|
+40609|Nuevo Guerrero|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2368|Rural|
+40610|Rincón del Gallo|Ranchería|Tlapehuala|Guerrero||40601|12|40601||29|067|2369|Rural|
+40611|Agua Colorada|Pueblo|Tlapehuala|Guerrero||40601|12|40601||28|067|2370|Rural|
+40616|El Coacoyul|Ranchería|Tlapehuala|Guerrero||40601|12|40601||29|067|2371|Rural|
+40620|Santo Niño|Pueblo|Tlapehuala|Guerrero||40666|12|40666||28|067|2372|Rural|
+40621|Hacienda Nueva|Campamento|Tlapehuala|Guerrero||40666|12|40666||04|067|2373|Rural|

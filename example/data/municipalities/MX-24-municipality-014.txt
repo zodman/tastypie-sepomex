@@ -1,0 +1,22 @@
+79860|Zocote|Barrio|Coxcatlán|San Luis Potosí||79862|24|79862||02|014|2658|Rural|
+79860|Coxcatlan|Villa|Coxcatlán|San Luis Potosí||79862|24|79862||32|014|1632|Rural|
+79861|San Pablo Primero|Ranchería|Coxcatlán|San Luis Potosí||79862|24|79862||29|014|1633|Rural|
+79863|El Sabino|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2359|Rural|
+79864|Ajuatitla Primera Sección|Ejido|Coxcatlán|San Luis Potosí||79862|24|79862||15|014|1635|Rural|
+79864|Moyotla|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2358|Rural|
+79864|La Palma|Barrio|Coxcatlán|San Luis Potosí||79862|24|79862||02|014|2500|Rural|
+79865|Tazaquil|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2361|Rural|
+79865|Tazaquil Ejido|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2365|Rural|
+79865|Suchiaco|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2357|Rural|
+79866|Ajacaco|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2554|Rural|
+79866|Tampuchón|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2360|Rural|
+79867|Mahuajco|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2356|Rural|
+79867|Ixpatlach|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2754|Rural|
+79867|Tlaxco|Congregación|Coxcatlán|San Luis Potosí||79862|24|79862||11|014|1636|Rural|
+79870|Amaxac|Ranchería|Coxcatlán|San Luis Potosí||79862|24|79862||29|014|1637|Rural|
+79871|San Andrés|Congregación|Coxcatlán|San Luis Potosí||79862|24|79862||11|014|1638|Rural|
+79874|Tlapani|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2364|Rural|
+79876|Las Mesas|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2366|Rural|
+79878|Tepotzuapa I Sección|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2362|Rural|
+79878|Tepotzuapa II Sección|Poblado comunal|Coxcatlán|San Luis Potosí||79862|24|79862||27|014|2363|Rural|
+79879|Calmecayo|Ejido|Coxcatlán|San Luis Potosí||79862|24|79862||15|014|1639|Rural|

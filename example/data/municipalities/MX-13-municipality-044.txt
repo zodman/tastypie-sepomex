@@ -1,0 +1,103 @@
+42470|Nopala Centro|Colonia|Nopala de Villagrán|Hidalgo||42401|13|42401||09|044|0643|Urbano|
+42473|El Manantial|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5019|Rural|
+42473|El Tejocote|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5025|Rural|
+42473|La Huerta|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5032|Rural|
+42473|Buenavista|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0644|Rural|
+42473|Deca Buena Vista|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5007|Rural|
+42473|Taxtejhe|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0645|Rural|
+42473|Devego|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5009|Rural|
+42473|La Presa Dañu|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5041|Rural|
+42473|Puerto Dañu|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5062|Rural|
+42474|El Cedazo|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5015|Rural|
+42474|La Presa|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0647|Rural|
+42474|Las Campanas|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5045|Rural|
+42474|Humini|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0646|Rural|
+42475|Dingüichi|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5010|Rural|
+42475|La Martinica|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5037|Rural|
+42475|La Posta|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5040|Rural|
+42475|La Herradura (Colonia Campesina)|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5064|Rural|
+42475|Tequexhido|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5076|Rural|
+42475|El Destello|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5017|Rural|
+42475|Los Corrales|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5050|Rural|
+42475|El Pedregoso|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5023|Rural|
+42475|San Isidro|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5068|Rural|
+42480|El Borbollón|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0651|Rural|
+42480|Pedregales Borbollón|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5059|Rural|
+42480|El Charcón|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5063|Rural|
+42480|Cuaxithi|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0649|Rural|
+42480|Pachuquilla|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5056|Rural|
+42480|Pedregales Dañu|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5060|Rural|
+42480|Dañu|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0648|Rural|
+42480|El Capulín Dañu|Poblado comunal|Nopala de Villagrán|Hidalgo||42401|13|42401||27|044|5013|Rural|
+42480|El Desierto|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5016|Rural|
+42480|Ojuelos|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5055|Rural|
+42481|La Cuchilla|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0653|Rural|
+42481|La Salita|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5044|Rural|
+42481|El Deca|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0650|Rural|
+42481|Denthó|Poblado comunal|Nopala de Villagrán|Hidalgo||42401|13|42401||27|044|5008|Rural|
+42485|El Paye|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5022|Rural|
+42485|Canutillo|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5006|Rural|
+42485|Los Nidos|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5051|Rural|
+42485|El Águila|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5011|Rural|
+42485|San Ignacio|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5067|Rural|
+42485|La Reserva|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5043|Rural|
+42485|Puerta Blanca|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5061|Rural|
+42485|San Lorenzo Amarillo|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5070|Rural|
+42485|La Cañada|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5028|Rural|
+42485|Ojo de Agua|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5054|Rural|
+42486|El Jazmín (El Potrero)|Pueblo|Nopala de Villagrán|Hidalgo||42401|13|42401||28|044|0652|Rural|
+42486|Loma Colorada|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0664|Rural|
+42486|Batha y Barrios|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0655|Rural|
+42486|El Zendhó|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5026|Rural|
+42486|San Sebastián Tenochtitlán|Pueblo|Nopala de Villagrán|Hidalgo||42401|13|42401||28|044|0654|Rural|
+42488|La Esperanza|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0657|Rural|
+42488|El Fresno (Casas Viejas)|Poblado comunal|Nopala de Villagrán|Hidalgo||42401|13|42401||27|044|5004|Rural|
+42488|El Mirador|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5020|Rural|
+42488|Las Cruces|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0658|Rural|
+42488|San Juanita (Casas Viejas)|Poblado comunal|Nopala de Villagrán|Hidalgo||42401|13|42401||27|044|5069|Rural|
+42488|Santa Catalina|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5071|Rural|
+42488|San Lorenzo el Chico|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0659|Rural|
+42488|La Estación|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5030|Rural|
+42488|La Luz|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5036|Rural|
+42488|San Francisco|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5066|Rural|
+42488|El Fresno (Casas Viejas)|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0656|Rural|
+42488|Rancho Nuevo|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5065|Rural|
+42490|Maravillas|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0660|Rural|
+42490|Escandón|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5027|Rural|
+42490|Santa Rosa|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5074|Rural|
+42490|La Leña|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5034|Rural|
+42490|Los Tepetates|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5053|Rural|
+42490|Buenavista|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5003|Rural|
+42490|La Pila del León|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5039|Rural|
+42490|Santa Fé|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5072|Rural|
+42490|Santa Rosa el Marquez|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5075|Rural|
+42491|San Sebastián de Juárez|Pueblo|Nopala de Villagrán|Hidalgo||42401|13|42401||28|044|0661|Rural|
+42491|El Mogote|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5021|Rural|
+42492|Tierra Blanca|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5077|Rural|
+42492|La Cañada|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5029|Rural|
+42492|El Campamento|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5012|Rural|
+42492|La Palma|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0662|Rural|
+42492|Las Vegas|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5047|Rural|
+42493|El Capulín de Aragón|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5014|Rural|
+42493|Peñafiel|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5058|Rural|
+42493|Los Pozos (La Presa Vieja)|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5052|Rural|
+42493|Los Caballos|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5049|Rural|
+42494|Las Manzanas|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5046|Rural|
+42494|La Lechuga|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5035|Rural|
+42494|La Matanza|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5038|Rural|
+42494|Loma del Toro|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5048|Rural|
+42494|La Fuente (Jagüey Blanco)|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5031|Rural|
+42494|La Laja|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5033|Rural|
+42494|Venta Hermosa|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5078|Rural|
+42494|La Primavera|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5042|Rural|
+42494|Aragón|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5005|Rural|
+42494|El Llano|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5018|Rural|
+42495|La Siempreviva|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0665|Rural|
+42495|El Mangui|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0642|Rural|
+42495|Los Cerritos|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|2881|Rural|
+42495|El Sauz|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5024|Rural|
+42495|Santa Lucia|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5073|Rural|
+42495|El Jagüey|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0641|Rural|
+42495|Loma del Progreso|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|0663|Rural|
+42495|El Fresnillo|Colonia|Nopala de Villagrán|Hidalgo||42401|13|42401||09|044|2154|Rural|
+42495|Palo Verde|Ranchería|Nopala de Villagrán|Hidalgo||42401|13|42401||29|044|5057|Rural|

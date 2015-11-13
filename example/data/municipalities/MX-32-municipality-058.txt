@@ -1,0 +1,30 @@
+99820|Santa Maria de la Paz|Pueblo|Santa María de la Paz|Zacatecas||99801|32|99801||28|058|0709|Rural|
+99820|El Santuario|Colonia|Santa María de la Paz|Zacatecas||99801|32|99801||09|058|0001|Rural|
+99823|La Haciendita|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1490|Rural|
+99823|Los Rodriguez|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1517|Rural|
+99823|El Laurel|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1489|Rural|
+99824|El Zapotito|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1492|Rural|
+99824|El Pantano|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1491|Rural|
+99824|Hidalgo (el Picacho)|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1493|Rural|
+99824|La Mesa Grande|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1494|Rural|
+99825|El Soto|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1496|Rural|
+99825|La Laguna|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1497|Rural|
+99825|San Vicente|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1498|Rural|
+99825|Santa Fe|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1499|Rural|
+99825|San Rafael|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1500|Rural|
+99825|Marines|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1495|Rural|
+99826|San Miguel Tepetitlan|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1503|Rural|
+99826|San Isidro|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1504|Rural|
+99826|El Saucito|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1501|Rural|
+99826|El Gato|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1518|Rural|
+99826|El Arenal|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1502|Rural|
+99826|Mesa El Pueblo|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1519|Rural|
+99827|Los Cedros|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1506|Rural|
+99827|Los Horcones|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1507|Rural|
+99827|Hacienda Vieja|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1508|Rural|
+99827|Las Tablas|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1509|Rural|
+99827|El Capulín|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1505|Rural|
+99828|Los Polvos|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1512|Rural|
+99828|Mesa de Trigos|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1513|Rural|
+99828|El Guitarrero|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1511|Rural|
+99828|Pajaritos|Ranchería|Santa María de la Paz|Zacatecas||99801|32|99801||29|058|1510|Rural|

@@ -1,0 +1,249 @@
+45500|Tlaquepaque Centro|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1158|Urbano|09
+45500|Niños Heroes|Condominio|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||10|098|5006|Urbano|09
+45500|Tlaquepaque Pueblito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5019|Urbano|09
+45509|INFONAVIT Revolución|Unidad habitacional|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||31|098|1161|Urbano|09
+45510|Los Meseros|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1162|Urbano|09
+45519|Jardines de La Paz|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1163|Urbano|09
+45520|Los Altos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1166|Urbano|09
+45520|Patria FOVISSSTE|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1167|Urbano|09
+45520|Lindavista|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1165|Urbano|09
+45525|Real Patria|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5010|Urbano|09
+45525|Parque Tlaquepaque|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|3236|Urbano|09
+45525|Residencial La Soledad|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1168|Urbano|09
+45527|La Asunción|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1170|Urbano|09
+45527|Camichines Alborada 2 Sección|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4977|Urbano|09
+45527|Camichines Alborada 3 Sección|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4978|Urbano|09
+45527|Camichines Alborada 1ra. sección|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|3239|Urbano|09
+45527|Residencial Camichines Condomio del Sol|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5012|Urbano|09
+45528|Los Altos 3a Secc|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1171|Urbano|09
+45530|Guayabitos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1175|Urbano|09
+45530|Francisco I. Madero|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1174|Urbano|09
+45530|Arroyo de Las Flores|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4108|Urbano|09
+45530|Lomas del Tepeyac|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1176|Urbano|09
+45530|Nuevo Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1177|Urbano|09
+45535|Industrial El Camino|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|1178|Urbano|09
+45535|Lomas de Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4969|Urbano|09
+45540|Hidalgo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1179|Urbano|09
+45540|Residencial La Asunción 1a. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1181|Urbano|09
+45540|Camichines Residencial 2da. Sección|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5011|Urbano|09
+45540|Camichines Residencial 1ra. Sección|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|1180|Urbano|09
+45550|Quintero|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1183|Urbano|09
+45559|Lomas de Tlaquepaque|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1184|Urbano|09
+45559|Prados Tlaquepaque|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4159|Urbano|09
+45560|El Álamo|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|1186|Urbano|09
+45560|Alfareros|Condominio|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||10|098|4983|Urbano|09
+45560|Álamo Oriente|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1187|Urbano|09
+45560|Álamo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1185|Urbano|09
+45560|Lomas Del Álamo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1190|Urbano|09
+45560|La Capacha|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1188|Urbano|09
+45560|Rancho Blanco|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1191|Urbano|09
+45560|Jardines del Álamo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4998|Urbano|09
+45567|Álamo Super Manzana|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1192|Urbano|09
+45570|Colonial Tlaquepaque|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1193|Urbano|09
+45579|Hacienda de Tlaquepaque|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1194|Urbano|09
+45580|Hacienda de Vidrios|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1196|Urbano|09
+45580|Villas de Loma Grande|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4115|Urbano|09
+45580|Nueva Central Camionera|Zona comercial|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||33|098|1027|Urbano|09
+45580|La Duraznera|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1197|Urbano|09
+45580|Solidaridad|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4239|Urbano|09
+45580|Residencial Revolución|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|1200|Urbano|09
+45580|El Puente|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|3237|Urbano|09
+45580|Canal 58|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1195|Urbano|09
+45580|Los Portales|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4097|Urbano|09
+45580|San Pedro Pescador|Conjunto habitacional|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||12|098|4317|Urbano|09
+45580|Salvador Portillo López|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1201|Urbano|09
+45580|Azabache|Condominio|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||10|098|4971|Urbano|09
+45580|El Palomo|Condominio|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||10|098|4972|Urbano|09
+45580|Revolución|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5016|Urbano|09
+45580|Villas Los Cantaros|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4110|Urbano|09
+45588|Residencial El Tapatío|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|1205|Urbano|09
+45588|Haciendas San Pedro|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4995|Urbano|09
+45588|Jardines Del Tapatío|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1204|Urbano|09
+45588|Paisajes del Tapatío|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5007|Urbano|09
+45588|El Órgano|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1202|Urbano|09
+45588|El Tapatío|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1203|Urbano|09
+45588|Las Flores|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4797|Urbano|09
+45588|El Tapatío 2da. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4990|Urbano|09
+45589|Revolución Jardín|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4154|Urbano|09
+45589|Las Huertas|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5002|Urbano|09
+45589|Las Huertas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1206|Urbano|09
+45589|Lomas de San Miguel|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1208|Urbano|09
+45590|Indígena|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|3783|Urbano|09
+45590|Las Juntitas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1213|Urbano|09
+45590|Juan Diego|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4503|Urbano|09
+45590|Meridiano|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4554|Urbano|09
+45590|Felipe Ángeles|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1211|Urbano|09
+45590|Las Juntas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1212|Urbano|09
+45590|Nueva Lázaro Cárdenas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1217|Urbano|09
+45590|Hogares del Álamo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4996|Urbano|09
+45590|La Ladrillera|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1198|Urbano|09
+45590|Las Vegas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1214|Urbano|09
+45590|Lázaro Cárdenas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4843|Urbano|09
+45590|Barrio de Cemento|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4973|Urbano|09
+45590|Brisas de Chapala|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1210|Urbano|09
+45593|Álamo Industrial|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4157|Urbano|09
+45594|Terralta|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44943|14|44943||21|098|4621|Urbano|09
+45594|FOVISSSTE Miravalle|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44943|14|44943||21|098|4992|Urbano|09
+45594|INFONAVIT Miravalle|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44943|14|44943||21|098|4622|Urbano|09
+45595|El Vergel 1ra. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1219|Urbano|09
+45595|El Vergelito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4968|Urbano|09
+45595|El Vergel 2da. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4967|Urbano|09
+45595|Micaelita|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1221|Urbano|09
+45596|La Guadalupana|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1222|Urbano|09
+45597|El Campesino|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1223|Urbano|09
+45598|Compositores|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1225|Urbano|09
+45598|La Romita|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1226|Urbano|09
+45598|Artesanos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1224|Urbano|09
+45598|Artesanos Oriente|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4970|Urbano|09
+45598|Salvador Vidrio|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1227|Urbano|09
+45599|El Refugio|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1230|Urbano|09
+45599|Guadalupe Ejidal 2da Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4795|Urbano|09
+45599|Guadalupe Ejidal 3ra. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4994|Urbano|09
+45599|Lomas Del 4|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1232|Urbano|09
+45599|Guadalupe Ejidal 1ra. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4993|Urbano|09
+45599|Las Terrazas Residencial|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|0001|Urbano|09
+45599|Lomas de Curiel|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4385|Urbano|09
+45599|Cerro del Cuatro 2da. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4966|Urbano|09
+45599|Cerro del Cuatro 1ra. Sección|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1228|Urbano|09
+45599|Huerta de Peña|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|3785|Urbano|09
+45600|Ponciano Arriaga|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||09|098|1236|Urbano|09
+45600|La Caridad|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||09|098|1235|Urbano|09
+45600|INFONAVIT Santa Anita|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|5018|Urbano|09
+45600|Ojo de Agua|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|4405|Urbano|09
+45600|Residencial Quinta Nova|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|0003|Urbano|09
+45600|Santa Anita|Pueblo|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||28|098|1237|Urbano|09
+45600|La Candelaria|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|5000|Urbano|09
+45600|San Francisco|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|5017|Urbano|09
+45600|España|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||09|098|1173|Urbano|09
+45600|Santa Anita Residencial|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|5014|Urbano|09
+45600|El Mirador Juan Arias|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||09|098|1234|Urbano|09
+45601|El Real|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|1238|Urbano|09
+45601|Geovillas Los Olivos|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4313|Urbano|09
+45601|Barrio de San Miguel|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4974|Urbano|09
+45601|Prados de Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1239|Urbano|09
+45601|Jardines de Miraflores|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4312|Urbano|09
+45601|Indígena San Sebastianito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4997|Urbano|09
+45601|Valle del Sur|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|5309|Urbano|09
+45601|Loma Verde|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|3241|Urbano|09
+45601|Hacienda del Real|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4098|Urbano|09
+45601|Los Olivos de Tlaquepaque|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4894|Urbano|09
+45601|La Gigantera|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|5001|Urbano|09
+45601|Santa María Tequepexpan|Pueblo|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||28|098|1240|Urbano|09
+45601|Valle de San Sebastianito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4454|Urbano|09
+45601|Valle de las Heras|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4498|Urbano|09
+45601|Riveras de San Sebastianito|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4109|Urbano|09
+45601|Villa de Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4455|Urbano|09
+45601|Tulipanes|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|5020|Urbano|09
+45601|San Sebastianito|Pueblo|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||28|098|1242|Urbano|09
+45602|Antares|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|4373|Urbano|09
+45602|Loreto|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|4595|Urbano|09
+45602|La Calerilla|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||09|098|1241|Urbano|09
+45602|Geovillas del Real|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|4835|Urbano|09
+45602|El Sereno|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45603|14|45603||21|098|5228|Urbano|09
+45604|ITESO|Equipamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||17|098|4406|Urbano|09
+45605|Mezquitera|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1246|Urbano|09
+45605|Antigua Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1245|Urbano|09
+45605|Revolucionaria Unidad|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1252|Urbano|09
+45606|Balcones de Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|3222|Urbano|09
+45606|Jardines de Santa María|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|3738|Urbano|09
+45606|Villas Colón|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4107|Urbano|09
+45606|Buenos Aires|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1247|Urbano|09
+45606|Loma Linda|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1249|Urbano|09
+45606|Lomas de San MIguel|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|5005|Urbano|09
+45607|Lomas de La Victoria|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|3221|Urbano|09
+45607|Bosque I|Parque industrial|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||26|098|4473|Urbano|09
+45607|Loma Bonita Poniente|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1255|Urbano|09
+45607|El Mante|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4989|Urbano|09
+45608|Tecnológico|Parque industrial|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||26|098|0002|Urbano|09
+45608|Paisajes del Tesoro|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|0004|Urbano|09
+45608|Cerro Del Tesoro|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1253|Urbano|09
+45608|Mirador del Tesoro|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4792|Urbano|09
+45608|El Sáuz|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1254|Urbano|09
+45608|Parques de Colon|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1256|Urbano|09
+45608|Loma Bonita Ejidal|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|4791|Urbano|09
+45609|Parques del Bosque|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4305|Urbano|09
+45609|Haciendas de San José|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|4155|Urbano|09
+45609|Arroyo Seco|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||09|098|1257|Urbano|09
+45609|Parques de Santa María|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|44981|14|44981||21|098|3223|Urbano|09
+45610|Tres Pinos|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4384|Urbano|09
+45610|Real Tulipanes|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|5331|Urbano|09
+45610|Toluquilla|Pueblo|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||28|098|1264|Urbano|09
+45613|Paseos del Prado|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4318|Urbano|09
+45615|Coto Del Carmen|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4480|Urbano|09
+45615|López Cotilla|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1265|Urbano|09
+45615|Valle de La Misericordia|Pueblo|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||28|098|1266|Urbano|09
+45615|Misión Magnolia|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4479|Urbano|09
+45615|El Bosque II|Parque industrial|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||26|098|4975|Urbano|09
+45615|Parques de Santa Cruz del Valle|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4105|Urbano|09
+45615|Villa Fontana|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4320|Urbano|09
+45618|Ex-haciendas del Cuatro|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4976|Urbano|09
+45618|Senderos de Tlaquepaque|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|5337|Urbano|09
+45618|Vista Hermosa|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4158|Urbano|09
+45618|Haciendas de Vista Hermosa|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|5114|Urbano|09
+45618|Valle Verde|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||21|098|4096|Urbano|09
+45618|Juan de La Barrera|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1267|Urbano|09
+45618|Ojo de Agua|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1268|Urbano|09
+45618|San Clemente|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|4796|Urbano|09
+45619|Paseos Lago|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1199|Urbano|09
+45619|Granjas de Monte Negro|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|5112|Urbano|09
+45619|Las Pintas de Abajo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45591|14|45591||09|098|1269|Urbano|09
+45620|Plan de Oriente|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1270|Urbano|09
+45620|Plan del Sur|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4798|Urbano|09
+45623|Atlas|Club de golf|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||39|098|1273|Urbano|09
+45623|El Manantial|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4988|Urbano|09
+45623|Iberoamericano|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5115|Urbano|09
+45623|Las Liebres|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1274|Urbano|09
+45623|Las Liebres|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5003|Urbano|09
+45623|Portillo Blanco|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5008|Urbano|09
+45625|Lomas de San Pedrito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1276|Urbano|09
+45625|Rinconadas de Los Encinos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4112|Urbano|09
+45625|Villas de San Miguel|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5021|Urbano|09
+45625|San Pedrito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1277|Urbano|09
+45626|Cedro Jalisco|Parque industrial|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||26|098|4484|Urbano|09
+45627|El Zalate|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4991|Urbano|09
+45627|Verde Valle|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5122|Urbano|09
+45627|Los Amiales|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5120|Urbano|09
+45628|Lomas Del Tapatío|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1279|Urbano|09
+45628|Alfredo Barba|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1278|Urbano|09
+45628|Jardines de San Martín|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|3782|Urbano|09
+45629|Álvaro Obregón|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1281|Urbano|09
+45629|San Martín de las Flores de Abajo|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1284|Urbano|09
+45629|San Martín de las Flores de Arriba|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1285|Urbano|09
+45629|El Morito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|3240|Urbano|09
+45629|El Cerrito|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1283|Urbano|09
+45629|Jardines del Órgano|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4999|Urbano|09
+45629|López Mateos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1280|Urbano|09
+45629|Mirador de San Martín|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4114|Urbano|09
+45629|Villas del Tapatío|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4099|Urbano|09
+45629|Quintas de Tlaquepaque|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|5009|Urbano|09
+45630|Tateposco|Pueblo|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||28|098|1286|Urbano|09
+45630|Tinajitas|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4799|Urbano|09
+45630|Cantera Colorada|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4979|Urbano|09
+45630|Cerro del Jagüey|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4987|Urbano|09
+45630|El Refugio|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5110|Urbano|09
+45630|La Pilita|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5117|Urbano|09
+45630|Laderita|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5119|Urbano|09
+45630|Ojo de Agua|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5121|Urbano|09
+45630|Alameda|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|3235|Urbano|09
+45638|El Canelo|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4984|Urbano|09
+45638|La Arena|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4985|Urbano|09
+45638|El Sauz|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5111|Urbano|09
+45638|La Artesana|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5116|Urbano|09
+45638|Sentimientos de La Nación|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4104|Urbano|09
+45638|Francisco Silva Romero|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1289|Urbano|09
+45638|La Cofradia|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4100|Urbano|09
+45638|La Puerta|Ranchería|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||29|098|4254|Urbano|09
+45638|San Juan|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4538|Urbano|09
+45638|Guadalupana|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5113|Urbano|09
+45638|Emiliano Zapata|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1288|Urbano|09
+45638|Valle del Paraíso|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4111|Urbano|09
+45638|Los Naranjos|Fraccionamiento|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||21|098|4986|Urbano|09
+45638|El Nogal|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5109|Urbano|09
+45638|Los Hornos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1290|Urbano|09
+45638|Horizontes de Tlaquepaque|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4101|Urbano|09
+45638|Barrios Unidos de Intercolonias|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4102|Urbano|09
+45638|Cantares del Paraíso|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4113|Urbano|09
+45638|Residentes de San Martín|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5015|Urbano|09
+45638|Los Puestos|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|1291|Urbano|09
+45638|Santibáñez|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|4103|Urbano|09
+45638|La Severiana|Colonia|San Pedro Tlaquepaque|Jalisco|Tlaquepaque|45501|14|45501||09|098|5118|Urbano|09

@@ -1,0 +1,40 @@
+54680|Huehuetoca|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3037|Rural|
+54683|Ex-Hacienda de Jalpa|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|9584|Urbano|
+54683|San Bartolo|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3040|Rural|
+54683|San Pedro Xalpa|Hacienda|Huehuetoca|México||54681|15|54681||24|035|3047|Rural|
+54684|Xalpa Sa|Hacienda|Huehuetoca|México||54681|15|54681||24|035|3048|Rural|
+54684|Puente Grande|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3038|Rural|
+54684|Real de Huehuetoca|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|7678|Rural|
+54684|Jardines de Huehuetoca|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|5131|Rural|
+54685|La Cañada|Barrio|Huehuetoca|México||54681|15|54681||02|035|3049|Rural|
+54685|Salitrillo|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3039|Rural|
+54685|Casa Nueva|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|5130|Rural|
+54685|Arboledas de Huehuetoca|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|7680|Rural|
+54685|Galaxia Huehuetoca|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|9586|Rural|
+54685|Huehuetoca del Maurel|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|9582|Rural|
+54685|Portal del Sol|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|7679|Rural|
+54687|Hacienda las Misiones|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7840|Semiurbano|
+54687|Santa María|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3042|Rural|
+54687|Barranca Prieta|Barrio|Huehuetoca|México||54681|15|54681||02|035|5129|Rural|
+54687|Ciudad Integral Huehuetoca|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|9581|Rural|
+54690|Ejido de Jalpa|Ejido|Huehuetoca|México||54681|15|54681||15|035|9583|Rural|
+54693|Privadas del Valle|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|9585|Rural|
+54693|URBI Villa del rey|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7687|Rural|
+54693|San Miguel Jagüeyes|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3041|Rural|
+54693|Rancheria|Barrio|Huehuetoca|México||54681|15|54681||02|035|7691|Rural|
+54694|Santa Teresa 6|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7686|Rural|
+54694|Santa Teresa 1|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7681|Rural|
+54694|Santa Teresa 2|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7682|Rural|
+54694|La Guadalupana Bicentenario Huehuetoca|Colonia|Huehuetoca|México||54681|15|54681||09|035|8490|Urbano|
+54694|Santa Teresa IX|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|9166|Rural|
+54695|Santa Teresa 3 y 3 Bis|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7683|Rural|
+54695|Santa Teresa 5 y 5 Bis|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7685|Rural|
+54695|Santa Teresa 4 y 4 Bis|Conjunto habitacional|Huehuetoca|México||54681|15|54681||12|035|7684|Rural|
+54696|Santiago Tlaltepaxco|Pueblo|Huehuetoca|México||54681|15|54681||28|035|3043|Rural|
+54696|El Dorado|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|7688|Urbano|
+54696|Ex Hacienda de Guiñada|Fraccionamiento|Huehuetoca|México||54681|15|54681||21|035|9646|Urbano|
+54697|Lumbrera 14 A|Barrio|Huehuetoca|México||54681|15|54681||02|035|9588|Rural|
+54697|Campo Militar San Miguel Jagueyes|Zona federal|Huehuetoca|México||54681|15|54681||34|035|7692|Rural|
+54697|Loma Bonita|Barrio|Huehuetoca|México||54681|15|54681||02|035|7689|Rural|
+54697|Jorobas|Barrio|Huehuetoca|México||54681|15|54681||02|035|7690|Rural|
+54697|Lumbrera 13|Barrio|Huehuetoca|México||54681|15|54681||02|035|9587|Rural|

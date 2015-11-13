@@ -1,0 +1,32 @@
+91270|Los Pescados|Congregación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||11|128|0209|Rural|
+91270|Perote|Pueblo|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||28|128|0210|Rural|
+91271|Cereso San Carlos|Gran usuario|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||22|128|0211|Rural|
+91273|Niños Héroes|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|7863|Urbano|
+91273|Donaldo Colosio|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0721|Rural|
+91273|Echeverría|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0726|Rural|
+91273|Héroe de Nacozari|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0829|Rural|
+91273|Landa|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0885|Rural|
+91274|Veracruz|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|1171|Rural|
+91274|Teresa Morales|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|1124|Rural|
+91274|Vidal Diaz Muñoz|Congregación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||11|128|1176|Rural|
+91274|Viveros|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|1188|Rural|
+91274|El Calvario|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0731|Rural|
+91274|20 de Noviembre|Congregación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||11|128|1159|Rural|
+91274|Amado Nervo|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0617|Rural|
+91274|El Conejo|Congregación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||11|128|0736|Rural|
+91274|Francisco Villa|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0810|Rural|
+91275|Rancho Nuevo|Congregación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||11|128|1040|Rural|
+91275|El Pedregal|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|5336|Rural|
+91275|Del Bosque|Ampliación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||38|128|7184|Urbano|
+91275|Los Molinos (San José)|Pueblo|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||28|128|0213|Rural|
+91275|El Escobilla|Congregación|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||11|128|0746|Rural|
+91275|Justo Sierra|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0854|Rural|
+91275|Sabinal|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|1056|Rural|
+91276|Vicente Guerrero|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|1172|Rural|
+91277|Azteca|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0634|Rural|
+91277|Del Valle|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0812|Rural|
+91280|Sierra de Agua|Pueblo|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||28|128|0214|Rural|
+91282|San Antonio Limón (Totalco)|Pueblo|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||28|128|0215|Rural|
+91283|Guadalupe Victoria|Colonia|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||09|128|0216|Rural|
+91285|Tenextepec|Pueblo|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||28|128|0217|Rural|
+91290|La Gloria|Pueblo|Perote|Veracruz de Ignacio de la Llave||91272|30|91272||28|128|0218|Rural|

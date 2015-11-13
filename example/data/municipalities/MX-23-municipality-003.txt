@@ -1,0 +1,34 @@
+77400|Caridad del Cobre|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0569|Semiurbano|07
+77400|El Cañotal|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0165|Rural|07
+77400|Salina Grande|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0568|Semiurbano|07
+77400|Ampliación la Gloria|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0757|Semiurbano|07
+77400|Isla Blanca|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0552|Semiurbano|07
+77400|Isla Mujeres|Puerto|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||40|003|1217|Urbano|07
+77400|Isla Mujeres Centro|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0166|Urbano|07
+77400|Metereológico|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0553|Semiurbano|07
+77400|Salina Chica|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0635|Semiurbano|07
+77400|Punta Gaviota|Fraccionamiento|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||21|003|0758|Semiurbano|07
+77400|La Gloria|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0550|Semiurbano|07
+77400|Lolbe|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0566|Semiurbano|07
+77400|Santa Rosa|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0567|Semiurbano|07
+77400|Miraflores|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0551|Semiurbano|07
+77400|23 de Noviembre|Unidad habitacional|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||31|003|0861|Urbano|07
+77402|Vista Alegre|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0560|Semiurbano|07
+77402|Mar Caribe|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0555|Semiurbano|07
+77402|Mar Caribe|Fraccionamiento|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||21|003|0554|Semiurbano|07
+77403|Faro|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0556|Semiurbano|07
+77403|Del Sureste|Fraccionamiento|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||21|003|0557|Semiurbano|07
+77404|Lagunamar|Fraccionamiento|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||21|003|0559|Semiurbano|07
+77406|Islote de Carbonera|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0558|Semiurbano|07
+77407|Puerto de Abrigo|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0561|Semiurbano|07
+77407|Caribeña|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0756|Semiurbano|07
+77407|Electricistas|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0562|Semiurbano|07
+77408|Islote El Yunque|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0563|Semiurbano|07
+77409|Bahía|Fraccionamiento|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||21|003|0565|Semiurbano|07
+77409|Prolongación Aeropuerto|Colonia|Isla Mujeres|Quintana Roo|Isla Mujeres|77401|23|77401||09|003|0564|Semiurbano|07
+77410|Monte Olivo|Colonia|Isla Mujeres|Quintana Roo||77511|23|77511||09|003|0002|Urbano|
+77410|Las Américas|Colonia|Isla Mujeres|Quintana Roo||77511|23|77511||09|003|0003|Urbano|
+77410|La Guadalupana|Colonia|Isla Mujeres|Quintana Roo||77511|23|77511||09|003|0001|Urbano|
+77410|El Nazareno|Colonia|Isla Mujeres|Quintana Roo||77511|23|77511||09|003|0005|Urbano|
+77410|SMZA 1|Colonia|Isla Mujeres|Quintana Roo||77511|23|77511||09|003|0004|Urbano|
+77412|Nueva Tierra|Colonia|Isla Mujeres|Quintana Roo||77511|23|77511||09|003|0006|Urbano|

@@ -1,0 +1,7 @@
+98220|San Jerónimo|Ranchería|Melchor Ocampo|Zacatecas||98201|32|98201||29|027|0125|Rural|
+98220|Melchor Ocampo|Pueblo|Melchor Ocampo|Zacatecas||98201|32|98201||28|027|0124|Urbano|
+98222|San Miguel|Ranchería|Melchor Ocampo|Zacatecas||98201|32|98201||29|027|0126|Rural|
+98223|Matamoros|Ranchería|Melchor Ocampo|Zacatecas||98201|32|98201||29|027|0127|Rural|
+98229|Mineral de Noche Buena|Ranchería|Melchor Ocampo|Zacatecas||98201|32|98201||29|027|0129|Rural|
+98229|El Jagüey|Ranchería|Melchor Ocampo|Zacatecas||98201|32|98201||29|027|0128|Rural|
+98229|Noche Buena|Pueblo|Melchor Ocampo|Zacatecas||98201|32|98201||28|027|0130|Rural|

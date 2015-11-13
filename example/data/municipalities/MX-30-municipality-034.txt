@@ -1,0 +1,62 @@
+92500|Piedra Labrada|Congregación|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||11|034|1446|Rural|
+92503|Axoquitla|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7736|Rural|
+92503|San Carlos (Guardaganado)|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7753|Rural|
+92503|La Loma Bonita|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7746|Rural|
+92504|Rancho Santiago Cárdenas|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7752|Rural|
+92504|Ejido Xilitla|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||15|034|7738|Rural|
+92504|La Campechana|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||15|034|7744|Rural|
+92504|Rancho Huilotitla|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7751|Rural|
+92505|Tamalinillo|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||15|034|7756|Rural|
+92510|Cerro Azul Campo Industrial Centro|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|1448|Urbano|61
+92513|Teresa Morales|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4974|Urbano|61
+92513|La Curva|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4964|Urbano|61
+92513|Cerro Azul Viejo|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||15|034|4970|Urbano|61
+92513|17 de Mayo|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4971|Urbano|61
+92513|Lázaro Cárdenas|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4965|Urbano|61
+92513|Oriente|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4966|Urbano|61
+92513|Sector Popular|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|7598|Urbano|61
+92514|Deportiva|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4975|Urbano|61
+92514|Carlos Berman|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4979|Urbano|61
+92514|El Cuatro|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4978|Urbano|61
+92514|Ex Refinería|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4976|Urbano|61
+92515|Morelos|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4985|Urbano|61
+92515|Vicente Guerrero|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4984|Urbano|61
+92516|Faja de Oro|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4981|Urbano|61
+92516|Petrolera|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4982|Urbano|61
+92516|7 de Octubre|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|7597|Urbano|61
+92516|Aguilera|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4983|Urbano|61
+92517|Ferrocarril|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4967|Urbano|61
+92517|Valle Verde|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4972|Urbano|61
+92517|Juan Felipe|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||15|034|4980|Urbano|61
+92517|La Herradura|Fraccionamiento|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||21|034|7732|Urbano|61
+92517|18 de Marzo|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4973|Urbano|61
+92517|La Puerta|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4977|Urbano|61
+92517|El Sacrificio|Fraccionamiento|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||21|034|7599|Urbano|61
+92517|Valle Esmeralda|Fraccionamiento|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||21|034|7600|Urbano|61
+92517|Benito Juárez|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4969|Urbano|61
+92518|Campo 1ro de Mayo|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4968|Urbano|61
+92518|Nuevo Mirador|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4961|Urbano|61
+92518|Mirador|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4987|Urbano|61
+92518|Mirador|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||15|034|4962|Urbano|61
+92519|La Ceiba|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4963|Urbano|61
+92519|Lomas Verdes|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave|Cerro Azul|92511|30|92511||09|034|4960|Urbano|61
+92520|Santa Victoria|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7755|Rural|
+92520|Valle Esmeralda|Fraccionamiento|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||21|034|7757|Rural|
+92520|Don Adrián|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7737|Rural|
+92520|La Pedrera (La Quebradora)|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7747|Rural|
+92520|Juan Felipe|Congregación|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||11|034|1451|Rural|
+92523|Ampliación Benito Juárez|Ampliación|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||38|034|7733|Rural|
+92523|Santa Rosa (Santa Mercedes)|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7754|Rural|
+92523|El Urbalejo|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7740|Rural|
+92523|La Herradura|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7745|Rural|
+92523|Clouthier|Colonia|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||09|034|0001|Rural|
+92523|La Tumbaga (La Joya)|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7748|Rural|
+92524|Ampliación el Mirador|Ampliación|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||38|034|7734|Rural|
+92524|Lázaro Cárdenas|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7750|Rural|
+92524|Ampliación Lomas Verdes|Ampliación|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||38|034|7735|Rural|
+92525|Buenos Aires|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|4986|Rural|
+92527|La Adelaida|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7742|Rural|
+92527|La Adelaida|Ejido|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||15|034|7743|Rural|
+92527|Los Milagros|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7749|Rural|
+92527|El Chaparral|Ranchería|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||29|034|7739|Rural|
+92527|Fraccionamiento el Sacrificio|Fraccionamiento|Cerro Azul|Veracruz de Ignacio de la Llave||92511|30|92511||21|034|7741|Rural|

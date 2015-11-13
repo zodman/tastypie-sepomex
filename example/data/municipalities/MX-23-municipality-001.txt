@@ -1,0 +1,41 @@
+77600|Cozumel Centro|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0274|Urbano|02
+77600|Cozumel|Puerto|Cozumel|Quintana Roo|Cozumel|77601|23|77601||40|001|1219|Urbano|02
+77609|Cozumel (Internacional de Cozumel)|Aeropuerto|Cozumel|Quintana Roo|Cozumel|77601|23|77601||01|001|0276|Urbano|02
+77610|Militar|Unidad habitacional|Cozumel|Quintana Roo|Cozumel|77601|23|77601||31|001|0633|Urbano|02
+77613|Zona Hotelera Norte|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0696|Urbano|02
+77620|Emiliano Zapata|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0277|Urbano|02
+77620|Félix González Canto|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0912|Urbano|02
+77620|Flamboyanes|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0614|Urbano|02
+77622|10 de Abril|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0278|Urbano|02
+77645|Chen-tuk|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0281|Urbano|02
+77645|Miraflores|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0875|Urbano|02
+77645|Juan Bautista de La Vega|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0616|Urbano|02
+77645|Nueva Generación|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0910|Urbano|02
+77645|Altamar|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0911|Urbano|02
+77660|Magisterio|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0853|Urbano|02
+77660|Caribe|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0918|Urbano|02
+77660|Flamingos I|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0540|Urbano|02
+77660|Flamingos II|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0538|Urbano|02
+77660|FOVISSSTE|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0539|Urbano|02
+77660|Maravilla|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0613|Urbano|02
+77664|Independencia|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0574|Urbano|02
+77664|Andrés Q. Roo|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0612|Urbano|02
+77664|Colonos Cuzamil|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0810|Urbano|02
+77665|San Miguel 1|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0284|Urbano|02
+77666|San Miguel 3|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0632|Urbano|02
+77666|Flores Magón 3|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0634|Urbano|02
+77666|San Miguel 2|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0285|Urbano|02
+77667|San Gervasio|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0472|Urbano|02
+77667|Flores Magón 1 y 2|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0615|Urbano|02
+77667|Adolfo L. Mateos|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0618|Urbano|02
+77667|Cuzamil|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0286|Urbano|02
+77667|Repobladores de 1848|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0617|Urbano|02
+77670|C T M|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0543|Urbano|02
+77670|Las Golondrinas|Fraccionamiento|Cozumel|Quintana Roo|Cozumel|77601|23|77601||21|001|0001|Urbano|02
+77670|Naval|Unidad habitacional|Cozumel|Quintana Roo|Cozumel|77601|23|77601||31|001|0698|Urbano|02
+77670|Cozumel Turístico|Unidad habitacional|Cozumel|Quintana Roo|Cozumel|77601|23|77601||31|001|0700|Urbano|02
+77670|Taxistas|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0279|Urbano|02
+77670|Zona Industrial|Zona industrial|Cozumel|Quintana Roo|Cozumel|77601|23|77601||37|001|0542|Urbano|02
+77673|Huertos Familiares|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0701|Urbano|02
+77675|Zona Hotelera Sur|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0697|Urbano|02
+77676|Ix-chel|Colonia|Cozumel|Quintana Roo|Cozumel|77601|23|77601||09|001|0699|Urbano|02

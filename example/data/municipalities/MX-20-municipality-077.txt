@@ -1,0 +1,6 @@
+68237|BarrioSan Juan de Dios|Ranchería|Reyes Etla|Oaxaca||68202|20|68202||29|077|0240|Rural|
+68237|Reyes Etla|Pueblo|Reyes Etla|Oaxaca||68202|20|68202||28|077|0239|Rural|
+68237|Los Reyes|Fraccionamiento|Reyes Etla|Oaxaca||68202|20|68202||21|077|0001|Rural|
+68238|San Lázaro Etla|Ranchería|Reyes Etla|Oaxaca||68202|20|68202||29|077|0241|Rural|
+68238|Los Tres Reyes|Ranchería|Reyes Etla|Oaxaca||68202|20|68202||29|077|0003|Rural|
+68238|Ejidi Hacienda Vieja (Zompantle)|Ejido|Reyes Etla|Oaxaca||68202|20|68202||15|077|0002|Rural|

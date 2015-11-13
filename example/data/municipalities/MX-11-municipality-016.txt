@@ -1,0 +1,48 @@
+36990|Huanimaro Centro|Colonia|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||09|016|1000|Urbano|16
+36993|Santa Martha|Colonia|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||09|016|3730|Urbano|16
+36993|Solidaridad|Colonia|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||09|016|3731|Urbano|16
+36993|Magisterial|Colonia|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||09|016|3727|Urbano|16
+36993|Santa Regina|Colonia|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||09|016|3729|Urbano|16
+36994|Villas de las Flores|Fraccionamiento|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||21|016|0022|Urbano|16
+36994|Arboledas|Colonia|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||09|016|5340|Urbano|16
+36995|El Mirador|Fraccionamiento|Huanímaro|Guanajuato|Huanímaro|36991|11|36991||21|016|3728|Urbano|16
+36996|Ramón García|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0017|Rural|
+36996|Colonia Rafael García|Colonia|Huanímaro|Guanajuato||36901|11|36901||09|016|0004|Rural|
+36996|Paso de Carretas|Poblado comunal|Huanímaro|Guanajuato||36901|11|36901||27|016|0016|Rural|
+36996|Los Otates|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1008|Rural|
+36996|La Cantera|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1005|Rural|
+36996|San Cristóbal|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1017|Rural|
+36996|San José de Ayala|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|1006|Rural|
+36996|La Tinaja|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1007|Rural|
+36997|Granja Beatriz|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0006|Rural|
+36997|Granja la Joya|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0010|Rural|
+36997|San Isidro de Ayala|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1010|Rural|
+36997|Jesús Sánchez Zárate (La Desmayada)|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0014|Rural|
+36997|Cora|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1015|Rural|
+36997|Grano de Oro|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0012|Rural|
+36997|San Antonio de Eguía (El Ranchito)|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0019|Rural|
+36997|San Ramón|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|1011|Rural|
+36997|Granja el Rosal|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0008|Rural|
+36997|San Cristóbal de Ayala|Poblado comunal|Huanímaro|Guanajuato||36901|11|36901||27|016|0020|Rural|
+36997|Cerrito Alto Nuevo|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1014|Rural|
+36997|Paso de Cobos|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1016|Rural|
+36997|Cerrito Alto Viejo|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0002|Rural|
+36997|Loma Bonita|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0015|Rural|
+36998|Carmen Rodríguez|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0001|Rural|
+36998|San Juan Grande|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1009|Rural|
+36998|Cerrito de Aguirre|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0003|Rural|
+36998|Rancho de Guadalupe (El Gato)|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|1012|Rural|
+36998|Granja Jaime Zavala|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0009|Rural|
+36998|La Granja (La Gata)|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1013|Rural|
+36998|Zapote de Aguirre|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1019|Rural|
+36998|Granja San Antonio|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0011|Rural|
+36998|San Antonio Buenavista|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0018|Rural|
+36998|Jarrillas|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0013|Rural|
+36998|La Lobera (El Riñón)|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1001|Rural|
+36998|Copales|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1003|Rural|
+36998|Joroches (Joroches Nuevo)|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|1018|Rural|
+36998|Granja de los Chacón|Granja|Huanímaro|Guanajuato||36901|11|36901||23|016|0007|Rural|
+36998|Zapotito de Mancilla|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0021|Rural|
+36998|El Durazno (El Duraznito)|Ranchería|Huanímaro|Guanajuato||36901|11|36901||29|016|0005|Rural|
+36998|Monte Blanco|Ejido|Huanímaro|Guanajuato||36901|11|36901||15|016|1002|Rural|
+36998|Ojos de Agua|Congregación|Huanímaro|Guanajuato||36901|11|36901||11|016|1004|Rural|

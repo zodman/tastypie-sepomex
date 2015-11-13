@@ -1,0 +1,66 @@
+96120|San Juan Evangelista|Colonia|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||09|142|3713|Rural|
+96123|Ampliación San Juan Evangelista|Colonia|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||09|142|0005|Urbano|
+96124|Sabaneta|Colonia|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||09|142|6297|Rural|
+96130|Chapopoapán|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6299|Rural|
+96130|Cascajal Grande|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6300|Rural|
+96130|Cascajalito|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6301|Rural|
+96130|Cartagena de Michapan|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6302|Rural|
+96130|La Jimi|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6303|Rural|
+96130|Rancho Nuevo|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|3718|Rural|
+96132|Vista Hermosa|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|0001|Rural|
+96132|Michapan de Osorio|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|0002|Rural|
+96133|La Fortuna|Rancho|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||48|142|0004|Rural|
+96133|La Cerquilla|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|3721|Rural|
+96134|Aguacatillo|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6298|Rural|
+96135|Miguel Alemán|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6294|Rural|
+96135|Jalapilla|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6295|Rural|
+96135|San Isidro|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6296|Rural|
+96136|Bajo las Palmas|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6291|Rural|
+96136|Las Carolinas|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6290|Rural|
+96136|Hato Nuevo|Rancho|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||48|142|0003|Rural|
+96137|San Luis|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6292|Rural|
+96137|Zacatal|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6293|Rural|
+96137|La Lima|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|3717|Rural|
+96140|Achotal|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|3725|Rural|
+96140|Cuauhtémoc|Congregación|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||11|142|7291|Rural|
+96140|Campo Nuevo|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|3726|Rural|
+96140|La Caudalosa|Ejido|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||15|142|3727|Rural|
+96140|Lázaro Cárdenas (El Saladero)|Ejido|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||15|142|3722|Rural|
+96140|Tizamar|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|3714|Rural|
+96143|Unión Campo Nuevo|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6275|Rural|
+96143|El Manantial|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6270|Rural|
+96143|Mata de Caña|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6271|Rural|
+96143|Quetzalapa|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6273|Rural|
+96143|Nuevo México|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6274|Rural|
+96143|El Refugio|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6272|Rural|
+96144|Lázaro Cárdenas (La Gloria)|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|3734|Rural|
+96144|Benito Juárez|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6277|Rural|
+96144|Guadalupe Victoria|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|3724|Rural|
+96144|Gral. Nicolás Bravo|Colonia|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||09|142|3728|Rural|
+96144|Francisco Villa|Ejido|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||15|142|6276|Rural|
+96144|Nuevo Paraíso|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6280|Rural|
+96144|Loma Bonita|Colonia|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||09|142|3733|Rural|
+96144|Nuevo Saltillo|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6278|Rural|
+96145|Caobal|Estación|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||16|142|3730|Rural|
+96145|Villa Alta|Ejido|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||15|142|3731|Rural|
+96145|Francisci J. Moreno|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6268|Rural|
+96145|José María Pino Suárez|Colonia|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||09|142|7792|Rural|
+96145|Reforma Agraria|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6266|Rural|
+96145|Los Ángeles|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6269|Rural|
+96145|La Soledad|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6267|Rural|
+96145|El Cautivo|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6279|Rural|
+96145|Monte Verde|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|3729|Rural|
+96145|Villa Guerrero|Ejido|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||15|142|3732|Rural|
+96145|Villa Hermosa|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6265|Rural|
+96146|Bella Vista|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6281|Rural|
+96146|Juanita|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|3719|Rural|
+96146|Francisco I. Madero (Plan de la Gloria)|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6282|Rural|
+96146|Bellaco|Estación|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||16|142|3723|Rural|
+96146|Emiliano Zapata|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6283|Rural|
+96147|San Felipe de Jesús|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6284|Rural|
+96147|Poblado los Arco Iris|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6285|Rural|
+96147|Francisco I. Madero (Plan de la Gloria)|Pueblo|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||28|142|3720|Rural|
+96147|El Porvenir|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6286|Rural|
+96147|Pozole|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6287|Rural|
+96147|San Pedro Tulapán|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6289|Rural|
+96147|Nuevo Lázaro Cárdenas|Ranchería|San Juan Evangelista|Veracruz de Ignacio de la Llave||96121|30|96121||29|142|6288|Rural|

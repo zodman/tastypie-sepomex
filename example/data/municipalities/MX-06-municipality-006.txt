@@ -1,0 +1,25 @@
+28700|11 Pueblos|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0568|Rural|
+28700|6 de Enero|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0595|Rural|
+28700|Ixtlahuácan|Pueblo|Ixtlahuacán|Colima||28706|06|28706||28|006|0266|Rural|
+28700|Mojotal|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0557|Rural|
+28700|Los Gobernadores|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0001|Urbano|
+28700|Ojo de Agua|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0566|Rural|
+28703|Jiliotupa|Ejido|Ixtlahuacán|Colima||28706|06|28706||15|006|0269|Rural|
+28704|Las Trancas|Ejido|Ixtlahuacán|Colima||28706|06|28706||15|006|0270|Rural|
+28705|La Presa (Barranca del Rebozo)|Ejido|Ixtlahuacán|Colima||28706|06|28706||15|006|0274|Rural|
+28705|Lázaro Cárdenas|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0539|Rural|
+28720|Aquiles Serdán (Tamala)|Ejido|Ixtlahuacán|Colima||28706|06|28706||15|006|0276|Rural|
+28724|San Gabriel|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0277|Rural|
+28730|Chamila|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0275|Rural|
+28730|Santa Inés|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0280|Rural|
+28730|La Tunita|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0281|Rural|
+28730|Zinacamitlán (Los Chicos)|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0267|Rural|
+28733|La Tepamera|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0279|Rural|
+28733|Las Anonas|Colonia|Ixtlahuacán|Colima||28706|06|28706||09|006|0531|Rural|
+28734|Agua de la Virgen|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0265|Rural|
+28734|El Camichín (Veintiséis de Julio)|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0271|Rural|
+28734|El Aserradero|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0282|Rural|
+28735|El Capire|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0283|Rural|
+28735|Higueras de Santa Rosa|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0802|Rural|
+28735|Las Conchas|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0268|Rural|
+28736|El Galaje|Ranchería|Ixtlahuacán|Colima||28706|06|28706||29|006|0284|Rural|

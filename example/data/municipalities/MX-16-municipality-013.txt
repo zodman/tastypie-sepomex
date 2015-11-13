@@ -1,0 +1,130 @@
+61920|Carácuaro de Morelos|Villa|Carácuaro|Michoacán de Ocampo||58482|16|58482||32|013|2825|Urbano|
+61920|Froylán Vargas Gómez|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0004|Urbano|
+61920|El Plan|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0007|Urbano|
+61920|El Palmar|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0003|Urbano|
+61920|El Balseadero|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0001|Urbano|
+61920|El Cerrito|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0002|Urbano|
+61920|Obrera|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0005|Urbano|
+61920|Torokio|Colonia|Carácuaro|Michoacán de Ocampo||58482|16|58482||09|013|0006|Urbano|
+61923|El Anono|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0025|Rural|
+61923|La Toronja|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0068|Rural|
+61923|Las Parotas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0075|Rural|
+61923|Las Quiringucuas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0079|Rural|
+61923|Santa Cruz|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0096|Rural|
+61923|Cabeza de Vaca|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0015|Rural|
+61923|Las Tinajas (La Tinaja)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0080|Rural|
+61923|Ceibas Negras|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0017|Rural|
+61923|La Lajita|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0061|Rural|
+61923|Ziranangástico (Sirandangástico)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0099|Rural|
+61923|El Timbiriche|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0105|Rural|
+61923|El Cuitzillo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0026|Rural|
+61923|El Paso del Pinzán|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0037|Rural|
+61923|El Plátano|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0040|Rural|
+61923|El Puerto del Limón|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0041|Rural|
+61923|El Guayabo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0028|Rural|
+61923|El Platanito|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0039|Rural|
+61923|Juntas del Anono (Juntas de la Torre)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0054|Rural|
+61923|Las Mojarras|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0074|Rural|
+61923|Puerto los Amoles|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0093|Rural|
+61923|El Salitrillo|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0103|Rural|
+61923|Olea|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0111|Rural|
+61924|La Bejuquera|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0056|Rural|
+61924|La Palmita|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0064|Rural|
+61924|El Sauz|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0044|Rural|
+61924|La Pilita|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0112|Rural|
+61924|El Junco|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0031|Rural|
+61924|El Vallecillo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0048|Rural|
+61924|El Manguito|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0033|Rural|
+61924|El Aguacate|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0020|Rural|
+61924|La Padilla|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0063|Rural|
+61924|Los Tejones|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0087|Rural|
+61924|Paso de la Virgen|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0089|Rural|
+61924|San Rafael|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0104|Rural|
+61924|La Ceiba Güicha|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0115|Rural|
+61924|El Zapote de los Herrera|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0051|Rural|
+61924|La Boluda|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0057|Rural|
+61924|El Nieto|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0035|Rural|
+61924|El Limoncito|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0110|Rural|
+61925|Capire de Bravo (El Capire Bravo)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2828|Rural|
+61925|Quirínguaro|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0094|Rural|
+61925|Carasumbapio|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0016|Rural|
+61925|Buenavista|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0011|Rural|
+61925|Cañada de Zacapungamio (Sacapungame)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0013|Rural|
+61925|Huenamocopio|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0053|Rural|
+61925|La Arboleda|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0055|Rural|
+61925|Paso del Atuto|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0090|Rural|
+61925|La Noria|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0062|Rural|
+61926|Cañada de los Limones|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0012|Rural|
+61926|Los Coyotes|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0084|Rural|
+61926|Barranca del Perro|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0010|Rural|
+61926|El Huaco (El Guaco)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0030|Rural|
+61926|La Arboleda|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0100|Rural|
+61926|Rancho Viejo|Pueblo|Carácuaro|Michoacán de Ocampo||58482|16|58482||28|013|4005|Rural|
+61926|El Zapotito|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0052|Rural|
+61926|El Tepeguaje|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0046|Rural|
+61926|Apunguio|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0009|Rural|
+61926|Los Lampaces|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0085|Rural|
+61926|Los Ejes|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|4928|Rural|
+61927|El Aguacatillo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0022|Rural|
+61927|Coyol de los Gómez|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0018|Rural|
+61927|La Vinata|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0069|Rural|
+61927|San José|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0095|Rural|
+61927|El Pinzán|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0038|Rural|
+61927|El Zapote de los Gómez|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0050|Rural|
+61927|El Naranjo (Las Trincheras)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0034|Rural|
+61927|El Rincón|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0113|Rural|
+61928|El Anonito|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0023|Rural|
+61928|Limoncito de los Chávez Arreola|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0082|Rural|
+61928|Monte Redondo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0088|Rural|
+61928|El Limón Viejo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0032|Rural|
+61928|La Carrera|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0059|Rural|
+61928|El Columpio|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0108|Rural|
+61928|Acuyo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2826|Rural|
+61929|La Joya (La Joya de los Pinos)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0060|Rural|
+61929|Sicuamaro|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0097|Rural|
+61929|El Aguacate|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0021|Rural|
+61929|El Sauz|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0045|Rural|
+61929|Las Ceibas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0070|Rural|
+61929|Las Enramadas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0071|Rural|
+61929|Puerto Blanco (Parras del Puerto)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0091|Rural|
+61929|La Soledad|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0067|Rural|
+61929|Frontera de San Juan|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2829|Rural|
+61929|El Rincón de Flores|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0042|Rural|
+61929|Las Mesas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0073|Rural|
+61929|El Zapotito|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0107|Rural|
+61929|El Escorpión|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0027|Rural|
+61929|La Palmita|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0065|Rural|
+61929|Las Parras|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0076|Rural|
+61929|Tarepe|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0098|Rural|
+61929|El Zapote (El Zapote de los Rodríguez)|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0106|Rural|
+61930|Los Naranjos|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0114|Rural|
+61930|Paso de Núñez (Buenavista)|Pueblo|Carácuaro|Michoacán de Ocampo||58482|16|58482||28|013|2830|Rural|
+61933|El Carrizal|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2831|Rural|
+61934|El Guayabo|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0109|Rural|
+61934|El Zapote de Cuendeo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2832|Rural|
+61934|El Anono|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0024|Rural|
+61935|El Pantano|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0036|Rural|
+61935|Las Pilas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0078|Rural|
+61935|Piñuela|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0102|Rural|
+61935|El Saucedo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0043|Rural|
+61935|Las Trancas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0081|Rural|
+61935|El Vado (El Puente del Arenal Largo)|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0047|Rural|
+61935|La Calera|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0058|Rural|
+61935|Las Guacamayas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2833|Rural|
+61936|Los Coyotes|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0083|Rural|
+61936|El Guayabo del Carmen|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0029|Rural|
+61936|La Verija|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0116|Rural|
+61936|Los Lampaces (Lampazos)|Rancho|Carácuaro|Michoacán de Ocampo||58482|16|58482||48|013|0101|Rural|
+61936|Janindipo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2835|Rural|
+61936|Las Juntas de Abajo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0072|Rural|
+61936|Los Pozos|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0086|Rural|
+61936|Juntas de Chapacarícuaro|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2834|Rural|
+61936|La Carrerita|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|2836|Rural|
+61937|Cuirindalillo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0019|Rural|
+61937|Panzacola|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|5524|Rural|
+61937|El Zapote de los Campos|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0049|Rural|
+61937|Puerto del Coyote|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0092|Rural|
+61937|Cañada la Ortiga|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0014|Rural|
+61937|Las Pilas|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0077|Rural|
+61938|La Parotilla|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0066|Rural|
+61938|Anambo|Ranchería|Carácuaro|Michoacán de Ocampo||58482|16|58482||29|013|0008|Rural|

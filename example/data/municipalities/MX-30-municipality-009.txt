@@ -1,0 +1,24 @@
+91460|Xomotla|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0286|Rural|
+91460|Alto Lucero|Villa|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||32|009|0285|Rural|
+91463|Las Casillas|Ranchería|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||29|009|0001|Rural|
+91465|La Reforma|Pueblo|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91002|30|91002||28|009|0006|Rural|
+91465|Cerrillos de Díaz|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91002|30|91002||11|009|0288|Rural|
+91466|Providencia|Pueblo|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||28|009|7211|Rural|
+91466|Blanca Espuma|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0289|Rural|
+91468|Paso del Anono|Rancho|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||48|009|0005|Rural|
+91469|Mesa de Guadalupe|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91002|30|91002||11|009|0290|Rural|
+91470|Independencia|Ranchería|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||29|009|7261|Rural|
+91470|Santa Ana|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0291|Rural|
+91473|Los Atlixcos|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0292|Rural|
+91473|El Abra|Ranchería|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||29|009|0003|Rural|
+91473|Villa Candelaria|Villa|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||32|009|0294|Rural|
+91473|Monte Verde Chivería|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0293|Rural|
+91475|Brazo Fuerte|Rancho|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||48|009|0002|Rural|
+91476|Laguna Verde (Campamento de Supervisores)|Ranchería|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||29|009|0295|Rural|
+91476|Monte de Oro|Rancho|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||48|009|0004|Rural|
+91477|Emiliano Zapata|Colonia|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||09|009|7354|Rural|
+91477|Lomas de Brasil|Colonia|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||09|009|7141|Rural|
+91477|Palma Sola|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0296|Rural|
+91477|Francisco I. Madero|Colonia|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||09|009|7914|Urbano|
+91477|Rancho Nuevo|Colonia|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||09|009|0297|Rural|
+91478|El Cafetal|Congregación|Alto Lucero de Gutiérrez Barrios|Veracruz de Ignacio de la Llave||91461|30|91461||11|009|0298|Rural|

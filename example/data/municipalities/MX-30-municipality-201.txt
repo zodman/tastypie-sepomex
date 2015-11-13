@@ -1,0 +1,36 @@
+95000|Zongolica|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3157|Rural|
+95002|Nepopoalco|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3159|Rural|
+95003|Moxala|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3160|Rural|
+95004|Loma de los Dolores|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3161|Rural|
+95005|Tepetlitlanapa|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3162|Rural|
+95006|Vicente Guerrero|Congregación|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||11|201|7233|Rural|
+95006|El Mirador|Congregación|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||11|201|7171|Rural|
+95006|Atlicpac|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3163|Rural|
+95006|Huixtla|Congregación|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||11|201|7222|Rural|
+95007|Macuilla|Barrio|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||02|201|3164|Rural|
+95010|Temaxcalapa|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3166|Rural|
+95010|Adolfo Ruiz Cortines|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3165|Rural|
+95011|Ixpaluca|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3167|Rural|
+95011|Xochiojca|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3168|Rural|
+95012|Tepepan|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3169|Rural|
+95013|Huaxtecatl|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3170|Rural|
+95016|El Porvenir|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3171|Rural|
+95016|Tlanelpaquilla|Ejido|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||15|201|3173|Rural|
+95016|San Sebastián|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3172|Rural|
+95017|La Tranca|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3174|Rural|
+95017|Tlacuiloltécatl Chico (Nogales)|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3176|Rural|
+95017|Zomajapa|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3177|Rural|
+95017|Tlac Macuilla|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3175|Rural|
+95017|San José Independencia|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|0003|Rural|
+95019|Teocotla|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|0002|Rural|
+95019|Palapa|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3178|Rural|
+95019|Tezizapa|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3179|Rural|
+95020|Xochiotepec|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3180|Rural|
+95020|Zapatecatl|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3181|Rural|
+95023|Oxtotitla|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3183|Rural|
+95023|Totolacatla|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|3184|Rural|
+95023|Choapa|Ejido|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||15|201|3182|Rural|
+95025|Comalapa|Pueblo|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||28|201|3185|Rural|
+95025|Independencia|Ejido|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||15|201|3186|Rural|
+95026|La Palma|Ranchería|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||29|201|0001|Rural|
+95028|Apanga|Barrio|Zongolica|Veracruz de Ignacio de la Llave||94301|30|94301||02|201|3187|Rural|

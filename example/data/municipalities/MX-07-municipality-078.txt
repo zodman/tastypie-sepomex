@@ -1,0 +1,195 @@
+29200|San Cristóbal de las Casas Centro|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0321|Urbano|02
+29210|Ini|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2527|Urbano|02
+29210|14 de Septiembre|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0323|Urbano|02
+29210|Tlaxcala|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0325|Urbano|02
+29210|Molino las Rosas|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4446|Urbano|02
+29213|Bosques del Pedregal|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2517|Urbano|02
+29213|Patria Nueva|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4429|Urbano|02
+29213|El Paraíso|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0326|Urbano|02
+29214|El Tívoli|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0327|Urbano|02
+29215|Nueva Jerusalén|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2508|Urbano|02
+29215|Ampliación Morelos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5708|Urbano|02
+29215|San Rafael|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4448|Urbano|02
+29215|Belisario Domínguez|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4426|Urbano|02
+29215|Morelos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0328|Urbano|02
+29215|Anexo El Edén|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2535|Urbano|02
+29215|La Hormiga|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2537|Urbano|02
+29215|16 de Septiembre|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4427|Urbano|02
+29215|La Florida|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4428|Urbano|02
+29215|La Hormiga|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0335|Urbano|02
+29215|San Juan del Bosque|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4425|Urbano|02
+29216|Campo Benigno|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4444|Urbano|02
+29216|Nueva Esperanza|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0331|Urbano|02
+29216|5 de Mayo|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2533|Urbano|02
+29216|5 de Mayo|Ampliación|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||38|078|4421|Urbano|02
+29216|Benito Juárez|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0330|Urbano|02
+29216|Sonora|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4418|Urbano|02
+29216|Valle de Zacatlán|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4445|Urbano|02
+29216|1ro de Enero|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2534|Urbano|02
+29216|Ojo de Agua|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0324|Urbano|02
+29217|Prudencio Moscoso Pastrana|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0332|Urbano|02
+29217|Macedonia|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4432|Urbano|02
+29217|Damasco|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5631|Urbano|02
+29217|San Antonio del Monte|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2541|Urbano|02
+29218|Getzemani|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0334|Urbano|02
+29218|Erasto Urbina|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4430|Urbano|02
+29218|Emiliano Zapata|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2536|Urbano|02
+29218|Diego Mazariegos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0333|Urbano|02
+29218|Santo Domingo|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0338|Urbano|02
+29220|El Cerrillo|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0336|Urbano|02
+29220|Los Laureles|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4442|Urbano|02
+29220|Revolución Mexicana|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0337|Urbano|02
+29220|Harvard|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4417|Urbano|02
+29220|San Juan de Dios Cuxtitali|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|4443|Urbano|02
+29220|31 de Marzo|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4441|Urbano|02
+29223|San Juan de Dios|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2531|Urbano|02
+29227|La Quinta|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0339|Urbano|02
+29228|Las Delicias|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0340|Urbano|02
+29230|Molino Utrilla|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2529|Urbano|02
+29230|La Garita|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0344|Urbano|02
+29230|Tepeyac|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|2528|Urbano|02
+29230|Cuxtitali|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0342|Urbano|02
+29230|Guadalupe|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0343|Urbano|02
+29233|Yaalboc|Ranchería|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||29|078|0009|Rural|02
+29233|El Pinar|Pueblo|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||28|078|0004|Rural|02
+29235|Agua de Pajarito|Pueblo|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||28|078|0006|Rural|02
+29236|San Antonio las Rosas|Ranchería|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||29|078|0008|Rural|02
+29236|La Candelaria|Pueblo|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||28|078|0005|Rural|02
+29239|Peje de Oro|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0346|Urbano|02
+29239|4 de Marzo|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2530|Urbano|02
+29240|La Isla|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0347|Urbano|02
+29240|De Mexicanos|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0349|Urbano|02
+29240|1ro de Mayo|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4415|Urbano|02
+29240|La Merced|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0348|Urbano|02
+29240|San Ramón|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0350|Urbano|02
+29242|Río Jordán|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4447|Urbano|02
+29242|Nueva Palestina|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0351|Urbano|02
+29243|11 Cuartos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2507|Urbano|02
+29243|La Buena Esperanza|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4431|Urbano|02
+29243|Luis Echeverría|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0352|Urbano|02
+29243|El Progreso|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2543|Urbano|02
+29243|Velasco Suárez|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4416|Urbano|02
+29243|12 de Junio|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2505|Urbano|02
+29243|Obrera CROM|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0353|Urbano|02
+29243|Santa Clara|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2506|Urbano|02
+29243|Las Gardenias|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2542|Urbano|02
+29244|Santa María|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5632|Urbano|02
+29244|Linda Vista|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4451|Urbano|02
+29244|San Martín|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4452|Urbano|02
+29244|Alvaro Obregón|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4450|Urbano|02
+29244|La Primavera|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0356|Urbano|02
+29244|Pozo de Jacob|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4449|Urbano|02
+29246|Los Alcanfores|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0357|Urbano|02
+29246|Maestros de México|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2522|Urbano|02
+29247|La Frontera|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0358|Urbano|02
+29247|América Libre|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2545|Urbano|02
+29247|Nueva Maravilla|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2547|Urbano|02
+29247|Bosques de Huitepec|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5633|Urbano|02
+29247|San José|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|5637|Urbano|02
+29247|La Independencia|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2538|Urbano|02
+29247|San Francisco|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2548|Urbano|02
+29247|El Vegel|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4433|Urbano|02
+29247|Bugambilias|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4453|Urbano|02
+29247|La Era|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2544|Urbano|02
+29247|Azteca|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2546|Urbano|02
+29247|Vista Hermosa|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2555|Urbano|02
+29247|La Ventana|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0360|Urbano|02
+29247|FSTSE 2000|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2521|Urbano|02
+29247|Labor San José|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|5636|Urbano|02
+29247|Las Haciendas|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0010|Urbano|02
+29247|La Quinta San Martín|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0359|Urbano|02
+29247|La Quinta San Francisco|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4454|Urbano|02
+29247|Ampliación Nueva Maravilla|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4434|Urbano|02
+29249|INFONAVIT La Isla|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0362|Urbano|02
+29249|Molino La Isla|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2870|Urbano|02
+29250|San Antonio|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0363|Urbano|02
+29250|Santa Lucia|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0364|Urbano|02
+29254|San Nicolás|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0345|Urbano|02
+29254|Las Peras|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0365|Urbano|02
+29255|La Candelaria|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0366|Urbano|02
+29256|Santa Cruz Almolonga|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0367|Urbano|02
+29258|El Escalón|Ranchería|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||29|078|0003|Rural|02
+29258|La Sierra|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0002|Rural|02
+29259|La Orquídea|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0369|Urbano|02
+29260|El Bosque|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4405|Urbano|02
+29260|El Carmen|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2554|Urbano|02
+29260|Explanada de San Felipe El Carmen|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0370|Urbano|02
+29260|La Esperanza|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0012|Urbano|02
+29260|Jardines del Carmen|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2982|Rural|02
+29260|La Pradera|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2503|Urbano|02
+29260|Los Ángeles|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2556|Urbano|02
+29263|Lomas de Huitepec|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0329|Urbano|02
+29264|Jardín Satélite|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5634|Urbano|02
+29264|San José Buenavista|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2518|Urbano|02
+29264|Fátima|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0371|Urbano|02
+29264|Montebello|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2509|Urbano|02
+29264|La Raza|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2523|Urbano|02
+29264|San José Betania|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4410|Urbano|02
+29264|La Cañada|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2515|Urbano|02
+29265|San Ramón|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|5710|Urbano|02
+29265|Del Valle|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0354|Urbano|02
+29265|El Pedregal|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4435|Urbano|02
+29265|El Pedregal|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0372|Urbano|02
+29265|Villa San Juan|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4413|Urbano|02
+29265|Villa Real|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2520|Urbano|02
+29265|Insurgentes|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2549|Urbano|02
+29266|Explanada del Carmen|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5709|Urbano|02
+29266|Villas Campestre el Carmen|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4407|Urbano|02
+29266|Burócratas|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4408|Urbano|02
+29267|Bismark|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0373|Urbano|02
+29269|Los Eucaliptos|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0374|Urbano|02
+29270|San Diego|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0375|Urbano|02
+29277|Villa Real|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2511|Urbano|02
+29277|Sindicato de Choferes Asalariados|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0377|Urbano|02
+29278|Altejar|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0378|Urbano|02
+29279|Las Rosas|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2560|Urbano|02
+29279|Residencial Villa Mayor|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0379|Urbano|02
+29280|Los Pinos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0381|Urbano|02
+29280|Monte de los Olivos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2559|Urbano|02
+29280|El Tunel|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4402|Urbano|02
+29280|El Carmelito|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0380|Urbano|02
+29286|El Relicario|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0383|Urbano|02
+29286|Jardines del Valle|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2552|Urbano|02
+29286|Montes Azules|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2524|Urbano|02
+29286|Sector Salud|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2551|Urbano|02
+29288|Ciudad Real Infonavit|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0384|Urbano|02
+29288|Santa Martha|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2510|Urbano|02
+29289|Deportivo San Cristóbal|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0385|Urbano|02
+29289|5 de Marzo|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2540|Urbano|02
+29290|Montañas del Sumidero|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|5635|Urbano|02
+29290|Del Santuario|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4403|Urbano|02
+29290|El Santuario|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0386|Urbano|02
+29290|María Auxiliadora|Barrio|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||02|078|0387|Urbano|02
+29292|Las Comaleras|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2512|Urbano|02
+29292|El Campanario|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2504|Urbano|02
+29292|Sal Si Puedes|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2563|Urbano|02
+29292|Bosques del Sol|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|3458|Urbano|02
+29292|10 de Abril|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2562|Urbano|02
+29293|Maya|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0388|Urbano|02
+29293|Mirador Santuario|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2558|Urbano|02
+29294|Salesianos|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0390|Urbano|02
+29294|La Paz|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|2516|Urbano|02
+29294|Lomas del Sur|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4439|Urbano|02
+29295|Laureles del Sur|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4438|Urbano|02
+29295|Articulo 115|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0391|Urbano|02
+29295|El Carmen Guadalupe|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4437|Urbano|02
+29296|San Juan de los Lagos|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0393|Urbano|02
+29296|Sal Si Puedes|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4401|Urbano|02
+29296|Lagos de María Eugenia|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2514|Urbano|02
+29297|Los Doctores|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|2561|Urbano|02
+29297|Rinconada de Vista Hermosa|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0394|Urbano|02
+29298|Jardines de Vista Hermosa|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0395|Urbano|02
+29299|La Amistad|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4398|Urbano|02
+29299|Corral de Piedra|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|0396|Urbano|02
+29299|Real del Monte|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0398|Urbano|02
+29299|El Recuerdo|Colonia|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||09|078|4400|Urbano|02
+29299|San Luis|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|4399|Urbano|02
+29299|Kaltic|Fraccionamiento|San Cristóbal de las Casas|Chiapas|San Cristóbal de las Casas|29201|07|29201||21|078|0397|Urbano|02
+29300|San Felipe Ecatepec|Colonia|San Cristóbal de las Casas|Chiapas||29201|07|29201||09|078|2525|Rural|
+29300|Las Palmas Huitepec 3a. Sección|Colonia|San Cristóbal de las Casas|Chiapas||29201|07|29201||09|078|0001|Rural|
+29300|Zacualpan de Ecatepec|Pueblo|San Cristóbal de las Casas|Chiapas||29201|07|29201||28|078|0399|Rural|
+29310|San José Yashtinin|Pueblo|San Cristóbal de las Casas|Chiapas||29201|07|29201||28|078|0402|Rural|
+29310|Pedernal|Ranchería|San Cristóbal de las Casas|Chiapas||29201|07|29201||29|078|0401|Rural|
+29310|Las Piedrecitas|Ranchería|San Cristóbal de las Casas|Chiapas||29201|07|29201||29|078|0400|Rural|
+29314|San Isidro las Huertas|Ranchería|San Cristóbal de las Casas|Chiapas||29201|07|29201||29|078|0011|Rural|
+29316|Mitzitón|Pueblo|San Cristóbal de las Casas|Chiapas||29201|07|29201||28|078|0007|Rural|

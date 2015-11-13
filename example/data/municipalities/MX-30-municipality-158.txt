@@ -1,0 +1,21 @@
+93570|Arcadia|Fraccionamiento|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||21|158|1771|Rural|
+93570|Rafael Hernandez Ochoa|Colonia|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||09|158|2065|Rural|
+93570|Tecolutla|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2403|Rural|
+93570|Emiliano Zapata|Colonia|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||09|158|1868|Rural|
+93570|Medanos|Fraccionamiento|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||21|158|2008|Rural|
+93570|Candido Aguilar|Colonia|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||09|158|1798|Rural|
+93571|Boca de Lima|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2404|Rural|
+93575|Hueytepec|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2406|Rural|
+93575|Paso Real|Ranchería|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||29|158|2407|Rural|
+93576|Ricardo Flores Magón|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2408|Rural|
+93577|Ignacio Zaragoza|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2410|Rural|
+93577|Chichicazapan Mendez|Ranchería|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||29|158|2409|Rural|
+93577|Paso Del Progreso|Ranchería|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||29|158|2411|Rural|
+93578|Riachuelo|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2412|Rural|
+93579|Cañada Rica|Ejido|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||15|158|2413|Rural|
+93580|El Fuerte de Anaya|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||28|158|2414|Rural|
+93580|La Guadalupe|Barrio|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||02|158|2415|Rural|
+93585|Playa Paraíso|Barrio|Tecolutla|Veracruz de Ignacio de la Llave||93801|30|93801||02|158|2416|Rural|
+93588|Monte Gordo|Ranchería|Tecolutla|Veracruz de Ignacio de la Llave||93801|30|93801||29|158|2417|Rural|
+93590|Casitas|Pueblo|Tecolutla|Veracruz de Ignacio de la Llave||93801|30|93801||28|158|2418|Rural|
+93597|Tres Cruces|Ranchería|Tecolutla|Veracruz de Ignacio de la Llave||93555|30|93555||29|158|7557|Rural|

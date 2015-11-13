@@ -1,0 +1,49 @@
+40130|Los Pilares|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1477|Semiurbano|26
+40130|Tepeyac|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1679|Semiurbano|26
+40130|28 de Febrero|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1707|Semiurbano|26
+40130|El Bonete|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1228|Semiurbano|26
+40130|Las Calaveras|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1412|Semiurbano|26
+40130|Las Pilitas|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1433|Semiurbano|26
+40130|Las Trincheras|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1435|Semiurbano|26
+40130|La Joya|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|4542|Urbano|26
+40130|Chapulixtlal|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1193|Semiurbano|26
+40130|Los Guajitos|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|3843|Semiurbano|26
+40130|Benito Juárez|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1092|Semiurbano|26
+40130|El Real|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1277|Semiurbano|26
+40130|La Nopalera|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1518|Semiurbano|26
+40130|De La Cruz|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|3845|Semiurbano|26
+40130|Cantarranas|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1113|Semiurbano|26
+40130|La Lama|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1379|Semiurbano|26
+40130|20 de Noviembre|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1701|Semiurbano|26
+40130|El Lucero|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1261|Semiurbano|26
+40130|Emiliano Zapata|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|3844|Semiurbano|26
+40130|El Llano|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|4567|Urbano|26
+40130|Huitzuco Centro|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1128|Semiurbano|26
+40130|Cristo Rey|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1178|Semiurbano|26
+40130|Salcingo|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1587|Semiurbano|26
+40130|El Tanque Rojo|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1672|Semiurbano|26
+40130|Brisas del Real|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|3846|Semiurbano|26
+40130|Ejidal|Colonia|Huitzuco de los Figueroa|Guerrero|Huitzuco|40131|12|40131||09|034|1220|Semiurbano|26
+40132|Xilocintla|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1881|Rural|
+40132|Pololcingo|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1879|Rural|
+40132|Tlapala|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1880|Rural|
+40133|Escuchapa|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1877|Rural|
+40133|Atopula|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1883|Rural|
+40133|Atetetla|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1882|Rural|
+40133|Tlaxmalac|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1878|Rural|
+40134|Cacahuananche|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1884|Rural|
+40134|Lagunillas|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1885|Rural|
+40136|Tecolotla|Campamento|Huitzuco de los Figueroa|Guerrero||40131|12|40131||04|034|1887|Rural|
+40137|Zoyacuautla|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1889|Rural|
+40137|Texahualco|Campamento|Huitzuco de los Figueroa|Guerrero||40131|12|40131||04|034|1888|Rural|
+40138|Nanche Dulce|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1890|Rural|
+40140|San Miguel de las Palmas|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1891|Rural|
+40141|Chaucingo|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1892|Rural|
+40142|Quetzalapa|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1893|Rural|
+40143|Coahuilotla|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1894|Rural|
+40143|Paso Morelos|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1895|Rural|
+40144|San Juan Teocaltzingo|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1896|Rural|
+40150|San Francisco Ozomatlan|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1897|Rural|
+40150|Tuliman|Pueblo|Huitzuco de los Figueroa|Guerrero||40131|12|40131||28|034|1898|Rural|
+40151|Tecoacuilco|Campamento|Huitzuco de los Figueroa|Guerrero||40001|12|40001||04|034|1899|Rural|
+40152|Acaquila|Campamento|Huitzuco de los Figueroa|Guerrero||40001|12|40001||04|034|1900|Rural|

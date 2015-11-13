@@ -1,0 +1,8 @@
+75440|San Salvador Huixcolotla|Pueblo|San Salvador Huixcolotla|Puebla||75481|21|75481||28|144|2246|Rural|
+75443|El Calvario|Barrio|San Salvador Huixcolotla|Puebla||75481|21|75481||02|144|7464|Urbano|
+75443|San Antonio|Barrio|San Salvador Huixcolotla|Puebla||75481|21|75481||02|144|7467|Urbano|
+75444|Dolores|Barrio|San Salvador Huixcolotla|Puebla||75481|21|75481||02|144|7463|Urbano|
+75445|Central de Abastos|Zona comercial|San Salvador Huixcolotla|Puebla||75481|21|75481||33|144|7462|Urbano|
+75445|La Candelaria|Barrio|San Salvador Huixcolotla|Puebla||75481|21|75481||02|144|7465|Urbano|
+75445|La Concepción|Fraccionamiento|San Salvador Huixcolotla|Puebla||75481|21|75481||21|144|7466|Urbano|
+75445|San Martín|Barrio|San Salvador Huixcolotla|Puebla||75481|21|75481||02|144|7468|Urbano|

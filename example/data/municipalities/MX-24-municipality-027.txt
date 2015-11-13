@@ -1,0 +1,84 @@
+79680|San Ciro de Acosta Centro|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|1483|Rural|
+79683|San Juan|Fraccionamiento|San Ciro de Acosta|San Luis Potosí||79681|24|79681||21|027|0003|Urbano|
+79683|Real San Ciro|Fraccionamiento|San Ciro de Acosta|San Luis Potosí||79681|24|79681||21|027|2001|Urbano|
+79684|San José|Barrio|San Ciro de Acosta|San Luis Potosí||79681|24|79681||02|027|2000|Urbano|
+79684|San Isidro|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|2002|Urbano|
+79684|Azteca|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|2003|Urbano|
+79684|Benito Juárez|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|2004|Urbano|
+79684|Las Viborillas|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|0002|Urbano|
+79685|El Porvenir|Fraccionamiento|San Ciro de Acosta|San Luis Potosí||79681|24|79681||21|027|0001|Urbano|
+79685|Guadalupe|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|2006|Urbano|
+79685|Lindavista|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|2005|Urbano|
+79685|De Guadalupe|Barrio|San Ciro de Acosta|San Luis Potosí||79681|24|79681||02|027|1999|Urbano|
+79686|San Antonio|Barrio|San Ciro de Acosta|San Luis Potosí||79681|24|79681||02|027|2008|Urbano|
+79686|Santiago|Barrio|San Ciro de Acosta|San Luis Potosí||79681|24|79681||02|027|1400|Urbano|
+79687|Del Refugio|Barrio|San Ciro de Acosta|San Luis Potosí||79681|24|79681||02|027|1998|Urbano|
+79687|San Mateo|Fraccionamiento|San Ciro de Acosta|San Luis Potosí||79681|24|79681||21|027|0004|Urbano|
+79690|Potrero del Órgano|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0056|Rural|
+79690|Colonia Cuauhtémoc|Colonia|San Ciro de Acosta|San Luis Potosí||79681|24|79681||09|027|0012|Rural|
+79690|La Morita|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0037|Rural|
+79690|Peña Azul|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0054|Rural|
+79690|La Puebla|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0039|Rural|
+79690|Paso de Jesús|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0057|Rural|
+79693|El Potrero de San Antonio|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0027|Rural|
+79693|Ninguno [Estación de Teléfonos]|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0049|Rural|
+79693|El Órgano|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1481|Rural|
+79693|La Almarciguera|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0031|Rural|
+79693|La Puerta del Tanque|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0041|Rural|
+79693|El Caracol|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0018|Rural|
+79693|La Ceja|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0034|Rural|
+79693|Nicolás Tolentino|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0048|Rural|
+79693|La Trinidad|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1482|Rural|
+79694|El Cañón|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0016|Rural|
+79694|Guerrero|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1490|Rural|
+79694|Cerrito de la Cruz|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0009|Rural|
+79694|Palo Blanco|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0052|Rural|
+79694|La Puerta de Guerrero|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0040|Rural|
+79694|Pachuquita|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0051|Rural|
+79694|La Lomita|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0036|Rural|
+79694|La Barranca|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1486|Rural|
+79694|El Soyotal|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1491|Rural|
+79694|Paso de la Hormiga|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0055|Rural|
+79694|El Cerro (San José del Palmito)|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0019|Rural|
+79694|San Carlos|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0059|Rural|
+79695|La Tinaja|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1492|Rural|
+79695|Nuevo San Luis|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0050|Rural|
+79695|El Encantado|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0022|Rural|
+79695|Capadero|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1487|Rural|
+79695|Capulín Grande|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0008|Rural|
+79695|El Capulín Chico|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0017|Rural|
+79695|Rancho Nuevo|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0058|Rural|
+79695|Palo Alto de la Purísima Concepción|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|1493|Rural|
+79695|El Aguacate|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0014|Rural|
+79695|Las Trancas|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0044|Rural|
+79695|El Pitahayo (Santa Cruz del Pitayo)|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1485|Rural|
+79695|El Relámpago|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|1489|Rural|
+79696|El Sótano (Los Sótanos)|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0029|Rural|
+79696|El Chupadero|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0021|Rural|
+79696|El Rejalgar (Ojo de Agua)|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0028|Rural|
+79696|Joyas del Pino|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0030|Rural|
+79696|Canoítas|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0007|Rural|
+79696|La Cañada Santa Gertrudis|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0033|Rural|
+79696|El Pinito|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0026|Rural|
+79696|Codornices|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|1488|Rural|
+79697|Agua Fría|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0005|Rural|
+79697|El Nogalito|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0024|Rural|
+79697|El Pinito|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0025|Rural|
+79697|La Atarjea|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0032|Rural|
+79697|Los Parajes|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0046|Rural|
+79697|Santa Teresa|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0060|Rural|
+79697|Las Moctezumas|Poblado comunal|San Ciro de Acosta|San Luis Potosí||79681|24|79681||27|027|2972|Rural|
+79697|El Fuereño|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0023|Rural|
+79697|Los Charcos|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0045|Rural|
+79697|Palos Clavados|Ejido|San Ciro de Acosta|San Luis Potosí||79681|24|79681||15|027|0053|Rural|
+79697|Charco Colorado|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0010|Rural|
+79697|Corral Quemado|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0013|Rural|
+79697|Las Pilas|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0043|Rural|
+79697|Los Pocitos|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0047|Rural|
+79697|La Cochina|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0035|Rural|
+79697|Las Bóvedas|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0042|Rural|
+79697|El Barrito|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0015|Rural|
+79697|Álamos de San Juan|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0006|Rural|
+79697|El Charco del Venado|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0020|Rural|
+79697|Charco Largo|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0011|Rural|
+79697|La Presa de Santo Domingo|Ranchería|San Ciro de Acosta|San Luis Potosí||79681|24|79681||29|027|0038|Rural|

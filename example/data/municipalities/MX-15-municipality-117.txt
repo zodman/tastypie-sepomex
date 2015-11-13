@@ -1,0 +1,51 @@
+51800|Zacualpan|Pueblo|Zacualpan|México||51801|15|51801||28|117|1469|Rural|
+51800|Santiago|Pueblo|Zacualpan|México||51801|15|51801||28|117|1474|Rural|
+51800|San José|Barrio|Zacualpan|México||51801|15|51801||02|117|5178|Rural|
+51800|Tlapexco|Ranchería|Zacualpan|México||51801|15|51801||29|117|7409|Rural|
+51810|Huizoltepec|Pueblo|Zacualpan|México||51801|15|51801||28|117|1468|Rural|
+51813|Ayotuxco|Pueblo|Zacualpan|México||51801|15|51801||28|117|1467|Rural|
+51814|Tezicapan|Pueblo|Zacualpan|México||51801|15|51801||28|117|1491|Rural|
+51814|San Juan|Ranchería|Zacualpan|México||51801|15|51801||29|117|0001|Rural|
+51814|Coloxtitlán|Pueblo|Zacualpan|México||51801|15|51801||28|117|1472|Rural|
+51815|Zotzocola|Pueblo|Zacualpan|México||51801|15|51801||28|117|1475|Rural|
+51815|San Jerónimo|Ranchería|Zacualpan|México||51801|15|51801||29|117|7408|Rural|
+51815|Gama de la Paz|Pueblo|Zacualpan|México||51801|15|51801||28|117|1471|Rural|
+51815|El Sitio|Pueblo|Zacualpan|México||51801|15|51801||28|117|1477|Rural|
+51816|El Fresno|Pueblo|Zacualpan|México||51801|15|51801||28|117|1478|Rural|
+51816|El Durazno|Ranchería|Zacualpan|México||51801|15|51801||29|117|6702|Rural|
+51816|El Salto|Pueblo|Zacualpan|México||51801|15|51801||28|117|1480|Rural|
+51817|Tres Cruces|Ranchería|Zacualpan|México||51801|15|51801||29|117|0004|Rural|
+51817|Río Florido 2da. Sección|Pueblo|Zacualpan|México||51801|15|51801||28|117|1481|Rural|
+51817|El Colorín|Ranchería|Zacualpan|México||51801|15|51801||29|117|7410|Rural|
+51817|Río Florido 1ra. Sección|Ranchería|Zacualpan|México||51801|15|51801||29|117|7411|Rural|
+51820|Piedra Parada|Pueblo|Zacualpan|México||51801|15|51801||28|117|1482|Rural|
+51820|Tepextitla 2da. Sección|Pueblo|Zacualpan|México||51801|15|51801||28|117|1487|Rural|
+51825|Agua Dulce|Ranchería|Zacualpan|México||51801|15|51801||29|117|7412|Rural|
+51825|Los Ejidos|Ranchería|Zacualpan|México||51801|15|51801||29|117|7413|Rural|
+51825|El Despoblado|Pueblo|Zacualpan|México||51801|15|51801||28|117|1483|Rural|
+51826|Apetlahuacan|Pueblo|Zacualpan|México||51801|15|51801||28|117|1484|Rural|
+51826|La Luz|Pueblo|Zacualpan|México||51801|15|51801||28|117|1473|Rural|
+51826|Las Huertas|Pueblo|Zacualpan|México||51801|15|51801||28|117|1476|Rural|
+51827|Los Planes|Pueblo|Zacualpan|México||51801|15|51801||28|117|1485|Rural|
+51827|El Cortijo|Pueblo|Zacualpan|México||51801|15|51801||28|117|1479|Rural|
+51827|Tepextitla 1ra. Sección|Ranchería|Zacualpan|México||51801|15|51801||29|117|7414|Rural|
+51827|Zacualpilla|Pueblo|Zacualpan|México||51801|15|51801||28|117|1486|Rural|
+51850|Hueytecoxco|Ranchería|Zacualpan|México||51801|15|51801||29|117|0003|Rural|
+51850|Mamatla|Pueblo|Zacualpan|México||51801|15|51801||28|117|1489|Rural|
+51850|El Coyol|Ranchería|Zacualpan|México||51801|15|51801||29|117|7407|Rural|
+51850|Los Barriales|Ranchería|Zacualpan|México||51801|15|51801||29|117|0002|Rural|
+51850|3 Cruces|Pueblo|Zacualpan|México||51801|15|51801||28|117|1488|Rural|
+51854|La Mora|Ranchería|Zacualpan|México||51801|15|51801||29|117|7416|Rural|
+51854|Velixtla|Ranchería|Zacualpan|México||51801|15|51801||29|117|7417|Rural|
+51854|Cruz del Quiote|Ranchería|Zacualpan|México||51801|15|51801||29|117|7415|Rural|
+51854|Memetla|Barrio|Zacualpan|México||51801|15|51801||02|117|5177|Rural|
+51855|Yolotepec|Ranchería|Zacualpan|México||51801|15|51801||29|117|7420|Rural|
+51855|El Verdecillo|Ranchería|Zacualpan|México||51801|15|51801||29|117|7418|Rural|
+51855|Teocalcingo|Pueblo|Zacualpan|México||51801|15|51801||28|117|1490|Rural|
+51855|La Trinidad|Ranchería|Zacualpan|México||51801|15|51801||29|117|7419|Rural|
+51856|Coronas|Ranchería|Zacualpan|México||51801|15|51801||29|117|7421|Rural|
+51856|Ixtayotla|Pueblo|Zacualpan|México||51801|15|51801||28|117|1493|Rural|
+51857|La Cofradia|Ranchería|Zacualpan|México||51801|15|51801||29|117|7424|Rural|
+51857|San Antonio Amealco|Pueblo|Zacualpan|México||51801|15|51801||28|117|1492|Rural|
+51857|Huaxtitla|Ranchería|Zacualpan|México||51801|15|51801||29|117|7423|Rural|
+51857|Calatepec|Ranchería|Zacualpan|México||51801|15|51801||29|117|7422|Rural|

@@ -1,0 +1,438 @@
+36700|Salamanca Centro|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0504|Urbano|09
+36704|Lerma|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0506|Urbano|09
+36710|San Jacinto|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0508|Rural|09
+36710|Campestre|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0507|Urbano|09
+36710|San Jacinto|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5146|Urbano|09
+36714|Albino García|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0509|Urbano|09
+36715|Las Torres|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0510|Urbano|09
+36716|Villa Ecueste|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5145|Semiurbano|09
+36717|Lomas del Prado 3er Seccion|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6807|Urbano|09
+36717|Lomas del Prado II Sección|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6808|Urbano|09
+36717|Lomas del Prado|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5144|Semiurbano|09
+36717|Coto del Lago|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6799|Urbano|09
+36720|El Monte|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0511|Urbano|09
+36720|INFONAVIT 3|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0513|Urbano|09
+36720|Praderas del Sol|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0517|Urbano|09
+36720|Villa Bonita|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5281|Urbano|09
+36720|Real Bugambilias|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0001|Urbano|09
+36720|Las Reynas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0515|Urbano|09
+36720|Nova Aztlán|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0516|Urbano|09
+36720|Primavera 2a Secc.|Unidad habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||31|027|0519|Urbano|09
+36720|Humanista II|Unidad habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||31|027|0512|Urbano|09
+36720|Primavera|Unidad habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||31|027|0518|Urbano|09
+36720|Puerta de Hierro|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6810|Urbano|09
+36722|El Vergel|Unidad habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||31|027|3502|Urbano|09
+36723|Cipreses|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5467|Urbano|09
+36723|Regina|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6811|Urbano|09
+36723|Lázaro Cárdenas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0520|Urbano|09
+36724|Las Américas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0522|Urbano|09
+36724|Quintas Campestre|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5099|Urbano|09
+36724|Miguel Hidalgo|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0007|Urbano|09
+36724|Bugambilias|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5098|Urbano|09
+36724|24 de Diciembre|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5100|Urbano|09
+36724|Villa San Pedro|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5267|Urbano|09
+36724|Francisco Villa|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0521|Urbano|09
+36726|Suburbana Sardinas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0524|Urbano|09
+36730|Ampliación Bellavista|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0002|Urbano|09
+36730|Bellavista|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0525|Urbano|09
+36730|PEMEX|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0526|Urbano|09
+36732|Zacamixtle|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0530|Urbano|09
+36732|Las Granjas|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0529|Urbano|09
+36733|Petróleos Mexicanos Ing. Antonio M Amor|Gran usuario|Salamanca|Guanajuato|Salamanca|36701|11|36701||22|027|0531|Urbano|09
+36740|San Gonzalo|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0535|Urbano|09
+36740|Morelos|Conjunto habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||12|027|0534|Urbano|09
+36740|Villas de San Roque|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0536|Urbano|09
+36740|Franco|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0533|Rural|09
+36740|El Pirul|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0532|Urbano|09
+36740|Villarreal|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0537|Urbano|09
+36743|Deportivo|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0539|Urbano|09
+36743|Residencial Galerias|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6805|Urbano|09
+36744|Villa Verde|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0544|Urbano|09
+36744|Los Profesionistas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3474|Urbano|09
+36744|Rinconada Tuxpan|Conjunto habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||12|027|5101|Urbano|09
+36744|Valle Dorado|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0543|Urbano|09
+36744|San Juan Chihuahua|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0542|Urbano|09
+36747|Guadalupe|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0546|Urbano|09
+36748|Residencial Faja de Oro|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5636|Urbano|09
+36748|Tomasa Estévez|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0551|Urbano|09
+36748|Felipe Ángeles|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0550|Urbano|09
+36748|Nochebuena|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5481|Urbano|09
+36748|12 de Octubre|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0548|Urbano|09
+36748|1910|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0547|Urbano|09
+36748|El Durazno|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0549|Urbano|09
+36749|Los Rangeles|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0552|Urbano|09
+36750|Progreso Industrial|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0557|Urbano|09
+36750|Álamos|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0553|Urbano|09
+36750|Los Fresnos|Conjunto habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||12|027|0555|Urbano|09
+36750|Alvarado|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0554|Urbano|09
+36752|Jardines del Sol|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|3470|Urbano|09
+36753|Obrera|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0003|Urbano|09
+36753|Ampliación Obrera|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0559|Urbano|09
+36754|Suburbana El Divisador|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0560|Urbano|09
+36759|Tamaulipas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0561|Urbano|09
+36759|Jardines de la Fortaleza|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5362|Urbano|09
+36760|Las Palmas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0565|Urbano|09
+36760|Jardines de San Pedro|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6806|Urbano|09
+36760|Ampliación Rinconada San Javier|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5109|Urbano|09
+36760|La Herradura|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5126|Urbano|09
+36760|Colorines (Salamanca)|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0562|Urbano|09
+36760|Flores Magón|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5106|Urbano|09
+36760|Rinconada San Javier|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0567|Urbano|09
+36760|San Pedro|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0569|Urbano|09
+36760|Insurgentes|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0563|Urbano|09
+36764|Jardines del Country|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5446|Urbano|09
+36764|Conjunto Amado Nervo|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5516|Urbano|09
+36764|Las Arboledas|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0570|Urbano|09
+36764|El Perul|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|4674|Urbano|09
+36764|Soto Innes II|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5103|Urbano|09
+36764|Soto Innes I|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5104|Urbano|09
+36765|Los Sauces|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5108|Rural|09
+36765|Las Estancias|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0572|Urbano|09
+36765|Estancias II|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|6803|Urbano|09
+36765|El Campanario|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5105|Rural|09
+36765|Rinconada El Belém|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5107|Rural|09
+36765|San Javier|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0574|Urbano|09
+36765|Rinconada San Pedro|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0573|Urbano|09
+36766|Prados Verdes|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5646|Urbano|09
+36766|Arboledas de Ciudad Bajío|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|6800|Urbano|09
+36766|Las Glorias Residencial|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0008|Urbano|09
+36766|La Pradera|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5645|Urbano|09
+36770|Jardines de Nativitas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0576|Urbano|09
+36770|San Juan de La Presa|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0581|Urbano|09
+36770|Nativitas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0580|Urbano|09
+36770|La Cruz|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0577|Urbano|09
+36772|Paseos de San Juan|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3473|Urbano|09
+36773|La Gloria|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0582|Urbano|09
+36773|Ampliación La Gloria 2da. Sección|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|6796|Urbano|09
+36773|Luis Donaldo Colosio|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3496|Urbano|09
+36773|Reforma|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3497|Urbano|09
+36773|Santa Clara|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5133|Urbano|09
+36773|Ampliación La Gloria|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0583|Urbano|09
+36773|Nuevo México|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5134|Urbano|09
+36773|Ampliación La Gloria Norte|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|6797|Urbano|09
+36774|Ampliación El Rosario|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5131|Urbano|09
+36774|San Miguelito|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3493|Urbano|09
+36774|Ampliación Las Margaritas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5128|Urbano|09
+36774|Las Margaritas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3495|Urbano|09
+36774|Ampliación San Francisco|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5127|Urbano|09
+36774|El Rosario|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5130|Urbano|09
+36774|Monte Tabor|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5132|Urbano|09
+36775|Las Maravillas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0585|Urbano|09
+36775|Ampliación Las Rosas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3494|Urbano|09
+36775|Ampliación Las Fuentes|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|6798|Urbano|09
+36775|San Francisco de Asís|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0589|Urbano|09
+36775|Las Fuentes|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0584|Urbano|09
+36775|Ampliación Las Maravillas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0586|Urbano|09
+36775|Las Rosas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0587|Urbano|09
+36775|Ampliación El Cerrito|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5125|Urbano|09
+36775|Ampliación San José|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5123|Urbano|09
+36775|San José|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0590|Urbano|09
+36775|El Cerrito|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|4367|Urbano|09
+36776|La Luz|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0591|Urbano|09
+36777|Suburbana San José de Ulapa|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5139|Semiurbano|09
+36778|Villa Salamanca 400|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5137|Semiurbano|09
+36778|Parque industrial Salamanca Siglo XXI|Zona industrial|Salamanca|Guanajuato|Salamanca|36701|11|36701||37|027|6804|Urbano|09
+36780|Guanajuato|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0592|Urbano|09
+36780|San Isidro|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0596|Urbano|09
+36780|Rinconada del Parque|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0595|Urbano|09
+36780|Los Pinos|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0594|Urbano|09
+36780|Jardines de Guanajuato|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3500|Urbano|09
+36782|Pedregal de San Juan|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5141|Urbano|09
+36782|Ampliación Los Ángeles de Arriba|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5143|Urbano|09
+36782|San Juan de Razos|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|3501|Urbano|09
+36783|Los Príncipes|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0598|Urbano|09
+36783|Del Parque 2da. Sección|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5110|Urbano|09
+36783|Villas del Parque|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5113|Urbano|09
+36783|El Paraíso I Sección|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5116|Urbano|09
+36783|Del Parque 4ta. Sección|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5115|Urbano|09
+36783|La Esperanza|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5118|Urbano|09
+36783|Floresta|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|3467|Rural|09
+36783|El Rocío|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5111|Urbano|09
+36783|Bosques del Sur|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5112|Urbano|09
+36783|Los Virreyes|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0599|Urbano|09
+36783|Rinconada de La Paz|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0601|Urbano|09
+36783|San Antonio Abad|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0602|Urbano|09
+36783|Lindavista|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5117|Urbano|09
+36783|Del Parque|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0597|Urbano|09
+36783|Del Parque 3ra. Sección|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5114|Urbano|09
+36784|Efrén Capiz Villegas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5427|Urbano|09
+36784|Humanista I|Unidad habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||31|027|3468|Urbano|09
+36784|Las Misiones|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5359|Urbano|09
+36785|Suburbana los Ángeles de Abajo|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0603|Urbano|09
+36786|Las Dunas|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0006|Urbano|09
+36786|18 de Marzo|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0604|Urbano|09
+36786|Ampliación 18 de Marzo|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5120|Urbano|09
+36786|Villa Petrolera|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|4770|Urbano|09
+36786|Villas del Valle|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0605|Urbano|09
+36787|Valle Hermoso|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5142|Semiurbano|09
+36787|Palo Blanco|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|6809|Urbano|09
+36787|Tierra y Libertad|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5135|Semiurbano|09
+36790|Benito Juárez|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0606|Urbano|09
+36790|El Manantial|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5121|Urbano|09
+36790|Los Laureles|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0611|Urbano|09
+36790|INFONAVIT I|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|4366|Urbano|09
+36790|Villafaña|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0615|Rural|09
+36790|Valle Verde|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|5119|Urbano|09
+36790|Renovación|Conjunto habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||12|027|0612|Urbano|09
+36790|El Progreso|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|6802|Urbano|09
+36790|Joyas del Sur|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|0610|Urbano|09
+36790|Jacarandas|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0609|Urbano|09
+36790|Santa Elena de La Cruz|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0614|Urbano|09
+36790|Villa Florida|Fraccionamiento|Salamanca|Guanajuato|Salamanca|36701|11|36701||21|027|5472|Urbano|09
+36790|El Molinito|Conjunto habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||12|027|0607|Urbano|09
+36790|El Molinito II|Conjunto habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||12|027|0608|Urbano|09
+36793|Olimpo|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0621|Urbano|09
+36793|Constelación|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0617|Urbano|09
+36793|El Edén|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0619|Urbano|09
+36793|Constituyentes|Colonia|Salamanca|Guanajuato|Salamanca|36701|11|36701||09|027|0618|Urbano|09
+36793|FOVISSSTE|Unidad habitacional|Salamanca|Guanajuato|Salamanca|36701|11|36701||31|027|0620|Urbano|09
+36850|Granja San Carlos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6691|Rural|
+36850|La Palma|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6720|Rural|
+36850|San Carlos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6764|Rural|
+36850|San Isidro de Cruces (La Hilacha)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5349|Rural|
+36850|La Haciendita (La Talonera)|Ejido|Salamanca|Guanajuato||36701|11|36701||15|027|0707|Rural|
+36853|San Cayetano|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6765|Rural|
+36853|San Juan Temascatío|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6774|Rural|
+36853|San José de Mendoza|Hacienda|Salamanca|Guanajuato||36701|11|36701||24|027|0712|Rural|
+36854|El Estanco|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6655|Rural|
+36854|La Campana|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6700|Rural|
+36854|La Haciendita de San Andrés|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6710|Rural|
+36854|La Joyita de Villafaña|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5299|Rural|
+36854|La Ordeñita|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6719|Rural|
+36854|El Caracol|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5348|Rural|
+36854|El Tropezón|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6666|Rural|
+36854|El Pitahayo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6662|Rural|
+36854|La Media Luna|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6717|Rural|
+36854|La Salitrera|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6724|Rural|
+36855|Zapote de Covarrubias|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0710|Rural|
+36855|Lo de Rayas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6732|Rural|
+36855|El Guaricho|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6658|Rural|
+36856|Nueva Loma de Flores|Ranchería|Salamanca|Guanajuato||36501|11|36501||29|027|6794|Rural|
+36856|San José de Temascatio|Hacienda|Salamanca|Guanajuato||36501|11|36501||24|027|0713|Rural|
+36856|Loma de Flores|Congregación|Salamanca|Guanajuato||36501|11|36501||11|027|0708|Rural|
+36856|San José de Marañón|Ranchería|Salamanca|Guanajuato||36501|11|36501||29|027|6795|Rural|
+36857|Sauz de Cruces|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0715|Rural|
+36857|Segunda Fracción la Compañía (Jaime Sandoval)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6782|Rural|
+36857|Los Cenizos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6737|Rural|
+36857|El Derramadero del Carmen (El Garage)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6652|Rural|
+36857|Fracción de la Compañía (Granja Sandoval)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6671|Rural|
+36857|San Juan Diego de Cruces|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6773|Rural|
+36857|Los Laureles|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6741|Rural|
+36857|La Compañía|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6703|Rural|
+36857|Los Hernández|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6739|Rural|
+36857|San Juan de Cruces|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6772|Rural|
+36857|Locos de Domenzáin (Los Loquitos)|Poblado comunal|Salamanca|Guanajuato||36701|11|36701||27|027|5494|Rural|
+36857|Cruces|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0738|Rural|
+36857|Los Razos de Ancón|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0714|Rural|
+36857|Locos de Covarrubias|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5282|Rural|
+36857|El Gallo (Santa María del Carmen)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6657|Rural|
+36858|Joya de Cortés (Joya Grande)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6699|Rural|
+36858|Potrerillos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0709|Rural|
+36858|La Carbonera|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6701|Rural|
+36858|Los Órganos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6742|Rural|
+36858|La Palma|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6721|Rural|
+36860|Cerro Gordo|Hacienda|Salamanca|Guanajuato||36701|11|36701||24|027|0717|Rural|
+36860|San Rafael Cerro Gordo|Ejido|Salamanca|Guanajuato||36701|11|36701||15|027|0729|Rural|
+36863|El Carmen|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6650|Rural|
+36863|Las Palomas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6731|Rural|
+36863|La Esperanza|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6708|Rural|
+36863|Rancho Nuevo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6753|Rural|
+36863|Los Miranda (El Xoconoxtle de Abajo)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0723|Rural|
+36863|El Coecillo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0718|Rural|
+36863|El Refugio|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6664|Rural|
+36863|Residencial San Miguel|Residencial|Salamanca|Guanajuato||36701|11|36701||30|027|6759|Rural|
+36863|San Antonio Capetillo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6762|Rural|
+36863|San José Tenita|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6770|Rural|
+36863|El Baúl|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6649|Rural|
+36863|San Antonio Bachachán|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6761|Rural|
+36863|Hacienda Vieja|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6696|Rural|
+36863|Guadalupe|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0741|Rural|
+36863|La Soledad (La Turicata)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6725|Rural|
+36863|Las Liebres|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0720|Rural|
+36863|El Recuerdo de Ancón (Xoconoxtle de Arriba)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0727|Rural|
+36863|Purísima de Oteros|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6749|Rural|
+36864|Ancón (La Hacienda de Ancón)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6635|Rural|
+36864|Loma Azul|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6733|Rural|
+36864|Loma de Ancón|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6734|Rural|
+36864|Granja Robles|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6689|Rural|
+36864|Las Margaritas|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6730|Rural|
+36864|La Gloria|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6709|Rural|
+36864|La Noria|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6718|Rural|
+36865|La Ordeña|Congregación|Salamanca|Guanajuato||36701|11|36701||11|027|0711|Rural|
+36865|San Lucas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6775|Rural|
+36865|Cañada de Ortega|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6639|Rural|
+36865|El Eslabón|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6654|Rural|
+36865|La Lomita|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6714|Rural|
+36865|María Gómez|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0725|Rural|
+36865|El Terrero|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6665|Rural|
+36866|Majadas de Ancón|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0722|Rural|
+36866|Barrón|Hacienda|Salamanca|Guanajuato||36701|11|36701||24|027|0716|Rural|
+36867|San Felipe de Jesús|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0732|Rural|
+36867|La Salud|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5386|Rural|
+36867|Valencia de Cerro Gordo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0721|Rural|
+36867|Santa Rita|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0731|Rural|
+36867|La Zandunga|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6728|Rural|
+36867|San Juan|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6771|Rural|
+36867|San José de la Montaña|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0730|Rural|
+36870|Loma Pelada|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0737|Rural|
+36873|El Fuerte|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6656|Rural|
+36873|Granja Verónica|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6695|Rural|
+36873|Colonia Lázaro Cárdenas|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6643|Rural|
+36873|Doña Rosa (El Chicote)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0739|Rural|
+36873|Jorge Arturo Aboytes Novoa|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6698|Rural|
+36873|La Concepción|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6704|Rural|
+36873|Oteros|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0742|Rural|
+36873|El Carmen (La Correa)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0748|Rural|
+36873|Granja Doña Rosa|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6681|Rural|
+36873|Unión de Liebres (Las Conejas)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6784|Rural|
+36873|Ex-hacienda Doña Rosa|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5353|Rural|
+36873|San José de Loma de Granados|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6769|Rural|
+36874|Cerro Blanco de Mancera|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6640|Rural|
+36874|Ejido San Juan de Razos|Ejido|Salamanca|Guanajuato||36701|11|36701||15|027|6648|Rural|
+36874|Palo Alto|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6746|Rural|
+36874|San José|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6767|Rural|
+36874|Santiaguillo de García|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0746|Rural|
+36874|San Manuel de Valderrama|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0745|Rural|
+36874|La Magdalena|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6715|Rural|
+36874|La Capilla|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0736|Rural|
+36874|Santiaguillo de Flores|Poblado comunal|Salamanca|Guanajuato||36701|11|36701||27|027|5449|Rural|
+36874|Granja María Antonieta (Granja los Soto)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6687|Rural|
+36874|Los Sotos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6743|Rural|
+36874|La Magdalena (Magdalena de Ortiz)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5351|Rural|
+36874|San José de los Duros|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0744|Rural|
+36875|Buenavista|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6637|Rural|
+36875|El Cascabel|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6651|Rural|
+36875|Familia Conejo Castro (El Tajo)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6669|Rural|
+36875|La Esperanza|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6707|Rural|
+36875|San Carlos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6763|Rural|
+36875|La Charca|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6702|Rural|
+36875|El Pirul|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6661|Rural|
+36875|Crucitas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0747|Rural|
+36875|Cuarta de Crucitas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6646|Rural|
+36875|El Progreso|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6663|Rural|
+36875|Complejo Industrial Salamanca|Zona industrial|Salamanca|Guanajuato||36701|11|36701||37|027|0004|Rural|
+36875|Ampliación San Vicente de Flores|Ampliación|Salamanca|Guanajuato||36701|11|36701||38|027|6634|Rural|
+36875|San Vicente de Flores|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6777|Rural|
+36875|El Dorado|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6653|Rural|
+36875|Loma de Granados|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6735|Rural|
+36876|Los Prietos (El Cajón)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6793|Rural|
+36877|El Centenario|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6790|Rural|
+36877|Cárdenas|Congregación|Salamanca|Guanajuato||36701|11|36701||11|027|0735|Rural|
+36877|El Fuerte|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6791|Rural|
+36877|La Lágrima|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6792|Rural|
+36878|Cerro Blanco|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0743|Rural|
+36878|La Jaulilla|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6712|Rural|
+36878|Labor de Valtierra|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0754|Rural|
+36878|Puerto de Guadalupe|Poblado comunal|Salamanca|Guanajuato||36701|11|36701||27|027|5433|Rural|
+36878|Las Antenas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6729|Rural|
+36878|Granja Salmerón|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6690|Rural|
+36878|Los Ángeles de Arriba|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6736|Rural|
+36878|Puerto de Rojas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6748|Rural|
+36878|Santo Domingo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0740|Rural|
+36878|Valtierra|Pueblo|Salamanca|Guanajuato||36701|11|36701||28|027|0757|Rural|
+36878|Ampliación la Cal|Ampliación|Salamanca|Guanajuato||36701|11|36701||38|027|6632|Rural|
+36878|Granjas la Cal|Fraccionamiento|Salamanca|Guanajuato||36701|11|36701||21|027|6676|Rural|
+36878|Buenavista de Valtierra|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0726|Rural|
+36880|Cuarta Fracción de la Peña Colorada|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6647|Rural|
+36880|Granja Ofelia|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6688|Rural|
+36880|Los Lobos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0755|Rural|
+36880|Granja la Palma|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6684|Rural|
+36880|Granja la Peña (Faustino Pérez García)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6685|Rural|
+36880|La Soledad (San Antonio Abad)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6726|Rural|
+36880|San Antonio|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6760|Rural|
+36880|La Cal|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0750|Rural|
+36880|San Joaquín|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0766|Rural|
+36880|Estación de Lobos|Estación|Salamanca|Guanajuato||36701|11|36701||16|027|6668|Rural|
+36880|Granja Cuatro de Altamira|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6680|Rural|
+36880|Granja el Monte|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6682|Rural|
+36880|Cuatro de Altamira|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0751|Rural|
+36880|Uruétaro|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0756|Rural|
+36880|Francisco Alegría|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6678|Rural|
+36880|La Peña Colorada|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6722|Rural|
+36880|Ampliación la Tinaja Dos|Ampliación|Salamanca|Guanajuato||36701|11|36701||38|027|6633|Rural|
+36880|Los Conejos (San Nicolás de Uruétaro)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6738|Rural|
+36880|La Palma|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0752|Rural|
+36880|Palo Blanco|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0770|Rural|
+36880|Callejones y Granados|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0771|Rural|
+36880|La Tinaja|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0753|Rural|
+36880|El Circuito|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0768|Rural|
+36883|Granja San José|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6692|Rural|
+36883|San José de las Adjuntas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6768|Rural|
+36883|Fracción Maravillas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6673|Rural|
+36883|Harinera|Equipamiento|Salamanca|Guanajuato||36701|11|36701||17|027|6697|Rural|
+36883|Santa Catarina|Rancho|Salamanca|Guanajuato||36701|11|36701||48|027|6756|Rural|
+36883|Santa Catarina de Conejo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6778|Rural|
+36883|Santa Catarina de Peña|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6780|Rural|
+36883|El Águila|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0005|Rural|
+36883|La Virgen|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6727|Rural|
+36883|Fracción la Virgen|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6672|Rural|
+36883|El Jericó|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6659|Rural|
+36883|Godoy|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6679|Rural|
+36883|Valtierrilla|Pueblo|Salamanca|Guanajuato||36701|11|36701||28|027|3374|Rural|
+36883|Fracción de Jericó|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6670|Rural|
+36883|Santa Catarina de Frías|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6779|Rural|
+36884|Zapote de Palomas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0733|Rural|
+36884|Aguilares|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6631|Rural|
+36884|El Socorro|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0734|Rural|
+36884|La Pequeña de Cerro Gordo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6723|Rural|
+36884|Villaverde|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6785|Rural|
+36885|Barlovento|Fraccionamiento|Salamanca|Guanajuato||36701|11|36701||21|027|6675|Urbano|
+36885|Granja Susana|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6693|Rural|
+36885|Rancho los Ramírez (Fracción el Divisador)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6751|Rural|
+36885|La Alegría|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0779|Rural|
+36885|La Esperanza|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6706|Rural|
+36885|Sociedad Cooperativa Agrícola|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6783|Rural|
+36885|Zapote de Vázquez (El Buche)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6788|Rural|
+36885|El Calabozo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0764|Rural|
+36885|Arroyo Feo (El Pitahayo)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0777|Rural|
+36885|La Herradura|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6711|Rural|
+36885|San José|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6766|Rural|
+36885|El Ciprés|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0765|Rural|
+36885|El Pitahayo|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|5138|Rural|
+36885|Rancho Uluapan (Granja Lupitas)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6757|Rural|
+36885|Zavala|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6789|Rural|
+36885|El Monte|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6660|Rural|
+36885|La Manga|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6716|Rural|
+36885|El Jerico|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6158|Rural|
+36886|San Rafael de Uruétaro|Hacienda|Salamanca|Guanajuato||36701|11|36701||24|027|0773|Rural|
+36886|Ojo de Agua (Santa Margarita de Ojo de Agua)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5415|Rural|
+36886|Las Adjuntas|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0767|Rural|
+36886|Los Vázquez|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0769|Rural|
+36886|Colonia el Cuatro de Altamira|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6641|Rural|
+36886|Comaleros|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6645|Rural|
+36886|Rivera de Guadalupe|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5350|Rural|
+36886|Granja la Manga|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6683|Rural|
+36886|La Loma de Altamira|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6713|Rural|
+36886|Los Zavala|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6745|Rural|
+36886|Puerto de Valle|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0775|Rural|
+36886|Granja Uruétaro|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6694|Rural|
+36887|Los Hernández|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0759|Rural|
+36887|Zapote de Negrete|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6787|Rural|
+36887|Bordo de los Pirules (La Pirulada)|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6636|Rural|
+36887|Fracción San Gonzalo|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6674|Rural|
+36887|Los Hernández de San Gonzalo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6740|Rural|
+36887|Segunda Ampliación Perico de Cornejo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6781|Rural|
+36887|Sotelo|Hacienda|Salamanca|Guanajuato||36701|11|36701||24|027|0780|Rural|
+36887|Granja los Negrete|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6686|Rural|
+36887|Zapote de García|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6786|Rural|
+36887|Los Teranes|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6744|Rural|
+36887|Perico de Cornejo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0774|Rural|
+36887|San Bernardo|Hacienda|Salamanca|Guanajuato||36701|11|36701||24|027|0762|Rural|
+36887|San José del Carmen|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0776|Rural|
+36887|La Galera|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|5352|Rural|
+36887|Rancho Zapote de Negrete|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6758|Rural|
+36887|Rancho San Gonzalo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6754|Rural|
+36887|Rancho San Miguel|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6755|Rural|
+36888|Puente de Guadalupe|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0761|Rural|
+36888|El Nacimiento|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0778|Rural|
+36888|Campo Sarabia|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6638|Rural|
+36888|El Vergel|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6667|Rural|
+36888|Ampliación Perico de Razo|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|5426|Rural|
+36888|Colonia Morelos (El Chiquiador)|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6644|Rural|
+36888|Colonia Jardines de Tierra Fría|Colonia|Salamanca|Guanajuato||36701|11|36701||09|027|6642|Rural|
+36888|La Esperanza|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6705|Rural|
+36888|Puente del Gato|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6747|Rural|
+36888|Rancho la Soledad|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6750|Rural|
+36888|Rancho Nuevo|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6752|Rural|
+36888|San Martín|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|6776|Rural|
+36888|Perico de Razos|Ranchería|Salamanca|Guanajuato||36701|11|36701||29|027|0760|Rural|

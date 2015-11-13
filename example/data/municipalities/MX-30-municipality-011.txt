@@ -1,0 +1,71 @@
+95250|Moral y Mosquitero|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3266|Rural|
+95250|Infonavit|Unidad habitacional|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||31|011|4531|Rural|
+95250|Rincón de la Palma|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3269|Rural|
+95253|Monte Alto|Ranchería|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||29|011|7099|Rural|
+95253|Ciénega del Sur|Ranchería|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||29|011|3272|Rural|
+95253|Punta de Arenas|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3268|Rural|
+95253|Buena Vista|Ranchería|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||29|011|5717|Rural|
+95258|Costa de la Palma|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3264|Rural|
+95259|Los Medanos|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3265|Rural|
+95259|Arbolillo|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3263|Rural|
+95259|Buen País|Pueblo|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||28|011|5443|Rural|
+95260|Viveros|Colonia|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||09|011|4605|Rural|
+95260|ISSFAM|Unidad habitacional|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||31|011|4534|Rural|
+95261|Salinas|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3270|Rural|
+95261|Camaronera|Ranchería|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||29|011|5718|Rural|
+95261|El Nanchal|Ranchería|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||29|011|3267|Rural|
+95263|La Aguada|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|7152|Rural|
+95263|El Martillo|Rancho|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||48|011|0001|Rural|
+95263|Banus|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||21|011|7172|Urbano|
+95263|El Zapote|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3274|Rural|
+95263|La Piedra|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3278|Rural|
+95264|Lomas de la Rioja|Condominio|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||10|011|0002|Rural|
+95264|Cormorán|Condominio|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||10|011|5700|Rural|
+95264|Playa de la Libertad|Colonia|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||09|011|5415|Rural|
+95264|Paraíso del Estero (La Burbuja)|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|5704|Rural|
+95264|Playas del Conchal|Colonia|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||09|011|5397|Rural|
+95264|Rincón del Conchal|Unidad habitacional|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||31|011|5412|Rural|
+95264|Vista Bella|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|5703|Rural|
+95264|Residencial Playa Dorada|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|7318|Urbano|
+95264|El Conchal|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|5396|Rural|
+95264|Isla del Amor|Congregación|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||11|011|5701|Rural|
+95264|El Cuatro|Congregación|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||11|011|6047|Rural|
+95264|Lomas Residencial|Residencial|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||30|011|5791|Urbano|
+95264|Lomas del Sol|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|6910|Rural|
+95264|Lomas Del Estero|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|5705|Rural|
+95264|Villa Rica [Clud de Golf]|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||21|011|5702|Rural|
+95264|La Matoza (Acapulquito)|Congregación|Alvarado|Veracruz de Ignacio de la Llave||94292|30|94292||11|011|5706|Rural|
+95265|El Bayo|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3279|Rural|
+95265|Paso Salinas|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|6917|Rural|
+95265|Las Barrancas|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|6915|Rural|
+95265|Punta los Chivos|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|6916|Rural|
+95266|Real Mandinga|Fraccionamiento|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||21|011|7937|Rural|
+95266|Mandinga de Agua|Pueblo|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||28|011|6914|Rural|
+95268|Mandinga y Cardón|Congregación|Alvarado|Veracruz de Ignacio de la Llave||95271|30|95271||11|011|3275|Rural|
+95269|Heroica Anton Lizardo|Zona federal|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||34|011|3277|Rural|
+95269|Anton Lizardo|Pueblo|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||28|011|3273|Rural|
+95269|Heroica Escuela Naval|Zona federal|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||34|011|4533|Rural|
+95269|Instituto Oceanográfico Del Golfo y Mar Caribe|Gran usuario|Alvarado|Veracruz de Ignacio de la Llave||95262|30|95262||22|011|4795|Rural|
+95270|Alvarado Centro|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|3262|Urbano|34
+95272|Las Escolleras|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0894|Urbano|34
+95272|El Guayabal|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|7618|Urbano|34
+95272|Paso Nacional|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|4701|Urbano|34
+95274|La Fuente|Barrio|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||02|011|0863|Urbano|34
+95275|21 de Abril|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|7616|Urbano|34
+95275|El Pantanal|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|7617|Urbano|34
+95275|Las Aneas|Barrio|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||02|011|0886|Urbano|34
+95276|Los Framboyanes|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0940|Urbano|34
+95276|Los Aguacates|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0931|Urbano|34
+95276|Magisterial|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0956|Urbano|34
+95276|Villas de Alvarado|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|5720|Urbano|34
+95276|INFONAVIT Adolfo López Mateos|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|4698|Urbano|34
+95276|Marigalante|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|7615|Urbano|34
+95276|Vista Hermosa|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|1187|Urbano|34
+95276|Hogares del Pescador|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|5719|Urbano|34
+95277|Luz Del Carmen|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0708|Urbano|34
+95277|Santa Teresa|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|7613|Urbano|34
+95277|La Trocha|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0883|Urbano|34
+95277|Valente Cruz|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|1148|Urbano|34
+95277|Barrio San Joaquín|Barrio|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||02|011|4700|Urbano|34
+95278|La Playa|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|7614|Urbano|34
+95278|Lomas del Rosario|Colonia|Alvarado|Veracruz de Ignacio de la Llave|Alvarado|95271|30|95271||09|011|0925|Urbano|34

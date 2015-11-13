@@ -1,0 +1,82 @@
+62760|Centro|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|0470|Semiurbano|
+62760|El Zapote|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1748|Semiurbano|
+62763|Loma Sur|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1234|Rural|
+62763|Mirador|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1729|Semiurbano|
+62763|San José de las Cumbres|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1233|Rural|
+62763|Lomas de Trujillo|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1231|Rural|
+62763|Lomas del Copal|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1232|Rural|
+62763|Ampliación 28 de Agosto|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1731|Semiurbano|
+62763|3 de Mayo|Pueblo|Emiliano Zapata|Morelos||62761|17|62761||28|008|0471|Semiurbano|
+62763|Ampliación 3 de Mayo|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1728|Urbano|
+62763|28 de Agosto|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1730|Semiurbano|
+62764|Conjunto Urbano la Misión|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1740|Rural|
+62764|El Guante|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1238|Rural|
+62764|El Aguaje|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1240|Rural|
+62764|Rinconada la Misión|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1738|Rural|
+62764|San Francisco|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1242|Rural|
+62764|El Rascadero|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1241|Rural|
+62764|Gerardo Pérez|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1734|Rural|
+62764|Las Rocas|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1739|Rural|
+62764|Altavista|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|0001|Urbano|
+62764|14 de Febrero|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1235|Rural|
+62764|24 de Abril|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1732|Rural|
+62764|Conjunto Arboleda|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1733|Semiurbano|
+62764|Condominios Capiri|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1736|Rural|
+62764|Rancho San Pedro|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1741|Rural|
+62764|Calera Chica|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1237|Rural|
+62764|El Calvario|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1239|Rural|
+62764|Las Fuentes|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1737|Rural|
+62764|El Capiri|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1236|Rural|
+62765|Guadalupe de las Arenas|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1244|Rural|
+62765|Ampliación Prohogar|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1735|Semiurbano|
+62765|Los Agaves|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1745|Semiurbano|
+62765|Emiliano Zapata|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1747|Semiurbano|
+62765|Condominio Ojo de Agua|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1742|Semiurbano|
+62765|El Pedregal|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1245|Rural|
+62765|Prohogar|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|0473|Urbano|
+62765|Benito Juárez|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|0474|Urbano|
+62765|Manantiales|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1744|Semiurbano|
+62765|Palo Escrito|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1746|Semiurbano|
+62765|El Capulín|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1243|Rural|
+62766|El Órgano|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1251|Rural|
+62766|Las Gaviotas|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1750|Rural|
+62766|Condominio el Ámate|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1754|Rural|
+62766|Estación|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1246|Rural|
+62766|Villa Morelos 2a Secc.|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1253|Rural|
+62766|Paseos del Río|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1751|Rural|
+62766|Modesto Rangel|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1250|Rural|
+62766|El Amate|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1247|Rural|
+62766|Paraíso Country Club|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1752|Rural|
+62766|Villa Morelos 3a Sección|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1756|Rural|
+62766|Campo Nuevo|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1755|Rural|
+62766|El Vigilante|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1248|Rural|
+62766|El Tomatal|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1749|Rural|
+62766|Ampliación el Órgano|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1753|Rural|
+62766|Campo Nuevo|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1249|Rural|
+62766|Villa Morelos|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1252|Rural|
+62767|La Mina|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1259|Rural|
+62767|Tezoyuca|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1261|Rural|
+62767|Rinconada de Tezoyuca|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1761|Rural|
+62767|Tezoyuca|Pueblo|Emiliano Zapata|Morelos||62761|17|62761||28|008|0475|Rural|
+62767|Villas de Tezoyuca|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1255|Rural|
+62767|Los Sabinos|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1763|Rural|
+62767|La flores|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1765|Rural|
+62767|Real de Tezoyuca|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1260|Rural|
+62767|Capulín|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1263|Rural|
+62767|Amatitlán|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1757|Rural|
+62767|Villas del Seminario|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1758|Rural|
+62767|Villas del Portezuelo|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1759|Rural|
+62767|Geo Villas Colorines|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1760|Rural|
+62767|Tezoyuca II|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1764|Rural|
+62767|Cañaveral|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1768|Rural|
+62767|Tesoros de Tezoyuca|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1766|Rural|
+62767|Ampliación Amatitlán|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1256|Rural|
+62767|Cuauhtémoc|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1257|Rural|
+62767|Jardines de Tezoyuca|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1258|Rural|
+62767|Las Garzas I, II, III Y IV|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1767|Rural|
+62767|El Castillo|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1769|Rural|
+62767|Loma Bonita|Colonia|Emiliano Zapata|Morelos||62761|17|62761||09|008|1254|Rural|
+62767|Paseos de Tezoyuca|Fraccionamiento|Emiliano Zapata|Morelos||62761|17|62761||21|008|1762|Rural|
+62768|Tetecalita|Pueblo|Emiliano Zapata|Morelos||62761|17|62761||28|008|0477|Rural|
+62768|Tepetzingo|Pueblo|Emiliano Zapata|Morelos||62761|17|62761||28|008|0476|Rural|
+62768|Tepetzingo|Unidad habitacional|Emiliano Zapata|Morelos||62761|17|62761||31|008|1262|Rural|

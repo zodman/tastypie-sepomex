@@ -1,0 +1,40 @@
+73980|Cuyoaco|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1393|Rural|
+73982|Santiago Xonacatlán|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1394|Rural|
+73982|Cuicoya|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7713|Rural|
+73982|El Puerto|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7688|Rural|
+73982|San Isidro Xicalahuata|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7704|Rural|
+73982|Independencia|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7709|Rural|
+73982|Tentzoncal|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7695|Rural|
+73982|El Calvario|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7697|Rural|
+73982|San Antonio (Calderona)|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7694|Rural|
+73982|Tetepongo|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7701|Rural|
+73983|Temextla|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1397|Rural|
+73983|Huitziltepec|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7710|Rural|
+73983|Ignacio Zaragoza|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1396|Rural|
+73983|La Gloria|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7711|Rural|
+73983|Las Cuevillas|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7714|Rural|
+73983|Casa Blanca|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7696|Rural|
+73983|San José del Puente y Buenavista|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7692|Rural|
+73983|San Nicolás Temextla|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7700|Rural|
+73983|Matlahuacala|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7708|Rural|
+73985|La Rosa (Rancho Sacramento)|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7706|Rural|
+73985|Buenavista Guerrero|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7715|Rural|
+73985|Morelos|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7707|Rural|
+73985|Francisco I. Madero|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1398|Rural|
+73985|El Valle|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7698|Rural|
+73985|Los Potreros|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7689|Rural|
+73985|Guadalupe Victoria|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1399|Rural|
+73986|San Ignacio Xixipexco|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7699|Rural|
+73986|La Trinidad|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1400|Rural|
+73986|San Gabriel|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7705|Rural|
+73986|Texcal|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1401|Rural|
+73986|Emiliano Zapata (Chilapa)|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7712|Rural|
+73986|San Sebastián Pochintoc|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7703|Rural|
+73987|Las Trancas|Colonia|Cuyoaco|Puebla||73781|21|73781||09|044|7690|Rural|
+73987|Concepción|Exhacienda|Cuyoaco|Puebla||73781|21|73781||18|044|1402|Rural|
+73987|Santa Rosa|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|7702|Rural|
+73989|San Miguel Barrientos|Hacienda|Cuyoaco|Puebla||73781|21|73781||24|044|1406|Rural|
+73989|Allende|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1403|Rural|
+73989|Zautiotla (San Pedro)|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7691|Rural|
+73989|San Andrés Payuca|Pueblo|Cuyoaco|Puebla||73781|21|73781||28|044|1405|Rural|
+73989|San Andrés las Fronteras (N. C. de P. Ejidal)|Ranchería|Cuyoaco|Puebla||73781|21|73781||29|044|7693|Rural|

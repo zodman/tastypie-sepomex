@@ -1,0 +1,35 @@
+59160|Jardín|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0009|Urbano|
+59160|El Dorado|Fraccionamiento|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||21|103|0006|Urbano|
+59160|Venustiano Carranza|Pueblo|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||28|103|1082|Urbano|
+59160|Lázaro Cárdenas|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0011|Urbano|
+59160|Niños Héroes|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0013|Urbano|
+59160|El Yonque|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0008|Urbano|
+59160|La Villa|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0010|Urbano|
+59160|Primavera|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0014|Urbano|
+59160|Chinches Bravas|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0003|Urbano|
+59160|Del Valle|Fraccionamiento|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||21|103|0004|Urbano|
+59160|El Monte|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0007|Urbano|
+59160|El Arco|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0005|Urbano|
+59160|México|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0012|Urbano|
+59163|Fátima (La Palma)|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0015|Urbano|
+59163|Maguellera|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0017|Urbano|
+59163|La Manguita (La Palma)|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0016|Urbano|
+59163|La Palma|Pueblo|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||28|103|1083|Urbano|
+59164|El Brazo|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0001|Rural|
+59164|El Vallado Blanco|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0026|Rural|
+59164|La Sábila|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|1086|Rural|
+59165|Pueblo Viejo|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|1087|Rural|
+59165|La Barranca (Colonia Francisco Romero)|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0027|Rural|
+59165|El Palomo|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0025|Rural|
+59167|Cerro la Isla|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0022|Rural|
+59167|Cerrito de Pescadores (El Tepetate)|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0021|Rural|
+59167|Pedro Romero Número Cuatro|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0023|Rural|
+59168|Cerrito de los Puercos|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0020|Rural|
+59168|Los Tomines|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0002|Rural|
+59168|Ojo de Agua|Pueblo|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||28|103|1084|Rural|
+59168|Casa Blanca|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0019|Rural|
+59170|Cumuatillo|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|1089|Urbano|
+59170|Jardín Cumuatillo|Colonia|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||09|103|0018|Urbano|
+59173|El Fortín|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|1090|Rural|
+59173|Cuatro Esquinas|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|0024|Rural|
+59175|La Magdalena|Ranchería|Venustiano Carranza|Michoacán de Ocampo||59166|16|59166||29|103|1091|Rural|

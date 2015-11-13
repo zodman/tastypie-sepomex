@@ -1,0 +1,24 @@
+56970|San Jacinto|Barrio|Atlautla|México||56971|15|56971||02|015|4522|Rural|
+56973|La Natividad|Barrio|Atlautla|México||56971|15|56971||02|015|9357|Urbano|
+56973|San Pedro|Barrio|Atlautla|México||56971|15|56971||02|015|9356|Urbano|
+56973|Santo Domingo|Barrio|Atlautla|México||56971|15|56971||02|015|8960|Urbano|
+56973|San Lorenzo|Barrio|Atlautla|México||56971|15|56971||02|015|9355|Urbano|
+56974|San Bartolo|Barrio|Atlautla|México||56971|15|56971||02|015|9352|Rural|
+56974|San Martín|Barrio|Atlautla|México||56971|15|56971||02|015|9353|Rural|
+56974|Santiago|Barrio|Atlautla|México||56971|15|56971||02|015|9349|Rural|
+56974|San Frnacisco|Barrio|Atlautla|México||56971|15|56971||02|015|9354|Rural|
+56975|San Juan|Barrio|Atlautla|México||56971|15|56971||02|015|4524|Rural|
+56975|Ixtotempatl|Ranchería|Atlautla|México||56971|15|56971||29|015|9345|Rural|
+56975|San Martín|Barrio|Atlautla|México||56971|15|56971||02|015|9351|Rural|
+56975|Asunción|Barrio|Atlautla|México||56971|15|56971||02|015|9359|Rural|
+56975|San Felipe|Barrio|Atlautla|México||56971|15|56971||02|015|9350|Rural|
+56976|San Andrés Tlalamac|Pueblo|Atlautla|México||56971|15|56971||28|015|4523|Rural|
+56979|Justino Rivera Islas (Paraje Tepichilco)|Ranchería|Atlautla|México||56971|15|56971||29|015|9346|Rural|
+56980|San Juan Tehuixtitlán Centro|Colonia|Atlautla|México||56971|15|56971||09|015|4527|Urbano|
+56982|Las Delicias|Fraccionamiento|Atlautla|México||56971|15|56971||21|015|4528|Rural|
+56983|Nexapa|Colonia|Atlautla|México||56971|15|56971||09|015|0002|Rural|
+56983|Del Cornejal|Barrio|Atlautla|México||56971|15|56971||02|015|9348|Urbano|
+56983|Popo Park|Fraccionamiento|Atlautla|México||56971|15|56971||21|015|4529|Rural|
+56984|Guadalupe|Barrio|Atlautla|México||56971|15|56971||02|015|0001|Urbano|
+56984|El mirador|Barrio|Atlautla|México||56971|15|56971||02|015|9358|Urbano|
+56984|El Arenal|Barrio|Atlautla|México||56971|15|56971||02|015|9347|Urbano|

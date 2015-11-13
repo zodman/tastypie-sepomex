@@ -1,0 +1,39 @@
+42760|Presas|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0770|Rural|
+42760|San Isidro Presas|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5447|Rural|
+42760|Atengo|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0769|Rural|
+42760|Tezontepec de Aldama Centro|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|0772|Urbano|
+42763|La Barranca|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5443|Urbano|
+42763|Nuevo Panuaya|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5445|Urbano|
+42763|La Loma|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5439|Urbano|
+42763|Mangas|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5440|Urbano|
+42763|La Peñita|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5444|Urbano|
+42763|San Isidro el Tanque|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5446|Urbano|
+42763|Panuaya|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5441|Urbano|
+42763|San Juan|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5442|Rural|
+42764|El Tinaco|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|0773|Rural|
+42765|La Cruz|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0774|Rural|
+42765|Las Cruces|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5456|Rural|
+42766|Tenango|Poblado comunal|Tezontepec de Aldama|Hidalgo||42701|13|42701||27|067|5463|Rural|
+42766|Santiago Acayutlán|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0771|Rural|
+42766|Los Manantiales|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5457|Rural|
+42767|La Chiripa|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5461|Rural|
+42767|La Palma|Barrio|Tezontepec de Aldama|Hidalgo||42701|13|42701||02|067|0775|Rural|
+42767|Santa María Batha|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0776|Rural|
+42768|Zanja Colorada|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5465|Rural|
+42768|Cinco de Febrero|Poblado comunal|Tezontepec de Aldama|Hidalgo||42701|13|42701||27|067|5449|Rural|
+42770|San Gabriel|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0777|Rural|
+42771|Huitel|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0778|Rural|
+42772|San Juan Achichilco|Pueblo|Tezontepec de Aldama|Hidalgo||42701|13|42701||28|067|0779|Urbano|
+42773|Binola|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5438|Urbano|
+42773|Vista Hermosa|Colonia|Tezontepec de Aldama|Hidalgo||42701|13|42701||09|067|5437|Urbano|
+42774|El Sitio|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5460|Rural|
+42774|El Mogote|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5452|Rural|
+42774|Vicente Zuñiga Bernal|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5464|Rural|
+42775|Juana Baltazar Bautista|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5455|Rural|
+42776|San Isidro Carrasco|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5462|Rural|
+42776|El Chamizal|Poblado comunal|Tezontepec de Aldama|Hidalgo||42701|13|42701||27|067|5450|Rural|
+42777|Monte Alegre (Carranza)|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5459|Rural|
+42777|El Solís|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5454|Rural|
+42777|Cerro del Xicuco (La Cantera)|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5448|Rural|
+42777|El Gavillero de Barrera|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5451|Rural|
+42777|Manantiales de Cerro Colorado|Ranchería|Tezontepec de Aldama|Hidalgo||42701|13|42701||29|067|5458|Rural|

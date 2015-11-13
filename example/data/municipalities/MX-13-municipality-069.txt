@@ -1,0 +1,86 @@
+43800|Tizayuca Centro|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1907|Urbano|10
+43802|El Pedregal|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1044|Urbano|10
+43802|Deportiva|Unidad habitacional|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||31|069|2385|Urbano|10
+43802|Hacienda las Torres II|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2874|Urbano|10
+43802|UAEH|Equipamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||17|069|2804|Urbano|10
+43802|Hacienda las Torres I|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2873|Urbano|10
+43802|Hacienda las Torres III|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2875|Urbano|10
+43802|Ciudad de los Niños (Rosas Rojas)|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|2376|Urbano|10
+43802|Arboledas|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|2377|Urbano|10
+43802|San Jerónimo|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2384|Urbano|10
+43802|Unidad Deportiva|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2803|Urbano|10
+43803|Rancho la Purísima|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2371|Urbano|10
+43803|San José|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|1063|Urbano|10
+43803|Los Almendros|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|6160|Urbano|10
+43803|La Cañada|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2241|Urbano|10
+43803|Cuztitla|Barrio|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||02|069|0924|Urbano|10
+43803|Nacozari|Barrio|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||02|069|1026|Urbano|10
+43803|Pedregal de Tizayuca|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|0003|Urbano|10
+43803|Jardines de Tizayuca II|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2809|Urbano|10
+43803|Ampliación Residencial San Ángel|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2876|Urbano|10
+43803|San Antonio|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1060|Urbano|10
+43803|San Ángel|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2372|Urbano|10
+43803|Jardines de Tizayuca I|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|6157|Urbano|10
+43804|Rojo Gómez|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1057|Urbano|10
+43804|C.T.M.|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|0923|Urbano|10
+43804|Tizayuca|Zona industrial|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||37|069|2092|Urbano|10
+43804|Privada Diamante|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2388|Urbano|10
+43804|Tepeyac|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1078|Urbano|10
+43804|Cuenca Lechera|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|2091|Urbano|10
+43806|Nuevo Tizayuca|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1035|Urbano|10
+43806|Tizayuca|Unidad habitacional|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||31|069|2239|Urbano|10
+43806|Villa Magna|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|0002|Urbano|10
+43806|Ampliación Lázaro Cárdenas|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1002|Urbano|10
+43806|Fuentes del Valle|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|2792|Urbano|10
+43806|Las Campanas|Unidad habitacional|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||31|069|0997|Urbano|10
+43806|Lázaro Cárdenas|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|1001|Urbano|10
+43806|Florencia|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|0007|Urbano|10
+43806|City|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|2383|Urbano|10
+43806|Geo Villas|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|0999|Urbano|10
+43807|El Arenal|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|0938|Urbano|10
+43807|Joyas de Tizayuca|Colonia|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||09|069|2238|Urbano|10
+43807|La Pradera|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2391|Urbano|10
+43807|El Sitio|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|0951|Urbano|10
+43807|Lomas de Tizayuca|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2374|Urbano|10
+43807|Campestre|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2237|Urbano|10
+43808|Huicalco|Barrio|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||02|069|2240|Urbano|10
+43808|Atempa|Barrio|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||02|069|0903|Urbano|10
+43808|Quinta Esperanza|Fraccionamiento|Tizayuca|Hidalgo|Tizayuca|43801|13|43801||21|069|2373|Urbano|10
+43810|Rancho Don Antonio|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|2365|Urbano|
+43810|Ampliación Emiliano Zapata|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2244|Urbano|
+43810|Don Carlos 2da Sección|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|6427|Urbano|
+43810|Emiliano Zapata|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2243|Urbano|
+43810|Don Carlos|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|6426|Urbano|
+43810|La Gloria|Poblado comunal|Tizayuca|Hidalgo||43801|13|43801||27|069|0001|Rural|
+43810|Hacienda de Guadalupe|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|0005|Urbano|
+43810|Las Plazas|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|1909|Urbano|
+43810|El Cid|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2090|Urbano|
+43810|Ex-Presidentes Municipales|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|2245|Urbano|
+43810|Loma Bonita|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2370|Urbano|
+43810|Villa los Milagros|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|2389|Urbano|
+43815|Felipe Reyes|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2247|Urbano|
+43815|El Paraíso|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2369|Urbano|
+43815|Bosques de Ibiza|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|0006|Rural|
+43815|Haciendas de Tizayuca|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|2273|Urbano|
+43815|Paseos del Pedregal|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|6430|Urbano|
+43815|Ampliación el Carmen|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2246|Urbano|
+43815|Los Pinos|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2368|Urbano|
+43816|Fuentes de Tizayuca|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|6425|Urbano|
+43816|Los Héroes Tizayuca|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|6424|Urbano|
+43820|Huitzila|Pueblo|Tizayuca|Hidalgo||43801|13|43801||28|069|1911|Urbano|
+43820|La Joya|Colonia|Tizayuca|Hidalgo||43801|13|43801||09|069|2375|Rural|
+43823|Marbella|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|0004|Urbano|
+43823|Vista Hermosa|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|6159|Rural|
+43823|Tepojaco|Barrio|Tizayuca|Hidalgo||43801|13|43801||02|069|1910|Urbano|
+43824|María Candelaria|Ranchería|Tizayuca|Hidalgo||43801|13|43801||29|069|2381|Rural|
+43824|El Tejocote|Ranchería|Tizayuca|Hidalgo||43801|13|43801||29|069|5639|Rural|
+43824|El Manantial|Fraccionamiento|Tizayuca|Hidalgo||43801|13|43801||21|069|2382|Rural|
+43824|El Chopo|Pueblo|Tizayuca|Hidalgo||43801|13|43801||28|069|2251|Rural|
+43824|La Ilusión (La Casa del Manantial)|Ranchería|Tizayuca|Hidalgo||43801|13|43801||29|069|5640|Rural|
+43824|Mogotes|Pueblo|Tizayuca|Hidalgo||43801|13|43801||28|069|2250|Rural|
+43824|La Posta|Pueblo|Tizayuca|Hidalgo||43801|13|43801||28|069|2252|Rural|
+43825|El Ranchito|Ranchería|Tizayuca|Hidalgo||43801|13|43801||29|069|2366|Rural|
+43825|Olmos|Pueblo|Tizayuca|Hidalgo||43801|13|43801||28|069|2248|Rural|
+43825|Olmos|Ampliación|Tizayuca|Hidalgo||43801|13|43801||38|069|2249|Semiurbano|
+43826|San Isidro|Ranchería|Tizayuca|Hidalgo||43801|13|43801||29|069|5641|Rural|
+43826|El Chopo|Ranchería|Tizayuca|Hidalgo||43801|13|43801||29|069|5638|Rural|

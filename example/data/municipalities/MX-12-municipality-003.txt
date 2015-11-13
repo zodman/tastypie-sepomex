@@ -1,0 +1,43 @@
+40730|Barrio Nuevo|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|1088|Rural|
+40730|Cruz Verde|Colonia|Ajuchitlán del Progreso|Guerrero||40738|12|40738||09|003|1182|Rural|
+40730|La Unión|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|1401|Rural|
+40730|Nopalar|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|1517|Rural|
+40730|Santacruz|Colonia|Ajuchitlán del Progreso|Guerrero||40738|12|40738||09|003|1651|Rural|
+40730|La Laja|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2525|Rural|
+40730|Santo Espíritu|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|1654|Rural|
+40730|Barrio San Nicolás|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|4549|Rural|
+40730|Ajuchitlán del Progreso|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2524|Rural|
+40730|Santa Rosa de Lima|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2528|Rural|
+40730|Las Anonitas Agua Escondida|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2526|Rural|
+40730|Las Garzas|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2527|Rural|
+40730|Nuevo Nopalan|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|3990|Rural|
+40731|Changata|Pueblo|Ajuchitlán del Progreso|Guerrero||40707|12|40707||28|003|2529|Rural|
+40732|Cantón de Guerrero|Ranchería|Ajuchitlán del Progreso|Guerrero||40601|12|40601||29|003|2530|Rural|
+40732|Corral Falso|Pueblo|Ajuchitlán del Progreso|Guerrero||40601|12|40601||28|003|2531|Rural|
+40733|Villa Nicolás Bravo|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2532|Rural|
+40734|San Bartolo|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2534|Rural|
+40734|Las Juntas|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|2533|Rural|
+40734|San Cristóbal|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2535|Rural|
+40735|San Jerónimo El Grande|Ranchería|Ajuchitlán del Progreso|Guerrero||40601|12|40601||29|003|2536|Rural|
+40736|San Lorenzo|Barrio|Ajuchitlán del Progreso|Guerrero||40738|12|40738||02|003|2537|Rural|
+40737|Santa Ana Águila|Pueblo|Ajuchitlán del Progreso|Guerrero||40501|12|40501||28|003|2538|Rural|
+40740|Nanche Colorado|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2541|Rural|
+40740|El Aguaje|Hacienda|Ajuchitlán del Progreso|Guerrero||40738|12|40738||24|003|2540|Rural|
+40741|Ixcapuzalco|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2542|Rural|
+40741|San Pablo Oriente|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2543|Rural|
+40744|El Zacahuaje|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2544|Rural|
+40745|San Mateo|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2545|Rural|
+40746|Ayavitle|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2546|Rural|
+40747|Guayatenco|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|2547|Rural|
+40747|San Gabriel|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|2548|Rural|
+40747|Los Fabianes|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|4662|Rural|
+40747|San Marcos|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2549|Rural|
+40748|San Antonio de los Libres|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2550|Rural|
+40750|El Reparo|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2551|Rural|
+40750|La Comunidad|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2552|Rural|
+40750|Puerto del Coco|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|2553|Rural|
+40751|Santa Fe|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|2554|Rural|
+40754|Las Piñas|Ranchería|Ajuchitlán del Progreso|Guerrero||40738|12|40738||29|003|2555|Rural|
+40754|San Pablo Sur|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2556|Rural|
+40754|San Pedro|Campamento|Ajuchitlán del Progreso|Guerrero||40738|12|40738||04|003|2557|Rural|
+40758|Puerto Grande|Pueblo|Ajuchitlán del Progreso|Guerrero||40738|12|40738||28|003|2558|Rural|

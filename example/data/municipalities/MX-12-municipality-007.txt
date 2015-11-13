@@ -1,0 +1,79 @@
+40500|Deportiva|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|1206|Semiurbano|05
+40500|El Calvario|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|1236|Semiurbano|05
+40500|Héroes Surianos|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3612|Semiurbano|05
+40500|Loma Bonita|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|4659|Urbano|05
+40500|Reforma Lázaro Cárdenas|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3804|Semiurbano|05
+40500|Adrés Manuel López Obrador|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|0001|Urbano|05
+40500|Progreso|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3609|Semiurbano|05
+40500|Invisur|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3805|Semiurbano|05
+40500|Comisión Río Balsas|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|4533|Urbano|05
+40500|Lindavista|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3601|Semiurbano|05
+40500|Juan N Alvarez|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3603|Semiurbano|05
+40500|Emiliano Zapata|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3607|Semiurbano|05
+40500|Cueramera|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3608|Semiurbano|05
+40500|Vista Hermosa|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3611|Semiurbano|05
+40500|Ejidal|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3606|Semiurbano|05
+40500|Las Minitas|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|1423|Semiurbano|05
+40500|Cereso|Gran usuario|Arcelia|Guerrero|Arcelia|40501|12|40501||22|007|2237|Rural|05
+40500|Jardines|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3604|Semiurbano|05
+40500|Nerey|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3610|Semiurbano|05
+40500|Emperador Cuauhtémoc|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|3803|Semiurbano|05
+40500|Las Palmitas|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|4667|Urbano|05
+40500|Arcelia Centro|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|1131|Semiurbano|05
+40500|Anselmo González|Colonia|Arcelia|Guerrero|Arcelia|40501|12|40501||09|007|4498|Urbano|05
+40502|Palos Altos|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2242|Rural|
+40502|Tlachichilpa|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2243|Rural|
+40502|Arroyo Seco|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2241|Rural|
+40503|El Ushe|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2240|Rural|
+40503|El Naranjo|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2244|Rural|
+40503|Miahuatepec|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2246|Rural|
+40503|Los Brasiles|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2245|Rural|
+40503|Almoloya|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2239|Rural|
+40505|La Concordia|Ranchería|Arcelia|Guerrero||40401|12|40401||29|007|2259|Rural|
+40506|Palapa|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2251|Rural|
+40506|El Veladero|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2249|Rural|
+40506|Ojo de Agua|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2250|Rural|
+40507|Ahuatepec|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2252|Rural|
+40507|Potrerillo|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2253|Rural|
+40508|Cerro Verde|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2254|Rural|
+40508|El Corindón|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2255|Rural|
+40509|Guadalupe Parota|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2258|Rural|
+40509|El Tamarindo|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2257|Rural|
+40509|Texcaltitlán|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2260|Rural|
+40509|Cacahuananche|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2256|Rural|
+40510|Vista Hermosa|Ranchería|Arcelia|Guerrero||40001|12|40001||29|007|2264|Rural|
+40510|Copaltepec|Ranchería|Arcelia|Guerrero||40001|12|40001||29|007|2261|Rural|
+40510|Mumuxtitlán|Ranchería|Arcelia|Guerrero||40001|12|40001||29|007|2263|Rural|
+40510|Ixcatepec|Pueblo|Arcelia|Guerrero||40001|12|40001||28|007|2262|Rural|
+40511|Piedra Grande|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2268|Rural|
+40511|El Aguacate|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2266|Rural|
+40511|Zopilotepec|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2270|Rural|
+40511|Pozo Zarco|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2269|Rural|
+40511|El Amacuahuitl|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2267|Rural|
+40512|Tulatengo|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2275|Rural|
+40512|La Cofradía|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2238|Rural|
+40512|Casahuate|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2271|Rural|
+40512|El Varal|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2273|Rural|
+40512|El Brinco|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2272|Rural|
+40512|Las Parotas|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2274|Rural|
+40513|Nicolás Bravo|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2277|Rural|
+40513|San Miguel Lindavista|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2278|Rural|
+40513|Azizintla|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2276|Rural|
+40514|El Aviluz|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2279|Rural|
+40514|El Escondido|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2280|Rural|
+40515|Los Cajones|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2281|Rural|
+40515|Nuevo León|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2282|Rural|
+40515|Tierra Blanca|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2283|Rural|
+40515|Xochitla|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2284|Rural|
+40516|San Miguelito|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2285|Rural|
+40517|Campo Morado|Pueblo|Arcelia|Guerrero||40401|12|40401||28|007|2265|Rural|
+40518|El Guayabo|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2286|Rural|
+40520|Temixco|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2287|Rural|
+40521|Achotla|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2288|Rural|
+40522|El Progreso|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2289|Rural|
+40522|Valle Galeana|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2290|Rural|
+40523|Santo Tomas|Pueblo|Arcelia|Guerrero||40501|12|40501||28|007|2291|Rural|
+40528|El Trapichal|Ranchería|Arcelia|Guerrero||40501|12|40501||29|007|2292|Rural|
+40528|Xochicalco|Campamento|Arcelia|Guerrero||40501|12|40501||04|007|2293|Rural|
+40529|Los Limones|Pueblo|Arcelia|Guerrero||40001|12|40001||28|007|2294|Rural|
+40529|San Rafael|Campamento|Arcelia|Guerrero||40001|12|40001||04|007|2295|Rural|

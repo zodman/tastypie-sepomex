@@ -1,0 +1,129 @@
+59300|Centro|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1136|Urbano|05
+59310|Nuevo Amanecer|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3765|Urbano|05
+59310|Ciudad del Sol|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1138|Urbano|05
+59310|Nueva Lázaro Cárdenas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1140|Urbano|05
+59310|Los Laureles|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1139|Urbano|05
+59310|Ejido Potrerillos|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3766|Urbano|05
+59319|J. Jesús Romero Flores INFONAVIT|Unidad habitacional|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||31|069|1141|Urbano|05
+59319|La Escondida|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1142|Urbano|05
+59320|Río Grande|Pueblo|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||28|069|1144|Rural|05
+59320|Guanajuatillo|Pueblo|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||28|069|1143|Rural|05
+59330|Benito Juárez|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1145|Urbano|05
+59330|José Ma. Morelos|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3767|Urbano|05
+59330|El Malecón INFONAVIT|Unidad habitacional|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||31|069|1146|Urbano|05
+59330|San Rafael|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1147|Urbano|05
+59330|Magisterio|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3481|Urbano|05
+59334|Arroyo Hondo|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|1148|Urbano|05
+59334|Cerca Prieta|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3771|Urbano|05
+59335|Arroyo Hondo|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1149|Urbano|05
+59335|La Piedad Cavadas FOVISSSTE|Unidad habitacional|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||31|069|1150|Urbano|05
+59335|Rivera del Sol|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3482|Urbano|05
+59340|México|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1152|Urbano|05
+59340|3 Estrellas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1153|Urbano|05
+59349|Dr. Miguel Silva INFONAVIT|Unidad habitacional|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||31|069|1154|Urbano|05
+59350|Banquetes|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1155|Urbano|05
+59350|El Pitallito|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3424|Urbano|05
+59350|Pedregal San José|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|4952|Urbano|05
+59350|Campestre|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3483|Urbano|05
+59350|Nueva Banquetes|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1156|Urbano|05
+59359|El Santuario|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1157|Urbano|05
+59360|El Cuitzillo|Pueblo|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||28|069|1158|Urbano|05
+59363|Jardines del Rosario|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|4754|Urbano|05
+59370|Obrera|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1159|Urbano|05
+59370|Santa Fe|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1160|Urbano|05
+59373|Tecnológico|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|0020|Urbano|05
+59374|CROC 1a Etapa|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|1161|Urbano|05
+59374|Francisco Villa|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3769|Urbano|05
+59374|CTM|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1162|Urbano|05
+59374|Roma|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3485|Urbano|05
+59374|Valle de Guadalupe|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|0029|Urbano|05
+59374|Magisterial|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3484|Urbano|05
+59374|Las Azucenas|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3487|Urbano|05
+59374|Las Carmelitas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|4747|Urbano|05
+59374|Lomas del Cerro Grande|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1166|Urbano|05
+59374|Las Camelinas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1163|Urbano|05
+59374|Las Palmas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1164|Urbano|05
+59374|Lázaro Cárdenas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1165|Urbano|05
+59374|Rafael Aguilar Talamante|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3486|Urbano|05
+59374|Carlos Salinas de Gortari|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3488|Urbano|05
+59375|Las Jacarandas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|0022|Urbano|05
+59375|Insurgentes|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3489|Urbano|05
+59375|Los Pinos|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1168|Urbano|05
+59375|Arroyo Delgado|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1167|Urbano|05
+59375|Melchor Ocampo|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1169|Urbano|05
+59376|El Casirpe|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|4086|Urbano|05
+59377|Las Arboledas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1171|Urbano|05
+59379|Jardines del Cerro Grande|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1172|Urbano|05
+59379|La Providencia|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1173|Urbano|05
+59379|Nueva Esperanza|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3492|Urbano|05
+59379|Residencial Campestre|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3491|Urbano|05
+59379|San Miguel|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|1174|Urbano|05
+59379|Industrial|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|0023|Urbano|05
+59379|Las Margaritas|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3490|Urbano|05
+59380|Luis Donaldo Colosio|Unidad habitacional|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||31|069|1176|Urbano|05
+59380|Nueva Guanajuatillo|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|4771|Urbano|05
+59380|Vasco de Quiroga|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1177|Urbano|05
+59380|Don Vasco|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3493|Urbano|05
+59380|Ejidal|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|1175|Urbano|05
+59380|Centro Americano|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|3770|Urbano|05
+59384|Las Colonias|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1179|Urbano|05
+59386|Lienzo Charro|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|0021|Urbano|05
+59386|La Purísima|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1181|Urbano|05
+59386|Ejido los Moreno|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1182|Urbano|05
+59387|Rojas|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|1185|Urbano|05
+59387|Las Colonias Prolongación|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1184|Urbano|05
+59389|Jardines del Carmen (Peña)|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1187|Urbano|05
+59390|Los Moreno|Colonia|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||09|069|1188|Urbano|05
+59392|Delta|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|3494|Urbano|05
+59393|La Europea|Fraccionamiento|La Piedad|Michoacán de Ocampo|La piedad de Cabadas|59301|16|59301||21|069|0024|Urbano|05
+59400|San Cristóbal|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|4090|Rural|
+59400|El Calabocito|Colonia|La Piedad|Michoacán de Ocampo||59301|16|59301||09|069|4748|Rural|
+59400|Cujuarato|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1191|Rural|
+59400|Los Guajes|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1196|Rural|
+59400|San Juan Del Fuerte|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1200|Rural|
+59400|Acuitzio|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1190|Rural|
+59400|Los Ayala|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1195|Urbano|
+59400|Paredones|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1199|Rural|
+59400|Ticuitaco (Tocuitaco)|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1201|Rural|
+59400|El Zapote|Colonia|La Piedad|Michoacán de Ocampo||59301|16|59301||09|069|4088|Rural|
+59400|Zaragoza|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1194|Rural|
+59400|Ojo de Agua de Serrato|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1198|Rural|
+59400|El Fuerte|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1193|Rural|
+59400|Tanque de Peña|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|4091|Rural|
+59400|La Campana|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|0008|Rural|
+59400|Las Canoas del Salto|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|0013|Rural|
+59400|Los Melgoza|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1197|Rural|
+59400|San Joaquín|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|0018|Rural|
+59400|El Algodonal|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1192|Rural|
+59410|Estación Patti|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0006|Rural|
+59410|El Caudillo (Chorrera de Silva)|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1203|Rural|
+59410|Higuera de San Rafael (Las Higueras)|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1204|Rural|
+59410|Palo Blanco del Salto|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0017|Rural|
+59410|La Higuerita|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0011|Rural|
+59410|El Salto|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0004|Rural|
+59410|El Aguaje|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0002|Rural|
+59414|La Torcaza|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0012|Rural|
+59415|La Escoba|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|0009|Rural|
+59415|El Zoro|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0005|Rural|
+59420|El Capricho (El Ranchito)|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1205|Rural|
+59420|La Providencia|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|4089|Rural|
+59423|Jauja|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|0007|Rural|
+59423|El Venado|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0034|Rural|
+59424|Las Ocho Horas|Granja|La Piedad|Michoacán de Ocampo||59301|16|59301||23|069|0025|Rural|
+59424|La Esperanza (Colonia la Esperanza)|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0010|Rural|
+59424|Nuevo Cereso|Equipamiento|La Piedad|Michoacán de Ocampo||59301|16|59301||17|069|0031|Rural|
+59424|El Pandillo|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1206|Rural|
+59424|El Paraíso|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0003|Rural|
+59425|Los López|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0015|Rural|
+59425|Los Rodríguez|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0016|Rural|
+59425|Manuel J. Clouthier (Las Casitas)|Fraccionamiento|La Piedad|Michoacán de Ocampo||59301|16|59301||21|069|0032|Rural|
+59425|El Jagüey|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1207|Rural|
+59425|Santa Catarina|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1208|Rural|
+59426|Villas de las Lomas|Fraccionamiento|La Piedad|Michoacán de Ocampo||59301|16|59301||21|069|0033|Rural|
+59426|Los Arias (San Nicolás)|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0014|Rural|
+59426|Las Barranquillas|Rancho|La Piedad|Michoacán de Ocampo||59301|16|59301||48|069|0028|Rural|
+59426|La R|Granja|La Piedad|Michoacán de Ocampo||59301|16|59301||23|069|0026|Rural|
+59426|Las Camelinas (Benjamín Vega)|Granja|La Piedad|Michoacán de Ocampo||59301|16|59301||23|069|0027|Rural|
+59426|Las Cañadas|Fraccionamiento|La Piedad|Michoacán de Ocampo||59301|16|59301||21|069|0030|Rural|
+59427|Melchor Ocampo (Ánimas Gusgas)|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|0001|Rural|
+59428|Taquiscuareo (La Finca)|Ranchería|La Piedad|Michoacán de Ocampo||59301|16|59301||29|069|1209|Rural|

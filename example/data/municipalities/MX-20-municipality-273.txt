@@ -1,0 +1,11 @@
+71326|San Miguel Peras|Pueblo|San Miguel Peras|Oaxaca||71311|20|71311||28|273|2824|Rural|
+71327|Soledad Peras|Ranchería|San Miguel Peras|Oaxaca||71311|20|71311||29|273|2827|Rural|
+71327|Piedra Luna|Ranchería|San Miguel Peras|Oaxaca||71311|20|71311||29|273|0007|Rural|
+71327|La Brujería|Congregación|San Miguel Peras|Oaxaca||71311|20|71311||11|273|2826|Rural|
+71327|El Manzanito|Ranchería|San Miguel Peras|Oaxaca||71311|20|71311||29|273|0004|Rural|
+71327|El Temascal|Ranchería|San Miguel Peras|Oaxaca||71311|20|71311||29|273|0006|Rural|
+71328|Barrio Buena Vista|Barrio|San Miguel Peras|Oaxaca||71311|20|71311||02|273|0001|Rural|
+71328|El Manzanito Tepantepec|Ranchería|San Miguel Peras|Oaxaca||71311|20|71311||29|273|0005|Rural|
+71328|Barrio Río Morales|Barrio|San Miguel Peras|Oaxaca||71311|20|71311||02|273|0003|Rural|
+71328|Barrio del Rosario|Barrio|San Miguel Peras|Oaxaca||71311|20|71311||02|273|0002|Rural|
+71328|Pensamiento Liberal Mexicano|Ranchería|San Miguel Peras|Oaxaca||71311|20|71311||29|273|2825|Rural|

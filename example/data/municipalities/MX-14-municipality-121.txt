@@ -1,0 +1,33 @@
+49600|Zapotiltic Centro|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3021|Semiurbano|37
+49602|La Presa|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3725|Semiurbano|37
+49602|Chavez Pulido|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3710|Semiurbano|37
+49602|Lázaro Cárdenas|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3724|Semiurbano|37
+49602|La Cruz|Fraccionamiento|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||21|121|3711|Semiurbano|37
+49603|Colinde|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3726|Semiurbano|37
+49603|Guadalupana|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3712|Semiurbano|37
+49604|Marentes|Fraccionamiento|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||21|121|3714|Semiurbano|37
+49604|5 de Noviembre|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3715|Semiurbano|37
+49604|Tolteca|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3713|Semiurbano|37
+49605|Primavera|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3716|Semiurbano|37
+49605|Infonavit|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3717|Semiurbano|37
+49605|Lomas Primavera|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3718|Semiurbano|37
+49606|Capulines|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3719|Semiurbano|37
+49606|Provipoza|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3720|Semiurbano|37
+49606|Zapotiltic|Ejido|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||15|121|0001|Urbano|37
+49607|Juárez|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3721|Semiurbano|37
+49608|Amezcua|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3722|Semiurbano|37
+49608|Acueducto|Colonia|Zapotiltic|Jalisco|Zapotiltic|49601|14|49601||09|121|3723|Semiurbano|37
+49610|Huescalapa|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3025|Rural|
+49610|El Lindero|Colonia|Zapotiltic|Jalisco||49601|14|49601||09|121|0003|Urbano|
+49610|Servicio Nuevo Morelos|Colonia|Zapotiltic|Jalisco||49601|14|49601||09|121|5235|Rural|
+49615|El Rincón|Hacienda|Zapotiltic|Jalisco||49601|14|49601||24|121|3023|Rural|
+49620|El Cortijo|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3019|Rural|
+49623|Ferrería de Providencia|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|4525|Rural|
+49624|Crucero de Villa|Zona industrial|Zapotiltic|Jalisco||49601|14|49601||37|121|0002|Rural|
+49635|El Coahuayote (El Arco)|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3026|Rural|
+49638|San José de la Tinaja|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3020|Rural|
+49639|San Rafael|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3032|Rural|
+49640|Villa Lázaro Cárdenas (El Aserradero)|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3030|Rural|
+49640|Tasinaxtla|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3029|Rural|
+49642|El Mastranzo|Rancho|Zapotiltic|Jalisco||49601|14|49601||48|121|0004|Rural|
+49647|Coamecatila|Ranchería|Zapotiltic|Jalisco||49601|14|49601||29|121|3031|Rural|

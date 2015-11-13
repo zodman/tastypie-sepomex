@@ -1,0 +1,163 @@
+37600|Esquípulas|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0062|Urbano|
+37600|Los Aztecas|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0065|Urbano|
+37600|Las Fábricas|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|5396|Urbano|
+37600|Arboledas de Santa Isabel|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|5533|Rural|
+37600|La Conchita|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4159|Rural|
+37600|Tenería|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4161|Rural|
+37600|San Antonio|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4163|Rural|
+37600|Hacienda San Miguel|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|5531|Rural|
+37600|La Huerta de San Agustín|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|0070|Urbano|
+37600|Granja de La Conquista|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0063|Urbano|
+37600|Los Espinos|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0066|Urbano|
+37600|Santuario|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4164|Rural|
+37600|Soledad|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4158|Rural|
+37600|Independencia|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|5456|Urbano|
+37600|Maravillas|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0067|Urbano|
+37600|Zapotes|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4156|Rural|
+37600|El Pueblito|Barrio|San Felipe|Guanajuato||37607|11|37607||02|030|4568|Rural|
+37600|La Joya|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|4569|Rural|
+37600|Ojos Zarcos|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|5325|Rural|
+37600|El Montecito|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|5471|Urbano|
+37600|Jardines de San Antonio|Fraccionamiento|San Felipe|Guanajuato||37607|11|37607||21|030|0064|Urbano|
+37600|Revolución|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4155|Rural|
+37600|FOVISSSTE|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4162|Rural|
+37600|La Florida|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|5444|Urbano|
+37600|San Sebastián|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0068|Urbano|
+37600|San Felipe Centro|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|0069|Urbano|
+37600|El Fraile|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4153|Rural|
+37600|Aviación|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4154|Rural|
+37600|Oriental|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4157|Rural|
+37600|San Miguel|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|4160|Rural|
+37600|Magisterial|Colonia|San Felipe|Guanajuato||37607|11|37607||09|030|5452|Urbano|
+37603|Santa Fe|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0013|Rural|
+37603|Los Diaz|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1742|Rural|
+37603|Manzanillas|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1743|Rural|
+37603|Las Palomas del Cubo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0043|Rural|
+37603|San Felipe|Estación|San Felipe|Guanajuato||37607|11|37607||16|030|1745|Rural|
+37603|San Andrés del Cubo|Hacienda|San Felipe|Guanajuato||37607|11|37607||24|030|1744|Rural|
+37603|San Isidro y Capellanía|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|0041|Rural|
+37603|Trojes de Aguirre|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0019|Rural|
+37604|Rancho Nuevo del Salto|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0035|Rural|
+37604|Capillas|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0048|Rural|
+37604|La Cieneguita|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1750|Rural|
+37604|Peña Colorada|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0059|Rural|
+37604|La Quemada|Hacienda|San Felipe|Guanajuato||37607|11|37607||24|030|1747|Rural|
+37604|Estancia del Cubo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1755|Rural|
+37604|La Labor|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1749|Rural|
+37604|La Estancia del Cubo|Pueblo|San Felipe|Guanajuato||37607|11|37607||28|030|1740|Rural|
+37604|Buenavista del Cubo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1753|Rural|
+37604|Capetillo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1754|Rural|
+37605|El Aguaje Sur|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0034|Rural|
+37605|Palacio|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0058|Rural|
+37605|El Colorado|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0049|Rural|
+37605|El Pirul|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0014|Rural|
+37605|La Huerta|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1741|Rural|
+37605|Mastranto del Sur|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1760|Rural|
+37605|La Estanzuela|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0015|Rural|
+37605|El Maguey del Sur|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1756|Rural|
+37605|La Obra|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1759|Rural|
+37605|San José de la Peña|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0023|Rural|
+37605|El Rincón|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0051|Rural|
+37605|Las Pilas del Sur|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0056|Rural|
+37605|El Aposento|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1739|Rural|
+37605|El Saucillo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1757|Rural|
+37605|La Ciénega|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1758|Rural|
+37605|Coecillo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0008|Rural|
+37605|Aranjuez|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0012|Rural|
+37606|El Sáuz|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1762|Rural|
+37606|Huapimi|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1763|Rural|
+37606|Rancho Seco|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1765|Rural|
+37606|El Vergel y Anexos|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0038|Rural|
+37606|El Estaño|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0050|Rural|
+37606|La Palma|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1746|Rural|
+37606|San José de los Barcos|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1752|Rural|
+37606|Majadas de Huapimi|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1764|Rural|
+37606|San Antonio (San Antonio de Jesús María)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0021|Rural|
+37606|San Pedro de La Palma|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1766|Rural|
+37606|Cerrito de los Hernández|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0020|Rural|
+37606|El Tepozán de Santa Rita|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0022|Rural|
+37606|El Tepozán Dos|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0028|Rural|
+37606|El Jaralillo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0045|Rural|
+37606|Nopales|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0047|Rural|
+37606|El Lindero|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0026|Rural|
+37606|Peñuelas|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0037|Rural|
+37606|Ojo de Agua de Sombrereros (El Derramadero)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0046|Rural|
+37606|Cañada de Chávez|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1761|Rural|
+37606|Tierras Prietas|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0061|Rural|
+37610|El Mezquite (San Martín del Mezquite)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0029|Rural|
+37610|El Barroso|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|4624|Rural|
+37610|San José del Rayo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0027|Rural|
+37610|Miguel Hidalgo (Cueritos)|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|0005|Rural|
+37610|Puerto de la Carreta|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|4623|Rural|
+37610|Laguna de Guadalupe|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1770|Rural|
+37610|Providencia de Guadalupe (Estancia)|Pueblo|San Felipe|Guanajuato||37607|11|37607||28|030|0003|Rural|
+37610|San Pedro Almoloyan|Hacienda|San Felipe|Guanajuato||37607|11|37607||24|030|1772|Rural|
+37611|Fabrica de Melchor|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1777|Rural|
+37611|Guadalupe|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1778|Rural|
+37611|Lequeitio|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1781|Rural|
+37611|San José de La Varilla|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1783|Rural|
+37611|Jaral de Berrio Estación|Zona federal|San Felipe|Guanajuato||37607|11|37607||34|030|1780|Rural|
+37611|Santa Anita|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0025|Rural|
+37611|El Zapote|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1775|Rural|
+37611|Las Alazanas|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0055|Rural|
+37611|El Carretón|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1773|Rural|
+37611|El Tejocote|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1774|Rural|
+37611|Emiliano Zapata|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1776|Rural|
+37611|Jaral de Berrio|Hacienda|San Felipe|Guanajuato||37607|11|37607||24|030|1779|Rural|
+37611|El Cilantro|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|4573|Rural|
+37611|Huapanal de Lequeitio|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0039|Rural|
+37611|El Sauz (El Saucito)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0033|Rural|
+37613|Estancia de San Francisco|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0004|Rural|
+37613|La Estancia (Las Avispas)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0031|Rural|
+37613|San Francisco|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1786|Rural|
+37614|La Estancita del Maguey|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0009|Rural|
+37614|Herrerías|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0010|Rural|
+37614|La Herradura|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1787|Rural|
+37614|San Antonio del Maguey|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1789|Rural|
+37614|Ojo de Agua del Carrizo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0042|Rural|
+37614|Molino de San José|Hacienda|San Felipe|Guanajuato||37607|11|37607||24|030|1788|Rural|
+37614|Fuerte Viejo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0006|Rural|
+37614|El Tulillo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0052|Rural|
+37615|Ojo de Agua de San Miguel (El Coyote)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0018|Rural|
+37615|Cuartos de Bravo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0017|Rural|
+37615|María Auxiliadora|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1768|Rural|
+37615|Chirimoya|Estación|San Felipe|Guanajuato||37607|11|37607||16|030|1769|Rural|
+37615|Sauceda de La Luz|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1792|Rural|
+37615|La Era de Bravo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0044|Rural|
+37615|Hernández Álvarez|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|0007|Rural|
+37615|Rancho Nuevo de San Vicente|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0011|Rural|
+37615|Los Chilitos (Huerta los Chilitos)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0057|Rural|
+37615|El Huizache|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1790|Rural|
+37615|San José de la Luz (Majadas)|Estación|San Felipe|Guanajuato||37607|11|37607||16|030|0036|Rural|
+37615|Mastranto del Refugio|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1791|Rural|
+37616|Chirimoya Vieja|Pueblo|San Felipe|Guanajuato||37607|11|37607||28|030|0002|Rural|
+37616|San José de Rancho Nuevo (Los Arrieros)|Pueblo|San Felipe|Guanajuato||37607|11|37607||28|030|0001|Rural|
+37616|La Esperanza|Pueblo|San Felipe|Guanajuato||37607|11|37607||28|030|0053|Rural|
+37616|Santa Catarina|Ejido|San Felipe|Guanajuato||37607|11|37607||15|030|1793|Rural|
+37616|Santa Rosa|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1785|Rural|
+37616|San Bartolo de Berrio|Pueblo|San Felipe|Guanajuato||37607|11|37607||28|030|1771|Urbano|
+37616|Puerto de Sandoval|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1784|Rural|
+37616|La Purísima de Oriente (El Muerto)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0054|Rural|
+37620|El Ancón|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0024|Rural|
+37620|Los Arrastres|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1796|Rural|
+37620|Los Martínez|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1797|Rural|
+37620|Rincón de Ortega|Hacienda|San Felipe|Guanajuato||37607|11|37607||24|030|1801|Rural|
+37620|El Durazno|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1795|Rural|
+37620|La Tapona|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0030|Rural|
+37620|Santo Domingo de Guzmán|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1800|Rural|
+37620|Rancho Nuevo del Carrizo|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0016|Rural|
+37620|Rosa de Castilla|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1748|Rural|
+37620|San Juan de Llanos|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1799|Rural|
+37620|Cantera Sur|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1794|Rural|
+37620|Deseadilla|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0040|Rural|
+37620|Manzanales|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1798|Rural|
+37623|San Vicente|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0060|Rural|
+37623|El Aro|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1802|Rural|
+37623|La Angostura|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1803|Rural|
+37623|La Lagunita|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1804|Rural|
+37624|La Ceja|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1806|Rural|
+37624|Altos de Ibarra|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1805|Rural|
+37624|San José del Tanque|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1807|Rural|
+37625|El Rosario (La Liebre)|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|0032|Rural|
+37625|Palo Colorado|Ranchería|San Felipe|Guanajuato||37607|11|37607||29|030|1808|Rural|
+37625|Salto del Ahogado|Congregación|San Felipe|Guanajuato||37607|11|37607||11|030|1809|Rural|

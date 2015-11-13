@@ -1,0 +1,449 @@
+50000|Centro|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0160|Urbano|20
+50009|Palacio de Gobierno del Estado de México|Gran usuario|Toluca|México|Toluca de Lerdo|50091|15|50091||22|106|0162|Urbano|20
+50010|Los Girasoles|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0170|Urbano|20
+50010|San Lorenzo Tepaltitlán Centro|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0176|Urbano|20
+50010|San Angelin|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|5121|Urbano|20
+50010|Ex-hacienda la Magdalena|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8354|Urbano|20
+50010|La Loma|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8355|Urbano|20
+50010|Villas Tepaltitlán|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|8455|Urbano|20
+50010|Club Jardín|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0164|Urbano|20
+50010|El Balcón|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5546|Rural|20
+50010|Celanese|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0163|Urbano|20
+50010|Guadalupe|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0165|Urbano|20
+50010|Los Girasoles III|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0172|Urbano|20
+50010|Tlacopa|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0177|Urbano|20
+50010|Galaxias de San Lorenzo|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|5542|Rural|20
+50010|La Cruz Comalco|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0166|Urbano|20
+50010|Los Girasoles II|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0171|Urbano|20
+50010|San Juan de la Cruz|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8291|Urbano|20
+50010|La Magdalena|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0168|Rural|20
+50010|El Tejocote|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5545|Rural|20
+50010|Los Girasoles I|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|7920|Urbano|20
+50010|Hacienda San Agustín|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|8297|Urbano|20
+50010|Gran Morada|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|9094|Urbano|20
+50010|Del Panteón|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|8356|Urbano|20
+50010|Los Girasoles IV|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0173|Urbano|20
+50010|Universidad|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0178|Urbano|20
+50016|De la Crespa|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|8357|Urbano|20
+50016|Parque industrial San Antonio|Zona industrial|Toluca|México|Toluca de Lerdo|50091|15|50091||37|106|6554|Urbano|20
+50016|Jardines de la Crespa|Unidad habitacional|Toluca|México|Toluca de Lerdo|50091|15|50091||31|106|0180|Urbano|20
+50017|Las Brisas|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0184|Rural|20
+50017|Rincón de San Lorenzo|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0186|Urbano|20
+50018|Las Flores|Residencial|Toluca|México|Toluca de Lerdo|50091|15|50091||30|106|0188|Urbano|20
+50018|El Mogote|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8353|Urbano|20
+50018|San Antonio|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8352|Urbano|20
+50019|El Charco|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8351|Urbano|20
+50019|San Rafael|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0189|Rural|20
+50020|Bosques de la Mora|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0191|Urbano|20
+50020|Los Ángeles|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0193|Urbano|20
+50020|Santiago Miltepec|Pueblo|Toluca|México|Toluca de Lerdo|50091|15|50091||28|106|0199|Urbano|20
+50020|3 Caminos|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0201|Urbano|20
+50020|Valle de Santiago Residencial|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0203|Urbano|20
+50020|Rinconada de la Mora|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0197|Urbano|20
+50020|Los Frailes|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0194|Urbano|20
+50020|Rancho la Mora|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0195|Urbano|20
+50026|Carlos Hank González|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0207|Urbano|20
+50039|La Vega|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0210|Rural|20
+50040|San Luis Obispo|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0219|Urbano|20
+50040|San Miguel Apinahuizco|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0220|Urbano|20
+50040|Unión|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0218|Urbano|20
+50040|Sor Juana Inés de la Cruz|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0223|Urbano|20
+50040|Electricistas Locales|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5700|Urbano|20
+50040|Sector Popular|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0222|Urbano|20
+50040|La Retama|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0216|Urbano|20
+50040|La Teresona|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0217|Urbano|20
+50050|El Cóporo|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0224|Urbano|20
+50050|Santa Bárbara|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0227|Urbano|20
+50050|Zopilocalco Norte|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0229|Urbano|20
+50050|Zopilocalco Sur|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0228|Urbano|20
+50060|Lomas Altas|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0231|Urbano|20
+50060|San Juan Buenavista|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5533|Rural|20
+50060|Doctores|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0230|Urbano|20
+50060|Huitzila|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|7893|Urbano|20
+50060|Niños Héroes (Penciones)|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|4703|Urbano|20
+50069|Centro SCT México|Gran usuario|Toluca|México|Toluca de Lerdo|50091|15|50091||22|106|0234|Urbano|20
+50070|Reforma y FNM (San Juan Bautista)|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|7894|Rural|20
+50070|Independencia|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0236|Urbano|20
+50070|Fidel Velázquez|Unidad habitacional|Toluca|México|Toluca de Lerdo|50091|15|50091||31|106|5543|Urbano|20
+50070|Villas Fontana II|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|5527|Urbano|20
+50070|Meteoro|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0237|Urbano|20
+50070|Villas Fontana I|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|5526|Urbano|20
+50071|Toluca|Zona industrial|Toluca|México|Toluca de Lerdo|50091|15|50091||37|106|0239|Urbano|20
+50075|Las Torres|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0240|Urbano|20
+50075|Científicos|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|7895|Urbano|20
+50076|Residencial las Torres|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0241|Urbano|20
+50080|San Bernardino|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0243|Urbano|20
+50080|La Merced  (Alameda)|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0242|Urbano|20
+50090|5 de Mayo|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0244|Urbano|20
+50090|Santa Clara|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0248|Urbano|20
+50100|14 de Diciembre|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0253|Urbano|20
+50100|El Trigo|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0255|Urbano|20
+50100|San Mateo Oxtotitlán|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0269|Urbano|20
+50100|La Ribera IV|Residencial|Toluca|México|Toluca de Lerdo|50091|15|50091||30|106|0260|Urbano|20
+50100|Niños Héroes|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0262|Urbano|20
+50100|Nueva Oxtotitlán|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0263|Urbano|20
+50100|Lomas de San Mateo|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|9526|Urbano|20
+50100|Parques Nacionales|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0265|Rural|20
+50100|Bosques de San Mateo|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0252|Urbano|20
+50100|La Joya|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0256|Urbano|20
+50100|Protinbos|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0266|Urbano|20
+50100|Rincón del Parque|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0267|Urbano|20
+50100|Miguel Hidalgo (Corralitos)|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0261|Urbano|20
+50100|Ex-Hacienda San Jorge|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5110|Urbano|20
+50100|La Ribera I|Residencial|Toluca|México|Toluca de Lerdo|50091|15|50091||30|106|0257|Urbano|20
+50100|Parque de San Mateo|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0264|Urbano|20
+50100|La Ribera II|Residencial|Toluca|México|Toluca de Lerdo|50091|15|50091||30|106|0258|Urbano|20
+50100|La Ribera III|Residencial|Toluca|México|Toluca de Lerdo|50091|15|50091||30|106|0259|Urbano|20
+50103|De Atotonilco|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|8360|Urbano|20
+50103|De Tlayaca|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|8358|Urbano|20
+50103|De Tlanepantla|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|8359|Urbano|20
+50110|Guadalupe San Buenaventura|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0272|Urbano|20
+50110|Real del Bosque|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|5070|Urbano|20
+50110|Del Deporte|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0271|Urbano|20
+50110|Villas de San Buenaventura|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0277|Urbano|20
+50110|San Buenaventura|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0274|Urbano|20
+50110|Vicente Guerrero|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0276|Urbano|20
+50110|Plazas de San Buenaventura|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0273|Urbano|20
+50110|Cultural|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0270|Urbano|20
+50115|Loma Bonita|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|8361|Urbano|20
+50120|Morelos 2a Secc|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0283|Urbano|20
+50120|Granjas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0281|Urbano|20
+50120|Federal (Adolfo López Mateos)|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0280|Urbano|20
+50120|Ciprés|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0279|Urbano|20
+50120|Colón|Residencial|Toluca|México|Toluca de Lerdo|50091|15|50091||30|106|0284|Urbano|20
+50120|Morelos 1a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0282|Urbano|20
+50122|Zona Militar|Zona federal|Toluca|México|Toluca de Lerdo|50091|15|50091||34|106|0286|Urbano|20
+50123|Paseo Tollocan INFONAVIT|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0287|Urbano|20
+50130|Cuauhtémoc|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0291|Urbano|20
+50130|Américas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0289|Urbano|20
+50130|Altamirano|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0288|Urbano|20
+50130|Francisco Murguía El Ranchito|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0293|Urbano|20
+50130|Universidad|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0294|Urbano|20
+50140|Nueva Santa María|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0301|Urbano|20
+50140|Terminal|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|7892|Urbano|20
+50140|Nueva Santa María de las Rosas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0300|Urbano|20
+50140|Valle Don Camilo|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0304|Urbano|20
+50140|Valle Verde|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0305|Urbano|20
+50140|Santa María de las Rosas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0302|Urbano|20
+50140|Villas Florencia|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0306|Urbano|20
+50150|San Sebastián|Barrio|Toluca|México|Toluca de Lerdo|50091|15|50091||02|106|0247|Urbano|20
+50150|Juan Beltrán|Conjunto habitacional|Toluca|México|Toluca de Lerdo|50091|15|50091||12|106|0313|Urbano|20
+50150|Vértice|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0316|Urbano|20
+50150|Izcalli IPIEM|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0311|Urbano|20
+50150|Progreso|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0314|Urbano|20
+50150|Salvador Sánchez Colín|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0315|Urbano|20
+50150|Izcalli Toluca|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0312|Urbano|20
+50150|Comisión Federal de Electricidad|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5549|Urbano|20
+50160|Villas de Santa Ana IV|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0324|Urbano|20
+50160|Villas de Santa Ana I|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0321|Urbano|20
+50160|Villas de Santa Ana|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|5095|Urbano|20
+50160|Villas de Santa Ana V|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0325|Urbano|20
+50160|Villas de Santa Ana VII|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0327|Urbano|20
+50160|Santa Ana Tlapaltitlán|Colonia|Toluca|México|Toluca de Lerdo|50161|15|50161||09|106|0320|Urbano|20
+50160|Villas de Santa Ana II|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0322|Urbano|20
+50160|Villas de Santa Ana III|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0323|Urbano|20
+50160|Villas de Santa Ana VI|Fraccionamiento|Toluca|México|Toluca de Lerdo|50161|15|50161||21|106|0326|Urbano|20
+50168|La Machincuepa|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0318|Urbano|20
+50168|Santa María Zozoquilpan|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0328|Urbano|20
+50170|Héroes del 5 de Mayo|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0329|Urbano|20
+50170|Isidro Fabela 2a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|5701|Urbano|20
+50170|El Seminario 1a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0335|Urbano|20
+50170|El Seminario 2a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0336|Urbano|20
+50170|Villa Hogar|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0340|Urbano|20
+50170|El Seminario 4a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0338|Urbano|20
+50170|Ocho Cedros 2a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|7842|Urbano|20
+50170|Isidro Fabela 1a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0330|Urbano|20
+50170|El Seminario 3a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0337|Urbano|20
+50170|Villas el Limoncito|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|5534|Urbano|20
+50170|Rancho Dolores|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|7841|Urbano|20
+50170|Las Haciendas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0332|Urbano|20
+50170|Ocho Cedros|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0333|Urbano|20
+50170|El Seminario 5a Sección|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0339|Urbano|20
+50180|Hermanos de la Vega|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0345|Urbano|20
+50180|Lázaro Cárdenas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0348|Urbano|20
+50180|Azteca|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0342|Urbano|20
+50180|Bosques de Colón|Fraccionamiento|Toluca|México|Toluca de Lerdo|50091|15|50091||21|106|0343|Urbano|20
+50180|Moderna de la Cruz|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0350|Urbano|20
+50180|Del Parque|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0344|Urbano|20
+50180|Ampliación Lázaro Cárdenas|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0349|Urbano|20
+50190|Unidad Victoria|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0356|Urbano|20
+50190|Emiliano Zapata|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0354|Urbano|20
+50190|La Magdalena|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0167|Rural|20
+50190|Eva Sámano de López Mateos|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0355|Urbano|20
+50190|Benito Juárez|Colonia|Toluca|México|Toluca de Lerdo|50091|15|50091||09|106|0353|Urbano|20
+50200|San Andrés Cuexcontitlán|Pueblo|Toluca|México||50091|15|50091||28|106|0365|Rural|
+50200|Barrio San Gabriel|Colonia|Toluca|México||50091|15|50091||09|106|5552|Rural|
+50200|San Cristóbal Huichochitlán|Pueblo|Toluca|México||50091|15|50091||28|106|0175|Rural|
+50200|San Salvador|Colonia|Toluca|México||50091|15|50091||09|106|8317|Urbano|
+50200|La Trinidad|Colonia|Toluca|México||50091|15|50091||09|106|5538|Rural|
+50200|Armando Neyra Chavez|Colonia|Toluca|México||50091|15|50091||09|106|5554|Rural|
+50203|Paseos del Pilar|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8466|Urbano|
+50205|San Diego de los Padres Cuexcontitlán|Colonia|Toluca|México||50091|15|50091||09|106|0366|Rural|
+50205|San Andrés|Colonia|Toluca|México||50091|15|50091||09|106|8313|Urbano|
+50205|La Concepción|Colonia|Toluca|México||50091|15|50091||09|106|8314|Urbano|
+50205|Santa Rosa|Colonia|Toluca|México||50091|15|50091||09|106|8315|Urbano|
+50205|Jicaltepec Cuexconitlán|Colonia|Toluca|México||50091|15|50091||09|106|0363|Urbano|
+50205|San Diego de los Padres Otzacatipan|Ejido|Toluca|México||50091|15|50091||15|106|6979|Rural|
+50205|San José Guadalupe|Colonia|Toluca|México||50091|15|50091||09|106|8316|Urbano|
+50205|Natividad|Colonia|Toluca|México||50091|15|50091||09|106|8312|Urbano|
+50205|San Diego los Padres Cuexcontitlán Sección 5 B|Colonia|Toluca|México||50091|15|50091||09|106|0002|Urbano|
+50206|San Diego Linares|Pueblo|Toluca|México||50091|15|50091||28|106|0367|Rural|
+50206|La Loma Cuexcontitlán|Ejido|Toluca|México||50091|15|50091||15|106|6974|Rural|
+50209|Toluca (Lic. Adolfo López Mateos)|Aeropuerto|Toluca|México||50091|15|50091||01|106|0380|Rural|
+50210|Los Sauces III|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5117|Rural|
+50210|Villa Mane|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8441|Urbano|
+50210|Hacienda San José|Residencial|Toluca|México||50091|15|50091||30|106|5484|Rural|
+50210|Villa Tulipanes|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8325|Urbano|
+50210|Hacienda del Valle I|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8443|Urbano|
+50210|Santa Cruz Otzacatipán|Colonia|Toluca|México||50091|15|50091||09|106|5531|Urbano|
+50210|Los Sauces IV|Colonia|Toluca|México||50091|15|50091||09|106|5537|Rural|
+50210|Los Sauces V|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5698|Rural|
+50210|Los Sauces I|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5115|Rural|
+50210|Bosques de Cantabria|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8267|Urbano|
+50210|La Magdalena|Barrio|Toluca|México||50091|15|50091||02|106|8324|Urbano|
+50210|Villas de la Hacienda 2a. Sección|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8440|Urbano|
+50210|Rancho San José|Conjunto habitacional|Toluca|México||50091|15|50091||12|106|8946|Urbano|
+50210|Los Sauces II|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5116|Rural|
+50210|Villas de la Hacienda 1a. Sección|Fraccionamiento|Toluca|México||50091|15|50091||21|106|6467|Urbano|
+50210|Hacienda del Valle II|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8262|Urbano|
+50214|Balcones Santín|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8444|Urbano|
+50214|Paseos Santín|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8445|Urbano|
+50214|Villas Santín|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5123|Rural|
+50220|De Canaleja|Barrio|Toluca|México||50091|15|50091||02|106|8442|Urbano|
+50220|San Mateo Otzacatipan|Pueblo|Toluca|México||50091|15|50091||28|106|0371|Rural|
+50220|Villas de San Mateo|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8439|Urbano|
+50223|Parque industrial Exportec I|Zona industrial|Toluca|México||50091|15|50091||37|106|6552|Semiurbano|
+50223|Parque industrial Exportec II|Zona industrial|Toluca|México||50091|15|50091||37|106|6551|Semiurbano|
+50225|Nueva San Francisco|Colonia|Toluca|México||50091|15|50091||09|106|5688|Rural|
+50225|San Miguel Totoltepec|Pueblo|Toluca|México||50091|15|50091||28|106|0372|Rural|
+50225|Bordo de las Canastas|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8263|Urbano|
+50225|Geovillas Centenario|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5556|Rural|
+50226|San Pedro Totoltepec|Pueblo|Toluca|México||50091|15|50091||28|106|0375|Rural|
+50226|Villas Santa María (Galaxia)|Colonia|Toluca|México||50091|15|50091||09|106|5528|Rural|
+50226|La Arboleda II|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5555|Rural|
+50226|La Arboleda III|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5695|Rural|
+50227|La Floresta|Fraccionamiento|Toluca|México||50091|15|50091||21|106|0181|Urbano|
+50227|Misiones de Santa Esperanza|Colonia|Toluca|México||50091|15|50091||09|106|0183|Urbano|
+50227|Rinconadas del Pilar|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8261|Urbano|
+50227|Paseos de Toluca|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8280|Urbano|
+50227|Geovillas de San Mateo|Fraccionamiento|Toluca|México||50091|15|50091||21|106|6361|Urbano|
+50227|Villas de Santa Mónica|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8437|Urbano|
+50228|Geo Villas de la Ind|Unidad habitacional|Toluca|México||50091|15|50091||31|106|5690|Urbano|
+50228|Geovillas los Cedros|Unidad habitacional|Toluca|México||50091|15|50091||31|106|6303|Urbano|
+50228|Los Sabinos|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8434|Urbano|
+50228|Las Fuentes del Ordal|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8947|Urbano|
+50228|La Arboleda IV|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5696|Urbano|
+50228|La Arboleda|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5697|Rural|
+50228|Las Fuentes Ind.|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8470|Urbano|
+50228|Villa de San Andrés|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8433|Urbano|
+50228|La Crespa|Barrio|Toluca|México||50091|15|50091||02|106|8438|Urbano|
+50228|La Arboleda V|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8461|Urbano|
+50228|Geo Villas de la Ind. II|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8436|Urbano|
+50228|Las Fuentes|Residencial|Toluca|México||50091|15|50091||30|106|8432|Urbano|
+50230|San Blas Otzacatipan|Colonia|Toluca|México||50091|15|50091||09|106|8473|Urbano|
+50230|San Blas Totoltepec|Colonia|Toluca|México||50091|15|50091||09|106|8472|Urbano|
+50230|San José Guadalupe Otzacatipan|Pueblo|Toluca|México||50091|15|50091||28|106|0362|Rural|
+50230|San Nicolás Tolentino|Pueblo|Toluca|México||50091|15|50091||28|106|0373|Rural|
+50233|Parque industrial Toluca 2000|Zona industrial|Toluca|México||50091|15|50091||37|106|6553|Semiurbano|
+50233|Parque industrial Vesta|Zona industrial|Toluca|México||50091|15|50091||37|106|8779|Urbano|
+50235|San Francisco Totoltepec|Pueblo|Toluca|México||50091|15|50091||28|106|0368|Rural|
+50235|San Francisco|Colonia|Toluca|México||50091|15|50091||09|106|8459|Urbano|
+50235|El Cerrillo Vista Hermosa|Colonia|Toluca|México||50091|15|50091||09|106|5550|Urbano|
+50235|Guadalupe Totoltepec|Barrio|Toluca|México||50091|15|50091||02|106|6973|Urbano|
+50236|Arroyo Vista Hermosa|Colonia|Toluca|México||50091|15|50091||09|106|0379|Rural|
+50236|La Constitución Totoltepec|Colonia|Toluca|México||50091|15|50091||09|106|0364|Rural|
+50240|Campo Real I|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8449|Urbano|
+50240|El Olimpo|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5109|Rural|
+50240|Prados de Tollocan|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5120|Rural|
+50240|Los Ahuehuetes|Fraccionamiento|Toluca|México||50091|15|50091||21|106|7046|Urbano|
+50240|El Carmen Totoltepec|Colonia|Toluca|México||50091|15|50091||09|106|5107|Rural|
+50245|Santa María Totoltepec|Pueblo|Toluca|México||50091|15|50091||28|106|0376|Rural|
+50245|San Antonio Abad|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8448|Urbano|
+50245|La Alameda|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8454|Urbano|
+50245|Campo Real II|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8450|Urbano|
+50245|Residencial la Joya|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8453|Urbano|
+50245|Campo Real|Unidad habitacional|Toluca|México||50091|15|50091||31|106|5689|Rural|
+50245|Los Héroes I|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5692|Rural|
+50245|María Bonita|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8286|Rural|
+50245|Las Bugambilias|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8452|Urbano|
+50245|Campo Real III|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8451|Urbano|
+50245|Hacienda La Galia|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5699|Rural|
+50245|Jesús García Lovera "El Pilar"|Colonia|Toluca|México||50091|15|50091||09|106|5539|Urbano|
+50245|San Jerónimo|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8447|Urbano|
+50245|Sor Juana Inés de la Cruz|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8446|Urbano|
+50246|El Coecillo|Colonia|Toluca|México||50091|15|50091||09|106|5548|Rural|
+50246|Los Héroes II|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5694|Rural|
+50246|Los Héroes III|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5693|Rural|
+50250|Las Palomas|Fraccionamiento|Toluca|México||50091|15|50091||21|106|0391|Rural|
+50250|Rancho de Maya|Colonia|Toluca|México||50091|15|50091||09|106|7844|Urbano|
+50250|Santa Juanita|Ejido|Toluca|México||50091|15|50091||15|106|6981|Rural|
+50250|La Curva|Colonia|Toluca|México||50091|15|50091||09|106|7047|Urbano|
+50250|La Cañada|Colonia|Toluca|México||50091|15|50091||09|106|7048|Urbano|
+50250|La Loma|Residencial|Toluca|México||50091|15|50091||30|106|8054|Urbano|
+50250|San Felipe Tlalmimilolpan|Pueblo|Toluca|México||50091|15|50091||28|106|0392|Rural|
+50250|Las Margaritas|Fraccionamiento|Toluca|México||50091|15|50091||21|106|7843|Urbano|
+50253|Dos Ríos|Colonia|Toluca|México||50091|15|50091||09|106|8389|Urbano|
+50253|La Comunidad|Colonia|Toluca|México||50091|15|50091||09|106|8400|Urbano|
+50253|Los Álamos|Colonia|Toluca|México||50091|15|50091||09|106|8390|Urbano|
+50253|El Calvario|Colonia|Toluca|México||50091|15|50091||09|106|8391|Urbano|
+50253|Jardines de San Pedro|Colonia|Toluca|México||50091|15|50091||09|106|8388|Urbano|
+50254|El Mogote|Colonia|Toluca|México||50091|15|50091||09|106|8396|Urbano|
+50254|La Joya|Colonia|Toluca|México||50091|15|50091||09|106|8399|Urbano|
+50254|Tlala|Colonia|Toluca|México||50091|15|50091||09|106|8394|Urbano|
+50254|La Venta|Colonia|Toluca|México||50091|15|50091||09|106|8395|Urbano|
+50254|Del Panteón|Barrio|Toluca|México||50091|15|50091||02|106|8392|Urbano|
+50254|Loma Bonita|Colonia|Toluca|México||50091|15|50091||09|106|8393|Urbano|
+50254|El Frontón|Colonia|Toluca|México||50091|15|50091||09|106|8397|Urbano|
+50254|El Mirador|Colonia|Toluca|México||50091|15|50091||09|106|8398|Urbano|
+50254|Balcones de San Felipe|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8489|Urbano|
+50255|El Durazno|Colonia|Toluca|México||50091|15|50091||09|106|6990|Rural|
+50255|Vista Hermosa|Colonia|Toluca|México||50091|15|50091||09|106|7049|Urbano|
+50255|Loma Bonita|Colonia|Toluca|México||50091|15|50091||09|106|8403|Urbano|
+50255|Guadalupe|Colonia|Toluca|México||50091|15|50091||09|106|8408|Rural|
+50255|El Refugio|Colonia|Toluca|México||50091|15|50091||09|106|0389|Rural|
+50255|Linda Vista|Colonia|Toluca|México||50091|15|50091||09|106|8401|Urbano|
+50255|Paraje Tlalmimilolpan|Colonia|Toluca|México||50091|15|50091||09|106|8402|Urbano|
+50255|Santa María|Colonia|Toluca|México||50091|15|50091||09|106|8407|Urbano|
+50255|Santiago Tlacotepec|Colonia|Toluca|México||50091|15|50091||09|106|0393|Urbano|
+50255|Cristo Rey|Colonia|Toluca|México||50091|15|50091||09|106|8270|Urbano|
+50255|El Mirador|Colonia|Toluca|México||50091|15|50091||09|106|8406|Urbano|
+50255|San Juan Tilapa Centro|Colonia|Toluca|México||50091|15|50091||09|106|0394|Urbano|
+50255|Santiago Tlacotepec Centro|Colonia|Toluca|México||50091|15|50091||09|106|8405|Urbano|
+50255|Los Pajaritos|Colonia|Toluca|México||50091|15|50091||09|106|8404|Urbano|
+50256|El Canal|Colonia|Toluca|México||50091|15|50091||09|106|8412|Urbano|
+50256|Las Barraanquitas|Colonia|Toluca|México||50091|15|50091||09|106|8411|Urbano|
+50256|El Calvario|Colonia|Toluca|México||50091|15|50091||09|106|8413|Urbano|
+50256|Las Palmas|Colonia|Toluca|México||50091|15|50091||09|106|8409|Urbano|
+50256|Agua Bendita|Colonia|Toluca|México||50091|15|50091||09|106|8410|Urbano|
+50257|Loma Bonita|Colonia|Toluca|México||50091|15|50091||09|106|8420|Urbano|
+50257|La Joya|Colonia|Toluca|México||50091|15|50091||09|106|8414|Urbano|
+50257|Tollocan|Colonia|Toluca|México||50091|15|50091||09|106|8417|Urbano|
+50257|La Joya de Ignacio Esquivel|Colonia|Toluca|México||50091|15|50091||09|106|8418|Urbano|
+50257|El Cruzado|Colonia|Toluca|México||50091|15|50091||09|106|8415|Urbano|
+50257|Benito Juárez|Colonia|Toluca|México||50091|15|50091||09|106|8416|Urbano|
+50257|Apilulco|Colonia|Toluca|México||50091|15|50091||09|106|8419|Urbano|
+50258|El Rosario|Colonia|Toluca|México||50091|15|50091||09|106|8428|Urbano|
+50258|El Chamizal|Colonia|Toluca|México||50091|15|50091||09|106|8422|Urbano|
+50258|Tilapa|Colonia|Toluca|México||50091|15|50091||09|106|8424|Urbano|
+50258|Paraje el Ocote|Colonia|Toluca|México||50091|15|50091||09|106|8431|Urbano|
+50258|Puxinco|Colonia|Toluca|México||50091|15|50091||09|106|8427|Urbano|
+50258|El Mostrante|Colonia|Toluca|México||50091|15|50091||09|106|8425|Urbano|
+50258|La Cruz|Colonia|Toluca|México||50091|15|50091||09|106|8426|Urbano|
+50258|Guadalupe|Colonia|Toluca|México||50091|15|50091||09|106|8429|Urbano|
+50258|Rancho Buenavista|Colonia|Toluca|México||50091|15|50091||09|106|8430|Urbano|
+50258|Acuxtitla|Colonia|Toluca|México||50091|15|50091||09|106|8421|Urbano|
+50260|Villas Santa Esther|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8457|Urbano|
+50260|La Era|Colonia|Toluca|México||50091|15|50091||09|106|7052|Urbano|
+50260|Villas Fontana|Fraccionamiento|Toluca|México||50091|15|50091||21|106|8456|Urbano|
+50260|El Pacífico|Colonia|Toluca|México||50091|15|50091||09|106|6976|Urbano|
+50260|Capultitlán Centro|Colonia|Toluca|México||50091|15|50091||09|106|8423|Urbano|
+50260|Capultitlán|Colonia|Toluca|México||50091|15|50091||09|106|0390|Urbano|
+50260|Paseos del Valle|Fraccionamiento|Toluca|México||50091|15|50091||21|106|5118|Rural|
+50260|Alejandría|Residencial|Toluca|México||50091|15|50091||30|106|8458|Urbano|
+50263|De la Cruz|Barrio|Toluca|México||50091|15|50091||02|106|8377|Urbano|
+50263|De Cristo Rey|Barrio|Toluca|México||50091|15|50091||02|106|8376|Urbano|
+50263|Santísima Trinidad|Colonia|Toluca|México||50091|15|50091||09|106|8381|Urbano|
+50263|Los Pinos|Colonia|Toluca|México||50091|15|50091||09|106|8374|Urbano|
+50263|Del Espíritu Santo|Barrio|Toluca|México||50091|15|50091||02|106|8380|Urbano|
+50263|San Isidro Labrador|Colonia|Toluca|México||50091|15|50091||09|106|8379|Urbano|
+50263|San Juan Apóstol|Colonia|Toluca|México||50091|15|50091||09|106|8375|Urbano|
+50263|La Virgen de Guadalupe|Colonia|Toluca|México||50091|15|50091||09|106|8378|Urbano|
+50264|San Judas Tadeo|Colonia|Toluca|México||50091|15|50091||09|106|8384|Urbano|
+50264|San Pablo|Colonia|Toluca|México||50091|15|50091||09|106|8386|Urbano|
+50264|San Felipe de Jesús|Colonia|Toluca|México||50091|15|50091||09|106|8383|Urbano|
+50264|Las Palmas|Colonia|Toluca|México||50091|15|50091||09|106|8385|Urbano|
+50264|San José|Colonia|Toluca|México||50091|15|50091||09|106|8382|Urbano|
+50265|Sixto Noguez|Colonia|Toluca|México||50091|15|50091||09|106|8364|Urbano|
+50265|La Capilla|Colonia|Toluca|México||50091|15|50091||09|106|8368|Urbano|
+50265|El Chorrito|Colonia|Toluca|México||50091|15|50091||09|106|8372|Urbano|
+50265|Las Palomas|Colonia|Toluca|México||50091|15|50091||09|106|8467|Urbano|
+50265|Sor Juana Inés de la Cruz|Colonia|Toluca|México||50091|15|50091||09|106|8468|Urbano|
+50265|La Palma|Colonia|Toluca|México||50091|15|50091||09|106|8367|Urbano|
+50265|Tierra Coloradas|Colonia|Toluca|México||50091|15|50091||09|106|8370|Urbano|
+50265|San Miguel Zacango|Colonia|Toluca|México||50091|15|50091||09|106|5532|Rural|
+50265|La Loma|Colonia|Toluca|México||50091|15|50091||09|106|8365|Urbano|
+50265|Del Campo|Colonia|Toluca|México||50091|15|50091||09|106|8373|Urbano|
+50265|Del Panteón|Barrio|Toluca|México||50091|15|50091||02|106|8362|Urbano|
+50265|Guadalupe|Colonia|Toluca|México||50091|15|50091||09|106|8363|Urbano|
+50265|Cacalomacán Centro|Colonia|Toluca|México||50091|15|50091||09|106|8366|Urbano|
+50265|Cacalomacán|Colonia|Toluca|México||50091|15|50091||09|106|0387|Urbano|
+50265|Sagrado Corazón de Jesús|Colonia|Toluca|México||50091|15|50091||09|106|8369|Urbano|
+50265|San Pedro|Colonia|Toluca|México||50091|15|50091||09|106|8371|Urbano|
+50266|San Antonio Buenavista|Pueblo|Toluca|México||50091|15|50091||28|106|0388|Rural|
+50270|Tepetongo|Barrio|Toluca|México||50091|15|50091||02|106|8143|Urbano|
+50270|Tecaxic|Pueblo|Toluca|México||50091|15|50091||28|106|0377|Rural|
+50273|Buenavista|Colonia|Toluca|México||50091|15|50091||09|106|8319|Urbano|
+50273|San Pablo|Colonia|Toluca|México||50091|15|50091||09|106|8318|Urbano|
+50274|Pedregal|Colonia|Toluca|México||50091|15|50091||09|106|8323|Urbano|
+50274|Tlalnepantla|Colonia|Toluca|México||50091|15|50091||09|106|8321|Urbano|
+50274|Pueblo Nuevo|Colonia|Toluca|México||50091|15|50091||09|106|8322|Urbano|
+50280|Santiago Tlaxomulco Centro|Colonia|Toluca|México||50091|15|50091||09|106|0209|Urbano|
+50280|Calixtlahuaca|Pueblo|Toluca|México||50091|15|50091||28|106|0360|Rural|
+50283|Del Pozo Blanco|Barrio|Toluca|México||50091|15|50091||02|106|8336|Urbano|
+50283|La Pena|Barrio|Toluca|México||50091|15|50091||02|106|8337|Urbano|
+50283|Los Cipreses|Colonia|Toluca|México||50091|15|50091||09|106|8338|Urbano|
+50284|Los Pocitos|Colonia|Toluca|México||50091|15|50091||09|106|8339|Urbano|
+50284|El Calvario|Colonia|Toluca|México||50091|15|50091||09|106|8340|Urbano|
+50284|Tenojo|Colonia|Toluca|México||50091|15|50091||09|106|8341|Urbano|
+50285|San Marcos  Yachihuacaltepec|Ejido|Toluca|México||50091|15|50091||15|106|6971|Rural|
+50285|San Isidro|Ranchería|Toluca|México||50091|15|50091||29|106|8310|Rural|
+50285|La Palma Toltepec|Barrio|Toluca|México||50091|15|50091||02|106|0384|Rural|
+50285|Junta Local de Caminos|Fraccionamiento|Toluca|México||50091|15|50091||21|106|7845|Urbano|
+50285|Lázaro Cárdenas|Colonia|Toluca|México||50091|15|50091||09|106|8308|Urbano|
+50285|Paseos San Martín|Conjunto habitacional|Toluca|México||50091|15|50091||12|106|9095|Urbano|
+50285|Conjunto Habitacional Las Bugambilias|Unidad habitacional|Toluca|México||50091|15|50091||31|106|0001|Rural|
+50285|San Martín Toltepec|Pueblo|Toluca|México||50091|15|50091||28|106|0370|Rural|
+50285|Ojo de Agua Autopan|Colonia|Toluca|México||50091|15|50091||09|106|5536|Rural|
+50285|Almoloya de Juárez|Ejido|Toluca|México||50091|15|50091||15|106|9641|Rural|
+50285|Palmillas|Barrio|Toluca|México||50091|15|50091||02|106|0385|Rural|
+50285|Santiago Tlaxomulco (Zimbrones)|Ejido|Toluca|México||50091|15|50091||15|106|7050|Rural|
+50285|2 de Marzo|Colonia|Toluca|México||50091|15|50091||09|106|7051|Urbano|
+50285|San Marcos|Ejido|Toluca|México||50091|15|50091||15|106|8307|Urbano|
+50286|El Calvario|Colonia|Toluca|México||50091|15|50091||09|106|8327|Urbano|
+50286|La Pena|Colonia|Toluca|México||50091|15|50091||09|106|8328|Urbano|
+50286|El Tepetate|Colonia|Toluca|México||50091|15|50091||09|106|8326|Urbano|
+50290|De Jesús 2a. Sección|Barrio|Toluca|México||50091|15|50091||02|106|8335|Urbano|
+50290|Alcaltunco|Colonia|Toluca|México||50091|15|50091||09|106|8346|Urbano|
+50290|Villas los Ángeles|Unidad habitacional|Toluca|México||50091|15|50091||31|106|8471|Urbano|
+50290|Jicaltepec Autopan|Barrio|Toluca|México||50091|15|50091||02|106|6984|Urbano|
+50290|De Jesús 1a. Sección|Barrio|Toluca|México||50091|15|50091||02|106|8268|Urbano|
+50290|Ejido Santa Cruz Azcapotzaltongo|Colonia|Toluca|México||50091|15|50091||09|106|0208|Rural|
+50290|El Cerrito|Colonia|Toluca|México||50091|15|50091||09|106|8344|Urbano|
+50290|El Cerro del Perico|Ejido|Toluca|México||50091|15|50091||15|106|6988|Rural|
+50290|Chupascliya|Colonia|Toluca|México||50091|15|50091||09|106|8348|Urbano|
+50290|San Pablo Autopan|Pueblo|Toluca|México||50091|15|50091||28|106|0374|Rural|
+50290|Contra Caja|Colonia|Toluca|México||50091|15|50091||09|106|8334|Urbano|
+50290|Tejocote|Colonia|Toluca|México||50091|15|50091||09|106|8345|Urbano|
+50290|El Cajón|Ejido|Toluca|México||50091|15|50091||15|106|6989|Rural|
+50290|Chichipicas|Colonia|Toluca|México||50091|15|50091||09|106|8349|Urbano|
+50290|Bordo Nuevo|Ejido|Toluca|México||50091|15|50091||15|106|6987|Rural|
+50290|Del Pozo|Barrio|Toluca|México||50091|15|50091||02|106|8342|Urbano|
+50290|Tanamato|Colonia|Toluca|México||50091|15|50091||09|106|8347|Urbano|
+50290|Santa Cruz Atzcapotzaltongo|Colonia|Toluca|México||50091|15|50091||09|106|8350|Urbano|
+50293|Parque industrial Toluca|Zona industrial|Toluca|México||50091|15|50091||37|106|6555|Semiurbano|
+50294|De Jesús 3a. Sección|Barrio|Toluca|México||50091|15|50091||02|106|8329|Urbano|
+50294|De Santa Cruz|Barrio|Toluca|México||50091|15|50091||02|106|8330|Urbano|
+50294|De Santa María|Barrio|Toluca|México||50091|15|50091||02|106|8332|Urbano|
+50294|Tlachaloya|Colonia|Toluca|México||50091|15|50091||09|106|8333|Urbano|
+50294|De Pueblo Nuevo|Barrio|Toluca|México||50091|15|50091||02|106|8331|Urbano|
+50294|La Granja|Colonia|Toluca|México||50091|15|50091||09|106|8465|Urbano|
+50295|Tlachaloya 2a Sección Centro|Colonia|Toluca|México||50091|15|50091||09|106|6983|Urbano|
+50295|La Trinidad|Colonia|Toluca|México||50091|15|50091||09|106|8302|Urbano|
+50295|San José Buenavista el Chico|Barrio|Toluca|México||50091|15|50091||02|106|8306|Rural|
+50295|Tlachaloya|Pueblo|Toluca|México||50091|15|50091||28|106|0383|Rural|
+50295|El Cerrillo Piedras Blancas|Colonia|Toluca|México||50091|15|50091||09|106|8290|Rural|
+50295|Xicaltepe Tepaltitlán (San Lorenzo)|Ejido|Toluca|México||50091|15|50091||15|106|8311|Rural|
+50295|San Carlos|Barrio|Toluca|México||50091|15|50091||02|106|6977|Rural|
+50295|La Aviación|Ejido|Toluca|México||50091|15|50091||15|106|6985|Rural|
+50295|San Mateo|Colonia|Toluca|México||50091|15|50091||09|106|8305|Urbano|
+50295|San José la Costa|Ejido|Toluca|México||50091|15|50091||15|106|6980|Rural|
+50295|Real de San Pablo|Fraccionamiento|Toluca|México||50091|15|50091||21|106|7054|Urbano|
+50295|Las Nicolás|Colonia|Toluca|México||50091|15|50091||09|106|8300|Urbano|
+50295|Las Jaras|Colonia|Toluca|México||50091|15|50091||09|106|8301|Urbano|
+50295|Julián Escalante|Colonia|Toluca|México||50091|15|50091||09|106|8303|Urbano|
+50295|Sebastián Lerdo de Tejada|Colonia|Toluca|México||50091|15|50091||09|106|6982|Rural|
+50295|San Diego|Conjunto habitacional|Toluca|México||50091|15|50091||12|106|7053|Urbano|
+50295|De Balbuena|Barrio|Toluca|México||50091|15|50091||02|106|6986|Rural|
+50295|San Cayetano Morelos|Pueblo|Toluca|México||50091|15|50091||28|106|0381|Rural|
+50295|Galaxia Toluca|Fraccionamiento|Toluca|México||50091|15|50091||21|106|7055|Urbano|
+50295|Del Tejocote|Barrio|Toluca|México||50091|15|50091||02|106|8304|Urbano|

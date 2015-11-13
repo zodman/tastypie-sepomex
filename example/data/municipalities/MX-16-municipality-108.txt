@@ -1,0 +1,203 @@
+59600|Zamora de Hidalgo Centro|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1304|Urbano|11
+59610|San Ramón|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4452|Urbano|11
+59610|Valencia 1a. Sección|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4615|Urbano|11
+59610|Juan Gutiérrez Flores II|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4426|Urbano|11
+59610|Madero|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1308|Urbano|11
+59610|Valencia|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1309|Urbano|11
+59610|La Esperanza|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4427|Urbano|11
+59610|La Florida San Patricio|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1306|Urbano|11
+59610|Real Del Jericó|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3800|Urbano|11
+59610|Valencia 2a Secc|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1310|Urbano|11
+59613|Las Camelinas|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1311|Urbano|11
+59614|Galeana|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1312|Urbano|11
+59614|San Francisco|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4901|Urbano|11
+59615|Industrial Valencia|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4897|Urbano|11
+59615|Cosmos|Conjunto habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||12|108|1313|Urbano|11
+59615|Progreso Nacional|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1315|Urbano|11
+59616|La Floresta|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1316|Urbano|11
+59617|Real de Valencia|Conjunto habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||12|108|3799|Urbano|11
+59617|Jardines de San Joaquín 2a. Sección|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4422|Urbano|11
+59617|Huertas del Cerrito|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1317|Urbano|11
+59617|Huertas de San Joaquín|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3794|Urbano|11
+59617|Industrial Jericó|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4420|Urbano|11
+59617|Prados de Valencia|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3797|Urbano|11
+59617|Francisco J. Mújica I|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4415|Urbano|11
+59617|Jardines de San Joaquín|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1318|Urbano|11
+59617|Lago del Bosque|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4429|Urbano|11
+59618|Alfonso García Robles|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|0957|Urbano|11
+59618|Clavel|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3546|Urbano|11
+59618|Camino al Jericó|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4402|Urbano|11
+59618|Valle Verde INFONAVIT|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1013|Urbano|11
+59618|Francisco J. Mújica II|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4416|Urbano|11
+59618|Palo Alto INFONAVIT|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|1319|Urbano|11
+59618|Riveras Valleza|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4449|Urbano|11
+59618|García Robles II|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4417|Urbano|11
+59619|Pradera INFONAVIT|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|1320|Urbano|11
+59620|El Carmen|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1327|Urbano|11
+59620|Benito Juárez|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4401|Urbano|11
+59620|El Porvenir|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1321|Urbano|11
+59620|El Carmen|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|1326|Urbano|11
+59620|El Campanario|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3691|Urbano|11
+59620|Lázaro Cárdenas|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1323|Urbano|11
+59620|Juan Gutiérrez Flores I|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4425|Urbano|11
+59620|Ramírez|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1324|Urbano|11
+59620|El Madrigal|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4409|Urbano|11
+59620|Ferrocarril|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4414|Urbano|11
+59624|Balcones de Zamora|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3544|Urbano|11
+59624|Popular Juárez|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4902|Urbano|11
+59624|Franco Rodríguez|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|0016|Urbano|11
+59624|Hacienda La Loma|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4418|Urbano|11
+59624|Altamira Residencial|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4903|Urbano|11
+59624|Puerta Grande|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4446|Urbano|11
+59624|Casas de Altos|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4896|Urbano|11
+59625|Adolfo López Mateos|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1328|Urbano|11
+59626|Jacarandas|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4421|Urbano|11
+59626|Las Flores|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4430|Urbano|11
+59626|Los Pinos|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4436|Urbano|11
+59626|La Libertad|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1329|Urbano|11
+59627|El Sabinito|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1331|Urbano|11
+59627|Valle Dorado INFONAVIT|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|1012|Urbano|11
+59627|El Sacrificio|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4411|Urbano|11
+59630|Nuevo Jericó|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4443|Urbano|11
+59633|El Carvario|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4408|Urbano|11
+59633|Jardines de Jericó|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3545|Urbano|11
+59633|El Teco|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|1333|Urbano|11
+59634|Revolución|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1334|Urbano|11
+59634|Media Luna|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4908|Urbano|11
+59635|Kuntani|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|0005|Urbano|11
+59636|Las Huertas|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3796|Urbano|11
+59636|Nueva Grecia|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|0992|Urbano|11
+59636|El Vergel|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1335|Urbano|11
+59636|Habitacional del Parque|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4407|Urbano|11
+59636|Prados del Jericó|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4444|Urbano|11
+59636|Residencial Monarca|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4895|Urbano|11
+59636|Villas Zamoranas Del Paraíso|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1015|Urbano|11
+59636|Villas de Jericó|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3692|Urbano|11
+59637|Villas Las Flores|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4454|Urbano|11
+59638|Javier Acuña|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4423|Urbano|11
+59638|16 de Septiembre|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4397|Urbano|11
+59640|Quinta San Miguel|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3798|Urbano|11
+59640|Hacienda los Angeles|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3793|Urbano|11
+59640|Real de Minas|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4447|Urbano|11
+59640|Acanto|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|0006|Urbano|11
+59640|Nueva Era|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4440|Urbano|11
+59640|Residencial Acanto II Etapa|Conjunto habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||12|108|0017|Urbano|11
+59640|Campestre San Jose|Conjunto habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||12|108|3789|Urbano|11
+59640|Miguel Regalado|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1336|Urbano|11
+59640|Predio San José|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4445|Urbano|11
+59643|Los Pelillos|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4911|Urbano|11
+59646|El Mirador|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4410|Urbano|11
+59650|Generalísimo Morelos|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1338|Urbano|11
+59650|El Valle|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1337|Urbano|11
+59653|Los Dolores|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4434|Urbano|11
+59653|Emiliano Zapata|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4412|Urbano|11
+59655|Carlos Salinas de Gortari|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1340|Urbano|11
+59655|San José|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4450|Urbano|11
+59656|Miguel Hidalgo|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1341|Urbano|11
+59660|Ejidal|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1344|Urbano|11
+59660|Aurora II|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4400|Urbano|11
+59660|Aurora|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1343|Urbano|11
+59660|Las Delicias|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1345|Urbano|11
+59660|20 de Noviembre|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1346|Urbano|11
+59660|Huertas de San Antonio|Residencial|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||30|108|4898|Urbano|11
+59663|San José|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|1347|Urbano|11
+59664|Villa Olímpica|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1348|Urbano|11
+59664|Los Gimnastas|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4435|Urbano|11
+59664|Villas San Antonio|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4455|Urbano|11
+59664|Villas Del Magisterio|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1349|Urbano|11
+59665|La Higareda|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3690|Urbano|11
+59665|Guanajuatillo|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3547|Urbano|11
+59665|La Central|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4909|Urbano|11
+59665|Santa Cecilia|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1350|Urbano|11
+59665|Real del Valle|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4448|Urbano|11
+59665|Andenes Guanajuatillo|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4399|Urbano|11
+59666|Carmen Serdán|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4404|Urbano|11
+59666|Las Primaveras|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4431|Urbano|11
+59666|2 de Octubre|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4398|Urbano|11
+59667|Huertas de La Beatilla|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4419|Urbano|11
+59667|Cárdenas Batel 1ro. de Mayo|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4403|Urbano|11
+59667|Residencial Monteolivo|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4439|Urbano|11
+59667|La Huerta Zamorana|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4428|Urbano|11
+59667|Luis Donaldo Colosio|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4437|Urbano|11
+59669|Lindavista|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1351|Urbano|11
+59669|Javier Tamayo|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4424|Urbano|11
+59669|Memo Gómez Lindavista|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4438|Urbano|11
+59669|Hacienda Del Valle|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3792|Urbano|11
+59669|Nueva Esperanza|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4441|Urbano|11
+59669|Nueva Margarita|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4442|Urbano|11
+59669|La Huizachera|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4907|Urbano|11
+59670|Las Rosas|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4432|Urbano|11
+59670|San Juan|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|4451|Urbano|11
+59670|Jardines de Catedral|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1352|Urbano|11
+59674|Los Laureles|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1354|Urbano|11
+59675|Fernando Amilpa|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4413|Urbano|11
+59675|Residencial Patria|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3750|Urbano|11
+59675|Circunvalación|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4405|Urbano|11
+59675|La Medallita|Barrio|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||02|108|1355|Urbano|11
+59676|Los Espinos|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1356|Urbano|11
+59680|Jardinadas|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1357|Urbano|11
+59680|La Luneta|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1358|Urbano|11
+59683|Bugambilias|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1359|Urbano|11
+59683|Santa María|Residencial|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||30|108|4900|Urbano|11
+59683|Río Zapadores|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4904|Urbano|11
+59684|Río Nuevo|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1360|Urbano|11
+59688|FOVISSSTE|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|1361|Urbano|11
+59689|Los Ramírez|Residencial|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||30|108|4899|Urbano|11
+59689|La Nueva Luneta|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1362|Urbano|11
+59689|Valle Esmeralda|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|4453|Urbano|11
+59690|El Duero|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1363|Urbano|11
+59694|Coto San Nicolás Predio San Juan|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|4406|Urbano|11
+59694|Ejidal Norte|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3689|Urbano|11
+59694|Ejidal Sur|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3688|Urbano|11
+59695|Prados Del Bosque|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|0997|Urbano|11
+59695|Paseo Del Bosque|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|1364|Urbano|11
+59696|Jacinto López|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1365|Urbano|11
+59697|Lomas de Chaparaco|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4433|Urbano|11
+59697|Ex Hacienda El Refugio|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3790|Urbano|11
+59697|Los Álamos|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4910|Urbano|11
+59697|Chaparaco|Ranchería|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||29|108|1372|Urbano|11
+59697|El Pedregal|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|4912|Urbano|11
+59698|INFONAVIT Arboledas 2a. Sección|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|4905|Urbano|11
+59698|INFONAVIT Arboledas 3a. Sección|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|4906|Urbano|11
+59698|Residencial las Américas|Fraccionamiento|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||21|108|3801|Urbano|11
+59698|INFONAVIT Arboledas 1a. Sección|Unidad habitacional|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||31|108|1367|Urbano|11
+59699|La Lima|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|3423|Urbano|11
+59699|Las Fuentes|Colonia|Zamora|Michoacán de Ocampo|Zamora de Hidalgo|59691|16|59691||09|108|1368|Urbano|11
+59700|Aquiles Serdán (Santiaguillo)|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1369|Rural|
+59700|Guadalupe|Fraccionamiento|Zamora|Michoacán de Ocampo||59691|16|59691||21|108|3791|Rural|
+59700|La Ladera|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|1370|Rural|
+59700|Ojo de Agua|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|1371|Rural|
+59700|José Guadalupe Rodríguez Morales (Palo Blanco)|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0011|Rural|
+59701|Central de Abastos|Zona comercial|Zamora|Michoacán de Ocampo||59691|16|59691||33|108|3713|Urbano|
+59703|El Sauz de Magaña|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|4460|Rural|
+59704|La Estancia de Amezcua|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|1373|Rural|
+59710|El Llano|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|1374|Rural|
+59711|Ario de Rayón|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1375|Urbano|
+59711|Francisco Sarabia|Colonia|Zamora|Michoacán de Ocampo||59691|16|59691||09|108|0001|Urbano|
+59711|Plaza Santa Mónica|Fraccionamiento|Zamora|Michoacán de Ocampo||59691|16|59691||21|108|0002|Urbano|
+59711|Sixto Verduzco|Colonia|Zamora|Michoacán de Ocampo||59691|16|59691||09|108|0003|Urbano|
+59711|Ejidal|Colonia|Zamora|Michoacán de Ocampo||59691|16|59691||09|108|0004|Urbano|
+59711|La Calera|Fraccionamiento|Zamora|Michoacán de Ocampo||59691|16|59691||21|108|3795|Urbano|
+59711|Ario de Rayón|Conjunto habitacional|Zamora|Michoacán de Ocampo||59691|16|59691||12|108|3788|Urbano|
+59712|La Sauceda|Pueblo|Zamora|Michoacán de Ocampo||59282|16|59282||28|108|1376|Urbano|
+59713|Villafuerte|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|0015|Rural|
+59714|Bella Loma (El Colorado)|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0007|Rural|
+59714|El Yaqui|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0010|Rural|
+59714|Miraflores Grande|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0013|Rural|
+59714|El Pochote (La Nutria)|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|0009|Rural|
+59715|El Monte de Zamora (La Cal)|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0008|Rural|
+59715|Villa Zapata (El Guayabo)|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0014|Rural|
+59716|Tierras Blancas|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|4461|Rural|
+59720|Atecucario de la Constitución|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1377|Urbano|
+59720|El Sauz de Abajo|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|1378|Rural|
+59720|El Sauz de Arriba|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|2912|Rural|
+59721|El Espíritu|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|4457|Rural|
+59721|La Labor (Ejido de Independencia)|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|4459|Rural|
+59721|Romero de Torres|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|1380|Rural|
+59722|Kilómetro Ocho|Rancho|Zamora|Michoacán de Ocampo||59691|16|59691||48|108|0012|Rural|
+59722|Romero de Guzmán|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1381|Rural|
+59723|Atacheo de Regalado|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1382|Rural|
+59723|El Guamúchil|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|4458|Rural|
+59724|La Rinconada|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1383|Urbano|
+59725|El Cerrito de Catipuato (Cerrito de Ortiz)|Ranchería|Zamora|Michoacán de Ocampo||59691|16|59691||29|108|4456|Rural|
+59725|San Esteban (Ejido Santa Cruz)|Pueblo|Zamora|Michoacán de Ocampo||59691|16|59691||28|108|1384|Rural|

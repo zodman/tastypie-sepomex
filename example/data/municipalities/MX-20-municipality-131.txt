@@ -1,0 +1,5 @@
+70495|Santo Tomas de Arriba|Pueblo|San Dionisio Ocotepec|Oaxaca||70401|20|70401||28|131|2264|Rural|
+70495|San Dionisio Ocotepec|Ranchería|San Dionisio Ocotepec|Oaxaca||70401|20|70401||29|131|2263|Rural|
+70496|Barrio Lindavista|Barrio|San Dionisio Ocotepec|Oaxaca||70401|20|70401||02|131|4497|Rural|
+70497|Barrio de Fátima|Barrio|San Dionisio Ocotepec|Oaxaca||70401|20|70401||02|131|4975|Rural|
+70497|San Baltazar Guelavila|Pueblo|San Dionisio Ocotepec|Oaxaca||70401|20|70401||28|131|2265|Rural|

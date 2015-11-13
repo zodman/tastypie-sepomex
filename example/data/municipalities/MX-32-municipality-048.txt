@@ -1,0 +1,27 @@
+99700|Los Guapos|Ranchería|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||29|048|0683|Rural|
+99700|San Antonio|Ranchería|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||29|048|0685|Rural|
+99700|Independencia|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1227|Semiurbano|
+99700|Las Conchas|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1228|Semiurbano|
+99700|Los Ramos|Ranchería|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||29|048|0684|Rural|
+99700|Tabachines|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1225|Semiurbano|
+99700|Lomas Del Calvario|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1317|Semiurbano|
+99700|Las Lomitas|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1321|Semiurbano|
+99700|Hacienda Real|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1325|Semiurbano|
+99700|Brisas Del Rio|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1224|Semiurbano|
+99700|San Pascual|Barrio|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||02|048|1323|Semiurbano|
+99700|Las Moritas|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1324|Semiurbano|
+99700|Las Goteras|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1221|Semiurbano|
+99700|Militar|Unidad habitacional|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||31|048|1319|Semiurbano|
+99700|La Haciendita|Barrio|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||02|048|1326|Semiurbano|
+99700|Morones|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1318|Semiurbano|
+99700|Hidráulica|Colonia|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||09|048|1322|Semiurbano|
+99700|Buena Vista|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1222|Semiurbano|
+99700|Arboledas|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1223|Semiurbano|
+99700|Lomas Del Country|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1226|Semiurbano|
+99700|Santo Santiago|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1327|Semiurbano|
+99700|Tlaltenango de Sanchez Román|Ranchería|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||29|048|0686|Semiurbano|
+99700|Valle Verde|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1320|Semiurbano|
+99702|Lomas de Caxcanes|Fraccionamiento|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||21|048|1768|Urbano|
+99704|La Palma|Ranchería|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||29|048|0688|Rural|
+99705|Salazares|Ranchería|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||29|048|0689|Rural|
+99707|Cicacalco|Pueblo|Tlaltenango de Sánchez Román|Zacatecas||99701|32|99701||28|048|0690|Rural|

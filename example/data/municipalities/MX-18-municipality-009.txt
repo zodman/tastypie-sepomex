@@ -1,0 +1,513 @@
+63530|Jesús María|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0377|Urbano|
+63533|El Saucito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1519|Rural|
+63533|El Trigalillo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1533|Rural|
+63533|Los Aguacates|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1684|Rural|
+63533|Los Bancos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1694|Rural|
+63533|Picachitos (Juan Sabás)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1778|Rural|
+63533|El Colomo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0382|Rural|
+63533|Santa Bárbara|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0383|Rural|
+63533|El Segundo Paso|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1522|Rural|
+63533|Los Serranos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1741|Rural|
+63533|Zapopan|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1845|Rural|
+63533|Arroyo Capomo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1370|Rural|
+63533|El Salitre|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1516|Rural|
+63533|El Tesorero|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1532|Rural|
+63533|Teodoro Valentín|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1831|Rural|
+63533|Las Huertitas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1107|Rural|
+63533|Cerro Pelón|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1400|Rural|
+63533|Terrurúripa|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1832|Rural|
+63533|Ciénega de Santa Rosa|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1403|Rural|
+63533|El Banco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1425|Rural|
+63533|El Caligüey|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1428|Rural|
+63533|Los Ladrillos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1725|Rural|
+63533|El Cascabel|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1442|Rural|
+63533|El Purgatorio|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1503|Rural|
+63533|Guapinole|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1551|Rural|
+63533|La Mojonera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1605|Rural|
+63533|La Palma|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1615|Rural|
+63533|Las Ranas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1672|Rural|
+63533|Santa Rosa|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1822|Rural|
+63533|Santos Rojas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1823|Rural|
+63533|La Mojarra|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1604|Rural|
+63533|Los Manguitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1731|Rural|
+63533|San Joaquín|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1811|Rural|
+63533|Aurelio de la Cruz Serrano|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1382|Rural|
+63533|Cerro Chino|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1397|Rural|
+63533|El Limón|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1470|Rural|
+63533|El Molino|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1481|Rural|
+63533|La Laguna|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1589|Rural|
+63533|La Nanchilera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1608|Rural|
+63533|Los Corpos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1707|Rural|
+63533|Los Cuervitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1712|Rural|
+63533|San Isidro|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1809|Rural|
+63534|Arroyo Cañaveral|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1108|Rural|
+63534|El Campamento (La Silleta)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1430|Rural|
+63534|Palomas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1769|Rural|
+63534|Santa Cruz|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1818|Rural|
+63534|El Chalate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1446|Rural|
+63534|La Mesa del Roblar|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1599|Rural|
+63534|Laguna de Ojo de Agua|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1634|Rural|
+63534|Las Patas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1665|Rural|
+63534|Los Manguitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1732|Rural|
+63534|Arroyo del Fraile|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1376|Rural|
+63534|El Jazmín|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1468|Rural|
+63534|La Banquita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1562|Rural|
+63534|Boca de Arroyo Santiago|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1384|Rural|
+63534|El Pastor|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1490|Rural|
+63534|El Zapote|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1541|Rural|
+63534|Ixtalpa|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1556|Rural|
+63534|Rancho de Petra|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1799|Rural|
+63534|El Chalate|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1447|Rural|
+63534|El Picacho|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1492|Rural|
+63534|La Guerra|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1584|Rural|
+63534|Los Brincos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1698|Rural|
+63534|San Francisco|Pueblo|Del Nayar|Nayarit||63621|18|63621||28|009|0386|Rural|
+63534|Arroyo Hondo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1378|Rural|
+63534|Boca del Arroyo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1385|Rural|
+63534|La Ciénega|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1571|Rural|
+63534|La Cuesta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1580|Rural|
+63534|La Mezquitera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1603|Rural|
+63534|Piedra Iglesia|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1781|Rural|
+63534|Puente el Fraile|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1787|Rural|
+63534|Arroyo de Santiago|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1374|Rural|
+63534|El Algodonal|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1418|Rural|
+63534|El Capomo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1436|Rural|
+63534|La Concepción|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1578|Rural|
+63534|La Mesita (El Llano Grande)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1601|Rural|
+63534|Rancho Viejo|Congregación|Del Nayar|Nayarit||63621|18|63621||11|009|0385|Rural|
+63534|La Palma|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1616|Rural|
+63534|Los Arrayanes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1692|Rural|
+63535|Bajío de la Cebolleta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1383|Rural|
+63535|El Picacho|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1493|Rural|
+63535|Los Arrayanes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1693|Rural|
+63535|Los Corpos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1708|Rural|
+63535|La Cebolleta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1564|Rural|
+63535|La Ciénega de San Felipe|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1574|Rural|
+63535|La Curva|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1583|Rural|
+63535|Las Patillas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1666|Rural|
+63535|El Arco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1420|Rural|
+63535|El Saucito Peyotán|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1520|Rural|
+63535|La Metatita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1602|Rural|
+63535|Las Adjuntas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1635|Rural|
+63535|Rancho del Bajío|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1802|Rural|
+63535|El Reventón|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1506|Rural|
+63535|El Rincón|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1509|Rural|
+63535|Los Alacranes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1688|Rural|
+63535|Atonalisco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1381|Rural|
+63535|El Zapote|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1542|Rural|
+63535|La China|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1565|Rural|
+63535|La Peña Blanca|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1619|Rural|
+63535|San Juan Peyotán|Pueblo|Del Nayar|Nayarit||63621|18|63621||28|009|0388|Rural|
+63535|El Arrayán|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1421|Rural|
+63535|El Gabino|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1460|Rural|
+63535|Peña Blanca|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1773|Rural|
+63535|Arroyo del Guamúchil|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1377|Rural|
+63535|El Chalate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1448|Rural|
+63535|El Limón|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1471|Rural|
+63535|La Lechuguilla|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1593|Rural|
+63535|Ortega|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1763|Rural|
+63535|Campatehuala|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1392|Rural|
+63536|El Chalate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1444|Rural|
+63536|El Limón|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1469|Rural|
+63536|Las Tapias (Santa Gertrudis)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1674|Rural|
+63536|Los Guajolotes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1719|Rural|
+63536|Jazmines de Coyultita|Congregación|Del Nayar|Nayarit||63621|18|63621||11|009|0389|Rural|
+63536|Zoquipan|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0390|Rural|
+63536|Arroyo de Pericos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1373|Rural|
+63536|El Risco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1511|Rural|
+63536|Los Cuervitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1711|Rural|
+63536|Rancho Nuevo (Juventino)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1804|Rural|
+63536|Cabeza de Venado|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1388|Rural|
+63536|Cofradía de Pericos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1405|Rural|
+63536|Comal de Peñita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1406|Rural|
+63536|El Agua Caliente|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1414|Rural|
+63536|El Pitallito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1500|Rural|
+63536|El Zapote|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1538|Rural|
+63536|La Quemada|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1625|Rural|
+63536|Las Peñas Coloradas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1667|Rural|
+63536|Los Aguacates|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1682|Rural|
+63536|Los Medina|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1733|Rural|
+63536|Nochecita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1760|Rural|
+63536|Tierras Blancas del Picacho|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1839|Rural|
+63536|El Ciruelar|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1450|Rural|
+63536|El Maguey|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1472|Rural|
+63536|El Zapote|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1537|Rural|
+63536|Los Encinos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1714|Rural|
+63536|Arrayanes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1368|Rural|
+63536|El Capomo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1434|Rural|
+63536|La Mesa|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1596|Rural|
+63536|La Nopalera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1609|Rural|
+63536|El Duraznito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1456|Rural|
+63536|El Manguito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1477|Rural|
+63536|El Zapote|Poblado comunal|Del Nayar|Nayarit||63621|18|63621||27|009|1539|Rural|
+63536|Las Cuevas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1645|Rural|
+63536|Los Tigres (El Metate)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1746|Rural|
+63536|Coyultita de Jazmines|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0392|Rural|
+63536|El Capomo|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1435|Rural|
+63536|El Naranjo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1484|Rural|
+63536|El Quicuixtle|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1504|Rural|
+63536|Guamuchilillo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1550|Rural|
+63536|Guásima del Metate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1553|Rural|
+63536|Tierra Caliente|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1834|Rural|
+63536|El Conejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1453|Rural|
+63536|El Guayabo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1466|Rural|
+63536|El Sapo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1517|Rural|
+63536|Gabino Severiano|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1545|Rural|
+63536|La Palma|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1613|Rural|
+63536|Los Aires|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1685|Rural|
+63537|Chapiles|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1402|Rural|
+63537|El Rincón|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1508|Rural|
+63537|El Zopilote|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1543|Rural|
+63537|Guásimas del Caimán|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1554|Rural|
+63537|Jazmines|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1557|Rural|
+63537|Palma Chica|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1766|Rural|
+63537|Paredes|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1770|Rural|
+63537|Alto de Ventanas|Congregación|Del Nayar|Nayarit||63001|18|63001||11|009|0380|Rural|
+63537|La Loma de los Encinos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1594|Rural|
+63537|Las Cuevas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1644|Rural|
+63537|Los Encinos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1713|Rural|
+63537|La Mata|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1595|Rural|
+63537|La Mesa de la Pitayera|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1598|Rural|
+63537|La Palmita|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1618|Rural|
+63537|Las Palmas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1663|Rural|
+63537|Los Guayabos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1721|Rural|
+63537|Huaynamota|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|0391|Rural|
+63537|Arroyo Barbón|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1369|Rural|
+63537|Carrizal de las Vigas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1393|Rural|
+63537|El Rincón|Ejido|Del Nayar|Nayarit||63001|18|63001||15|009|1507|Rural|
+63537|Tutuyecuamama|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1842|Rural|
+63537|Vuelta del Cerro|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1844|Rural|
+63537|El Pinito|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1494|Rural|
+63537|Las Guásimas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1651|Rural|
+63537|Teneracas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1830|Rural|
+63537|El Espejo|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1458|Rural|
+63537|Rancho de Emilia|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1791|Rural|
+63537|Brasiles|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1386|Rural|
+63537|Tierra Blanca (El Tempisque)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1833|Rural|
+63537|La Ciénega|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1567|Rural|
+63537|Las Adjuntas (La Peña)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1636|Rural|
+63537|Las Cruces|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1641|Rural|
+63537|Los Sabinos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1739|Rural|
+63537|Los Yugos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1747|Rural|
+63538|El Novillero|Pueblo|Del Nayar|Nayarit||63001|18|63001||28|009|1176|Rural|
+63538|Potrero de la Palmita|Ejido|Del Nayar|Nayarit||63001|18|63001||15|009|1785|Rural|
+63538|San Rafael|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|0381|Rural|
+63538|Higuera Gorda|Ejido|Del Nayar|Nayarit||63001|18|63001||15|009|0393|Rural|
+63538|Corrales|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1407|Rural|
+63538|El Manguito|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1476|Rural|
+63538|El Ranchito|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1505|Rural|
+63538|La Higuerita|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1585|Rural|
+63538|La Nanchilera|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1606|Rural|
+63538|La Nanchilera|Ejido|Del Nayar|Nayarit||63001|18|63001||15|009|1607|Rural|
+63538|La Polvareda (Higueral de Don Pancho)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1622|Rural|
+63538|Las Guineas de Guadalupe|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1649|Rural|
+63538|Rancho Viejo|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1805|Rural|
+63538|Zapotán|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1846|Rural|
+63538|El Anonito|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1419|Rural|
+63538|El Ciruelar|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1449|Rural|
+63538|El Guariche|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1464|Rural|
+63538|El Tepetate|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1530|Rural|
+63538|Caleras|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1390|Rural|
+63538|Cuauhtémoc|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1412|Rural|
+63538|El Carrizal|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1437|Rural|
+63538|El Colorín|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1452|Rural|
+63538|Las Cuevas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1643|Rural|
+63538|Coyultita de Mala Noche|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1410|Rural|
+63538|El Nogal|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1485|Rural|
+63538|Las Azucenas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1638|Rural|
+63538|Las Palmas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1662|Rural|
+63538|Los Barros Negros|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1697|Rural|
+63538|Los Cajones|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1700|Rural|
+63538|San Pablo|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1813|Rural|
+63538|Agua Caliente|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1362|Rural|
+63538|Aguamilpa|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1365|Rural|
+63538|Caimantita|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1389|Rural|
+63538|El Vicenteño (Calaveras)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1535|Rural|
+63538|La Travesía|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1629|Rural|
+63538|Las Matas (El Chalate)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1658|Rural|
+63538|Los Parejos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1736|Rural|
+63538|El Pino|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1499|Rural|
+63538|Puerto de Mala Noche|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1788|Rural|
+63538|El Aire|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1417|Rural|
+63538|El Cordón|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1454|Rural|
+63538|El Papalote|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1488|Rural|
+63538|El Sordo|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1524|Rural|
+63538|El Vicenteño (Huamiloya)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1536|Rural|
+63538|La Ventanilla|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1631|Rural|
+63538|Las Higueras|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1653|Rural|
+63538|San Luisito|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1812|Rural|
+63539|El Saucito|Pueblo|Del Nayar|Nayarit||63001|18|63001||28|009|1103|Rural|
+63539|La Palmita|Poblado comunal|Del Nayar|Nayarit||63001|18|63001||27|009|1196|Rural|
+63539|Agua Caliente (El Anonito)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1364|Rural|
+63539|El Roble|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1512|Rural|
+63539|Paso de Lozada|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1772|Rural|
+63539|El Sauz|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1521|Rural|
+63539|Los Hornitos|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1723|Rural|
+63539|El Manguito|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1475|Rural|
+63539|Gualupillo|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1549|Rural|
+63539|Naranjito de Copal|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1758|Rural|
+63539|La Mesa (Goyo)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1597|Rural|
+63539|Palomas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1768|Rural|
+63539|Playa de Golondrinas|Ejido|Del Nayar|Nayarit||63001|18|63001||15|009|1784|Rural|
+63539|Rancho Alegre (Agua Hedionda)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1789|Rural|
+63539|La Laguna Seca|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1591|Rural|
+63539|Laguna de las Vacas|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1633|Rural|
+63539|El Mango|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1474|Rural|
+63539|El Pinito (Pedro Esparza)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1497|Rural|
+63539|Paso de Álica (Agua Buena)|Ranchería|Del Nayar|Nayarit||63001|18|63001||29|009|1771|Rural|
+63540|San Victoria|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1816|Rural|
+63540|Cebollitas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1394|Rural|
+63540|Cerro del Águila|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1399|Rural|
+63540|El Bajío|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1424|Rural|
+63540|Las Pulgas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1671|Rural|
+63540|Los Chapiles (Hitachi)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1703|Rural|
+63540|Santa Teresa|Pueblo|Del Nayar|Nayarit||63621|18|63621||28|009|0395|Rural|
+63540|El Carrizo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1441|Rural|
+63540|Las Tortugas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1678|Rural|
+63540|Mesa de Cocorochas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1755|Rural|
+63540|Santa Anita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1817|Rural|
+63543|El Guaco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1463|Rural|
+63543|La Cofradía (Tierras Blancas)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1576|Rural|
+63543|Las Tortugas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1677|Rural|
+63543|Los Coamiles|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1705|Rural|
+63543|Piedra Bola|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1780|Rural|
+63543|Sixto Santiago Lincer|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1824|Rural|
+63543|Anselmo Lemus Valle|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1367|Rural|
+63543|Cerro Cantador|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1396|Rural|
+63543|Los Tacos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1743|Rural|
+63543|Los Tenamaxtles|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1744|Rural|
+63543|Dolores|Pueblo|Del Nayar|Nayarit||63621|18|63621||28|009|0396|Rural|
+63543|Asención Lemus Valle|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1379|Rural|
+63543|Cerritos (Tierras Blancas)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1395|Rural|
+63543|El Portezuelo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1501|Rural|
+63543|Guásimas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1552|Rural|
+63543|Los Padres|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1735|Rural|
+63543|Los Pinitos (Dolores Viejo)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1737|Rural|
+63543|Tierras Blancas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1838|Rural|
+63543|Las Mesitas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1659|Rural|
+63543|Melesio Valle Gómez|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1753|Rural|
+63543|Palo Boludo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1767|Rural|
+63543|El Cangrejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1433|Rural|
+63543|Las Conchas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1640|Rural|
+63543|Mesa de los Huicholes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1757|Rural|
+63543|Petronilo Gutiérrez|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1776|Rural|
+63543|San Isidro|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1810|Rural|
+63543|Zeferinos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1847|Rural|
+63543|La Bonita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1563|Rural|
+63543|Magdaleno Pérez Carrillo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1751|Rural|
+63543|San Vicente|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1814|Rural|
+63543|El Aguacate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1416|Rural|
+63543|El Roblito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1514|Rural|
+63543|Juan Carrillo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1560|Rural|
+63543|Las Palmas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1664|Rural|
+63543|Los Guajolotes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1720|Rural|
+63543|Coyultita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1409|Rural|
+63543|El Brinco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1426|Rural|
+63543|El Caimán|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1427|Rural|
+63543|El Manguito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1478|Rural|
+63543|El Sobadero|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1523|Rural|
+63543|La Pintada|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1621|Rural|
+63543|Las Habitas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1652|Rural|
+63543|San Vicente Viejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1815|Rural|
+63543|Tapinada|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1829|Rural|
+63543|Tierras Coloradas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1840|Rural|
+63544|Las Guacamayas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1647|Rural|
+63544|Linda Vista|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1681|Rural|
+63544|Los Conejos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1706|Rural|
+63544|Camaleones|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1391|Rural|
+63544|Las Guitarras|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1650|Rural|
+63544|Rancho Viejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1806|Rural|
+63544|Santa Cruz|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1819|Rural|
+63544|Tapeistes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1828|Rural|
+63544|La Yerba|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1632|Rural|
+63544|Tierras Cuevas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1841|Rural|
+63544|Los Cueros|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1710|Rural|
+63544|Los Fierros|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1716|Rural|
+63544|Los Zorrillos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1749|Rural|
+63544|La Cieneguita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1566|Rural|
+63544|Los Carrizos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1702|Rural|
+63544|La Mesita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1600|Rural|
+63544|Ojo de Agua|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1762|Rural|
+63544|Pico del Águila (Tankanini)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1779|Rural|
+63544|Rancho Doroteo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1803|Rural|
+63544|Santa Gertrudis|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1821|Rural|
+63545|La Ciénega|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1572|Rural|
+63545|Los Llanitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1729|Rural|
+63545|Los Nopales (Karurita)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1734|Rural|
+63545|La Ventana|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1630|Rural|
+63545|Los Arenales|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1690|Rural|
+63545|Cañada de la Laguna|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1387|Rural|
+63545|La Palma|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1617|Rural|
+63545|Los Corralitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1709|Rural|
+63545|Vigilio Carrillo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1843|Rural|
+63545|Juan Pérez|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1561|Rural|
+63545|Pitorreales|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1782|Rural|
+63545|Las Minas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1660|Rural|
+63545|Los Huizaches|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1724|Rural|
+63546|Sacaymota|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1807|Rural|
+63546|El Duende|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1455|Rural|
+63546|La Laguna|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1590|Rural|
+63546|Rancho de Antolino|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1790|Rural|
+63546|Rancho de Margarito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1797|Rural|
+63546|Anastasio Melchor Due|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1366|Rural|
+63546|Los Tepetates|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1745|Rural|
+63546|Rancho de Gervasio|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1793|Rural|
+63546|El Cangrejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1432|Rural|
+63546|La Taberna|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1628|Rural|
+63546|Los Alacranes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1687|Rural|
+63546|Aserradero|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1380|Rural|
+63546|Las Vigas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1680|Rural|
+63546|Manuel Pancho|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1752|Rural|
+63546|Mesa del Nayar|Pueblo|Del Nayar|Nayarit||63621|18|63621||28|009|0397|Rural|
+63546|La Ciénega|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1570|Rural|
+63546|El Molcajete|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1480|Rural|
+63546|El Rincón (Las Sillas)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1510|Rural|
+63546|Guadalupe (El Magueyito)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1546|Rural|
+63546|Luis Romero (Las Cocorochas)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1750|Rural|
+63546|San Rafael (San Rafael Alto)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0398|Rural|
+63546|Las Avispas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1637|Rural|
+63546|Los Robles|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1738|Rural|
+63547|El Nanchi|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1483|Rural|
+63547|La Puerta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1623|Rural|
+63547|Los Limones|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1726|Rural|
+63547|Rancho de Leandro Estrada|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1796|Rural|
+63547|El Guaco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1462|Rural|
+63547|El Pescuezo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1491|Rural|
+63547|El Sabino|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1515|Rural|
+63547|El Tepetate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1531|Rural|
+63547|Los Granos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1718|Rural|
+63547|Zoquipilla|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1848|Rural|
+63547|El Durazno|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1457|Rural|
+63547|El Guayabito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1465|Rural|
+63547|La Ciénega|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1569|Rural|
+63547|La Palma|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1614|Rural|
+63547|La Segueta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1626|Rural|
+63547|Las Sillas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1673|Rural|
+63547|Los Tabacos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1742|Rural|
+63547|Cerro Redondo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1401|Rural|
+63547|El Cerrito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1443|Rural|
+63547|La Cofradía Uno|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1577|Rural|
+63547|La Silleta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1627|Rural|
+63547|Los Calixtro|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1701|Rural|
+63547|Picachitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1777|Rural|
+63547|Primer Paso|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1786|Rural|
+63547|Gavilanes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|0384|Rural|
+63547|El Carrizal|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1438|Rural|
+63547|El Pinito Nuevo (La Muñeca)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1498|Rural|
+63547|Las Guayabas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1648|Rural|
+63547|Las Tarabillas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1675|Rural|
+63547|Los Bules|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1699|Rural|
+63547|Rancho de Santos García|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1801|Rural|
+63547|Agua Caliente|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1363|Rural|
+63547|El Mirador|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1479|Rural|
+63547|El Pinito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1496|Rural|
+63547|La Joya|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1586|Rural|
+63547|La Laguna|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1588|Rural|
+63547|Las Pilas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1670|Rural|
+63547|Los Sabinos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1740|Rural|
+63547|Pajarillos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1764|Rural|
+63547|Arroyo de Camarones|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1371|Rural|
+63547|Huizache|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1555|Rural|
+63547|La Nopalera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1611|Rural|
+63547|Los Lirios|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1727|Rural|
+63547|Mesa de los Cánare|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1756|Rural|
+63547|Gualacamote|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1547|Rural|
+63547|La Lamedera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1592|Rural|
+63547|Pajaritos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1765|Rural|
+63548|El Papayito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1489|Rural|
+63548|Las Crucecitas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1642|Rural|
+63548|Las Peñitas (Las Antenas)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1668|Rural|
+63548|Los Zapotes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1748|Rural|
+63548|Melquiades de la Cruz Cuevas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1754|Rural|
+63548|San Gregorio|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1808|Rural|
+63548|Ta Puaa Ta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1826|Rural|
+63548|Tierras Blancas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1835|Rural|
+63548|El Arroyo del Tezcalame|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1422|Rural|
+63548|El Izote|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1467|Rural|
+63548|Jerónimo Melchor|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1559|Rural|
+63548|Las Estrellas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1646|Rural|
+63548|Los Aguacates|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1683|Rural|
+63548|Rancho de la Cueva|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1795|Rural|
+63548|Los Ciruelos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1175|Rural|
+63548|La Ciénega de las Limas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1573|Rural|
+63548|La Cueva Prieta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1581|Rural|
+63548|La Cumbre del Duraznito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1582|Rural|
+63548|La Piedra del Cangrejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1620|Rural|
+63548|La Puerta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1624|Rural|
+63548|Las Calandrias|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1639|Rural|
+63548|Las Maravillas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1657|Rural|
+63548|Las Ollas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1661|Rural|
+63548|Las Pestañas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1669|Rural|
+63548|Los Aires|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1686|Rural|
+63548|Rancho de Eustorgio|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1792|Rural|
+63548|Arroyo de la Cueva|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1372|Rural|
+63548|Ciénega del Mango|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1404|Rural|
+63548|El Aserradero|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1423|Rural|
+63548|El Camichín|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1429|Rural|
+63548|El Carrizo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1439|Rural|
+63548|El Tempisque|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1526|Rural|
+63548|Gualsamayeta|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1548|Rural|
+63548|Jazmín del Coquito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1558|Rural|
+63548|Los Ciruelitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1704|Rural|
+63548|Peñas Amarillas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1774|Rural|
+63548|Santa Cruz de Guaybel|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1820|Rural|
+63548|Las Hormigas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1089|Rural|
+63548|Arroyo del Capomo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1375|Rural|
+63548|El Agua Caliente|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1415|Rural|
+63548|El Nogal|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1486|Rural|
+63548|La Ladrillera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1587|Rural|
+63548|Las Iguanas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1655|Rural|
+63548|Los Arrayanes|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1691|Rural|
+63548|Los Mangos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1730|Rural|
+63548|Peñasco Blanco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1775|Rural|
+63548|Rancho de Mariano|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1798|Rural|
+63548|Rancho de Pánfilo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1800|Rural|
+63548|El Chalate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1445|Rural|
+63548|El Clavellino|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1451|Rural|
+63548|El Zapote|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1540|Rural|
+63548|La Ciénega|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1568|Rural|
+63548|La Nopalera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1612|Rural|
+63548|Los Banquitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1695|Rural|
+63548|Rancho de Ignacio (Los Fortines)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1794|Rural|
+63548|Cerro de la Lluvia|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1398|Rural|
+63548|Culebras|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1413|Rural|
+63548|El Faisán|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1459|Rural|
+63548|El Maguey|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1473|Rural|
+63548|El Pinito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1495|Rural|
+63548|El Puente de las Guayabas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1502|Rural|
+63548|Los Arcos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1689|Rural|
+63548|Los Fortines|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1717|Rural|
+63548|San Miguel del Zapote|Congregación|Del Nayar|Nayarit||63621|18|63621||11|009|0379|Rural|
+63548|El Monte del Palo Cuate|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1482|Rural|
+63548|Las Urracas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1679|Rural|
+63549|El Roblito|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1513|Rural|
+63549|El Tapeiste|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1525|Rural|
+63549|Naute|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1759|Rural|
+63549|El Tenamaste|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1529|Rural|
+63549|Las Jabas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1656|Rural|
+63549|Los Banquitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1696|Rural|
+63549|Los Encinos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1715|Rural|
+63549|Platanitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1783|Rural|
+63549|Tapanco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1827|Rural|
+63549|Coyunque|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1411|Rural|
+63549|Las Tortugas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1676|Rural|
+63549|El Cangrejo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1431|Rural|
+63549|El Guaco|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1461|Rural|
+63549|El Nogal|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1487|Rural|
+63549|Encino Colorado|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1544|Rural|
+63549|Sonorita (Las Lechugas)|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1825|Rural|
+63549|Coyultita|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1408|Rural|
+63549|La Nopalera|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1610|Rural|
+63549|Ojo de Agua|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1761|Rural|
+63549|La Cofradía|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1575|Rural|
+63549|La Cortadilla|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1579|Rural|
+63549|Los Hongos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1722|Rural|
+63549|Los Llanitos|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1728|Rural|
+63549|El Carrizo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1440|Rural|
+63549|El Tunaiste|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1534|Rural|
+63549|Tierras Blancas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1836|Rural|
+63549|Tierras Blancas|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1837|Rural|
+63549|El Sapo|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1518|Rural|
+63549|El Tempisque|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1527|Rural|
+63549|El Tenamaiste|Ejido|Del Nayar|Nayarit||63621|18|63621||15|009|1528|Rural|
+63549|Las Hormigas|Ranchería|Del Nayar|Nayarit||63621|18|63621||29|009|1654|Rural|

@@ -1,0 +1,112 @@
+78920|Venado|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0792|Rural|
+78923|El Cenizal|Fraccionamiento|Venado|San Luis Potosí||78591|24|78591||21|045|2454|Rural|
+78923|San Cayetano|Barrio|Venado|San Luis Potosí||78591|24|78591||02|045|2455|Rural|
+78924|Barrio de Guadalupe|Barrio|Venado|San Luis Potosí||78591|24|78591||02|045|0799|Rural|
+78925|Lomas de Guadalupe|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2453|Rural|
+78925|San Sebastián|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2451|Rural|
+78925|San Francisco|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2452|Rural|
+78925|San José|Barrio|Venado|San Luis Potosí||78591|24|78591||02|045|0001|Rural|
+78926|Loma Linda|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2448|Rural|
+78926|San Juan|Barrio|Venado|San Luis Potosí||78591|24|78591||02|045|2447|Rural|
+78926|Ricardo Flores Magón|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2449|Rural|
+78926|La Cruz Negra|Barrio|Venado|San Luis Potosí||78591|24|78591||02|045|2450|Rural|
+78927|La Purísima|Barrio|Venado|San Luis Potosí||78591|24|78591||02|045|2457|Rural|
+78927|Villa de Las Flores|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2458|Rural|
+78927|Del Valle|Colonia|Venado|San Luis Potosí||78591|24|78591||09|045|2456|Rural|
+78930|El Gateado|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0026|Rural|
+78930|La Puerta|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0049|Rural|
+78930|La Puerta|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0050|Rural|
+78930|Tanque la Milpa|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0075|Rural|
+78930|El Grullo|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0027|Rural|
+78930|El Matorral|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0030|Rural|
+78930|Viborillas|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0077|Rural|
+78930|Los Remedios|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0805|Rural|
+78930|Guanamé|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0790|Rural|
+78930|La Manga (Tanque la Bota)|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0046|Rural|
+78930|La Piedra|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0047|Rural|
+78930|La Reforma|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0051|Rural|
+78930|Toledo|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0076|Rural|
+78930|La Cañada San Juan|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0041|Rural|
+78930|Cinco de Febrero|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0806|Rural|
+78930|El Colgado|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0022|Rural|
+78930|Los Elotes|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0055|Rural|
+78930|Los Lobitos|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0056|Rural|
+78930|Andrés Rangel|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0003|Rural|
+78930|Eulogio Zamarripa|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0039|Rural|
+78930|La Vaina|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0052|Rural|
+78930|Palo Blanco|Poblado comunal|Venado|San Luis Potosí||78591|24|78591||27|045|2918|Rural|
+78933|El Sotol|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0036|Rural|
+78933|La Lagunita del Sotol|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0045|Rural|
+78933|Venado|Estación|Venado|San Luis Potosí||78591|24|78591||16|045|0796|Rural|
+78933|El Sotolillo de Abajo|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0037|Rural|
+78933|El Laurel|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0807|Rural|
+78933|El Cuije|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0024|Rural|
+78933|El Tejón|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0038|Rural|
+78933|San Onofre|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0071|Rural|
+78933|Cinco de Mayo|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|2347|Rural|
+78933|La Barranca Norte|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0040|Rural|
+78933|Polocote de Arriba|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0791|Rural|
+78933|El Salero|Congregación|Venado|San Luis Potosí||78591|24|78591||11|045|0793|Rural|
+78933|Ejido el Salero|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0012|Rural|
+78933|La Ciénaga de Guanamé|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0042|Rural|
+78933|Quinta Ojo de Agua|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0068|Rural|
+78933|El Conejo|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0023|Rural|
+78933|Los Trejos|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0058|Rural|
+78934|Cerro Verde|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0010|Rural|
+78934|San Sabino|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0072|Rural|
+78934|Santa Rita (El Alto)|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0074|Rural|
+78934|Pozo Número Siete|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0067|Rural|
+78934|Tierra Blanca|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0794|Rural|
+78934|El Faro|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0025|Rural|
+78934|Pozo Número Dos|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0062|Rural|
+78934|Pozo Número Nueve|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0063|Rural|
+78934|Pozo Número Tres (Santa Rita)|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0066|Rural|
+78934|El Tecolote|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0795|Rural|
+78934|Barrio de Guadalupe Dos (Mexiquito)|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0005|Rural|
+78934|La Curva (La Esquina)|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0044|Rural|
+78934|Rancho Nuevo|Rancho|Venado|San Luis Potosí||78591|24|78591||48|045|0069|Rural|
+78934|Santa Rita|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0801|Rural|
+78934|El Clérigo (Miguel Rivera Banderas)|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0021|Rural|
+78934|Pozo Número Ocho|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0064|Rural|
+78934|Pozo Número Tres (Barrio de Guadalupe)|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0065|Rural|
+78934|San Mateo|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0070|Rural|
+78934|Noria de Santa Teresa|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0060|Rural|
+78934|Polocote de Abajo (Polocotillo)|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0061|Rural|
+78934|El Arenal|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0013|Rural|
+78934|Noria de la Unión|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0059|Rural|
+78934|San Sebastián|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0073|Rural|
+78935|El Refugio|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0034|Rural|
+78935|La Trinidad|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0802|Rural|
+78935|La Clavellina|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0043|Rural|
+78935|El Charquillo|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0019|Rural|
+78935|El Charco Verde|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0018|Rural|
+78935|Coronado (Hacienda de Coronado)|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0800|Rural|
+78936|San Joaquín de las Flores|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0804|Rural|
+78936|El Salitre|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0798|Rural|
+78936|El Charquito|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0020|Rural|
+78936|El Pocito|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0031|Rural|
+78936|El Epazote|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|2483|Rural|
+78936|El Berrendo|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0014|Rural|
+78936|Don Diego|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0797|Rural|
+78936|San Pedro|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|2555|Rural|
+78937|Cañada del Cuarto|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0008|Rural|
+78937|El Chaparralillo (El Chaparral)|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0017|Rural|
+78937|El Machito (El Tanque del Machito)|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0029|Rural|
+78937|El Pozote|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0032|Rural|
+78937|Las Crucitas|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0053|Rural|
+78937|El Cerrito|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0015|Rural|
+78937|Barranca del Sur|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0004|Rural|
+78937|Don Longino|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0011|Rural|
+78937|El Rebaje|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0033|Rural|
+78937|El Huizachal|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0028|Rural|
+78937|La Presa Colorada|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0048|Rural|
+78937|Cerro Blanco|Ranchería|Venado|San Luis Potosí||78591|24|78591||29|045|0808|Rural|
+78937|El Ranchito|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0809|Rural|
+78937|Agua de En Medio|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0002|Rural|
+78937|Calabacillas|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0007|Rural|
+78937|El Chaparral|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0016|Rural|
+78937|Las Jarillas|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0054|Rural|
+78937|Buenavista|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0006|Rural|
+78937|El Sauco|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0035|Rural|
+78937|Cañada Grande|Ejido|Venado|San Luis Potosí||78591|24|78591||15|045|0009|Rural|
+78937|Los Muñiz|Pueblo|Venado|San Luis Potosí||78591|24|78591||28|045|0057|Rural|

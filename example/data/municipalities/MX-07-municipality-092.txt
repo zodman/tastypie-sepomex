@@ -1,0 +1,133 @@
+29600|La Jovi|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0006|Urbano|
+29600|Vicente Guerrero|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0014|Urbano|
+29600|Campamento Zona CUPSA|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|5529|Urbano|
+29600|Arena Moreno|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0002|Urbano|
+29600|Zona Comercial|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0015|Urbano|
+29600|Nueva Revolución|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|3759|Urbano|
+29600|Campamento CFE|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0003|Urbano|
+29600|El Mirador|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0004|Urbano|
+29600|Ignacio Allende|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0005|Urbano|
+29600|Los Laureles|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0008|Urbano|
+29600|Campamento Zona OMSA|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0633|Urbano|
+29600|Loma Bonita|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0007|Urbano|
+29600|Nuevo Chalputenango|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0009|Urbano|
+29600|Pirámide Alta|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0011|Urbano|
+29600|San Antonio Acambac|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0013|Urbano|
+29600|Campamento Zona ICA|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0017|Urbano|
+29600|Dique I|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|3779|Urbano|
+29600|Linda Vista|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|5530|Urbano|
+29600|Nuevo San Juan|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0010|Urbano|
+29600|Pirámide Baja|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|0012|Urbano|
+29600|Ciudad Perdida|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|3760|Urbano|
+29600|Zona C|Barrio|Tecpatán|Chiapas||29602|07|29602||02|092|5531|Urbano|
+29603|Lázaro Cárdenas|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3769|Rural|
+29603|La Alianza|Pueblo|Tecpatán|Chiapas||29611|07|29611||28|092|0639|Rural|
+29603|El Sacrificio|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3764|Rural|
+29603|5 de mayo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3767|Rural|
+29603|Tierra y Libertad|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3768|Rural|
+29603|Salina Cruz|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3763|Rural|
+29603|San Antonio Acambac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3766|Rural|
+29603|Santo Domingo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3762|Rural|
+29603|Miravalle|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3765|Rural|
+29603|Nuevo Chalputenango|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3761|Rural|
+29604|Palestina|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3771|Rural|
+29604|La Venta|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3770|Rural|
+29604|José López Portillo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3774|Rural|
+29604|Francisco Villa|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3776|Rural|
+29604|San Fernando Díaz Maritano|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3773|Rural|
+29604|Vicente Guerrero|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3777|Rural|
+29604|El Azufre|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3778|Rural|
+29604|Plan de Ayala|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3772|Rural|
+29604|El Sacrificio|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3775|Rural|
+29605|Rómulo Calzada|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0637|Rural|
+29605|Belisario Domínguez|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|2941|Rural|
+29605|El Reacomodo Nuevo México|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3782|Rural|
+29605|Nueva Esperanza|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3785|Rural|
+29605|Santos Degollado|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0640|Rural|
+29605|La Floresta|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3787|Rural|
+29605|Nuevo San Marcos|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3784|Rural|
+29605|El Progreso o Chintul|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|0635|Rural|
+29605|Plan de Ayala|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0636|Rural|
+29605|Chintulito|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3780|Rural|
+29605|Adolfo López Mateos Kilómetro 54|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0634|Rural|
+29605|Ángel Albino Corzo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3781|Rural|
+29605|Genaro Rojas|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3783|Rural|
+29605|Los Diamantes|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3786|Rural|
+29606|Alegre|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|3789|Rural|
+29606|Esperanza de los Pobres|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3790|Rural|
+29606|Progreso Azapac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3793|Rural|
+29606|El Limoncito|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3791|Rural|
+29606|El Paraíso|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3792|Rural|
+29606|Lázaro Cárdenas|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3796|Rural|
+29606|Juan Sabines|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3810|Rural|
+29606|Nuevo Vicente Guerrero|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3809|Rural|
+29606|El Estrecho|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3788|Rural|
+29606|Rubén Jaramillo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3794|Rural|
+29606|Bella Vista|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3808|Rural|
+29606|La Alianza|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3795|Rural|
+29606|Nuevo Edén|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3797|Rural|
+29607|San Miguel la Sardina|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3816|Rural|
+29607|Tulpan de las Flores|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3814|Rural|
+29607|Miguel Hidalgo y Costilla|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3068|Rural|
+29607|Unión Azapac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3813|Rural|
+29607|Francisco I. Madero|Pueblo|Tecpatán|Chiapas||29611|07|29611||28|092|0642|Rural|
+29607|Adolfo Ruiz Cortínez|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3811|Rural|
+29610|El Edén|Barrio|Tecpatán|Chiapas||29611|07|29611||02|092|0001|Urbano|
+29610|Framboyán|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3755|Semiurbano|
+29610|El Triunfo|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3758|Semiurbano|
+29610|El Pocito|Barrio|Tecpatán|Chiapas||29611|07|29611||02|092|5523|Semiurbano|
+29610|Luis Donaldo Colosio|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3756|Semiurbano|
+29610|Tecpatan|Pueblo|Tecpatán|Chiapas||29611|07|29611||28|092|0644|Rural|
+29610|Jorge Guzmán|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3754|Semiurbano|
+29610|Costa de Oro|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3757|Semiurbano|
+29613|La Libertad|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0649|Rural|
+29613|Casa Blanca|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3821|Rural|
+29613|Cuchipac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3824|Rural|
+29613|San José Reforma|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3827|Rural|
+29613|Peñita|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3826|Rural|
+29613|Emiliano Zapata|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0641|Rural|
+29613|Rivera Simbac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3817|Rural|
+29613|El Suspiro|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3818|Rural|
+29613|El Jícaro I|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3819|Rural|
+29613|San Antonio el Carmen|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3823|Rural|
+29613|Pictin Gen|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3834|Rural|
+29613|Nueva Jerusalén|Zona federal|Tecpatán|Chiapas||29611|07|29611||34|092|3822|Rural|
+29613|San Luis Cuchipac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3825|Rural|
+29613|Menapac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3829|Rural|
+29614|El Laurel|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|3839|Rural|
+29614|San Pablo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|0646|Rural|
+29614|Nueva Independencia|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|3836|Rural|
+29614|Buenavista Manon|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|2951|Rural|
+29614|Archimaya|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3830|Rural|
+29614|Cuchay Gen|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|3833|Rural|
+29614|Nueva Guadalupe Tepeyac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3837|Rural|
+29614|Loma Linda|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3840|Rural|
+29614|Santa Cruz|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|3832|Rural|
+29614|Nuevo Naranjo|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3831|Rural|
+29614|San Rafael|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3835|Rural|
+29615|Monterrey (Buenavista Poyospac)|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|3841|Rural|
+29615|El Edén|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3842|Rural|
+29615|Naranjo|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3843|Rural|
+29615|Monte Alegre|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3828|Rural|
+29615|Toto Pac|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3838|Rural|
+29616|13 de Septiembre|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3847|Rural|
+29616|Buena Vista|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3846|Rural|
+29616|San Vicente|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3844|Rural|
+29616|Santa Cruz|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3845|Rural|
+29617|Adolfo López Mateos|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3806|Rural|
+29617|Las Pilas|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3807|Rural|
+29617|Miguel Alemán|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0647|Rural|
+29617|Isla Yomono|Ranchería|Tecpatán|Chiapas||29611|07|29611||29|092|2964|Rural|
+29617|Lámina Uno|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3801|Rural|
+29617|La Nueva Esperanza|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3802|Rural|
+29617|El Porvenir|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0648|Rural|
+29617|Lámina Cuatro|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3799|Rural|
+29617|Río Blanco|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3803|Rural|
+29617|La Esperanza|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3804|Rural|
+29617|El Carmen Cerro Blanco|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3812|Rural|
+29617|Roberto Barrios|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|3798|Rural|
+29617|Onda Fría|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3815|Rural|
+29617|El Jícaro II|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3820|Rural|
+29617|Luis Espinosa|Colonia|Tecpatán|Chiapas||29611|07|29611||09|092|0643|Rural|
+29617|Las Conchas|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3800|Rural|
+29617|Corozo|Ejido|Tecpatán|Chiapas||29611|07|29611||15|092|3805|Rural|

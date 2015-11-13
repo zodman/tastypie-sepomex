@@ -1,0 +1,84 @@
+67300|Huajuquito O los Cavazos|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1941|Semiurbano|
+67300|Los Rodriguez|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1942|Semiurbano|
+67302|Las Misiones|Fraccionamiento|Santiago|Nuevo León||67321|19|67321||21|049|3240|Semiurbano|
+67302|Yerbaniz|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1945|Semiurbano|
+67303|El Barro|Colonia|Santiago|Nuevo León||67321|19|67321||09|049|0555|Semiurbano|
+67303|El Cerrito|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1940|Semiurbano|
+67303|San Andres|Fraccionamiento|Santiago|Nuevo León||67321|19|67321||21|049|3239|Semiurbano|
+67303|El Barrial|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1946|Semiurbano|
+67303|El Ranchito|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1947|Semiurbano|
+67304|La Boca|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1949|Rural|
+67307|Bosques de San José|Fraccionamiento|Santiago|Nuevo León||67321|19|67321||21|049|5849|Urbano|
+67307|Piedra de Fierro|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1957|Semiurbano|
+67307|San Jose Del Norte|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1959|Rural|
+67307|San Pedro|Ranchería|Santiago|Nuevo León||67321|19|67321||29|049|1961|Semiurbano|
+67307|La Esperanza|Fraccionamiento|Santiago|Nuevo León||67321|19|67321||21|049|5850|Urbano|
+67307|San Jose Sur|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1960|Rural|
+67308|Cieneguilla|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1956|Semiurbano|
+67308|Potrero de Serna|Pueblo|Santiago|Nuevo León||67321|19|67321||28|049|1962|Rural|
+67308|Cola de Caballo|Pueblo|Santiago|Nuevo León||67321|19|67321||28|049|1955|Rural|
+67308|San Francisco|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1948|Semiurbano|
+67310|El Pueblito de Santiago|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|0001|Urbano|17
+67310|Santiago Centro|Villa|Santiago|Nuevo León|Santiago|67321|19|67321||32|049|1943|Semiurbano|17
+67310|Portales de Santiago|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|0005|Urbano|17
+67310|Villa Rosario|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2972|Semiurbano|17
+67312|Del Maestro|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2976|Semiurbano|17
+67312|Aserradero|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2974|Semiurbano|17
+67312|San Francisco|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2977|Semiurbano|17
+67313|Jardines de Santiago|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2975|Semiurbano|17
+67314|Valle Del Barreal|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2990|Semiurbano|17
+67314|San Jorge|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|2987|Semiurbano|17
+67314|Valle Escondido|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2986|Semiurbano|17
+67315|Condado de Asturias|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2985|Semiurbano|17
+67315|Viento Libre|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2989|Semiurbano|17
+67315|Valles de Santiago|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2988|Semiurbano|17
+67316|Las Huertas|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|2983|Semiurbano|17
+67316|Hector Caballero|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2984|Semiurbano|17
+67317|La Boca|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|2982|Semiurbano|17
+67317|Las Cristalinas|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|2980|Semiurbano|17
+67317|Punta la Boca|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|5408|Urbano|17
+67318|Arturo Cavazos|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2978|Semiurbano|17
+67318|Aldabas de Cavazzo|Fraccionamiento|Santiago|Nuevo León|Santiago|67321|19|67321||21|049|0004|Urbano|17
+67318|Huajuquito|Hacienda|Santiago|Nuevo León|Santiago|67321|19|67321||24|049|2981|Semiurbano|17
+67318|Concepción Salazar|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2973|Semiurbano|17
+67318|Las Cristalinas|Hacienda|Santiago|Nuevo León|Santiago|67321|19|67321||24|049|2979|Semiurbano|17
+67318|Santa Rosalía|Colonia|Santiago|Nuevo León|Santiago|67321|19|67321||09|049|2971|Semiurbano|17
+67320|El Cercado Centro|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2995|Semiurbano|18
+67320|15 de Mayo|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3019|Semiurbano|18
+67322|San Javier|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2991|Semiurbano|18
+67322|Lomas Del Cercado|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2992|Semiurbano|18
+67322|Los Pescadores|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2993|Semiurbano|18
+67322|S R H|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3016|Semiurbano|18
+67322|Terrero|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2999|Semiurbano|18
+67322|Alameda|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2994|Semiurbano|18
+67323|Jardines de La Boca|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3000|Semiurbano|18
+67323|Salto Del Café|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2996|Semiurbano|18
+67323|Las Hadas|Fraccionamiento|Santiago|Nuevo León|El cercado|67321|19|67321||21|049|2997|Semiurbano|18
+67323|Antonio Villalón|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3015|Semiurbano|18
+67323|Los Nísperos|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|2998|Semiurbano|18
+67324|Bosques de las Lomas|Fraccionamiento|Santiago|Nuevo León|El cercado|67321|19|67321||21|049|3011|Semiurbano|18
+67324|R Garza Madero|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3009|Semiurbano|18
+67324|Alonso Chavez|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3010|Semiurbano|18
+67324|Campestre Santa Clara|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3013|Semiurbano|18
+67325|Las Margaritas|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3014|Semiurbano|18
+67327|Piedra de Fierro|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3018|Semiurbano|18
+67327|Los Fierros|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3012|Semiurbano|18
+67328|Bosque de San Pedro|Fraccionamiento|Santiago|Nuevo León|El cercado|67321|19|67321||21|049|0002|Urbano|18
+67328|San Pedro El Álamo|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3007|Semiurbano|18
+67328|San Jose Sur|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3017|Semiurbano|18
+67328|Santa Tais|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3006|Semiurbano|18
+67328|Raul Caballero Escamilla|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3008|Semiurbano|18
+67329|San Jose Norte|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3004|Semiurbano|18
+67329|Cieneguilla|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3002|Semiurbano|18
+67329|La Plazuela|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3003|Semiurbano|18
+67329|Melchor Ocampo|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3001|Semiurbano|18
+67329|Blas Chumacero|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3005|Semiurbano|18
+67329|Valle Alto|Colonia|Santiago|Nuevo León|El cercado|67321|19|67321||09|049|3020|Semiurbano|18
+67329|Residencial Hacienda Santiago|Fraccionamiento|Santiago|Nuevo León|El cercado|67321|19|67321||21|049|0003|Urbano|18
+67330|La Ciénega de González|Ejido|Santiago|Nuevo León||67321|19|67321||15|049|1954|Rural|
+67334|Potrero Redondo|Ranchería|Santiago|Nuevo León||67321|19|67321||29|049|1963|Rural|
+67337|El Tejocote|Ranchería|Santiago|Nuevo León||67321|19|67321||29|049|1964|Rural|
+67338|Laguna de Sanchez|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1953|Rural|
+67340|Bosque Residencial|Fraccionamiento|Santiago|Nuevo León||67321|19|67321||21|049|4350|Urbano|
+67340|San Juan Bautista|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1950|Rural|
+67344|San Jose de las Boquillas|Congregación|Santiago|Nuevo León||67321|19|67321||11|049|1958|Rural|

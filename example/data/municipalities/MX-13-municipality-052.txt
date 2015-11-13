@@ -1,0 +1,58 @@
+42160|San Juan Tilcuautla|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0236|Urbano|
+42160|Huizache|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|0235|Urbano|
+42160|José María Pino Suárez|Colonia|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||09|052|0234|Rural|
+42162|San Francisco|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5112|Rural|
+42162|La Concepción|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|0239|Rural|
+42162|Paseo de los Solares|Fraccionamiento|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||21|052|2916|Rural|
+42162|De Españita|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|5082|Rural|
+42162|La Loma|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5105|Rural|
+42162|El Durazno|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0238|Rural|
+42162|Banús|Fraccionamiento|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||21|052|2576|Rural|
+42162|Santa Catarina|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5116|Rural|
+42163|La Providencia|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5108|Rural|
+42163|Santa Bárbara|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5115|Rural|
+42163|San Juan Solís|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0237|Rural|
+42163|El Huizache|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5097|Rural|
+42163|Palos Blancos|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5111|Rural|
+42163|San Miguel Tornacuxtla|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0240|Rural|
+42163|Santo Tomás|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5119|Rural|
+42163|Cima de San Pedro|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5088|Rural|
+42163|El Canal (Parada Santa María)|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5094|Rural|
+42163|Tecamatl|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5120|Rural|
+42163|El Botho|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5092|Rural|
+42163|La Nopalera|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5107|Rural|
+42163|Santa María|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5117|Rural|
+42164|Mexiquito|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|5079|Urbano|
+42164|Fresno|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|5080|Urbano|
+42165|El Vindhó|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|5121|Urbano|
+42165|Casa Grande|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|5081|Urbano|
+42170|San Isidro Llano Largo|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5113|Rural|
+42170|Benito Juárez|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0241|Rural|
+42171|El Dajie|Barrio|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||02|052|5083|Rural|
+42171|Ixcuinquitlapilco|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0242|Rural|
+42171|El Lindero|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5098|Rural|
+42175|El Viborón|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5103|Rural|
+42175|Cerro Gordo|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5086|Rural|
+42175|El Pajoso|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5099|Rural|
+42175|Nueva Tlaxiaca|Colonia|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||09|052|5091|Rural|
+42175|El Potrero|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5100|Rural|
+42176|La Máquina Vieja|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5106|Rural|
+42176|Capula|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5084|Rural|
+42176|El Campanario|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5093|Rural|
+42176|El Capulín|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5095|Rural|
+42176|El Tepozán|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5101|Rural|
+42176|Santana (Reserva Cinegética Santana)|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5118|Rural|
+42177|Guadalupe los Manantiales|Colonia|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||09|052|5089|Rural|
+42177|Chalmita|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5087|Rural|
+42177|Guadalupe Tezontle|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5104|Rural|
+42177|Oriental de Zapata|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|2887|Rural|
+42177|Chapultepec de Pozos|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|0243|Rural|
+42177|San José de los Altos|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5114|Rural|
+42178|Monte de Guadalupe|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5110|Rural|
+42178|Guadalupe Victoria|Colonia|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||09|052|5090|Rural|
+42178|Casas Coloradas|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5085|Rural|
+42178|Las Cajas|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5109|Rural|
+42178|Puerto México|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|0244|Rural|
+42179|San Francisco Tecajique|Pueblo|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||28|052|0245|Rural|
+42179|El Chamizal|Poblado comunal|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||27|052|5096|Rural|
+42179|El Tequia|Ranchería|San Agustín Tlaxiaca|Hidalgo||42001|13|42001||29|052|5102|Rural|

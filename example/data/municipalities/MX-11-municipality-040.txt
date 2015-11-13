@@ -1,0 +1,67 @@
+37970|Tierra Blanca|Pueblo|Tierra Blanca|Guanajuato||37981|11|37981||28|040|2319|Rural|
+37970|Don Blas|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8841|Rural|
+37970|Los Aguacates|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8843|Rural|
+37970|Libertad|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8842|Rural|
+37973|Torrecitas|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8836|Rural|
+37973|Cerro Colorado|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2323|Rural|
+37973|La Tinaja|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2325|Rural|
+37973|Derramadero del Sauz|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8792|Rural|
+37973|Las Ánimas|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8821|Rural|
+37973|La Barbosa|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8810|Rural|
+37973|La Cuesta de Piñones|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2324|Rural|
+37974|Puerto del Mezquite|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8833|Rural|
+37974|Villa Unión|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8839|Rural|
+37974|Peña Blanca Uno|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2321|Rural|
+37974|El Mezquite|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8799|Rural|
+37974|Milpa Blanca|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8827|Rural|
+37974|El Zapote|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8808|Rural|
+37974|El Varal|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8807|Rural|
+37974|Fracción de Guadalupe|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2320|Rural|
+37974|Las Moras|Congregación|Tierra Blanca|Guanajuato||37981|11|37981||11|040|2329|Rural|
+37974|El Salto|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8803|Rural|
+37974|El Tepetate|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8804|Rural|
+37974|Monte Prieto|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8828|Rural|
+37974|La Monera|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8817|Rural|
+37975|Cieneguilla|Congregación|Tierra Blanca|Guanajuato||37981|11|37981||11|040|2327|Rural|
+37975|Fracción del Cano|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8809|Rural|
+37975|Peña Blanca Dos|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8831|Rural|
+37975|El Progreso|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8801|Rural|
+37975|Rincón del Cano|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2330|Rural|
+37975|Los Moreno|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8823|Rural|
+37975|Cañada de Juanica|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8789|Rural|
+37975|El Picacho|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8800|Rural|
+37975|Arroyo Seco|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2326|Rural|
+37975|Guadalupe|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2332|Rural|
+37975|Cano de San Isidro|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8790|Rural|
+37976|El Roble|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8802|Rural|
+37976|Las Adjuntas|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2331|Rural|
+37976|Río Grande|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8834|Rural|
+37977|La Cuchilla Blanca|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8812|Rural|
+37977|La Mesita (La Grana)|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8816|Rural|
+37977|La Silla|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8819|Rural|
+37977|Ocotillos|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8829|Rural|
+37977|Peña Blanca|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8830|Rural|
+37977|Puerto del Madroño|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8832|Rural|
+37977|La Loma|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8815|Rural|
+37977|Cerro Blanco|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8791|Rural|
+37977|Mesa de Madroño|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8826|Rural|
+37977|El Tulillo|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8805|Rural|
+37977|Viborilla|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8838|Rural|
+37977|El Cerrito|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8796|Rural|
+37977|El Hartón|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8797|Rural|
+37977|El Huizache|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8798|Rural|
+37977|La Esquina|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8813|Rural|
+37977|La Palma|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8818|Rural|
+37977|El Apartadero|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8794|Rural|
+37977|Los Charcos|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8822|Rural|
+37977|Maguey Blanco|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8825|Rural|
+37977|Ugaldes|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8837|Rural|
+37977|El Cajón|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8795|Rural|
+37977|Los Rangeles|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8824|Rural|
+37978|Xoconoxtle|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8840|Rural|
+37978|La Estancia|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8814|Rural|
+37978|El Sauz|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|2333|Rural|
+37978|El Uñagatal|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8806|Rural|
+37978|Temascales|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8835|Rural|
+37978|La Chamacuera|Poblado comunal|Tierra Blanca|Guanajuato||37981|11|37981||27|040|8811|Rural|
+37978|La Silla|Ranchería|Tierra Blanca|Guanajuato||37981|11|37981||29|040|8820|Rural|

@@ -1,0 +1,215 @@
+28200|Manzanillo Centro|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0137|Urbano|02
+28209|Manzanillo (Playa de Oro)|Aeropuerto|Manzanillo|Colima|Manzanillo|28201|06|28201||01|007|0139|Rural|02
+28210|Las Brisas|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0140|Urbano|02
+28217|Morelos|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0141|Urbano|02
+28218|Del Mar|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0477|Urbano|02
+28218|Aeroméxico|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0814|Urbano|02
+28218|Playa Azul|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0142|Urbano|02
+28219|Plainco|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0575|Urbano|02
+28219|Playa Blanca|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0576|Urbano|02
+28219|Los Ciruelos|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0018|Urbano|02
+28219|Conjunto Primaveras|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0020|Urbano|02
+28219|Del Sol|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0478|Urbano|02
+28219|FETSE|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0501|Urbano|02
+28219|Rinconada del Valle|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0019|Urbano|02
+28219|La Esperanza|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0519|Urbano|02
+28219|Playa de Oro|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0577|Urbano|02
+28219|Villa Mar|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0605|Urbano|02
+28219|Barrio 5|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0646|Urbano|02
+28219|Villa Océano|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0686|Urbano|02
+28219|Playa Esmeralda|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0013|Urbano|02
+28219|El Pacifico|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0143|Urbano|02
+28219|Soleares|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0596|Urbano|02
+28219|Las Garzas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0685|Urbano|02
+28219|Los Corales|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0017|Urbano|02
+28219|Valle de las Garzas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0144|Urbano|02
+28219|Parque industrial FONDEPORT|Zona industrial|Manzanillo|Colima|Manzanillo|28201|06|28201||37|007|0498|Urbano|02
+28219|Armada de México|Unidad habitacional|Manzanillo|Colima|Manzanillo|28201|06|28201||31|007|0603|Urbano|02
+28219|Lomas del Valle|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0012|Urbano|02
+28219|Residencial Villa del Mar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0014|Urbano|02
+28219|Residencial las Gaviotas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0016|Urbano|02
+28219|Playa Real|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0578|Urbano|02
+28219|Villa Coral|Fraccionamiento|Manzanillo|Colima|Manzanillo|28201|06|28201||21|007|0823|Urbano|02
+28230|Las Joyas|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0145|Urbano|02
+28230|Ignacio Zaragoza|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0506|Urbano|02
+28230|El Rocío|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0492|Urbano|02
+28236|Manzanillo|Puerto|Manzanillo|Colima|Manzanillo|28201|06|28201||40|007|0859|Urbano|02
+28237|La Gasera|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0522|Urbano|02
+28237|Benito Juárez|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0146|Urbano|02
+28237|Punta Grande|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0582|Urbano|02
+28237|Las Torres|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0537|Urbano|02
+28237|Leandro Valle|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0541|Urbano|02
+28238|Bellavista|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0147|Urbano|02
+28239|16 de Septiembre|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0148|Urbano|02
+28239|INDECO|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0507|Urbano|02
+28239|Isla Real|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0509|Urbano|02
+28239|Loma Alta|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0022|Urbano|02
+28239|San Carlos|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0588|Urbano|02
+28239|Primavera|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0023|Urbano|02
+28239|Tapeixtles|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0342|Urbano|02
+28239|La Negrita|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0559|Urbano|02
+28239|Lomas de Gregorio Figueroa|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0021|Urbano|02
+28240|Punta Chica|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0149|Urbano|02
+28250|Burócrata|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0150|Urbano|02
+28259|San Pedrito|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0151|Urbano|02
+28260|Libertad|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0152|Urbano|02
+28269|Cuauhtémoc|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0153|Urbano|02
+28269|Alameda|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0452|Urbano|02
+28270|Padre Hidalgo|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0154|Urbano|02
+28277|IMSS|Unidad habitacional|Manzanillo|Colima|Manzanillo|28201|06|28201||31|007|0155|Urbano|02
+28278|Pedregoza|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0156|Urbano|02
+28279|Bonanza|Colonia|Manzanillo|Colima|Manzanillo|28201|06|28201||09|007|0157|Urbano|02
+28280|Costa Azul|Condominio|Manzanillo|Colima|Manzanillo|28201|06|28201||10|007|0158|Urbano|02
+28800|El Paraíso|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0490|Urbano|
+28800|La Lupita|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0523|Urbano|
+28800|El Colomo|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0301|Urbano|
+28800|San Francisco|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0589|Urbano|
+28800|20 de Noviembre|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0602|Urbano|
+28800|Residencial el Colomo|Fraccionamiento|Manzanillo|Colima||28201|06|28201||21|007|0024|Urbano|
+28800|Las Juntas|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0302|Urbano|
+28800|López Mateos|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0549|Urbano|
+28800|La Calma|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0693|Urbano|
+28800|5 de Mayo|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0468|Urbano|
+28800|El Garcero|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0488|Urbano|
+28800|Arturo Noriega Pizano|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0457|Urbano|
+28800|La Cima|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0514|Urbano|
+28800|Lázaro Cárdenas|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0540|Urbano|
+28800|María Luisa Campero|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0554|Urbano|
+28800|La Playita|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0694|Urbano|
+28800|El Libramiento|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0489|Urbano|
+28800|Miguel de La Madrid|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0556|Urbano|
+28800|Marina Nacional|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0555|Urbano|
+28807|Lic. Luis Echeverría Álvarez|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0027|Rural|
+28808|Villa Florida|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0304|Urbano|
+28808|Aquarium|Fraccionamiento|Manzanillo|Colima||28201|06|28201||21|007|0688|Urbano|
+28809|Campos|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0305|Urbano|
+28810|Los Cedros|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0306|Rural|
+28811|Lomas de Avila Camacho|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0307|Rural|
+28812|El Huizcolote|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0308|Rural|
+28813|Ciruelito de la Marina|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0309|Rural|
+28814|Camichín|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0310|Rural|
+28815|Canoas|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0312|Rural|
+28815|El Puertecillo O Tepeguajes|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0311|Rural|
+28817|La Rosa|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0313|Rural|
+28819|San José de Lúmber (Piedra Redonda)|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0315|Rural|
+28820|Veladero de los Otates|Ranchería|Manzanillo|Colima||28861|06|28861||29|007|0316|Rural|
+28820|El Chico|Colonia|Manzanillo|Colima||28861|06|28861||09|007|0487|Rural|
+28825|La Lima|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0317|Rural|
+28826|Don Tomás|Ranchería|Manzanillo|Colima||28861|06|28861||29|007|0318|Rural|
+28830|El Chavarín|Ranchería|Manzanillo|Colima||48971|06|48971||29|007|0319|Rural|
+28833|El Charco|Ejido|Manzanillo|Colima||48971|06|48971||15|007|0320|Rural|
+28834|Río Marabasco|Ejido|Manzanillo|Colima||48971|06|48971||15|007|0321|Rural|
+28836|Emiliano Zapata|Ranchería|Manzanillo|Colima||48971|06|48971||29|007|0322|Rural|
+28837|La Ciénega|Ranchería|Manzanillo|Colima||48971|06|48971||29|007|0323|Rural|
+28838|El Centinela de Arriba|Ranchería|Manzanillo|Colima||48971|06|48971||29|007|0324|Rural|
+28838|La Culebra (Colimilla)|Pueblo|Manzanillo|Colima||48971|06|48971||28|007|0718|Rural|
+28838|Isla Navidad|Fraccionamiento|Manzanillo|Colima||48971|06|48971||21|007|0696|Rural|
+28840|Chandiablo|Ranchería|Manzanillo|Colima||28861|06|28861||29|007|0325|Rural|
+28844|Valle Paraíso|Fraccionamiento|Manzanillo|Colima||28861|06|28861||21|007|0831|Rural|
+28849|El Petatero|Ranchería|Manzanillo|Colima||28861|06|28861||29|007|0326|Rural|
+28850|Camotlán de Miraflores|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0327|Rural|
+28855|Veladero de Camotlán|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0328|Rural|
+28858|El Bosque|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0329|Rural|
+28860|Santiago|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0331|Urbano|02
+28860|Olas Altas|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0567|Urbano|02
+28860|La Querencia|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0011|Urbano|02
+28863|El Cerrito|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0486|Urbano|02
+28863|Francisco Villa|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0500|Urbano|02
+28863|Colinas de Santiago|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0471|Urbano|02
+28863|La Cruz|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0517|Urbano|02
+28863|Obradores|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0562|Urbano|02
+28863|Porfirio Gaytán|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0579|Urbano|02
+28863|San Isidro Labrador|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0590|Urbano|02
+28863|El Jabalí|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0512|Urbano|02
+28863|Las Flores|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0532|Urbano|02
+28863|Perla de Occidente|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0574|Urbano|02
+28863|San Martín|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0591|Urbano|02
+28863|Loma Bonita|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0618|Urbano|02
+28863|Jabalinera|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0671|Urbano|02
+28863|Abelardo L. Rodríguez|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0449|Urbano|02
+28863|Barrio Nuevo|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0620|Urbano|02
+28863|Pedro Núñez|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0621|Urbano|02
+28863|Vista del Mar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0681|Urbano|02
+28864|Santa Carolina|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0010|Urbano|02
+28864|Viveros Pelayo|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0612|Urbano|02
+28864|Azul Marino|Residencial|Manzanillo|Colima|Manzanillo|28861|06|28861||30|007|0815|Urbano|02
+28864|Del Mar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0817|Urbano|02
+28864|Villas del Pacífico|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0006|Urbano|02
+28864|Valle del Coral|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0675|Urbano|02
+28864|Obrera|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0565|Urbano|02
+28864|Cantamar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0005|Urbano|02
+28864|Lomas Verdes|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0548|Urbano|02
+28864|Deportiva|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0479|Urbano|02
+28864|Jardines de Santiago|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0672|Urbano|02
+28864|Hermosa Provincia|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0505|Urbano|02
+28864|Loma del Mar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0547|Urbano|02
+28864|Valle Alto|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0674|Urbano|02
+28864|Country Club|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0680|Urbano|02
+28864|Almendros Residencial II|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0001|Urbano|02
+28864|Montebello|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0558|Urbano|02
+28864|Valle Dorado|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0601|Urbano|02
+28864|Las Huertas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0673|Urbano|02
+28864|La Joya I|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0678|Urbano|02
+28864|Paseo del Mar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0008|Urbano|02
+28864|Las Camelinas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0026|Urbano|02
+28864|INFONAVIT|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0345|Urbano|02
+28864|Lomas de Santiago|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0677|Urbano|02
+28865|Orquídeas Residencial|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0862|Urbano|02
+28865|Los Altos|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0863|Urbano|02
+28865|Terraplena|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0025|Urbano|02
+28867|La Punta|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0526|Urbano|02
+28867|Bugambilias|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0007|Urbano|02
+28867|Península de Santiago|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0573|Urbano|02
+28867|Villas del Palmar|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0682|Urbano|02
+28867|Salagua|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0337|Urbano|02
+28867|La Audiencia|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0333|Urbano|02
+28867|Las Hadas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0334|Urbano|02
+28867|Villas del Faro|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0609|Urbano|02
+28868|Puesta del Sol|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0669|Urbano|02
+28868|La Central|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0613|Urbano|02
+28868|Ejidal Miramar|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0336|Urbano|02
+28868|Club Maeva|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0816|Urbano|02
+28868|La Joya|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0535|Urbano|02
+28868|Nuevo Miramar|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0561|Urbano|02
+28868|La Martinique|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0670|Urbano|02
+28868|El Naranjo|Ejido|Manzanillo|Colima|Manzanillo|28861|06|28861||15|007|0335|Urbano|02
+28868|Club Santiago|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0470|Urbano|02
+28869|Villa Flamingos|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0689|Urbano|02
+28869|Puerta del Sol|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0795|Urbano|02
+28869|Valle Salagua|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0004|Urbano|02
+28869|Barrio Nuevo Salagua|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0458|Urbano|02
+28869|La Joya II|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0679|Urbano|02
+28869|Los Mangos|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0820|Urbano|02
+28869|Nuevo Salagua|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0821|Urbano|02
+28869|Almendros Residencial|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0822|Urbano|02
+28869|Santa Sofía|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0015|Urbano|02
+28869|Guadalupe Victoria|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0615|Urbano|02
+28869|El Campanario|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0818|Urbano|02
+28869|Cantalegre|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0028|Urbano|02
+28869|Aguazul|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0009|Urbano|02
+28869|Las Palmas|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0614|Urbano|02
+28869|Elías Zamora Verduzco|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0819|Urbano|02
+28869|Rosa Morada|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0002|Urbano|02
+28869|Arboledas|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0617|Urbano|02
+28869|López de Legaspi|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0616|Urbano|02
+28869|Obispo Sergio Méndez Arceo|Colonia|Manzanillo|Colima|Manzanillo|28861|06|28861||09|007|0619|Urbano|02
+28869|Paraiso Salagua|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0855|Urbano|02
+28869|Marimar|Fraccionamiento|Manzanillo|Colima|Manzanillo|28861|06|28861||21|007|0857|Urbano|02
+28870|Jalipa|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0338|Rural|
+28872|Punta de Agua de Camotlán|Pueblo|Manzanillo|Colima||28201|06|28201||28|007|0339|Rural|
+28875|Peña Colorada|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0340|Rural|
+28876|Francisco Villa|Pueblo|Manzanillo|Colima||28201|06|28201||28|007|0341|Rural|
+28877|IMSS Norte|Unidad habitacional|Manzanillo|Colima||28201|06|28201||31|007|0343|Urbano|
+28878|Fovissste|Fraccionamiento|Manzanillo|Colima||28201|06|28201||21|007|0344|Urbano|
+28879|Del Pacifico|Colonia|Manzanillo|Colima||28201|06|28201||09|007|0684|Urbano|
+28879|Vista Roca|Condominio|Manzanillo|Colima||28201|06|28201||10|007|0683|Urbano|
+28880|Santa Rita|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0348|Rural|
+28880|Venustiano Carranza (Cualata)|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0349|Rural|
+28880|Nuevo Cuyutlán|Ejido|Manzanillo|Colima||28201|06|28201||15|007|0717|Rural|
+28880|San Buenaventura|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0347|Rural|
+28880|Coalata|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0346|Rural|
+28884|Las Lajas|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0350|Rural|
+28885|El Salto|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0351|Rural|
+28886|Agua Blanca|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0352|Rural|
+28886|Agua Blanca y Cerro del Zacate|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0353|Rural|
+28887|Las Juntas Nuevas|Ranchería|Manzanillo|Colima||28201|06|28201||29|007|0354|Rural|

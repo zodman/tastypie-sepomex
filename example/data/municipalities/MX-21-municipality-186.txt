@@ -1,0 +1,102 @@
+73900|El Llanito|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7374|Urbano|
+73900|Guadalupe|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|3699|Rural|
+73900|San José|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|5953|Rural|
+73900|Contla|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7372|Urbano|
+73900|Atalpa|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7384|Urbano|
+73900|El Paríso|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7375|Urbano|
+73900|San Pedro|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|3698|Rural|
+73900|Tlatlauquitepec|Pueblo|Tlatlauquitepec|Puebla||73901|21|73901||28|186|1329|Rural|
+73900|El Cerrito|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|5954|Rural|
+73902|Ahuatamimilol|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7383|Rural|
+73902|Jilotepec|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7389|Rural|
+73902|Nectépetl (El Cerro)|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7394|Rural|
+73902|Yoloctzin|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7396|Rural|
+73902|Buena Vista|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7385|Rural|
+73902|Las Mesas|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7393|Rural|
+73902|Portezuelo|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7395|Rural|
+73902|Túnel Dos|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7398|Rural|
+73902|Telpalcatipan|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7400|Rural|
+73902|El Pozo|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7388|Rural|
+73902|Quezapa|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7382|Rural|
+73902|La Palma (Máquinas)|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7391|Rural|
+73902|Zapotitán|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7397|Rural|
+73902|Coatectzin|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7386|Rural|
+73902|Coatectzin Oriente|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7387|Rural|
+73902|La Primavera|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7392|Rural|
+73902|Tepetzintla|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7399|Rural|
+73903|Xalteta|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7406|Rural|
+73903|Xomiaco|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7407|Rural|
+73903|San José Chagchaltzin|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7403|Rural|
+73903|Tepantzol|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7404|Rural|
+73903|Eloxochitan|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1332|Rural|
+73903|Mecayucan|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7402|Rural|
+73903|Acamalota|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7401|Rural|
+73903|Teziutanapa|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|7405|Rural|
+73904|Analco|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7409|Urbano|
+73904|Tepehican|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1335|Rural|
+73904|Pezmatlán|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|7412|Urbano|
+73904|Zocuila|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|3565|Rural|
+73904|Vicente Fox|Unidad habitacional|Tlatlauquitepec|Puebla||73901|21|73901||31|186|7381|Urbano|
+73904|Hueyacapan|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7410|Urbano|
+73904|La Unión|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1334|Rural|
+73904|Huaxtla|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1325|Rural|
+73904|Ilita|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1326|Rural|
+73904|Jiliapa|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1333|Rural|
+73904|Acocogta|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7408|Urbano|
+73904|El Carmen Ilita|Pueblo|Tlatlauquitepec|Puebla||73901|21|73901||28|186|6474|Rural|
+73904|Ocota|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7411|Urbano|
+73905|San Agustín Chagchaltzin|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|1337|Rural|
+73905|Tamalayo|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7422|Rural|
+73905|El Progreso|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1338|Rural|
+73905|Cougtajapan|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7416|Rural|
+73905|Calatepec|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1336|Rural|
+73905|Mazatepec|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1339|Rural|
+73905|El Canal|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7419|Rural|
+73905|Macuilquila|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7421|Rural|
+73905|Buena Vista|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7413|Rural|
+73905|Chicuaco|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7414|Rural|
+73905|Cuacualaxtla|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7418|Rural|
+73905|Cozolexco|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7417|Rural|
+73905|Tehuagco|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7423|Rural|
+73905|Tepehican|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7424|Rural|
+73905|La Cumbre|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7420|Rural|
+73905|Chililistipan|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7415|Rural|
+73906|La Esperanza|Unidad habitacional|Tlatlauquitepec|Puebla||73901|21|73901||31|186|7377|Urbano|
+73906|Pablogco|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7430|Urbano|
+73906|Tochimpa|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|5955|Rural|
+73906|Xacuinco|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7425|Urbano|
+73906|Atioyan|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7426|Urbano|
+73906|Xonocuautla|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1340|Rural|
+73906|El Tecorral|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7376|Urbano|
+73906|Gómez Oriente|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|7428|Urbano|
+73906|Santa Elena|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7431|Urbano|
+73906|Doña Mari|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7373|Urbano|
+73906|Jalacinguito|Colonia|Tlatlauquitepec|Puebla||73901|21|73901||09|186|7429|Urbano|
+73906|Gómez Poniente|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1324|Rural|
+73906|Xantenango|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|5958|Rural|
+73906|Tzinacantepec|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1330|Rural|
+73906|Magisterial|Unidad habitacional|Tlatlauquitepec|Puebla||73901|21|73901||31|186|7379|Urbano|
+73906|Tanhuixco del Carmen|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7432|Urbano|
+73906|Tatauzoquico|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|5956|Rural|
+73906|El Mirador|Ranchería|Tlatlauquitepec|Puebla||73901|21|73901||29|186|5957|Rural|
+73906|Chinampa|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7427|Urbano|
+73907|Los Ángeles|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7378|Urbano|
+73907|Cuautlamingo|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7434|Rural|
+73907|Salvadorco|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7380|Urbano|
+73907|Ajocotzingo|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1323|Rural|
+73907|Tepeteno de Iturbide|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1328|Rural|
+73907|Ocotlán|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1327|Rural|
+73907|Plan de Guadalupe|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1341|Rural|
+73907|Almoloni|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|7433|Urbano|
+73909|Primero de Septiembre|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7441|Rural|
+73909|San José del Retiro|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7443|Rural|
+73909|Independencia|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7437|Rural|
+73909|El Duraznillo|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7435|Rural|
+73909|Gómez Sur (Llano de Toluca)|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7436|Rural|
+73909|Loma de la Yerba|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7440|Rural|
+73909|Gómez Sur|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7444|Rural|
+73909|San Antonio|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7442|Rural|
+73909|Oyameles|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1342|Rural|
+73909|Tzincuilapan|Barrio|Tlatlauquitepec|Puebla||73901|21|73901||02|186|1343|Rural|
+73909|Ixmatlaco|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7438|Rural|
+73909|La Cumbre|Poblado comunal|Tlatlauquitepec|Puebla||73901|21|73901||27|186|7439|Rural|

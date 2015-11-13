@@ -1,0 +1,6 @@
+49540|Paso de Piedra|Congregación|Valle de Juárez|Jalisco||49541|14|49541||11|112|2995|Rural|
+49540|Valle de Juárez|Pueblo|Valle de Juárez|Jalisco||49541|14|49541||28|112|2996|Rural|
+49542|Ojo de Agua del Mezcal|Ranchería|Valle de Juárez|Jalisco||49541|14|49541||29|112|2998|Rural|
+49544|El Manzanillo|Ranchería|Valle de Juárez|Jalisco||49541|14|49541||29|112|2999|Rural|
+49547|Buenavista|Ranchería|Valle de Juárez|Jalisco||49541|14|49541||29|112|3000|Rural|
+49548|Ojo de Agua Del Picacho|Ranchería|Valle de Juárez|Jalisco||49541|14|49541||29|112|3001|Rural|

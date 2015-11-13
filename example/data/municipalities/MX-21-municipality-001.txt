@@ -1,0 +1,17 @@
+75110|San Juan Tepulco|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2102|Urbano|
+75110|La Virgen|Barrio|Acajete|Puebla||75111|21|75111||02|001|2100|Urbano|
+75110|San Juan|Barrio|Acajete|Puebla||75111|21|75111||02|001|6040|Rural|
+75110|Santo Entierro|Barrio|Acajete|Puebla||75111|21|75111||02|001|6042|Rural|
+75110|Jesús|Barrio|Acajete|Puebla||75111|21|75111||02|001|6041|Rural|
+75112|La Cardenista|Ranchería|Acajete|Puebla||75111|21|75111||29|001|2104|Rural|
+75112|Santa Isabel Tepetzala|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2855|Rural|
+75112|San Bartolo Pinal|Ranchería|Acajete|Puebla||75111|21|75111||29|001|2105|Rural|
+75113|San Martín la Joya|Ranchería|Acajete|Puebla||75111|21|75111||29|001|2107|Rural|
+75113|Apango de Zaragoza|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2106|Rural|
+75114|San Agustín Tlaxco|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2108|Rural|
+75116|Santa María Nenetzintla|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2109|Rural|
+75117|Tlacamilco|Pueblo|Acajete|Puebla||75111|21|75111||28|001|0002|Rural|
+75117|San Antonio Tlacamilco|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2110|Rural|
+75118|La Magdalena Tetela Morelos|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2111|Rural|
+75119|San Jerónimo Ocotitlán|Pueblo|Acajete|Puebla||75111|21|75111||28|001|2112|Rural|
+75119|Santa Rosa Ocotitlán|Colonia|Acajete|Puebla||75111|21|75111||09|001|0001|Rural|

@@ -1,0 +1,139 @@
+55700|El Vergel|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|0139|Urbano|03
+55700|Zacuautitla|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3862|Urbano|03
+55700|Bonito Coacalco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5799|Urbano|03
+55700|Hacienda las Garzas|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5805|Urbano|03
+55700|Privadas Coacalco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5807|Urbano|03
+55700|Parque Taxco Viejo|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|8124|Urbano|03
+55700|Marquet o Real de Coacalco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|9494|Urbano|03
+55700|La Cualac|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5801|Urbano|03
+55700|Villa Florencia|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|8988|Urbano|03
+55700|Residencial Paraíso I|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|0096|Urbano|03
+55700|Bonito Coacalco I (La Cruz)|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5808|Urbano|03
+55700|Residencial Paraíso II|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|0097|Urbano|03
+55700|Las Hiedras|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|3859|Urbano|03
+55700|Hacienda Cruztitla I|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|3857|Urbano|03
+55700|Conjunto Salamanca|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|4966|Urbano|03
+55700|Hacienda Capultitla|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|5800|Urbano|03
+55700|Colonial Coacalco|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5809|Urbano|03
+55700|Hacienda Cruztitla II|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5810|Urbano|03
+55700|Secretos (Chabacano)|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|8989|Urbano|03
+55700|Fuentes de San Francisco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|3858|Urbano|03
+55700|El Laurel (El Gigante)|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|3870|Urbano|03
+55700|Sirapark|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|0154|Urbano|03
+55700|San Francisco Coacalco (Cabecera Municipal)|Pueblo|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||28|020|3861|Urbano|03
+55700|Santander|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|5802|Urbano|03
+55700|Jajalpa|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5804|Urbano|03
+55700|El Toloache|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|5806|Urbano|03
+55705|República Mexicana|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3864|Urbano|03
+55707|Lomas San Felipe|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5814|Urbano|03
+55707|Ex-Rancho San Felipe|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5813|Urbano|03
+55707|El Obelisco|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|0039|Urbano|03
+55707|La Cima|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|0055|Urbano|03
+55707|La Besana|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|9079|Urbano|03
+55707|Ejidal|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3865|Urbano|03
+55707|Calpulli del Valle|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|4969|Urbano|03
+55708|Hidalgo|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3867|Urbano|03
+55709|COOR Coacalco|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|3868|Urbano|03
+55709|El Gigante (San José)|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3869|Urbano|03
+55709|El Tercer Gigante (imevis)|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5812|Urbano|03
+55709|El Gigante (imevis)|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5831|Urbano|03
+55709|Conjunto San Diego|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5811|Urbano|03
+55709|Villas Gigante|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3871|Urbano|03
+55710|Las Rosas|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|8125|Urbano|03
+55710|Villa de las Flores 2a Sección (Unidad Coacalco)|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3874|Urbano|03
+55710|Residencial Las Dalias I,II,III Y IV|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3872|Urbano|03
+55710|Arcos las Torres|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|7958|Urbano|03
+55710|Sección Jardín "Las Plazas" (Unidad Coacalco)|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|8126|Urbano|03
+55710|Villa de las Flores 1a Sección (Unidad Coacalco)|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3873|Urbano|03
+55710|Rancho la Providencia|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|5832|Urbano|03
+55712|Dalias|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|8982|Urbano|03
+55712|San Francisco Coacalco (Sección Hacienda)|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|4723|Urbano|03
+55712|San Francisco Coacalco (Sección Héroes)|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|5073|Urbano|03
+55713|Rinconada Coacalco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|3876|Urbano|03
+55713|La Floresta|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|0057|Urbano|03
+55713|Rincón de las Fuentes|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|0109|Urbano|03
+55713|Villa de Reyes|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|3877|Urbano|03
+55713|Ampliación Villa de Reyes|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|4973|Urbano|03
+55714|Los Almendros|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|5828|Urbano|03
+55714|Rincón Coahuilense|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|3878|Urbano|03
+55714|Independencia|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||04|020|5829|Urbano|03
+55714|Tetlacolili|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|8991|Urbano|03
+55714|Potrero II|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|5837|Urbano|03
+55714|Niños Héroes|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|5826|Urbano|03
+55714|Los Olivos|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||10|020|8983|Urbano|03
+55714|San Lorenzo Tetlixtac|Pueblo|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||28|020|3879|Urbano|03
+55714|Hacienda San Pablo|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|5830|Urbano|03
+55715|El Arenal o El Pantano|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||04|020|9081|Urbano|03
+55715|Los Sabinos II|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||30|020|4986|Urbano|03
+55715|Los Capulines|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||04|020|9080|Urbano|03
+55715|La Magdalena Huizachitla|Pueblo|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||28|020|3880|Urbano|03
+55716|Sección las Villas (Unidad Coacalco)|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3883|Urbano|03
+55716|Jardines de San José 1a Secc|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3881|Urbano|03
+55716|Jardines de San José 2a Secc|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3882|Urbano|03
+55717|El Laurel|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|4974|Urbano|03
+55717|Ex-Hacienda San Felipe 3a. Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8978|Urbano|03
+55717|Rancho la Palma 3a Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5793|Urbano|03
+55717|Ex-Hacienda San Felipe 1a. Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|0046|Urbano|03
+55717|Bosques del Valle 1a Sección|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3884|Urbano|03
+55717|Bosques del Valle 2a Sección|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3885|Urbano|03
+55717|Las Bugambilias|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8981|Urbano|03
+55717|Los Portales Poniente|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|8984|Urbano|03
+55717|Periodistas Revolucionarios|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|3887|Urbano|03
+55717|El Chaparral|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5834|Urbano|03
+55717|Rancho la Palma 2a Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5792|Urbano|03
+55717|Rancho la Palma 4a. Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8987|Urbano|03
+55717|Ex-Hacienda San Felipe 2a. Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|5791|Urbano|03
+55717|Rancho la Palma 1a Sección|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|0107|Urbano|03
+55717|Los Portales Oriente|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|4976|Urbano|03
+55718|Coacalco|Parque industrial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||26|020|0098|Urbano|03
+55718|Potrero la Laguna 2a Sección|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|3890|Urbano|03
+55718|Privada las Garzas|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8986|Urbano|03
+55718|Potrero Popular II|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|8993|Urbano|03
+55718|Potrero Popular I|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3888|Urbano|03
+55718|Unidad José María Morelos y Pavón|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|3891|Urbano|03
+55718|Las Garzas|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|5819|Urbano|03
+55718|Potrero I|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5820|Urbano|03
+55718|Los Cedros I y II|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|8976|Urbano|03
+55718|La Guadalupana|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|8980|Urbano|03
+55718|Santa María III|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8990|Urbano|03
+55718|Potrero la Laguna 1a Sección|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|3889|Urbano|03
+55718|Joyas de Coacalco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5821|Urbano|03
+55718|Santa María II|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|4981|Urbano|03
+55719|San Rafael Coacalco|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||31|020|3894|Urbano|03
+55719|Santa María I|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|5823|Urbano|03
+55719|Rinconada San Felipe I|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|7868|Urbano|03
+55719|Plaza las Flores|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||30|020|8992|Urbano|03
+55719|Rinconada San Felipe II|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||12|020|4656|Urbano|03
+55719|El Pantano|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55711|15|55711||21|020|3892|Urbano|03
+55720|Parque Residencial Coacalco 2a Sección|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3897|Urbano|03
+55720|Parque Residencial Coacalco 3a Sección|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3898|Urbano|03
+55720|Parque Residencial Coacalco 1a Sección|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3896|Urbano|03
+55726|Hacienda del Teruel|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5816|Urbano|03
+55726|Granjas San Cristóbal|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3900|Urbano|03
+55726|Star I|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5817|Urbano|03
+55726|Valle Florido|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|8778|Urbano|03
+55726|Villa Florida|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|0058|Urbano|03
+55726|Star II|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5818|Urbano|03
+55726|La Vista|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8197|Urbano|03
+55728|El Oasis|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|4983|Urbano|03
+55728|COOR Granjas|Unidad habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||31|020|3903|Urbano|03
+55728|Las Brisas|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|0071|Urbano|03
+55728|Camino Real (imevis)|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5822|Urbano|03
+55728|El Granero|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|3902|Urbano|03
+55729|Los Sabinos I|Residencial|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||30|020|3904|Urbano|03
+55729|Sitatyr Arboledas|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|3905|Urbano|03
+55730|Villa las Manzanas|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|3906|Urbano|03
+55736|La Aurora|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|8776|Urbano|03
+55736|Chalmita|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|9082|Urbano|03
+55736|Lomas de Coacalco 1a. Sección|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|3907|Urbano|03
+55736|Lomas de Coacalco 2a. Sección (Bosques)|Fraccionamiento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||21|020|4984|Urbano|03
+55737|Mediterraneo|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|8985|Urbano|03
+55737|Conjunto Jalatlaco|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|4985|Urbano|03
+55738|Loma Bonita|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3910|Urbano|03
+55738|Hacienda Taxco Viejo|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5797|Urbano|03
+55738|Xalatlaco (Imevis)|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5796|Urbano|03
+55738|El Ranchito (imevis)|Campamento|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||04|020|5833|Urbano|03
+55738|Asociación de Comerciantes de Coacalco|Condominio|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||10|020|5795|Urbano|03
+55738|Bonito Coacalco II (La Loma)|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|8977|Urbano|03
+55738|Arte y Publicidad Miguel Hidalgo|Conjunto habitacional|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||12|020|0008|Urbano|03
+55739|Los Acuales|Colonia|Coacalco de Berriozábal|México|Coacalco de Berriozabal|55701|15|55701||09|020|3911|Urbano|03

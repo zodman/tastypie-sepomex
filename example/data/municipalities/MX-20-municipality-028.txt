@@ -1,0 +1,23 @@
+71500|La Cruz Blanca|Barrio|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||02|028|1077|Rural|31
+71500|La Estación|Barrio|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||02|028|1084|Rural|31
+71500|La Zoritana|Barrio|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||02|028|2899|Rural|31
+71500|La Loma|Barrio|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||02|028|1099|Rural|31
+71500|Agrícola El Llano|Barrio|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||02|028|3387|Rural|31
+71500|El Calvario|Colonia|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||09|028|0967|Rural|31
+71500|Heroica Ciudad de Ejutla de Crespo Centro|Colonia|Heroica Ciudad de Ejutla de Crespo|Oaxaca|Heroica Ciudad de Ejutla de Crespo|71501|20|71501||09|028|2896|Rural|31
+71502|Santa Martha Chichihualtepec|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2904|Rural|
+71502|Los Ocotes|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2900|Rural|
+71502|Santa Cruz Nexila|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2903|Rural|
+71502|La Noria de Ortiz|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2906|Rural|
+71502|San Matías Chilazoa|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2902|Rural|
+71502|Monte Del Toro|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2905|Rural|
+71504|La Escalera (San Isidro la Escalera)|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2898|Rural|
+71504|La Cieneguilla|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|5030|Rural|
+71504|El Vergel (Puga y Colmenares)|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2897|Rural|
+71504|La Noria|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2909|Rural|
+71504|Barranca Larga|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2895|Rural|
+71504|Hacienda Vieja|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2908|Rural|
+71504|San José de La Huerta|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2901|Rural|
+71505|Nuevo Venustiano Carranza|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2910|Rural|
+71505|Rinconada de San Diego|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2911|Rural|
+71505|San Joaquín|Ranchería|Heroica Ciudad de Ejutla de Crespo|Oaxaca||71501|20|71501||29|028|2907|Rural|

@@ -1,0 +1,40 @@
+93550|Arroyo Grande|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2391|Rural|
+93550|El Mango|Ranchería|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||29|069|6081|Rural|
+93552|Ignacio Muñoz (Zapotal)|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2399|Rural|
+93553|Hermenegildo Galeana|Ranchería|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||29|069|2401|Rural|
+93556|Gutiérrez Zamora Centro|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|4747|Semiurbano|25
+93557|Cuauhtémoc|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|4745|Semiurbano|25
+93557|Loma Linda|Fraccionamiento|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||21|069|4739|Semiurbano|25
+93557|Cerro de La Cruz|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|4748|Semiurbano|25
+93557|Los Pinos|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|1993|Semiurbano|25
+93557|Las Flores|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|0001|Urbano|25
+93557|De San Pancho|Barrio|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||02|069|4744|Semiurbano|25
+93557|Providencia|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|2061|Semiurbano|25
+93558|Niños Héroes|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|2030|Semiurbano|25
+93558|Revolución|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|2067|Semiurbano|25
+93558|Hidalgo 2a Sección|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|4746|Semiurbano|25
+93558|Anclon y Arenal|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|1767|Semiurbano|25
+93558|Hidalgo 1a Sección|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|1901|Semiurbano|25
+93559|Benito Juárez|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|1788|Semiurbano|25
+93559|Murillo Vidal|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|2025|Semiurbano|25
+93559|1o de Mayo|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|2059|Semiurbano|25
+93559|Miguel Alemán Velasco|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|9056|Urbano|25
+93559|Hernandez Ochoa|Ampliación|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||38|069|4743|Semiurbano|25
+93559|El Modelo|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|7260|Urbano|25
+93559|Fernando Gutiérrez Barrios|Ampliación|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||38|069|4741|Semiurbano|25
+93559|Guadalupe|Fraccionamiento|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||21|069|4749|Semiurbano|25
+93559|Hernandez Ochoa|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|1897|Semiurbano|25
+93559|Los Angeles|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|1987|Semiurbano|25
+93559|Del Carmen|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|4740|Semiurbano|25
+93559|Fernando Gutiérrez Barrios|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|4742|Semiurbano|25
+93559|Fidel Herrera Beltrán|Colonia|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||09|069|7795|Urbano|25
+93559|1ro de Mayo|Ampliación|Gutiérrez Zamora|Veracruz de Ignacio de la Llave|Gutiérrez Zamora|93555|30|93555||38|069|7916|Urbano|25
+93560|El Morro|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2393|Rural|
+93562|Carrillo Puerto (Santa Rosa)|Ejido|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||15|069|2392|Rural|
+93564|Rafael Valenzuela|Ranchería|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||29|069|2402|Rural|
+93564|Ignacio M. Altamirano (Plan de Altamirano)|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2395|Rural|
+93566|Nuevo Renacimiento 2000|Ranchería|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||29|069|9043|Rural|
+93568|Coronado|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2398|Rural|
+93568|Lomas de Arena|Ranchería|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||29|069|2400|Rural|
+93569|Anclón y Arenal|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2390|Rural|
+93569|Santa Rosa|Pueblo|Gutiérrez Zamora|Veracruz de Ignacio de la Llave||93555|30|93555||28|069|2397|Rural|

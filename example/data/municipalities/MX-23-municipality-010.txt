@@ -1,0 +1,323 @@
+77900|Reforma|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0388|Rural|
+77900|Ahisamac|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0925|Rural|
+77900|Bacalar Dos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0931|Rural|
+77900|Santa Julia|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1168|Rural|
+77900|El Danto|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0966|Rural|
+77900|Javier Sandoval|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1016|Rural|
+77900|La Primavera|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1046|Rural|
+77900|Año Nuevo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0921|Rural|
+77900|El Suspiro|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0995|Rural|
+77900|La Chata|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1031|Rural|
+77900|Laureles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1067|Rural|
+77900|El Pedregal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0986|Rural|
+77900|San Antonio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1136|Rural|
+77900|Las Isabelas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1057|Rural|
+77900|Las Riendas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1062|Rural|
+77900|El Sufrido|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0994|Rural|
+77900|Los Socios|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1088|Rural|
+77903|Esperanza|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1002|Rural|
+77904|San Román|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0398|Rural|
+77904|Los Laureles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1085|Rural|
+77904|San Antonio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1135|Rural|
+77904|Santa Rita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1169|Rural|
+77904|Río Escondido|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0406|Rural|
+77904|El Edén|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0969|Rural|
+77904|La Zarza|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1050|Rural|
+77904|David Gustavo Gutiérrez Ruiz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0952|Rural|
+77904|Las Orquídeas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1059|Rural|
+77904|San Víctor|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1164|Rural|
+77904|Xco Poh|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1183|Rural|
+77904|División del Sur|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0955|Rural|
+77904|El Remolino|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0990|Rural|
+77904|Las Dos Eses|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1052|Rural|
+77904|Las Maravillas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1058|Rural|
+77905|El Higuero|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0973|Rural|
+77905|El Ramonal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0989|Rural|
+77905|Papalipa|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1108|Rural|
+77905|Cuatro Ases|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0949|Rural|
+77905|Loma Bonita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1069|Rural|
+77905|Isidro Fabela|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1013|Rural|
+77905|El Gallito|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0372|Rural|
+77906|Huatusco|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0405|Rural|
+77906|Payo Obispo|Pueblo|Bacalar|Quintana Roo||77931|23|77931||28|010|0408|Rural|
+77907|Miguel Alemán|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0407|Rural|
+77907|El Cuervo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0965|Rural|
+77907|Cuatro Hermanos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0950|Rural|
+77907|El Porvenir|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0988|Rural|
+77907|El Kiwi|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0975|Rural|
+77907|La Guadalupana|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1037|Rural|
+77907|Río Verde|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0409|Rural|
+77907|La Herradura|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1038|Rural|
+77907|La Petunia|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1043|Rural|
+77907|La Raya|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1047|Rural|
+77907|Rosa de Saarón|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1133|Rural|
+77907|La Esperanza|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1035|Rural|
+77907|Las Golondrinas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1054|Rural|
+77907|Monte Verde|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1100|Rural|
+77907|José Méndez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1020|Rural|
+77907|Las Ilusiones|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1056|Rural|
+77907|Las Piñas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1061|Rural|
+77907|Astro Rey|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0930|Rural|
+77907|Las Gaviotas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1053|Rural|
+77910|Altos de Sevilla|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0403|Rural|
+77910|El Cedralito|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0962|Rural|
+77910|El Paraíso|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0983|Rural|
+77910|Tierra Negra|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0364|Rural|
+77910|Rancho Grande|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1123|Rural|
+77910|Rafael Witzil Hau|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1118|Rural|
+77910|Silvino Canché|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1176|Rural|
+77910|Lázaro Cárdenas del Río Tercero|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1089|Rural|
+77913|Nuevo Hoctún|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0775|Rural|
+77913|Jesús Martínez Ross|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1017|Rural|
+77913|La Isla|Fraccionamiento|Bacalar|Quintana Roo||77931|23|77931||21|010|0737|Urbano|
+77913|El Progreso|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0377|Rural|
+77913|Francisco J. Mújica|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1004|Rural|
+77913|La Primavera|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1045|Rural|
+77913|Dieciocho de Marzo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0954|Rural|
+77913|El Coco|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0964|Rural|
+77913|Gabino Vázquez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1006|Rural|
+77913|Zamora|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1188|Rural|
+77914|Nuevo Jerusalén|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0370|Rural|
+77914|Guadalupe Victoria|Colonia|Bacalar|Quintana Roo||77931|23|77931||09|010|0745|Semiurbano|
+77914|San Judas Tadeo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1154|Rural|
+77914|Gerisin|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1008|Rural|
+77914|San Fernando|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0371|Rural|
+77914|Iturbide|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0369|Rural|
+77914|Margarita Maza de Juárez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0375|Rural|
+77914|La Bendición de Dios|Pueblo|Bacalar|Quintana Roo||77931|23|77931||28|010|1023|Rural|
+77914|Gustavo Antonio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1011|Rural|
+77914|San José los Lirios|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1151|Rural|
+77915|Monte Olivo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1099|Rural|
+77915|San Isidro|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1145|Rural|
+77915|Enoc Rodríguez García|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1000|Rural|
+77915|Los Girasoles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1082|Rural|
+77915|La Calumnia|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1025|Rural|
+77915|Cuatro Banderas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0837|Rural|
+77915|San José de la Cruz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1150|Rural|
+77916|Caanán|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0938|Rural|
+77916|Otilio Montaño|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1107|Rural|
+77916|Francisco Villa|Pueblo|Bacalar|Quintana Roo||77931|23|77931||28|010|0423|Rural|
+77916|Los Cardenales|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1073|Rural|
+77916|Valentín Gómez Farías|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1181|Rural|
+77916|Melchor Ocampo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0380|Rural|
+77917|Rancho Apan|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1120|Rural|
+77917|San Pedro|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1160|Rural|
+77917|El Molino|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0978|Rural|
+77917|El Palomar|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0981|Rural|
+77917|El Paso del Tigre|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0984|Rural|
+77917|Santa Rosa|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1171|Rural|
+77917|Los Dos Hermanos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1080|Rural|
+77917|Nuevo Tabasco|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1104|Rural|
+77917|Las Tres Marías|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1065|Rural|
+77920|Limones|Pueblo|Bacalar|Quintana Roo||77931|23|77931||28|010|0387|Urbano|
+77923|Chula Vista|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0943|Rural|
+77923|San Javier|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1147|Rural|
+77923|San Martín|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1158|Rural|
+77923|Santa Cruz Chico|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1167|Rural|
+77923|Zak-Chakán|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1187|Rural|
+77923|Anastacio Valdez Huchin|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0927|Rural|
+77923|El Sinaí|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0993|Rural|
+77923|San Pedro|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1161|Rural|
+77923|La Pasadita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1042|Rural|
+77923|La Piedra|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1044|Rural|
+77923|San José|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1148|Rural|
+77923|Buenavista|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0936|Rural|
+77923|El Cafetal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0960|Rural|
+77923|La Sabanita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1049|Rural|
+77923|Sabanitas Dos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1134|Rural|
+77923|El Pedregal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0985|Rural|
+77923|Pedro Antonio Santos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0382|Rural|
+77923|Los Compadres|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1077|Rural|
+77923|El Naranjal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0979|Rural|
+77923|Iván Díaz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1014|Rural|
+77923|Manuel Canto|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1092|Rural|
+77924|Gabriel García|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1007|Rural|
+77924|Olivero Cambrano Álvarez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1106|Rural|
+77924|Los Cinco Hermanos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1076|Rural|
+77924|San Gabriel|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1143|Rural|
+77924|PROFEPA [Caseta de Vigilancia]|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1113|Rural|
+77924|La Casona|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1028|Rural|
+77924|Marlboro|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1094|Rural|
+77925|Rancho Tranquila|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1128|Rural|
+77925|Las Palmas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1060|Rural|
+77925|Los Alacranes|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1071|Rural|
+77925|Punta Pulticub|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1117|Rural|
+77925|Rancho Mayob|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1125|Rural|
+77925|Pulticub|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1116|Rural|
+77926|La Esperanza|Fraccionamiento|Bacalar|Quintana Roo||77931|23|77931||21|010|0738|Urbano|
+77926|Corredor Frutícola|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1102|Rural|
+77926|Gregorio Pech|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1009|Rural|
+77926|Manuel Raz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1093|Rural|
+77926|De Guadalupe|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0953|Rural|
+77926|La Retranca|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1048|Rural|
+77926|Chacchoben|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0942|Rural|
+77926|Los Siete Hermanos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1087|Rural|
+77926|San Juan|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1152|Rural|
+77926|El Cerro de la Campana|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0963|Rural|
+77926|La Loma|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1039|Rural|
+77926|Los Alacranes|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1072|Rural|
+77926|Noh-Bec|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1103|Rural|
+77926|El Zapote|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0997|Rural|
+77926|El Esfuerzo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0971|Rural|
+77926|Los Laureles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1084|Rural|
+77926|Pueblo Chiclero|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1114|Rural|
+77926|San Bernardo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1139|Rural|
+77926|San Felipe|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1141|Rural|
+77926|San Manuel|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1157|Rural|
+77927|Serviliano Cohuó Medina|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1174|Rural|
+77927|El Cadiraiz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1191|Rural|
+77927|La Prosperidad (El Aserradero)|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1197|Rural|
+77927|Isidro López Chí|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1193|Rural|
+77927|Los Tres Reyes Uno|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1198|Rural|
+77927|Lázaro Cárdenas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0384|Rural|
+77927|La Herradura|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1195|Rural|
+77927|Ox-Pa-Ka|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1199|Rural|
+77927|La Laguna|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1196|Rural|
+77927|Sócrates León Pérez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1200|Rural|
+77927|CECUSE|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1190|Rural|
+77927|Francisco Hurtado Ibarra|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1192|Rural|
+77927|Jesús, María y José|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1194|Rural|
+77930|Bacalar|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0386|Urbano|08
+77933|Sor Juana Inés de La Cruz|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0594|Urbano|08
+77933|Magisterial|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0600|Urbano|08
+77933|Diego Rojas|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0599|Urbano|08
+77934|Benito Juárez|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0603|Urbano|08
+77934|Serapio Flota Mass|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0593|Urbano|08
+77934|Gonzalo Guerrero|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0598|Urbano|08
+77934|Salinas de Gortari|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0601|Urbano|08
+77935|Mario Villanueva|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0595|Urbano|08
+77935|5 de Mayo|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0596|Urbano|08
+77935|Luis Donaldo Colosio|Colonia|Bacalar|Quintana Roo|Bacalar|77931|23|77931||09|010|0597|Urbano|08
+77936|Cinco Hermanos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0944|Rural|
+77936|Cruz del Sur|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0947|Rural|
+77936|El Pedregal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0987|Rural|
+77936|Pehaltum|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1111|Rural|
+77936|Xtomoc|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1184|Rural|
+77936|Aarón Merino [Colonia]|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0923|Rural|
+77936|Arturo Martínez Colorado|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0929|Rural|
+77936|Ecotucán|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0956|Rural|
+77936|El Milagro|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0977|Rural|
+77936|El Trébol|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0996|Rural|
+77936|San Juan|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1153|Rural|
+77936|San Ramón|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1163|Rural|
+77936|Villas del Sagrario|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1182|Rural|
+77936|Agua Real|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0924|Rural|
+77936|Centro de Conservación e Investigación de la Vida|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0941|Rural|
+77936|Eduardo Puchiga|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0957|Rural|
+77936|Juan Herrera|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1021|Rural|
+77936|Los Humildes|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1083|Rural|
+77936|Puerta del Cielo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1115|Rural|
+77936|San Felipe Bacalar|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1142|Rural|
+77936|La Cochinera|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1032|Rural|
+77936|Rancho Encantado|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1122|Rural|
+77936|Cayuco Maya|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0940|Rural|
+77936|Elsa Micaela Barquet|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0998|Rural|
+77936|Aarón Merino|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0922|Rural|
+77936|Leyda Alpuche|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1068|Rural|
+77936|Narciso Alpuche Rivero|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1101|Rural|
+77936|Rancho Juanita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1124|Rural|
+77936|Silvia Cerecero Loyola|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1175|Rural|
+77936|El Buen Pastor|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0959|Rural|
+77936|Jorge Alonzo Canto|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1018|Rural|
+77936|La Estancia|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1036|Rural|
+77936|Áak Abal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1201|Rural|
+77937|Carlos Xacur|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0939|Rural|
+77937|Colonia Colosio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0945|Rural|
+77937|Cristian Chávez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0946|Rural|
+77937|Ernesto Chejín|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1001|Rural|
+77937|Javier Palacios|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1015|Rural|
+77937|Manatí|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1090|Rural|
+77937|Reyna|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1132|Rural|
+77937|Santiago Palacios Carrillo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1173|Rural|
+77937|Tito Raúl García Aguilar|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1179|Rural|
+77937|Bacalar Kilómetro Dos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0932|Rural|
+77937|Bárbara Guerrero Pérez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0934|Rural|
+77937|Frontera de los Julios|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1005|Rural|
+77937|Las Velas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1066|Rural|
+77937|Sistema de Bombeo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1177|Rural|
+77937|Zapata|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1189|Rural|
+77937|Salamanca|Ejido|Bacalar|Quintana Roo||77931|23|77931||15|010|0832|Rural|
+77937|Emiliano Pantín Góngora|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0999|Rural|
+77937|La Carmelita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1027|Rural|
+77937|La Nueva Esperanza|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1040|Rural|
+77937|Los Ángeles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1070|Rural|
+77937|Paraíso Segundo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1110|Rural|
+77937|San Antonio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1138|Rural|
+77937|Ángelo Cortez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0920|Rural|
+77937|Alfonso Álvarez Sánchez|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0926|Rural|
+77937|Andrés Alamilla|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0928|Rural|
+77937|Las Brisas|Fraccionamiento|Bacalar|Quintana Roo||77931|23|77931||21|010|0060|Urbano|
+77937|Cámara|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0948|Rural|
+77937|El Frutalito|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0972|Rural|
+77937|La Esmeralda|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1034|Rural|
+77937|Ubre Blanca|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1180|Rural|
+77937|Cuatro Potrillos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0951|Rural|
+77937|Ramiro González Acotzi|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1119|Rural|
+77937|Rancho Cascabel|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1121|Rural|
+77937|Rancho Ramonal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1126|Rural|
+77937|Rancho Valerio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1129|Rural|
+77940|La Candelaria|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1026|Rural|
+77940|Maya Balam|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1095|Rural|
+77940|Los Cascabeles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1074|Rural|
+77940|San Cosme|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1140|Rural|
+77940|Kuchumatán|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1022|Rural|
+77940|Los Cascos|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1075|Rural|
+77940|Las Tres Emes|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1064|Rural|
+77943|Fomento|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1003|Rural|
+77943|Los Geralex|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1081|Rural|
+77943|Rancho Sur|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1127|Rural|
+77943|San Martín|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1159|Rural|
+77943|El Cedral|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0401|Rural|
+77943|El Indio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0974|Rural|
+77943|Los Laureles|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1086|Rural|
+77943|El Naranjal|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0980|Rural|
+77943|Santa Rita|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1170|Rural|
+77943|Xtomoc Uno|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1185|Rural|
+77943|Caan Lumil|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0937|Rural|
+77943|Santa Rosa|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1172|Rural|
+77943|El Encanto|Fraccionamiento|Bacalar|Quintana Roo||77931|23|77931||21|010|0845|Urbano|
+77943|Miguel Hidalgo y Costilla|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1097|Rural|
+77943|San Isidro la Laguna|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1146|Rural|
+77943|San Luis|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1156|Rural|
+77943|Santa Cruz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1166|Rural|
+77944|El Encanto Segundo|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0970|Rural|
+77944|Andrés Quintana Roo|Colonia|Bacalar|Quintana Roo||77931|23|77931||09|010|0069|Urbano|
+77944|Bacalar Uno|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0933|Rural|
+77944|La Ceiba|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1029|Rural|
+77944|Merari Can|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1096|Rural|
+77944|San Antonio|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1137|Rural|
+77944|Jorge Cano|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1019|Rural|
+77944|Paraíso Escondido|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1109|Rural|
+77944|Tito|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1178|Rural|
+77945|El Bajío|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0958|Rural|
+77945|La Central|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1030|Rural|
+77945|Los Cuates|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1078|Rural|
+77945|Buena Esperanza|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0935|Rural|
+77945|Grupo Balam|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1010|Rural|
+77945|Nuevos Horizontes|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1105|Rural|
+77945|San Rafael|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1162|Rural|
+77945|La Coruña|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1033|Rural|
+77946|El Calvario|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0961|Rural|
+77946|El Edén|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0968|Rural|
+77946|Las Heliconias|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1055|Rural|
+77946|El Diamante|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0967|Rural|
+77946|Manuel Ávila Camacho|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1091|Rural|
+77946|Blanca Flor|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0365|Rural|
+77946|El Rubí|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0992|Rural|
+77946|La Buena Fe|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1024|Rural|
+77946|Las Abejas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1051|Rural|
+77946|Los Divorciados|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1079|Rural|
+77946|Mil Millas al Sur|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1098|Rural|
+77946|El Paraíso|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0982|Rural|
+77946|Las Ruinas|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1063|Rural|
+77946|San Lorenzo (Rancho Alegre)|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1155|Rural|
+77946|El Roble|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0991|Rural|
+77946|San José (La Silvia)|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1149|Rural|
+77947|Vallehermoso|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0362|Rural|
+77947|La Pantera|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1041|Rural|
+77947|El Mamey|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|0976|Rural|
+77947|Yumpetén|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1186|Rural|
+77947|San Hipólito|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1144|Rural|
+77947|Santa Cecilia|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1165|Rural|
+77947|Gustavo Díaz Ordaz|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1012|Rural|
+77947|Petén Tunich|Ranchería|Bacalar|Quintana Roo||77931|23|77931||29|010|1112|Rural|

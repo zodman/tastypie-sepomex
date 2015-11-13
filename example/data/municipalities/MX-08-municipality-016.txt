@@ -1,0 +1,6 @@
+33670|La Cruz|Pueblo|La Cruz|Chihuahua||33701|08|33701||28|016|1962|Rural|
+33670|Panamericana|Colonia|La Cruz|Chihuahua||33701|08|33701||09|016|0001|Urbano|
+33671|San Rafael|Ranchería|La Cruz|Chihuahua||33701|08|33701||29|016|1963|Rural|
+33673|El Morieleño|Ranchería|La Cruz|Chihuahua||33701|08|33701||29|016|1964|Rural|
+33677|La Cruz|Estación|La Cruz|Chihuahua||33701|08|33701||16|016|1965|Rural|
+33679|Corraleño de Juárez|Congregación|La Cruz|Chihuahua||33701|08|33701||11|016|1966|Rural|

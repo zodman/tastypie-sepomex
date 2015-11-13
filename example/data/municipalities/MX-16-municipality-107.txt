@@ -1,0 +1,91 @@
+58600|Zacapu Centro|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0666|Urbano|10
+58610|Manantiales|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|3542|Urbano|10
+58610|La Joyita|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0986|Urbano|10
+58610|La Angostura|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0669|Urbano|10
+58616|Wenceslao Victoria|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0671|Urbano|10
+58616|Cuauhtémoc|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0733|Urbano|10
+58616|Puerta Chica|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|4197|Urbano|10
+58616|FOVISSSTE|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|3496|Urbano|10
+58616|Valle Dorado|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|4200|Urbano|10
+58616|Cuauhtémoc 2|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|4752|Urbano|10
+58616|Celanesa|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0670|Urbano|10
+58616|Cuauhtémoc Cárdenas|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|4751|Urbano|10
+58617|Club Campestre|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0672|Urbano|10
+58620|San Miguel INFONAVIT|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|0675|Urbano|10
+58624|Valle Escondido|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0677|Urbano|10
+58627|Lázaro Cárdenas Sur|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0678|Urbano|10
+58628|García Padilla|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0679|Urbano|10
+58629|San Miguel|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0683|Urbano|10
+58630|Anáhuac|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0684|Urbano|10
+58635|18 de Octubre|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0686|Urbano|10
+58635|Lázaro Cárdenas|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0687|Urbano|10
+58637|Ejidal I|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0688|Urbano|10
+58637|Loma Linda|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0689|Urbano|10
+58637|Revolución|Conjunto habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||12|107|4198|Urbano|10
+58637|San José|Conjunto habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||12|107|0010|Urbano|10
+58638|Fray Jacobo Daciano|Fraccionamiento|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||21|107|0691|Urbano|10
+58639|Ejidal II|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0695|Urbano|10
+58639|Benito Juárez|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0694|Urbano|10
+58640|Francisco J. Mújica|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0696|Urbano|10
+58640|San Miguel|Fraccionamiento|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||21|107|0697|Urbano|10
+58649|Rincón de San Miguel|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0698|Urbano|10
+58650|Obrera|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0699|Urbano|10
+58653|Tacicuaro|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0700|Urbano|10
+58654|Nueva San Isidro|Ampliación|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||38|107|0704|Urbano|10
+58654|Ing. Enrique Rangel|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0703|Urbano|10
+58654|Emiliano Zapata|Fraccionamiento|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||21|107|0702|Urbano|10
+58660|Miguel Ángel|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0705|Urbano|10
+58664|Tepacuas|Fraccionamiento|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||21|107|4199|Urbano|10
+58664|Juventud Deportiva INFONAVIT|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|0706|Urbano|10
+58664|Las Tepacuas INFONAVIT|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|0707|Urbano|10
+58664|Nueva San Isidro|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0708|Urbano|10
+58665|Valle de Zacapu|Fraccionamiento|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||21|107|0709|Urbano|10
+58667|Morelos|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0710|Urbano|10
+58667|Nueva Tepeyac|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0711|Urbano|10
+58670|Lomas Jardín|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0712|Urbano|10
+58676|Las Glorias|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|3498|Urbano|10
+58676|Las Adelitas|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0716|Urbano|10
+58676|Tombero|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|3499|Urbano|10
+58677|Los Pirules INFONAVIT|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|0720|Urbano|10
+58677|La Arboleda|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0719|Urbano|10
+58677|Los Ajolotes|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0718|Urbano|10
+58677|Progreso Nacional|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0721|Urbano|10
+58677|La Libertad|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|3535|Urbano|10
+58680|Moderna|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0722|Urbano|10
+58685|Libertadores de América|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|3497|Urbano|10
+58685|Carlos Gálvez Betancourt|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0724|Urbano|10
+58685|Carlos Gálvez Betancourt INFONAVIT|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|0725|Urbano|10
+58685|Luis Donaldo Colosio|Fraccionamiento|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||21|107|0011|Urbano|10
+58688|Valle Verde|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0726|Urbano|10
+58689|El Moral INFONAVIT|Unidad habitacional|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||31|107|0727|Urbano|10
+58690|La Huerta|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0728|Urbano|10
+58698|El Cuinato|Colonia|Zacapu|Michoacán de Ocampo|Zacapu|58601|16|58601||09|107|0732|Urbano|10
+58701|Cantabria|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0738|Rural|
+58702|Tarejero|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0739|Rural|
+58703|Loma Alta|Rancho|Zacapu|Michoacán de Ocampo||58601|16|58601||48|107|0008|Rural|
+58710|Santa Gertrudis|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0741|Rural|
+58710|La Virgen|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0740|Rural|
+58710|Pueblo Viejo (Jacarandas)|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|4205|Rural|
+58711|San Antonio Tariácuri|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0742|Rural|
+58716|La Escondida|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0743|Rural|
+58716|El Chamizal|Rancho|Zacapu|Michoacán de Ocampo||58601|16|58601||48|107|0005|Rural|
+58720|La Yesca|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0007|Rural|
+58720|Las Canoas|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0746|Rural|
+58720|El Limón|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0006|Rural|
+58720|Colonia Eréndira (La Yesca El Limón)|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0745|Rural|
+58720|El Pueblito|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0744|Rural|
+58727|Los Llanos|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|4203|Rural|
+58727|Rancho Alegre|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0009|Rural|
+58728|Las Cabras|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|4202|Rural|
+58728|Vista Hermosa|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|4206|Rural|
+58730|Buenavista|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0747|Rural|
+58730|Las Flores|Colonia|Zacapu|Michoacán de Ocampo||58601|16|58601||09|107|0001|Urbano|
+58730|Joaquín de la Cruz|Colonia|Zacapu|Michoacán de Ocampo||58601|16|58601||09|107|0002|Urbano|
+58730|Naranja de Tapia|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0748|Urbano|
+58731|Progreso|Colonia|Zacapu|Michoacán de Ocampo||58601|16|58601||09|107|0003|Urbano|
+58731|Tiríndaro|Pueblo|Zacapu|Michoacán de Ocampo||58601|16|58601||28|107|0749|Urbano|
+58733|Morelos|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|4204|Rural|
+58734|La Cofradía|Poblado comunal|Zacapu|Michoacán de Ocampo||58601|16|58601||27|107|3954|Rural|
+58735|David Franco Reyes|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|4201|Rural|
+58735|Barranca Honda|Rancho|Zacapu|Michoacán de Ocampo||58601|16|58601||48|107|0004|Rural|
+58739|El Coyolote|Ranchería|Zacapu|Michoacán de Ocampo||58601|16|58601||29|107|0750|Rural|

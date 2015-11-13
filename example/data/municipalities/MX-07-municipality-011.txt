@@ -1,0 +1,32 @@
+30130|Bellavista|Pueblo|Bella Vista|Chiapas||30141|07|30141||28|011|1086|Rural|
+30133|Emiliano Zapata|Ejido|Bella Vista|Chiapas||30141|07|30141||15|011|1088|Rural|
+30133|Nuevo Pacayal|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1105|Rural|
+30133|La Hacienda|Ejido|Bella Vista|Chiapas||30141|07|30141||15|011|1089|Rural|
+30133|La Noria|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1104|Rural|
+30133|Pacayal Viejo|Ejido|Bella Vista|Chiapas||30141|07|30141||15|011|1106|Rural|
+30134|Guadalupe|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1100|Rural|
+30134|Las Flores|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1102|Rural|
+30134|Allende|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1085|Rural|
+30134|San José las Chicharras|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1091|Rural|
+30134|Unión Progreso|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1099|Rural|
+30134|Caballo Blanco|Ejido|Bella Vista|Chiapas||30141|07|30141||15|011|5302|Rural|
+30134|Platanar|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1087|Rural|
+30134|Las Chicharras|Colonia|Bella Vista|Chiapas||30141|07|30141||09|011|5300|Rural|
+30134|Caballete|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5301|Rural|
+30135|Progreso|Ejido|Bella Vista|Chiapas||30141|07|30141||15|011|1098|Rural|
+30135|La Lucha|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1101|Rural|
+30135|Nuevo Yucatán|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1103|Rural|
+30135|Cueva del Arco|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5306|Rural|
+30135|Monte Flores|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5308|Rural|
+30135|Chemic|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1095|Rural|
+30135|San Juan Progreso|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5307|Rural|
+30135|Cárdenas Ojo de Agua|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1090|Rural|
+30135|20 de Noviembre|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5309|Rural|
+30136|La Laguna|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5305|Rural|
+30136|Los Lagos|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5310|Rural|
+30136|Sabinalito|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5304|Rural|
+30136|Las Nubes|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5311|Rural|
+30137|Zaragoza|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1097|Rural|
+30137|Rinconada|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|1093|Rural|
+30137|Minerva|Barrio|Bella Vista|Chiapas||30141|07|30141||02|011|5303|Rural|
+30137|Independencia|Ejido|Bella Vista|Chiapas||30141|07|30141||15|011|1096|Rural|

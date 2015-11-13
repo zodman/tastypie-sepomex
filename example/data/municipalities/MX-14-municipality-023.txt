@@ -1,0 +1,153 @@
+49000|Ciudad Guzmán Centro|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2811|Urbano|02
+49010|Mansiones Del Real|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2815|Urbano|02
+49011|Conjunto Calderón|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4510|Urbano|02
+49011|Conjunto Hidalgo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4784|Urbano|02
+49011|Esquipulas|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2816|Urbano|02
+49011|Compositores|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2817|Urbano|02
+49012|Rinconada Hidalgo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4785|Urbano|02
+49012|San Antonio|Unidad habitacional|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||31|023|2818|Urbano|02
+49013|Santa Cecilia|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4344|Urbano|02
+49013|Paseos del Real|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|5319|Urbano|02
+49013|Los Doctores|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2819|Urbano|02
+49013|Pintores|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2820|Urbano|02
+49013|Azaleas|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4509|Urbano|02
+49014|Lázaro Cárdenas|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2821|Urbano|02
+49015|Universitaria|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2822|Urbano|02
+49019|Escritores|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4034|Urbano|02
+49020|Loma Bonita|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2824|Urbano|02
+49020|Jardines de Zapotlan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2823|Urbano|02
+49020|Los Bomberos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2825|Urbano|02
+49020|El Portón Azul|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4340|Urbano|02
+49020|Los Olivos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2826|Urbano|02
+49020|El Pastor (colinas Del Sur)|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4142|Urbano|02
+49023|La Paz|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2827|Urbano|02
+49024|Empleados Municipales|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2828|Urbano|02
+49024|Pablo Luis Juan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2829|Urbano|02
+49026|Las Américas|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4339|Urbano|02
+49026|Morelos|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2830|Urbano|02
+49027|Emiliano Zapata|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2831|Urbano|02
+49028|Chuluapan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2832|Urbano|02
+49029|La Cantera|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2833|Rural|02
+49031|Insurgentes|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2835|Urbano|02
+49032|San Jose|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2836|Urbano|02
+49032|Teocali|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4040|Urbano|02
+49032|La Nueva Luz|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4898|Urbano|02
+49032|Villas de Calderón|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4350|Urbano|02
+49032|Gante|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|5294|Urbano|02
+49032|Benefactores|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4341|Urbano|02
+49032|Los Camichines|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|0003|Urbano|02
+49032|Senderos San Miguel|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4878|Urbano|02
+49033|Álamo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2837|Urbano|02
+49033|La Cebada|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4511|Urbano|02
+49035|Valle de Zapotlan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2838|Urbano|02
+49040|San Cayetano|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2840|Urbano|02
+49040|Lomas de San Cayetano|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2839|Urbano|02
+49040|Conjunto Modernidad|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4342|Urbano|02
+49050|16 de Septiembre|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2842|Urbano|02
+49051|Valle Del Sol|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2843|Urbano|02
+49052|Lic A Gandara Estrada|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4349|Urbano|02
+49052|Revolución|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2847|Urbano|02
+49052|Villas de San Isidro|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4876|Urbano|02
+49052|CTM|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2845|Urbano|02
+49052|Hijos Ilustres|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4882|Urbano|02
+49052|5 de Febrero|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4348|Urbano|02
+49052|C.N.O.P.|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2844|Urbano|02
+49052|Residencial Zapotlán|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4887|Urbano|02
+49053|Villas Del Nevado|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2848|Urbano|02
+49053|El Retiro|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4881|Urbano|02
+49053|Los Encinos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4138|Urbano|02
+49055|Las Haciendas|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4347|Urbano|02
+49055|El Triangulo|Unidad habitacional|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||31|023|2850|Urbano|02
+49055|Jalisco|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4345|Urbano|02
+49055|Los Pinos|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4346|Urbano|02
+49055|La Morita|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4041|Urbano|02
+49056|Jardines del Sol|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2851|Urbano|02
+49057|La Palma|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2852|Urbano|02
+49059|Central de Abastos|Zona comercial|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||33|023|4032|Urbano|02
+49060|Loma de Barro|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2853|Urbano|02
+49060|La Giralda|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4029|Urbano|02
+49063|Las Peñas|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4338|Urbano|02
+49063|A.C.F.E.|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2854|Urbano|02
+49064|El Nogal|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4337|Urbano|02
+49064|Rinconada de Los Pinos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4875|Urbano|02
+49064|La Joya|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4033|Urbano|02
+49064|Camichines|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4786|Urbano|02
+49064|Lomas Altas|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2855|Urbano|02
+49064|Paseo de Las Fuentes|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4888|Urbano|02
+49065|Cristo Rey|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4141|Urbano|02
+49065|Lomas Del Valle|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2856|Urbano|02
+49066|Los Guayabos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2857|Urbano|02
+49066|La Reja|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4031|Urbano|02
+49070|Residencial los Viveros|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4579|Urbano|02
+49070|Campamento Ferrocarrilero|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4892|Urbano|02
+49070|Ejidal|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2858|Urbano|02
+49070|Magisterial|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2860|Urbano|02
+49070|El Tinaco|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2861|Urbano|02
+49075|Central Camionera|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4893|Urbano|02
+49076|Conjunto FIFA|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4885|Urbano|02
+49076|Villa Olímpica|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2862|Urbano|02
+49077|J. José Zaragoza|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2863|Urbano|02
+49078|Santo Domingo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4884|Urbano|02
+49078|Villas de Zapotlan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4042|Urbano|02
+49078|Coto Portugal|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4883|Urbano|02
+49078|Molino Viejo|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2864|Urbano|02
+49078|El Bajío|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4512|Urbano|02
+49078|Villas Del Palmar|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4043|Urbano|02
+49079|Santa Rosa|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2865|Urbano|02
+49080|San Pedro|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2866|Urbano|02
+49086|Miguel Hidalgo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2867|Urbano|02
+49086|Fresno|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4328|Urbano|02
+49086|Miguel Hidalgo II|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4787|Urbano|02
+49086|La Providencia|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4329|Urbano|02
+49086|Volcanes|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4331|Urbano|02
+49086|Reforma|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4330|Urbano|02
+49086|La Primavera|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|5218|Urbano|02
+49086|La Primavera II|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|0001|Urbano|02
+49086|Valle de La Providencia|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4880|Urbano|02
+49087|Paseos del Sol|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|0002|Urbano|02
+49087|20 de Noviembre|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2868|Urbano|02
+49088|El Jazmín|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4886|Urbano|02
+49088|Constituyentes|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2869|Urbano|02
+49089|Central|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2871|Urbano|02
+49089|La Hacienda|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2873|Urbano|02
+49089|Cordero|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2872|Urbano|02
+49090|El Campanario|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2874|Urbano|02
+49090|Los Ocotillos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2878|Urbano|02
+49090|Pinar de los Escritores|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4335|Urbano|02
+49090|Acueducto San Jose|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4336|Urbano|02
+49090|San Bartolo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2879|Urbano|02
+49090|Jardines de Oriente|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4513|Urbano|02
+49090|Fovissste (jose Clemente Orozco)|Unidad habitacional|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||31|023|2875|Rural|02
+49090|Acueducto San Jose|Condominio|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||10|023|4343|Urbano|02
+49090|Cañadas|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4889|Urbano|02
+49090|Lomas de Zapotlan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2877|Urbano|02
+49092|Los Ocotillos Infonavit|Unidad habitacional|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||31|023|2880|Urbano|02
+49093|1ro de Agosto|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4334|Urbano|02
+49093|Unión de Colonos Org. de Ciudad Guzmán|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2883|Urbano|02
+49093|Unión de Colonos Independencia|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2882|Urbano|02
+49093|Bugambilias|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2881|Urbano|02
+49093|Pueblo de Jalisco|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2849|Urbano|02
+49094|Nuevo Desarrollo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2884|Urbano|02
+49094|Lomas Del Sur|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4333|Urbano|02
+49094|Otilio Montaño|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2885|Urbano|02
+49094|Tlayolan|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2886|Urbano|02
+49095|El Pastor|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2887|Urbano|02
+49095|Francisco I. Madero|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2888|Urbano|02
+49095|Francisco Villalvazo Rolón|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2889|Urbano|02
+49095|Inquilinos Guzmanenses|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2890|Urbano|02
+49095|Valle Dorado|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4332|Urbano|02
+49096|1 de Mayo|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2892|Urbano|02
+49096|Benito Juárez|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2891|Urbano|02
+49097|Adolfo López Mateos|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2896|Urbano|02
+49097|Pastor de Arriba|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|4044|Urbano|02
+49097|San Felipe II|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4914|Urbano|02
+49097|Solidaridad La Paz|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2895|Urbano|02
+49097|San Felipe|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|4879|Urbano|02
+49097|Lomas de Solidaridad|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2893|Urbano|02
+49097|Solidaridad|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2894|Urbano|02
+49098|Cruz Roja|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|2897|Urbano|02
+49098|Conjunto Guadalupe|Colonia|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||09|023|5328|Urbano|02
+49099|Arboledas|Fraccionamiento|Zapotlán el Grande|Jalisco|Ciudad Guzmán|49001|14|49001||21|023|2898|Urbano|02
+49100|El Fresnito|Ranchería|Zapotlán el Grande|Jalisco||49001|14|49001||29|023|2899|Rural|
+49100|La Mesa|Ranchería|Zapotlán el Grande|Jalisco||49001|14|49001||29|023|2900|Rural|
+49109|Atequizayan|Congregación|Zapotlán el Grande|Jalisco||49001|14|49001||11|023|2901|Rural|

@@ -1,0 +1,30 @@
+92400|La Curva|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|1927|Rural|67
+92400|Hernandez Ochoa|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|5067|Rural|67
+92400|Virgilio Lara|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|5069|Rural|67
+92400|El Higo Centro|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|1396|Rural|67
+92400|Aviación|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|1774|Rural|67
+92400|Asociación Cívica|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|5068|Rural|67
+92400|La Gloria|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|1932|Rural|67
+92400|20 de Noviembre|Colonia|El Higo|Veracruz de Ignacio de la Llave|El Higo|92401|30|92401||09|205|2114|Rural|67
+92403|El Chote|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|7117|Rural|
+92403|Palmar Prieto|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1399|Rural|
+92403|San Andres|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1400|Rural|
+92403|Mundo Raro|Congregación|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||11|205|7895|Rural|
+92403|El Pueblito|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1398|Rural|
+92404|Rancho Alegre|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1402|Rural|
+92404|Bella Vista|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1401|Rural|
+92404|La Y Griega|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|7119|Rural|
+92405|Puentes Nuevas|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1403|Rural|
+92405|San Rafael|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1404|Rural|
+92406|Alto Del Ojite|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1405|Rural|
+92407|La Carolina|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|7118|Rural|
+92407|Vega de los Marcos|Congregación|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||11|205|7203|Rural|
+92407|Cuve de los Marcos|Congregación|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||11|205|7204|Rural|
+92407|Vega Del Paso|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1407|Rural|
+92407|Las Puentes|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|7120|Rural|
+92407|El Hoxton|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1406|Rural|
+92408|Potrero Brasil|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1409|Rural|
+92408|Los Jobos|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1408|Rural|
+92408|Santiago Sanchez|Ranchería|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||29|205|1410|Rural|
+92409|San Isidro|Rancho|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||48|205|0001|Rural|
+92409|Badeas|Pueblo|El Higo|Veracruz de Ignacio de la Llave||92401|30|92401||28|205|1411|Rural|

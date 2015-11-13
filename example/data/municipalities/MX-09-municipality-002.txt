@@ -1,0 +1,129 @@
+02000|Centro de Azcapotzalco|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0353|Urbano|02
+02008|Delegación Política Azcapotzalco|Gran usuario|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||22|002|0354|Urbano|02
+02010|Nuevo Barrio San Rafael|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0358|Urbano|02
+02010|Los Reyes|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0356|Urbano|02
+02010|San Rafael|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0357|Urbano|02
+02020|Santo Tomás|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0361|Urbano|02
+02020|San Marcos|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0360|Urbano|02
+02040|Del Maestro|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0362|Urbano|02
+02040|San Sebastián|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0363|Urbano|02
+02050|Libertad|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0364|Urbano|02
+02050|Wake|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2823|Urbano|02
+02050|Santa María Malinalco|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0365|Urbano|02
+02060|Sindicato Mexicano de Electricistas|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0368|Urbano|02
+02060|Un Hogar Para Cada Trabajador|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0369|Urbano|02
+02070|Nextengo|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2826|Urbano|02
+02070|Del Recreo|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0371|Urbano|02
+02070|Nextengo|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0372|Urbano|02
+02070|Azcapotzalco|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0370|Urbano|02
+02070|Palestina|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2827|Urbano|02
+02080|Sector Naval|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0376|Urbano|02
+02080|Clavería|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0374|Urbano|02
+02090|San Álvaro|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0377|Urbano|02
+02099|Ángel Zimbrón|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0378|Urbano|02
+02100|Los Oyameles|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2817|Urbano|02
+02100|El Rosario|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0379|Urbano|02
+02109|CROC 6 Olimpia|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2645|Urbano|02
+02109|Manuel Rivera Anaya CROC 1|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0380|Urbano|02
+02110|Ecológica Novedades Impacto|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0381|Urbano|02
+02110|San Pablo Xalpa|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0382|Urbano|02
+02120|San Martín Xochinahuac|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0385|Urbano|02
+02125|San Martín Xochinahuac|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0386|Urbano|02
+02128|Nueva El Rosario|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0389|Urbano|02
+02129|Nueva España|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0390|Urbano|02
+02130|Tierra Nueva|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0391|Urbano|02
+02140|Santa Inés|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0392|Urbano|02
+02150|Azcapotzalco Pasteros|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2820|Urbano|02
+02150|Pasteros|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0393|Urbano|02
+02160|Santo Domingo|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0394|Urbano|02
+02169|Villas de Azcapotzalco|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0395|Urbano|02
+02200|Reynosa Tamaulipas|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0396|Urbano|02
+02230|Santa Bárbara|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0397|Urbano|02
+02240|Ticoman|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2818|Urbano|02
+02240|San Andrés|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0398|Urbano|02
+02240|San Andrés Fase II|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2819|Urbano|02
+02240|San Andrés|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0399|Urbano|02
+02250|Santa Catarina|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0400|Urbano|02
+02260|Pitolaca|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2821|Urbano|02
+02300|Industrial Vallejo|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0402|Urbano|02
+02310|Ferrería|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0404|Urbano|02
+02320|San Andrés de las Salinas|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||28|002|0405|Urbano|02
+02330|Huautla de las Salinas|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||02|002|0406|Urbano|02
+02340|Santa Cruz de las Salinas|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0407|Urbano|02
+02350|Jardines de Ceylán|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||31|002|0408|Urbano|02
+02360|Las Salinas|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0409|Urbano|02
+02400|Rinconada el Olivar|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2802|Urbano|02
+02400|San Juan Tlihuaca|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0410|Urbano|02
+02400|San Juan Tlihuaca|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2801|Urbano|02
+02409|Rosendo Salazar|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0411|Urbano|02
+02410|Prados del Rosario|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0412|Urbano|02
+02419|Trabajadores de PEMEX|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0413|Urbano|02
+02420|Ex-Hacienda El Rosario|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0415|Urbano|02
+02420|Francisco Villa|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0414|Urbano|02
+02430|Presidente Madero|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0416|Urbano|02
+02440|Providencia|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0418|Urbano|02
+02450|Miguel Hidalgo|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0420|Urbano|02
+02450|Las Trancas|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0419|Urbano|02
+02459|Tezozomoc|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0421|Urbano|02
+02460|Axolahua|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2803|Urbano|02
+02460|La Preciosa|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0422|Urbano|02
+02470|Ampliación Petrolera|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0423|Urbano|02
+02479|Lázaro Cárdenas|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0424|Urbano|02
+02480|Petrolera|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0425|Urbano|02
+02490|San Mateo|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0427|Urbano|02
+02490|Kervin|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2828|Urbano|02
+02500|Unidad Cuitlahuac|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0428|Urbano|02
+02510|Pantaco|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0429|Urbano|02
+02510|El Jagüey|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2822|Urbano|02
+02519|El Jagüey|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0430|Urbano|02
+02520|Estación Pantaco|Equipamiento|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||17|002|0431|Urbano|02
+02525|Granjas Pantaco Campamento Ferrocarrilero|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2829|Urbano|02
+02530|Jardín Azpeitia|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0439|Urbano|02
+02540|Hogares Ferrocarrileros|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0440|Urbano|02
+02600|Pro-Hogar|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0441|Urbano|02
+02630|Coltongo|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||02|002|0443|Urbano|02
+02630|Coltongo|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|2798|Urbano|02
+02640|Monte Alto|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0444|Urbano|02
+02650|Trabajadores de Hierro|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0445|Urbano|02
+02660|Euzkadi|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0446|Urbano|02
+02670|Cosmopolita|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0447|Urbano|02
+02680|Potrero del Llano|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0448|Urbano|02
+02700|San Miguel Amantla|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0449|Urbano|02
+02710|San Pedro Xalpa|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0451|Urbano|02
+02710|San Isidro|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2804|Urbano|02
+02718|Las Armas|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0452|Urbano|02
+02719|Ampliación San Pedro Xalpa|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0454|Urbano|02
+02720|San Bartolo Cahualtongo|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0457|Urbano|02
+02720|San Antonio|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0456|Urbano|02
+02729|Campo Encantado|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0458|Urbano|02
+02730|San Francisco Tetecala|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0459|Urbano|02
+02739|Miguel Lerdo de Tejada|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|0460|Urbano|02
+02750|Santiago Ahuizotla|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0461|Urbano|02
+02750|La Providencia|Fraccionamiento|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||21|002|2800|Urbano|02
+02750|La Escuadra|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||31|002|2799|Urbano|02
+02760|Industrial San Antonio|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0462|Urbano|02
+02760|Santa Lucía|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0463|Urbano|02
+02770|Santa Cruz Acayucan|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||28|002|0464|Urbano|02
+02780|Plenitud|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||09|002|0465|Urbano|02
+02790|Santa Apolonia|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02011|09|02011||02|002|0466|Urbano|02
+02800|Nueva Santa María|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0467|Urbano|02
+02810|Ignacio Allende|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0469|Urbano|02
+02810|Victoria de las Democracias|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0470|Urbano|02
+02830|San Bernabé|Barrio|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||02|002|0473|Urbano|02
+02830|Toronja|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||31|002|2830|Urbano|02
+02840|Obrero Popular|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0474|Urbano|02
+02840|Cobre de México|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||31|002|2797|Urbano|02
+02850|Tlatilco|Unidad habitacional|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||31|002|0475|Urbano|02
+02860|Tlatilco|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0476|Urbano|02
+02870|San Salvador Xochimanca|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0477|Urbano|02
+02900|Aguilera|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0478|Urbano|02
+02910|Aldana|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0479|Urbano|02
+02920|Ampliación Cosmopolita|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0480|Urbano|02
+02930|Liberación|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0481|Urbano|02
+02940|Porvenir|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0482|Urbano|02
+02950|Del Gas|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0483|Urbano|02
+02960|San Francisco Xocotitla|Pueblo|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||28|002|0484|Urbano|02
+02970|Ampliación Del Gas|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0485|Urbano|02
+02980|Arenal|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0486|Urbano|02
+02980|Patrimonio Familiar|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0487|Urbano|02
+02990|La Raza|Colonia|Azcapotzalco|Distrito Federal|Ciudad de México|02601|09|02601||09|002|0488|Urbano|02

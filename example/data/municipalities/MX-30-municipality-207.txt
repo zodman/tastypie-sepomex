@@ -1,0 +1,16 @@
+95300|3 Valles Centro|Colonia|Tres Valles|Veracruz de Ignacio de la Llave|Tres Valles|95301|30|95301||09|207|3284|Semiurbano|08
+95302|Fidel Herrera Beltrán|Colonia|Tres Valles|Veracruz de Ignacio de la Llave|Tres Valles|95301|30|95301||09|207|0005|Urbano|08
+95306|Campo Veracruz|Colonia|Tres Valles|Veracruz de Ignacio de la Llave|Tres Valles|95301|30|95301||09|207|7238|Rural|08
+95350|Adolfo Ruiz Cortines (Colonia Obrera)|Colonia|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||09|207|0007|Rural|
+95350|La Guadalupe|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|0009|Rural|
+95355|Campo Nuevo|Poblado comunal|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||27|207|0002|Rural|
+95357|Santo Domingo|Ejido|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||15|207|6056|Rural|
+95358|Novara|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|3309|Rural|
+95358|El Renacimiento|Ranchería|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||29|207|0001|Rural|
+95360|Los Naranjos|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|3310|Rural|
+95365|Agrícola Independencia|Colonia|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||09|207|0003|Rural|
+95367|Nuevo San José Independencia|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|0008|Rural|
+95370|Vista Hermosa|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|3311|Rural|
+95370|La Granja|Congregación|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||11|207|6304|Rural|
+95374|Las Mesillas|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|0004|Rural|
+95380|Poblado Tres|Pueblo|Tres Valles|Veracruz de Ignacio de la Llave||95301|30|95301||28|207|0006|Rural|

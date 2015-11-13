@@ -1,0 +1,41 @@
+28500|El Toreo|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0643|Rural|
+28500|Cuauhtémoc|Pueblo|Cuauhtémoc|Colima||28501|06|28501||28|005|0214|Rural|
+28500|El Rastro|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0644|Rural|
+28504|Lomas Santa Cruz|Fraccionamiento|Cuauhtémoc|Colima||28501|06|28501||21|005|0003|Rural|
+28504|La Cayetana|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0692|Rural|
+28504|La Presa|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0525|Rural|
+28504|La Escondida|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0695|Rural|
+28504|Griselda Alvarez Ponce de León|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0503|Rural|
+28504|Los Monos|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0551|Rural|
+28504|San Rafael|Fraccionamiento|Cuauhtémoc|Colima||28501|06|28501||21|005|0593|Rural|
+28504|Campestre San Fermín|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0691|Rural|
+28506|Emiliano Zapata|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0495|Rural|
+28506|San Jerónimo|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0760|Rural|
+28507|Valle Real|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0001|Urbano|
+28507|Las Higueras|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0534|Rural|
+28509|Estación Alzada|Paraje|Cuauhtémoc|Colima||28501|06|28501||45|005|0216|Rural|
+28510|Quesería|Hacienda|Cuauhtémoc|Colima||28511|06|28511||24|005|0217|Rural|
+28513|Ermita|Colonia|Cuauhtémoc|Colima||28511|06|28511||09|005|0790|Rural|
+28514|La Cruz|Colonia|Cuauhtémoc|Colima||28511|06|28511||09|005|0516|Rural|
+28515|Concepción Barbosa|Colonia|Cuauhtémoc|Colima||28511|06|28511||09|005|0473|Rural|
+28516|Arsenio Farell Cubillas|Colonia|Cuauhtémoc|Colima||28511|06|28511||09|005|0564|Rural|
+28517|Solidaridad|Colonia|Cuauhtémoc|Colima||28511|06|28511||09|005|0597|Rural|
+28520|Alcaraces|Ranchería|Cuauhtémoc|Colima||28511|06|28511||29|005|0219|Rural|
+28521|Palmillas|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0220|Rural|
+28522|El Barro|Ranchería|Cuauhtémoc|Colima||28511|06|28511||29|005|0221|Rural|
+28523|Cerro Colorado|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0222|Rural|
+28530|Chiapa|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0223|Rural|
+28530|Chiapa|Hacienda|Cuauhtémoc|Colima||28501|06|28501||24|005|0224|Rural|
+28530|Ocotillo|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0225|Rural|
+28531|Montitlán|Ranchería|Cuauhtémoc|Colima||28511|06|28511||29|005|0226|Rural|
+28532|Naranjal|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0227|Rural|
+28550|El Campanario|Colonia|Cuauhtémoc|Colima||28501|06|28501||09|005|0002|Urbano|
+28550|San Joaquín|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0229|Rural|
+28550|El Trapiche|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0228|Rural|
+28553|El Cóbano|Hacienda|Cuauhtémoc|Colima||28501|06|28501||24|005|0230|Rural|
+28554|El Parián|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0231|Rural|
+28555|La Palma|Ranchería|Cuauhtémoc|Colima||28501|06|28501||29|005|0232|Rural|
+28557|ISENCO|Equipamiento|Cuauhtémoc|Colima||28001|06|28001||17|005|0856|Rural|
+28590|Buenavista|Ejido|Cuauhtémoc|Colima||28501|06|28501||15|005|0233|Rural|
+28597|Bajío de la Leona|Pueblo|Cuauhtémoc|Colima||28501|06|28501||28|005|0799|Rural|
+28599|Colima (Lic. Miguel de la Madrid Hurtado)|Aeropuerto|Cuauhtémoc|Colima||28501|06|28501||01|005|0234|Rural|

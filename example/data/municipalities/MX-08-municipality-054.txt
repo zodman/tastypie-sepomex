@@ -1,0 +1,149 @@
+31640|San Andrés|Pueblo|Riva Palacio|Chihuahua||31501|08|31501||28|054|0247|Rural|
+31642|Campo Menonita 63|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0254|Rural|
+31642|Campo Menonita 64-4|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0256|Rural|
+31643|Aldana de Abajo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7348|Rural|
+31643|El Rancho|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7388|Rural|
+31643|La Estacada|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7400|Rural|
+31643|Nana Rosa|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7423|Rural|
+31643|Cañón de San Miguel (Cañón del Diablo)|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7351|Rural|
+31643|El Encino|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7384|Rural|
+31643|El Terrero|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7391|Rural|
+31643|Los Pérez|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7417|Rural|
+31643|Lucas|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7420|Rural|
+31643|Guadalupe|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7395|Rural|
+31643|Aldana de Arriba|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7349|Rural|
+31643|Jesús María de Loya (Ranchito de Loya)|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7396|Rural|
+31643|Marcial|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7422|Rural|
+31643|Noria de Aldana|Ejido|Riva Palacio|Chihuahua||31501|08|31501||15|054|0273|Rural|
+31643|Agua Zarca|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7347|Rural|
+31643|Los Aviones|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7411|Rural|
+31643|Zubía|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7441|Rural|
+31643|Barrio de Félix de Abajo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|0269|Rural|
+31643|Beltranes|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7350|Rural|
+31643|El Alamillo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7377|Rural|
+31643|El Ranchito|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7387|Rural|
+31643|El Saucillo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7389|Rural|
+31643|La Luneta|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7401|Rural|
+31643|La Mesa|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7403|Rural|
+31643|Rancho Chuma|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7429|Rural|
+31643|Chavarría|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7373|Rural|
+31643|Cueva de Tierra|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7376|Rural|
+31643|Las Tinajitas|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7408|Rural|
+31643|Los Poños|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7416|Rural|
+31643|Sandoval|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|0272|Rural|
+31643|Cañada de Pinos|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7352|Rural|
+31643|Los Hornitos|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7414|Rural|
+31643|Rancho Nuevo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7432|Rural|
+31644|Pino Boludo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7424|Rural|
+31644|San Bernabé|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7433|Rural|
+31644|El Capulín|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7380|Rural|
+31644|La Corbata|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7397|Rural|
+31644|Los Cojos|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7412|Rural|
+31644|San Juan de Mendoza|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7434|Rural|
+31644|San Juan del Duro|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7435|Rural|
+31644|Sierra Alta|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7439|Rural|
+31644|El Arquito|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7379|Rural|
+31644|Macario|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7421|Rural|
+31644|El Carrizalillo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7382|Rural|
+31644|San Agustín de Piñones|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|0271|Rural|
+31644|Ranchería|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7428|Rural|
+31644|Cerro Colorado|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7372|Rural|
+31644|Güerachi de Abajo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7393|Rural|
+31644|La Cueva Pinta|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7398|Rural|
+31644|Rancho de Arriba|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7430|Rural|
+31644|Santa Rosa|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7438|Rural|
+31644|La Despedida|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|0270|Rural|
+31644|El Tascatal|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7390|Rural|
+31644|La Parra|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7405|Rural|
+31644|Los Robles|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7418|Rural|
+31644|Rancho el Gringo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7431|Rural|
+31645|Campo Sesenta y Uno|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0265|Rural|
+31645|Campo Cuarenta y Seis|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7356|Rural|
+31645|Las Gualdias|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7407|Rural|
+31645|Pino Cuate|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7425|Rural|
+31645|San Vicente (Pinos Prietos)|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7436|Rural|
+31645|Sainapuchi (La Garita)|Ejido|Riva Palacio|Chihuahua||31501|08|31501||15|054|0268|Rural|
+31645|Campo 36|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4165|Rural|
+31645|Campo Treinta y Cinco y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7368|Rural|
+31645|El Alamillo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7378|Rural|
+31645|El Coscomate|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7383|Rural|
+31645|Campo Cuarenta y Cuatro|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4139|Rural|
+31645|Campo Cuarenta y Tres|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4164|Rural|
+31645|El Oso|Ejido|Riva Palacio|Chihuahua||31501|08|31501||15|054|7386|Rural|
+31645|Ramón Madrid|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7427|Rural|
+31645|Campo Treinta y Dos|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7369|Rural|
+31645|Campo Treinta y Uno|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7371|Rural|
+31645|Las Vigas|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7410|Rural|
+31645|Pinos Prietos|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7426|Rural|
+31645|Campo Treinta y Cinco (El Saucito)|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0266|Rural|
+31645|Campo Treita y Ocho y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5710|Rural|
+31645|El Carmen (Pinos Prietos)|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7381|Rural|
+31645|Granja los Minks|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7394|Rural|
+31645|Los Hidalgos|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7413|Rural|
+31645|Los Tanques|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7419|Rural|
+31645|Campo Cincuenta|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4172|Rural|
+31645|Campo Treinta y Ocho|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5694|Rural|
+31645|Campo Treinta y Tres|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7370|Rural|
+31645|Ciénega Grande|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7374|Rural|
+31645|El Zorrillo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7392|Rural|
+31645|Santa Elena|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7437|Rural|
+31645|Las Tunas|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7409|Rural|
+31645|El Peñol|Ejido|Riva Palacio|Chihuahua||31501|08|31501||15|054|0267|Rural|
+31645|Campo Treinta|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7367|Rural|
+31645|Coscomate Nuevo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7375|Rural|
+31645|El Oso|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7385|Rural|
+31645|La Paloma|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7404|Rural|
+31646|Campo Ochenta y Siete|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0252|Rural|
+31646|Campo Cincuenta y Cinco (La Cordovana)|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0262|Rural|
+31646|Campo Cuarenta y Dos|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4231|Rural|
+31646|Campo Sesenta y Cinco y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7362|Rural|
+31646|Campo Sesenta y Uno y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7365|Rural|
+31646|Campo Setenta y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7366|Rural|
+31646|Campo Sesenta y Cinco|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0257|Rural|
+31646|Campo Noventa y Dos|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5718|Rural|
+31646|Campo Ochenta y Nueve|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7359|Rural|
+31646|Campo Cincuenta y Nueve|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0263|Rural|
+31646|Campo Sesenta y Siete y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5889|Rural|
+31646|Campo Sesenta y Dos|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0253|Rural|
+31646|Campo Cuarenta y Ocho|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4203|Rural|
+31646|Campo Setenta y Tres|Ejido|Riva Palacio|Chihuahua||31501|08|31501||15|054|0001|Rural|
+31646|Campo Sesenta y Cuatro|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0255|Rural|
+31646|Campo Sesenta y Seis|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0258|Rural|
+31646|Campo Sesenta y Cuatro B|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4217|Rural|
+31646|Campo Noventa|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5719|Rural|
+31646|Campo Cuarenta y Uno|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7357|Rural|
+31646|Los Pinos|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7415|Rural|
+31646|Campo Cincuenta y Nueve y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7353|Rural|
+31646|Campo Sesenta y Dos y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7363|Rural|
+31646|Campo Sesenta y Nueve|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7364|Rural|
+31646|Campo Sesenta y Siete|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0259|Rural|
+31646|Campo Cuarenta y Cinco (Colonia Merced)|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7354|Rural|
+31646|Campo Cuarenta y Dos B|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7355|Rural|
+31646|Campo Ochenta y Siete y Medio|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7361|Rural|
+31646|Campo Sesenta y Tres|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0248|Rural|
+31646|Campo Setenta|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0249|Rural|
+31646|Campo Sesenta y Ocho|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0260|Rural|
+31646|Campo Cuarenta (Carrizalillo)|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0261|Rural|
+31646|Campo Sesenta|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0264|Rural|
+31646|Campo Noventa y Uno|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4138|Rural|
+31646|Campo Setenta y Uno (Las Lajas)|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5685|Rural|
+31647|Campo Setenta y Ocho|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4166|Rural|
+31647|Campo Ochenta y Dos|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4173|Rural|
+31647|Campo Setenta y Nueve|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4204|Rural|
+31647|Campo Ochenta y Cinco|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7358|Rural|
+31647|Campo Noventa y Nueve|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5708|Rural|
+31647|Campo Noventa y Tres|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5735|Rural|
+31647|Campo Ochenta y Seis|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5709|Rural|
+31647|Campo Ochenta|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0250|Rural|
+31647|Campo Ochenta y Tres|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4167|Rural|
+31647|Campo Ochenta y Uno|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4215|Rural|
+31647|Campo Ochenta y Ocho|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|7360|Rural|
+31647|La Madera|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7402|Rural|
+31647|Campo Setenta y Cuatro|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5670|Rural|
+31647|Silos del Campo|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7440|Rural|
+31647|Campo Ochenta y Cuatro|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|0251|Rural|
+31647|Campo Setenta y Dos|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|4192|Rural|
+31647|La Nueva Paz|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|5669|Rural|
+31647|Campo 54|Colonia|Riva Palacio|Chihuahua||31501|08|31501||09|054|5690|Rural|
+31647|La Escondida|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7399|Rural|
+31647|Las Cien|Ranchería|Riva Palacio|Chihuahua||31501|08|31501||29|054|7406|Rural|

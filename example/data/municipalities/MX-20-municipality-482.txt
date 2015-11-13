@@ -1,0 +1,89 @@
+71600|Pinotepa Nacional Centro|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|2989|Urbano|43
+71602|Las Flores|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3002|Urbano|43
+71602|La Raya|Ranchería|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||29|482|4262|Rural|43
+71602|La Soledad|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4245|Urbano|43
+71602|El Rastro|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|4246|Urbano|43
+71602|Magisterio Unificado|Unidad habitacional|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||31|482|4250|Urbano|43
+71602|Yutacuiñe|Ranchería|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||29|482|0003|Rural|43
+71602|Arboleda|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4858|Urbano|43
+71602|El Dispensario|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|2998|Urbano|43
+71602|El Panteón|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|2999|Urbano|43
+71602|El Retén|Ranchería|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||29|482|0004|Rural|43
+71602|C.B.T.A.|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|0903|Urbano|43
+71603|Benito Juárez|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3433|Urbano|43
+71603|Zapote Alto|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3436|Urbano|43
+71603|Las Lomas|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4857|Urbano|43
+71603|Vicente Guerrero|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3434|Urbano|43
+71603|Zapote Bajo|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3441|Urbano|43
+71603|Miramar|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3437|Urbano|43
+71603|Laboratorio|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|1122|Urbano|43
+71603|Yutacú|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3013|Urbano|43
+71603|Vivah 2000|Fraccionamiento|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||21|482|4249|Urbano|43
+71603|Chico|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3005|Urbano|43
+71603|Santa Cruz|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3435|Urbano|43
+71603|UCIDEBAC|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4242|Urbano|43
+71604|Emiliano Zapata|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|0001|Urbano|43
+71604|El Calvario|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3006|Urbano|43
+71604|C.F.E.|Unidad habitacional|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||31|482|0911|Urbano|43
+71604|Porvenir|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3008|Urbano|43
+71604|20 de Noviembre|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3012|Urbano|43
+71604|Ignacio Zaragoza|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3438|Urbano|43
+71604|Militar|Unidad habitacional|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||31|482|3655|Urbano|43
+71604|El Puente|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3440|Urbano|43
+71604|La Planta|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3010|Urbano|43
+71604|López Obrador|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4241|Urbano|43
+71604|El Mirador|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4244|Urbano|43
+71604|Torres de la Libertad|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4251|Urbano|43
+71604|Loma Larga|Ranchería|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||29|482|4260|Rural|43
+71604|47o Batallón de Infantería|Fraccionamiento|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||21|482|0854|Urbano|43
+71604|5 de Mayo|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3004|Urbano|43
+71604|Reforma|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|4243|Urbano|43
+71605|Aviación|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|2997|Urbano|43
+71605|San Isidro|Fraccionamiento|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||21|482|4247|Urbano|43
+71605|La Posta|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3001|Urbano|43
+71605|Shininuu|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3439|Urbano|43
+71605|Cuauhtémoc|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3656|Urbano|43
+71605|Guadalupe|Colonia|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||09|482|3009|Urbano|43
+71605|Ñuzaca|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3003|Urbano|43
+71605|La Banda|Barrio|Santiago Pinotepa Nacional|Oaxaca|Santiago Pinotepa Nacional|71601|20|71601||02|482|3000|Urbano|43
+71606|El Ciruelo Centro|Pueblo|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||28|482|2996|Rural|
+71606|Motilla|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4266|Rural|
+71606|Los Horcones|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4269|Rural|
+71606|El Tamal|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2981|Rural|
+71606|Lo de Candela|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2984|Rural|
+71606|El Vizcaíno|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4255|Rural|
+71606|La Envidia|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|0002|Rural|
+71606|El Santo|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4257|Rural|
+71606|El Ranchito|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4258|Rural|
+71606|Lo de Mejia|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2985|Rural|
+71606|Lo de Riaño|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2993|Rural|
+71606|Acuautepec|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2975|Rural|
+71606|El Alacrán|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2992|Rural|
+71606|Mancuernas|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2987|Rural|
+71606|El Tamarindo|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4256|Rural|
+71606|Lagunillas|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4261|Rural|
+71607|Los Pocitos|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2986|Rural|
+71607|Rancho de la Virgen|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2994|Rural|
+71607|Los Pajaritos|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4253|Rural|
+71607|Cruz de Itacúan|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2979|Rural|
+71607|Santa María Jicaltepec|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2990|Rural|
+71607|Hornos Grandes|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4254|Rural|
+71607|Corralero|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2978|Rural|
+71607|La Palma de Coyul|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2983|Rural|
+71607|Del Zapote|Barrio|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||02|482|3007|Rural|
+71607|Paso de la Garrocha|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4265|Rural|
+71608|Collantes|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|3016|Rural|
+71608|Arroyo Seco|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4252|Rural|
+71608|El Palomar|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4259|Rural|
+71608|Pie del Cerro|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4264|Rural|
+71608|Minitán|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4267|Rural|
+71608|Piedra Blanca|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2988|Rural|
+71608|Yayaquita|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4263|Rural|
+71608|El Jícaro|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|3014|Rural|
+71608|Mariano Matamoros|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|4268|Rural|
+71608|Guadalupe Victoria|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2982|Rural|
+71608|La Noria y Minindaca|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|3015|Rural|
+71608|Cerro de la Esperanza|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2977|Rural|
+71608|Playa Banco de Oro|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|3017|Rural|
+71608|El Carrizo|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2980|Rural|
+71608|El Añil|Ranchería|Santiago Pinotepa Nacional|Oaxaca||71601|20|71601||29|482|2995|Rural|

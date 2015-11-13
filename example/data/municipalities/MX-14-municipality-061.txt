@@ -1,0 +1,71 @@
+46040|El Vallado|Colonia|Mezquitic|Jalisco||46001|14|46001||09|061|0007|Urbano|
+46040|Centro Mezquitic|Colonia|Mezquitic|Jalisco||46001|14|46001||09|061|1464|Rural|
+46042|San Juan de Navarrete|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1468|Rural|
+46042|Cerro Colorado|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1470|Rural|
+46042|Las Bocas|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1462|Rural|
+46042|Ciénega Grande|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1469|Rural|
+46043|La Junta de Ríos|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0026|Rural|
+46043|Potrero de Navarrete|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0036|Rural|
+46043|Las Carreras|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1463|Rural|
+46043|Minillas|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1465|Rural|
+46044|Mesa del Fraile (Mesa de Guadalupe)|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|1467|Rural|
+46045|El Mortero|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1472|Rural|
+46047|Totuate|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0057|Rural|
+46047|Ocota (La Taberna)|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0032|Rural|
+46049|Nostic|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|1471|Rural|
+46049|Jimulco|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0023|Rural|
+46050|Pedernales|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0033|Rural|
+46050|Nueva Colonia|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|4453|Rural|
+46050|Santa Cruz|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0046|Rural|
+46053|Chonacata|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0014|Rural|
+46055|Las Guayabas|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0029|Rural|
+46055|La Calabacilla|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0024|Rural|
+46056|Pueblo Nuevo|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0002|Rural|
+46056|Santa Catarina|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0045|Rural|
+46056|Soconita|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0048|Rural|
+46056|Mayehekwa Pueblo Nuevo 2|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0031|Rural|
+46057|Taimarita|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0049|Rural|
+46057|Pochotita|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0034|Rural|
+46057|Las Latas|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0003|Rural|
+46060|Los Amoles (Bajío de los Amoles)|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1473|Rural|
+46063|El Venado|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0020|Rural|
+46064|Tempeste|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0052|Rural|
+46065|Ocota de los Llanos|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|1474|Rural|
+46065|Tesorero|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0054|Rural|
+46066|Rancho de la Relación|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0037|Rural|
+46067|San Sebastián Teponahuaxtlán|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|0005|Rural|
+46068|Carlos Rivera Aceves [Aserradero]|Colonia|Mezquitic|Jalisco||46001|14|46001||09|061|0006|Rural|
+46069|Agua Zarca|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0009|Rural|
+46070|Rancho el Aguacate|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0039|Rural|
+46070|Tecolote|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0051|Rural|
+46070|La Ciénega de Huaistita (Los Quesos)|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|0025|Rural|
+46070|Tierras Blancas Huaistita|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0056|Rural|
+46070|Guamuchilillo|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0021|Rural|
+46070|Los Lobos|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0030|Rural|
+46070|Popotita|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0035|Rural|
+46070|San Miguel (San Miguel Huaixtita)|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|0044|Rural|
+46070|Tierra Colorada|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0055|Rural|
+46070|San Luis|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0042|Rural|
+46070|San Luisito|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0043|Rural|
+46070|Tempisque|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0053|Rural|
+46072|El Chalate (Los Chalates)|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|0018|Rural|
+46072|Codorniz|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0015|Rural|
+46073|Carrizal|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0013|Rural|
+46073|Bajío del Carrizal|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0011|Rural|
+46073|Campamento|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0012|Rural|
+46074|Cohamiata|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0016|Rural|
+46074|San Andrés Cohamiata|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|0001|Rural|
+46074|Las Guayabas|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0028|Rural|
+46074|Huanco de Cohamiata|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0022|Rural|
+46075|Rancho del Aire|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0038|Rural|
+46075|El Mirador|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0058|Rural|
+46076|Santa Gertrudis (Santa Cruz)|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0047|Rural|
+46076|Santa Cruz|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0004|Rural|
+46078|Techalotita|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0050|Rural|
+46078|Amoltita Dos|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0010|Rural|
+46080|La Laguna|Pueblo|Mezquitic|Jalisco||46001|14|46001||28|061|0027|Rural|
+46083|El Tesorero|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0019|Rural|
+46083|San José el Tesorero|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0041|Rural|
+46084|Águila Blanca|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0008|Rural|
+46084|El Cajón|Rancho|Mezquitic|Jalisco||46001|14|46001||48|061|0017|Rural|
+46087|Rincón de San Vicente|Ranchería|Mezquitic|Jalisco||46001|14|46001||29|061|0040|Rural|

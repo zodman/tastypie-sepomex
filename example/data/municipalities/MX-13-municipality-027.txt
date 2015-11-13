@@ -1,0 +1,89 @@
+43420|Huehuetla Centro|Colonia|Huehuetla|Hidalgo||43601|13|43601||09|027|1619|Urbano|
+43421|Río Blanco|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1625|Rural|
+43421|El Paraíso|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1624|Rural|
+43421|San Clemente|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1626|Rural|
+43421|El Ocotal|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1623|Rural|
+43422|El Plan del Recreo|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3743|Rural|
+43422|Chapingo|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1627|Rural|
+43422|Piedras Negras|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3771|Rural|
+43422|Chicontla|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3722|Rural|
+43422|Aztlán|Barrio|Huehuetla|Hidalgo||43601|13|43601||02|027|3715|Rural|
+43422|Cerro del Tomate|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3721|Rural|
+43422|Hermanos Galeana|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3751|Rural|
+43422|Santa Inés|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1628|Rural|
+43422|Cerro de Chapingo|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3718|Rural|
+43423|3 de Mayo|Colonia|Huehuetla|Hidalgo||43601|13|43601||09|027|3711|Urbano|
+43423|Cuauhtémoc|Colonia|Huehuetla|Hidalgo||43601|13|43601||09|027|3712|Urbano|
+43423|Arroyo Negro|Colonia|Huehuetla|Hidalgo||43601|13|43601||09|027|3713|Urbano|
+43423|Nueva|Colonia|Huehuetla|Hidalgo||43601|13|43601||09|027|3710|Urbano|
+43424|El Chamizal|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3730|Rural|
+43424|Loma de Buenavista|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1629|Rural|
+43425|Acuautla|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1630|Rural|
+43425|Cerro del Caballo|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3720|Rural|
+43425|La Esperanza Número Uno|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1631|Rural|
+43426|La Cruz|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3753|Rural|
+43426|La Esmeralda|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3754|Rural|
+43426|El Ñanjuay (Agua Fría)|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3733|Rural|
+43426|La Loma de San Clemente|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3757|Rural|
+43426|Santa Úrsula|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1622|Rural|
+43426|Dos Caminos|Poblado comunal|Huehuetla|Hidalgo||43601|13|43601||27|027|3724|Rural|
+43426|El Dambó|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3732|Rural|
+43426|El Padhí|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3741|Rural|
+43426|Lindavista II|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3765|Rural|
+43426|Los Planes|Poblado comunal|Huehuetla|Hidalgo||43601|13|43601||27|027|3766|Rural|
+43427|La Pahua|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3759|Rural|
+43427|San Antonio el Grande|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|0001|Rural|
+43427|Cerro de la Luna|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3719|Rural|
+43427|San Guillermo|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1621|Rural|
+43427|Cantarranas|Poblado comunal|Huehuetla|Hidalgo||43601|13|43601||27|027|3717|Rural|
+43427|Linda Vista (Mirasol)|Poblado comunal|Huehuetla|Hidalgo||43601|13|43601||27|027|3764|Rural|
+43427|Zicatlán|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3780|Rural|
+43427|Agua Fría|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3714|Rural|
+43427|El Rincón de Cantarranas|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3744|Rural|
+43427|El Palote|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3742|Rural|
+43430|Juntas Chicas|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|1633|Rural|
+43430|San Lorenzo Achiotepec|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1632|Rural|
+43431|San Ambrosio|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1634|Rural|
+43431|San Esteban|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1635|Rural|
+43431|San Gregorio|Pueblo|Huehuetla|Hidalgo||43601|13|43601||28|027|1636|Rural|
+43433|El Ojite|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3740|Rural|
+43433|Santa Fe|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3775|Rural|
+43433|El Lindero|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3739|Rural|
+43433|El Salto del Agua|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3745|Rural|
+43433|El Tarral|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3746|Rural|
+43433|El Tempesquite|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3747|Rural|
+43433|La Pimienta|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3761|Rural|
+43433|Palo Gordo|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3768|Rural|
+43433|El Xoñe|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3749|Rural|
+43433|La Tuza|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3763|Rural|
+43433|El Chote|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3731|Rural|
+43433|Poza Grande|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3772|Rural|
+43433|El Encinal|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3738|Rural|
+43434|El Descansadero|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3735|Rural|
+43434|La Piña|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3760|Rural|
+43434|La Tortuga|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3762|Rural|
+43434|El Dextho|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3736|Rural|
+43434|Palo Verde|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3769|Rural|
+43434|El Denxe|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3734|Rural|
+43434|La Pahua|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3758|Rural|
+43434|Piedra Desboronada (Potrero Grande)|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3770|Rural|
+43434|El Catrín|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3729|Rural|
+43434|Río Beltrán|Poblado comunal|Huehuetla|Hidalgo||43601|13|43601||27|027|3773|Rural|
+43434|El Encinal|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3737|Rural|
+43434|Milpa Redonda|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3767|Rural|
+43434|Tierra Amarilla|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3776|Rural|
+43434|Vista Hermosa|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3779|Rural|
+43435|Tres Marías|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3777|Rural|
+43435|Chintipan|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3723|Rural|
+43435|Villahermosa|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3778|Rural|
+43435|Buena Vista|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3716|Rural|
+43435|El Borbollón|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3726|Rural|
+43435|El Arenal|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3725|Rural|
+43435|La Esperanza Número 2|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3755|Rural|
+43435|La Cebolla (Arroyo de las Cebollas)|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3752|Rural|
+43435|La Joya|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3756|Rural|
+43436|El Bosque|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3727|Rural|
+43436|El Cajón|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3728|Rural|
+43436|San Antonio|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3774|Rural|
+43436|El Tigre|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3748|Rural|
+43436|Hacienda el Potrero|Ranchería|Huehuetla|Hidalgo||43601|13|43601||29|027|3750|Rural|

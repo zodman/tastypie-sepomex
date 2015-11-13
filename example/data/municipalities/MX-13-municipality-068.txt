@@ -1,0 +1,71 @@
+43270|Nuevo|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|3102|Urbano|
+43270|De Tlane|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|3104|Urbano|
+43270|Chichitla|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|3103|Urbano|
+43270|Tepeco|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|3106|Urbano|
+43270|El Ocote|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|3107|Urbano|
+43270|Tlachichilco|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|1470|Urbano|
+43270|Tepexapa|Barrio|Tianguistengo|Hidalgo||43207|13|43207||02|068|3105|Urbano|
+43273|El Hormiguero|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1473|Rural|
+43273|La Esperanza|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1475|Rural|
+43273|La Morita|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1476|Rural|
+43273|Media Cuesta|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3122|Rural|
+43273|Tepehuixco|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3127|Rural|
+43273|Ixcotitlán|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1474|Rural|
+43273|Tepaneca|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3126|Rural|
+43273|Pemuxco|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1471|Rural|
+43273|Tilasco|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3128|Rural|
+43274|Conchintlán|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1477|Rural|
+43274|Texacal|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1478|Rural|
+43275|San Miguel|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1480|Rural|
+43275|Tizapán (Coatlapila)|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3129|Rural|
+43275|Otlamalacatla|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1479|Rural|
+43277|Xococoatla|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1485|Rural|
+43277|Chinango|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1482|Rural|
+43277|Pahuatitla|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1483|Rural|
+43277|Tlahuiltepa|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1484|Rural|
+43279|Zacatempa|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1489|Rural|
+43279|Tenexco|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1493|Rural|
+43279|Chapaltepec|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1487|Rural|
+43279|Comala|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3111|Rural|
+43279|Chahuaco|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1486|Rural|
+43279|Zacatipán|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1497|Rural|
+43279|Tlacohechac|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1488|Rural|
+43280|Cholula|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1490|Rural|
+43280|Xalacahuantla|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1494|Rural|
+43280|Xochimilco|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1495|Rural|
+43280|Polintotla|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1491|Rural|
+43281|Yatipán|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1496|Rural|
+43281|Atecoxco|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1498|Rural|
+43281|La Pahua|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1500|Rural|
+43281|Techimal|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1492|Rural|
+43281|Coaxímal|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1499|Rural|
+43281|Acatenco|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3108|Rural|
+43282|Joquela|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3115|Rural|
+43282|La Cumbre de Tlacolula (La Cumbre)|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3116|Rural|
+43282|Mazahuacán|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3121|Rural|
+43282|Tlacolula|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1501|Rural|
+43283|Los Linderos|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1502|Rural|
+43283|La Loma (La Joya Grande)|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3118|Rural|
+43283|Piedra Ancha|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1503|Rural|
+43285|Coamelco|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1504|Rural|
+43287|Chapula|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1505|Rural|
+43287|Tonchintlán|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1506|Rural|
+43290|El Astillero|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3113|Rural|
+43290|Matlatenco|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1469|Rural|
+43290|Soyatla|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1507|Rural|
+43290|Atla|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3109|Rural|
+43290|Cuatro Caminos (Cuatro Hermanos)|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3112|Rural|
+43290|La Loma|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3117|Rural|
+43290|La Tejeria|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3119|Rural|
+43290|El Retoñal (Ruperto Alarcón)|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3114|Rural|
+43290|Nuevo|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3125|Rural|
+43291|Oxpantla|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1508|Rural|
+43293|Santa Mónica|Pueblo|Tianguistengo|Hidalgo||43207|13|43207||28|068|1472|Rural|
+43293|Coatempa|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1467|Rural|
+43293|Bella Vista|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3110|Rural|
+43293|Piedras Negras|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3124|Rural|
+43293|Ojo de Agua|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3123|Rural|
+43293|Las Cantinas (San José de las Cruces)|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3120|Rural|
+43294|El Ocotal|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|1468|Rural|
+43294|Zacuala|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3131|Rural|
+43294|Tlapixhueca|Ranchería|Tianguistengo|Hidalgo||43207|13|43207||29|068|3130|Rural|

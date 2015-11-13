@@ -1,0 +1,69 @@
+62700|Ciudad Ayala|Pueblo|Ayala|Morelos||62702|17|62702||28|004|0350|Semiurbano|
+62700|Buenavista|Colonia|Ayala|Morelos||62702|17|62702||09|004|1592|Semiurbano|
+62700|Puente Blanco|Colonia|Ayala|Morelos||62702|17|62702||09|004|1208|Semiurbano|
+62704|Cruz Verde|Ampliación|Ayala|Morelos||62702|17|62702||38|004|1206|Semiurbano|
+62704|Cruz Verde|Colonia|Ayala|Morelos||62702|17|62702||09|004|1207|Semiurbano|
+62710|Anenecuilco Centro|Pueblo|Ayala|Morelos||62702|17|62702||28|004|0357|Urbano|
+62713|Olintepec|Pueblo|Ayala|Morelos||62702|17|62702||28|004|0360|Rural|
+62713|Zona Sur Anenecuilco|Ampliación|Ayala|Morelos||62702|17|62702||38|004|1587|Semiurbano|
+62713|Zona Sur Anenecuilco|Colonia|Ayala|Morelos||62702|17|62702||09|004|1586|Semiurbano|
+62713|Marcelino Ortega|Colonia|Ayala|Morelos||62702|17|62702||09|004|1204|Semiurbano|
+62713|San Miguel|Colonia|Ayala|Morelos||62702|17|62702||09|004|1584|Semiurbano|
+62713|El Jagüey|Colonia|Ayala|Morelos||62702|17|62702||09|004|1200|Semiurbano|
+62713|Las Flores|Colonia|Ayala|Morelos||62702|17|62702||09|004|1202|Semiurbano|
+62713|La Capilla|Colonia|Ayala|Morelos||62702|17|62702||09|004|1585|Semiurbano|
+62713|La Joya Escondida|Colonia|Ayala|Morelos||62702|17|62702||09|004|1203|Semiurbano|
+62714|Benito Juárez|Colonia|Ayala|Morelos||62741|17|62741||09|004|0353|Semiurbano|
+62714|La Doncella|Colonia|Ayala|Morelos||62741|17|62741||09|004|1196|Semiurbano|
+62714|Cuahuixtla|Fraccionamiento|Ayala|Morelos||62741|17|62741||21|004|1198|Semiurbano|
+62714|La Escopeta|Colonia|Ayala|Morelos||62741|17|62741||09|004|1596|Rural|
+62714|La Joya|Colonia|Ayala|Morelos||62741|17|62741||09|004|1199|Semiurbano|
+62714|Rafael Merino|Ampliación|Ayala|Morelos||62741|17|62741||38|004|1205|Semiurbano|
+62714|Mirador|Colonia|Ayala|Morelos||62741|17|62741||09|004|1197|Semiurbano|
+62714|Reforma|Colonia|Ayala|Morelos||62741|17|62741||09|004|1595|Rural|
+62714|San Pedro Apatlaco|Pueblo|Ayala|Morelos||62741|17|62741||28|004|0352|Rural|
+62714|Niños Héroes Estación|Ejido|Ayala|Morelos||62741|17|62741||15|004|0354|Semiurbano|
+62714|Nuevo México ( Los Apaches )|Colonia|Ayala|Morelos||62741|17|62741||09|004|1195|Semiurbano|
+62714|Las Arboledas|Colonia|Ayala|Morelos||62741|17|62741||09|004|1201|Semiurbano|
+62715|Tlayecac|Pueblo|Ayala|Morelos||62745|17|62745||28|004|0370|Rural|
+62715|Mariano Matamoros|Unidad habitacional|Ayala|Morelos||62745|17|62745||31|004|1221|Semiurbano|
+62715|Prados del Sol|Fraccionamiento|Ayala|Morelos||62745|17|62745||21|004|1222|Semiurbano|
+62715|Citlalli|Fraccionamiento|Ayala|Morelos||62745|17|62745||21|004|1225|Semiurbano|
+62715|El Venadito|Fraccionamiento|Ayala|Morelos||62745|17|62745||21|004|1223|Semiurbano|
+62715|Paraíso Tlahuica|Fraccionamiento|Ayala|Morelos||62745|17|62745||21|004|1226|Semiurbano|
+62715|Las Llaves|Unidad habitacional|Ayala|Morelos||62745|17|62745||31|004|1227|Semiurbano|
+62715|10 de Abril|Unidad habitacional|Ayala|Morelos||62745|17|62745||31|004|1219|Semiurbano|
+62715|Islas de Cuautla|Fraccionamiento|Ayala|Morelos||62745|17|62745||21|004|1224|Semiurbano|
+62715|Parque Industrial Cuautla|Parque industrial|Ayala|Morelos||62745|17|62745||26|004|1228|Semiurbano|
+62715|Huertas de Cuautla|Fraccionamiento|Ayala|Morelos||62745|17|62745||21|004|1220|Semiurbano|
+62717|Moyotepec 2|Ampliación|Ayala|Morelos||62702|17|62702||38|004|1209|Rural|
+62717|El Chivatero|Colonia|Ayala|Morelos||62702|17|62702||09|004|1216|Rural|
+62717|General Emiliano Zapata|Colonia|Ayala|Morelos||62702|17|62702||09|004|1217|Rural|
+62718|Moyotepec|Ranchería|Ayala|Morelos||62702|17|62702||29|004|0366|Rural|
+62720|Huitzililla|Pueblo|Ayala|Morelos||62721|17|62721||28|004|0364|Rural|
+62720|El Sifón|Colonia|Ayala|Morelos||62721|17|62721||09|004|1041|Rural|
+62720|Xaloxtoc|Pueblo|Ayala|Morelos||62721|17|62721||28|004|0372|Rural|
+62720|Huacatlaco|Ranchería|Ayala|Morelos||62721|17|62721||29|004|0362|Rural|
+62720|Ojo de Agua|Colonia|Ayala|Morelos||62721|17|62721||09|004|1593|Rural|
+62723|Piedra Encimada|Colonia|Ayala|Morelos||62726|17|62726||09|004|1590|Semiurbano|
+62723|Palo Blanco|Ranchería|Ayala|Morelos||62726|17|62726||29|004|0373|Rural|
+62723|Tecomalco|Ranchería|Ayala|Morelos||62726|17|62726||29|004|0374|Rural|
+62723|Guadalupe Victoria|Colonia|Ayala|Morelos||62726|17|62726||09|004|1589|Rural|
+62723|El Vergel|Pueblo|Ayala|Morelos||62726|17|62726||28|004|0371|Rural|
+62723|Las Joyas|Colonia|Ayala|Morelos||62726|17|62726||09|004|1591|Semiurbano|
+62723|La Cucaracha|Colonia|Ayala|Morelos||62726|17|62726||09|004|1588|Rural|
+62723|Chinameca|Pueblo|Ayala|Morelos||62726|17|62726||28|004|0368|Rural|
+62724|San Vicente de Juárez|Ranchería|Ayala|Morelos||62721|17|62721||29|004|0369|Rural|
+62724|El Salitre|Pueblo|Ayala|Morelos||62721|17|62721||28|004|0363|Rural|
+62724|Buenavista|Colonia|Ayala|Morelos||62721|17|62721||09|004|1215|Rural|
+62724|San Juan Ahuehueyo|Ranchería|Ayala|Morelos||62721|17|62721||29|004|0365|Rural|
+62724|La Longaniza|Colonia|Ayala|Morelos||62721|17|62721||09|004|1594|Rural|
+62724|Loma Bonita|Colonia|Ayala|Morelos||62721|17|62721||09|004|1214|Rural|
+62725|Leopoldo Heredia|Pueblo|Ayala|Morelos||62721|17|62721||28|004|0358|Rural|
+62725|Constancio Farfán|Colonia|Ayala|Morelos||62721|17|62721||09|004|1212|Rural|
+62725|Tenextepango|Pueblo|Ayala|Morelos||62721|17|62721||28|004|0359|Rural|
+62725|Tenextepango|Ampliación|Ayala|Morelos||62721|17|62721||38|004|1213|Rural|
+62725|La Libertad|Colonia|Ayala|Morelos||62721|17|62721||09|004|1210|Rural|
+62725|Rafael Merino|Ranchería|Ayala|Morelos||62721|17|62721||29|004|0356|Rural|
+62725|Abelardo L. Rodríguez|Colonia|Ayala|Morelos||62721|17|62721||09|004|0367|Rural|
+62725|Las Lumbreras|Colonia|Ayala|Morelos||62721|17|62721||09|004|1211|Rural|

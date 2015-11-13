@@ -1,0 +1,9 @@
+90135|Santa Ana Nopalucan Centro|Pueblo|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||28|056|0043|Urbano|
+90137|Guadalupe|Colonia|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||09|056|0747|Urbano|
+90137|De México|Barrio|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||02|056|0744|Urbano|
+90138|Nuevo México|Colonia|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||09|056|0749|Urbano|
+90138|Unidad Deportiva|Colonia|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||09|056|0748|Urbano|
+90139|Rancho San Ignacio|Colonia|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||09|056|1010|Rural|
+90139|El Rosario|Colonia|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||09|056|1011|Rural|
+90139|De Puebla|Barrio|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||02|056|0745|Urbano|
+90139|El Cerrito|Colonia|Santa Ana Nopalucan|Tlaxcala||90001|29|90001||09|056|0746|Urbano|

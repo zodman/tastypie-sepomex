@@ -1,0 +1,15 @@
+41400|El Porvenir|Colonia|Zapotitlán Tablas|Guerrero||41301|12|41301||09|072|4534|Urbano|
+41400|Zapotitlán Tablas Centro|Colonia|Zapotitlán Tablas|Guerrero||41301|12|41301||09|072|3240|Urbano|
+41402|Cuixapa|Campamento|Zapotitlán Tablas|Guerrero||41301|12|41301||04|072|3248|Rural|
+41403|3 Lagunas|Pueblo|Zapotitlán Tablas|Guerrero||41301|12|41301||28|072|3249|Rural|
+41403|Altiopa|Ranchería|Zapotitlán Tablas|Guerrero||41301|12|41301||29|072|4292|Rural|
+41404|Huixtlatzala|Pueblo|Zapotitlán Tablas|Guerrero||41301|12|41301||28|072|3239|Rural|
+41404|Río San Marcos|Ranchería|Zapotitlán Tablas|Guerrero||41301|12|41301||29|072|4291|Rural|
+41405|Ixtlahuazaca|Ranchería|Zapotitlán Tablas|Guerrero||41301|12|41301||29|072|4290|Rural|
+41406|Tamaloya|Pueblo|Zapotitlán Tablas|Guerrero||41301|12|41301||28|072|3254|Rural|
+41406|La Laguna del Membrillo|Pueblo|Zapotitlán Tablas|Guerrero||41301|12|41301||28|072|3260|Rural|
+41407|Escalerilla Lagunas|Ranchería|Zapotitlán Tablas|Guerrero||41301|12|41301||29|072|3252|Rural|
+41407|Ahuixatitla|Campamento|Zapotitlán Tablas|Guerrero||41301|12|41301||04|072|3250|Rural|
+41407|Huitzapula|Ranchería|Zapotitlán Tablas|Guerrero||41301|12|41301||29|072|4288|Rural|
+41407|Ayotoxtla|Pueblo|Zapotitlán Tablas|Guerrero||41301|12|41301||28|072|3238|Rural|
+41408|Yerba Santa|Pueblo|Zapotitlán Tablas|Guerrero||41301|12|41301||28|072|3246|Rural|

@@ -1,0 +1,24 @@
+33920|El Puerto|Colonia|Allende|Chihuahua||33921|08|33921||09|003|5649|Urbano|
+33920|El Llano|Colonia|Allende|Chihuahua||33921|08|33921||09|003|0003|Urbano|
+33920|Cordereña|Colonia|Allende|Chihuahua||33921|08|33921||09|003|5760|Urbano|
+33920|El Moral|Colonia|Allende|Chihuahua||33921|08|33921||09|003|7345|Urbano|
+33920|INFONAVIT|Colonia|Allende|Chihuahua||33921|08|33921||09|003|7346|Urbano|
+33920|Nicolás Fernández|Colonia|Allende|Chihuahua||33921|08|33921||09|003|2079|Rural|
+33920|Valle de Ignacio Allende Centro|Colonia|Allende|Chihuahua||33921|08|33921||09|003|2080|Rural|
+33922|San Juan|Ejido|Allende|Chihuahua||33921|08|33921||15|003|2082|Rural|
+33923|El Barrio|Colonia|Allende|Chihuahua||33921|08|33921||09|003|7343|Urbano|
+33923|Pueblito de Allende|Pueblo|Allende|Chihuahua||33921|08|33921||28|003|2081|Rural|
+33923|La Loma|Colonia|Allende|Chihuahua||33921|08|33921||09|003|7344|Urbano|
+33924|La Haciendita Fiereña|Hacienda|Allende|Chihuahua||33921|08|33921||24|003|0001|Rural|
+33924|Toribio Ortega|Ranchería|Allende|Chihuahua||33921|08|33921||29|003|5698|Rural|
+33924|Morita|Estación|Allende|Chihuahua||33921|08|33921||16|003|2085|Rural|
+33924|Alto Corralejo|Ejido|Allende|Chihuahua||33921|08|33921||15|003|2084|Rural|
+33925|Adela|Estación|Allende|Chihuahua||33921|08|33921||16|003|2086|Rural|
+33928|Colonia Progreso (El Dorado)|Colonia|Allende|Chihuahua||33921|08|33921||09|003|0002|Rural|
+33929|Talamantes de Abajo|Estación|Allende|Chihuahua||33921|08|33921||16|003|2087|Rural|
+33930|Búfalo|Estación|Allende|Chihuahua||33921|08|33921||16|003|2088|Rural|
+33930|Plan de Ayala|Ranchería|Allende|Chihuahua||33921|08|33921||29|003|5650|Rural|
+33935|General Felipe Ángeles|Ranchería|Allende|Chihuahua||33921|08|33921||29|003|0004|Rural|
+33936|Agua Fría|Estación|Allende|Chihuahua||33921|08|33921||16|003|2089|Rural|
+33939|El Dorado|Estación|Allende|Chihuahua||33921|08|33921||16|003|2090|Rural|
+33939|La Manga|Estación|Allende|Chihuahua||33921|08|33921||16|003|2091|Rural|

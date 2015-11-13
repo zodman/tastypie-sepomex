@@ -1,0 +1,20 @@
+41870|Copala Centro|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1154|Rural|40
+41872|Charchove|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|3713|Rural|40
+41872|Las Flores|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1415|Rural|40
+41872|El Arroyo|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|3715|Rural|40
+41873|Vista Mar|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1737|Rural|40
+41873|El Crucero|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|3716|Rural|40
+41873|El Manguito|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|3718|Rural|40
+41874|Vista Hermosa|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1736|Rural|40
+41874|Adolfo López Mateos|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1059|Rural|40
+41874|Pozo de Piedra|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1550|Rural|40
+41875|El Huicón|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1327|Rural|40
+41875|La Loma|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1380|Rural|40
+41875|Barrio Nuevo|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1090|Rural|40
+41875|Celaya|Colonia|Copala|Guerrero|Copala|41871|12|41871||09|018|1118|Rural|40
+41879|Las Penas|Ranchería|Copala|Guerrero||41801|12|41801||29|018|3531|Rural|
+41880|El Carrizo|Ranchería|Copala|Guerrero||41871|12|41871||29|018|3532|Rural|
+41880|Ojo de Agua|Ranchería|Copala|Guerrero||41871|12|41871||29|018|3529|Rural|
+41887|Juan N Alvarez|Ranchería|Copala|Guerrero||41871|12|41871||29|018|3533|Rural|
+41890|Campanillas|Ranchería|Copala|Guerrero||41871|12|41871||29|018|3534|Rural|
+41892|Atrixco|Pueblo|Copala|Guerrero||41871|12|41871||28|018|3527|Rural|

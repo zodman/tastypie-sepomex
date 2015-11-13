@@ -1,0 +1,210 @@
+33320|Ocampo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|1720|Rural|
+33323|El Pino|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7194|Rural|
+33323|El Salto|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7204|Rural|
+33323|La Huerta|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7232|Rural|
+33323|Navosaygame|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7288|Rural|
+33323|Tiro el Negro|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7332|Rural|
+33323|Jesús del Monte|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7218|Rural|
+33323|Los Amoles|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7260|Rural|
+33323|San Ramón|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7317|Rural|
+33323|Agua Fría|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7143|Rural|
+33323|Hacienda Vieja|Hacienda|Ocampo|Chihuahua||31692|08|31692||24|051|7216|Rural|
+33323|Los Embudos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7263|Rural|
+33323|Balloreca|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7148|Rural|
+33323|El Durazno|Ejido|Ocampo|Chihuahua||31692|08|31692||15|051|7179|Rural|
+33323|El Naranjo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7186|Rural|
+33323|El Pinito|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7193|Rural|
+33323|El Ronquillo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7200|Rural|
+33323|Los Pinos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7271|Rural|
+33323|Santa Librada|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7321|Rural|
+33323|El Perdedero|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7191|Rural|
+33323|La Casita|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7224|Rural|
+33323|La Cruz|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7229|Rural|
+33323|El Baño|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7169|Rural|
+33323|El Rosario|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7201|Rural|
+33323|Piedra Lisa|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7293|Rural|
+33323|Arroyo Hondo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7146|Rural|
+33323|Belén|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7150|Rural|
+33323|El Potrero|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7195|Rural|
+33323|La Máquina|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7248|Rural|
+33323|Los Arbolitos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7262|Rural|
+33323|Nopalera|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7289|Rural|
+33323|Paragatos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7292|Rural|
+33323|Santa Rita [Promotora Minera Ocampo]|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7322|Rural|
+33323|Agua Caliente|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7141|Rural|
+33323|El Durazno|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7178|Rural|
+33323|El Infiernito|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7182|Rural|
+33323|El Pedregoso|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7190|Rural|
+33323|Minera Soyopa|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7286|Rural|
+33323|Rivera|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7310|Rural|
+33323|San Francisco|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7315|Rural|
+33324|El Frijolar|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7181|Rural|
+33324|Los Lobitos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7267|Rural|
+33324|Rancho el Bravo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7301|Rural|
+33324|El Aguaje|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7168|Rural|
+33324|La Junta|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7236|Rural|
+33324|Rincón de Cahuisori|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7309|Rural|
+33324|El Serrucho|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7206|Rural|
+33324|Piedra Pesada|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7294|Rural|
+33324|Tierritas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7331|Rural|
+33324|La Mesa|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7243|Rural|
+33324|Huajumar (San Isidro Huajumar)|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|1722|Rural|
+33324|Entronque Concheño (Llanitos)|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7211|Rural|
+33324|Pinos Altos [Compañía Minera]|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|1721|Rural|
+33324|Chiqueritos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7160|Rural|
+33324|La Batería de Rodríguez|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7219|Rural|
+33324|La Huerta Tolano|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7233|Rural|
+33324|Santo Domingo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7324|Rural|
+33325|Concheño|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|1732|Rural|
+33325|El Periquito (Ejido Santa Eduviges)|Ejido|Ocampo|Chihuahua||31692|08|31692||15|051|4216|Rural|
+33325|El Durazno|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7177|Rural|
+33325|Rancho San Marcial|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7307|Rural|
+33325|Comunidad Pueblo Viejo|Pueblo|Ocampo|Chihuahua||31692|08|31692||28|051|7163|Rural|
+33325|Cuevas Blancas (Gasachi)|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7164|Rural|
+33325|Los Maguechis|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7268|Rural|
+33325|Calabazas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7154|Rural|
+33325|Potrero de Gil|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7297|Rural|
+33325|Rancho de Rubio|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7300|Rural|
+33325|Los Pescados|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7269|Rural|
+33325|Pueblo Viejo|Pueblo|Ocampo|Chihuahua||31692|08|31692||28|051|7298|Rural|
+33325|Sapareachi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7326|Rural|
+33325|Las Estrellas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|5887|Rural|
+33325|El Capitán|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7172|Rural|
+33325|El Pajarito|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7189|Rural|
+33325|La Cantera|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7221|Rural|
+33325|La Mesa|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7244|Rural|
+33325|El Perico|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7192|Rural|
+33325|Cahuisori|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|1723|Rural|
+33325|Colanachi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7162|Rural|
+33325|San Vicente|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7318|Rural|
+33326|La Ciénega|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7227|Rural|
+33326|Mesa de San Lorenzo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7284|Rural|
+33326|Los Llanitos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7266|Rural|
+33326|Santo Niño|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7325|Rural|
+33326|La Casita|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7223|Rural|
+33326|El Entronquito|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7180|Rural|
+33326|Magulleachi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7276|Rural|
+33326|Basaseachi|Pueblo|Ocampo|Chihuahua||31692|08|31692||28|051|1724|Rural|
+33326|Hocochi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7217|Rural|
+33326|Rancho el Colorado|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7302|Rural|
+33326|Rancho Lorenzo (El Río)|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7304|Rural|
+33326|Baquiriachi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|4200|Rural|
+33326|Betorachi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7151|Rural|
+33326|Tierras de Luna|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7330|Rural|
+33326|Entronque las Estrellas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7212|Rural|
+33326|Mesa de Carrera|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7281|Rural|
+33326|Piedra Volada|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7295|Rural|
+33326|Bitanorachi|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7152|Rural|
+33326|Cascada de Basaseachi [Estacionamiento]|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7156|Rural|
+33326|Las Mesteñas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7254|Rural|
+33326|Magueche|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7274|Rural|
+33327|La Vuelta|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7249|Rural|
+33327|Arroyo Hondo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7145|Rural|
+33327|Los Lajeros|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7264|Rural|
+33327|Mesa de Banda|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7280|Rural|
+33327|El Rincón|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7199|Rural|
+33327|La Huerta|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7231|Rural|
+33327|Las Mesas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7253|Rural|
+33327|La Junta|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7235|Rural|
+33327|Los Arbolitos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7261|Rural|
+33327|El Carrizo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7173|Rural|
+33327|Boca del Arroyo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7153|Rural|
+33327|Cascomate|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7157|Rural|
+33327|La Hacienda Vieja|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7230|Rural|
+33327|La Lamosa|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7237|Rural|
+33327|Los Topes|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7273|Rural|
+33327|Las Cuevas|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7251|Rural|
+33327|San José de los Alisos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7316|Rural|
+33327|Los Laureles|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7265|Rural|
+33327|Rancho Guadalupe|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7303|Rural|
+33330|El Puerto|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7196|Rural|
+33330|Mojarachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7287|Rural|
+33330|El Llanito|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7183|Rural|
+33330|El Padre|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7188|Rural|
+33330|La Zorra|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7250|Rural|
+33330|Cajurichi|Pueblo|Ocampo|Chihuahua||33212|08|33212||28|051|1730|Rural|
+33330|La Mesa del Sauz|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7246|Rural|
+33330|Las Tahonas|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7256|Rural|
+33330|El Magueche|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7184|Rural|
+33330|Las Varitas|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7257|Rural|
+33330|Candameña (La Capilla)|Campamento|Ocampo|Chihuahua||33212|08|33212||04|051|1725|Rural|
+33330|Memelichi de Abajo|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|1731|Rural|
+33330|El Aguaje|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7167|Rural|
+33330|La Mesa|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7242|Rural|
+33330|Rancho Miguel|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7305|Rural|
+33330|Mesa de las Papas|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7283|Rural|
+33330|El Cable|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7170|Rural|
+33330|El Cuatro|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7175|Rural|
+33330|El Ranchito|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7197|Rural|
+33333|Cebadilla|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7158|Rural|
+33333|Cebollín|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7159|Rural|
+33333|El Cuervo (Ejido Santa Eduviges)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7176|Rural|
+33333|El Salto|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7205|Rural|
+33333|La Calera|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7220|Rural|
+33333|Pitorreal|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7296|Rural|
+33333|Tónachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7328|Rural|
+33333|Las Maravillas|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7252|Rural|
+33333|El Tejabán|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7207|Rural|
+33333|Mesa de la Avena|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7282|Rural|
+33333|Santa Eduviges|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7319|Rural|
+33333|Chorro de Agua|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7161|Rural|
+33333|La Mesa|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7241|Rural|
+33333|Rancho Miguel Caballero|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7306|Rural|
+33333|Cusaroachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7165|Rural|
+33333|El Carrizo|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7174|Rural|
+33333|Maguechi (Magueches)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7275|Rural|
+33333|Huevachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|1726|Rural|
+33333|La Magdalena|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7239|Rural|
+33333|Santa Isabel|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7320|Rural|
+33333|Las Papas|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7255|Rural|
+33333|Tecorichi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7329|Rural|
+33333|Casa Quemada|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7155|Rural|
+33333|Villa Alpina|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7333|Rural|
+33334|El Salitre|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7203|Rural|
+33334|El Ojito|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7187|Rural|
+33334|Guanapuchi (Basogachi)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7214|Rural|
+33334|Rahuibachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7299|Rural|
+33334|Ronayna|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7313|Rural|
+33334|Baqueteros|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7149|Rural|
+33334|La Lámpara|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7238|Rural|
+33334|Mesa Redonda|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7285|Rural|
+33334|Recosorachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7308|Rural|
+33334|El Tomate|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7208|Rural|
+33334|La Ciénega|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7225|Rural|
+33334|La Mesa Nueva|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7247|Rural|
+33334|Matagochi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7278|Rural|
+33334|Oquirabo|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7290|Rural|
+33334|Yoquivo (San Francisco de Yoquivo)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|1733|Rural|
+33334|El Yepo (Basogachi)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7209|Rural|
+33334|Los Pilares|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7270|Rural|
+33334|Basogachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|1729|Rural|
+33334|Gurichivo (Ejido Basogachi)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7215|Rural|
+33334|Romurachi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7312|Rural|
+33335|El Rincón|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7198|Rural|
+33335|Rocaguarzo|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7311|Rural|
+33335|La Ciénega Prieta|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7228|Rural|
+33335|Sopoguana|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7327|Rural|
+33335|Manapuchi|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7277|Rural|
+33335|La Mesa|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7240|Rural|
+33335|Memelichi de Arriba (El Fresno)|Ranchería|Ocampo|Chihuahua||33212|08|33212||29|051|7279|Rural|
+33336|Aguajito Escondido|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7144|Rural|
+33336|Dolores|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7166|Rural|
+33336|El Manzano|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7185|Rural|
+33336|El Zape|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7210|Rural|
+33336|Los Alisos|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7258|Rural|
+33336|Los Alisos (Cordón Blanco)|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7259|Rural|
+33336|Franco|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7213|Rural|
+33336|San Francisco|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7314|Rural|
+33336|Agua Caliente|Pueblo|Ocampo|Chihuahua||31692|08|31692||28|051|1727|Rural|
+33336|La Joya|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7234|Rural|
+33336|Santa Rosa de Dolores|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7323|Rural|
+33336|Bacusico|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7147|Rural|
+33336|La Mesa del Nopal|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7245|Rural|
+33336|La Capilla|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7222|Rural|
+33337|El Saucillo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|1728|Rural|
+33337|Palmarito de Sepayvo|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7291|Rural|
+33337|Los Terreros|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7272|Rural|
+33337|El Cajón de los Remedios|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7171|Rural|
+33337|El Río|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7202|Rural|
+33337|Agua Escondida|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7142|Rural|
+33337|La Ciénega|Ranchería|Ocampo|Chihuahua||31692|08|31692||29|051|7226|Rural|

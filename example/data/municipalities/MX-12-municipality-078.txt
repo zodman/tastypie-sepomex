@@ -1,0 +1,164 @@
+41660|San Lorenzo|Pueblo|Cochoapa el Grande|Guerrero||41301|12|41301||28|078|5171|Urbano|
+41660|Hidalgo|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5168|Urbano|
+41660|San Miguel|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5173|Urbano|
+41660|Juquila|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5169|Rural|
+41660|San Marcos|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5172|Urbano|
+41660|Guadalupe|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5167|Urbano|
+41660|Cochoapa El Grande|Pueblo|Cochoapa el Grande|Guerrero||41301|12|41301||28|078|3374|Rural|
+41660|Los Pinos|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|4568|Rural|
+41660|Los Chávez|Pueblo|Cochoapa el Grande|Guerrero||41301|12|41301||28|078|5170|Urbano|
+41660|San Sebastián|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5174|Urbano|
+41663|Llano de Laguna|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5088|Rural|
+41663|Llano de Metate|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5090|Rural|
+41663|San Miguel Amoltepec Viejo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5132|Rural|
+41663|Tierra Blanca|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3387|Rural|
+41663|Barrio de San Agustín|Barrio|Cochoapa el Grande|Guerrero||41301|12|41301||02|078|5046|Rural|
+41663|Tierra Colorada|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5140|Rural|
+41663|La Barca|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|4668|Rural|
+41663|Ndii Yoo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5107|Rural|
+41663|Ahuezutla|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5032|Rural|
+41663|Cuetzala Unión|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5062|Rural|
+41663|Valle de Maguey|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5144|Rural|
+41663|Ometepec Chiquito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5111|Rural|
+41663|Piedra Silleta|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5116|Rural|
+41663|Tierra Campesina|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5138|Rural|
+41663|San Miguel Amoltepec Nuevo|Pueblo|Cochoapa el Grande|Guerrero||41301|12|41301||28|078|3377|Rural|
+41663|Llano del Burrito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5092|Rural|
+41663|Rancho Viejo Santa Cruz|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|4366|Rural|
+41663|Llano de las Piedras|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5089|Rural|
+41663|Tierra Blanquita|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5137|Rural|
+41663|San Rafael|Pueblo|Cochoapa el Grande|Guerrero||41301|12|41301||28|078|3378|Rural|
+41663|San Agustín el Viejo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|3385|Rural|
+41663|San Lucas|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3389|Rural|
+41664|Rancho Guadalupe (Barranca Pobre)|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|4367|Rural|
+41664|Hierba Santa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5071|Rural|
+41664|Llano Pobre|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5094|Rural|
+41664|Yoso Kanu|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5154|Rural|
+41664|Cerro de la Garza|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5049|Rural|
+41664|Loma Arenal|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5096|Rural|
+41664|Loma Tronconal|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5101|Rural|
+41664|Ocotepec|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5110|Rural|
+41664|Tierra de Algodón|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5142|Rural|
+41664|Xaha Yucu Yaa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5147|Rural|
+41664|Barranca Faisán|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5041|Rural|
+41664|Yozo Canu Nuevo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5157|Rural|
+41664|Yuu Mini|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5162|Rural|
+41664|Barranca Pobre|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5045|Rural|
+41664|Laguna|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5081|Rural|
+41664|Llano Zacatero|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5095|Rural|
+41664|Yozo Chun Chiquito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5158|Rural|
+41664|Barranca de la Palma|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5038|Rural|
+41664|Llano del Carmen|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5093|Rural|
+41664|Santa Cruz|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5134|Rural|
+41664|Yozondacua|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5159|Rural|
+41664|Llano de Encino|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5083|Rural|
+41664|Cahuañaña|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3394|Rural|
+41664|Colonia Chilpancinguito de los Libres|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5054|Rural|
+41664|El Rincón|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5069|Rural|
+41664|Santa María Cahuañaña|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5135|Rural|
+41664|Yozondacua Loma Bonita|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5160|Rural|
+41664|Cieneguilla|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5053|Rural|
+41664|Loma San Marcos|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5100|Rural|
+41664|Pie de Mango|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5114|Rural|
+41664|Valle Verde|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5145|Rural|
+41665|Arroyo Prieto|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3402|Rural|
+41665|Cerro del Chapulín|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5051|Rural|
+41665|Minatitlán|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5104|Rural|
+41665|Juquila Tikindi|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5076|Rural|
+41665|Tierra Colorada|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5139|Rural|
+41665|Río Encajonado|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3403|Rural|
+41665|Yoso Ndikivi|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5155|Rural|
+41665|Barranca Guayabo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5042|Rural|
+41665|Llano de Durazno|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5082|Rural|
+41665|San Isidro|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5130|Rural|
+41665|Tutun Nde Ita|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5143|Rural|
+41665|Llano de la Yacua|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5087|Rural|
+41665|Barrio del Carmen|Barrio|Cochoapa el Grande|Guerrero||41301|12|41301||02|078|5047|Rural|
+41665|Itu|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5075|Rural|
+41665|Rancho Juquila de los Pinos|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5120|Rural|
+41665|Xalpa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5149|Rural|
+41665|Arroyo Carrizo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5033|Rural|
+41665|Barranca Escondida|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5039|Rural|
+41665|Barranca Espino|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5040|Rural|
+41665|Cerro de la Lluvia|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5050|Rural|
+41665|Colonia Rutilio Vázquez|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5058|Rural|
+41665|Río Hamaca|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5125|Rural|
+41665|Yuku Nu Kaxin|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5161|Rural|
+41665|Loma Canoa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5098|Rural|
+41666|Joya Real|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3401|Rural|
+41666|Arroyo Tigrillo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5034|Rural|
+41666|Cuesta Baje|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5061|Rural|
+41666|La Parota|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5079|Rural|
+41666|Peña de Venado|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5113|Rural|
+41666|Tierra Colorada Sur|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5141|Rural|
+41666|Barranca Ocotera|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5044|Rural|
+41666|Costa Rica|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5059|Rural|
+41666|La Puerta del Cielo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5080|Rural|
+41666|Naucalpan de Juárez|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5106|Rural|
+41666|Peña Colorada|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5112|Rural|
+41666|Río Cantador Chiquito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5122|Rural|
+41666|Yuvi Chonu|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5164|Rural|
+41666|Colonia Nueva|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5057|Rural|
+41666|Divino Pastor|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5063|Rural|
+41666|San Isidro|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5129|Rural|
+41666|San Pedro el Viejo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5133|Rural|
+41666|Vista Hermosa|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3399|Rural|
+41666|Cascada del Zorro|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5048|Rural|
+41666|El Limón|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5065|Rural|
+41666|Itiatio|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5074|Rural|
+41666|Nu-u Yaa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5109|Rural|
+41666|Piedra Negra|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5115|Rural|
+41666|Río Olor|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5127|Rural|
+41666|Xa Kavá|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5146|Rural|
+41666|Dos Ríos|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3398|Rural|
+41666|Rancho de los Hilarios|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|4369|Rural|
+41666|Azoyuc Chiquito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5035|Rural|
+41666|Monte los Pinos|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5105|Rural|
+41666|Yautepec|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5151|Rural|
+41666|Yoso Ya-a|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5156|Rural|
+41666|Nueva Jerusalén|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|4370|Rural|
+41666|Barranca Ceniza|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5036|Rural|
+41666|El Mameyal|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5066|Rural|
+41666|Guadalupe la Joya|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5070|Rural|
+41666|Itia Miniñu Un|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5073|Rural|
+41666|La Joya de Oro|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5078|Rural|
+41666|Rancho de San Marcos|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|4368|Rural|
+41666|El Ciruelo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5064|Rural|
+41666|Río Hoja|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5126|Rural|
+41666|Yuvicani|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5166|Rural|
+41666|Calpanapa Viejo|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3392|Rural|
+41666|Cruz Verde|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5060|Rural|
+41666|El Ocotito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5068|Rural|
+41667|Plan Buenavista|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5117|Rural|
+41667|Ithia Thiehe|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5072|Rural|
+41667|Río de la Víbora|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5124|Rural|
+41667|Llano Perdido|Campamento|Cochoapa el Grande|Guerrero||41301|12|41301||04|078|3391|Rural|
+41667|Llano de la Loma|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5085|Rural|
+41667|Cerro Perico|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5052|Rural|
+41667|San Martín Yukuxaki|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5131|Rural|
+41667|El Naranjo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5067|Rural|
+41667|Río Corazón|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5123|Rural|
+41667|Santa Rosa de Maldonado|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5136|Rural|
+41667|Yuu Mini Saa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5163|Rural|
+41668|Colonia Guadalupe el Nuevo|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5055|Rural|
+41668|Colonia los Pinos|Colonia|Cochoapa el Grande|Guerrero||41301|12|41301||09|078|5056|Rural|
+41668|Barranca Náhuatl|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5043|Rural|
+41668|Loma Grande|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5099|Rural|
+41668|Pueblo Viejo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5118|Rural|
+41668|Los Pinos|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5102|Rural|
+41668|Ndoyo Savi|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5108|Rural|
+41668|La Ciénega|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5077|Rural|
+41668|Yoso Chun|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5152|Rural|
+41668|Barranca de Águila|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5037|Rural|
+41668|Loma Bonita|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5097|Rural|
+41668|Xiniandiki|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5150|Rural|
+41668|Llano de Ocote|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5091|Rural|
+41668|Xaha Yucundia|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5148|Rural|
+41668|Yuvi Xa Tiyoo|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5165|Rural|
+41668|Llano de la Chuparrosa|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5084|Rural|
+41668|Llano de la Mosca|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5086|Rural|
+41668|Rancho de las Flores|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5119|Rural|
+41668|Lázaro Cárdenas|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5103|Rural|
+41668|Rancho San Martín|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5121|Rural|
+41668|San Cristobalito|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5128|Rural|
+41668|Yoso Iñu|Ranchería|Cochoapa el Grande|Guerrero||41301|12|41301||29|078|5153|Rural|

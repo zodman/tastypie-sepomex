@@ -1,0 +1,39 @@
+68430|El Polvorín|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3842|Rural|
+68430|Corral de Piedra|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0382|Rural|
+68430|Nuevo Pescadito de Enmedio|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0384|Rural|
+68430|San Miguel|Barrio|San Miguel Soyaltepec|Oaxaca||68431|20|68431||02|278|1273|Rural|
+68430|Agrícola La Mazateca|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3831|Rural|
+68430|Emiliano Zapata|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3833|Rural|
+68430|Temascal|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|4350|Rural|
+68430|San Martin|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|0388|Rural|
+68430|La Soledad|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3834|Rural|
+68430|La Guadalupe|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3835|Rural|
+68430|El Mesón|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3841|Rural|
+68430|La Laguna|Barrio|San Miguel Soyaltepec|Oaxaca||68431|20|68431||02|278|3844|Rural|
+68430|Nuevo Soyaltepec|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0385|Rural|
+68430|La Mazateca|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|1177|Rural|
+68430|Obrera|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|1204|Rural|
+68430|Las Grandes Aguas|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3829|Rural|
+68430|Raya Lecuona|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|0387|Rural|
+68430|El Satélite|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3832|Rural|
+68430|Tierra y Libertad|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|3843|Rural|
+68430|Arroyo Chicali|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0381|Rural|
+68430|El Capulín|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|0383|Rural|
+68430|Piedra de Amolar|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0386|Rural|
+68430|Heladio Ramirez Lopez|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|1040|Rural|
+68432|Isla Soyaltepec|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0390|Rural|
+68433|Nuevo Pescadito de Málzaga (La Breña)|Ejido|San Miguel Soyaltepec|Oaxaca||68431|20|68431||15|278|4599|Rural|
+68433|San Antonio Abad (Cerro Chango)|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|4600|Rural|
+68433|Las Margaritas|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|0389|Rural|
+68433|Playa de Jícama|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|0394|Rural|
+68433|Nueva Patria|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0392|Rural|
+68433|Cerro Tepexcuintle|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|4869|Rural|
+68433|Nuevo Paso Nazareno|Pueblo|San Miguel Soyaltepec|Oaxaca||68431|20|68431||28|278|0393|Rural|
+68433|Loma Colorada|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|0391|Rural|
+68433|Chichicazapa|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|0928|Rural|
+68433|Playa Lecuona (Miguel Hidalgo)|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|4601|Rural|
+68433|La Reforma|Ranchería|San Miguel Soyaltepec|Oaxaca||68431|20|68431||29|278|4954|Rural|
+68433|El Carmen|Ejido|San Miguel Soyaltepec|Oaxaca||68431|20|68431||15|278|4596|Rural|
+68434|Nuevo Paso Nacional|Colonia|San Miguel Soyaltepec|Oaxaca||68431|20|68431||09|278|0395|Rural|
+68434|Benito Juárez II (San Martín)|Ejido|San Miguel Soyaltepec|Oaxaca||68431|20|68431||15|278|4598|Rural|
+68434|Isla de Málzaga|Ejido|San Miguel Soyaltepec|Oaxaca||68431|20|68431||15|278|4597|Rural|

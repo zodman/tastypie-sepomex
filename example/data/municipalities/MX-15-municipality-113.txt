@@ -1,0 +1,41 @@
+51760|15 de Mayo|Unidad habitacional|Villa Guerrero|México||51761|15|51761||31|113|5170|Rural|
+51760|Villa Guerrero|Villa|Villa Guerrero|México||51761|15|51761||32|113|1448|Rural|
+51760|San Francisco|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1440|Rural|
+51765|Ejido de San Mateo Coapexco|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|6600|Rural|
+51765|Jesús Carranza|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1455|Rural|
+51765|Buenavista|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1437|Rural|
+51765|Coxcacuaco|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|6602|Rural|
+51765|San Felipe|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1454|Rural|
+51765|Santa Cecilia|Barrio|Villa Guerrero|México||51761|15|51761||02|113|8061|Rural|
+51765|El Islote|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1466|Rural|
+51766|Progreso Hidalgo|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1452|Rural|
+51767|Potrero Nuevo|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1453|Rural|
+51767|Ejido de la Finca|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|6601|Rural|
+51767|La Finca|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1451|Rural|
+51773|San Diego|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1456|Rural|
+51773|Cruz Vidriada|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1458|Rural|
+51775|Santa María|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1445|Rural|
+51775|La Joya|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|6604|Rural|
+51776|San Miguel|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1444|Rural|
+51776|San Lucas|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1457|Rural|
+51777|San Bartolomé|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1439|Rural|
+51777|Zangillas|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|7430|Rural|
+51777|El Moral|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1459|Rural|
+51777|Los Ranchos de San José|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|6603|Rural|
+51777|Cuajimalpa|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|7427|Rural|
+51777|San José|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1442|Rural|
+51780|Matlazinca|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1461|Rural|
+51783|Zacango|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1449|Rural|
+51783|Venturero de Zacango|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|6605|Rural|
+51783|San Mateo Coapexco|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1443|Rural|
+51783|Santiago Oxtotitlán|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1446|Rural|
+51784|El Carmen|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1463|Rural|
+51784|El Izote|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1464|Rural|
+51784|Totolmajac|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1447|Rural|
+51784|San Pedro Buenos Aires|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1465|Rural|
+51785|Porfirio Díaz|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1438|Rural|
+51786|San Gaspar|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1441|Rural|
+51786|La Loma de la Concepción|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1460|Rural|
+51786|Tequimilpa|Pueblo|Villa Guerrero|México||51761|15|51761||28|113|1462|Rural|
+51786|El Peñon|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|7428|Rural|
+51786|Potrero de la Sierra|Ranchería|Villa Guerrero|México||51761|15|51761||29|113|7429|Rural|

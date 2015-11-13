@@ -1,0 +1,31 @@
+90710|La Concordia|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0356|Rural|
+90710|Nativitas|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0357|Rural|
+90712|San Miguel Xochitecatitla|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0366|Rural|
+90712|San Bernabé Capula|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0361|Rural|
+90712|San Miguel del Milagro|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0365|Rural|
+90713|Jesús Tepactepec|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0367|Rural|
+90715|Guadalupe Victoria|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0362|Rural|
+90716|San Francisco Tenexyecac|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0642|Urbano|
+90716|Emiliano Zapata|Colonia|Natívitas|Tlaxcala||90711|29|90711||09|023|1184|Urbano|
+90716|San Vicente Xiloxochitla|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0358|Rural|
+90716|Santa Cruz|Barrio|Natívitas|Tlaxcala||90711|29|90711||02|023|1185|Urbano|
+90717|Matamoros|Ranchería|Natívitas|Tlaxcala||90711|29|90711||29|023|1191|Rural|
+90717|El Rosario|Ranchería|Natívitas|Tlaxcala||90711|29|90711||29|023|1194|Rural|
+90717|San José Atoyatenco|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0363|Rural|
+90717|Colecturía|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|1186|Rural|
+90718|San Rafael Tenanyecac|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0364|Rural|
+90721|Santiago Michac|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0368|Urbano|
+90722|San Juan Tepactepec|Colonia|Natívitas|Tlaxcala||90711|29|90711||09|023|0647|Urbano|
+90722|San Miguel Tlale|Colonia|Natívitas|Tlaxcala||90711|29|90711||09|023|0646|Urbano|
+90722|La Cabaña|Ranchería|Natívitas|Tlaxcala||90711|29|90711||29|023|1188|Rural|
+90722|San Antonio Teacalco|Exhacienda|Natívitas|Tlaxcala||90711|29|90711||18|023|1196|Rural|
+90722|Santa Clara Atoyac|Colonia|Natívitas|Tlaxcala||90711|29|90711||09|023|0645|Urbano|
+90722|La Remolacha|Ranchería|Natívitas|Tlaxcala||90711|29|90711||29|023|1189|Rural|
+90722|San Miguel Analco|Pueblo|Natívitas|Tlaxcala||90711|29|90711||28|023|0369|Rural|
+90723|Segura Michac|Exhacienda|Natívitas|Tlaxcala||90711|29|90711||18|023|1187|Rural|
+90723|San Antonio|Exhacienda|Natívitas|Tlaxcala||90711|29|90711||18|023|1195|Rural|
+90723|Piedra Blanca|Ranchería|Natívitas|Tlaxcala||90711|29|90711||29|023|1193|Rural|
+90723|Loma Verde|Colonia|Natívitas|Tlaxcala||90711|29|90711||09|023|1190|Rural|
+90723|NCP Santa Elena Teacalco|Poblado comunal|Natívitas|Tlaxcala||90711|29|90711||27|023|1192|Rural|
+90723|Santa Elena|Exhacienda|Natívitas|Tlaxcala||90711|29|90711||18|023|0644|Urbano|
+90723|Zanja Real|Poblado comunal|Natívitas|Tlaxcala||90711|29|90711||27|023|1197|Rural|

@@ -1,0 +1,124 @@
+72750|San Pablo Tecamac|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|3651|Semiurbano|08
+72750|Residencial la Carcaña|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5913|Rural|08
+72750|José Ángeles|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|6871|Urbano|08
+72750|San Sebastián Tepalcatepec|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0451|Urbano|08
+72750|Santa Bárbara Almoloya|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|2906|Urbano|08
+72750|San Miguel|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|3652|Urbano|08
+72750|La Cañada|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|3655|Urbano|08
+72750|Bosques de Saint Germain|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|3653|Urbano|08
+72750|San JuanTlautla|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0452|Urbano|08
+72750|Geovillas el Campanario|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|3654|Urbano|08
+72750|Rincón de Santa Bárbara|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6885|Urbano|08
+72754|La Pradera|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6641|Urbano|08
+72754|Real Britania|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6668|Urbano|08
+72754|San José|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6606|Urbano|08
+72754|Residencial Jardines del Rosal|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6673|Urbano|08
+72754|Momoxpan 2a Sección|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6601|Urbano|08
+72754|Momoxpan|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6615|Urbano|08
+72754|Residencial Boulevares Momoxpan|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6739|Urbano|08
+72754|La Rinconada|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6744|Urbano|08
+72754|Momoxpan|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6600|Urbano|08
+72754|Uniko|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6608|Urbano|08
+72754|Residencial Bosques de San Pedro|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6672|Urbano|08
+72755|San Diego|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2909|Semiurbano|08
+72756|Manantiales|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|2910|Semiurbano|08
+72757|Manantiales|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|0612|Urbano|08
+72760|Cholula|Unidad habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||31|140|2912|Urbano|08
+72760|Santiago Cholula INFONAVIT|Unidad habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||31|140|2914|Urbano|08
+72760|Villas San Diego|Unidad habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||31|140|5998|Urbano|08
+72760|San Francisco Cuapan|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0454|Urbano|08
+72760|Florencia|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5905|Urbano|08
+72760|Rincón de la Arborada|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6796|Urbano|08
+72760|De Jesús|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6880|Urbano|08
+72760|Los Pinos|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6882|Urbano|08
+72760|Santiago Mixquitla|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|2915|Urbano|08
+72760|San Agustín Calvario|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|5821|Rural|08
+72760|Cholula de Rivadabia Centro|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|0455|Urbano|08
+72760|San Gregorio Zacapechpan|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|5999|Urbano|08
+72760|Esmeralda|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6865|Urbano|08
+72762|La Magdalena|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|2916|Urbano|08
+72762|Llanos Santa María|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|6877|Urbano|08
+72762|La Santísima|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|6874|Urbano|08
+72762|INFONAVIT Santa María el Agora|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6867|Urbano|08
+72762|Santa María Xixitla|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|3746|Semiurbano|08
+72762|Eccehomo|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|6864|Urbano|08
+72764|Club de Golf la Huerta|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2919|Semiurbano|08
+72764|Arboledas de Zerezotla|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5819|Urbano|08
+72764|Plazuela de San Pedro|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5991|Urbano|08
+72764|Santa Cecilia|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6887|Urbano|08
+72764|Senda del Sol|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5816|Urbano|08
+72764|Bosques de Zerezotla|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5817|Urbano|08
+72764|San Carlos|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5818|Urbano|08
+72764|Santa Cecilia|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6888|Urbano|08
+72764|Villa Zerezotla|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6890|Urbano|08
+72764|San Juan Calvario|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|2922|Semiurbano|08
+72764|Los Viñedos|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2923|Urbano|08
+72764|Jardines del Alba|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|3763|Semiurbano|08
+72764|La Querencia|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5994|Urbano|08
+72764|Cerrito de Guadalupe|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|6863|Urbano|08
+72764|Casa Blanca|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5992|Urbano|08
+72764|Amates|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|5995|Urbano|08
+72764|Hacienda Valle de Zerezotla|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5820|Urbano|08
+72764|Quintas de Cortes|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5989|Urbano|08
+72764|El Hallazgo|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5993|Urbano|08
+72764|Villa de Cortes|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5990|Urbano|08
+72764|Cholollan|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2920|Urbano|08
+72764|Zerezotla|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2924|Semiurbano|08
+72765|Guadalupe|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2925|Semiurbano|08
+72765|San Cristóbal Tepontla|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0457|Rural|08
+72765|Villa Cristal|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6889|Semiurbano|08
+72766|San Diego Cuachayotla|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0453|Urbano|08
+72766|Residencial Villas Cholula|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|3747|Urbano|08
+72767|San Cosme Texintla|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|2928|Semiurbano|08
+72767|San Matías Cocoyotla|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0450|Urbano|08
+72768|Campestre Arcoiris|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2930|Semiurbano|08
+72768|Arcoiris|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6859|Urbano|08
+72768|Jardines San Diego|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2931|Semiurbano|08
+72768|San Diego los Sauces|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2932|Urbano|08
+72768|Del Bosque|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6881|Urbano|08
+72768|Atitla|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|2929|Semiurbano|08
+72768|Cañada de Santiago|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|6861|Urbano|08
+72768|Bosques de Granada|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6860|Urbano|08
+72768|Jardines de San Diego 2da. Sección|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6870|Urbano|08
+72770|Llanos de Jesús Tlatempa|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6875|Urbano|08
+72770|Lázaro Cárdenas|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2934|Semiurbano|08
+72770|Villas Paraíso|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2935|Semiurbano|08
+72770|Santa María Acuexcomac|Pueblo|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||28|140|0460|Rural|08
+72770|Jesús Tlatempa|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|2933|Semiurbano|08
+72770|Casas Yeran|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6862|Semiurbano|08
+72772|Arboledas de San Antonio|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2936|Semiurbano|08
+72772|Llanos de Tlaltempa|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6876|Urbano|08
+72772|Santa Mónica|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6884|Urbano|08
+72774|Álvaro Obregón|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2937|Urbano|08
+72775|Cipreses de Santiago|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2938|Semiurbano|08
+72775|Villa Manantiales|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2940|Urbano|08
+72775|Villas Jardines|Condominio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||10|140|2941|Urbano|08
+72775|Camino Real|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|3562|Urbano|08
+72775|Residencial Torrecillas|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2939|Semiurbano|08
+72775|Santiago Momoxpan|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|0456|Urbano|08
+72775|Ampliación Momoxpan|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|5812|Urbano|08
+72776|Xochitlcali|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2948|Urbano|08
+72776|Residencial Ex-Hacienda la Carcaña|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5813|Urbano|08
+72776|El Pilar|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|2942|Urbano|08
+72776|Los Pinos|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2944|Urbano|08
+72776|Fuentes de Saint Germaint|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6869|Urbano|08
+72776|La Carcaña|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6872|Urbano|08
+72776|Las Villas|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2943|Urbano|08
+72776|Villas del Atlaco|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2947|Urbano|08
+72776|Quetzalcoatl|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|3656|Urbano|08
+72776|Quinta Mañanitas|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6879|Urbano|08
+72776|La Joya|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6873|Urbano|08
+72776|Obsidiana|Condominio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||10|140|2946|Urbano|08
+72776|Las Quintas|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|2945|Urbano|08
+72776|Rivadavia|Residencial|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||30|140|6883|Urbano|08
+72777|Jardines de la Carcaña|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6868|Urbano|08
+72777|Lomas de la Carcaña|Conjunto habitacional|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||12|140|6878|Urbano|08
+72777|La Fusión|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6978|Urbano|08
+72777|Fuentes de la Carcaña|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|6866|Urbano|08
+72777|Residencial San Pedro|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|5815|Urbano|08
+72777|Ex-Hacienda la Carcaña|Colonia|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||09|140|2949|Urbano|08
+72777|Residencial el Campanario|Condominio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||10|140|2951|Urbano|08
+72777|Real de Palmas|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|6979|Urbano|08
+72778|San Miguel|Barrio|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||02|140|6886|Urbano|08
+72778|Los Frailes|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2952|Urbano|08
+72788|Santa Martha|Fraccionamiento|San Pedro Cholula|Puebla|San Pedro Cholula|72761|21|72761||21|140|2957|Urbano|08

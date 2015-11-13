@@ -1,0 +1,19 @@
+77760|Ejido|Ejido|Tulum|Quintana Roo||77761|23|77761||15|009|0752|Semiurbano|
+77760|Tulum Centro|Colonia|Tulum|Quintana Roo||77761|23|77761||09|009|0310|Semiurbano|
+77760|Tumben Kaa|Fraccionamiento|Tulum|Quintana Roo||77761|23|77761||21|009|0753|Urbano|
+77760|Villas Huracanes|Fraccionamiento|Tulum|Quintana Roo||77761|23|77761||21|009|0755|Semiurbano|
+77762|Xul Kaa|Colonia|Tulum|Quintana Roo||77761|23|77761||09|009|0001|Urbano|
+77764|Villas Tulum|Fraccionamiento|Tulum|Quintana Roo||77761|23|77761||21|009|0754|Semiurbano|
+77766|Boca Paila|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0315|Rural|
+77768|Javier Rojo Gómez (Punta Allen)|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0316|Rural|
+77774|Ciudad Chemuyil|Pueblo|Tulum|Quintana Roo||77711|23|77711||28|009|0002|Rural|
+77776|Akumal|Ranchería|Tulum|Quintana Roo||77711|23|77711||29|009|0296|Rural|
+77785|Chanchén Palmar|Ranchería|Tulum|Quintana Roo||77711|23|77711||29|009|0305|Rural|
+77786|Yaxché|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0307|Rural|
+77786|Chanchen Primero|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0304|Rural|
+77786|Hondzonot|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0306|Rural|
+77793|Cobá|Pueblo|Tulum|Quintana Roo||77761|23|77761||28|009|0298|Rural|
+77794|San Juan|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0300|Rural|
+77795|Manuel Antonio Ay|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0301|Rural|
+77796|Macario Gómez|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0303|Rural|
+77796|Francisco Uh May|Ranchería|Tulum|Quintana Roo||77761|23|77761||29|009|0302|Rural|

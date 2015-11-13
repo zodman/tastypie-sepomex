@@ -1,0 +1,65 @@
+31960|Casas Coloradas|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0513|Rural|
+31960|Centro|Pueblo|Namiquipa|Chihuahua||31961|08|31961||28|048|0520|Urbano|
+31960|Guadalupe Victoria (El Picacho)|Ejido|Namiquipa|Chihuahua||31961|08|31961||15|048|0517|Rural|
+31960|Neyra González|Fraccionamiento|Namiquipa|Chihuahua||31961|08|31961||21|048|0518|Rural|
+31960|Barrio Pueblo Viejo|Barrio|Namiquipa|Chihuahua||31961|08|31961||02|048|5749|Urbano|
+31960|El Terrero|Barrio|Namiquipa|Chihuahua||31961|08|31961||02|048|0516|Rural|
+31960|Los Cerritos (De Debajo de en Medio y de Arriba)|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0519|Rural|
+31960|La Hacienda|Colonia|Namiquipa|Chihuahua||31961|08|31961||09|048|0003|Urbano|
+31960|El Pacifico|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0515|Rural|
+31960|Campesina|Colonia|Namiquipa|Chihuahua||31961|08|31961||09|048|0512|Rural|
+31960|El Oso|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0514|Rural|
+31962|Oriente|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0527|Rural|
+31962|Anaya|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0521|Rural|
+31962|Cerro Pelón|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0523|Rural|
+31962|El Progreso|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0524|Rural|
+31962|Pinos|Granja|Namiquipa|Chihuahua||31961|08|31961||23|048|0526|Rural|
+31962|Armera|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0522|Rural|
+31962|Felipe Ángeles|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0525|Rural|
+31963|Barrio el Sacrificio|Barrio|Namiquipa|Chihuahua||31968|08|31968||02|048|0002|Rural|
+31963|Rodrigo M Quevedo|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0528|Rural|
+31963|Salvador Gómez y Gómez (El Nogalito)|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0529|Rural|
+31963|El Centauro|Ejido|Namiquipa|Chihuahua||31968|08|31968||15|048|5714|Rural|
+31963|Santa Ana|Pueblo|Namiquipa|Chihuahua||31968|08|31968||28|048|0540|Urbano|
+31964|Arroyo de Encinos|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0530|Rural|
+31964|El Molino|Pueblo|Namiquipa|Chihuahua||31961|08|31961||28|048|0531|Rural|
+31964|Márquez|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|5739|Rural|
+31964|Santa Gertrudis de Arriba|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0534|Rural|
+31964|Santa Gertrudis de Abajo|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0533|Rural|
+31964|El Cerrito|Barrio|Namiquipa|Chihuahua||31961|08|31961||02|048|5770|Urbano|
+31965|Venustiano Carranza (Teseachi)|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0536|Rural|
+31965|Adolfo Ruiz Cortines|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0535|Rural|
+31966|División del Norte|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0537|Rural|
+31967|Independencia|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0538|Rural|
+31969|San Juan Guerrero|Ranchería|Namiquipa|Chihuahua||31968|08|31968||29|048|0541|Rural|
+31970|Cruces|Pueblo|Namiquipa|Chihuahua||31975|08|31975||28|048|0542|Rural|
+31971|El Tascate|Ranchería|Namiquipa|Chihuahua||31975|08|31975||29|048|0543|Rural|
+31972|El Peñasco|Ranchería|Namiquipa|Chihuahua||31975|08|31975||29|048|0544|Rural|
+31973|La Guajolota|Ranchería|Namiquipa|Chihuahua||31975|08|31975||29|048|0545|Rural|
+31974|El Álamo|Ranchería|Namiquipa|Chihuahua||31961|08|31961||29|048|0546|Rural|
+31976|El Campo Santo|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0548|Rural|
+31976|Emiliano Zapata|Ejido|Namiquipa|Chihuahua||31501|08|31501||15|048|0549|Rural|
+31977|Campo Menonita 51|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0553|Rural|
+31977|Campo 53|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0551|Rural|
+31977|Nuevo Namiquipa|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0554|Rural|
+31977|Campo 53a|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0552|Rural|
+31977|Ojos Azules|Ejido|Namiquipa|Chihuahua||31501|08|31501||15|048|0555|Rural|
+31977|Campo 52 A|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|5704|Rural|
+31977|Campo 75|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|5706|Rural|
+31977|Campo Cincuenta y Uno y Medio|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|5781|Rural|
+31977|Campo Cincuenta y Seis (Tres Hermanos)|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|0001|Rural|
+31977|Campo 51 A|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|5705|Rural|
+31977|Campo 52|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0550|Rural|
+31978|Campo Menonita 252|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3986|Rural|
+31978|Campo Menonita 51T|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3983|Rural|
+31978|Campo Menonita 253|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3987|Rural|
+31978|Santa Catalina de Villela|Ejido|Namiquipa|Chihuahua||31501|08|31501||15|048|0558|Rural|
+31978|Santa Clara|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|0559|Rural|
+31978|Los Jagueyes (Campos Menonitas 301 302 303 304 305 306)|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3962|Rural|
+31978|Campo Menonita 251|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3985|Rural|
+31978|Campo Menonita 77|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3984|Rural|
+31978|El Pino|Ranchería|Namiquipa|Chihuahua||31501|08|31501||29|048|3989|Rural|
+31978|Lázaro Cárdenas|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|0557|Rural|
+31978|Campo 255|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|4189|Rural|
+31978|Campo Menonita 254|Colonia|Namiquipa|Chihuahua||31501|08|31501||09|048|3988|Rural|
+31979|Benito Juárez|Ejido|Namiquipa|Chihuahua||31975|08|31975||15|048|0560|Rural|

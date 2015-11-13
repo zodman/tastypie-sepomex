@@ -1,0 +1,139 @@
+30190|El Arenal|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|5504|Rural|
+30190|Guadalupe|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|5503|Rural|
+30190|El Panteón|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|5507|Rural|
+30190|Centro Altamirano|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|1235|Rural|
+30190|El Campo|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|5505|Rural|
+30190|Candelaria|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|5502|Rural|
+30190|Las Casitas|Barrio|Altamirano|Chiapas||29951|07|29951||02|004|5506|Rural|
+30193|El Banco|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5402|Rural|
+30193|Santa Cruz la Ilusión|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5397|Rural|
+30193|Las Gardenias (El Crucero)|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5398|Rural|
+30193|Cuauhtémoc|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5401|Rural|
+30193|Joaquín Miguel Gutiérrez|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1245|Rural|
+30193|Santa Margarita|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5380|Rural|
+30193|La Perla del Jalal|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5381|Rural|
+30193|San Antonio la Pimienta|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5391|Rural|
+30193|Nueva Galilea|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5394|Rural|
+30193|Santa Elena de La Cruz|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5396|Rural|
+30193|Emiliano Zapata|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5379|Rural|
+30193|Las Maravillas|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5386|Rural|
+30193|San Juan|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5385|Rural|
+30193|Santa Cecilia|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5387|Rural|
+30193|San Luis|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5393|Rural|
+30193|Nueva Esperanza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5395|Rural|
+30193|Jalisco|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1244|Rural|
+30193|El Pericón|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5382|Rural|
+30193|La Central|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5390|Rural|
+30193|Omllja|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5392|Rural|
+30193|Nuestro Señor de Esquipulas|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5383|Rural|
+30193|Nuevo Joaquín Miguel Gutiérrez|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5384|Rural|
+30194|La Laguna|Ranchería|Altamirano|Chiapas||29951|07|29951||29|004|1236|Rural|
+30194|Pamala|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5413|Rural|
+30194|10 de Mayo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5429|Rural|
+30194|El Venadito|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5410|Rural|
+30194|Nuevo Jerusalén|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5445|Rural|
+30194|Chenchoj|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5388|Rural|
+30194|Carmen Laguna|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5407|Rural|
+30194|El Rosario|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5414|Rural|
+30194|La Florida|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5434|Rural|
+30194|La Nueva Reforma|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5403|Rural|
+30194|Lindavista|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5404|Rural|
+30194|Nuevo San Carlos|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5406|Rural|
+30194|Guadalupe Chintultic|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5409|Rural|
+30194|Las Corrientes|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5412|Rural|
+30194|San Isidro|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5415|Rural|
+30194|Nueva Esperanza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5435|Rural|
+30194|Laguna Paraíso|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5416|Rural|
+30194|Revolución|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5420|Rural|
+30194|10 de Abril|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5428|Rural|
+30194|Puebla (Rancho Nuevo)|Pueblo|Altamirano|Chiapas||29951|07|29951||28|004|5436|Rural|
+30194|San Miguel Chipric|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1239|Rural|
+30194|Puebla Viejo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1241|Rural|
+30194|Santo Tomás los Cimientos|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5389|Rural|
+30194|Poblado Nuevo Altamirano|Pueblo|Altamirano|Chiapas||29951|07|29951||28|004|5400|Rural|
+30194|Lázaro Cárdenas|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1242|Rural|
+30194|Ocotal|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5408|Rural|
+30194|Rancho Nuevo|Ranchería|Altamirano|Chiapas||29951|07|29951||29|004|5418|Rural|
+30194|Santa Cruz|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5419|Rural|
+30194|Morelia|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1240|Rural|
+30194|La Esperanza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5411|Rural|
+30194|Nuevo Centro Gabino Barrera|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5405|Rural|
+30194|Solo Dios|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5417|Rural|
+30194|El Nance|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5444|Rural|
+30195|Venustiano Carranza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1243|Rural|
+30195|Anexo Monterrey|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5438|Rural|
+30195|8 de Octubre|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5424|Rural|
+30195|San Antonio Monterrey|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5443|Rural|
+30195|San Isidro|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5446|Rural|
+30195|Campo Virgen (El Paraje)|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5421|Rural|
+30195|California|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5426|Rural|
+30195|Linda Vista|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5439|Rural|
+30195|San Pedro Guerrero|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5448|Rural|
+30195|La Grandeza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5427|Rural|
+30195|Nuevo Altamirano|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5431|Rural|
+30195|1ro de Mayo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5451|Rural|
+30195|La Esperanza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5425|Rural|
+30195|Emiliano Zapata|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5430|Rural|
+30195|El Porvenir|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5440|Rural|
+30195|8 de Marzo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5422|Rural|
+30195|Sociedad Victoria|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5423|Rural|
+30195|Puerto Rico|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5447|Rural|
+30195|Pushila|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5467|Rural|
+30195|El Triunfo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1238|Rural|
+30195|Tierra y Libertad|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5433|Rural|
+30195|El Saltillo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5437|Rural|
+30195|Carmen Rusia|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5470|Rural|
+30195|El Horizonte|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5432|Rural|
+30195|Candelaria|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5469|Rural|
+30196|Santa Rosa|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5461|Rural|
+30196|Aguascalientes 2|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5475|Rural|
+30196|Delicias Pachan|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5452|Rural|
+30196|Nueva Galilea|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5453|Rural|
+30196|3 de Mayo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5459|Rural|
+30196|Soledad Playa Grande|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5460|Rural|
+30196|Reforma|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5464|Rural|
+30196|Villahermosa|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5468|Rural|
+30196|Belisario Domínguez|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5442|Rural|
+30196|San Marcos|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5450|Rural|
+30196|9 de Febrero|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5456|Rural|
+30196|Nuevo Tulipán|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5476|Rural|
+30196|Palestina|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5478|Rural|
+30196|Las Maravillas|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5449|Rural|
+30196|San Juan del Río|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5455|Rural|
+30196|Nuevo Jardín|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5463|Rural|
+30196|La Estación|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5477|Rural|
+30196|Francisco Villa|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5465|Rural|
+30196|Tierra y Libertad|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5466|Rural|
+30196|Linda Vista|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5472|Rural|
+30196|Santa Rita|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5458|Rural|
+30196|San José Belén 2a Secc|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5473|Rural|
+30196|El Arbolito|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5479|Rural|
+30196|Nueva Virginia (Anexo Santa Rita)|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5480|Rural|
+30196|Guadalupe Victoria|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|1237|Rural|
+30196|El Limonal|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5441|Rural|
+30196|La Nueva Esperanza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5454|Rural|
+30196|Los Bambúes|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5457|Rural|
+30196|San Francisco|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5462|Rural|
+30196|San José Belén|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5471|Rural|
+30196|Campo Alegre|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5474|Rural|
+30197|San Luis Potosi|Pueblo|Altamirano|Chiapas||29951|07|29951||28|004|5481|Rural|
+30197|San Luis Potosi 2|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5482|Rural|
+30197|Agua Velasco|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5489|Rural|
+30197|El Oriente (Cañada de Álvarez|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5493|Rural|
+30197|El Ocotal Agua Escondida|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5483|Rural|
+30197|Anexo Trinidad|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5488|Rural|
+30197|Flor de Café|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5497|Rural|
+30197|Agua Escondida|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5486|Rural|
+30197|San José la Libertad|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5491|Rural|
+30197|Sinaloa|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5492|Rural|
+30197|San Juan del Bosque|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5495|Rural|
+30197|Flor de Mayo|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5496|Rural|
+30197|Esperanza Agua Escondida|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5484|Rural|
+30197|Victorico R. Grajales|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5490|Rural|
+30197|Quinta Oriente|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5500|Rural|
+30197|Santa Ana|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5501|Rural|
+30197|Luis Espinoza|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5485|Rural|
+30197|Rancho Alegre Agua Escondida|Ranchería|Altamirano|Chiapas||29951|07|29951||29|004|5487|Rural|
+30197|El Zapotal|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5494|Rural|
+30197|El Oriente|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5498|Rural|
+30197|San José el Oriente|Ejido|Altamirano|Chiapas||29951|07|29951||15|004|5499|Rural|

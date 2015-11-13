@@ -1,0 +1,62 @@
+39130|Chichiltepec|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0228|Rural|
+39130|Tlacotepec Centro|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|0233|Urbano|
+39130|De La Guadalupe|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4627|Urbano|
+39130|Chapultepec|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0227|Rural|
+39130|Vista Hermosa|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|1729|Urbano|
+39130|El Zoquial|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4566|Rural|
+39130|Huautla|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0230|Rural|
+39130|El Espino|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4630|Urbano|
+39130|Cerro de la Bandera|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4499|Urbano|
+39130|De La Merced|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4628|Urbano|
+39130|El Calvario|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4629|Urbano|
+39130|El Limoncillo|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0229|Rural|
+39130|Puerto Castro|Congregación|General Heliodoro Castillo|Guerrero||39139|12|39139||11|032|0232|Rural|
+39130|La Ciénega|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0231|Rural|
+39130|Zopilostoc|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0234|Rural|
+39130|San Antonio|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4631|Urbano|
+39131|Amacahuite|Congregación|General Heliodoro Castillo|Guerrero||39139|12|39139||11|032|0235|Rural|
+39131|Tetela del Río|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0237|Rural|
+39131|Ixtayotla|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0236|Rural|
+39132|Acatlán del Río|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0238|Rural|
+39132|El Amate|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0239|Rural|
+39133|Ciruelo Amarillo|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0240|Rural|
+39133|Ixcatla|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0241|Rural|
+39133|Las Laderas|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0242|Rural|
+39134|San Antonio|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0244|Rural|
+39134|Buenavista|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0243|Rural|
+39134|Tecomasuchilt del Norte|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0245|Rural|
+39135|La Venta|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0248|Rural|
+39135|Las Vinatas|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0249|Rural|
+39135|El Naranjo|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0246|Rural|
+39135|Guerrero|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0247|Rural|
+39136|Los Ocotes|Congregación|General Heliodoro Castillo|Guerrero||39139|12|39139||11|032|0251|Rural|
+39136|El Huamúchil|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0250|Rural|
+39137|Las Ceibas|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0252|Rural|
+39137|Limoncito|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0253|Rural|
+39137|Tepehuajes|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0254|Rural|
+39138|Los Ciruelos|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0256|Rural|
+39138|Las Pilas|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0255|Rural|
+39140|Los Hoyos|Congregación|General Heliodoro Castillo|Guerrero||39139|12|39139||11|032|0260|Rural|
+39140|Pueblo Viejo|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0261|Rural|
+39140|Poblado Nuevo|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|4526|Rural|
+39140|Huerta Vieja|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0258|Rural|
+39140|Izotepec|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0259|Rural|
+39140|Puerto Gallo|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0262|Rural|
+39140|Renacimiento|Colonia|General Heliodoro Castillo|Guerrero||39139|12|39139||09|032|4565|Rural|
+39141|Tlacotenco|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0267|Rural|
+39141|El Morro|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0265|Rural|
+39141|Campo Morado|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0264|Rural|
+39141|La Reforma|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0266|Rural|
+39141|Verde Rico|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0268|Rural|
+39141|Barrio Nuevo|Barrio|General Heliodoro Castillo|Guerrero||39139|12|39139||02|032|0263|Rural|
+39142|Puerto del Varal|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0270|Rural|
+39142|El Ahuejote|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0269|Rural|
+39142|Zompantle|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0271|Rural|
+39143|El Frió|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0272|Rural|
+39144|La Primavera|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0274|Rural|
+39144|Durazno San Vicente|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0273|Rural|
+39145|Villa Xóchitl|Campamento|General Heliodoro Castillo|Guerrero||39139|12|39139||04|032|0278|Rural|
+39145|Ojo de Agua del Progreso|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0276|Rural|
+39145|Tecomasuchilt del Sur|Pueblo|General Heliodoro Castillo|Guerrero||39139|12|39139||28|032|0277|Rural|
+39145|Las Margaritas|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0275|Rural|
+39149|Chicahuales|Ranchería|General Heliodoro Castillo|Guerrero||39139|12|39139||29|032|0279|Rural|

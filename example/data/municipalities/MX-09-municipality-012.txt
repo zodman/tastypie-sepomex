@@ -1,0 +1,204 @@
+14000|Tlalpan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2876|Urbano|14
+14000|Tlalpan Centro|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2027|Urbano|14
+14009|Delegación Política Tlalpan|Gran usuario|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||22|012|2028|Urbano|14
+14010|Parque del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2029|Urbano|14
+14017|Cámara Nacional de la Industria de la Construcción|Gran usuario|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||22|012|2032|Urbano|14
+14020|Villa Olímpica|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2035|Urbano|14
+14030|Isidro Fabela|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2036|Urbano|14
+14038|Zapote 1|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||31|012|2037|Urbano|14
+14038|Luis Donaldo Colosio|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||31|012|2702|Urbano|14
+14039|Cuitlahuac|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||31|012|2040|Urbano|14
+14039|Ampliación Isidro Fabela|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2041|Urbano|14
+14040|Cantera Puente de Piedra|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2042|Urbano|14
+14040|Pueblo Quieto|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2043|Urbano|14
+14049|Comuneros de Santa Úrsula|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2044|Urbano|14
+14050|Toriello Guerra|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2045|Urbano|14
+14060|Peña Pobre|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2046|Urbano|14
+14070|Paseos de Mendoza|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||21|012|2047|Urbano|14
+14070|San Pedro Apóstol|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2050|Urbano|14
+14070|Barrio San Fernando|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||02|012|2049|Urbano|14
+14070|Rómulo Sánchez Mireles|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2048|Urbano|14
+14080|Barrio del Niño Jesús|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||02|012|2052|Urbano|14
+14080|Belisario Domínguez Sección XVI|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2051|Urbano|14
+14090|La Joya|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2054|Urbano|14
+14098|Torres Tlalpan FOVISSSTE|Conjunto habitacional|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||12|012|2057|Urbano|14
+14100|Pedregal de San Nicolás 3A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2062|Urbano|14
+14100|Pedregal de San Nicolás 4A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2063|Urbano|14
+14100|Pedregal de San Nicolás 1A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2060|Urbano|14
+14100|Pedregal de San Nicolás 2A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2061|Urbano|14
+14100|Pedregal de San Nicolás 5A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2064|Urbano|14
+14108|Chichicaspatl|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2067|Urbano|14
+14108|Pedregal Chichicaspatl|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||21|012|2068|Urbano|14
+14110|Ampliación Fuentes del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2881|Urbano|14
+14110|Pedregal del Lago|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||31|012|2070|Urbano|14
+14120|Rincón del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2071|Urbano|14
+14129|Residencial Pedregal Picacho|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||21|012|2072|Urbano|14
+14130|Lic. Emilio Portes Gil "PEMEX"|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||31|012|2073|Urbano|14
+14140|Fuentes del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2074|Urbano|14
+14148|Retornos del Pedregal|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||31|012|2076|Urbano|14
+14150|Lomas del Pedregal Framboyanes|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2078|Urbano|14
+14160|Popular Santa Teresa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2079|Urbano|14
+14200|Héroes de Padierna|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2080|Urbano|14
+14200|Jardines del Ajusco|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2081|Urbano|14
+14208|Colinas del Ajusco|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2083|Urbano|14
+14209|Torres de Padierna|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2084|Urbano|14
+14210|Jardines en la Montaña|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2085|Urbano|14
+14219|Parque Nacional Bosque del Pedregal|Equipamiento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||17|012|2187|Urbano|14
+14219|Six Flags (Reino Aventura)|Equipamiento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||17|012|2087|Urbano|14
+14220|Lomas del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2090|Urbano|14
+14220|Cuchilla de Padierna|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2088|Urbano|14
+14230|Cultura Maya|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2091|Urbano|14
+14239|Los Encinos|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2093|Urbano|14
+14240|Lomas de Padierna|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2094|Urbano|14
+14240|Lomas Hidalgo|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2095|Urbano|14
+14248|Cruz del Farol|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2096|Urbano|14
+14250|Miguel Hidalgo|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2101|Urbano|14
+14250|Miguel Hidalgo 4A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2100|Urbano|14
+14250|Miguel Hidalgo 2A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2098|Urbano|14
+14250|Miguel Hidalgo 3A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2099|Urbano|14
+14260|Barrio El Capulín|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||02|012|2102|Urbano|14
+14260|Miguel Hidalgo 1A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2103|Urbano|14
+14266|Zacayucan Peña Pobre|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2106|Urbano|14
+14267|Barrio de Caramagüey|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||02|012|2107|Urbano|14
+14268|Barrio La Lonja|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||02|012|2108|Urbano|14
+14269|Barrio La Fama|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||02|012|2109|Urbano|14
+14270|Primavera|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2110|Urbano|14
+14273|Solidaridad|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2694|Urbano|14
+14275|Paraje 38|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2111|Urbano|14
+14276|Verano|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2112|Urbano|14
+14300|Nueva Oriental Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2113|Urbano|14
+14300|Residencial Miramontes|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2115|Urbano|14
+14300|Residencial Acoxpa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2114|Urbano|14
+14307|Villa del Sur|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2117|Urbano|14
+14308|Ex Hacienda Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2879|Urbano|14
+14308|Real del Sur|Condominio|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||10|012|2118|Urbano|14
+14309|3 Fuentes|Condominio|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||10|012|2119|Urbano|14
+14310|Belisario Domínguez|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2120|Urbano|14
+14310|Floresta Coyoacán|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2121|Urbano|14
+14310|Vergel Tlalpan|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2122|Urbano|14
+14320|Vergel Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2123|Urbano|14
+14324|Gabriel Ramos Millán|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2124|Urbano|14
+14325|Rinconada Coapa 2A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2125|Urbano|14
+14326|Tenorios|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2126|Urbano|14
+14326|Tenorios INFONAVIT|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2127|Urbano|14
+14327|Tenorios 2|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2128|Urbano|14
+14328|Villa Valbadena|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2130|Urbano|14
+14328|Lotería Nacional|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2129|Urbano|14
+14329|Tenorios FOVISSSTE|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2131|Urbano|14
+14330|Rinconada Coapa 1A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2134|Urbano|14
+14330|Granjas Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2132|Urbano|14
+14330|Residencial Hacienda Coapa|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2133|Urbano|14
+14334|Sauzales Cebadales|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2135|Urbano|14
+14335|Villa del Puente|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2137|Urbano|14
+14335|Periférico|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2136|Urbano|14
+14336|Villa Cuemanco INFONAVIT|Conjunto habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||12|012|2138|Urbano|14
+14337|Urbano Coapa|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2141|Urbano|14
+14338|Fuerza Armada de México|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2142|Urbano|14
+14338|FOVISSSTE Periférico|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2143|Urbano|14
+14339|Dr. Ignacio Chávez INFONAVIT|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2144|Urbano|14
+14340|Vergel de Coyoacán|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2145|Urbano|14
+14340|Vergel del Sur|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2146|Urbano|14
+14350|Prado Coapa 1A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2147|Urbano|14
+14356|Jardines Villa Coapa|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||31|012|2148|Urbano|14
+14357|Prado Coapa 3A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2150|Urbano|14
+14357|Prado Coapa 2A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2149|Urbano|14
+14358|Residencial Villa Prado Coapa|Conjunto habitacional|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||12|012|2151|Urbano|14
+14360|Villa Cuemanco|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2154|Urbano|14
+14360|Magisterial|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2153|Urbano|14
+14360|Magisterial Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2877|Urbano|14
+14370|Villa Lázaro Cárdenas|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2158|Urbano|14
+14370|Residencial Chimali|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2155|Urbano|14
+14370|San Lorenzo Huipulco|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||28|012|2157|Urbano|14
+14370|Hacienda de San Juan de Tlalpan 2a Sección|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2156|Urbano|14
+14376|Arboledas del Sur|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2159|Urbano|14
+14377|Hacienda San Juan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2161|Urbano|14
+14378|Rincón de San Juan|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2162|Urbano|14
+14380|A.M.S.A|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2163|Urbano|14
+14380|San Bartolo El Chico|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2167|Urbano|14
+14386|Rancho los Colorines|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2168|Urbano|14
+14387|Ex Hacienda San Juan de Dios|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2169|Urbano|14
+14388|Guadalupe|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2170|Urbano|14
+14389|Arenal de Guadalupe|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2172|Urbano|14
+14390|Narciso Mendoza|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2175|Urbano|14
+14390|Rinconada Las Hadas|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2174|Urbano|14
+14390|Residencial Villa Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2176|Urbano|14
+14390|Villa Coapa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||09|012|2878|Urbano|14
+14399|Villa Royale|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14391|09|14391||21|012|2178|Urbano|14
+14400|San Andrés Totoltepec|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2179|Urbano|14
+14406|Divisadero|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2182|Urbano|14
+14408|Nuevo Renacimiento de Axalco|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2183|Urbano|14
+14409|Tecorral|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2184|Urbano|14
+14410|Fuentes Brotantes|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2186|Urbano|14
+14420|Cumbres de Tepetongo|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2188|Urbano|14
+14420|Mesa de los Hornos|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2190|Urbano|14
+14420|Santa Úrsula Xitla|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2192|Urbano|14
+14426|Texcaltenco|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2194|Urbano|14
+14426|Tlaxcaltenco la Mesa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2195|Urbano|14
+14427|Tepeximilpa la Paz|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2197|Urbano|14
+14427|San Juan Tepeximilpa|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2196|Urbano|14
+14428|Cantera|Fraccionamiento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||21|012|2199|Urbano|14
+14429|Santísima Trinidad|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2200|Urbano|14
+14430|Tlalcoligia|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2203|Urbano|14
+14430|Barrio El Truenito|Barrio|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||02|012|2201|Urbano|14
+14438|Pedregal de Santa Úrsula Xitla|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2205|Urbano|14
+14439|Pedregal de las Águilas|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2206|Urbano|14
+14440|Los Volcanes|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2207|Urbano|14
+14449|El Mirador 3A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2210|Urbano|14
+14449|El Mirador 1A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2208|Urbano|14
+14449|El Mirador 2A Sección|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2209|Urbano|14
+14450|Jardines de Xitle|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2211|Urbano|14
+14456|Atocpa|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2212|Urbano|14
+14460|Tlalpuente|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2213|Urbano|14
+14470|Tepetitla|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2454|Urbano|14
+14470|Plan de Ayala|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2214|Urbano|14
+14476|La Palma|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2216|Urbano|14
+14479|Viveros Coatectlán|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2219|Urbano|14
+14480|La Magdalena Petlacalco|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2220|Urbano|14
+14490|San Miguel Xicalco|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2221|Urbano|14
+14500|San Miguel Topilejo|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2222|Urbano|14
+14520|La Quinta|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2223|Urbano|14
+14529|Estación Ajusco|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2224|Urbano|14
+14550|Estrella Mora|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2227|Urbano|14
+14600|Valle Escondido|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2229|Urbano|14
+14608|Colinas del Bosque|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2231|Urbano|14
+14609|Las Tórtolas|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2232|Urbano|14
+14610|Arenal Tepepan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2233|Urbano|14
+14620|Club de Golf México|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2741|Urbano|14
+14620|ISSFAM|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||31|012|2235|Urbano|14
+14629|San Buenaventura|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2236|Urbano|14
+14630|Chimalcoyoc|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2237|Urbano|14
+14630|Villa Tlalpan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2238|Urbano|14
+14639|San Pedro Mártir FOVISSSTE|Unidad habitacional|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||31|012|2239|Urbano|14
+14640|Ejidos de San Pedro Mártir|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2240|Urbano|14
+14643|Fuentes de Tepepan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2241|Urbano|14
+14646|Valle de Tepepan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2245|Urbano|14
+14647|Juventud Unida|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2246|Urbano|14
+14647|Rinconada El Mirador|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2880|Urbano|14
+14647|Movimiento Organizado de Tlalpan|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2247|Urbano|14
+14650|San Pedro Mártir|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2252|Urbano|14
+14653|Heróico Colegio Militar|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2882|Urbano|14
+14654|La Magueyera|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2255|Urbano|14
+14654|Dolores Tlali|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2453|Urbano|14
+14655|Valle Verde o Lomas Verdes|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||04|012|2256|Urbano|14
+14657|Tlalmille|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2258|Urbano|14
+14658|Mirador del Valle|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2259|Urbano|14
+14659|María Esther Zuno de Echeverría|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||09|012|2260|Urbano|14
+14700|San Miguel Ajusco|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||28|012|2261|Urbano|14
+14710|Santo Tomas Ajusco|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||28|012|2262|Urbano|14
+14720|Belvedere Ajusco|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2263|Urbano|14
+14730|Lomas de Cuilotepec|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2265|Urbano|14
+14734|Zacatón|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2266|Urbano|14
+14735|San Nicolás 2|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2267|Urbano|14
+14735|Lomas de Tepemecatl|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2695|Urbano|14
+14737|Vistas del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2268|Urbano|14
+14738|Bosques del Pedregal|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2269|Urbano|14
+14739|2 de Octubre|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2270|Urbano|14
+14740|Lomas de Padierna Sur|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2272|Urbano|14
+14748|Mirador I|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2273|Urbano|14
+14748|Mirador II|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2274|Urbano|14
+14749|Chimilli|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2275|Urbano|14
+14750|Rancho Viejo|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2277|Urbano|14
+14760|Héroes de 1910|Colonia|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||09|012|2278|Urbano|14
+14780|El Charco|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2279|Urbano|14
+14790|San Jorge|Campamento|Tlalpan|Distrito Federal|Ciudad de México|14201|09|14201||04|012|2280|Urbano|14
+14900|Parres El Guarda|Pueblo|Tlalpan|Distrito Federal|Ciudad de México|14091|09|14091||28|012|2286|Urbano|14

@@ -1,0 +1,96 @@
+24350|Concordia|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0625|Urbano|05
+24350|Escárcega Centro|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0252|Urbano|05
+24350|Fátima|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0620|Urbano|05
+24350|Sal Si Puedes II|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0621|Urbano|05
+24350|Sal Si Puedes I|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0623|Urbano|05
+24350|Esperanza|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0631|Urbano|05
+24350|Revolución|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0628|Urbano|05
+24350|Fertimex|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0630|Urbano|05
+24350|La Jeringa|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|1250|Urbano|05
+24350|Benito Juárez|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0622|Urbano|05
+24350|I. Zaragoza|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0634|Urbano|05
+24350|Jesús García|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0624|Urbano|05
+24350|Flores Magón|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0627|Urbano|05
+24350|Morelos|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0629|Urbano|05
+24350|Emiliano Zapata|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0619|Urbano|05
+24350|Vicente Fox|Fraccionamiento|Escárcega|Campeche|Escárcega|24351|04|24351||21|009|1249|Urbano|05
+24350|10 de Mayo|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0626|Urbano|05
+24350|Unidad Esfuerzo y Trabajo II|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0632|Urbano|05
+24350|Unidad Esfuerzo y Trabajo I|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0633|Urbano|05
+24350|C. Salinas de Gortari|Colonia|Escárcega|Campeche|Escárcega|24351|04|24351||09|009|0635|Urbano|05
+24353|El Caracol|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0007|Rural|
+24353|Matamoros|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0258|Rural|
+24353|Miguel Hidalgo (Caracol)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0001|Rural|
+24353|Colonia San Francisco (El Cinco)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0005|Rural|
+24353|El Arbolito|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0006|Rural|
+24353|California|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0003|Rural|
+24354|División del Norte|Pueblo|Escárcega|Campeche||24351|04|24351||28|009|0254|Rural|
+24354|Don Samuel|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0200|Rural|
+24354|San Antonio|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0029|Rural|
+24354|Haro|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0259|Rural|
+24355|El Calabozo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1201|Rural|
+24356|El Gallo Samuel (El Gallito)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0012|Rural|
+24357|Las Amapolas|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0025|Rural|
+24357|Ignacio Magdaleno|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0021|Rural|
+24357|Luna|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0186|Rural|
+24357|Benito Juárez (La Polla)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0197|Rural|
+24357|La Misteriosa|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0024|Rural|
+24357|La Flor|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1104|Rural|
+24358|Santa Cruz|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0035|Rural|
+24358|El Corriental|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0009|Rural|
+24358|El Gallo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0011|Rural|
+24358|Francisco I. Madero|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0193|Rural|
+24358|El Huiro|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1099|Rural|
+24358|El Pozo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0014|Rural|
+24358|Guadalajara|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0194|Rural|
+24358|El Retiro|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0015|Rural|
+24364|Kilómetro Setenta y Cuatro|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0273|Rural|
+24364|Juan de la Barrera|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1202|Rural|
+24364|La Asunción|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1103|Rural|
+24364|San José|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0032|Rural|
+24364|La Esperanza|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0272|Rural|
+24364|Juan Escutia|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0335|Rural|
+24365|La Victoria|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0260|Rural|
+24365|San Carlos|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0030|Rural|
+24365|San Pedro|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0034|Rural|
+24366|La Constancia|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0022|Rural|
+24366|El Zacatecano|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0018|Rural|
+24366|Santa Isabel|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0036|Rural|
+24366|María de la Luz|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0026|Rural|
+24366|San Luis|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0033|Rural|
+24367|Santa Martha (El Naranjito)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0037|Rural|
+24367|San José|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0031|Rural|
+24367|El Rosario (Puerto Escondido)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0016|Rural|
+24367|El Diamante|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0010|Rural|
+24367|Nuevo Progreso Dos|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0278|Rural|
+24367|La Fe|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0023|Rural|
+24368|Herradero|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0020|Rural|
+24368|San Alejandro|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0028|Rural|
+24368|José de la Cruz Blanco|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0280|Rural|
+24368|Kilómetro Treinta y Seis|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0281|Rural|
+24369|Chambalita|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0004|Rural|
+24369|La Chiquita|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0282|Rural|
+24369|El Tornillo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0017|Rural|
+24369|El Hular|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0013|Rural|
+24369|Miguel Hidalgo y Costilla|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0027|Rural|
+24370|Centenario|Pueblo|Escárcega|Campeche||24351|04|24351||28|009|0370|Rural|
+24370|José López Portillo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1106|Rural|
+24370|Silvituc|Pueblo|Escárcega|Campeche||24351|04|24351||28|009|0368|Rural|
+24370|Altamira de Zináparo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0366|Rural|
+24370|Flor de Chiapas|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1101|Rural|
+24370|Laguna Grande|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1105|Rural|
+24370|Benito Juárez Número 3|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1107|Rural|
+24372|Emiliano Zapata|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0019|Rural|
+24373|Las Maravillas|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0373|Rural|
+24373|El Jobal|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1100|Rural|
+24373|Chan Laguna|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0374|Rural|
+24374|La Libertad|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0264|Rural|
+24374|Justicia Social|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0371|Rural|
+24374|Adolfo López Mateos|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0955|Rural|
+24374|El Lechugal|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1200|Rural|
+24374|Nuevo Campeche (Tres Aguadas)|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1204|Rural|
+24375|Belén|Ranchería|Escárcega|Campeche||24351|04|24351||29|009|0257|Rural|
+24375|General Rodolfo Fierros|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1102|Rural|
+24375|Miguel de la Madrid|Ejido|Escárcega|Campeche||24351|04|24351||15|009|1203|Rural|
+24376|Alto Río Caribe|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0002|Rural|
+24377|El Conejo|Ejido|Escárcega|Campeche||24351|04|24351||15|009|0008|Rural|

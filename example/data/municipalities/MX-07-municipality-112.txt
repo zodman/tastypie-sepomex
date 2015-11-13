@@ -1,0 +1,16 @@
+29790|Najpaje|Colonia|San Juan Cancuc|Chiapas||29201|07|29201||09|112|5810|Urbano|
+29790|San Juan Cancuc|Pueblo|San Juan Cancuc|Chiapas||29201|07|29201||28|112|0761|Rural|
+29792|Tzuluwitz|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0002|Rural|
+29792|Chilolja|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0762|Rural|
+29793|Nailchen|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0763|Rural|
+29793|Tzametal|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0764|Rural|
+29794|El Pozo|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0765|Rural|
+29795|Chacte|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0766|Rural|
+29795|Independencia|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0767|Rural|
+29795|San José Chacté|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0001|Rural|
+29796|Nichteel San Antonio|Pueblo|San Juan Cancuc|Chiapas||29201|07|29201||28|112|0768|Rural|
+29796|Iwiltic|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0769|Rural|
+29797|Tzajalucum|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0772|Rural|
+29797|Tzajalchen|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0771|Rural|
+29797|Baquelchan|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0770|Rural|
+29798|Chancolom|Ranchería|San Juan Cancuc|Chiapas||29201|07|29201||29|112|0773|Rural|

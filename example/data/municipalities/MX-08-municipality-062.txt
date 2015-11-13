@@ -1,0 +1,410 @@
+33620|Saucillo Centro|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1924|Urbano|15
+33623|Changay|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|0600|Urbano|15
+33624|Carlos Chavira Becerra|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1918|Urbano|15
+33624|Agustin Melgar|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1915|Urbano|15
+33624|Guadalupe|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1920|Urbano|15
+33624|Arboleda|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|0028|Urbano|15
+33624|Saucillo 2000|Fraccionamiento|Saucillo|Chihuahua|Saucillo|33629|08|33629||21|062|1925|Urbano|15
+33625|Luis Donaldo Colosio|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|0029|Urbano|15
+33625|El Mirador|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|5683|Urbano|15
+33625|Altavista|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1916|Urbano|15
+33625|PRI|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1922|Urbano|15
+33626|Río Conchos Infonavit|Unidad habitacional|Saucillo|Chihuahua|Saucillo|33629|08|33629||31|062|1923|Urbano|15
+33626|Hacienda San Marcos|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|5673|Urbano|15
+33626|Benito Juárez|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1917|Urbano|15
+33626|Pablo Gómez|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|0030|Urbano|15
+33627|La Chancla|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|0636|Urbano|15
+33627|El Ranchito de Armendáriz|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|1919|Urbano|15
+33627|Las Acequias|Colonia|Saucillo|Chihuahua|Saucillo|33629|08|33629||09|062|4195|Urbano|15
+33630|Las Varas|Pueblo|Saucillo|Chihuahua||33001|08|33001||28|062|1929|Rural|
+33633|Tres Hermanos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0019|Rural|
+33633|Colonia Benito Juárez|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1927|Rural|
+33633|Colonia Bellavista|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|5762|Rural|
+33633|El Malabar|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9713|Rural|
+33633|El Paraíso|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9732|Rural|
+33633|El Socorro|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9752|Rural|
+33633|El Vergel|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9762|Rural|
+33633|Granja de la Gringa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9771|Rural|
+33633|José Ahued|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9794|Rural|
+33633|La Tórtola|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9834|Rural|
+33633|María|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9902|Rural|
+33633|Plan de Álamos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9920|Rural|
+33633|Rancho de Madero|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9931|Rural|
+33633|Trincheras|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0024|Rural|
+33633|Las Carboneras|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1937|Rural|
+33633|El Dragón|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9706|Rural|
+33633|El Tepopote|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9757|Rural|
+33633|El Tocayo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9758|Rural|
+33633|La Floreña|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9815|Rural|
+33633|Las Helenas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9849|Rural|
+33633|Los Lamentos (Los Reyes)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9872|Rural|
+33633|Margaritas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9900|Rural|
+33633|Rancho Dos Hermanos (Hermanos Cárdenas)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9932|Rural|
+33633|Salgadeño|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9965|Rural|
+33633|San José|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9984|Rural|
+33633|Tres Hermanos|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|0020|Rural|
+33633|Corral de Barranco|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9681|Rural|
+33633|El Ciento Veintinueve|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9697|Rural|
+33633|El Colibrí|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9698|Rural|
+33633|El Milagro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9717|Rural|
+33633|El Porvenir (El Tepetongo)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9739|Rural|
+33633|Granja Santa Mónica|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9781|Rural|
+33633|Las Flores|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9848|Rural|
+33633|Los Bernal|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9865|Rural|
+33633|Los Nogales|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9879|Rural|
+33633|Rancho de Carrillo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9929|Rural|
+33633|Santa Teresa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0007|Rural|
+33633|Las Alvareñas|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1930|Rural|
+33633|Altamira|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9664|Rural|
+33633|Colonia Santa Rosa|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|9678|Rural|
+33633|El Mimbre|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9721|Rural|
+33633|El Sacrificio|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9748|Rural|
+33633|Granja Bunsow|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9769|Rural|
+33633|Granja Núñez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9778|Rural|
+33633|La Milagrosa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9821|Rural|
+33633|Los Apodaca|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9863|Rural|
+33633|Pueblo Quieto|Pueblo|Saucillo|Chihuahua||33629|08|33629||28|062|9922|Rural|
+33633|Ranchito Don Trini González|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9925|Rural|
+33633|Rancho Baeza|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9927|Rural|
+33633|Rancho San José|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9953|Rural|
+33633|San Antonio|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9970|Rural|
+33633|Ampliación Colonia Altamirano|Ampliación|Saucillo|Chihuahua||33629|08|33629||38|062|9665|Rural|
+33633|Cuadra los García|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9682|Rural|
+33633|El Cuarenta y Cuatro (El Magnum)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9703|Rural|
+33633|El Cueteño|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9704|Rural|
+33633|El Milagro (Contrayerbas)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9718|Rural|
+33633|El Mirador|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9724|Rural|
+33633|El Nogal|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9726|Rural|
+33633|El Palomar|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9730|Rural|
+33633|El Recuerdo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9742|Rural|
+33633|La Cajuela|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9802|Rural|
+33633|La Esperanza|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9812|Rural|
+33633|La Luz|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9820|Rural|
+33633|Las Julietas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9851|Rural|
+33633|Los Álamos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9859|Rural|
+33633|Los Fresnos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9869|Rural|
+33633|Mangas del Jagüey|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9899|Rural|
+33633|Rancho los Tres Octavios|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9943|Rural|
+33633|Rancho San Carlos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9952|Rural|
+33633|San Esteban|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9974|Rural|
+33633|Santo Niño|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0008|Rural|
+33633|Tomás Cueto|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0017|Rural|
+33633|Orranteño|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1928|Rural|
+33633|Colonia Altamirano (Loma Grande)|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1931|Rural|
+33633|Loma Chica|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|1933|Rural|
+33633|Aguirreño|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9663|Rural|
+33633|El Membrillo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9715|Rural|
+33633|El Nogal|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9725|Rural|
+33633|El Paraíso|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9734|Rural|
+33633|Granja Familia Carrillo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9772|Rural|
+33633|José Urrutia|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9795|Rural|
+33633|Los Tres Sietes|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9895|Rural|
+33633|Nogales Okinawa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9911|Rural|
+33633|Rancho San Juan|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9954|Rural|
+33633|Ampliación de las Varas|Ampliación|Saucillo|Chihuahua||33629|08|33629||38|062|9666|Rural|
+33633|Contrayerbas (Rancho de los Cueto)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9680|Rural|
+33633|El Pajarito|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9729|Rural|
+33633|La Rosetilla|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9832|Rural|
+33633|Rancho de Gómez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9930|Rural|
+33633|San Juanito|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9988|Rural|
+33633|Santo Tomás|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0009|Rural|
+33633|Tres Veintidós|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0023|Rural|
+33633|Valparaíso|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0026|Rural|
+33633|Ampliación las Mercedes|Ampliación|Saucillo|Chihuahua||33629|08|33629||38|062|9667|Rural|
+33633|El Castillo|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9693|Rural|
+33633|El Delfín [Club de Pesca]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9705|Rural|
+33633|El Edén [Establo]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9707|Rural|
+33633|Los Lara|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9873|Rural|
+33633|Rancho la Piedra|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9940|Rural|
+33633|Rancho Veintiuno de Marzo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9958|Rural|
+33634|La Rabona|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9829|Rural|
+33634|Santa Rita|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0004|Rural|
+33635|El Minero|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9722|Rural|
+33635|San José de Colomo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9986|Rural|
+33635|Santa Martha|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9999|Rural|
+33635|San Esteban|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9975|Rural|
+33635|El Socorro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9753|Rural|
+33635|Cuernavaca|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9683|Rural|
+33636|Dos de Mayo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9687|Rural|
+33636|Ronquillo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9962|Rural|
+33636|San José de los Pozos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9987|Rural|
+33636|El Chimino|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9694|Rural|
+33636|San José|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9983|Rural|
+33636|San José (La Escondida)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9985|Rural|
+33636|Lagunetas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9843|Rural|
+33636|San Marcos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9992|Rural|
+33636|La Venada|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9838|Rural|
+33637|Tacubaya II|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0016|Rural|
+33637|El Gomeño|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1934|Rural|
+33637|Kilómetro Treinta y Nueve|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1941|Rural|
+33637|Ancón de Carros|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1943|Rural|
+33637|Gonzaleñas|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|5672|Rural|
+33637|Cipriano Licón (San Rafael)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9675|Rural|
+33637|Dagoberto Licón|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9684|Rural|
+33637|El Porvenir|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9738|Rural|
+33637|El Retiro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9745|Rural|
+33637|Eleazar Mata|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9763|Rural|
+33637|Granja Gandarilla|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9773|Rural|
+33637|La Pedrera|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9824|Rural|
+33637|La Pedrera (Los Mendoza)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9825|Rural|
+33637|La Presita|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9826|Rural|
+33637|Las Alicias|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9844|Rural|
+33637|Los Limas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9875|Rural|
+33637|Los Ramírez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9886|Rural|
+33637|Los Rodríguez|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9889|Rural|
+33637|Los Salazar|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9891|Rural|
+33637|Piedra de Lumbre|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9918|Rural|
+33637|Rancho el Socorro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9935|Rural|
+33637|Rancho la Mora|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9938|Rural|
+33637|Salsipuedes|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9966|Rural|
+33637|Santa Rita|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0003|Rural|
+33637|Saucillo [Quesería]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0010|Rural|
+33637|Soliceñas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0011|Rural|
+33637|Trinidad Hernández|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0025|Rural|
+33637|Santa María|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|1000|Rural|
+33637|Colonia Vicente Guerrero|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1926|Rural|
+33637|La Cuadra|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1936|Rural|
+33637|El Mimbre|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9720|Rural|
+33637|El Parreño|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9735|Rural|
+33637|El Pino|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9737|Rural|
+33637|El Tecolote|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9756|Rural|
+33637|Granja Carlos Loya|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9770|Rural|
+33637|Granja Río Grande|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9780|Rural|
+33637|Jericó|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9791|Rural|
+33637|La Chaveña|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9804|Rural|
+33637|La Esperanza|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9810|Rural|
+33637|La Frontera|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9816|Rural|
+33637|La Frontera|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9817|Rural|
+33637|La Providencia|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9828|Rural|
+33637|La Vaqueña|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9837|Rural|
+33637|Loma de Chavarría (Santa Rita)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9858|Rural|
+33637|Los Apodaca|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9862|Rural|
+33637|Lote Ciento Siete Dos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9897|Rural|
+33637|Luis Flores|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9898|Rural|
+33637|María de los Ángeles Martínez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9903|Rural|
+33637|Palma Sola|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9913|Rural|
+33637|Rancho Guerrero Hernández|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9937|Rural|
+33637|Rancho la Otra|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9939|Rural|
+33637|San Andrés|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9967|Rural|
+33637|San Antonio|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9968|Rural|
+33637|San Antonio|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9969|Rural|
+33637|San Ignacio [Corrales]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9977|Rural|
+33637|San Judas Tadeo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9989|Rural|
+33637|San Vicente|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9995|Rural|
+33637|Santa Ofelia (Charco Azul) [Corrales]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0002|Rural|
+33637|Colonia Carlos A. Madrazo (Kilómetro Cincuenta y N|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1938|Rural|
+33637|Puerto del Toro|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1942|Rural|
+33637|Claudia|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9676|Rural|
+33637|El Cadillo|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9692|Rural|
+33637|El Criollo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9702|Rural|
+33637|El Regreso|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9744|Rural|
+33637|El Salvador (El Porvenir)|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9749|Rural|
+33637|El Sesenta|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9750|Rural|
+33637|Granja Tres Hermanos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9782|Rural|
+33637|Guadalupe|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9785|Rural|
+33637|La Adelita|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9797|Rural|
+33637|La Esperanza|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9811|Rural|
+33637|La Loma de Lara|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9819|Rural|
+33637|La Terraceña|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9835|Rural|
+33637|Las Margaritas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9853|Rural|
+33637|Los Huizaches|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9871|Rural|
+33637|Los Martínez II|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9878|Rural|
+33637|Los Ocón|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9880|Rural|
+33637|No Me Olvides|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9910|Rural|
+33637|Nuevo Saucillo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9912|Rural|
+33637|Rancho Zambrano|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9959|Rural|
+33637|Roberto Burrola|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9961|Rural|
+33637|Rosalío Hernández|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9963|Rural|
+33637|San José|Pueblo|Saucillo|Chihuahua||33629|08|33629||28|062|9982|Rural|
+33637|Tacubaya|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0015|Rural|
+33637|Tres Pinos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0022|Rural|
+33637|Veintitrés|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0027|Rural|
+33637|Armando López|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9668|Rural|
+33637|Ejido Carboneras|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9688|Rural|
+33637|El Compadre|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9699|Rural|
+33637|El Gavilán (La Presa)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9710|Rural|
+33637|El Once|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9728|Rural|
+33637|Fátima|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9766|Rural|
+33637|Kilómetro Cincuenta y Nueve|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9796|Rural|
+33637|La Fe|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9814|Rural|
+33637|La Soledad|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9833|Rural|
+33637|La Tortuga|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9836|Rural|
+33637|La Virgen|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9841|Rural|
+33637|Las Tres Palmas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9856|Rural|
+33637|Los Baeza|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9864|Rural|
+33637|Los Martínez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9877|Rural|
+33637|Los Rey|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9887|Rural|
+33637|Los Tarango|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9894|Rural|
+33637|Mario Reyes|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9901|Rural|
+33637|Rancho el Canal|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9933|Rural|
+33637|Rancho Grande|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9936|Rural|
+33637|Rancho Ramón Aragón Chávez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9948|Rural|
+33637|Rancho San Luis|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9955|Rural|
+33637|San Bernardino [Corrales]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9971|Rural|
+33637|San Carlos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9972|Rural|
+33637|San José|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9979|Rural|
+33637|Santa Elena|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9997|Rural|
+33637|Tres Marías|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0021|Rural|
+33637|Parritas|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1921|Rural|
+33637|Santa Rosa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0005|Rural|
+33637|Subida Alta|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0012|Rural|
+33637|Colonia Francisco I. Madero (El Gato Negro)|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1932|Rural|
+33637|David Armendáriz|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9685|Rural|
+33637|El Jacalito|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9712|Rural|
+33637|El Paraíso|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9733|Rural|
+33637|Granja María Elena|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9776|Rural|
+33637|Las Palmeras|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9855|Rural|
+33637|Las Yolandas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9857|Rural|
+33637|Los Cardenales|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9867|Rural|
+33637|Los Prieto|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9884|Rural|
+33637|Los Rodríguez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9888|Rural|
+33637|Los Salas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9890|Rural|
+33637|Lote Ciento Quince Tres (El Embudo)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9896|Rural|
+33637|Palos Parados|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9915|Rural|
+33637|Rancho ARZ (El Acuerdo)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9926|Rural|
+33637|Rancho la Quinta|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9942|Rural|
+33637|Rancho Nogales|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9944|Rural|
+33637|El Indio|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1935|Rural|
+33637|Estación Conchos|Estación|Saucillo|Chihuahua||33629|08|33629||16|062|1940|Rural|
+33637|Cerro Prieto|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9673|Rural|
+33637|Colonia Magisterial|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|9677|Rural|
+33637|Conchos [Corrales]|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9679|Rural|
+33637|El Aturdido|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9690|Rural|
+33637|El Chumale|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9695|Rural|
+33637|El Mirador|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9723|Rural|
+33637|Granja Núñez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9777|Rural|
+33637|Hermanos Mendoza|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9788|Rural|
+33637|La Campeña|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9803|Rural|
+33637|La Palma|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9823|Rural|
+33637|Los Cano (San Felipe de Jesús)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9866|Rural|
+33637|Los Sánchez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9893|Rural|
+33637|María Vargas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9904|Rural|
+33637|Mi Ranchito|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9906|Rural|
+33637|Miguel Ronquillo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9908|Rural|
+33637|Palos Clavados|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9914|Rural|
+33637|Ramón Gallegos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9923|Rural|
+33637|Rancho Carrasco|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9928|Rural|
+33637|Rancho el Huevo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9934|Rural|
+33637|Rancho Rocío|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9949|Rural|
+33637|San Carlos (Carlos Bario)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9973|Rural|
+33637|San Isidro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9978|Rural|
+33637|San Marcos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9993|Rural|
+33637|Rancho la Pollera (Cuatro Hermanos)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9941|Rural|
+33637|Rancho Salcido|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9951|Rural|
+33637|San Francisco|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9976|Rural|
+33637|San José|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9981|Rural|
+33637|San Judas Tadeo (El Gringo)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9990|Rural|
+33637|Santa Teresa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0006|Rural|
+33637|San Francisco del Mezquital|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|1944|Rural|
+33637|Arturo Rodríguez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9670|Rural|
+33637|Dos Álamos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9686|Rural|
+33637|El Gato Negro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9708|Rural|
+33637|El Quelite|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9741|Rural|
+33637|El Río|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9747|Rural|
+33637|Espíritu Santo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9764|Rural|
+33637|Estación Saucillo|Estación|Saucillo|Chihuahua||33629|08|33629||16|062|9765|Rural|
+33637|Granja la Providencia|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9775|Rural|
+33637|Grupo los Sesenta y Siete [Asociación de Granjeros|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9784|Rural|
+33637|Guadalupe Martínez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9786|Rural|
+33637|La Aurora|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9798|Rural|
+33637|La Cuadra [Establo]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9805|Rural|
+33637|La Escondida|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9807|Rural|
+33637|La Escondida [Corrales]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9808|Rural|
+33637|La Gloria|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9818|Rural|
+33637|La Providencia|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9827|Rural|
+33637|La Viña|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9840|Rural|
+33637|Los Álvarez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9860|Rural|
+33637|Los Alvarado|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9861|Rural|
+33637|Los Pinos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9881|Rural|
+33637|Los Ramos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9885|Rural|
+33637|Los Sepúlveda|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9892|Rural|
+33637|Matías Bejarano|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9905|Rural|
+33637|Mi Ranchito (Los Acosta)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9907|Rural|
+33637|Piedra de Lumbre|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9919|Rural|
+33637|Ramón Meléndez|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9924|Rural|
+33637|Rancho Rubén Ontiveros|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9950|Rural|
+33637|Rubén López|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9964|Rural|
+33637|San Lorenzo [Cocedores]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9991|Rural|
+33637|San Martín|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9994|Rural|
+33637|Santa Eduviges|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9996|Rural|
+33637|La Rinconada|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9831|Rural|
+33637|Las Hortensias|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9850|Rural|
+33637|Las Mercedes|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9854|Rural|
+33637|Los Faudoa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9868|Rural|
+33637|Los Herrera|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9870|Rural|
+33637|Los Llorones|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9876|Rural|
+33637|Pepe Payán|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9916|Rural|
+33637|Prospereño|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9921|Rural|
+33637|Rancho Nueve de Enero|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9946|Rural|
+33637|Rancho Santa Librada|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9956|Rural|
+33637|San José|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9980|Rural|
+33637|Santa Elena|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9998|Rural|
+33637|Santa Ofelia|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0001|Rural|
+33637|Subida Alta|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|0013|Rural|
+33637|Sucirio|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0014|Rural|
+33637|Colonia Rodrigo M. Quevedo|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|1939|Rural|
+33637|Arrieta (El Edén)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9669|Rural|
+33637|Aurelia|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9671|Rural|
+33637|El Cozón|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9701|Rural|
+33637|El Gato Negro (Veintiuno de Junio)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9709|Rural|
+33637|El Hangar|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9711|Rural|
+33637|El Mezquite|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9716|Rural|
+33637|El Refugio [Viveros]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9743|Rural|
+33637|El Uno|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9759|Rural|
+33637|Gandarilla|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9767|Rural|
+33637|Granja la Llave|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9774|Rural|
+33637|Granja Río Conchos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9779|Rural|
+33637|Hermanos Medina [Lienzo Charro]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9787|Rural|
+33637|Huerta Aurora|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9789|Rural|
+33637|Jacinto Magallanes|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9790|Rural|
+33637|Jesús Faudoa|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9792|Rural|
+33637|Jesús Rivera|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9793|Rural|
+33637|La Aurora (Los Márquez)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9799|Rural|
+33637|La Esmeralda|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9809|Rural|
+33640|Naica|Congregación|Saucillo|Chihuahua||33641|08|33641||11|062|1946|Rural|
+33643|El Mayor|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9714|Rural|
+33643|Cerro Solo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9674|Rural|
+33643|El Tajo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9755|Rural|
+33643|Agua Nueva|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9662|Rural|
+33643|El Soldado|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9754|Rural|
+33644|El Mimbre|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9719|Rural|
+33644|El Picacho|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9736|Rural|
+33644|La Bandera|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9801|Rural|
+33644|Rancho Nueve de Abril|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9945|Rural|
+33644|San Antonio|Colonia|Saucillo|Chihuahua||33629|08|33629||09|062|5782|Urbano|
+33644|Picacho de Abajo (Urruteño)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9917|Rural|
+33644|Rancho Nuevo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9947|Rural|
+33644|Tortuguillas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|0018|Rural|
+33644|Campo Viejo de Beisbol|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9672|Rural|
+33644|El Venado|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9760|Rural|
+33644|El Pozo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9740|Rural|
+33644|Las Cuchillas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9846|Rural|
+33644|Las Cuchillas|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9847|Rural|
+33644|Los Pozos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9883|Rural|
+33644|Ejido Conchos|Ejido|Saucillo|Chihuahua||33629|08|33629||15|062|9689|Rural|
+33644|Rancho Seco|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9957|Rural|
+33645|El Brújulo|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9691|Rural|
+33645|Ninguno [Campo de Golf]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9909|Rural|
+33645|René Cadena|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9960|Rural|
+33645|La Famosa División del Norte (Tortuguillas)|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9813|Rural|
+33645|La Venadita|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9839|Rural|
+33645|Los Laureles|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9874|Rural|
+33645|Laguna Seca|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9842|Rural|
+33645|Los Pinos|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9882|Rural|
+33645|El Rincón|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9746|Rural|
+33645|Granjas Santa Martha|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9783|Rural|
+33645|La Curva|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9806|Rural|
+33645|Las Carpas [Sección Agrícola]|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9845|Rural|
+33645|Las Margaritas|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9852|Rural|
+33645|El Chutis|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9696|Rural|
+33645|El Siete|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9751|Rural|
+33645|El Vergel|Congregación|Saucillo|Chihuahua||33629|08|33629||11|062|9761|Rural|
+33645|La Remonta|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9830|Rural|
+33646|La Azteca|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9800|Rural|
+33646|General Joaquín Amaro|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9768|Rural|
+33646|El Convento|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9700|Rural|
+33646|El Papalote|Ranchería|Saucillo|Chihuahua||33629|08|33629||29|062|9731|Rural|
+33647|Santa Gertrudis (La Hacienda)|Hacienda|Saucillo|Chihuahua||33641|08|33641||24|062|1948|Rural|
+33647|El Ojo|Congregación|Saucillo|Chihuahua||33641|08|33641||11|062|9727|Rural|
+33647|La Noria|Ranchería|Saucillo|Chihuahua||33641|08|33641||29|062|9822|Rural|
+33649|42 Zona Militar|Gran usuario|Saucillo|Chihuahua||33629|08|33629||22|062|2230|Rural|

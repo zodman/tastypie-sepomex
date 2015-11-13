@@ -1,0 +1,90 @@
+91630|Del Maestro|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||09|065|0001|Urbano|
+91630|Emiliano Zapata|Villa|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||32|065|0415|Rural|
+91630|El Cerrito|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||09|065|7480|Rural|
+91633|La Cumbre|Estación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||16|065|6893|Rural|
+91633|Palo Gacho|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||28|065|0416|Rural|
+91633|La Balsa|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||29|065|5615|Rural|
+91633|Ciudad Primavera|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||21|065|7326|Urbano|
+91633|Plan del Río|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91681|30|91681||28|065|0417|Rural|
+91634|El Tepeyac|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|7343|Rural|
+91634|La Bocana|Estación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||16|065|6892|Rural|
+91634|Rinconada|Congregación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||11|065|0429|Rural|
+91634|Buena Vista|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||28|065|0410|Rural|
+91634|El Aguaje|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||28|065|0412|Rural|
+91635|El Palmar [Estación el Palmar]|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||28|065|5612|Rural|
+91635|Cerro Gordo|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||28|065|0411|Rural|
+91635|El Roble|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||28|065|0414|Rural|
+91635|Xoltepec|Congregación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||11|065|6904|Rural|
+91635|Palmar de Pérez|Congregación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||11|065|6909|Rural|
+91636|Rancho Viejo|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|0420|Rural|
+91636|Palmarejo|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5623|Rural|
+91636|Los Reyes|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5628|Rural|
+91636|Monte Obscuro (Colonia Pénjamo)|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5619|Rural|
+91636|Corral Falso|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5617|Rural|
+91636|Lomas de Miradores|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6896|Urbano|
+91636|Pinoltepec|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5618|Rural|
+91636|Laguna de Miradores|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6894|Urbano|
+91637|Ojo de Agua|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|5621|Rural|
+91637|Grabilias (Monoc)|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||09|065|5890|Urbano|
+91637|Campestre el Porvenir|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|6829|Rural|
+91637|Estación Chavarrillo|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|6886|Rural|
+91637|El Alcanfor|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|7207|Rural|
+91637|Las Dalias|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7493|Urbano|
+91637|Santa Anita|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|1085|Urbano|
+91637|Plan Chico|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|5620|Rural|
+91637|Rancho Don Faustino|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|6901|Rural|
+91637|Las Cascadas|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7105|Rural|
+91637|Gravileas|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7142|Urbano|
+91637|Jacarandas|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|6905|Urbano|
+91637|Pacho Nuevo|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|0427|Rural|
+91637|Jareros|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|0431|Rural|
+91637|Las Trancas|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|0904|Urbano|
+91637|Marco Antonio Muñoz (Nacaxtle)|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|5613|Rural|
+91637|Bugambilias|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|5626|Rural|
+91637|San Francisco|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|6902|Urbano|
+91637|El Chico|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|0426|Rural|
+91637|Santa Fe|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||09|065|5423|Urbano|
+91637|Las Trancas|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|6906|Rural|
+91637|La Ciénega|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|6908|Urbano|
+91637|La Estanzuela|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|0424|Rural|
+91637|Paso Grande [Estación el Chico]|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||29|065|5616|Rural|
+91637|Lomas de la Hacienda II|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7115|Rural|
+91637|Cincuentenario|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7136|Urbano|
+91637|Rafael Guizar y Valencia|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||09|065|1038|Urbano|
+91637|Chavarrillo|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||28|065|0419|Rural|
+91637|Alborada|Estación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||16|065|0423|Rural|
+91637|La Perseverancia|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||09|065|6900|Rural|
+91637|La Higuera|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||09|065|7156|Urbano|
+91637|La Pradera|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7861|Rural|
+91637|Los Cafetales|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91002|30|91002||21|065|7883|Urbano|
+91639|Húngaros|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|0837|Rural|
+91639|San Isidro|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|1066|Rural|
+91639|Los Pinos|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|0946|Rural|
+91639|Santa María|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|1093|Rural|
+91639|La Calera|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|5353|Rural|
+91639|Casa Blanca|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|0677|Rural|
+91639|Los Carriles|Colonia|Emiliano Zapata|Veracruz de Ignacio de la Llave||91631|30|91631||09|065|0935|Rural|
+91640|El Lencero|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||28|065|5611|Rural|
+91640|Miradores (Miradores del Mar)|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||28|065|0418|Rural|
+91640|Dos Ríos|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||28|065|0421|Rural|
+91640|Exhacienda el Lencero|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6889|Urbano|
+91640|Loma Bonita|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6895|Urbano|
+91640|Lomas de la Hacienda|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|7143|Urbano|
+91640|La Comarca|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|7363|Rural|
+91643|Tres Pasos|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5622|Rural|
+91643|El Jobo|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5627|Rural|
+91643|El Telefre|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6888|Urbano|
+91643|El Terrero|Pueblo|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||28|065|0422|Rural|
+91643|Loma de Rogel|Congregación|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||11|065|6897|Rural|
+91643|Manantiales|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6899|Rural|
+91643|Rancho Nuevo|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|0430|Rural|
+91643|Tres Pasos|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6903|Urbano|
+91643|El Animo|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|5127|Rural|
+91643|El Limón|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5625|Rural|
+91643|El Guayabo|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5624|Rural|
+91643|Campestre los Girasoles|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6890|Urbano|
+91643|Las Lágrimas|Fraccionamiento|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||21|065|6907|Urbano|
+91644|La Aurora|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|6891|Rural|
+91644|Ojuelos (Nuevo Poblado)|Ejido|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||15|065|6898|Rural|
+91644|La Tinaja|Ranchería|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||29|065|5614|Rural|
+91644|Xalapa|Club de golf|Emiliano Zapata|Veracruz de Ignacio de la Llave||91641|30|91641||39|065|6887|Urbano|

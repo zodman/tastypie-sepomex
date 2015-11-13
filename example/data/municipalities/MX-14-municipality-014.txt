@@ -1,0 +1,8 @@
+49200|Poncitlán|Ranchería|Atoyac|Jalisco||49201|14|49201||29|014|2912|Rural|
+49200|Atoyac|Ciudad|Atoyac|Jalisco||49201|14|49201||08|014|2911|Rural|
+49220|Unión de Guadalupe|Congregación|Atoyac|Jalisco||49001|14|49001||11|014|2914|Rural|
+49223|Destacamento|Ranchería|Atoyac|Jalisco||49001|14|49001||29|014|2915|Rural|
+49224|Techague|Hacienda|Atoyac|Jalisco||49201|14|49201||24|014|2916|Rural|
+49225|Cuyacapan|Pueblo|Atoyac|Jalisco||49201|14|49201||28|014|2917|Rural|
+49228|Los Laureles|Ranchería|Atoyac|Jalisco||49201|14|49201||29|014|2918|Rural|
+49229|San Juan|Ranchería|Atoyac|Jalisco||49201|14|49201||29|014|2919|Rural|

@@ -1,0 +1,142 @@
+30000|Comitán de Domínguez Centro|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|1010|Urbano|01
+30010|Tepeyac|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4580|Urbano|01
+30010|El Cedro|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1012|Urbano|01
+30010|El Cedro|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4583|Urbano|01
+30013|Bugambilias|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4576|Urbano|01
+30013|Ampliación Bugambilias|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4575|Urbano|01
+30015|El Jordán|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4582|Urbano|01
+30015|7 Esquinas|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4585|Urbano|01
+30015|San Antonio|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1013|Urbano|01
+30015|Jerusalem|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4581|Urbano|01
+30017|San Miguel|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1014|Urbano|01
+30017|Quija|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1052|Urbano|01
+30017|Cruz Grande 2a Sección|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4584|Urbano|01
+30017|Linda Vista|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2915|Urbano|01
+30018|La Pila|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1015|Urbano|01
+30019|FOVISSSTE las Flores|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2389|Urbano|01
+30019|Esthela Morales|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2919|Urbano|01
+30019|Luis Donaldo Colosio|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4616|Urbano|01
+30019|Lomas del Sur|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2388|Urbano|01
+30019|Las Flores|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|5662|Urbano|01
+30019|Cruz Grande|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1016|Urbano|01
+30020|El Calvario|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4594|Urbano|01
+30020|Guadalupe|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1017|Urbano|01
+30023|San José|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4605|Urbano|01
+30023|El Veinticinco|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4608|Urbano|01
+30023|Jesusito|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4599|Urbano|01
+30028|Panteón Municipal|Zona federal|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||34|019|1018|Urbano|01
+30029|San Sebastián|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1019|Urbano|01
+30029|La Pileta|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2396|Urbano|01
+30030|Microondas|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4604|Urbano|01
+30030|Los Magueyes|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2393|Urbano|01
+30030|La Pilita Seca|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1020|Urbano|01
+30030|San Agustín|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2392|Urbano|01
+30030|Los Olivos|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2918|Urbano|01
+30030|Los Cipreses|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2394|Urbano|01
+30033|Jocote|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4589|Urbano|01
+30033|Santa María|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4588|Urbano|01
+30033|Paz|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4587|Urbano|01
+30034|27 de Junio|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|5798|Urbano|01
+30034|Los Desamparados|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4590|Urbano|01
+30036|Las Chilcas|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4609|Urbano|01
+30036|El Laurel|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4631|Urbano|01
+30036|El Bethel|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4630|Urbano|01
+30037|Cerrito Nitre|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1021|Urbano|01
+30037|El Cerrito Nitre 2a Sección|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4601|Urbano|01
+30037|Paraíso Comiteco|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4603|Urbano|01
+30037|Bonampak|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4602|Urbano|01
+30038|Cerrito Concepción|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1022|Urbano|01
+30039|Puente Hidalgo|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2395|Urbano|01
+30039|Yalchivol|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1023|Urbano|01
+30039|Miramar|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2917|Urbano|01
+30040|Belisario Domínguez|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1024|Urbano|01
+30043|El Arenal|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4628|Urbano|01
+30043|Calzada el Panteón|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4619|Urbano|01
+30060|Candelaria|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1025|Urbano|01
+30063|Bosques de Comitán|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|1026|Urbano|01
+30063|Pashton Acapulco|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|2923|Urbano|01
+30063|Tenam|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2921|Urbano|01
+30063|Bosques de Comitán 2a Sección|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4613|Urbano|01
+30064|El Rosario|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1027|Urbano|01
+30065|Bosques de Comitán 3a Sección|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4612|Urbano|01
+30065|El Herraje|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4621|Urbano|01
+30065|Residencial las Flores|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|1028|Urbano|01
+30065|Jacarandas|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4611|Urbano|01
+30065|San Vicente Buena Vista|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2922|Urbano|01
+30065|Maya|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2387|Urbano|01
+30065|Arboledas|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|0002|Urbano|01
+30065|Magisterial Issstech|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2386|Urbano|01
+30065|Burócratas|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4620|Urbano|01
+30065|Tikal|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4615|Urbano|01
+30067|El Piedrón|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4596|Urbano|01
+30067|20 de Noviembre 2a Sección|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4597|Urbano|01
+30067|San Martín|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4606|Urbano|01
+30067|20 de Noviembre|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4598|Urbano|01
+30067|Cruz de Phastón|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4610|Urbano|01
+30067|La Cueva|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1029|Urbano|01
+30067|La Represa|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4595|Urbano|01
+30068|Solidaridad Comiteca|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4617|Urbano|01
+30068|Nicalocok|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2397|Urbano|01
+30068|Santa Ana Calanchuy|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2612|Urbano|01
+30068|El Chumis|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4607|Urbano|01
+30068|INFONAVIT Belisario Domínguez|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|1030|Urbano|01
+30068|Cristóbal Colon|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2607|Urbano|01
+30068|Latino Americana|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4618|Urbano|01
+30068|FOVISSSTE  Chiapas 94|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4614|Urbano|01
+30069|Santa Cecilia|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1031|Urbano|01
+30069|El Mirador|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|2391|Urbano|01
+30070|Comitlán|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4632|Urbano|01
+30070|Los Sabinos|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1032|Urbano|01
+30070|Los Lagos de Montebello|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4633|Urbano|01
+30073|Las Tinajas|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|5664|Urbano|01
+30073|Chichima Benito Juárez|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4639|Urbano|01
+30074|Vicente Fox|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4643|Urbano|01
+30077|Mariano N Ruíz|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|1033|Urbano|01
+30078|Corrala|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|0001|Rural|01
+30090|Salubridad|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4635|Urbano|01
+30090|Miguel Alemán|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|3067|Urbano|01
+30090|Colinas del Sol|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4634|Urbano|01
+30093|Chichima Concepción|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4637|Urbano|01
+30093|Jatón|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4642|Urbano|01
+30093|Chichima Acapetahua|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4638|Urbano|01
+30093|Lázaro Cárdenas|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4640|Urbano|01
+30093|Chichima Guadalupe|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4636|Urbano|01
+30093|Paraíso Chichima|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|4641|Urbano|01
+30096|Concepción Bella Vista|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4624|Urbano|01
+30096|Popular Comitán|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4623|Urbano|01
+30099|Los Robles|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2609|Urbano|01
+30099|28 de Agosto|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|3008|Urbano|01
+30099|Cumpatá|Barrio|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||02|019|4644|Urbano|01
+30099|Joyas del Pedregal|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2920|Urbano|01
+30099|Monte Verde|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|5606|Urbano|01
+30099|Libertad Campanario|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|2608|Urbano|01
+30099|Zona Militar 15 Regimiento|Unidad habitacional|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||31|019|2613|Urbano|01
+30099|1ro de Mayo|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|1037|Urbano|01
+30099|Valle Balún Canan|Colonia|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||09|019|3066|Urbano|01
+30099|Libertad|Fraccionamiento|Comitán de Domínguez|Chiapas|Comitán de Domínguez|30001|07|30001||21|019|4622|Urbano|01
+30100|Villahermosa Yalumá|Ejido|Comitán de Domínguez|Chiapas||30001|07|30001||15|019|1040|Rural|
+30100|Francisco Sarabia|Pueblo|Comitán de Domínguez|Chiapas||30001|07|30001||28|019|1038|Rural|
+30100|Jusnajab|Ejido|Comitán de Domínguez|Chiapas||30001|07|30001||15|019|1039|Rural|
+30101|Santa Rosalía|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1043|Rural|
+30101|La Florecita|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1042|Rural|
+30102|Laguna Larga|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1045|Rural|
+30102|La Palmira|Ejido|Comitán de Domínguez|Chiapas||30001|07|30001||15|019|1044|Rural|
+30103|Zaragoza La Montaña|Pueblo|Comitán de Domínguez|Chiapas||30001|07|30001||28|019|1047|Rural|
+30103|San Francisco|Pueblo|Comitán de Domínguez|Chiapas||30001|07|30001||28|019|1046|Rural|
+30104|Hidalgo|Ejido|Comitán de Domínguez|Chiapas||30001|07|30001||15|019|1048|Rural|
+30105|Chacaljocom|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1050|Rural|
+30105|Yaltzi 3 Lagunas|Ejido|Comitán de Domínguez|Chiapas||30001|07|30001||15|019|1053|Rural|
+30105|Ajayaxh|Pueblo|Comitán de Domínguez|Chiapas||30001|07|30001||28|019|1049|Rural|
+30105|Efraín A Gutiérrez|Pueblo|Comitán de Domínguez|Chiapas||30001|07|30001||28|019|1051|Rural|
+30106|Río Grande|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1054|Rural|
+30107|Caxh|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1056|Rural|
+30107|San Isidro Tinajab|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1059|Rural|
+30107|Pozo Nuevo|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|5811|Rural|
+30107|Cajcam|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1055|Rural|
+30107|Primero de Mayo|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1058|Rural|
+30107|Los Riegos|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1057|Rural|
+30107|Señor del Pozo|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1060|Rural|
+30108|Francisco J Mújica|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1061|Rural|
+30109|El Rosario Yocnajab|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1062|Rural|
+30109|Yocnajab|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1064|Rural|
+30109|San José Yocnajab|Ranchería|Comitán de Domínguez|Chiapas||30001|07|30001||29|019|1063|Rural|

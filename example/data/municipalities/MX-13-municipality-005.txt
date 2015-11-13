@@ -1,0 +1,29 @@
+42150|Ajacuba Centro|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|0228|Urbano|
+42151|Santiago Tezontlale|Pueblo|Ajacuba|Hidalgo||42951|13|42951||28|005|0232|Rural|
+42152|San Nicolás Tecomatlan|Pueblo|Ajacuba|Hidalgo||42951|13|42951||28|005|0233|Urbano|
+42153|El Satélite (Hidalgo)|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2922|Urbano|
+42153|Los Arcos|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2925|Urbano|
+42153|Los Gallineros|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2926|Urbano|
+42154|La Palma|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2923|Urbano|
+42154|Arboledas|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2920|Urbano|
+42154|Santa Teresa (Las Campanitas)|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2936|Urbano|
+42154|La Presa|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2924|Urbano|
+42154|Santa Jacoba|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2935|Urbano|
+42155|Cuauhtémoc|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2921|Urbano|
+42156|Vicente Guerrero|Pueblo|Ajacuba|Hidalgo||42951|13|42951||28|005|0229|Rural|
+42156|Santa Cruz Norte Centro|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2933|Urbano|
+42156|Santa Cruz Sur|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2934|Urbano|
+42156|Palma 2da. Sección|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2928|Urbano|
+42156|Rincón Norte 1ra. Sección|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2929|Urbano|
+42156|Rincón Sur 1ra. Sección|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2931|Urbano|
+42156|Palma 1ra. Sección|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2927|Urbano|
+42156|Rincón Sur 2da. Sección|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2932|Urbano|
+42156|Rincón Norte 2da. Sección|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2930|Urbano|
+42157|Emiliano Zapata|Pueblo|Ajacuba|Hidalgo||42951|13|42951||28|005|0231|Rural|
+42157|El Cerrito de las Colmenas|Ranchería|Ajacuba|Hidalgo||42951|13|42951||29|005|2938|Rural|
+42157|Los Corrales|Ranchería|Ajacuba|Hidalgo||42951|13|42951||29|005|2941|Rural|
+42157|El Gorrión|Ranchería|Ajacuba|Hidalgo||42951|13|42951||29|005|2939|Rural|
+42157|Nuevo Venero (Cuernavaca)|Ranchería|Ajacuba|Hidalgo||42951|13|42951||29|005|2942|Rural|
+42157|Tulancalco|Pueblo|Ajacuba|Hidalgo||42951|13|42951||28|005|2943|Urbano|
+42157|Ignacio Zaragoza|Pueblo|Ajacuba|Hidalgo||42951|13|42951||28|005|0230|Rural|
+42157|El Santo Niño|Colonia|Ajacuba|Hidalgo||42951|13|42951||09|005|2937|Rural|

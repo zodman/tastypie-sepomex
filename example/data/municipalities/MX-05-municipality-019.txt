@@ -1,0 +1,168 @@
+26500|Morelos Centro|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|0889|Urbano|22
+26503|Rogelio Montemayor|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|0161|Urbano|22
+26503|Morelos|Ejido|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||15|019|0160|Urbano|22
+26503|San Antonio|Fraccionamiento|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||21|019|0162|Urbano|22
+26504|Gerardo Treviño|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|0159|Urbano|22
+26504|Jesús Perales Treviño|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|3229|Urbano|22
+26505|Santa Lucia|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|2157|Urbano|22
+26505|Abelardo Galindo|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|0158|Urbano|22
+26505|Santa Rita|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|0164|Urbano|22
+26505|Santa Rita 2|Colonia|Morelos|Coahuila de Zaragoza|Morelos|26531|05|26531||09|019|0165|Urbano|22
+26506|Bermudas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0012|Rural|
+26506|Itamar de Luna|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0051|Rural|
+26506|Las Raíces|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0088|Rural|
+26506|Huerta Viola|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0049|Rural|
+26506|Las Palmas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0087|Rural|
+26506|Ninguno [Ciudad Sanitaria]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0115|Rural|
+26506|San Jorge|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0143|Rural|
+26506|Las Norias|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0086|Rural|
+26506|San José|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0144|Rural|
+26506|José Benito Garza|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0063|Rural|
+26506|José Isaac de Luna|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0064|Rural|
+26506|Santa Teresita|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0151|Rural|
+26506|Víctor Puentes|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0156|Rural|
+26506|Armando Guadiana Tijerina|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0009|Rural|
+26506|José Ramón Garza|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0066|Rural|
+26506|Los Puente|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0101|Rural|
+26506|Lunas, Flores y Rosas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0107|Rural|
+26506|La Ilusión|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0074|Rural|
+26506|Antonio Bueno (La Concepción)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0007|Rural|
+26506|Ninguno [Ferrocarriles Nacionales de México]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0117|Rural|
+26506|Sergio Figueroa|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0152|Rural|
+26506|La Concepción|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0068|Rural|
+26506|Ninguno [Lienzo Charro]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0118|Rural|
+26507|Alfredo Hernández|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0004|Rural|
+26507|El Primo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0028|Rural|
+26507|Hilario Avitia|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0046|Rural|
+26507|Santa María|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0147|Rural|
+26507|Cipriano Delgado Alejandro|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0015|Rural|
+26507|Las Jaulas (Eduardo Lafuente) [Restaurante]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0085|Rural|
+26507|Martín de Hoyos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0110|Rural|
+26507|Santa María|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0148|Rural|
+26507|Domingo Rodríguez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0019|Rural|
+26507|El Papalote|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0025|Rural|
+26507|María de la Luz Lara Zamarripa|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0111|Rural|
+26507|San Francisco|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0142|Rural|
+26507|Tres Banderas (Genaro Urdiales)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0154|Rural|
+26507|Aroldo de Hoyos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0010|Rural|
+26507|Huerta Jiménez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0047|Rural|
+26507|Sergio Zúñiga|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0153|Rural|
+26507|Ana María|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0005|Rural|
+26507|Campamento Venustiano Carranza|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0013|Rural|
+26507|Fernando Santos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0040|Rural|
+26507|Florentino Pérez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0041|Rural|
+26507|Los Compadres|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0097|Rural|
+26507|Luis Ángeles|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0105|Rural|
+26507|Mi Ranchito|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0112|Rural|
+26507|El Reparo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0030|Rural|
+26507|Javier Rosas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0056|Rural|
+26507|Los Albañiles|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0094|Rural|
+26507|Real [Palenque]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0132|Rural|
+26507|Rodolfo Galindo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0135|Rural|
+26507|Eleazar Barrientos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0033|Rural|
+26507|Javier Cuellar|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0055|Rural|
+26507|Natividad Urdiales|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0114|Rural|
+26507|Santa Rita|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0150|Rural|
+26507|Tronco Mocho|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0155|Rural|
+26507|7 Mares [Restaurante Pescadería]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0002|Rural|
+26507|Doctor Barrera|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0017|Rural|
+26507|La Pila (Mario Martínez González)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0078|Rural|
+26507|La Tierra Seca|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0080|Rural|
+26507|Ninguno [Estación de Servicio Pemex]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0116|Rural|
+26510|Antonia|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0006|Rural|
+26510|Hacienda Cuajimulco|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0044|Rural|
+26510|La Flor|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0071|Rural|
+26510|Noé Garza Flores|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0119|Rural|
+26510|Jesús Martínez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0058|Rural|
+26510|Los Alamitos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0093|Rural|
+26510|Paredes|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0123|Rural|
+26510|René González González|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0133|Rural|
+26510|San Antonio|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0140|Rural|
+26510|Álvaro Luna|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0001|Rural|
+26510|Enrique de Luna|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0035|Rural|
+26510|Gonzalo Treviño (Alamitos)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0042|Rural|
+26510|Los Nietos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0099|Rural|
+26510|Manuel Galván|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0109|Rural|
+26510|Joben [Granja]|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0062|Rural|
+26510|El Huracán|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0023|Rural|
+26510|Huerta Patricia|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0048|Rural|
+26510|Jesús Rodríguez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0060|Rural|
+26510|Lucas de Hoyos Olivares|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0104|Rural|
+26510|El Consuelo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0021|Rural|
+26510|La Herradura|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0073|Rural|
+26510|Odilón de Paz Machado|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0120|Rural|
+26510|San Carlos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0141|Rural|
+26510|Santa Julia|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0146|Rural|
+26510|Los Abuelos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0092|Rural|
+26510|Luis Cervantes Molina|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0106|Rural|
+26510|Puente de Madera|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0127|Rural|
+26513|El Huizache|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0022|Rural|
+26513|Jesús López|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0057|Rural|
+26513|Las Compuertas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0083|Rural|
+26513|Rancho Nuevo Número Dos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0131|Rural|
+26513|Beatriz Fernández Cárdenas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0011|Rural|
+26513|El Palmito|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0024|Rural|
+26513|Praderas de Tarango|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0126|Rural|
+26513|Rancho Nuevo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0130|Rural|
+26513|Paso de Piedra|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0124|Rural|
+26513|Rumaldo de Hoyos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0137|Rural|
+26513|La Lajita|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0075|Rural|
+26513|Guadalupe (Arsenio de Hoyos)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0043|Rural|
+26513|La Esperanza|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0069|Rural|
+26513|Corrientes|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0016|Rural|
+26513|El Campamento|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0020|Rural|
+26513|Los Tecolotes|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0102|Rural|
+26513|Roberto Rodríguez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0134|Rural|
+26514|Jaco Primero|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0052|Rural|
+26515|Jaco Segundo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0053|Rural|
+26515|Las Conchas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0084|Rural|
+26516|Apolinar Arriaga|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0008|Rural|
+26516|Las Bacinicas|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0081|Rural|
+26516|San Rafael|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0145|Rural|
+26516|Rancho de Beto|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0129|Rural|
+26516|Las Cabeceras del Río Escondido|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0082|Rural|
+26516|Leonardo Villarreal|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0090|Rural|
+26516|El Toro|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0032|Rural|
+26516|Lázaro García|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0103|Rural|
+26516|Los Ayajiles|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0096|Rural|
+26517|Albino Pérez Ramos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0003|Rural|
+26517|Eutimio Cuéllar|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0037|Rural|
+26517|Fernando Garza|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0038|Rural|
+26517|Jesús Orozco Rubio|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0059|Rural|
+26517|Jesús Rodríguez Galindo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0061|Rural|
+26517|La Calera|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0067|Rural|
+26517|La Nogalera|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0077|Rural|
+26517|Leobardo Delgado|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0089|Rural|
+26517|Los Álamos|Congregación|Morelos|Coahuila de Zaragoza||26531|05|26531||11|019|0888|Rural|
+26517|Domingo Estrada|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0018|Rural|
+26517|El Papalote|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0026|Rural|
+26517|Hermila de Hoyos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0045|Rural|
+26517|Los Álamos|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0091|Rural|
+26517|La Fuente (Fernando Garza González)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0072|Rural|
+26517|Monasterio de las Carmelitas|Hacienda|Morelos|Coahuila de Zaragoza||26531|05|26531||24|019|0113|Rural|
+26517|Fernando Moreno|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0039|Rural|
+26517|Isidro Yáñez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0050|Rural|
+26517|Ojo de San Ildefonso|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0121|Rural|
+26517|Zeferino Garza de Hoyos|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0157|Rural|
+26517|Los Nogales|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0100|Rural|
+26517|Manuel Esparza|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0108|Rural|
+26517|Román Aguilar|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0136|Rural|
+26517|Eleazar Omar Rodríguez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0034|Rural|
+26517|Jaime de Hoyos|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0054|Rural|
+26517|José María Pérez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0065|Rural|
+26517|La Lomita|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0076|Rural|
+26517|Los Martínez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0098|Rural|
+26517|Oscar Rodríguez|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0122|Rural|
+26517|Casa Hogar Getsemaní|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0014|Rural|
+26517|Ernesto Aguilar|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0036|Rural|
+26517|Los Arados|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0095|Rural|
+26517|Porfirio Cedillo|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0125|Rural|
+26520|El Puerto|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0029|Rural|
+26520|El Sauz|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0031|Rural|
+26520|Rancherías|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0128|Rural|
+26520|Santa Rita|Ejido|Morelos|Coahuila de Zaragoza||26531|05|26531||15|019|0149|Rural|
+26520|La Estrella|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0070|Rural|
+26524|La Salada|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0079|Rural|
+26525|San Ángel|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0138|Rural|
+26526|El Perro|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0027|Rural|
+26526|San Ángel Viejo (Rancho Viejo)|Ranchería|Morelos|Coahuila de Zaragoza||26531|05|26531||29|019|0139|Rural|

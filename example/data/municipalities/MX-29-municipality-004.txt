@@ -1,0 +1,46 @@
+90550|De la Concepción|Barrio|Atltzayanca|Tlaxcala||90501|29|90501||02|004|0300|Urbano|
+90550|Santiago|Barrio|Atltzayanca|Tlaxcala||90501|29|90501||02|004|1268|Urbano|
+90550|San Antonio|Barrio|Atltzayanca|Tlaxcala||90501|29|90501||02|004|1269|Urbano|
+90553|La Garita|Colonia|Atltzayanca|Tlaxcala||90501|29|90501||09|004|0304|Rural|
+90554|Carreta|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1273|Rural|
+90554|Xaltitla|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0302|Rural|
+90554|José Fernández|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1274|Rural|
+90554|Aurelio Aguilar|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1275|Rural|
+90554|Techachalco|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1276|Rural|
+90554|San José Pilancón|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0306|Rural|
+90554|San José Miravalle|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1272|Rural|
+90554|San Antonio Tecopilco|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1300|Rural|
+90554|Mariano Guarneros Arroyo|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1271|Rural|
+90554|Xarero Xaltitla|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1298|Rural|
+90554|San José Buenavista|Pueblo|Atltzayanca|Tlaxcala||90501|29|90501||28|004|0305|Rural|
+90554|San Francisco Axopilco|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1270|Rural|
+90555|Lázaro Cárdenas|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0308|Rural|
+90555|Fracción Cerón (Tonalaco)|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1279|Rural|
+90555|Blanco|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1280|Rural|
+90555|Felipe Carrillo Puerto|Pueblo|Atltzayanca|Tlaxcala||90501|29|90501||28|004|0307|Rural|
+90555|La Rincona|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1277|Rural|
+90555|La Soledad Loma de Ocotla|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1278|Rural|
+90555|Ocotla|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1294|Rural|
+90555|Concepción de Hidalgo|Colonia|Atltzayanca|Tlaxcala||90501|29|90501||09|004|0303|Rural|
+90555|Jesús|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1285|Rural|
+90555|Mazehualpa|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1290|Rural|
+90556|Mesa Redonda|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0309|Rural|
+90556|San Juan Ocotitla|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0310|Rural|
+90556|Los Teteles|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1299|Rural|
+90557|San José Xalasco|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1293|Rural|
+90557|Delicias|Colonia|Atltzayanca|Tlaxcala||90501|29|90501||09|004|1295|Rural|
+90557|La Higuera|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1287|Rural|
+90557|Nazareth|Colonia|Atltzayanca|Tlaxcala||90501|29|90501||09|004|1288|Rural|
+90557|San Miguel Franco|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1289|Rural|
+90557|Nexnopala|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0311|Rural|
+90557|Fracción Cerón|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1286|Rural|
+90557|Santa Martha|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1291|Rural|
+90557|Guadalupe|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1292|Rural|
+90558|Miahuapan el Bajo|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1284|Rural|
+90558|Santa Cruz Pocitos|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0301|Rural|
+90558|Los Ocalitos|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1282|Rural|
+90558|Miahuapan el Alto|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1283|Rural|
+90558|Loma de Junguito|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1297|Rural|
+90558|El Piñonal (Guadalupe el Piñonal)|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1281|Rural|
+90558|Santa María las Cuevas|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|0312|Rural|
+90558|Pocitos|Ranchería|Atltzayanca|Tlaxcala||90501|29|90501||29|004|1296|Rural|

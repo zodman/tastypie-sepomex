@@ -1,0 +1,108 @@
+43740|El Molino|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|0947|Urbano|
+43740|Santa María Nativitas|Pueblo|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||28|016|1855|Urbano|
+43740|La Esperanza|Fraccionamiento|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||21|016|2106|Urbano|
+43740|Loma de Cuautepec|Fraccionamiento|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||21|016|0001|Urbano|
+43740|Santa Teresa de los Pinos|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|1012|Urbano|
+43740|Cuautepec de Hinojosa Centro|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|1845|Urbano|
+43740|Texcaltepec|Barrio|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||02|016|1856|Urbano|
+43740|Felipe Ángeles|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4393|Urbano|
+43740|El Ventorrillo|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1858|Rural|
+43740|Loma de los Pinos|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4604|Urbano|
+43740|San Lorenzo Sayula|Pueblo|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||28|016|1854|Rural|
+43740|Tezoquipa|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1857|Rural|
+43740|El Pedregal 1a. Sección|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4396|Urbano|
+43740|El Tepeyac|Barrio|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||02|016|1849|Urbano|
+43740|Guadalupe Victoria|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1850|Rural|
+43740|Las Puentes|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1853|Rural|
+43740|El Capulín|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1846|Rural|
+43740|El Encinal|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1847|Rural|
+43740|El Vivero|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|2224|Urbano|
+43740|El Pedregal 2a. Sección|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4397|Urbano|
+43740|Francisco I. Madero|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|0984|Urbano|
+43740|Almoloya|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|1844|Urbano|
+43740|La Esperanza II|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1852|Rural|
+43740|Casas Nova|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4394|Urbano|
+43740|El Edén|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4395|Urbano|
+43740|La Trinidad|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|1848|Urbano|
+43740|Francisco Villa|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4391|Urbano|
+43740|Puente de la Paz|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|1051|Urbano|
+43740|Hueyapita|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1851|Rural|
+43740|Los Chorritos|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4392|Urbano|
+43745|Granja Avícola Cuautepec|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4506|Rural|
+43745|La Esperanza|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4510|Rural|
+43745|Marcelino Acosta Cruz|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4530|Rural|
+43745|San Aparicio|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1860|Rural|
+43745|Explanada San Isidro|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4505|Rural|
+43745|La Rayuela|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4516|Rural|
+43745|Santa Rita|Pueblo|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||28|016|1861|Urbano|
+43745|Manuel Rodríguez Martínez|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4528|Rural|
+43745|Trejo|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4535|Rural|
+43745|San Isidro|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4536|Rural|
+43745|San José Vista Hermosa|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4538|Rural|
+43746|Buenos Aires|Poblado comunal|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||27|016|4492|Rural|
+43746|Valentín Hernández Yáñez|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4539|Rural|
+43746|Arboledas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4491|Rural|
+43746|El Atorón|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4497|Rural|
+43747|El Rincón|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4503|Rural|
+43747|La Serena|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4518|Rural|
+43747|Las Eras de Huistongo|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4523|Rural|
+43747|Cebaditas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4541|Rural|
+43747|La Mesa (Pozo Blanco)|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4514|Rural|
+43748|Benito Juárez|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|1863|Urbano|
+43748|Las Palmas|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1865|Rural|
+43748|Ojo de Agua|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4532|Rural|
+43748|Loma Bonita|Colonia|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||09|016|4525|Rural|
+43748|Cerro Verde|Barrio|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||02|016|1862|Rural|
+43748|El Ojito de Agua|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4500|Rural|
+43748|La Puerta del Yolo|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1864|Rural|
+43748|Tepantitla|Barrio|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||02|016|1866|Urbano|
+43749|Xayahualulco|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1872|Rural|
+43749|Chacalapa|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1869|Rural|
+43749|Alhuajoyucan|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1867|Rural|
+43749|San Juan Hueyapan|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1870|Rural|
+43749|Caballo Rucio|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4493|Rural|
+43749|El Jarillal|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4499|Rural|
+43749|Peña del Tigre|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4533|Rural|
+43749|Las Tires|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4524|Rural|
+43749|Cima de Togo|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1868|Rural|
+43749|Xocopa|Poblado comunal|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||27|016|4540|Rural|
+43749|Huistongo|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1871|Rural|
+43749|Las Canoas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4521|Rural|
+43750|El Abertal|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4496|Rural|
+43750|La Lagunilla|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4513|Rural|
+43750|Nopal Alto|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4531|Rural|
+43750|La Cañada|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1878|Rural|
+43750|Casas Coloradas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4494|Rural|
+43750|El Salto|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4504|Rural|
+43750|Lomas de Ojuila|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|1881|Rural|
+43750|Santa Elena Paliseca|Pueblo|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||28|016|1882|Urbano|
+43750|La Puerta|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4515|Rural|
+43750|La Reforma|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4517|Rural|
+43750|El Aserradero|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|1874|Rural|
+43750|El Coyuco|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|1875|Rural|
+43750|La Coronilla|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4508|Rural|
+43750|Los Laureles|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4527|Rural|
+43750|San Isidro|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4537|Rural|
+43750|Las Ánimas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|1880|Rural|
+43750|San Juan Tecocomulco|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|1883|Rural|
+43750|Tezoncualpan|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1885|Rural|
+43750|Cerro de Buenavista|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4495|Rural|
+43750|La Cueva del Tezontle|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4509|Rural|
+43750|Los Aguilares|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4526|Rural|
+43750|El Durazno|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1876|Rural|
+43750|La Palma|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|1879|Rural|
+43750|Coatzetzengo|Pueblo|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||28|016|1873|Rural|
+43750|El Nectario|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1877|Rural|
+43750|Tecocomulco de Juárez|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1884|Rural|
+43750|Presa Reventada|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4534|Rural|
+43753|La Unión|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4519|Rural|
+43753|Las Conchas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4522|Rural|
+43754|El Piñón|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4501|Rural|
+43754|La Barranca del Agua|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4507|Rural|
+43754|La Gloria|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4511|Rural|
+43754|El Emporio|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4498|Rural|
+43754|Las Águilas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4520|Rural|
+43754|El Ranchero|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4502|Rural|
+43754|Maravillas|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4529|Rural|
+43759|La Isleta|Ranchería|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||29|016|4512|Rural|
+43759|San Rafael Mazatepec|Ejido|Cuautepec de Hinojosa|Hidalgo||43741|13|43741||15|016|1886|Rural|

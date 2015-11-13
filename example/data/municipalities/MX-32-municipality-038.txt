@@ -1,0 +1,44 @@
+98920|H. Ayuntamiento|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|1749|Urbano|
+98920|Magisterial|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|1752|Urbano|
+98920|La Plazuela|Barrio|Pinos|Zacatecas||98923|32|98923||02|038|1647|Rural|
+98920|Santa Cecilia|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|1750|Urbano|
+98920|Bachilleres|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|1751|Urbano|
+98920|Centro|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|0393|Urbano|
+98920|Tlaxcala|Barrio|Pinos|Zacatecas||98923|32|98923||02|038|1754|Urbano|
+98920|Los Arquitos|Barrio|Pinos|Zacatecas||98923|32|98923||02|038|1755|Urbano|
+98920|Sierra de Pinos|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|1753|Urbano|
+98921|La Victoria|Pueblo|Pinos|Zacatecas||98923|32|98923||28|038|0394|Rural|
+98925|Las Mezclitas (La Mezclita)|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0001|Rural|
+98930|Espiritu Santo|Pueblo|Pinos|Zacatecas||98923|32|98923||28|038|0396|Rural|
+98931|Santa Gertrudis|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0397|Rural|
+98933|La Encarnación|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|1662|Rural|
+98933|Las Cabras|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0003|Rural|
+98936|Guadalupe Victoria (Tierra Bofa)|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|1681|Rural|
+98940|Santa Ana|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0399|Rural|
+98940|Santiago|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0400|Rural|
+98940|Saldaña|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0398|Rural|
+98941|Trinidad Norte|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0401|Rural|
+98942|Tolosa|Estación|Pinos|Zacatecas||98923|32|98923||16|038|0403|Rural|
+98942|La Pendencia|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0402|Rural|
+98950|El Nigromante|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0404|Rural|
+98951|El Obraje|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0405|Rural|
+98951|Laborcilla|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0406|Rural|
+98955|Jaltomate|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0407|Rural|
+98959|Estancia de Guadalupe|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0409|Rural|
+98959|El Pedregoso|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0408|Rural|
+98959|La Lobena|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0410|Rural|
+98959|San Manuel|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|1748|Rural|
+98960|Jose Maria Pino Suárez|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0412|Rural|
+98960|La Estrella|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0413|Rural|
+98960|El Mezquite|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0411|Rural|
+98961|Santa Elena|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0414|Rural|
+98965|La Cruz|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0415|Rural|
+98969|San Martin|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0417|Rural|
+98969|Cieneguilla|Ranchería|Pinos|Zacatecas||98923|32|98923||29|038|0416|Rural|
+98970|El Sitio|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0418|Rural|
+98971|Jaula de Abajo|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0420|Rural|
+98971|Agua Grande de los Patos|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0419|Rural|
+98971|Jaulillas|Pueblo|Pinos|Zacatecas||98923|32|98923||28|038|0422|Rural|
+98971|Jaula de Arriba|Pueblo|Pinos|Zacatecas||98923|32|98923||28|038|0421|Rural|
+98974|Los Encinitos|Colonia|Pinos|Zacatecas||98923|32|98923||09|038|0002|Rural|
+98979|Ojo de Agua de La Palma|Congregación|Pinos|Zacatecas||98923|32|98923||11|038|0423|Rural|

@@ -1,0 +1,24 @@
+73660|Cuauximaloyan|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|1190|Rural|
+73661|Atzalán|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|1191|Rural|
+73663|Ignacio Zaragoza|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7762|Rural|
+73663|San José|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7766|Rural|
+73663|Cuautamanis|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7767|Rural|
+73663|Cuauhtecomaco|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7768|Rural|
+73663|Yautetelco|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|1192|Rural|
+73665|Primera Sección|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7761|Rural|
+73665|Xochiapulco|Pueblo|Xochiapulco|Puebla||73682|21|73682||28|200|1193|Rural|
+73665|Segunda Sección|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7760|Rural|
+73665|Tercera Sección|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7759|Rural|
+73666|La Manzanilla|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|1194|Rural|
+73666|Las Majadas|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7774|Rural|
+73666|Tahuixticpactampa (Tatampa)|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7775|Rural|
+73666|Cruztatzalán|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7763|Rural|
+73667|Xochitonal|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7770|Rural|
+73667|Barrio Nuevo|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7769|Rural|
+73667|Tepoztán|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7773|Rural|
+73667|Xaltampa|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7764|Rural|
+73667|Zapotán de Xahuanteno|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7765|Rural|
+73667|Ixehuaco|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7776|Rural|
+73670|La Rosa de Castilla|Poblado comunal|Xochiapulco|Puebla||73682|21|73682||27|200|6472|Rural|
+73674|Zompanteco|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7772|Rural|
+73674|Tequextecoyan|Barrio|Xochiapulco|Puebla||73682|21|73682||02|200|7771|Rural|

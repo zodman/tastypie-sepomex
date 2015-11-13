@@ -1,0 +1,135 @@
+36960|Los Arcos|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|3823|Semiurbano|20
+36960|Las Rosas|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3832|Semiurbano|20
+36960|Popular|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3834|Semiurbano|20
+36960|Cuerámaro|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|3828|Semiurbano|20
+36960|Cieneguilla|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3837|Semiurbano|20
+36960|Presita El Sáuz|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3839|Semiurbano|20
+36960|San Ramón|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3818|Semiurbano|20
+36960|Los Tepetates|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3820|Semiurbano|20
+36960|Maravillas|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3822|Semiurbano|20
+36960|Las Alondras|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3824|Semiurbano|20
+36960|Villas del Rosario|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|3826|Semiurbano|20
+36960|Independencia|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3836|Semiurbano|20
+36960|Rinconadas de la Luz|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|5419|Urbano|20
+36960|Villas de La Luz|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|3827|Semiurbano|20
+36960|California|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|3838|Semiurbano|20
+36960|San Francisco|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3825|Semiurbano|20
+36960|Villas del Sol|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|3829|Semiurbano|20
+36960|Nuevo Camino Real|Fraccionamiento|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||21|012|0001|Urbano|20
+36960|Cuerámaro Centro|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|0930|Semiurbano|20
+36960|El Tigre|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3830|Semiurbano|20
+36960|Santa Cecilia|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3833|Semiurbano|20
+36960|Francisco Javier Mina|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3817|Semiurbano|20
+36960|Los Arroyitos|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3819|Semiurbano|20
+36960|El Molino|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3821|Semiurbano|20
+36960|El Refugio|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3831|Semiurbano|20
+36960|Flores Magón|Colonia|Cuerámaro|Guanajuato|Cuerámaro|36961|11|36961||09|012|3835|Semiurbano|20
+36963|Colonia San Miguel|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5555|Rural|
+36963|El Platanar|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0936|Rural|
+36963|Colonia del Carmen|Ejido|Cuerámaro|Guanajuato||36961|11|36961||15|012|5549|Rural|
+36963|Colonia Linda Vista|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5552|Rural|
+36963|La Regalada|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5595|Rural|
+36963|El Novillero|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5560|Rural|
+36963|Colonia el Carmen|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5551|Rural|
+36963|La Camelina|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5582|Rural|
+36963|La Loma de la Cieneguilla|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5588|Rural|
+36963|Ojo de Agua|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0937|Rural|
+36963|San José de Ojo de Agua|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0938|Rural|
+36963|El Nuevo Edén|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5561|Rural|
+36963|La Magueyera|Ejido|Cuerámaro|Guanajuato||36961|11|36961||15|012|5591|Rural|
+36963|Las Coloradas|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5599|Rural|
+36963|La Magueyera|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5590|Rural|
+36964|Alonso|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5544|Rural|
+36964|Barranca de la Huerta|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5545|Rural|
+36964|La Cantera|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5583|Rural|
+36964|Los Chiqueros|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5601|Rural|
+36964|El Huizache|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5558|Rural|
+36964|La Magdalena|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5589|Rural|
+36964|El Salto|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5567|Rural|
+36964|La Víbora|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5597|Rural|
+36964|Mexiquito|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5611|Rural|
+36964|San Camilo|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5621|Rural|
+36964|Puerta de La Reserva|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0939|Rural|
+36964|La Cuesta de los Pastores|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5584|Rural|
+36964|El Cortijo (El Huanumo)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5557|Rural|
+36964|Zarcihuil|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5635|Rural|
+36965|Los Vargas (Rancho Cieneguilla)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5610|Rural|
+36965|El Túnel|Ejido|Cuerámaro|Guanajuato||36961|11|36961||15|012|5569|Rural|
+36965|La Escondida (Los Juárez)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5585|Rural|
+36965|Buenavista (La Lechuza)|Congregación|Cuerámaro|Guanajuato||36961|11|36961||11|012|5550|Rural|
+36965|Puerta de Tupátaro|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5615|Rural|
+36966|Bordo Blanco|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5546|Rural|
+36966|La Camelina|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5581|Rural|
+36966|La Santa Cruz|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5596|Rural|
+36966|San Gregorio|Hacienda|Cuerámaro|Guanajuato||36961|11|36961||24|012|0934|Rural|
+36966|18 de Marzo (El Tope)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5543|Rural|
+36966|Los Colorines|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5602|Rural|
+36966|Los Salgado|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5609|Rural|
+36966|San Pedro|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5629|Rural|
+36966|El Rincón del Zapote|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5563|Rural|
+36966|Santa Rita (Ejido Refugio de Ayala)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5631|Rural|
+36966|Santiago (Martín Campos)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5632|Rural|
+36966|El Sabino|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5566|Rural|
+36966|Héctor Romo|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5576|Rural|
+36966|La Llave|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5587|Rural|
+36966|Rancho San Carlos|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5618|Rural|
+36966|Tupátaro|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5634|Rural|
+36966|Los Pinos|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5607|Rural|
+36966|San Félix|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5622|Rural|
+36966|Bordo Ciego|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5547|Rural|
+36966|Granja Santa Cruz|Granja|Cuerámaro|Guanajuato||36961|11|36961||23|012|5575|Rural|
+36966|Isaac López|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5577|Rural|
+36966|Los Martínez|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5605|Rural|
+36966|Tupataro|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0935|Rural|
+36966|Unidad José Camacho|Poblado comunal|Cuerámaro|Guanajuato||36961|11|36961||27|012|5536|Rural|
+36966|Monte Grande|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5612|Rural|
+36966|Santo Domingo|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5633|Rural|
+36966|Granja San Juan Chico|Granja|Cuerámaro|Guanajuato||36961|11|36961||23|012|5574|Rural|
+36966|Puerta de la Caña|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5614|Rural|
+36967|Galera de La Grulla|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0931|Rural|
+36967|Cerrito de Agua Caliente|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0932|Rural|
+36967|Bordo San Víctor|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5548|Rural|
+36967|Presa de Uribe|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0933|Rural|
+36967|José Luis Castañeda Mares|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5578|Rural|
+36967|Juan Ventura|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5579|Rural|
+36967|Plan Sexenal|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5613|Rural|
+36967|Colonia los Reyes Ejido de Chamacua|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5553|Rural|
+36967|La Morita|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5592|Rural|
+36967|La Nueva Esperanza|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5593|Rural|
+36967|Rancho Rangel|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5617|Rural|
+36967|Los López (La Noria)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5603|Rural|
+36967|Los Sabinos|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5608|Rural|
+36967|Rancho Espinoza|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5616|Rural|
+36967|San José de Ramales|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5627|Rural|
+36967|Sartaneja|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0941|Rural|
+36967|El Veinte|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5570|Rural|
+36967|Garnica|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5573|Rural|
+36967|Rancho Viejo (La Noria)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5619|Rural|
+36967|Ejido Luz Mazas|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5556|Rural|
+36967|San Fernando|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5623|Rural|
+36967|Colonia Nuevo Michoacán|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5554|Rural|
+36967|Galera Vieja (Bordo Chico)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5572|Rural|
+36967|El Jaral|Ejido|Cuerámaro|Guanajuato||36961|11|36961||15|012|5559|Rural|
+36967|El Tronconal|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5568|Rural|
+36967|La Cajita|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5580|Rural|
+36967|San Isidro (La Noria)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5624|Rural|
+36968|Los Hornos|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0942|Rural|
+36968|3 Villas|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0943|Rural|
+36969|Familia López Gutiérrez|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5571|Rural|
+36969|La Batalla|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5280|Rural|
+36969|El Rincón|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5562|Rural|
+36969|La Palma|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5594|Rural|
+36969|La Soledad (La Palanca)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5598|Rural|
+36969|Santa Lucía|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5630|Rural|
+36969|San Antonio|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5620|Rural|
+36969|San Juan de los López|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5628|Rural|
+36969|El Saucillo|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0944|Rural|
+36969|Los Ángeles|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5600|Rural|
+36969|San José de la Esperanza [La Bodega]|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5626|Rural|
+36969|El Rodeo|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5565|Rural|
+36969|Los Maciel (Los Ángeles)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5604|Rural|
+36969|Los Ochenta (El Progreso)|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5606|Rural|
+36969|San José de la Esperanza|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5625|Rural|
+36969|La Sabina|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|0945|Rural|
+36969|La Granja del Carmen|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5586|Rural|
+36969|El Roble|Ranchería|Cuerámaro|Guanajuato||36961|11|36961||29|012|5564|Rural|

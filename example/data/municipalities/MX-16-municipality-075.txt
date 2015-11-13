@@ -1,0 +1,98 @@
+60300|Centro|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1750|Urbano|02
+60320|La Paz|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1753|Urbano|02
+60322|Santa Cecilia|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1755|Urbano|02
+60324|Agua Blanca|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|4731|Urbano|02
+60330|San Juan de Dios|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1757|Urbano|02
+60330|Lomas de San Juan|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|0043|Urbano|02
+60330|Los Purengues|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0044|Urbano|02
+60330|Jardines de San Juan|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1756|Urbano|02
+60340|Lázaro Cárdenas|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1758|Urbano|02
+60350|Jardín|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1759|Urbano|02
+60360|Fray Juan de San Miguel|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0040|Urbano|02
+60360|Santa Rosa|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1761|Urbano|02
+60364|San Gabriel III|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|3495|Urbano|02
+60364|San Gabriel II|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|3500|Urbano|02
+60364|Salazar y Abasolo|Unidad habitacional|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||31|075|0028|Urbano|02
+60364|El Molino|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0032|Urbano|02
+60364|San Gabriel|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|0027|Urbano|02
+60364|Los Pinos|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|1762|Urbano|02
+60364|Jardines de San Gabriel|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0029|Urbano|02
+60364|Jardines del Paraíso|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0045|Urbano|02
+60364|Purembe|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|1763|Urbano|02
+60364|San Gabriel I|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|3530|Urbano|02
+60365|El Chorrito|Unidad habitacional|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||31|075|3536|Urbano|02
+60370|Los Mangos|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|0039|Urbano|02
+60370|Sindicato Nacional Azucarero|Unidad habitacional|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||31|075|1767|Urbano|02
+60370|Carlos Gálvez Betancourt|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1766|Urbano|02
+60373|Privada Salazar|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0024|Urbano|02
+60373|San Gabriel|Condominio|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||10|075|0025|Urbano|02
+60373|Villa Oriental|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|1769|Urbano|02
+60373|Sindicato Nacional Azucarero|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0026|Urbano|02
+60373|Llanos de San Gabriel|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|1768|Urbano|02
+60373|Brinco del Diablo|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|0023|Urbano|02
+60373|Oasis de Itzicuaro|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|3533|Urbano|02
+60374|Independencia|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1770|Urbano|02
+60374|Guadalupana|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|4107|Urbano|02
+60376|El Manantial|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0022|Urbano|02
+60376|La Providencia|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1771|Urbano|02
+60376|Ampliación los Manantiales|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0020|Urbano|02
+60376|Manantiales|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0021|Urbano|02
+60377|Camino Real|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0030|Urbano|02
+60377|Villa Paraíso|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0031|Urbano|02
+60378|Francisco Villa|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1772|Urbano|02
+60378|Altavista|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0017|Urbano|02
+60378|La Concordia|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0019|Urbano|02
+60378|Fundación los Reyes 1594|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0018|Urbano|02
+60379|Guadalajarita|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1773|Urbano|02
+60380|Las Fuentes|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0041|Urbano|02
+60380|Quinta Real|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|4931|Urbano|02
+60384|México|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0042|Urbano|02
+60384|San José|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|4108|Urbano|02
+60385|Eréndira|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0014|Urbano|02
+60385|Las Zirandas|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0015|Urbano|02
+60385|Nueva Eréndira|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0016|Urbano|02
+60390|Emiliano Zapata|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|1777|Urbano|02
+60390|Praderas de Itzicuaro|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|1778|Urbano|02
+60390|Del Valle|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|4106|Urbano|02
+60393|La Loma|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0034|Urbano|02
+60393|El Sol|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0033|Urbano|02
+60393|La Minzita|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0035|Urbano|02
+60393|Camelinas|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|4924|Urbano|02
+60394|Verde Valle|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0037|Urbano|02
+60394|Los Arcos|Fraccionamiento|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||21|075|0038|Urbano|02
+60394|La Tortuguita|Colonia|Los Reyes|Michoacán de Ocampo|Los Reyes de Salgado|60301|16|60301||09|075|0036|Urbano|02
+60400|Los Limones|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1779|Rural|
+60400|Los Palillos|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1780|Rural|
+60400|San Sebastián|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1781|Rural|
+60401|Los Tejones|Congregación|Los Reyes|Michoacán de Ocampo||60301|16|60301||11|075|1782|Rural|
+60403|La Calabaza|Rancho|Los Reyes|Michoacán de Ocampo||60301|16|60301||48|075|0002|Rural|
+60410|Los Pozos (Tzirio Chico)|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|0004|Rural|
+60410|J. Jesús Díaz Tzirio|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|1783|Rural|
+60410|La Tinaja|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1784|Rural|
+60413|La Zarzamora|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1785|Rural|
+60413|Chaniro (Xhaniro)|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|0001|Rural|
+60414|Queréndaro|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|0005|Rural|
+60420|Atapan|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|1786|Rural|
+60421|Imbarácuaro|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1787|Rural|
+60422|Oruscato|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1788|Rural|
+60423|Cheratillo|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|4028|Rural|
+60424|San Rafael|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|4109|Rural|
+60425|La Loma|Rancho|Los Reyes|Michoacán de Ocampo||60301|16|60301||48|075|0011|Rural|
+60425|La Higuerita (Colonia San Rafael)|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|0003|Rural|
+60430|San Antonio Tierras Blancas|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1790|Rural|
+60430|San Isidro|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1791|Rural|
+60430|Pamatácuaro|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|1789|Urbano|
+60430|Urengüitiro (San Martín)|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1792|Rural|
+60431|Sicuicho|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|1793|Rural|
+60431|San Marcos|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|0008|Rural|
+60432|San José de Gracia|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1794|Rural|
+60432|Zacán|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|1795|Rural|
+60433|La Palma|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1797|Rural|
+60433|Dieciocho de Marzo|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|4027|Rural|
+60433|Cherato|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|1796|Rural|
+60434|San Benito|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|0006|Rural|
+60434|Xirango de Pamatácuaro (Sombra Alegre)|Rancho|Los Reyes|Michoacán de Ocampo||60301|16|60301||48|075|0013|Rural|
+60434|San Luis (Surén)|Pueblo|Los Reyes|Michoacán de Ocampo||60301|16|60301||28|075|0007|Rural|
+60435|Santa Rosa|Ranchería|Los Reyes|Michoacán de Ocampo||60301|16|60301||29|075|0009|Rural|
+60435|Auxunehuata (Rancho del Venado)|Rancho|Los Reyes|Michoacán de Ocampo||60301|16|60301||48|075|0012|Rural|
+60435|Taapan (Tapan)|Rancho|Los Reyes|Michoacán de Ocampo||60301|16|60301||48|075|0010|Rural|

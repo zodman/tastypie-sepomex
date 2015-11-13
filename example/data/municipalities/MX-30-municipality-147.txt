@@ -1,0 +1,36 @@
+94770|Barrio Morastitla|Colonia|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||09|147|0001|Rural|
+94770|Atzompa|Congregación|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||11|147|3064|Rural|
+94772|Villa Nueva|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7958|Rural|
+94772|Tepaxapa|Pueblo|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||28|147|3067|Rural|
+94773|Ahuacuitlapa|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7960|Rural|
+94773|Acultzinapa|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7959|Rural|
+94773|Porvenir|Congregación|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||11|147|6087|Rural|
+94773|Barrio Nuevo|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7961|Rural|
+94774|Benito Juárez|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7966|Rural|
+94774|Texmoltitla|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7968|Rural|
+94774|Buena Vista|Congregación|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||11|147|6884|Rural|
+94774|Tlalpan|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7964|Rural|
+94774|Tetla (Ixtacahuatitla)|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7969|Rural|
+94774|Xonotla|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7965|Rural|
+94774|Soledad Atzompa|Congregación|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||11|147|3066|Urbano|
+94774|Ahuatempa|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7963|Rural|
+94774|Tepexpan|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7967|Rural|
+94774|Monterrey|Colonia|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||09|147|3065|Rural|
+94774|Huixtitla|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7962|Rural|
+94774|San Juan de los Lagos|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7267|Rural|
+94774|Exoquila|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7970|Rural|
+94775|Huitzila|Pueblo|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||28|147|3068|Rural|
+94775|Atexcalco|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7957|Rural|
+94775|Tlatilpa|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7971|Rural|
+94775|Tlatzala|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7972|Rural|
+94776|Las Porfiadas|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7974|Rural|
+94776|El Rincón|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7975|Rural|
+94776|Capulines|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7973|Rural|
+94777|Teotlalco|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7980|Rural|
+94777|Acuapa|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7979|Rural|
+94777|Mexcala|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7977|Rural|
+94777|Linda Vista|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7982|Rural|
+94777|Xiquila|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7978|Rural|
+94777|Zacatepec|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7981|Rural|
+94777|Tetlatzinga|Pueblo|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||28|147|3069|Rural|
+94777|Atempa|Ranchería|Soledad Atzompa|Veracruz de Ignacio de la Llave||94741|30|94741||29|147|7976|Rural|

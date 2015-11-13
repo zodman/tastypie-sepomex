@@ -1,0 +1,40 @@
+94270|Lázaro Cárdenas|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|5005|Rural|
+94270|El Rancho Del Padre|Ranchería|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||29|105|2738|Rural|
+94270|Palmira|Ranchería|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||29|105|6305|Rural|
+94270|Medellin de Bravo|Pueblo|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||28|105|2739|Rural|
+94271|2 Bocas|Ejido|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||15|105|2740|Rural|
+94273|Las Balsas|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|0888|Rural|
+94273|Guasimal|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|0834|Rural|
+94273|Villa de Guadalupe|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|7543|Rural|
+94273|Adalberto Tejeda|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|0002|Urbano|
+94273|El Tejar|Ejido|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||15|105|2742|Rural|
+94273|Arboleda San Miguel|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|7804|Urbano|
+94273|Benito Juárez (Marcos Vélez)|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|7315|Rural|
+94273|Ixcoalco|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|0793|Rural|
+94273|El Paraíso II|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|7542|Rural|
+94273|Del Bosque|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|7869|Rural|
+94273|20 de Noviembre|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|1163|Rural|
+94273|Paso Colorado|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|7475|Rural|
+94274|Paseos del Campestre|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|7377|Urbano|
+94274|Lagos de Puente Moreno|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|0001|Rural|
+94274|Puente Moreno|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|5578|Rural|
+94274|Las Palmas|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|6098|Rural|
+94274|Playa de Vacas|Pueblo|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||28|105|5577|Rural|
+94274|Residencial Marino|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|7179|Urbano|
+94274|Arboleda San Ramón|Fraccionamiento|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||21|105|5576|Rural|
+94274|La Gloria|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|0864|Rural|
+94275|Lomas del Porvenir|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|6830|Rural|
+94275|Mata Ortiz|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|7519|Rural|
+94275|Rincón del Copite|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|6833|Rural|
+94275|Mozambique|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|7783|Rural|
+94275|El Moralillo|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|6831|Rural|
+94275|El Cedral|Pueblo|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||28|105|6832|Rural|
+94276|Jardines de Dos Bocas|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|0844|Rural|
+94276|Primero de La Palma|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|1026|Rural|
+94277|Paso Del Toro|Pueblo|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||28|105|2743|Rural|
+94277|José Lozano|Colonia|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||09|105|7544|Rural|
+94278|Los Pinos|Rancho|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||48|105|0003|Rural|
+94280|El Copital|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|7313|Rural|
+94280|Potrerillo|Congregación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||11|105|7522|Rural|
+94280|Los Robles|Pueblo|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||28|105|2744|Rural|
+94280|La Laguna|Estación|Medellín|Veracruz de Ignacio de la Llave||94272|30|94272||16|105|2745|Rural|

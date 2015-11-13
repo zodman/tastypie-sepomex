@@ -1,0 +1,12 @@
+56000|Tezoyuca|Pueblo|Tezoyuca|México||56271|15|56271||28|100|4064|Urbano|
+56003|Buenos Aires|Barrio|Tezoyuca|México||56271|15|56271||02|100|7699|Rural|
+56004|La Concepción|Barrio|Tezoyuca|México||56271|15|56271||02|100|7700|Rural|
+56004|Resurrección|Barrio|Tezoyuca|México||56271|15|56271||02|100|7701|Rural|
+56005|La Ascención|Barrio|Tezoyuca|México||56271|15|56271||02|100|7702|Rural|
+56006|El Oasis|Barrio|Tezoyuca|México||56271|15|56271||02|100|7704|Rural|
+56006|Santiago|Barrio|Tezoyuca|México||56271|15|56271||02|100|7703|Rural|
+56007|San Felipe|Barrio|Tezoyuca|México||56271|15|56271||02|100|7705|Rural|
+56010|Ampliación Tezoyuca|Colonia|Tezoyuca|México||56271|15|56271||09|100|7043|Semiurbano|
+56020|Tequisistlán|Pueblo|Tezoyuca|México||56271|15|56271||28|100|4065|Urbano|
+56023|Guadalupano|Barrio|Tezoyuca|México||56271|15|56271||02|100|7707|Rural|
+56024|De Tequisistlán Primero|Ejido|Tezoyuca|México||56271|15|56271||15|100|0001|Urbano|

@@ -1,0 +1,23 @@
+61700|Bellavista|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0001|Urbano|
+61700|Ziracuaretiro|Pueblo|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||28|111|2656|Urbano|
+61700|El Papayo|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0003|Urbano|
+61700|25 de Abril|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0013|Urbano|
+61700|El Panteón|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0002|Urbano|
+61700|Rancho Bonito|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0004|Urbano|
+61700|Revolución|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0005|Urbano|
+61702|San Andrés Coru|Pueblo|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||28|111|2659|Rural|
+61703|Banco de Arena (El Panadero)|Rancho|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||48|111|0007|Rural|
+61703|Caracha|Hacienda|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||24|111|2660|Rural|
+61703|El Fresno|Ranchería|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||29|111|3914|Rural|
+61703|Zirimícuaro|Hacienda|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||24|111|2657|Rural|
+61703|Ziraspén|Ranchería|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||29|111|3913|Rural|
+61705|Chupacato|Rancho|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||48|111|0008|Rural|
+61705|El Copal|Ranchería|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||29|111|3911|Rural|
+61706|La Ciénega (Los Naranjos)|Ranchería|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||29|111|3912|Rural|
+61706|Los Naranjos (La Joya del Molino)|Ranchería|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||29|111|0010|Rural|
+61707|Santa María (La Soledad)|Rancho|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||48|111|0011|Rural|
+61707|Patuán|Ranchería|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||29|111|3910|Rural|
+61707|El Colorado|Rancho|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||48|111|0009|Rural|
+61707|Santa Teresa|Rancho|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||48|111|0012|Rural|
+61708|San Ángel Zurumucapio|Pueblo|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||28|111|2658|Urbano|
+61708|Santa Clara|Colonia|Ziracuaretiro|Michoacán de Ocampo||61704|16|61704||09|111|0006|Urbano|

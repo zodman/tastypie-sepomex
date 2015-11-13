@@ -1,0 +1,126 @@
+91500|La Purísima|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4263|Urbano|04
+91500|Coatepec Centro|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0330|Urbano|04
+91503|La Luz|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|7607|Urbano|04
+91505|Anfer|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0332|Urbano|04
+91506|Carlos Roberto Smith|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0333|Urbano|04
+91506|Popular|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|1016|Urbano|04
+91506|Del Bosque|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4264|Urbano|04
+91510|Azuzul|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0334|Urbano|04
+91510|El Porvenir|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|7608|Urbano|04
+91514|Pomarosa|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4265|Urbano|04
+91514|Sayago Cristóbal|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0336|Urbano|04
+91514|Sinesco|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0337|Urbano|04
+91515|Ignacio Allende|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0338|Urbano|04
+91516|Zona Dorada|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0339|Urbano|04
+91517|La Florida|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0340|Urbano|04
+91517|Mariano Escobedo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0964|Urbano|04
+91517|La Pitaya|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0880|Urbano|04
+91517|Plan de la Cruz|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|1014|Urbano|04
+91518|San Pedro Buenavista|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0341|Urbano|04
+91518|Arboledas San Pedro|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0629|Urbano|04
+91518|Campestre la Orduña|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0002|Urbano|04
+91519|Francisco Villa|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0342|Urbano|04
+91519|Las Jacarandas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0841|Urbano|04
+91520|Del Carmen|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4267|Urbano|04
+91520|Rincón Coatepec|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4268|Urbano|04
+91520|Nestle|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0343|Urbano|04
+91520|La Gachupina|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4266|Urbano|04
+91520|Los Pinos|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4269|Urbano|04
+91520|Roberto Amoros|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0344|Urbano|04
+91521|Encino|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0345|Urbano|04
+91521|El Mirador|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0755|Urbano|04
+91521|Las Golondrinas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0895|Urbano|04
+91521|Libertad|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0346|Urbano|04
+91527|La Herradura|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0871|Urbano|04
+91528|El Obrador|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0347|Urbano|04
+91528|Araucarias|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4270|Urbano|04
+91529|Centenario|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0348|Urbano|04
+91529|Díaz Mirón|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|1058|Urbano|04
+91529|Loma de los Angeles|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4271|Urbano|04
+91529|San Jerónimo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|7609|Urbano|04
+91530|Agrícola|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0349|Urbano|04
+91533|Rafael Sánchez|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4541|Urbano|04
+91533|Setse|Unidad habitacional|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||31|038|0350|Urbano|04
+91537|10 de Mayo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0351|Urbano|04
+91538|Las Hayas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4272|Urbano|04
+91538|El Pedregal|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0352|Urbano|04
+91538|Reyes Heroles|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4273|Urbano|04
+91538|San Jerónimo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|7124|Urbano|04
+91539|Lázaro Cárdenas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0353|Urbano|04
+91539|Olivares Pineda|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4274|Urbano|04
+91539|Los Carriles|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4276|Urbano|04
+91539|Francisco Javier Mina|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4275|Urbano|04
+91540|Campo Viejo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0354|Urbano|04
+91540|Santa Rosa|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0001|Urbano|04
+91549|Santa Teresa|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|7166|Urbano|04
+91549|Las Auroras|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|7243|Urbano|04
+91549|22 de Septiembre|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0356|Urbano|04
+91550|Santa Bárbara|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0357|Urbano|04
+91556|Casa Blanca|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0676|Urbano|04
+91557|Jardines de Coatepec|Unidad habitacional|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||31|038|0358|Urbano|04
+91559|Campestre|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0003|Urbano|04
+91559|Primero de Mayo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4278|Urbano|04
+91559|Fuentes de Coatepec|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4277|Urbano|04
+91559|Plan Mavil|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4280|Urbano|04
+91559|María Enriqueta Fracción II|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0360|Urbano|04
+91559|2 de Abril|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0722|Urbano|04
+91559|Los Olivos|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4279|Urbano|04
+91560|Emiliano Zapata|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0361|Urbano|04
+91565|6 de Julio|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|1106|Urbano|04
+91566|Espinal Alto|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0362|Urbano|04
+91566|Espinal Bajo|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0363|Urbano|04
+91567|S. N. T. E. Sección 56|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4281|Urbano|04
+91567|6 de Enero|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|5337|Urbano|04
+91567|Magisterial Jardines de Coatepec|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0364|Urbano|04
+91567|El Pimiento|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|7316|Urbano|04
+91568|María Enriqueta|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0365|Urbano|04
+91569|El Cedro|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|7170|Urbano|04
+91569|Casa Pinta|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|7479|Urbano|04
+91569|2 de Enero|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4282|Urbano|04
+91569|Jardines de Pastoreza|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0846|Urbano|04
+91569|Las Bugambilias|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0366|Urbano|04
+91569|Las Primaveras|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4283|Urbano|04
+91570|Loma del Suchill|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0367|Urbano|04
+91570|Las Cruces|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4285|Urbano|04
+91570|Santa Martha|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4286|Urbano|04
+91570|Lomas de Flores|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4287|Urbano|04
+91570|Miguel Alemán|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4288|Urbano|04
+91570|Sostenes Guzmán|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4284|Urbano|04
+91575|Fernando Gutiérrez Barrios|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4289|Urbano|04
+91575|El Arenal|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4291|Urbano|04
+91575|Benito Juárez|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0368|Urbano|04
+91575|El Paraíso|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4290|Urbano|04
+91576|Orquídeas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4294|Urbano|04
+91576|Mosvic|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4292|Urbano|04
+91576|Los Prados|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4293|Urbano|04
+91579|Los Lirios|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4295|Urbano|04
+91579|Manantiales|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0370|Urbano|04
+91580|INFONAVIT los Cafetos|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0371|Urbano|04
+91580|Las Azaleas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0887|Urbano|04
+91581|Setse II|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4298|Urbano|04
+91581|Andrea|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|4297|Urbano|04
+91581|Nueva Nestle|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0374|Urbano|04
+91581|Bernardo Casals|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0373|Urbano|04
+91581|Las Margaritas|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4296|Urbano|04
+91583|La Trinidad|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0004|Urbano|04
+91583|La Mata|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0375|Urbano|04
+91583|La Mata 2da Sección|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|0376|Urbano|04
+91583|Hernández Ochoa|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|4299|Urbano|04
+91584|San José|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||21|038|6835|Urbano|04
+91589|Juan de la Luz Enríquez|Colonia|Coatepec|Veracruz de Ignacio de la Llave|Coatepec|91501|30|91501||09|038|0377|Urbano|04
+91601|Zimpizahua|Congregación|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||11|038|0378|Rural|
+91602|Pacho Viejo|Pueblo|Coatepec|Veracruz de Ignacio de la Llave||91002|30|91002||28|038|0379|Rural|
+91603|Obrera (Las Puentes)|Colonia|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||09|038|0381|Rural|
+91603|La Orduña|Congregación|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||11|038|0380|Rural|
+91604|La Laguna|Congregación|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||11|038|0382|Rural|
+91605|San Marcos de Leon|Pueblo|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||28|038|0383|Rural|
+91606|Las Lomas|Congregación|Coatepec|Veracruz de Ignacio de la Llave||91002|30|91002||11|038|0384|Rural|
+91607|El Grande|Congregación|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||11|038|0385|Rural|
+91607|Briones|Fraccionamiento|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||21|038|0652|Urbano|
+91608|Mahuixtlan|Pueblo|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||28|038|0386|Rural|
+91608|Zoncuantla|Congregación|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||11|038|0387|Rural|
+91609|Rancho Viejo|Ranchería|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||29|038|0389|Rural|
+91609|Cuauhtémoc|Colonia|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||09|038|0388|Rural|
+91609|Vaquería|Ranchería|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||29|038|0390|Rural|
+91610|Tuzamapan|Pueblo|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||28|038|0392|Rural|
+91610|Bella Esperanza|Colonia|Coatepec|Veracruz de Ignacio de la Llave||91501|30|91501||09|038|0391|Rural|

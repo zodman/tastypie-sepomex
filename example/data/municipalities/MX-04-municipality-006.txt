@@ -1,0 +1,50 @@
+24600|Norte|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0608|Rural|07
+24600|Magisterial|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0607|Rural|07
+24600|El Tamarindo|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0604|Rural|07
+24600|Campo de Aviación|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0606|Rural|07
+24600|San Román|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0609|Rural|07
+24600|Dolores Lanz|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0656|Rural|07
+24600|San Martín|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0612|Rural|07
+24600|Santa Cruz|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0605|Rural|07
+24600|Hopelchen Centro|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0420|Rural|07
+24600|San Isidro|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0610|Rural|07
+24600|San Luis|Colonia|Hopelchén|Campeche|Hopelchén|24001|04|24001||09|006|0611|Rural|07
+24603|Xcalot Akal|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0425|Rural|
+24603|Yaxché Akal|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0426|Rural|
+24603|Ich-Ek|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0424|Rural|
+24603|Rancho Sosa|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|1124|Rural|
+24604|San Francisco Suc-Tuc|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0428|Rural|
+24604|San Isidro|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|1198|Rural|
+24604|El Poste|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0421|Rural|
+24604|San Juan Bautista Sahcabchén|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0422|Rural|
+24604|Santa Fe|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|1268|Rural|
+24604|Crucero San Luis|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0427|Rural|
+24605|Xcupil|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0429|Rural|
+24606|Santa Rita Becanchen|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0430|Rural|
+24607|Komchén|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0431|Rural|
+24609|Pakchén|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0432|Rural|
+24610|Chencoh|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0433|Rural|
+24610|Chun-Ek|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0434|Rural|
+24611|Dzibalchén|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0435|Rural|
+24612|Francisco J. Mújica (Los Ucán)|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0457|Rural|
+24612|Huechil|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0437|Rural|
+24612|Cancabchén|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0436|Rural|
+24613|Chunchintok|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0438|Rural|
+24615|Ukum|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0439|Rural|
+24620|Xcanahaltún Huechil Unidos|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0441|Rural|
+24620|Bolonchen de Rejón|Villa|Hopelchén|Campeche||24001|04|24001||32|006|0440|Rural|
+24620|Katab|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|1122|Rural|
+24622|Chuncedro|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0476|Rural|
+24622|Chunhuaymil|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0442|Rural|
+24622|Xculoc|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0477|Rural|
+24622|Chunyaxnic|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0443|Rural|
+24622|San Antonio Yaxché|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0444|Rural|
+24622|Campo Menonita|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|1199|Rural|
+24660|Vicente Guerrero (Iturbide)|Pueblo|Hopelchén|Campeche||24001|04|24001||28|006|0458|Rural|
+24663|Ramón Corona|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0459|Rural|
+24665|Pachuitz|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0460|Rural|
+24667|X-Canhá|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0461|Rural|
+24667|Chanyaxché|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|1123|Rural|
+24668|Chan-Chen|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0462|Rural|
+24670|Xmabén|Ranchería|Hopelchén|Campeche||24001|04|24001||29|006|0463|Rural|
+24678|Xmejía|Ejido|Hopelchén|Campeche||24001|04|24001||15|006|0464|Rural|

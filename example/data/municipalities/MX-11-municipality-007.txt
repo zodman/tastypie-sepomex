@@ -1,0 +1,365 @@
+38000|Celaya Centro|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2375|Urbano|03
+38009|Palas Atenea|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2378|Urbano|03
+38010|FOVISSSTE|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2381|Urbano|03
+38010|Del Parque|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2385|Urbano|03
+38010|San Antonio|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2389|Urbano|03
+38010|Lindavista|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2383|Urbano|03
+38010|San Martín de Camargo|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2390|Urbano|03
+38010|Nuevo Tecnológico|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4504|Urbano|03
+38010|México|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2384|Urbano|03
+38010|Canal de Camargo|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3581|Urbano|03
+38010|Las Brisas|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|3615|Urbano|03
+38010|Ciudad Industrial|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2380|Urbano|03
+38010|San Andrés|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2388|Urbano|03
+38010|Santa María|Residencial|Celaya|Guanajuato|Celaya|38001|11|38001||30|007|5075|Urbano|03
+38010|Alfredo Vázquez Bonfil|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2379|Urbano|03
+38010|Guanajuato|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2382|Urbano|03
+38010|Industriales|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3605|Urbano|03
+38010|Puertas de Santa María|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5290|Urbano|03
+38010|Residencial Tecnológico|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2387|Urbano|03
+38010|Quinta Santa María|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3630|Urbano|03
+38010|Real de Celaya|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4493|Urbano|03
+38010|Valle Hermoso|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2391|Urbano|03
+38013|El Campanario|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3590|Urbano|03
+38013|Álamo Country Club|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4441|Urbano|03
+38013|Hacienda del Sol|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3602|Urbano|03
+38013|Valle Naranjos|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3648|Urbano|03
+38013|San Gabriel|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3640|Urbano|03
+38013|Rinconada del Bosque|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4498|Urbano|03
+38013|Virgen del Refugio|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4503|Urbano|03
+38013|Las Casas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3616|Urbano|03
+38013|Los Naranjos|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3618|Urbano|03
+38013|Reforma|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3633|Urbano|03
+38013|El Atrio|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5079|Urbano|03
+38014|Las Américas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2392|Urbano|03
+38014|Américas del Bajío|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2393|Urbano|03
+38015|Excelaris|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2394|Urbano|03
+38016|Privada del Pedregal|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|0013|Urbano|03
+38016|Don Gu|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2396|Urbano|03
+38016|Valle de los Naranjos III Sección|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4484|Urbano|03
+38016|Latinoamericana|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2398|Urbano|03
+38016|Raquet Club Cross|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2399|Urbano|03
+38016|15 de Mayo|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3577|Urbano|03
+38016|Galaxias del Parque|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5078|Urbano|03
+38016|Villas de La Hacienda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3655|Urbano|03
+38016|Villas del Bajío|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5080|Urbano|03
+38016|Privada el Sauz|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5489|Urbano|03
+38016|Zona de Oro del Bajío|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2400|Urbano|03
+38016|Calesa|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4443|Urbano|03
+38016|Valle de los Naranjos II Sección|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4485|Urbano|03
+38016|La Misión|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2397|Urbano|03
+38016|Villa Arbolada|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4486|Urbano|03
+38016|Las Praderas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4500|Urbano|03
+38016|Geo Villas Los Sauces|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5081|Urbano|03
+38017|Canal de Labradores|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2401|Rural|03
+38017|Lázaro Cárdenas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2405|Urbano|03
+38017|Las Aves|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3614|Urbano|03
+38017|Guadalupe|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2403|Urbano|03
+38017|El Paraíso de los Ángeles|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3595|Urbano|03
+38017|La Arbolada Celaya|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|0016|Urbano|03
+38017|Ciudadela|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2402|Urbano|03
+38017|Dos Plazas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4494|Urbano|03
+38017|Tahi|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4495|Urbano|03
+38018|Praderas de Santa Lucía|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5539|Urbano|03
+38018|Porta Maggiore|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5071|Urbano|03
+38018|La Campiña|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5072|Urbano|03
+38018|Gran Clase|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5073|Urbano|03
+38018|Praderas de Santa Julia|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|0006|Urbano|03
+38018|10 de Abril|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2406|Urbano|03
+38019|Praderas de La Hacienda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2407|Urbano|03
+38019|Praderas de La Palmita|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2408|Urbano|03
+38020|Providencia|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2416|Urbano|03
+38020|Rinconada Laureles|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3638|Urbano|03
+38020|Residencial Xochipilli|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4447|Urbano|03
+38020|Conjunto Habitacional Girasoles|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2411|Urbano|03
+38020|Residencial Santiago|Residencial|Celaya|Guanajuato|Celaya|38001|11|38001||30|007|0002|Urbano|03
+38020|Bugambilias|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2409|Urbano|03
+38020|Valle de los Girasoles|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2418|Urbano|03
+38020|El Panamericano|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3594|Urbano|03
+38020|Hidalgo|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3603|Urbano|03
+38020|La Aurora|Condominio|Celaya|Guanajuato|Celaya|38001|11|38001||10|007|2410|Urbano|03
+38020|Los Laureles 1a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2414|Urbano|03
+38020|Los Laureles 2a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2415|Urbano|03
+38020|Santa Anita|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2417|Urbano|03
+38020|Residencial Paraíso|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3636|Urbano|03
+38020|San Juanico|Hacienda|Celaya|Guanajuato|Celaya|38001|11|38001||24|007|3643|Urbano|03
+38020|Valle Residencial|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3649|Urbano|03
+38023|Zona de Oro|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2421|Urbano|03
+38024|Villa de los Álamos|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|0005|Urbano|03
+38024|Santa Cecilia|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|4334|Urbano|03
+38024|Misión de los Álamos|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4445|Urbano|03
+38024|Valle del Real|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2424|Urbano|03
+38024|Casa Blanca|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2422|Rural|03
+38024|Álamos 3a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3579|Urbano|03
+38024|Álamos 5a Sección|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4442|Urbano|03
+38024|Rinconada Los Álamos|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5085|Urbano|03
+38024|Paseo de los Álamos|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3624|Urbano|03
+38027|Los Sauces|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2425|Urbano|03
+38027|El Pueblito de San Ángel|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3596|Urbano|03
+38027|Villas San Ángel|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|2429|Urbano|03
+38027|San Juanico 2a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2428|Urbano|03
+38027|Nuevo Celaya|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2426|Urbano|03
+38027|San Juanico 1a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2427|Urbano|03
+38028|El Haba|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3592|Urbano|03
+38028|Del Bosque|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2430|Urbano|03
+38028|Hacienda del Bosque|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|5082|Urbano|
+38028|Los Pinos|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2431|Urbano|03
+38028|Imperial|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3604|Urbano|03
+38028|La Cruz|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3608|Urbano|03
+38028|Villas de La Esperanza|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3654|Urbano|03
+38028|La Esperanza|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3609|Urbano|03
+38030|Recursos Hidráulicos|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2435|Urbano|03
+38030|Monte de Camargo|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2434|Urbano|03
+38030|Tierra y Libertad|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4448|Urbano|03
+38030|Emiliano Zapata|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2433|Urbano|03
+38030|Emiliano Zapata Norte|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3599|Urbano|03
+38030|Benito Juárez|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2432|Urbano|03
+38033|Bosques de la Alameda|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2436|Urbano|03
+38033|El Sillar|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|3597|Urbano|03
+38033|López Portillo|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2438|Urbano|03
+38033|Praderas del Bosque|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3626|Urbano|03
+38033|La Favorita|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2437|Urbano|03
+38033|Emiliano Zapata Sur|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3600|Urbano|03
+38033|Villas Vicenza|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|0001|Urbano|03
+38034|Los Tules|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3619|Urbano|03
+38034|Cuauhtémoc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2439|Urbano|03
+38034|Villas Reales|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3658|Urbano|03
+38034|Villas de Benavente|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3652|Urbano|03
+38035|Emiliano Zapata|Ampliación|Celaya|Guanajuato|Celaya|38001|11|38001||38|007|3598|Urbano|03
+38035|Puertas del Sol|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|5482|Urbano|03
+38035|Gobernadores|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2440|Urbano|03
+38035|Misión Santa Fe|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4446|Urbano|03
+38035|Los Santos|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4501|Urbano|03
+38035|Parque Verde|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5540|Urbano|03
+38035|Moctezuma|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2441|Rural|03
+38035|Nat Tha Hi|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3623|Urbano|03
+38035|La Rinconada de San Miguel|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3611|Urbano|03
+38035|Villas del Benavente II|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4490|Urbano|03
+38035|Santa Rita|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2442|Urbano|03
+38035|Brisas del Carmen|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4506|Urbano|03
+38035|Villa Jardín|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4502|Urbano|03
+38036|Viñas de La Herradura|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4491|Urbano|03
+38036|Misión de La Esperanza|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4505|Urbano|03
+38036|Los Pirules|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4492|Urbano|03
+38036|La Herradura|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2443|Urbano|03
+38037|Los Olivos Residencial|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|6327|Urbano|03
+38037|Juan Pablo II|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|5076|Urbano|03
+38040|Villas del Paraíso|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2448|Urbano|03
+38040|La Joya|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2444|Urbano|03
+38040|La Capilla|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3606|Urbano|03
+38040|Los Ángeles|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2446|Urbano|03
+38040|Las Fuentes|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2445|Urbano|03
+38040|Santa Anita|Exhacienda|Celaya|Guanajuato|Celaya|38001|11|38001||18|007|2447|Urbano|03
+38044|Renacimiento|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2449|Urbano|03
+38046|Los Impresionistas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2451|Urbano|03
+38046|Santo Cristo|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2452|Urbano|03
+38046|Granada|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2450|Urbano|03
+38047|Santiaguito|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2454|Urbano|03
+38048|Del Valle|Residencial|Celaya|Guanajuato|Celaya|38001|11|38001||30|007|2455|Urbano|03
+38048|Tierras Negras|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2457|Urbano|03
+38048|San Antonio|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2456|Urbano|03
+38049|Socialista|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2458|Urbano|03
+38050|Los Pirules|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|2461|Urbano|03
+38050|Los Veintes|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2462|Urbano|03
+38050|Mediterráneo|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2463|Urbano|03
+38050|Zempoala|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3659|Urbano|03
+38050|Parque Central|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2464|Urbano|03
+38050|Residencial Alameda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2465|Urbano|03
+38050|Villa de los Reyes|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2466|Urbano|03
+38050|Las Palmas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2460|Urbano|03
+38050|Alameda|Residencial|Celaya|Guanajuato|Celaya|38001|11|38001||30|007|2459|Urbano|03
+38057|Arcada Alameda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2467|Urbano|03
+38057|Los Portones|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5092|Urbano|03
+38057|El Zapote|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2468|Urbano|03
+38057|Karina|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|2469|Urbano|03
+38057|Las Alamedas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5093|Urbano|03
+38060|Bosques de Chapultepec|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2470|Urbano|03
+38060|Residencial|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2476|Urbano|03
+38060|Suiza|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2478|Urbano|03
+38060|Rosalinda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2477|Urbano|03
+38060|Quinta Bugambilias|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3629|Urbano|03
+38060|Claustros de Arboledas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|0010|Urbano|03
+38060|Las Arboledas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2472|Urbano|03
+38060|Los Lagos|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2475|Urbano|03
+38060|Miguel Alemán|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|3621|Urbano|03
+38060|Arboledas de San Rafael|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5087|Urbano|03
+38060|IMSS|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|2471|Urbano|03
+38060|Real de Arboledas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5086|Urbano|03
+38063|Portones de la Hacienda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|0009|Urbano|03
+38065|San Juan|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2481|Urbano|03
+38065|Esmeralda|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2480|Urbano|03
+38067|Enrique Colunga|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2482|Urbano|03
+38068|San Miguel|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2483|Urbano|03
+38070|Jardines del Centro|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4499|Urbano|03
+38070|San Juan de Dios|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2485|Urbano|03
+38070|San Miguel|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|3644|Urbano|03
+38070|El Olivar|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2484|Urbano|03
+38070|Emeteria Valencia|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2486|Urbano|03
+38070|Villas del Rocío|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2487|Urbano|03
+38078|El Vergel|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2490|Urbano|03
+38078|Quinta Boulevard|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3628|Urbano|03
+38078|Paseo Floresta|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|3625|Urbano|03
+38078|Villas de Celaya|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|3653|Urbano|03
+38078|Villas Quetzal|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|3657|Urbano|03
+38079|Resurrección|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|2494|Urbano|03
+38079|Resurrección|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2493|Urbano|03
+38079|El Molino|Conjunto habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||12|007|3593|Urbano|03
+38079|Capitales de Europa|Unidad habitacional|Celaya|Guanajuato|Celaya|38001|11|38001||31|007|3583|Urbano|03
+38079|La Aurora|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2492|Urbano|03
+38079|El Dorado|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2491|Urbano|03
+38080|Riveras del Campestre|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4489|Urbano|03
+38080|Campestre Celaya|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4462|Urbano|03
+38080|Las Delicias|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2499|Urbano|03
+38080|Jardines del Sur|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2498|Urbano|03
+38080|3 Guerras|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2503|Urbano|03
+38080|Jardines de Celaya 2a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2496|Urbano|03
+38080|Jardines de Celaya 3a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2497|Urbano|03
+38080|Jardines de Celaya 1a Secc|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2495|Urbano|03
+38080|Palma Real|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5095|Urbano|03
+38080|Las Insurgentes|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2500|Urbano|03
+38080|Obrero Mundial|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2502|Urbano|03
+38080|Villas del Tenis|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2504|Urbano|03
+38080|Arboledas del Campestre|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4488|Urbano|03
+38080|El Campanario Residencial|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5091|Urbano|03
+38083|La Condesa|Residencial|Celaya|Guanajuato|Celaya|38001|11|38001||30|007|3607|Urbano|03
+38085|Del Bosque|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2505|Urbano|03
+38085|Progreso Solidaridad|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3627|Urbano|03
+38085|Jardines del Malecón|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5090|Urbano|03
+38085|San José de Torres|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3642|Urbano|03
+38088|Paseos del Campestre|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2507|Urbano|03
+38088|Villa de Celaya|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3651|Urbano|03
+38088|Las Carretas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|0007|Urbano|03
+38088|Praderas del Campestre|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2508|Urbano|03
+38088|Las Compuertas del Campestre|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5094|Urbano|03
+38089|La Fundación|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2509|Urbano|03
+38089|Santa Teresa|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2510|Urbano|03
+38090|Arboledas del Pedregal|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2511|Urbano|03
+38090|La Soledad|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2516|Urbano|03
+38090|Los Frailes|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2513|Urbano|03
+38090|Reforma|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3632|Urbano|03
+38090|Las Flores|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2517|Urbano|03
+38090|Santa Isabel|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2519|Urbano|03
+38090|Santa María|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2520|Urbano|03
+38090|Bonanza|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|3580|Urbano|03
+38090|Residencial Las Margaritas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|0012|Urbano|03
+38090|Floresta del Sur|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2512|Urbano|03
+38090|José Suárez Irigoyen|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2515|Urbano|03
+38090|Jacarandas|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2514|Urbano|03
+38090|Tierra Blanca|Barrio|Celaya|Guanajuato|Celaya|38001|11|38001||02|007|3646|Urbano|03
+38090|Santa Bárbara|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2518|Urbano|03
+38090|Rinconada San Jorge|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|4497|Urbano|03
+38095|Villas del Romeral|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2522|Urbano|03
+38095|Los Arrayanes|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5089|Urbano|03
+38096|Santa Cecilia|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2525|Urbano|03
+38096|Villa de Los Arcos|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5088|Urbano|03
+38096|Revolución|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2524|Urbano|03
+38096|Independencia|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2523|Urbano|03
+38097|El Cantar|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3591|Urbano|03
+38097|Bosques del Sol|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2526|Urbano|03
+38097|San Francisco|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2527|Urbano|03
+38097|La Toscana Residencial|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|5538|Urbano|03
+38097|Santa Lucia|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|4496|Urbano|03
+38098|Ejidal|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2529|Urbano|03
+38098|Quinta Arboledas|Fraccionamiento|Celaya|Guanajuato|Celaya|38001|11|38001||21|007|2530|Urbano|03
+38098|Valle de La Primavera|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3647|Urbano|03
+38099|Felipe Ángeles|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|3601|Urbano|03
+38099|Monte Blanco|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2531|Urbano|03
+38099|San Rafael|Colonia|Celaya|Guanajuato|Celaya|38001|11|38001||09|007|2532|Urbano|03
+38100|San Antonio de Gallardo|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|0015|Urbano|
+38100|La Aurora|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|0014|Urbano|
+38100|San Juan de La Vega|Pueblo|Celaya|Guanajuato||38001|11|38001||28|007|2533|Urbano|
+38104|San Isidro de la Concepción|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2540|Rural|
+38104|Presa Blanca|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2538|Rural|
+38105|San Nicolás Esquiros|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2536|Rural|
+38105|Los Tres Puentes|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6604|Rural|
+38106|San Elías|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2535|Rural|
+38106|San Antonio Espinosa|Hacienda|Celaya|Guanajuato||38001|11|38001||24|007|2539|Rural|
+38106|Santa Teresa|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2537|Rural|
+38107|San José de Mendoza|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2562|Rural|
+38110|Gasca|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2544|Rural|
+38110|San José de Guanajuato|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2549|Rural|
+38110|Segunda Fracción de Crespo|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2550|Rural|
+38110|San Isidro de Elguera|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2548|Rural|
+38110|Yustis (San José de Yustis)|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2551|Rural|
+38110|Roque (ITA)|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6624|Rural|
+38110|El Molino|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2541|Rural|
+38110|Roque|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|2546|Urbano|
+38110|La Esperanza de Yustis (Los Martínez)|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6603|Rural|
+38114|Puerta del Monte (Elguera)|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2542|Rural|
+38115|Estrada|Hacienda|Celaya|Guanajuato||38001|11|38001||24|007|2543|Rural|
+38115|Patria Nueva|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|6596|Rural|
+38115|Gran Hacienda|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|6602|Rural|
+38115|Tecnológico de Monterrey|Equipamiento|Celaya|Guanajuato||38001|11|38001||17|007|6628|Rural|
+38115|Las Huertas|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|0003|Rural|
+38115|Haciendas Natura|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|0008|Urbano|
+38115|Pedro María Anaya|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|6597|Rural|
+38115|Los Mezquites|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|5470|Rural|
+38115|Tenería de Valdez|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6629|Rural|
+38115|Residencial Puerta de Piedra|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|0011|Rural|
+38115|Camino Real|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|5084|Rural|
+38115|La Cantera|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|5330|Rural|
+38115|CEDEI|Equipamiento|Celaya|Guanajuato||38001|11|38001||17|007|6590|Rural|
+38115|Parque Tabachines|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|6599|Rural|
+38116|Universidad de Guanajuato|Equipamiento|Celaya|Guanajuato||38001|11|38001||17|007|6630|Rural|
+38116|Primera Fracción de Crespo (El Tanque)|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2545|Rural|
+38116|La Trinidad|Granja|Celaya|Guanajuato||38001|11|38001||23|007|2552|Rural|
+38116|Santa María|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2578|Rural|
+38116|La Palmita (La Palmita de San Gabriel)|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2557|Rural|
+38116|Residencial Campo Azúl|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|5537|Rural|
+38117|Segunda Fracción de Crespo (Alto del Parral)|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6627|Rural|
+38117|El Puente|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|6593|Rural|
+38117|El Becerro (Santos Degollado)|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|2555|Urbano|
+38118|El Álamo|Club de golf|Celaya|Guanajuato||38001|11|38001||39|007|2556|Rural|
+38119|Celaya [Aeropuerto]|Aeropuerto|Celaya|Guanajuato||38001|11|38001||01|007|6592|Rural|
+38120|Tenería del Santuario|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2560|Rural|
+38120|Camargo|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2558|Rural|
+38120|Plancarte|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2559|Rural|
+38123|San Cayetano|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2563|Rural|
+38123|La Concepción|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2561|Rural|
+38126|Ninguno [La Ladrillera]|Equipamiento|Celaya|Guanajuato||38001|11|38001||17|007|6618|Rural|
+38126|Ejido de Silva (San Isidro)|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2553|Rural|
+38126|San Rafael de Yustis (Loretío)|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6626|Rural|
+38127|Quinta Santa María|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|6623|Rural|
+38127|San Luis Rey|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2564|Rural|
+38130|San Miguel Octopan|Pueblo|Celaya|Guanajuato||38001|11|38001||28|007|2567|Rural|
+38133|Los Galvanes|Hacienda|Celaya|Guanajuato||38001|11|38001||24|007|2568|Rural|
+38133|Los Capulines|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2569|Rural|
+38135|Jáuregui|Hacienda|Celaya|Guanajuato||38001|11|38001||24|007|2570|Rural|
+38136|La Laja|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2565|Rural|
+38136|Luis Donaldo Colosio|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|6595|Rural|
+38136|San Lorenzo|Fraccionamiento|Celaya|Guanajuato||38001|11|38001||21|007|5096|Rural|
+38137|Santa Rita|Hacienda|Celaya|Guanajuato||38001|11|38001||24|007|2571|Rural|
+38137|San José de la Presa|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|6625|Rural|
+38140|La Cruz|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2573|Rural|
+38140|Rancho Seco|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2575|Rural|
+38140|El Puesto|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2572|Rural|
+38140|Santa María del Refugio|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2577|Rural|
+38140|La Luz|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2574|Rural|
+38140|San Francisco|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|6598|Rural|
+38140|Jofre|Hacienda|Celaya|Guanajuato||38001|11|38001||24|007|2582|Rural|
+38140|Las Granjas|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|6594|Rural|
+38143|San Isidro de Trojes|Colonia|Celaya|Guanajuato||38001|11|38001||09|007|2566|Rural|
+38144|Arreguín de Abajo|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2579|Rural|
+38144|Santa Anita|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2584|Rural|
+38144|La Granja|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|4617|Rural|
+38144|Michenelas|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2581|Rural|
+38144|Los Mancera|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2583|Rural|
+38145|San Lorenzo|Congregación|Celaya|Guanajuato||38001|11|38001||11|007|2585|Rural|
+38146|Juan Martín|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2586|Rural|
+38146|La Máquina|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2580|Rural|
+38146|Celanese [Parque Industrial]|Parque industrial|Celaya|Guanajuato||38001|11|38001||26|007|6591|Rural|
+38147|La Machuca|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2587|Rural|
+38147|San José el Nuevo|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2576|Rural|
+38150|Rincón de Tamayo Centro|Colonia|Celaya|Guanajuato|Rincón de Tamayo|38151|11|38151||09|007|2591|Rural|25
+38152|La Cruz|Colonia|Celaya|Guanajuato|Rincón de Tamayo|38151|11|38151||09|007|3944|Rural|25
+38152|Arroyo|Colonia|Celaya|Guanajuato|Rincón de Tamayo|38151|11|38151||09|007|3948|Rural|25
+38153|San Juan|Colonia|Celaya|Guanajuato|Rincón de Tamayo|38151|11|38151||09|007|3947|Rural|25
+38154|San Marcos|Colonia|Celaya|Guanajuato|Rincón de Tamayo|38151|11|38151||09|007|3946|Rural|25
+38155|La Resurrección|Colonia|Celaya|Guanajuato|Rincón de Tamayo|38151|11|38151||09|007|3945|Rural|25
+38156|Canoas (Congregación de Canoas)|Congregación|Celaya|Guanajuato||38001|11|38001||11|007|2589|Rural|
+38157|Los Huesos|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2590|Rural|
+38157|San Francisco|Exhacienda|Celaya|Guanajuato||38001|11|38001||18|007|2528|Rural|
+38157|Santa Rosa de Lima|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2592|Rural|
+38158|Bajío [Ferropuerto]|Poblado comunal|Celaya|Guanajuato||38001|11|38001||27|007|5542|Rural|
+38158|Ojo Seco|Ranchería|Celaya|Guanajuato||38001|11|38001||29|007|2594|Rural|
+38159|El Sauz (El Sauz de Villaseñor)|Ejido|Celaya|Guanajuato||38001|11|38001||15|007|2588|Rural|

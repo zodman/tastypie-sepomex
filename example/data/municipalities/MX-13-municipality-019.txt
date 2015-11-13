@@ -1,0 +1,28 @@
+42750|El Zapote|Colonia|Chilcuautla|Hidalgo||42731|13|42731||09|019|4557|Urbano|
+42750|Álamos Dontzhi|Colonia|Chilcuautla|Hidalgo||42731|13|42731||09|019|4555|Urbano|
+42750|Pedregalito|Colonia|Chilcuautla|Hidalgo||42731|13|42731||09|019|4559|Urbano|
+42750|El Xithey|Colonia|Chilcuautla|Hidalgo||42731|13|42731||09|019|4556|Urbano|
+42750|El Cerrito|Colonia|Chilcuautla|Hidalgo||42731|13|42731||09|019|4558|Urbano|
+42750|Chilcuautla Centro|Colonia|Chilcuautla|Hidalgo||42731|13|42731||09|019|0755|Urbano|
+42752|Tunititlán|Pueblo|Chilcuautla|Hidalgo||42731|13|42731||28|019|0760|Rural|
+42752|El Tandhe|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4551|Rural|
+42752|Texcatepec|Pueblo|Chilcuautla|Hidalgo||42731|13|42731||28|019|0762|Rural|
+42752|El Padhe|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4543|Rural|
+42753|El Sabino|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4550|Rural|
+42753|El Gallinero|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4547|Rural|
+42753|Huitexcalco de Morelos|Pueblo|Chilcuautla|Hidalgo||42731|13|42731||28|019|0763|Rural|
+42755|Zacualoya|Barrio|Chilcuautla|Hidalgo||42731|13|42731||02|019|0765|Rural|
+42755|El Dadhó|Barrio|Chilcuautla|Hidalgo||42731|13|42731||02|019|0756|Rural|
+42755|Cerro del Corazón (El Muí)|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4546|Rural|
+42755|Boxaxni|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4552|Rural|
+42755|Llano Primero|Poblado comunal|Chilcuautla|Hidalgo||42731|13|42731||27|019|4554|Rural|
+42755|La Loma|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4548|Rural|
+42755|Cerro Colorado|Poblado comunal|Chilcuautla|Hidalgo||42731|13|42731||27|019|4545|Rural|
+42755|El Deca|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4553|Rural|
+42757|Santa Ana Batha|Barrio|Chilcuautla|Hidalgo||42731|13|42731||02|019|0758|Rural|
+42757|El Mejay|Barrio|Chilcuautla|Hidalgo||42731|13|42731||02|019|0757|Rural|
+42757|La Estancia|Barrio|Chilcuautla|Hidalgo||42731|13|42731||02|019|0767|Rural|
+42757|El Xothí|Poblado comunal|Chilcuautla|Hidalgo||42731|13|42731||27|019|4544|Rural|
+42757|Tlacotlapilco|Pueblo|Chilcuautla|Hidalgo||42731|13|42731||28|019|0759|Rural|
+42757|El Bethí|Barrio|Chilcuautla|Hidalgo||42731|13|42731||02|019|0766|Rural|
+42757|Piletas|Ranchería|Chilcuautla|Hidalgo||42731|13|42731||29|019|4549|Rural|

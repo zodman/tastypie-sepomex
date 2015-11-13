@@ -1,0 +1,33 @@
+61410|La Mina|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0007|Urbano|
+61410|Carrillos|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0002|Urbano|
+61410|Catingon|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0003|Urbano|
+61410|San Pedro|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0012|Urbano|
+61410|Morelos|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0009|Urbano|
+61410|Pareceres|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0010|Urbano|
+61410|Las Mesas|Barrio|Angangueo|Michoacán de Ocampo||61501|16|61501||02|005|0001|Urbano|
+61410|Mineral de Angangueo|Pueblo|Angangueo|Michoacán de Ocampo||61501|16|61501||28|005|2364|Urbano|
+61410|La Estación|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|2365|Urbano|
+61410|Las Colonias|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0008|Urbano|
+61410|San Marcial|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0011|Urbano|
+61410|El Monumento|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0004|Urbano|
+61410|El Rescate|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0005|Urbano|
+61410|Sustentable|Barrio|Angangueo|Michoacán de Ocampo||61501|16|61501||02|005|0023|Urbano|
+61410|El Sauz|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|0006|Urbano|
+61413|La Salud|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|2368|Rural|
+61413|Barrio de San Pedro|Rancho|Angangueo|Michoacán de Ocampo||61501|16|61501||48|005|0013|Rural|
+61413|El Tigre (Nueva Comunidad el Tigre)|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0017|Rural|
+61413|Cerro del Melón|Rancho|Angangueo|Michoacán de Ocampo||61501|16|61501||48|005|0014|Rural|
+61414|San Antonio|Pueblo|Angangueo|Michoacán de Ocampo||61501|16|61501||28|005|4001|Rural|
+61414|Manzana de la Trinidad (La Junta)|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0019|Rural|
+61414|El Puerto|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0024|Rural|
+61415|Independencia|Colonia|Angangueo|Michoacán de Ocampo||61501|16|61501||09|005|2366|Rural|
+61415|Ampliación Nueva el Pedregal|Rancho|Angangueo|Michoacán de Ocampo||61501|16|61501||48|005|0025|Rural|
+61415|La Calera|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0026|Rural|
+61415|La Rondanilla (Primer Cuartel)|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|2367|Rural|
+61415|Jesús de Nazareno (La Hacienda)|Hacienda|Angangueo|Michoacán de Ocampo||61501|16|61501||24|005|2369|Rural|
+61416|Primera Manzana de Nicolás Romero (Los Mimbres)|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0020|Rural|
+61416|Segunda Manzana de Nicolás Romero (Cañada del Muer|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0021|Rural|
+61416|Segundo Cuartel de Rondanilla|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0022|Rural|
+61417|El Llano de las Papas|Rancho|Angangueo|Michoacán de Ocampo||61501|16|61501||48|005|0016|Rural|
+61417|Dolores|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0015|Rural|
+61417|Las Jaras|Ranchería|Angangueo|Michoacán de Ocampo||61501|16|61501||29|005|0018|Rural|

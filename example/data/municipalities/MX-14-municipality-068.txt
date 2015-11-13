@@ -1,0 +1,84 @@
+48800|Villa Purificacion|Pueblo|Villa Purificación|Jalisco||48931|14|48931||28|068|2703|Rural|
+48800|La Quinta|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5913|Urbano|
+48800|2 de Febrero|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5905|Urbano|
+48802|Benito Juárez|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5906|Urbano|
+48802|Provincia|Fraccionamiento|Villa Purificación|Jalisco||48931|14|48931||21|068|5909|Urbano|
+48802|Juan Fernández de Hijar|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5911|Urbano|
+48802|Jardines San Roque|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5910|Urbano|
+48802|Ejido Purificación|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5907|Urbano|
+48802|Excuchimilco|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5908|Urbano|
+48802|La Morena|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5912|Urbano|
+48802|Reforma|Colonia|Villa Purificación|Jalisco||48931|14|48931||09|068|5914|Urbano|
+48803|Rancho Dos Hermanos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5963|Rural|
+48804|El Conejito|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5925|Rural|
+48804|Arroyo Zarco|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5916|Rural|
+48805|Estancia de Amborín|Hacienda|Villa Purificación|Jalisco||48931|14|48931||24|068|2705|Rural|
+48806|El Pantano (San Francisco los Guajolotes)|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5934|Rural|
+48806|Las Vallas|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5951|Rural|
+48815|Los Achotes|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2707|Rural|
+48815|San Miguel|Congregación|Villa Purificación|Jalisco||48931|14|48931||11|068|2715|Rural|
+48815|Paso Real|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4439|Rural|
+48815|Villa Vieja (Ex-Hacienda Villa Vieja)|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4438|Rural|
+48815|Rancho Nuevo|Congregación|Villa Purificación|Jalisco||48931|14|48931||11|068|5965|Rural|
+48816|El Jengibre|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5930|Rural|
+48816|Espinos de Judío|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2706|Rural|
+48816|Casas Altas|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5918|Rural|
+48820|Las Guásimas|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5949|Rural|
+48820|Telpitita|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4440|Rural|
+48820|El Chino|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5924|Rural|
+48820|Tepeguaje|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2709|Rural|
+48820|Tene|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5967|Rural|
+48820|Paso del Tene|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5960|Rural|
+48820|Los Cimientos|Poblado comunal|Villa Purificación|Jalisco||48931|14|48931||27|068|5953|Rural|
+48823|El Divisadero|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5927|Rural|
+48823|Paso Hondo|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5961|Rural|
+48824|Llano del Oro|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4441|Rural|
+48824|Lagunillas|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5947|Rural|
+48825|La Eca|Granja|Villa Purificación|Jalisco||48931|14|48931||23|068|2710|Rural|
+48825|La Subida Blanca|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5946|Rural|
+48825|Los Pozos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5958|Rural|
+48825|Jirosto|Congregación|Villa Purificación|Jalisco||48931|14|48931||11|068|2708|Rural|
+48826|Espinos de Carreón|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2711|Rural|
+48826|El Manguito|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5933|Rural|
+48826|El Camalote|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5920|Rural|
+48827|Carreón|Poblado comunal|Villa Purificación|Jalisco||48931|14|48931||27|068|5917|Rural|
+48827|Mezcales|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2713|Rural|
+48827|El Herradero|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5929|Rural|
+48830|Pabelo|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2712|Rural|
+48830|Plaza de Gallos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5962|Rural|
+48833|La Nancita|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5945|Rural|
+48833|La Atalaya|Poblado comunal|Villa Purificación|Jalisco||48931|14|48931||27|068|5941|Rural|
+48835|La Huerta del Carrizo|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5944|Rural|
+48835|Alcihuatl|Hacienda|Villa Purificación|Jalisco||48931|14|48931||24|068|2714|Rural|
+48836|El Limoncito|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5931|Rural|
+48836|El Carrizal|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5923|Rural|
+48836|El Plan de los Plátanos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5936|Rural|
+48837|El Criadero|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5926|Rural|
+48837|El Platanar|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5937|Rural|
+48837|El Manguito|Poblado comunal|Villa Purificación|Jalisco||48931|14|48931||27|068|5932|Rural|
+48837|Rancho Lejos|Congregación|Villa Purificación|Jalisco||48931|14|48931||11|068|5964|Rural|
+48837|Los Aguacates|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5952|Rural|
+48837|El Platanillo|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5938|Rural|
+48837|El Caracol|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5921|Rural|
+48840|Paso del Guamúchil|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5959|Rural|
+48840|Los Lindos|Poblado comunal|Villa Purificación|Jalisco||48931|14|48931||27|068|5955|Rural|
+48840|Las Guasimitas|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5948|Rural|
+48840|Juan Diego|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5939|Rural|
+48840|Los Ciruelos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5954|Rural|
+48840|Los Llanitos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5956|Rural|
+48843|Los Ocotitos|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5957|Rural|
+48843|El Piñal|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5935|Rural|
+48843|La Anona|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5940|Rural|
+48844|Tezacuale (Carrizalillo)|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5968|Rural|
+48844|El Gondo|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5928|Rural|
+48844|Agua Fría|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5915|Rural|
+48845|Huista|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4442|Rural|
+48845|Jocotlán|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4443|Rural|
+48845|Rancho Nuevo (Los Tecomates)|Congregación|Villa Purificación|Jalisco||48931|14|48931||11|068|5966|Rural|
+48845|Zapotán|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|2716|Rural|
+48845|La Cañada|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5942|Rural|
+48845|Llano del Higo|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|4444|Rural|
+48845|La Cofradía|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5943|Rural|
+48847|Chantecuán|Congregación|Villa Purificación|Jalisco||48931|14|48931||11|068|5919|Rural|
+48847|El Carrizal|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5922|Rural|
+48847|Las Nancitas|Ranchería|Villa Purificación|Jalisco||48931|14|48931||29|068|5950|Rural|

@@ -1,0 +1,34 @@
+61750|La Riveras|Colonia|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||09|059|0002|Urbano|
+61750|Enrique Ramírez|Colonia|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||09|059|0001|Urbano|
+61750|Nuevo Urecho|Pueblo|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||28|059|2687|Urbano|
+61752|El Pinal|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0008|Rural|
+61752|Santa Efigenia|Ejido|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||15|059|2689|Rural|
+61752|Oval (El Uval)|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0018|Rural|
+61752|San Joaquín|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0019|Rural|
+61752|Las Ánimas|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0015|Rural|
+61752|Agua Fría|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0003|Rural|
+61752|El Platanillo|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0009|Rural|
+61752|Los Sabinos|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0017|Rural|
+61753|San Juan|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0020|Rural|
+61753|Villa Eréndira (El Tres)|Congregación|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||11|059|2691|Rural|
+61753|El Tejabán|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0011|Rural|
+61753|La Ibérica (La Gotera)|Pueblo|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||28|059|2686|Rural|
+61754|La Cebadilla (Las Pitas)|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0013|Rural|
+61755|El Salto|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0010|Rural|
+61755|San José del Salto|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|2693|Rural|
+61755|Cacanguio|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0004|Rural|
+61755|El Naranjo|Ejido|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||15|059|2692|Rural|
+61755|Las Trojas (Las Trojes)|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|4818|Rural|
+61756|El Mirador|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|2694|Rural|
+61756|La Guadalupe|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0014|Rural|
+61756|Tierras Coloradas|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0021|Rural|
+61756|Ichachico|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0012|Rural|
+61757|Las Pilas|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0016|Rural|
+61757|Tepenahua|Pueblo|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||28|059|2690|Rural|
+61757|El Capirito|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|0007|Rural|
+61757|El Calvario|Ejido|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||15|059|2695|Rural|
+61757|Chachalaca|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0005|Rural|
+61757|El Arroyo Seco|Rancho|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||48|059|0006|Rural|
+61757|Los Otates|Ranchería|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||29|059|2696|Rural|
+61759|San Vicente|Ejido|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||15|059|2688|Rural|
+61759|Tipítaro|Ejido|Nuevo Urecho|Michoacán de Ocampo||61761|16|61761||15|059|2697|Rural|

@@ -1,0 +1,136 @@
+36300|San Francisco del Rincón Centro|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0204|Semiurbano|10
+36310|Cuauhtémoc|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0207|Semiurbano|10
+36310|Residencial Los Sauces|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0007|Urbano|10
+36310|Loma Alta|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|4038|Urbano|10
+36310|Los Manantiales|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|4040|Urbano|10
+36310|Al Real|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0206|Urbano|10
+36310|Las Palmas|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0011|Urbano|10
+36310|El Paraíso|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0208|Semiurbano|10
+36310|Campestre San Francisco|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|4440|Semiurbano|10
+36310|Real de San Francisco|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|5503|Urbano|10
+36312|Ex Hacienda de Santiago|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|3688|Urbano|10
+36313|Los Reyes|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|4822|Urbano|10
+36313|Lomas del Carmen|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|4618|Urbano|10
+36314|Hacienda de Santiago Occidental|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|5296|Urbano|10
+36315|San Vicente de los Reyes|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0003|Urbano|10
+36320|La Esperanza|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0210|Semiurbano|10
+36320|Lázaro Cárdenas|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0211|Semiurbano|10
+36320|Valle del Oro|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3689|Semiurbano|10
+36320|Niños Héroes|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0212|Semiurbano|10
+36322|INFONAVIT Del Valle|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0213|Urbano|10
+36330|INFONAVIT San Francisco|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0216|Urbano|10
+36330|Los Ángeles|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3690|Semiurbano|10
+36330|Floresta|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0214|Semiurbano|10
+36330|Los Fresnos|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3691|Urbano|10
+36330|Residencial Ruenes|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0215|Semiurbano|10
+36330|Villas Florencia|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|5295|Urbano|10
+36333|Privada del Río|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3692|Urbano|10
+36340|Santiaguito|Barrio|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||02|031|0218|Semiurbano|10
+36340|Villas de San Francisco|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3704|Semiurbano|10
+36342|Juan Pablo II|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0209|Semiurbano|10
+36342|San Antonio|Barrio|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||02|031|0217|Semiurbano|10
+36350|Santa Rita|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0221|Semiurbano|10
+36350|San Carlos|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0220|Semiurbano|10
+36350|Del Valle|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3708|Semiurbano|10
+36350|Jardines de San Francisco|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0219|Urbano|10
+36352|San Miguel|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0224|Semiurbano|10
+36352|Valle del Sol|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0222|Semiurbano|10
+36353|San Miguel|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0226|Semiurbano|10
+36354|La Mezquitera|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3711|Urbano|10
+36360|Residencial San Miguel|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0009|Urbano|10
+36360|Villa Jardines de San Miguel|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|3698|Urbano|10
+36360|Jardines de San Miguel|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|3699|Semiurbano|10
+36360|Vilas del Río|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0010|Urbano|10
+36360|Madriz|Ranchería|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||29|031|3697|Urbano|10
+36360|Villa Jardines de San Miguel|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|6324|Urbano|10
+36360|Renovación|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0223|Semiurbano|10
+36360|La Rivera|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3696|Urbano|10
+36360|Privada Panamá|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0008|Urbano|10
+36361|Nueva Renovación|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0227|Semiurbano|10
+36364|San Pedro del Río|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3695|Urbano|10
+36364|Predio Río de Santiago|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|5375|Urbano|10
+36364|Purísima Concepción|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0229|Semiurbano|10
+36364|Santa Cecilia|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0230|Semiurbano|10
+36364|El Pipila|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0228|Semiurbano|10
+36365|Villas de Guadalupe|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|5394|Urbano|10
+36365|Río Santiago|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3694|Urbano|10
+36365|Guadalupe|Barrio|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||02|031|0278|Semiurbano|10
+36369|Bosques de San Francisco|Residencial|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||30|031|5387|Urbano|10
+36369|Complejo Industrial Rivera del Río|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0231|Semiurbano|10
+36370|Rinconada de las Flores|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|6325|Urbano|10
+36370|Vista Oviedo|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0234|Semiurbano|10
+36370|Residencial Santa Fe|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0232|Semiurbano|10
+36370|Villa del Moral|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0233|Semiurbano|10
+36370|Villas de Las Flores|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|3710|Urbano|10
+36370|La Capellanía|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|4639|Urbano|10
+36370|Residencial del Bosque|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0012|Urbano|10
+36370|Las Torres|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|4640|Urbano|10
+36372|Villas de San Antonio|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3705|Urbano|10
+36372|Las Arboledas|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3706|Semiurbano|10
+36373|García Lorca|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0002|Urbano|10
+36379|Colonial del Valle|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0235|Semiurbano|10
+36380|Hidalgo|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0236|Semiurbano|10
+36380|Morelos|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0237|Semiurbano|10
+36380|Villas del Sur|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|0013|Urbano|10
+36390|El Llano|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0238|Semiurbano|10
+36390|San Miguel Plus|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0240|Semiurbano|10
+36390|Santa María|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|3709|Semiurbano|10
+36390|Monte Verde|Colonia|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||09|031|0239|Semiurbano|10
+36394|Villa Jardín|Fraccionamiento|San Francisco del Rincón|Guanajuato|San Francisco del Rincón|36301|11|36301||21|031|5453|Urbano|10
+36440|San Cristóbal|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0275|Rural|
+36440|La Cruz del Derramadero|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0001|Rural|
+36440|Guadalupe del Mezquitillo|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0273|Rural|
+36440|Jesús del Monte|Congregación|San Francisco del Rincón|Guanajuato||36301|11|36301||11|031|0274|Rural|
+36441|San Francisco|Estación|San Francisco del Rincón|Guanajuato||36301|11|36301||16|031|0277|Rural|
+36441|Francisco|Zona federal|San Francisco del Rincón|Guanajuato||36301|11|36301||34|031|0276|Rural|
+36442|San Germán|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0279|Rural|
+36443|Loma de San Rafael|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0281|Rural|
+36443|San Roque de Montes|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0282|Rural|
+36443|Arroyo Seco|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0280|Rural|
+36444|Los Remedios|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0284|Rural|
+36445|El Tildio|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0285|Rural|
+36445|San Ignacio del Sáuz|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0286|Rural|
+36446|Silva|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0289|Rural|
+36446|Las Aguilillas|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0004|Rural|
+36446|San Bernardo (Vallado de San Pedrito)|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0006|Rural|
+36446|San Roque de Torres|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0288|Rural|
+36446|Villas del Maguey|Fraccionamiento|San Francisco del Rincón|Guanajuato||36301|11|36301||21|031|5360|Rural|
+36446|El Maguey|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0287|Rural|
+36447|El Taray|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0290|Rural|
+36447|San Antonio del Salero|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0292|Rural|
+36447|San Rafael|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0293|Rural|
+36447|El Tomate|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0291|Rural|
+36449|San Cristóbal|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|4758|Rural|
+36449|Nuevo Jesús del Monte|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|4759|Rural|
+36450|La Gloria|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0295|Rural|
+36450|San Isidro|Hacienda|San Francisco del Rincón|Guanajuato||36301|11|36301||24|031|0299|Rural|
+36450|San Ignacio de Peñuelas|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0298|Rural|
+36450|El Nacimiento|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0294|Rural|
+36450|Rancho Grande|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0297|Rural|
+36450|Sáuz de Armenta|Hacienda|San Francisco del Rincón|Guanajuato||36301|11|36301||24|031|0300|Rural|
+36450|Peñuelas|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0296|Rural|
+36452|Las Tortugas|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0302|Rural|
+36452|El Centro|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0301|Rural|
+36452|El Mogote|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|5292|Rural|
+36453|Mexiquito|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0005|Rural|
+36454|Jaralillo|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0303|Rural|
+36455|Charco Prieto|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0304|Rural|
+36456|Jalapa|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0306|Rural|
+36456|El Panal|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0305|Rural|
+36457|La Luz del Varal|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|5293|Rural|
+36457|El Junco|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0307|Rural|
+36458|El Reparo|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0308|Rural|
+36458|Salto de Abajo|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0309|Rural|
+36459|El Tejocote|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0310|Rural|
+36459|Muralla del Cadillal|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0311|Rural|
+36460|El Desagüe|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0312|Rural|
+36460|Nuevo Jesús del Monte|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0313|Rural|
+36463|Mezquitillo|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0314|Rural|
+36463|Tanques del Mezquitillo|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|5291|Rural|
+36465|San José de La Calera|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0315|Rural|
+36467|Plan Libertador|Ejido|San Francisco del Rincón|Guanajuato||36301|11|36301||15|031|0316|Rural|
+36468|Santa Rita|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0320|Rural|
+36468|Puerta de Santa Rita|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0319|Rural|
+36468|Muralla de Jesús del Monte|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0318|Rural|
+36468|California|Hacienda|San Francisco del Rincón|Guanajuato||36301|11|36301||24|031|0317|Rural|
+36469|El Lindero|Ranchería|San Francisco del Rincón|Guanajuato||36301|11|36301||29|031|0321|Rural|

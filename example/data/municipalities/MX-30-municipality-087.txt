@@ -1,0 +1,384 @@
+91000|Xalapa Enríquez Centro|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0001|Urbano|10
+91008|Oficina Federal de Hacienda|Gran usuario|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||22|087|0004|Urbano|10
+91009|Palacio de Gobierno Del Estado de Veracruz|Gran usuario|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||22|087|0005|Urbano|10
+91010|21 de Marzo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0011|Urbano|10
+91010|Del Periodista|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0025|Urbano|10
+91010|Mesa de Guayabo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5998|Urbano|10
+91010|Arroyo Zarco|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0631|Urbano|10
+91010|18 de Marzo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4219|Urbano|10
+91010|Brisas del Río Sedeño|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5981|Urbano|10
+91013|Manantiales|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|5996|Urbano|10
+91013|Victimas del 6 de Septiembre|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6003|Urbano|10
+91013|El Porvenir II|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1019|Urbano|10
+91013|Renacimiento|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|5997|Urbano|10
+91013|Nahuiollin|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0980|Urbano|10
+91013|El Porvenir I|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1018|Urbano|10
+91013|Solidaridad|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1113|Urbano|10
+91013|Insurgentes|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4225|Urbano|10
+91014|Lomas de Chapultepec|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4222|Urbano|10
+91014|Guadalupe Victoria|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0822|Urbano|10
+91014|Luz del Barrio|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0951|Urbano|10
+91015|Lomas de San Roque|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0015|Urbano|10
+91015|El Pocito|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0014|Urbano|10
+91015|10 de Abril|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0017|Urbano|10
+91015|Framboyanes|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0023|Urbano|10
+91015|Niños Héroes|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0018|Urbano|10
+91015|Isauro Acosta|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5994|Urbano|10
+91016|Independencia|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4224|Urbano|10
+91016|Comercio|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5991|Urbano|10
+91016|Luis Donaldo Colosio|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5993|Urbano|10
+91016|9 de Abril|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4223|Urbano|10
+91016|Ruben R Jaramillo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0019|Urbano|10
+91016|Altamira|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5990|Urbano|10
+91017|Unidad del Bosque Pensiones|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0009|Urbano|10
+91017|Rafael Murillo Vidal|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|5995|Urbano|10
+91017|Rafael Murillo Vidal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0007|Urbano|10
+91017|Rafael Hernández Ochoa|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0020|Urbano|10
+91017|Magisterial|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0010|Urbano|10
+91017|Virginia Cordero de Murillo Vidal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0012|Urbano|10
+91018|Veracruz|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0024|Urbano|10
+91018|Diamante|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5420|Urbano|10
+91018|Dolores Hidalgo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0719|Urbano|10
+91018|Renacimiento|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1044|Urbano|10
+91018|Fernando Gutiérrez Barrios|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0824|Urbano|10
+91018|Manantiales|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0959|Urbano|10
+91018|Plan de Ayala|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1012|Urbano|10
+91020|Adolfo Lopez Mateos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0026|Urbano|10
+91020|Obrero Campesina|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0029|Urbano|10
+91020|Veracruz|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0030|Urbano|10
+91023|Empleados Municipales|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5427|Urbano|10
+91023|Lomas Del Seminario|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0013|Urbano|10
+91023|Fovissste|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0028|Urbano|10
+91023|Presa de San Bruno|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|1045|Urbano|10
+91024|Los Encinos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0787|Urbano|10
+91024|UNE PRI|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1138|Urbano|10
+91024|24 de Abril|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6001|Urbano|10
+91024|UCISVER|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1136|Urbano|10
+91024|Unidad y Progreso|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1141|Urbano|10
+91024|La Pedreguera|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5428|Urbano|10
+91025|Villa Real|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0068|Urbano|10
+91025|Arroyo Blanco|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0061|Urbano|10
+91025|Josefa Ortiz de Dominguez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0070|Urbano|10
+91025|Barranca Honda|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4226|Urbano|10
+91025|14 de Febrero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5982|Urbano|10
+91026|Los Pinos|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0031|Urbano|10
+91026|Francisco Ferrer Guardia|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0027|Urbano|10
+91026|Cerro Colorado|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0033|Urbano|10
+91027|Dante Delgado Ranauro|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5988|Urbano|10
+91027|Valle del Sol|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5989|Urbano|10
+91027|Las Flores|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0032|Urbano|10
+91027|Desarrollo Social San Bruno|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0712|Urbano|10
+91027|Acueducto|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0601|Urbano|10
+91027|Montevideo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0977|Urbano|10
+91028|Olmeca|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0998|Urbano|10
+91030|Del Maestro|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0036|Urbano|10
+91030|José Cardel|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0040|Urbano|10
+91033|2 de Abril|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0037|Urbano|10
+91033|Maria Esther|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0042|Urbano|10
+91037|Los Laureles|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0047|Urbano|10
+91040|Unidad Pomona|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0052|Urbano|10
+91040|Modelo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0051|Urbano|10
+91040|Pumar|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0053|Urbano|10
+91040|La Piedad|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0041|Urbano|10
+91045|Badillo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0159|Urbano|10
+91045|Castillo de las Animas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0056|Urbano|10
+91045|Agua Santa Infonavit|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0050|Urbano|10
+91046|Ing. Rivadeneyra|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0057|Urbano|10
+91047|Loma Del Puente|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0058|Urbano|10
+91048|Las Arboledas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0059|Urbano|10
+91049|Infonavit Pomona|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0060|Urbano|10
+91050|Represa Del Carmen|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0065|Urbano|10
+91050|Tamborrel|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0066|Urbano|10
+91050|Unidad Veracruzana|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0043|Urbano|10
+91053|Estibadores|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0062|Urbano|10
+91053|Chulavista|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5999|Urbano|10
+91053|José de Jesús Panes|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0064|Urbano|10
+91054|3 de Mayo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0067|Urbano|10
+91055|Los Sauces|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|7619|Urbano|10
+91055|Salud|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0088|Urbano|10
+91055|Guadalupe Rodríguez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0063|Urbano|10
+91055|Belisario Dominguez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0093|Urbano|10
+91056|Benito Juárez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0083|Urbano|10
+91056|El Tucán|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5985|Urbano|10
+91057|Coapexpan|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0085|Urbano|10
+91060|Marco Antonio Muñoz|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0074|Urbano|10
+91060|Electricistas|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0072|Urbano|10
+91060|Ensueño|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0073|Urbano|10
+91060|Obreros Textiles|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0075|Urbano|10
+91063|La Herradura|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0078|Urbano|10
+91064|Tatahuicapan|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0077|Urbano|10
+91064|Los Ángeles|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0076|Urbano|10
+91065|Lomas del Tejar|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0079|Urbano|10
+91066|Álvaro Obregón|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0071|Urbano|10
+91067|Inmecafe|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0161|Urbano|10
+91067|SIPEH Ánimas|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0684|Urbano|10
+91067|San Francisco Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6020|Urbano|10
+91067|SAHOP|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0165|Urbano|10
+91067|Colibris|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5978|Urbano|10
+91069|Cuauhtémoc|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0081|Urbano|10
+91070|Adalberto Tejeda|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0082|Urbano|10
+91070|Francisco I Madero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0087|Urbano|10
+91070|Venustiano Carranza|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0089|Urbano|10
+91073|El Haya|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5987|Urbano|10
+91073|El Haya|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0897|Urbano|10
+91073|Marco Antonio Muñoz|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5986|Urbano|10
+91073|Nuevo Coapexpan|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6014|Urbano|10
+91075|Ampliación Libertad|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5984|Urbano|10
+91075|Reforma|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0098|Urbano|10
+91075|Libertad|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0097|Urbano|10
+91080|Felipe Carrillo Puerto|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0096|Urbano|10
+91083|Comunicaciones|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0095|Urbano|10
+91083|Buenavista|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0094|Urbano|10
+91084|Buenavista I|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6000|Urbano|10
+91084|Buenavista II|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0655|Urbano|10
+91090|Lomas del Estadio|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0104|Urbano|10
+91090|Isleta|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0103|Urbano|10
+91093|Los Lagos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5983|Urbano|10
+91093|Emiliano Zapata|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0102|Urbano|10
+91094|Mártires de Chicago|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0105|Urbano|10
+91094|Caminos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0101|Urbano|10
+91095|Las Margaritas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0963|Urbano|10
+91095|Jardines de Santa Rosa|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5430|Urbano|10
+91095|Campestre|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0665|Urbano|10
+91095|Lomas de la Gloria|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0917|Urbano|10
+91095|Tulipanes|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0948|Urbano|10
+91095|Lomas las Margaritas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6010|Urbano|10
+91095|Lomas Del Paraíso|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0923|Urbano|10
+91095|Coralillos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0939|Urbano|10
+91095|Santa Rosa|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1095|Urbano|10
+91095|Jardines de Santa Rosa Sección 2|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6011|Urbano|10
+91096|Moctezuma|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0975|Urbano|10
+91096|FREDEPO|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5888|Urbano|10
+91096|Villa Centroamericana|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0167|Urbano|10
+91096|Santa Bárbara|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1086|Urbano|10
+91096|Reserva Territorial|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1049|Urbano|10
+91097|La Pradera|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5635|Urbano|10
+91097|Nuevo Xalapa|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|6009|Urbano|10
+91097|Torres de Xalapa|Conjunto habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||12|087|7304|Urbano|10
+91097|Bellavista|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0100|Urbano|10
+91097|La Loma|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5634|Urbano|10
+91097|Del Valle|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0107|Urbano|10
+91097|Xalapa 2000|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|4229|Urbano|10
+91098|Los Cedros|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5980|Urbano|10
+91098|Lomas Verdes Sección 3|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|1102|Urbano|10
+91098|Bosques de Las Lomas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5889|Urbano|10
+91098|Lomas Verdes Sección 4|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|1103|Urbano|10
+91098|Lomas Verdes Sección 1|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0927|Urbano|10
+91098|Las Fuentes|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5636|Urbano|10
+91098|Lomas Verdes Sección 2|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|1100|Urbano|10
+91098|Lomas Verdes Sección 5|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|1104|Urbano|10
+91098|Zippor|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6012|Urbano|10
+91100|Revolución|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0110|Urbano|10
+91103|El Naranjal de Agua Santa|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0981|Urbano|10
+91103|Lucas Martín|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0109|Urbano|10
+91104|México|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0970|Urbano|10
+91104|Lomas de Sedeño|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5966|Urbano|10
+91104|Valle de los Pinos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1152|Urbano|10
+91105|Del Moral|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0709|Urbano|10
+91106|José Vasconcelos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1157|Urbano|10
+91107|Internacional|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5968|Urbano|10
+91107|Portón Colorado|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4255|Urbano|10
+91107|Campo de Tiro|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0668|Urbano|10
+91107|Obrero Mundial|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4256|Urbano|10
+91107|Culturas Mexicanas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4254|Urbano|10
+91107|16 de Septiembre|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5969|Urbano|10
+91110|Rafael Lucio|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0111|Urbano|10
+91113|Ruben Pabello Acosta|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0138|Urbano|10
+91113|Sostenes Mejia Blanco|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0140|Urbano|10
+91114|Los Prados|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0137|Urbano|10
+91114|Tabasco|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0139|Urbano|10
+91119|La Lagunilla|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0112|Urbano|10
+91120|Ferrocarrilera|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0113|Urbano|10
+91123|Del Bosque Ferrocarrilero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5970|Urbano|10
+91123|Unión Ferrocarrilera|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5971|Urbano|10
+91123|Héroes Ferrocarrileros|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6021|Urbano|10
+91129|Hogares Ferrocarrileros|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0114|Urbano|10
+91130|Progreso Macuiltepetl|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0119|Urbano|10
+91133|Laderas de Macuiltepetl|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0117|Urbano|10
+91133|Aguacatal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0115|Urbano|10
+91133|Voceadores|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0124|Urbano|10
+91140|Burócratas del Ayuntamiento|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0054|Urbano|10
+91140|Juan de La Luz Enríquez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0048|Urbano|10
+91140|Federal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0122|Urbano|10
+91143|Independencia|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5972|Urbano|10
+91143|Hidalgo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0142|Urbano|10
+91143|7 de Noviembre|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0132|Urbano|10
+91150|Arboledas del Sumidero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0128|Urbano|10
+91150|Predio de La Virgen|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|0130|Urbano|10
+91150|El Cafetal|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0659|Urbano|10
+91150|Valle de Cristal|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0691|Urbano|10
+91152|Maver|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4235|Urbano|10
+91152|2 de Julio|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5631|Urbano|10
+91152|Las Torres|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5638|Urbano|10
+91152|12 de Diciembre|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6005|Urbano|10
+91152|Reserva del Tronconal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0002|Urbano|10
+91152|Aviación Civil|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4238|Urbano|10
+91152|Rafael Hernández Villalpando|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5967|Urbano|10
+91152|Arboledas de Troncal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4236|Urbano|10
+91152|Lomas de Santa Fe|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0003|Urbano|10
+91152|Heberto Castillo Martínez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5633|Urbano|10
+91152|Fraternidad Antorchista|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|7482|Urbano|10
+91153|Constitución Del Sumidero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4245|Urbano|10
+91153|Las Brisas|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|4243|Urbano|10
+91153|Nacional|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0979|Urbano|10
+91153|Vicente Guerrero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5973|Urbano|10
+91153|Floresta|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4239|Urbano|10
+91153|Encantos Del Sumidero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4244|Urbano|10
+91153|23 de Marzo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6006|Urbano|10
+91153|Las Águilas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4240|Urbano|10
+91153|Jardines de las Flores 2001|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|7621|Urbano|10
+91154|Jardines del Castillo|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0849|Urbano|10
+91154|Las Minas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4246|Urbano|10
+91154|América|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6019|Urbano|10
+91154|Miradores del Sumidero|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6007|Urbano|10
+91154|Sumidero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1114|Urbano|10
+91154|El Coyol|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0737|Urbano|10
+91154|Sumidero Infonavit|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0135|Urbano|10
+91154|Bugambilias del Sumidero|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0657|Urbano|10
+91154|Continental|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0689|Urbano|10
+91154|El Arroyo|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4686|Urbano|10
+91155|Casa Blanca|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0674|Urbano|10
+91156|Lomas Del Sumidero|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5637|Urbano|10
+91156|El Tanque|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0775|Urbano|10
+91156|Ejido Del Troncal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4237|Urbano|10
+91156|Miradores de las Flores|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4242|Urbano|10
+91157|Predio de La Virgen|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0129|Urbano|10
+91157|Margarita Maza de Juárez|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|5974|Urbano|10
+91157|Unión|Ampliación|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||38|087|4252|Urbano|10
+91157|Margarita Maza de Juárez|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0134|Urbano|10
+91157|Unión|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1143|Urbano|10
+91157|Predio Palo Blanco|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4251|Urbano|10
+91157|Las Jacarandas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6022|Urbano|10
+91157|Morelos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4253|Urbano|10
+91158|Carolino Anaya|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0136|Urbano|10
+91160|Lealtad Institucional|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0911|Urbano|10
+91160|PROVIPO|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1033|Urbano|10
+91160|Huizachal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0836|Urbano|10
+91160|Rotaria|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4248|Urbano|10
+91160|El Nacimiento|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4249|Urbano|10
+91160|El Cafetal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5976|Urbano|10
+91163|UDICV|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4250|Urbano|10
+91163|Higueras|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0898|Urbano|10
+91163|Cincuentenario Casa Blanca|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|7583|Urbano|10
+91164|Lomas de Casa Blanca|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5431|Urbano|10
+91164|Flores de Casa Blanca|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5977|Urbano|10
+91165|El Castillo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0172|Urbano|10
+91166|La Palma|Barrio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||02|087|7623|Urbano|10
+91166|Loma Bonita|Barrio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||02|087|7625|Urbano|10
+91166|El Calvario|Barrio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||02|087|7622|Urbano|10
+91166|La Tranca|Barrio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||02|087|7624|Urbano|10
+91166|Lomas de Los Castillo|Barrio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||02|087|7626|Urbano|10
+91170|El Mirador|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0143|Urbano|10
+91170|Loma Alta Infonavit|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0146|Urbano|10
+91170|Misión San Carlos|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0147|Urbano|10
+91170|Unidad Jardín|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0148|Urbano|10
+91173|Francisco Villa|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0127|Urbano|10
+91173|Arboledas de Xalapa|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|4231|Urbano|10
+91173|Salvador Diaz Mirón|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0131|Urbano|10
+91174|Fesapauv Cristal|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0802|Urbano|10
+91174|Heron Proal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|4233|Urbano|10
+91174|Peñascal|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4232|Urbano|10
+91179|Jardines de Xalapa|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0151|Urbano|10
+91180|Sebastián Lerdo de Tejada Indeco|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0156|Urbano|10
+91180|Encinal|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0154|Urbano|10
+91183|10 de Mayo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0153|Urbano|10
+91183|Vanguardia Revolucionaria|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|1156|Urbano|10
+91183|Lázaro Cárdenas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0155|Urbano|10
+91183|Constituyentes|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0157|Urbano|10
+91183|Azteca|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0152|Urbano|10
+91183|Agua Santa II|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0607|Urbano|10
+91184|Jardines de Bambú|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6008|Urbano|10
+91184|Atenas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4259|Urbano|10
+91184|Los Cantaros|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0179|Urbano|10
+91184|Agua Clara|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|4257|Urbano|10
+91184|Miguel Alemán Valdez|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0971|Urbano|10
+91184|Jardines de las Flores|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4258|Urbano|10
+91185|Circuito Quetzales|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4260|Urbano|10
+91185|Unidad Habitacional y Deportiva el Castillo|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|7151|Urbano|10
+91186|Rebombeo de Las Ánimas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5632|Urbano|10
+91190|Fuentes de Las Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0160|Urbano|10
+91190|Las Flores|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5979|Urbano|10
+91190|Loma Alta|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|7620|Urbano|10
+91190|Indeco Animas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5429|Urbano|10
+91190|Rincón de las Animas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|7137|Urbano|10
+91191|Centro Sct Veracruz|Gran usuario|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||22|087|0166|Urbano|10
+91193|Torre Animas|Condominio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||10|087|1128|Urbano|10
+91193|Rubí Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|1155|Urbano|10
+91193|Residencial Monte Magno|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|7224|Urbano|10
+91193|Ánimas Marqueza|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5886|Urbano|10
+91193|Olmos de Las Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6016|Urbano|10
+91193|Real del Bosque|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6017|Urbano|10
+91193|Industrial Animas|Zona industrial|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||37|087|7896|Urbano|10
+91193|Las Cumbres|Residencial|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||30|087|9040|Urbano|10
+91194|El Olmo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0170|Urbano|10
+91194|Balcones de Jalapa|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|0637|Urbano|10
+91194|La Giralda|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|7161|Urbano|10
+91194|Xaltic|Unidad habitacional|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||31|087|4262|Urbano|10
+91195|Esmeralda Animas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5424|Urbano|10
+91195|Tulipanes de Las Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|6018|Urbano|10
+91195|Anáhuac|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|6013|Urbano|10
+91195|Agrícola|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5180|Urbano|10
+91195|Cañada de Las Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5891|Urbano|10
+91196|Pedregal de las Animas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0163|Urbano|10
+91196|Popular las Animas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0164|Urbano|10
+91196|Jardines de Las Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0162|Urbano|10
+91197|Acueducto Animas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0602|Urbano|10
+91197|Torre Unión|Condominio|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||10|087|1129|Urbano|10
+91197|Vista Hermosa|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|4261|Urbano|10
+91197|Loma de Oro|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0918|Urbano|10
+91197|Dos Vistas Ánimas|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0169|Urbano|10
+91197|Linda Vista Ánimas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|5892|Urbano|10
+91197|Loma Esmeralda|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|0790|Urbano|10
+91198|Villa Animas|Fraccionamiento|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||21|087|1177|Urbano|10
+91198|Pastoresa|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|0168|Urbano|10
+91198|Campo Nuevo|Colonia|Xalapa|Veracruz de Ignacio de la Llave|Xalapa-Enríquez|91002|30|91002||09|087|5425|Urbano|10
+91200|El Palenque|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7637|Rural|
+91200|El Sumidero|Pueblo|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||28|087|0175|Rural|
+91200|Rancho el Tular|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7662|Rural|
+91200|La Haciendita|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7645|Rural|
+91203|Chiltoyac|Pueblo|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||28|087|0171|Rural|
+91203|Paso de San Juan|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7657|Rural|
+91205|Rancho el Dólar|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7660|Rural|
+91205|Tronconal|Pueblo|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||28|087|0176|Rural|
+91205|El Potrerillo (El Mirador)|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7639|Rural|
+91205|Rancho Efraín Sosa|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7659|Rural|
+91206|Sabanetas (Rancho los López)|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7668|Rural|
+91207|Nicolás Sacramento|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7654|Rural|
+91207|Loma Bonita|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7649|Rural|
+91207|Colonia Ignacio Zaragoza|Colonia|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||09|087|7630|Rural|
+91210|Navidad|Pueblo|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||28|087|7653|Rural|
+91210|Colonia Seis de Enero|Colonia|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||09|087|0173|Rural|
+91210|El Nacimiento|Pueblo|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||28|087|7636|Rural|
+91213|San Antonio Paso del Toro|Pueblo|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||28|087|0177|Rural|
+91213|Rancho Tres Potrillos (El Infiernillo)|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7667|Rural|
+91214|Rancho el Embrujo|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7661|Rural|
+91215|Vaquería (Pailas)|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7671|Rural|
+91216|El Plan|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7638|Rural|
+91216|Castillo Chico|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7628|Rural|
+91216|Ojo Zarco|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7655|Rural|
+91216|Las Cruces|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7647|Rural|
+91217|La Troja|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7646|Rural|
+91217|Rancho la Laguna|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7663|Rural|
+91217|Silvestre Pérez Santamaría|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7670|Rural|
+91220|El Tabachín|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7640|Rural|
+91220|Fernando Gutiérrez Barrios|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7641|Rural|
+91220|El Cairo|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7635|Rural|
+91220|Rancho la Palma|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7664|Rural|
+91220|Cañadas|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7627|Rural|
+91220|Sierra Verde|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7669|Rural|
+91223|Rancho Alegre|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7658|Rural|
+91223|Colonia Cardenista|Colonia|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||09|087|7629|Rural|
+91224|Mártires de Chicago|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7652|Rural|
+91224|El Águila (Santa Amalia)|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7634|Rural|
+91224|Gobernadores|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7643|Rural|
+91225|Ejido Benito Juárez|Ejido|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||15|087|7632|Rural|
+91225|Las Lajas de Pacho|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7648|Rural|
+91225|Ejido Emiliano Zapata|Ejido|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||15|087|7633|Rural|
+91226|Colonia Olmeca|Colonia|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||09|087|7631|Rural|
+91226|Rancho Michoacán (Rancho Coapexpan)|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7665|Rural|
+91226|Rancho Oyamel|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7666|Rural|
+91226|Xoloxtla|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7672|Rural|
+91227|La Cañada|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7644|Rural|
+91227|Francisca Ruán|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7642|Rural|
+91227|Los Naranjos|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7651|Rural|
+91227|Olivia Guevara Herrera|Ranchería|Xalapa|Veracruz de Ignacio de la Llave||91002|30|91002||29|087|7656|Rural|

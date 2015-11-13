@@ -1,0 +1,19 @@
+73740|Tlamanaca|Barrio|Zautla|Puebla||73701|21|73701||02|212|1255|Rural|
+73740|Contla|Barrio|Zautla|Puebla||73701|21|73701||02|212|1252|Rural|
+73740|Santiago Zautla|Pueblo|Zautla|Puebla||73701|21|73701||28|212|1253|Rural|
+73740|Tenampulco|Barrio|Zautla|Puebla||73701|21|73701||02|212|1254|Rural|
+73740|Zautla|Pueblo|Zautla|Puebla||73701|21|73701||28|212|1256|Rural|
+73742|Morelos|Barrio|Zautla|Puebla||73701|21|73701||02|212|1257|Rural|
+73743|Ixtactenango|Barrio|Zautla|Puebla||73701|21|73701||02|212|1258|Rural|
+73746|Buenavista|Barrio|Zautla|Puebla||73701|21|73701||02|212|1259|Rural|
+73747|Yahuitlalpan|Barrio|Zautla|Puebla||73701|21|73701||02|212|1260|Rural|
+73748|Oxpantla|Barrio|Zautla|Puebla||73701|21|73701||02|212|1261|Rural|
+73750|San Miguel Tenextatiloyan|Pueblo|Zautla|Puebla||73701|21|73701||28|212|1263|Rural|
+73750|Emilio Carranza|Barrio|Zautla|Puebla||73701|21|73701||02|212|1262|Rural|
+73751|Acatzacata|Barrio|Zautla|Puebla||73701|21|73701||02|212|1264|Rural|
+73752|Chilapa de Vicente Guerrero|Pueblo|Zautla|Puebla||73701|21|73701||28|212|1265|Rural|
+73753|Jalcomulco|Barrio|Zautla|Puebla||73701|21|73701||02|212|1266|Rural|
+73754|Ocotzingo|Barrio|Zautla|Puebla||73701|21|73701||02|212|1267|Rural|
+73756|San Francisco|Pueblo|Zautla|Puebla||73701|21|73701||28|212|1268|Rural|
+73756|San Isidro|Colonia|Zautla|Puebla||73701|21|73701||09|212|1269|Rural|
+73759|Huitzitzilapan|Estación|Zautla|Puebla||73701|21|73701||16|212|1270|Rural|

@@ -1,0 +1,152 @@
+61330|Tzitzio|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|2338|Urbano|
+61333|Rosa de Castilla|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0135|Rural|
+61333|Cerro Mozo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0012|Rural|
+61333|La Herradura|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0080|Rural|
+61333|Las Juntas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0096|Rural|
+61333|Los Timones|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|0115|Rural|
+61333|La Cofradía|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0075|Rural|
+61334|Cerritos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0010|Rural|
+61334|Santa Inés|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0136|Rural|
+61334|Agua Caliente|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0001|Rural|
+61334|Los Parajes (El Pinal)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0108|Rural|
+61334|El Plan del Pino|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0047|Rural|
+61334|El Inventario|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0035|Rural|
+61334|El Jagüey|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0036|Rural|
+61334|Las Corcomecas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0094|Rural|
+61334|Río Chiquito|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0133|Rural|
+61334|El Rincón|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0054|Rural|
+61334|El Pino|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0046|Rural|
+61334|La Mesa|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0086|Rural|
+61334|Los Llanitos (Los Pelillos)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0106|Rural|
+61334|Trojitas (Las Trojas)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0141|Rural|
+61335|Patámbaro|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0124|Rural|
+61335|La Costillona (La Ceiba Costillona)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0078|Rural|
+61335|Los Aguacates|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0100|Rural|
+61335|Manzana de Queretanillo|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|0116|Rural|
+61335|Cruz de Ocote|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0018|Rural|
+61336|Palacio|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0120|Rural|
+61336|El Plan Zacatoso|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0048|Rural|
+61336|El Reparo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0053|Rural|
+61336|La Calavera|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0073|Rural|
+61336|El Limón (El Limoncito)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0037|Rural|
+61337|Rosa de Campos (El Capire)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0134|Rural|
+61337|El Palmarito|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|0043|Rural|
+61340|Copuyo|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|2339|Rural|
+61340|La Cofradía (El Plan)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0077|Rural|
+61340|Paso Ancho|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|4058|Rural|
+61341|Tafetán|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|2340|Rural|
+61343|El Mortero|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0041|Rural|
+61343|El Saucillo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0057|Rural|
+61343|El Rodeo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0055|Rural|
+61343|La Parrita|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0088|Rural|
+61343|El Zapotito|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0065|Rural|
+61343|La Cofradía (El Cuervo)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0076|Rural|
+61344|Arroyo del Toro|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0007|Rural|
+61344|El Banco|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0021|Rural|
+61344|La Bufa|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0072|Rural|
+61344|Los Pozos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0112|Rural|
+61344|Ciruelos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0016|Rural|
+61344|El Primer Rancho|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0050|Rural|
+61344|El Aguacate|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0019|Rural|
+61344|Los Sauces|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0113|Rural|
+61344|Puerto del Durazno|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0132|Rural|
+61344|La Jabonera (El Zapote)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0082|Rural|
+61345|La Magdalena|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0084|Rural|
+61345|Cablotera|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0009|Rural|
+61345|Santa Rosa (La Desviación)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0137|Rural|
+61345|Chinapa (Puente de Chinapa)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0013|Rural|
+61345|Mejía|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0117|Rural|
+61345|La Peña del Chivo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0089|Rural|
+61346|Los Laurelitos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0105|Rural|
+61346|Los Cajones|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0103|Rural|
+61346|Palos Verdes|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0122|Rural|
+61347|Tiquihuitucha|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|0140|Rural|
+61347|La Torrecilla (Puerto de Cuicateo)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0091|Rural|
+61347|El Zapotillo|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0064|Rural|
+61347|La Soledad|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0090|Rural|
+61350|El Ojo de Agua|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0042|Rural|
+61350|Devanador de Rivera|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|2341|Rural|
+61353|Las Abejas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0093|Rural|
+61353|Agua Zarca Uno|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0006|Rural|
+61353|Los Azares|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0102|Rural|
+61353|Puerto Ancho|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0131|Rural|
+61354|El Manguito|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0040|Rural|
+61354|Las Saibas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0098|Rural|
+61354|Plan de Guadalupe (Las Iguanas)|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|0129|Rural|
+61354|Los Ciruelos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0104|Rural|
+61354|Yranche|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0143|Rural|
+61354|El Querengue|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0052|Rural|
+61355|Uñas de Gato|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0142|Rural|
+61355|El Tepehuaje|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0060|Rural|
+61355|Irecha|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0069|Rural|
+61355|El Platanillo|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0049|Rural|
+61355|El Roncador|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0056|Rural|
+61355|La Bolsa|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0071|Rural|
+61355|El Anono Chino|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0020|Rural|
+61355|El Saucillo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0058|Rural|
+61355|Barranca Honda|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0008|Rural|
+61355|Puerta Vieja|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0130|Rural|
+61355|La Lagunilla|Poblado comunal|Tzitzio|Michoacán de Ocampo||58241|16|58241||27|101|5462|Rural|
+61356|Agua Salada|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0004|Rural|
+61356|Cirián del Cascalote|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0015|Rural|
+61356|El Pantano|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0044|Rural|
+61356|El Guajolote|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0032|Rural|
+61356|El Puerto Colorado|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0051|Rural|
+61357|Pineda|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0128|Rural|
+61357|Los Tepehuajes|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0114|Rural|
+61357|Chuparrosa|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0014|Rural|
+61358|El Caimán|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0023|Rural|
+61358|El Huicumo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0034|Rural|
+61358|El Limoncito|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0038|Rural|
+61358|El Charco|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0024|Rural|
+61360|Los Planes (El Plan)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0109|Rural|
+61360|Piedra del Agua (Peña del Agua)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0126|Rural|
+61360|La Huerta|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0081|Rural|
+61363|Mesa del Nopal|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0118|Rural|
+61363|Cerro de la Mula|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0011|Rural|
+61363|El Tepehuaje|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0061|Rural|
+61363|Las Mesas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0097|Rural|
+61363|Ojo de Agua|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0119|Rural|
+61363|El Durazno|Ejido|Tzitzio|Michoacán de Ocampo||58241|16|58241||15|101|0029|Rural|
+61363|Los Llanos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0107|Rural|
+61363|El Durazno|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0028|Rural|
+61364|Agua Zarca Dos|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0005|Rural|
+61364|Coronillas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0017|Rural|
+61364|El Cirián de la Frontera|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0026|Rural|
+61364|El Fresno Uno|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0030|Rural|
+61364|El Garbanzal|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0031|Rural|
+61364|Jahuical|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0070|Rural|
+61364|El Limoncito|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0039|Rural|
+61364|Los Arrayanes|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0101|Rural|
+61364|Las Ánimas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0092|Rural|
+61364|La Laja|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0083|Rural|
+61365|La Fragua (La Fraguita)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0079|Rural|
+61365|La Palma|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0087|Rural|
+61365|El Conejo|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|4060|Rural|
+61365|La Guacamaya Uno|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|2342|Rural|
+61365|El Mezcal|Pueblo|Tzitzio|Michoacán de Ocampo||58241|16|58241||28|101|4059|Rural|
+61365|El Pantano (Los Pantanos)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0045|Rural|
+61365|Las Galleras|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0095|Rural|
+61366|Guayabo de Ruiz|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0068|Rural|
+61366|Los Planes (La Pinzanera)|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0110|Rural|
+61366|Guayabo de Derrumbadero (La Chatanicua)|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0067|Rural|
+61366|El Derrumbadero|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0027|Rural|
+61366|Santas Marías|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0139|Rural|
+61366|El Tulillo de Abajo|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0062|Rural|
+61366|Guayabas Agrias|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0066|Rural|
+61366|Palo Quemado|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0121|Rural|
+61366|Agua Fría|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0003|Rural|
+61366|El Tulillo de Arriba|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0063|Rural|
+61366|Santa Teresa|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0138|Rural|
+61366|La Maroma|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0085|Rural|
+61366|El Tepamal|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0059|Rural|
+61366|Las Tamacuas|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0099|Rural|
+61367|La Codorniz|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0074|Rural|
+61367|El Buey|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0022|Rural|
+61368|Páramo|Ranchería|Tzitzio|Michoacán de Ocampo||58241|16|58241||29|101|0123|Rural|
+61368|Peña del Agua|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0125|Rural|
+61368|Los Potreros|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0111|Rural|
+61368|Piedras de Lumbre|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0127|Rural|
+61368|Agua Dulce|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0002|Rural|
+61368|El Chilar|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0025|Rural|
+61368|El Guayabito|Rancho|Tzitzio|Michoacán de Ocampo||58241|16|58241||48|101|0033|Rural|

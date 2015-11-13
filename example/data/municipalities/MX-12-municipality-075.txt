@@ -1,0 +1,45 @@
+40180|Zumpango del Río Centro|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1929|Semiurbano|19
+40181|La Noria|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|3848|Semiurbano|19
+40182|Del PRI|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1273|Semiurbano|19
+40185|Santa Anita|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1641|Semiurbano|19
+40185|Señor Santiago|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1661|Semiurbano|19
+40185|De Xalpa|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1738|Semiurbano|19
+40185|Rubén Figueroa|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|3850|Semiurbano|19
+40185|La Guadalupe|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1368|Semiurbano|19
+40185|San Sebastián|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1637|Semiurbano|19
+40185|Santa Cruz|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1647|Semiurbano|19
+40186|Loma Bonita|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1457|Semiurbano|19
+40186|Los Arcos|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1470|Semiurbano|19
+40186|San Antonio|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1593|Semiurbano|19
+40186|Sagrado Corazón|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|4532|Urbano|19
+40186|Santa Cecilia|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1644|Semiurbano|19
+40187|Zompanzi|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|3852|Semiurbano|19
+40187|San Martín|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1625|Semiurbano|19
+40187|El Refugio|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1279|Semiurbano|19
+40187|Independencia|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|3851|Semiurbano|19
+40188|San José|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|1618|Semiurbano|19
+40188|Virgen de Juquila|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|3849|Semiurbano|19
+40188|Universal|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|4250|Semiurbano|19
+40189|Santo Tomas|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1655|Semiurbano|19
+40189|San Rafael|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1632|Semiurbano|19
+40189|Tulipanes|Colonia|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||09|075|3847|Semiurbano|19
+40189|Santiago|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|3853|Semiurbano|19
+40189|San Francisco|Barrio|Eduardo Neri|Guerrero|Zumpango del Río|40183|12|40183||02|075|1603|Semiurbano|19
+40190|Venta Vieja|Congregación|Eduardo Neri|Guerrero||39001|12|39001||11|075|1937|Rural|
+40190|Xochipala|Pueblo|Eduardo Neri|Guerrero||39001|12|39001||28|075|1938|Rural|
+40190|Carrizalillo|Pueblo|Eduardo Neri|Guerrero||39001|12|39001||28|075|1936|Rural|
+40191|Ahuelican|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1939|Rural|
+40191|Amatitlán|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1940|Rural|
+40191|Ameyaltepec|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1941|Rural|
+40192|Tecomapa|Campamento|Eduardo Neri|Guerrero||40183|12|40183||04|075|1944|Rural|
+40192|El Tepehuaje|Ranchería|Eduardo Neri|Guerrero||40183|12|40183||29|075|1945|Rural|
+40192|Mazapa|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1946|Rural|
+40192|Balsas Sur|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1942|Rural|
+40193|Papalotepec|Campamento|Eduardo Neri|Guerrero||40183|12|40183||04|075|1934|Rural|
+40194|Huitziltepec|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1930|Rural|
+40194|Tlanipatla|Pueblo|Eduardo Neri|Guerrero||40183|12|40183||28|075|1931|Rural|
+40194|Axaxacualco|Ranchería|Eduardo Neri|Guerrero||40183|12|40183||29|075|1932|Rural|
+40195|El Palmar|Campamento|Eduardo Neri|Guerrero||40183|12|40183||04|075|1935|Rural|
+40196|Mezcala|Pueblo|Eduardo Neri|Guerrero||40001|12|40001||28|075|1943|Rural|
+40199|La Laguna|Campamento|Eduardo Neri|Guerrero||40183|12|40183||04|075|1947|Rural|
+40199|Miraval|Ranchería|Eduardo Neri|Guerrero||40183|12|40183||29|075|1948|Rural|

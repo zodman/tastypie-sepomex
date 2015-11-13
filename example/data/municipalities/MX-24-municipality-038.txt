@@ -1,0 +1,21 @@
+79940|Chiconamel|Ranchería|Tampacán|San Luis Potosí||79961|24|79961||29|038|1687|Rural|
+79940|El Hulero|Ejido|Tampacán|San Luis Potosí||79961|24|79961||15|038|1688|Rural|
+79940|Tampacán|Villa|Tampacán|San Luis Potosí||79961|24|79961||32|038|1691|Rural|
+79940|Guadalupe|Barrio|Tampacán|San Luis Potosí||79961|24|79961||02|038|2722|Rural|
+79940|La Finca Miraflores|Ejido|Tampacán|San Luis Potosí||79961|24|79961||15|038|1690|Rural|
+79940|San Juan|Barrio|Tampacán|San Luis Potosí||79961|24|79961||02|038|2723|Rural|
+79940|Tenextitla 2|Ranchería|Tampacán|San Luis Potosí||79961|24|79961||29|038|1692|Rural|
+79940|Xochicuatla|Ranchería|Tampacán|San Luis Potosí||79961|24|79961||29|038|1693|Rural|
+79940|Huexco|Pueblo|Tampacán|San Luis Potosí||79961|24|79961||28|038|1689|Rural|
+79940|La Cruz|Barrio|Tampacán|San Luis Potosí||79961|24|79961||02|038|2563|Rural|
+79941|Las Mesas|Ejido|Tampacán|San Luis Potosí||79961|24|79961||15|038|1694|Rural|
+79942|Los Cues|Ejido|Tampacán|San Luis Potosí||79961|24|79961||15|038|1695|Rural|
+79943|Lagunillas|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|2564|Rural|
+79943|Xochiayo|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|1696|Rural|
+79944|La Soledad|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|2672|Rural|
+79945|Totomoxtla (La Ceiba)|Ranchería|Tampacán|San Luis Potosí||79961|24|79961||29|038|2528|Rural|
+79945|El Ojital|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|2562|Rural|
+79946|Chimimexco|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|2561|Rural|
+79946|Tenextitla 1|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|1697|Rural|
+79946|Cuayahual|Poblado comunal|Tampacán|San Luis Potosí||79961|24|79961||27|038|2747|Rural|
+79948|El Refugio|Ejido|Tampacán|San Luis Potosí||79961|24|79961||15|038|1698|Rural|

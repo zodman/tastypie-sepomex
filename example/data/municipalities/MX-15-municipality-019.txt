@@ -1,0 +1,20 @@
+52700|Centro|Colonia|Capulhuac|México|Capulhuac|52701|15|52701||09|019|2021|Semiurbano|28
+52710|San Juan Bautista|Pueblo|Capulhuac|México||52701|15|52701||28|019|7455|Rural|
+52710|San Miguel Almaya|Pueblo|Capulhuac|México||52701|15|52701||28|019|2023|Rural|
+52710|Agua Blanca|Pueblo|Capulhuac|México||52701|15|52701||28|019|6885|Rural|
+52710|La Cuchillla|Ejido|Capulhuac|México||52701|15|52701||15|019|7453|Rural|
+52710|Los Sauces|Fraccionamiento|Capulhuac|México||52701|15|52701||21|019|8087|Urbano|
+52710|Las Chinampas|Ejido|Capulhuac|México||52701|15|52701||15|019|8483|Rural|
+52710|Lomas de San Juan|Pueblo|Capulhuac|México||52701|15|52701||28|019|6884|Rural|
+52710|San Nicolás Tlazala|Pueblo|Capulhuac|México||52701|15|52701||28|019|2024|Rural|
+52710|La Cruz|Pueblo|Capulhuac|México||52701|15|52701||28|019|6883|Rural|
+52713|San Isidro Tehualtepec|Poblado comunal|Capulhuac|México||52701|15|52701||27|019|8155|Rural|
+52713|Guadalupe Victoria|Pueblo|Capulhuac|México||52701|15|52701||28|019|2025|Rural|
+52714|La Lagunilla|Colonia|Capulhuac|México||52701|15|52701||09|019|9090|Rural|
+52714|Capetillo|Ranchería|Capulhuac|México||52701|15|52701||29|019|9093|Rural|
+52715|Molino de San Cayetano|Ranchería|Capulhuac|México||52701|15|52701||29|019|7448|Rural|
+52720|San Isidro|Barrio|Capulhuac|México||52701|15|52701||02|019|5300|Semiurbano|
+52723|Hueyutitla|Ranchería|Capulhuac|México||52701|15|52701||29|019|9092|Rural|
+52723|La Poza|Colonia|Capulhuac|México||52701|15|52701||09|019|9091|Rural|
+52730|San Miguelito|Barrio|Capulhuac|México||52701|15|52701||02|019|5301|Semiurbano|
+52733|Santa María Coaxusco|Barrio|Capulhuac|México||52701|15|52701||02|019|5302|Semiurbano|

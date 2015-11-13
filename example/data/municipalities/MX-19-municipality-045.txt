@@ -1,0 +1,376 @@
+65500|Valle de Salinas|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5435|Urbano|
+65500|León A. Flores|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5434|Urbano|
+65500|Salinas Victoria|Villa|Salinas Victoria|Nuevo León||65551|19|65551||32|045|0675|Rural|
+65500|Los Maestros|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5436|Urbano|
+65500|Paseo del Norte|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|4840|Urbano|
+65500|Valle de las Salinas|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|5432|Urbano|
+65500|Gobernadores|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5433|Urbano|
+65503|Las Gaviotas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5448|Rural|
+65503|Predio San Isidro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5831|Rural|
+65503|Raúl Caballero Escamilla|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5438|Rural|
+65503|San Juan|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5449|Rural|
+65503|San Marcos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5451|Rural|
+65503|Los Ángeles|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5439|Rural|
+65503|Valle del Mirador|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5437|Rural|
+65503|Las Torres|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5440|Rural|
+65503|Mission|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|4839|Rural|
+65503|Paseos San Isidro|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|4889|Rural|
+65503|La Marranera|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5450|Rural|
+65504|Petrita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5453|Rural|
+65504|Salinas (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5454|Rural|
+65504|Prolongación Juárez (Loma de la Cruz)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5455|Rural|
+65504|San Isidro 1er. Sector|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|5441|Urbano|
+65504|El Pedregal (Salinas)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5452|Rural|
+65505|Agrarista|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5442|Urbano|
+65505|Brenda|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5456|Rural|
+65507|Quadro Residencial|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|5443|Urbano|
+65510|Emiliano Zapata|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5445|Urbano|
+65510|Ciudad Satelite del Norte|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5444|Urbano|
+65513|Santa Isabel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5458|Rural|
+65513|Don Manuel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5472|Rural|
+65513|Los Ponys|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5474|Rural|
+65513|Camino a los Gutiérrez|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5480|Rural|
+65513|Los Morillos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5459|Rural|
+65513|San Benito|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5467|Rural|
+65513|Cuatro Hermanos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5469|Rural|
+65513|Las Lomas (Santa Teresita)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5471|Rural|
+65513|El Charro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5457|Rural|
+65513|Los Gutiérrez|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5478|Rural|
+65513|Carmen Flores|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5460|Rural|
+65513|La Amistad|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5465|Rural|
+65513|Don Cesáreo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5477|Rural|
+65513|Los Ébanos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5483|Rural|
+65513|El Mirador|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5461|Rural|
+65513|El Porvenir|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5463|Rural|
+65513|El Cortijo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5466|Rural|
+65513|San Pedro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5468|Rural|
+65513|Club de Leones|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5470|Rural|
+65513|Los Pinos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5473|Rural|
+65513|Cuatro de Abril|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5475|Rural|
+65513|Miguel Mario|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5476|Rural|
+65513|El Ancón|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5481|Rural|
+65513|Lerma (Fundición)|Zona industrial|Salinas Victoria|Nuevo León||65551|19|65551||37|045|5482|Rural|
+65513|Juanita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5462|Rural|
+65513|Casa Linda|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5464|Rural|
+65513|San José (Santa Anita)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5479|Rural|
+65514|Quince de Abril|Poblado comunal|Salinas Victoria|Nuevo León||65551|19|65551||27|045|5485|Rural|
+65514|Rancho del Norte|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5488|Rural|
+65514|San Francisco|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5492|Rural|
+65514|Los Cuates|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5495|Rural|
+65514|El Antonio (Cárdenas)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5497|Rural|
+65514|Los Pinos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5491|Rural|
+65514|Veintiocho de Marzo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5494|Rural|
+65514|El Vergel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5484|Rural|
+65514|Azafrán|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5499|Rural|
+65514|Cuatro de Octubre (Kilómetro Veintidós)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5502|Rural|
+65514|El Doce|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5489|Rural|
+65514|San José|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5500|Rural|
+65514|José Calderón|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5501|Rural|
+65514|Doña Lupita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5503|Rural|
+65514|Los Dos Potrillos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5487|Rural|
+65514|Andrea (Avícola)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5496|Rural|
+65514|Nicolás Mederes|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5498|Rural|
+65514|Lázaro Cárdenas|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5504|Rural|
+65514|Don Roque|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5486|Rural|
+65514|Salinas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5490|Rural|
+65514|J. y R.|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5493|Rural|
+65515|Los Fresnos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5509|Rural|
+65515|Fuentes|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5511|Rural|
+65515|San Agustín|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5514|Rural|
+65515|Los Doctores|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5507|Rural|
+65515|San Miguel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5508|Rural|
+65515|Emiliano Zapata (La Zapatita)|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5510|Rural|
+65515|Bosques de los Nogales|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|0001|Rural|
+65515|Valle del Norte|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|4876|Rural|
+65515|El Corralito|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5506|Rural|
+65515|San Roberto|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5512|Rural|
+65515|Los Pilares|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|5513|Rural|
+65515|Santa Martha|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5505|Rural|
+65515|Bosques de Castilla|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|0002|Urbano|
+65516|Cassandra|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5518|Rural|
+65516|Hermanos Dávila|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5520|Rural|
+65516|San Nicolás de los Garza|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5519|Rural|
+65516|Colectivo|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5446|Urbano|
+65516|La Palapa (R Cuatro)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5516|Rural|
+65516|Abel Arriaga|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5517|Rural|
+65516|Paseo Santa Isabel|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|5807|Rural|
+65516|Valle Castilla Sector Segovia|Fraccionamiento|Salinas Victoria|Nuevo León||65551|19|65551||21|045|0003|Urbano|
+65516|Sevilla|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5515|Rural|
+65517|Comunal Huertas de San Mario|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5447|Urbano|
+65517|El Aguante|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5521|Rural|
+65517|El Coyote|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5522|Rural|
+65517|El Leal (Predio Alfonso Martínez Domínguez)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5524|Rural|
+65517|El Porvenir|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5523|Rural|
+65520|Punta de la Loma (Rancho el Abuelo)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5529|Rural|
+65520|Los Arados|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5532|Rural|
+65520|Los Torres|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5540|Rural|
+65520|El Faro (Porcícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5542|Rural|
+65520|Omega Número Dos (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5549|Rural|
+65520|Ejidal Mamulique|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5537|Rural|
+65520|Fernando Hernández (San Bernardo)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5543|Rural|
+65520|San Sebastián|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5544|Rural|
+65520|Santo Tomás|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5545|Rural|
+65520|Cimarrón Steel (Lavado de Acero)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5547|Rural|
+65520|Cieneguitas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5553|Rural|
+65520|Nuevo Mamulique|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5528|Rural|
+65520|Cieneguitas|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5530|Rural|
+65520|Alfaro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5534|Rural|
+65520|Omega Número Tres (La Esperanza) Avícola|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5548|Rural|
+65520|La Floreña|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5551|Rural|
+65520|Mamulique|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5552|Rural|
+65520|Las Codornices|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5526|Rural|
+65520|El Encino|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5531|Rural|
+65520|Los Temporales|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5539|Rural|
+65520|De Rubén|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5546|Rural|
+65520|Omega Número Uno (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5550|Rural|
+65520|Santa Elena|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5527|Rural|
+65520|Los Reyes|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5792|Rural|
+65520|Mamulique|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|0676|Rural|
+65520|La Joya (Los Burros)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5525|Rural|
+65520|Colonia del Ejido|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5535|Rural|
+65520|Mariana|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5536|Rural|
+65520|San Paulo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5533|Rural|
+65520|Las Palmas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5538|Rural|
+65520|San Bernardo Dos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5541|Rural|
+65523|El Aguaje|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5555|Rural|
+65523|Uña de Gato (Loma Blanca)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5558|Rural|
+65523|Santa Teresa|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5556|Rural|
+65523|San José (La Engorda)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5557|Rural|
+65523|San Benito (Santa Elena)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5554|Rural|
+65524|El Terrero|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5560|Rural|
+65524|El Guaje|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5562|Rural|
+65524|El Recodo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5565|Rural|
+65524|El Seis (San Francisco)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5561|Rural|
+65524|El Dique (El Viejo)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5564|Rural|
+65524|El Lantrisco|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5563|Rural|
+65524|Santa Isabel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5559|Rural|
+65525|El Setenta (El Chilarito)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5569|Rural|
+65525|La Puerta|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5572|Rural|
+65525|Teresita (La Puerta)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5567|Rural|
+65525|La Barrosa|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5566|Rural|
+65525|El Alto|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5570|Rural|
+65525|La Cuesta|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5571|Rural|
+65525|El Rincón|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5573|Rural|
+65525|El Veinte (San Joel)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5568|Rural|
+65525|El Rincón|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5574|Rural|
+65526|Los Pozos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5577|Rural|
+65526|Pozo Nuevo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5578|Rural|
+65526|La Esperanza (Porcícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5580|Rural|
+65526|Pocitos (La Paloma)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5579|Rural|
+65526|Quiroga (Merendero)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5575|Rural|
+65526|La Leona|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5576|Rural|
+65527|La Paloma|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5581|Rural|
+65528|Agropecuaria el Tule|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5584|Rural|
+65528|La Victoria (Rancho del Güero)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5586|Rural|
+65528|Los Lavaderos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5582|Rural|
+65528|El Tule|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5583|Rural|
+65528|Viernes Santo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5585|Rural|
+65530|Los Villarreales|Hacienda|Salinas Victoria|Nuevo León||65551|19|65551||24|045|0677|Rural|
+65530|Las Lilas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5593|Rural|
+65530|Verdiguel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5605|Rural|
+65530|El Izotal|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5607|Rural|
+65530|El Chapote|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5613|Rural|
+65530|La Cima (Palos Blancos)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5589|Rural|
+65530|Dos de Marzo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5592|Rural|
+65530|Santa Elena|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5606|Rural|
+65530|El Mezquite (Kilómetro Treinta y Tres)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5623|Rural|
+65530|Quiroga|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5599|Rural|
+65530|Plateritos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5610|Rural|
+65530|Santa Teresa|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5612|Rural|
+65530|Los Villarreales|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5615|Rural|
+65530|Roquín|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5617|Rural|
+65530|El Ángel (Parcela Ochenta y Tres)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5627|Rural|
+65530|El Encino|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5596|Rural|
+65530|Los Guajardo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5597|Rural|
+65530|Los Alamitos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5600|Rural|
+65530|Valle Alto|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5602|Rural|
+65530|La Agonía (El Hormiguero)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5619|Rural|
+65530|Rubén Hinojosa (Arroyo la Negra)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5621|Rural|
+65530|San Gerónimo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5622|Rural|
+65530|Santa Elena (Las Encinas)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5588|Rural|
+65530|Puerto Grande|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5590|Rural|
+65530|Halcones|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5598|Rural|
+65530|La Vidriera|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5603|Rural|
+65530|Santa Gertrudis|Hacienda|Salinas Victoria|Nuevo León||65551|19|65551||24|045|5608|Rural|
+65530|San Ricardo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5611|Rural|
+65530|Los Morales|Hacienda|Salinas Victoria|Nuevo León||65551|19|65551||24|045|0680|Rural|
+65530|Raymundo Urrutia (Llano Blanco)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5591|Rural|
+65530|La Cima|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5594|Rural|
+65530|Artemio y Hernán|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5620|Rural|
+65530|Los Cantú|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5628|Rural|
+65530|San Juan|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5595|Rural|
+65530|Salinas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5604|Rural|
+65530|Puerto Chico|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5609|Rural|
+65530|El Detalle|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5614|Rural|
+65530|Mario Durón (El Rebozo)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5624|Rural|
+65530|Kilómetro Tres|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5625|Rural|
+65530|Casa de Piedra|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5587|Rural|
+65530|La Sultana (Villa Alegre)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5601|Rural|
+65530|Las Mercedes (Los García)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5616|Rural|
+65530|Arroyo la Sandía|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5618|Rural|
+65530|Santa Mónica (La Ilusión)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5626|Rural|
+65533|El Veintisiete (Las Catarinas)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5629|Rural|
+65533|San Apolinar|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5632|Rural|
+65533|El Cenizo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5638|Rural|
+65533|San Jorge|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5640|Rural|
+65533|Valle de Salinas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5648|Rural|
+65533|Los Pujidos (Porcícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5651|Rural|
+65533|Camino a los Villarreales (Kilómetro Uno)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5654|Rural|
+65533|Liz (San Juan del Mezquital)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5642|Rural|
+65533|Melisa|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5645|Rural|
+65533|La Capilla|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5634|Rural|
+65533|Las Angustias|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5637|Rural|
+65533|El Papalote|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5643|Rural|
+65533|El Ancón (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5656|Rural|
+65533|El Refugio|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5631|Rural|
+65533|La Morita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5646|Rural|
+65533|Los Garza|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5649|Rural|
+65533|El Lindero|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5636|Rural|
+65533|El Ciervo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5647|Rural|
+65533|Santa Clara|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5635|Rural|
+65533|El Atorón|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5653|Rural|
+65533|El Búfalo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5657|Rural|
+65533|Cuarenta y Cuatro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5641|Rural|
+65533|El Deiby|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5644|Rural|
+65533|Keiko (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5650|Rural|
+65533|Rancho Nuevo|Poblado comunal|Salinas Victoria|Nuevo León||65551|19|65551||27|045|5630|Rural|
+65533|San Pedro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5633|Rural|
+65533|Dolores (Los Morales)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5639|Rural|
+65533|Don Nicolás (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5652|Rural|
+65533|Kilómetro 39.9 (La Trinidad)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5655|Rural|
+65533|El Norteño|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5658|Rural|
+65534|El Granjeno|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5661|Rural|
+65534|Rey (Hielo)|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5673|Rural|
+65534|La Copina|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5665|Rural|
+65534|El Cóndor (Avícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5669|Rural|
+65534|Primero de Mayo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5666|Rural|
+65534|Hojacen|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|0678|Rural|
+65534|Campestre el Palmar|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5660|Rural|
+65534|Mamulique|Estación|Salinas Victoria|Nuevo León||65551|19|65551||16|045|5668|Rural|
+65534|La Nacagüita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5670|Rural|
+65534|La Luz|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5672|Rural|
+65534|El Cerrito|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5659|Rural|
+65534|Los Cuarenta y Cinco|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5664|Rural|
+65534|El Cuarenta y Cuatro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5662|Rural|
+65534|La Luz|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5663|Rural|
+65534|La Agonía|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5667|Rural|
+65534|Rey (Hielo)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5671|Rural|
+65535|San Antonio|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5678|Rural|
+65535|Las Delicias|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5675|Rural|
+65535|La Purísima (Güémez)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5686|Rural|
+65535|Dinastía|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5684|Rural|
+65535|San Ramón|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5685|Rural|
+65535|El Canelo|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5687|Rural|
+65535|Los Urrutias|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|0679|Rural|
+65535|El Mezquital (San Juan del Mezquital)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5676|Rural|
+65535|Sagitario (Las Delicias)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5680|Rural|
+65535|La Rana|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5681|Rural|
+65535|Primero de Junio|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5683|Rural|
+65535|Los Yuguitos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5679|Rural|
+65535|El Canelo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5674|Rural|
+65535|El Recodo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5677|Rural|
+65535|La Rosa|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5682|Rural|
+65536|El Argentino|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5704|Rural|
+65536|Las Abejas|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5709|Rural|
+65536|La Gloria|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5719|Rural|
+65536|Cuatro de Abril|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5693|Rural|
+65536|Las Palmas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5702|Rural|
+65536|El Ranchito|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5696|Rural|
+65536|Antorcha Campesina|Ejido|Salinas Victoria|Nuevo León||65551|19|65551||15|045|5706|Rural|
+65536|El Sinaí|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5712|Rural|
+65536|Veinte de Agosto (Porcícola)|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5713|Rural|
+65536|Morales|Estación|Salinas Victoria|Nuevo León||65551|19|65551||16|045|5717|Rural|
+65536|Santa Eduviges|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5689|Rural|
+65536|Viejo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5690|Rural|
+65536|Las Carretas (Rancho Tres)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5692|Rural|
+65536|El Rebozo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5698|Rural|
+65536|San Isidro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5699|Rural|
+65536|Santa Ana|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5703|Rural|
+65536|Las Carretas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5688|Rural|
+65536|Punta de la Loma|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5691|Rural|
+65536|Nuevo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5697|Rural|
+65536|Labores Nuevas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5701|Rural|
+65536|Siete de Abril|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5707|Rural|
+65536|Las Abejas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5708|Rural|
+65536|Las Carretas|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5720|Rural|
+65536|Los Pérez|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5721|Rural|
+65536|San Martín|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5714|Rural|
+65536|Guadalupe (Lienzo Charro)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5694|Rural|
+65536|El Huizache|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5695|Rural|
+65536|La Pista (Las Carretas) Porcícola|Granja|Salinas Victoria|Nuevo León||65551|19|65551||23|045|5715|Rural|
+65536|Los Pérez|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5716|Rural|
+65536|Santa Elena|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5700|Rural|
+65536|La Gloria|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5705|Rural|
+65536|Tierra Blanca|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5710|Rural|
+65536|Pedro Silva (Santa Elia)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5711|Rural|
+65536|Las Carretas|Hacienda|Salinas Victoria|Nuevo León||65551|19|65551||24|045|5718|Rural|
+65537|San Ignacio|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5724|Rural|
+65537|Nueva Salinas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5725|Rural|
+65537|Veinte de Febrero|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5727|Rural|
+65537|La Victoria|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5729|Rural|
+65537|El Cuatro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5730|Rural|
+65537|El Milagro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5723|Rural|
+65537|Arroyo la Negra|Hacienda|Salinas Victoria|Nuevo León||65551|19|65551||24|045|5732|Rural|
+65537|El Coyote|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5733|Rural|
+65537|San Gerardo (San Inés)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5735|Rural|
+65537|Conchita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5731|Rural|
+65537|Gilberto González|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5734|Rural|
+65537|Unión San Javier|Colonia|Salinas Victoria|Nuevo León||65551|19|65551||09|045|5736|Rural|
+65537|San Pablo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5726|Rural|
+65537|Quince de Diciembre (La Vidriera)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5722|Rural|
+65537|La Estrella|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5728|Rural|
+65537|Santa Mónica|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5737|Rural|
+65543|San Juan Pesquerineño|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5750|Rural|
+65543|El Roble|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5741|Rural|
+65543|El Pedregal (El Guajiro)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5745|Rural|
+65543|El Mezquite|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5744|Rural|
+65543|Gomas y Mendiola (Rancho de Gomas)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5738|Rural|
+65543|Guadalupe|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5739|Rural|
+65543|San Roberto|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5743|Rural|
+65543|El Bambú|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5748|Rural|
+65543|Los Quiroga|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5740|Rural|
+65543|San Juan de Guadalupe|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5742|Rural|
+65543|Cuatro Emilios (La Concepción)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5746|Rural|
+65543|La Unión|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5747|Rural|
+65543|Peñitas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5749|Rural|
+65543|Guadalupe|Finca|Salinas Victoria|Nuevo León||65551|19|65551||20|045|5751|Rural|
+65544|Los Generales|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5756|Rural|
+65544|Las Coloradas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5753|Rural|
+65544|San Juan (Palo Blanco)|Estación|Salinas Victoria|Nuevo León||65551|19|65551||16|045|5759|Rural|
+65544|El Aguajito|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5752|Rural|
+65544|El Cortador|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5755|Rural|
+65544|El Jardín|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5758|Rural|
+65544|El Puerto|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5754|Rural|
+65544|La Rumorosa|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5757|Rural|
+65545|San Manuel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5763|Rural|
+65545|Santa Isabel|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5766|Rural|
+65545|El Maguey|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5761|Rural|
+65545|Milpillas|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5764|Rural|
+65545|Palo Blanco|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5762|Rural|
+65545|San Ignacio|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5765|Rural|
+65545|El Mesón|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5768|Rural|
+65545|El Colmenar (Los Quiroga)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5760|Rural|
+65545|La Agüita|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5767|Rural|
+65546|Barranca Blanca|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5772|Rural|
+65546|San Gregorio|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5774|Rural|
+65546|Lampazos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5771|Rural|
+65546|El Quemado|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5773|Rural|
+65546|Kilómetro Setenta y Seis|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5777|Rural|
+65546|Palmeras|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5770|Rural|
+65546|El Cedro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5769|Rural|
+65546|San Raymundo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5775|Rural|
+65546|Los Treviño|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5778|Rural|
+65546|Heleno Evelio Quiroga|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5776|Rural|
+65547|Los Martínez|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5787|Rural|
+65547|El Pedernal|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5782|Rural|
+65547|Arturo Quiroga|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5786|Rural|
+65547|Salsipuedes|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5783|Rural|
+65547|El Sarro|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5784|Rural|
+65547|El León|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5788|Rural|
+65547|Las Nueces|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5781|Rural|
+65547|Montelongo|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5779|Rural|
+65547|San Juan|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5785|Rural|
+65547|El Nogal|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5780|Rural|
+65547|Doctor Ramón (Raíces)|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5789|Rural|
+65548|Picachos de los Abuelos|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5790|Rural|
+65548|El Orégano|Ranchería|Salinas Victoria|Nuevo León||65551|19|65551||29|045|5791|Rural|

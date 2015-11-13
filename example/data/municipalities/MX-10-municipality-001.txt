@@ -1,0 +1,203 @@
+34400|Rancho Colorado (Rancho el Cura)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2368|Rural|
+34400|Francisco Zarco (Las Delicias)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0475|Rural|
+34400|Santa Teresa de los Pinos|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0479|Rural|
+34400|Canoas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2263|Rural|
+34400|Los Pinos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2343|Rural|
+34400|Rancho del Cura|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2369|Rural|
+34400|Hacienda los Pinos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2298|Rural|
+34400|Buenavista|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4732|Rural|
+34400|Rancho los Herrera (la Esperanza)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2374|Rural|
+34403|Los Monos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2339|Rural|
+34403|Santa Susana|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2389|Rural|
+34403|Altamira|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2259|Rural|
+34403|Puerto de Cañas (La Noria)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2366|Rural|
+34403|Los Sauces (Balneario)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2261|Rural|
+34403|La Soledad|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2316|Rural|
+34403|Los Herrera|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2337|Rural|
+34403|Los Lirios|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0476|Rural|
+34403|Arnulfo R. Gómez (Los Sauces)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2260|Rural|
+34403|La Abeja|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2303|Rural|
+34403|El Progreso (Los Pinos)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|0473|Rural|
+34403|El Vergel de Sauces|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2294|Rural|
+34403|Piedra Encimada|Ranchería|Canatlán|Durango||34451|10|34451||29|001|0478|Rural|
+34403|Francisco Merino ( San Bernardino)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2296|Rural|
+34404|José Cruz Gálvez (Cañas)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0477|Rural|
+34404|La Esperanza|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2308|Rural|
+34404|El Capricho|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2276|Rural|
+34404|Rancho San Agustín|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2377|Rural|
+34404|El Menón|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4735|Rural|
+34405|Charco Largo|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2265|Rural|
+34405|Las Arañas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4736|Rural|
+34405|El Chaparro (los Méndez)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2278|Rural|
+34405|La Esperanza|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2307|Rural|
+34405|Ignacio M. Altamirano (La Luz)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0415|Rural|
+34405|Cuatillos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2270|Rural|
+34405|Los Nieves|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2340|Rural|
+34405|Miguel Hidalgo (Viborillas)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0412|Rural|
+34405|El Álamo|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2274|Rural|
+34405|El Chaparro de los Díaz (Chaparro Díaz)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2279|Rural|
+34405|El Chaparro de los Rivera|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2280|Rural|
+34405|Rancho Blanco|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2367|Rural|
+34405|Rancho el Papalote|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2370|Rural|
+34405|La Estancia de Ibarra (La Estancia)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4725|Rural|
+34405|San Francisco Dos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4726|Rural|
+34405|Mieleras|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4728|Rural|
+34405|Manuel Jiménez (Rancho Seco)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2345|Rural|
+34406|Medina|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0419|Rural|
+34406|Dolores Hidalgo (Gogogito)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0414|Rural|
+34406|Donato Guerra|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0418|Rural|
+34407|Canatlán Viejo|Barrio|Canatlán|Durango||34451|10|34451||02|001|2262|Rural|
+34407|Predio la Cañada|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2355|Rural|
+34407|Predio Santa Cruz de las Huertas|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2365|Rural|
+34407|El Pozole|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0413|Rural|
+34407|Predio Potrero del Trigo|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2362|Rural|
+34407|Predio San Rafael|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2364|Rural|
+34407|La Loma|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2311|Rural|
+34407|Predio las Macheras|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2357|Rural|
+34407|San Javier|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2384|Rural|
+34407|Predio la Sauceda|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2356|Rural|
+34407|Predio Mundo Engañoso|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2359|Rural|
+34407|Predio Potrero del Huizachal|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2361|Rural|
+34407|Predio Potrero Nuevo|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2363|Rural|
+34407|La Cañada|Congregación|Canatlán|Durango||34451|10|34451||11|001|0409|Rural|
+34407|Michirame|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2346|Rural|
+34407|Ojo de Agua del Mezquital|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2350|Rural|
+34407|Predio Canatlán|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2352|Rural|
+34407|Predio el Pozole|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2354|Rural|
+34407|Predio las Tlazoleras|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2358|Rural|
+34407|Las Cocinas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4727|Rural|
+34407|Crucero del Ojo de Agua del Mezquital|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2269|Rural|
+34407|Predio Colima|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2353|Rural|
+34407|Predio Potrero de Barrera|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2360|Rural|
+34440|Rancho Mesa de Guadalupe|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2375|Rural|
+34440|Los ángeles (Predio la Esperanza)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4737|Rural|
+34440|San Diego de Alcalá|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0466|Rural|
+34440|Selerino López|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2335|Rural|
+34440|Los Táscates (Tres Caídas)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2344|Rural|
+34440|San Jerónimo de Jacales|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0471|Rural|
+34443|Marquesotes de Guadalupe (Canelas)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0470|Rural|
+34443|La Plazuela (El Rayo)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0472|Rural|
+34443|Rancho las Canoas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2373|Rural|
+34443|San Lorenzo|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2386|Rural|
+34443|Los Ojitos|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2341|Rural|
+34444|Lirios de la Sierra|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2323|Rural|
+34444|El Ranchito|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2287|Rural|
+34444|El Saucillal|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2292|Rural|
+34444|La Joya de los Quiotes|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4738|Rural|
+34445|Maymorita|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0467|Rural|
+34445|Rancho Guajolotes|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2372|Rural|
+34445|Las Latas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2320|Rural|
+34445|Santa Rosa de Escamillas|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2388|Rural|
+34445|La Boquilla|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2305|Rural|
+34445|Gomelia|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0469|Rural|
+34445|Diez Hermanos (Las Tapias)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2271|Rural|
+34445|El Tule|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0468|Rural|
+34445|El Faisán de las Tapias|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2282|Rural|
+34446|Cerro Prieto|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2264|Rural|
+34446|Las Aztecas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2318|Rural|
+34446|Cieneguitas|Pueblo|Canatlán|Durango||34451|10|34451||28|001|2267|Rural|
+34446|Ojo de Agua de La Vieja|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2348|Rural|
+34446|Ojo de Agua de Navidad|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2349|Rural|
+34446|El Ojo del Negro|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2285|Rural|
+34446|Terranova|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2391|Rural|
+34446|Alamitos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2258|Rural|
+34446|Magueycitos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4730|Rural|
+34446|Potrerillos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2351|Rural|
+34450|Canatlán de las Manzanas Centro|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|0407|Semiurbano|05
+34453|Arboledas|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1905|Semiurbano|05
+34453|Camino al Panteón|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|6069|Urbano|05
+34453|Residencial Jardines|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|6073|Urbano|05
+34453|Soledad Alvarez|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1910|Semiurbano|05
+34453|Ayuntamiento|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1909|Semiurbano|05
+34453|Los Manzanos|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1911|Semiurbano|05
+34453|Real del Valle|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1908|Semiurbano|05
+34453|Roma|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1904|Semiurbano|05
+34453|Mijares|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1906|Semiurbano|05
+34453|Plutarco Elías Calles|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1907|Semiurbano|05
+34453|Los Perales|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|6070|Urbano|05
+34453|Paso Real|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|6072|Urbano|05
+34454|Los Nogales|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1912|Semiurbano|05
+34454|Ejidal|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1913|Semiurbano|05
+34454|Paraíso Paso Real|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|6071|Urbano|05
+34455|11 de Julio|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1914|Semiurbano|05
+34455|Valenzuela|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1915|Semiurbano|05
+34456|San Diego|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1919|Semiurbano|05
+34456|Progresista|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1917|Semiurbano|05
+34456|Las Brisas|Fraccionamiento|Canatlán|Durango|Canatlán|34451|10|34451||21|001|1918|Semiurbano|05
+34457|30 Viejos|Barrio|Canatlán|Durango|Canatlán|34451|10|34451||02|001|1920|Semiurbano|05
+34457|Bellavista|Colonia|Canatlán|Durango|Canatlán|34451|10|34451||09|001|1921|Semiurbano|05
+34460|El Capricho|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2275|Rural|
+34460|El Refugio (El Moradito)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2288|Rural|
+34460|Charoláis los Sauces II|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4733|Rural|
+34460|Nicolás Bravo|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0480|Rural|
+34460|La Alcancía|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2304|Rural|
+34460|Veintidós de Mayo|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0489|Rural|
+34460|El Nocebe|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2284|Rural|
+34460|Rancho Perales|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2376|Rural|
+34460|El Coyote (ojo del Coyote)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2281|Rural|
+34460|El Porvenir (Casas Coloradas)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2286|Rural|
+34460|Charoláis los Sauces I|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2266|Rural|
+34460|El Refugio (la Esperanza)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2289|Rural|
+34460|San Antonio de los Reyes|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2381|Rural|
+34460|El Sáuz (Gustavo Silerio)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0491|Rural|
+34460|Hacienda San Rafael|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2299|Rural|
+34460|Los Ojuelos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2342|Rural|
+34460|Benjamín Aranda (San Rafael)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0488|Rural|
+34460|Las Tres M (Los Nevárez)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2322|Rural|
+34460|San Carlos de los Reyes|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2382|Rural|
+34460|Agrícola Ganadera Bravo (san Rafael)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2257|Rural|
+34463|La Negra Brangus (La Trinidad)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4729|Rural|
+34463|Las Pomas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2321|Rural|
+34464|Durangueño (Corralitos)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2273|Rural|
+34464|Guadalupe los Nogales (Las Papas)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2297|Rural|
+34465|José Guadalupe Aguilera (La Granja)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0486|Rural|
+34465|La Guarnición (La Pequeña)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2310|Rural|
+34465|Alfredo González Arámbula|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2324|Rural|
+34465|Artemio Ramos Alvarado|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2325|Rural|
+34465|Enrique Medrano|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2326|Rural|
+34465|San Felipe|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2383|Rural|
+34465|Pedro Muñoz|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2334|Rural|
+34465|Los Aniegos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4731|Rural|
+34465|Corpus Cristys|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4740|Rural|
+34465|Lalo Acuña|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2330|Rural|
+34465|Los Arcos|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4739|Rural|
+34465|Nogales|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0482|Rural|
+34465|José Guadalupe Aguilera (Santa Lucia)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0484|Rural|
+34465|El Sauz Bendito|Ranchería|Canatlán|Durango||34451|10|34451||29|001|0492|Rural|
+34465|Esteban Vargas Betancourt|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2327|Rural|
+34465|Gaspar Valles|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2328|Rural|
+34465|Joaquín Ibarra|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2329|Rural|
+34465|San José de Gracia|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0417|Rural|
+34465|Cerro Gordo|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0490|Rural|
+34465|Huerta Varela|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2302|Rural|
+34465|Manuel Ortega|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2333|Rural|
+34465|Rancho San Felipe|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2378|Rural|
+34465|Santa Isabel|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2387|Rural|
+34465|General Martín López|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0481|Rural|
+34465|El Regreso|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2290|Rural|
+34465|El Río (Los García)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2291|Rural|
+34465|Elisa|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2295|Rural|
+34465|La Ganadera|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2309|Rural|
+34465|La Norteña|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2313|Rural|
+34465|Los Enríquez|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2336|Rural|
+34465|Rancho Elizondo|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2371|Rural|
+34465|Huerta el Llano|Ranchería|Canatlán|Durango||34451|10|34451||29|001|4734|Rural|
+34465|La Perseverancia|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2314|Rural|
+34465|Los Juárez|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2338|Rural|
+34465|San Juan|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2385|Rural|
+34466|Bruno Martínez (San Bartolo)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0420|Rural|
+34466|Venustiano Carranza (Ocotán)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0485|Rural|
+34466|Don Chema|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2272|Rural|
+34466|Ejidal|Ejido|Canatlán|Durango||34451|10|34451||15|001|0416|Rural|
+34466|Huerta Santa Cecilia|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2301|Rural|
+34466|Sarita|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2390|Rural|
+34466|La Sauceda|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0410|Rural|
+34466|Hermenegildo Galiana|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2300|Rural|
+34466|San Antonio|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2380|Rural|
+34466|Ojo de Agua|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2347|Rural|
+34467|La Preciosa|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2315|Rural|
+34467|La Casita del Potrero Nuevo|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2306|Rural|
+34467|Colonia Anáhuac (Palo Blanco)|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0483|Rural|
+34467|Ricardo Flores Magón|Pueblo|Canatlán|Durango||34451|10|34451||28|001|0487|Rural|
+34467|Las Conchitas|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2319|Rural|
+34467|Rancho Tres Potrillos (Manuel Mancha)|Ranchería|Canatlán|Durango||34451|10|34451||29|001|2379|Rural|

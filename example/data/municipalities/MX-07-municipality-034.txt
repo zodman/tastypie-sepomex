@@ -1,0 +1,77 @@
+30140|Loma Bonita|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4254|Rural|
+30140|Candelaria|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4256|Rural|
+30140|Nuevo Infonavit|Fraccionamiento|Frontera Comalapa|Chiapas||30141|07|30141||21|034|4269|Rural|
+30140|Los Hornos|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4272|Rural|
+30140|La Sahop|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4276|Rural|
+30140|Las Palmas|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4277|Rural|
+30140|20 de Enero|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4279|Rural|
+30140|El Azufre|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4255|Rural|
+30140|Las Flores|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4263|Rural|
+30140|El Mango|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4264|Rural|
+30140|Nuevo Villa Flores|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4266|Rural|
+30140|El Mirador|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4251|Rural|
+30140|Flamboyán|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4253|Rural|
+30140|Concepción|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4259|Rural|
+30140|Cushu|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4260|Rural|
+30140|Linda Vista|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4280|Rural|
+30140|Guadalupe|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4250|Rural|
+30140|Santa Cruz|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4262|Rural|
+30140|Belisario Domínguez|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4267|Rural|
+30140|Santa Martha|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4273|Rural|
+30140|Frontera Comalapa|Pueblo|Frontera Comalapa|Chiapas||30141|07|30141||28|034|1107|Rural|
+30140|San Pedro|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4247|Rural|
+30140|San Francisco La Aurora|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4261|Rural|
+30140|El Paraíso|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4265|Rural|
+30140|Esmeralda|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4248|Rural|
+30140|Sabinito|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4257|Rural|
+30140|El Cedro|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4268|Rural|
+30140|La Nueva Independencia|Congregación|Frontera Comalapa|Chiapas||30141|07|30141||11|034|1108|Rural|
+30140|Alborada|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4258|Rural|
+30140|Bugambilias|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4271|Rural|
+30140|Cuernavaca|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4275|Rural|
+30140|La Esperanza|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4278|Rural|
+30140|Nueva Libertad|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1109|Rural|
+30140|Albania Alta|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4249|Rural|
+30140|Cuernavaca|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4252|Rural|
+30140|Nevelandia|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4270|Rural|
+30140|La Jimba|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|4274|Rural|
+30143|Santa Rita|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1111|Rural|
+30145|Nuevo México|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1113|Rural|
+30145|El Portal|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1112|Rural|
+30146|El Anonal|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1115|Rural|
+30146|Bellavista del Norte|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1114|Rural|
+30146|3 Maravillas|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1117|Rural|
+30146|La Sabinada|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1116|Rural|
+30147|La Reforma|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1119|Rural|
+30147|Nuevo Comalapa|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|5841|Rural|
+30147|Guadalupe Grijalva|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1118|Rural|
+30148|Nuevo Llano Grande|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1121|Rural|
+30148|Costa Rica|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1120|Rural|
+30148|Nuevo Mazapa|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1122|Rural|
+30148|Santa Rosa|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1123|Rural|
+30149|Huixnayal|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1125|Rural|
+30149|Agua Zarca|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1124|Rural|
+30149|Las Limas|Barrio|Frontera Comalapa|Chiapas||30141|07|30141||02|034|1126|Rural|
+30150|Las Champas|Pueblo|Frontera Comalapa|Chiapas||30141|07|30141||28|034|0001|Rural|
+30150|Ciudad Cuauhtémoc|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1127|Rural|
+30151|Monte Redondo|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1128|Rural|
+30152|Nuevo Tamaulipas|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1131|Rural|
+30152|Benito Juárez|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1129|Rural|
+30152|Nicolás Bravo|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1130|Rural|
+30152|Villa de Guadalupe|Villa|Frontera Comalapa|Chiapas||30141|07|30141||32|034|1132|Rural|
+30153|Santa Teresa Llano Grande|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1135|Rural|
+30153|Sabinalito|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1134|Rural|
+30153|Paso Hondo|Pueblo|Frontera Comalapa|Chiapas||30141|07|30141||28|034|1133|Rural|
+30154|San Caralampio|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1145|Rural|
+30154|El Horizonte|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1136|Rural|
+30154|Lindavista|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1138|Rural|
+30154|Nuevo San Gregorio|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1142|Rural|
+30154|Nueva Linda|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1140|Rural|
+30154|Joaquín M Gutiérrez|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1137|Rural|
+30154|Los Laureles|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1139|Rural|
+30154|Nuevo San Francisco Playa Grande|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1141|Rural|
+30154|Verapaz|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1147|Rural|
+30154|Revolución|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1143|Rural|
+30154|Rodulfo Figueroa|Pueblo|Frontera Comalapa|Chiapas||30141|07|30141||28|034|1144|Rural|
+30154|Sinaloa|Ejido|Frontera Comalapa|Chiapas||30141|07|30141||15|034|1146|Rural|
+30155|Santa Apolonia|Ranchería|Frontera Comalapa|Chiapas||30141|07|30141||29|034|1148|Rural|

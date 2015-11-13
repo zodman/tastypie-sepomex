@@ -1,0 +1,1521 @@
+33180|La Loma|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|5660|Urbano|
+33180|Guachochi Centro|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|1604|Urbano|
+33180|Agua Zarca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1599|Rural|
+33183|Aeropuerto|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9647|Urbano|
+33183|Industrial|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9651|Urbano|
+33183|La Cortina|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|4148|Rural|
+33183|Piedra Agujerada|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9650|Urbano|
+33183|La Loma|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9648|Urbano|
+33183|Igusa|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9649|Urbano|
+33183|La Hacienda|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|4221|Urbano|
+33184|Campesina|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9652|Rural|
+33184|Las Grazas|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9654|Urbano|
+33184|Los Pinos|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|4149|Rural|
+33184|El Salto|Barrio|Guachochi|Chihuahua||33181|08|33181||02|027|1603|Rural|
+33184|Magisterial|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9653|Rural|
+33185|Arboleda|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9657|Urbano|
+33185|Buenavista|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|0002|Urbano|
+33185|Deportiva|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|3990|Urbano|
+33185|Las Truchas|Barrio|Guachochi|Chihuahua||33181|08|33181||02|027|0001|Urbano|
+33185|Timoteo Martínez|Fraccionamiento|Guachochi|Chihuahua||33181|08|33181||21|027|5743|Urbano|
+33185|Barrio Azul|Barrio|Guachochi|Chihuahua||33181|08|33181||02|027|9655|Urbano|
+33185|Lindavista|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9658|Urbano|
+33185|Obrera|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9659|Urbano|
+33185|Altavista|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|5659|Urbano|
+33185|Las Tunas|Colonia|Guachochi|Chihuahua||33181|08|33181||09|027|9656|Urbano|
+33186|Arroyo la Ciénega|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8252|Rural|
+33186|Casa Redonda|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8429|Rural|
+33186|El Fraile|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8618|Rural|
+33186|Huillorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8816|Rural|
+33186|La Laguna de los Caballos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8891|Rural|
+33186|Los Cerritos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8968|Rural|
+33186|Matiorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9002|Rural|
+33186|Mesa del Durazno|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9041|Rural|
+33186|Nepomuceno|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9113|Rural|
+33186|Paraje la Cuesta del Gato|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9159|Rural|
+33186|Presa de Yáñez|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9190|Rural|
+33186|Rancho el Fresno|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9241|Rural|
+33186|Arenales|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8234|Rural|
+33186|Bacasoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8266|Rural|
+33186|Bajichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8284|Rural|
+33186|Huahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8770|Rural|
+33186|La Gotera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8874|Rural|
+33186|La Mesa de la Joya|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8914|Rural|
+33186|Mesa de los Surcos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9020|Rural|
+33186|Mesa de Naruchare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9023|Rural|
+33186|Morizochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9064|Rural|
+33186|Río Caporachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9340|Rural|
+33186|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9402|Rural|
+33186|Saguarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9430|Rural|
+33186|Saguaroachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9435|Rural|
+33186|San Francisco (Bajío San Francisco)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9452|Rural|
+33186|Tucheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9595|Rural|
+33186|Mesa de los Barbechitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9018|Rural|
+33186|Mesa de Payeguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9027|Rural|
+33186|Mesa del Barro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9039|Rural|
+33186|Polvadera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9188|Rural|
+33186|Roneachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9385|Rural|
+33186|Sacacheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9425|Rural|
+33186|Saguaroachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9436|Rural|
+33186|Sehuamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9495|Rural|
+33186|Talpa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9569|Rural|
+33186|Bajío Largo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8306|Rural|
+33186|Barbechitos|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8326|Rural|
+33186|Bochinachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8379|Rural|
+33186|Ciénega de Corralitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8506|Rural|
+33186|El Aguaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8573|Rural|
+33186|El Chivio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8607|Rural|
+33186|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8629|Rural|
+33186|El Peñasco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8661|Rural|
+33186|El Perro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8663|Rural|
+33186|La Joyita de Norogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8888|Rural|
+33186|La Mesa del Barro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8916|Rural|
+33186|Las Tinas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8956|Rural|
+33186|Puerto Moba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9195|Rural|
+33186|Ranchería Ochocachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9226|Rural|
+33186|Rosobochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9416|Rural|
+33186|Tabla de Arriba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9564|Rural|
+33186|Zapareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9638|Rural|
+33186|Aguaje Escondido|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8203|Rural|
+33186|Aguajito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8204|Rural|
+33186|Ajolotes|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8210|Rural|
+33186|Arroyo Arenal|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8238|Rural|
+33186|Arroyo Pichicuate|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8253|Rural|
+33186|Baheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8282|Rural|
+33186|Barranquitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8332|Rural|
+33186|Chipuachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8466|Rural|
+33186|Choreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8472|Rural|
+33186|Choreachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8473|Rural|
+33186|El Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8632|Rural|
+33186|El Rebaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8687|Rural|
+33186|Iribeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8850|Rural|
+33186|La Cañada|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8859|Rural|
+33186|La Cumbre de Silverio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8867|Rural|
+33186|La Joya|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8883|Rural|
+33186|Lagunitas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8943|Rural|
+33186|Las Cuevitas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8946|Rural|
+33186|Los Arbolitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8964|Rural|
+33186|Macharichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8986|Rural|
+33186|Rancho Seco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1605|Rural|
+33186|Barrio Escondido|Barrio|Guachochi|Chihuahua||33181|08|33181||02|027|8333|Rural|
+33186|El Barro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8595|Rural|
+33186|El Tecolote|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8705|Rural|
+33186|La Mesita de Guachochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8922|Rural|
+33186|Las Pilas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8953|Rural|
+33186|Los Arbolitos|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8965|Rural|
+33186|Mesa de Sahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9031|Rural|
+33186|Riquirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9346|Rural|
+33186|Romochoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9382|Rural|
+33186|Tecorichito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9579|Rural|
+33186|Caborachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1601|Rural|
+33186|Agua Azul|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|5645|Rural|
+33186|Calaveras|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8411|Rural|
+33186|Casa Blanca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8427|Rural|
+33186|Cerro Colorado|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8438|Rural|
+33186|Chumerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8491|Rural|
+33186|Ciénega de Caborachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8505|Rural|
+33186|Corralitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8534|Rural|
+33186|Cumbre de Moba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8547|Rural|
+33186|La Joya|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8882|Rural|
+33186|Mesa Yerbanís|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9049|Rural|
+33186|Ninguno [Aeropuerto]|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9114|Rural|
+33186|Ranchería|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9208|Rural|
+33186|Saguarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9433|Rural|
+33186|Agua Junta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8200|Rural|
+33186|Barbechitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8324|Rural|
+33186|Cerro Colorado|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8439|Rural|
+33186|Chaochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8447|Rural|
+33186|El Cerrito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8602|Rural|
+33186|El Ojito (San Pedro)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8655|Rural|
+33186|El Potrerito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8668|Rural|
+33186|El Rincón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8691|Rural|
+33186|El Río|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8694|Rural|
+33186|El Rosado (El Rosadito)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8698|Rural|
+33186|Güagueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8732|Rural|
+33186|La Laguna de los Muertos (San Benito)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8892|Rural|
+33186|La Piedra Agujerada|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8926|Rural|
+33186|Las Juntas (El Aguajito)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8951|Rural|
+33186|Natahuachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9112|Rural|
+33186|Paraje de Saguaroachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9157|Rural|
+33186|Remohuacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9297|Rural|
+33186|Saguarichi de Abajo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9434|Rural|
+33186|Arroyo Casas Quemadas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8239|Rural|
+33186|Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8283|Rural|
+33186|Bajío de la Cueva|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8295|Rural|
+33186|Cabecera Casas Quemadas (Santa Eugenia)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8404|Rural|
+33186|Casas Quemadas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8431|Rural|
+33186|Chipuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8465|Rural|
+33186|Chipuachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8467|Rural|
+33186|Chuhachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8486|Rural|
+33186|Cordón de la Cumbre|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8529|Rural|
+33186|Cumbre de los Aguajitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8546|Rural|
+33186|El Bajío|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8591|Rural|
+33186|El Ranchito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8675|Rural|
+33186|El Ranchito|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8677|Rural|
+33186|La Angostura|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8856|Rural|
+33186|La Lajita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8900|Rural|
+33186|La Lobera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8904|Rural|
+33186|La Mesita (La Mesita de Buenavista)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8921|Rural|
+33186|Mesa de Situchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9032|Rural|
+33186|Moba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9051|Rural|
+33186|Natahuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9111|Rural|
+33186|Orachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9139|Rural|
+33186|Pachoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9146|Rural|
+33186|Pareguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9164|Rural|
+33186|Remojachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9300|Rural|
+33186|Sahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9439|Rural|
+33186|San Caralampio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9451|Rural|
+33186|Sepotachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9503|Rural|
+33186|Sitagapachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9530|Rural|
+33186|Zapareachi [Aserradero]|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9643|Rural|
+33187|Buena Vista|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8403|Rural|
+33187|Cabecera de Bajío Largo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8405|Rural|
+33187|Cerro Grande|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8441|Rural|
+33187|Cumbres de Buenavista|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8554|Rural|
+33187|Cumbres de Sinforosa|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8558|Rural|
+33187|El Alamito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8585|Rural|
+33187|El Cerrito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8603|Rural|
+33187|Huichaboachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8793|Rural|
+33187|La Canoa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8857|Rural|
+33187|La Cumbrecita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8868|Rural|
+33187|La Joyita|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8887|Rural|
+33187|La Junta (Las Adjuntas)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8889|Rural|
+33187|La Unión|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8937|Rural|
+33187|Laja Blanca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8944|Rural|
+33187|Los Patos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8977|Rural|
+33187|Mesa de la Guitarra|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9015|Rural|
+33187|Pino Gordo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9186|Rural|
+33187|Rancho el Peñasco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9242|Rural|
+33187|Rancho Viejo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9249|Rural|
+33187|San Miguel de Abajo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9456|Rural|
+33187|Bajío del Tascatito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8305|Rural|
+33187|Cerro Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8440|Rural|
+33187|Cumbres del Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8559|Rural|
+33187|El Aguaje Cumbres del Río Verde|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8578|Rural|
+33187|El Corache|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8610|Rural|
+33187|El Lobito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8624|Rural|
+33187|El Pleito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8666|Rural|
+33187|El Río Verde|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8695|Rural|
+33187|El Salto|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8700|Rural|
+33187|El Tascatito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8704|Rural|
+33187|Los Chiqueros|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8970|Rural|
+33187|Los Patos|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8978|Rural|
+33187|Maserohui|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8996|Rural|
+33187|Mesa del Trigo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9048|Rural|
+33187|Nahuajirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9086|Rural|
+33187|Otovachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9144|Rural|
+33187|Puertecitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9191|Rural|
+33187|Rancho la Esperanza|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9243|Rural|
+33187|San Silvestre|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9464|Rural|
+33187|Sibarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9505|Rural|
+33187|Talayotes|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9568|Rural|
+33187|Turuceachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9605|Rural|
+33187|Bajío de los Palma|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8303|Rural|
+33187|Balde Negro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8312|Rural|
+33187|Carboneras|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8423|Rural|
+33187|Cerro Grande|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8442|Rural|
+33187|Cuerno de Venado (Cumbre de Gualayna)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8540|Rural|
+33187|El Campo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8597|Rural|
+33187|El Porvenir|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8667|Rural|
+33187|El Saucito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8702|Rural|
+33187|La Gloria|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8872|Rural|
+33187|La Lobera (San Miguel de Abajo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8905|Rural|
+33187|Laguna de los Corrales|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8940|Rural|
+33187|Las Marijuntas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8952|Rural|
+33187|Loma del Táscate|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8961|Rural|
+33187|Mesa del Pitorreal|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9046|Rural|
+33187|Nachacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9080|Rural|
+33187|Pie de la Cuesta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9181|Rural|
+33187|Rancho de Roque|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9239|Rural|
+33187|Río Verde|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9343|Rural|
+33187|San Miguel de Arriba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9457|Rural|
+33187|Tucheachi (El Potrero)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9600|Rural|
+33187|El Álamo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|4224|Rural|
+33187|Alamito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8212|Rural|
+33187|Barbechitos de Abajo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8327|Rural|
+33187|Cosohuirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8535|Rural|
+33187|Cumbre de Río Verde|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8548|Rural|
+33187|Güerirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8749|Rural|
+33187|La Joya|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8881|Rural|
+33187|La Lajita Fracción de Cerro Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8901|Rural|
+33187|La Noria|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8924|Rural|
+33187|Las Sardinas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8954|Rural|
+33187|Llano Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8958|Rural|
+33187|Los Tordillos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8984|Rural|
+33187|Ochocachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9125|Rural|
+33187|Puerto Amarillo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9192|Rural|
+33187|Ranchería Cerro Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9214|Rural|
+33187|San Isidro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9453|Rural|
+33187|Táscate de los Ramos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9570|Rural|
+33187|Agua Escondida|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1612|Rural|
+33187|Cumbres de Guerachi|Pueblo|Guachochi|Chihuahua||33181|08|33181||28|027|1614|Rural|
+33187|Cajeme|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8409|Rural|
+33187|Cusihuiriachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8568|Rural|
+33187|El Madroño Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8628|Rural|
+33187|El Pitorreal|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8665|Rural|
+33187|El Rebaje|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8684|Rural|
+33187|El Rosado|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8697|Rural|
+33187|La Cruz|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8866|Rural|
+33187|La Joyita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8886|Rural|
+33187|La Reforma|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8928|Rural|
+33187|Llanito del Venado|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8957|Rural|
+33187|Los Ositos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8976|Rural|
+33187|Mesa del Álamo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9038|Rural|
+33187|Napisoachi de Arriba (Ojo de Agua)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9095|Rural|
+33187|Otovachi (Otovachi de Arriba)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9145|Rural|
+33187|San Balazo (El Alazán Balazo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9449|Rural|
+33187|Siturachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9549|Rural|
+33187|Tepozanes|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9582|Rural|
+33187|Vacas Atascadas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9619|Rural|
+33187|Huiyorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1615|Rural|
+33187|Ranchería Ciénega Prieta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1618|Rural|
+33187|Alamillo de Abajo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8211|Rural|
+33187|Cumbres del Río Verde|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8560|Rural|
+33187|El Chihuite|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8606|Rural|
+33187|El Madroño|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8625|Rural|
+33187|El Orégano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8656|Rural|
+33187|El Rebaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8683|Rural|
+33187|El Rebaje|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8685|Rural|
+33187|La Osa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8925|Rural|
+33187|Laguna de Ochocachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8941|Rural|
+33187|Llano Grande|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8959|Rural|
+33187|Los Ancones|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8963|Rural|
+33187|San Rafael|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9462|Rural|
+33187|Loma del Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1616|Rural|
+33187|Bajío de las Palmas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|4208|Rural|
+33187|Cumbre de Tarahuitas (Cumbres del Rincón)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8550|Rural|
+33187|Cumbres de Carretas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8555|Rural|
+33187|Cumbres de Sinforosa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8557|Rural|
+33187|El Aguajito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8579|Rural|
+33187|El Capulín|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8598|Rural|
+33187|El Cuervo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8613|Rural|
+33187|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8630|Rural|
+33187|El Perico|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8662|Rural|
+33187|El Rincón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8689|Rural|
+33187|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8831|Rural|
+33187|Ochocachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9126|Rural|
+33187|Cieneguita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1602|Rural|
+33187|Bajío Largo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|5658|Rural|
+33187|Agua Caliente|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8196|Rural|
+33187|Ahuichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8208|Rural|
+33187|Arroyo del Pajarito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8249|Rural|
+33187|Bajío de los González|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8301|Rural|
+33187|Bajío de los Negros|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8302|Rural|
+33187|Bajío de Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8304|Rural|
+33187|Barbechitos de Arriba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8328|Rural|
+33187|Cajeme|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8408|Rural|
+33187|Carretas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8425|Rural|
+33187|Cumbre de San Ignacio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8549|Rural|
+33187|El Aguajito|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8580|Rural|
+33187|El Aguajito|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8582|Rural|
+33187|El Carnero|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8599|Rural|
+33187|El Orégano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8657|Rural|
+33187|La Cebadilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8862|Rural|
+33187|La Lobera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8903|Rural|
+33187|Lagunitas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8942|Rural|
+33187|Mesa del Cebollín|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9040|Rural|
+33187|Mesa del Táscate (El Táscate)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9047|Rural|
+33187|Napizoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9097|Rural|
+33187|Papajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9156|Rural|
+33187|Río Sinforosa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9342|Rural|
+33187|Rosajarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9398|Rural|
+33187|Turuceachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9606|Rural|
+33188|Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8186|Rural|
+33188|Barbechitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8325|Rural|
+33188|Basiaguare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8340|Rural|
+33188|Chocolate|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8470|Rural|
+33188|El Manzano|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8634|Rural|
+33188|Guichaborare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8753|Rural|
+33188|Güichaborare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8755|Rural|
+33188|La Guaracha|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8875|Rural|
+33188|La Joya|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8880|Rural|
+33188|La Reforma|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8929|Rural|
+33188|La Ulama Blanca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8936|Rural|
+33188|Mesa del Ocote|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9045|Rural|
+33188|Ocorare (El Rincón Colorado)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9134|Rural|
+33188|Pesachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9172|Rural|
+33188|Ranchería Cororeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9217|Rural|
+33188|Ranchería Obuena|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9225|Rural|
+33188|Ranchería Remochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9229|Rural|
+33188|Rancho el Cuero|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9240|Rural|
+33188|Romichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9380|Rural|
+33188|Roneachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9384|Rural|
+33188|Saguarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9431|Rural|
+33188|Salsipuedes|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9444|Rural|
+33188|Sayaguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9490|Rural|
+33188|Tucheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9596|Rural|
+33188|Upachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9612|Rural|
+33188|Arroyo de Rocheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8245|Rural|
+33188|Cohuata|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8518|Rural|
+33188|El Alamito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8584|Rural|
+33188|El Alamito|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8586|Rural|
+33188|El Chocolatito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8608|Rural|
+33188|El Guajolote|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8621|Rural|
+33188|El Rebaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8686|Rural|
+33188|Encinos Largos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8712|Rural|
+33188|Garirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8716|Rural|
+33188|Jumachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8852|Rural|
+33188|La Manzanilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8911|Rural|
+33188|La Mesa del Chihuite|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8917|Rural|
+33188|Maquirichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8992|Rural|
+33188|Orachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9137|Rural|
+33188|Orimoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9140|Rural|
+33188|Paguinarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9149|Rural|
+33188|Recorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9276|Rural|
+33188|Recorichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9277|Rural|
+33188|Repechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9307|Rural|
+33188|Sahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9438|Rural|
+33188|Güerachi|Pueblo|Guachochi|Chihuahua||33181|08|33181||28|027|1619|Rural|
+33188|Chipora|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8464|Rural|
+33188|El Carretón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8600|Rural|
+33188|El Duraznito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8614|Rural|
+33188|El Gentil|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8620|Rural|
+33188|El Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8633|Rural|
+33188|El Manzano|Hacienda|Guachochi|Chihuahua||33181|08|33181||24|027|8635|Rural|
+33188|El Ranchito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8676|Rural|
+33188|Güichaborare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8754|Rural|
+33188|Güirichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8762|Rural|
+33188|La Higuerita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8879|Rural|
+33188|La Zorra|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8939|Rural|
+33188|Las Juntas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8949|Rural|
+33188|Napuchi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9099|Rural|
+33188|Orachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9138|Rural|
+33188|Pesachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9173|Rural|
+33188|Ranchería Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9224|Rural|
+33188|Saguarare (Sahuarare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9432|Rural|
+33188|Santa Anita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9468|Rural|
+33188|Sisiguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9528|Rural|
+33188|Sorichiqui|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9561|Rural|
+33188|Salsipuedes|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9445|Rural|
+33188|Tascatitos (Remate de los Gentiles)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9571|Rural|
+33188|Zaparichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9644|Rural|
+33188|Baquiachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8319|Rural|
+33188|Batire (Baquiriachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8365|Rural|
+33188|Bitozachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8377|Rural|
+33188|Chorugue|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8478|Rural|
+33188|Cumbres de Gualayna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8556|Rural|
+33188|El Madroño|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8626|Rural|
+33188|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8631|Rural|
+33188|El Ojito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8650|Rural|
+33188|El Potrero|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8669|Rural|
+33188|La Laja|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8896|Rural|
+33188|La Mesita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8920|Rural|
+33188|La Ventana|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8938|Rural|
+33188|Los Bancos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8967|Rural|
+33188|Los Tuceros|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8985|Rural|
+33188|Mesa del Manzano [Aserradero]|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9044|Rural|
+33188|Nacachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9077|Rural|
+33188|Recuberachi (Recubirare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9279|Rural|
+33188|Remojachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9298|Rural|
+33188|San Pedro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9461|Rural|
+33188|Aborare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8182|Rural|
+33188|Baquiriachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8320|Rural|
+33188|Capulín|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8422|Rural|
+33188|Chuchupate|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8484|Rural|
+33188|Cumbre del Ojito|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8553|Rural|
+33188|El Puerto Blanco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8674|Rural|
+33188|Guacarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8721|Rural|
+33188|Gualayna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8738|Rural|
+33188|Huitarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8828|Rural|
+33188|La Canoíta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8858|Rural|
+33188|La Linterna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8902|Rural|
+33188|Puerto del Bichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9194|Rural|
+33188|Rachinapuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9202|Rural|
+33188|Ranchería Sicorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9233|Rural|
+33188|Rojarare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9366|Rural|
+33188|Siquirichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9527|Rural|
+33188|Agua Blanca|Pueblo|Guachochi|Chihuahua||33181|08|33181||28|027|1623|Rural|
+33188|Arroyo Hondo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8251|Rural|
+33188|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8297|Rural|
+33188|Corochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8532|Rural|
+33188|El Puerto|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8673|Rural|
+33188|El Salto|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8701|Rural|
+33188|El Táscate|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8703|Rural|
+33188|La Casita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8860|Rural|
+33188|La Loma|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8906|Rural|
+33188|La Mesa de Cosimpa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8913|Rural|
+33188|Mesa de Remisacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9028|Rural|
+33188|Norogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9119|Rural|
+33188|Pompachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9189|Rural|
+33188|Puerto de Nacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9193|Rural|
+33188|Rancho Moreno|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9245|Rural|
+33188|Rojarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9365|Rural|
+33188|Rojasarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9370|Rural|
+33188|Abirare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8180|Rural|
+33188|Amachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8214|Rural|
+33188|Aquichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8230|Rural|
+33188|Chuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8479|Rural|
+33188|El Aguajito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8581|Rural|
+33188|El Manzano|Poblado comunal|Guachochi|Chihuahua||33181|08|33181||27|027|8636|Rural|
+33188|El Naranjo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8649|Rural|
+33188|El Picacho|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8664|Rural|
+33188|El Rincón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8690|Rural|
+33188|La Loma Pelona|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8908|Rural|
+33188|Los Alisos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8962|Rural|
+33188|Mesa de Siturachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9033|Rural|
+33188|Morisochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9060|Rural|
+33188|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9098|Rural|
+33188|Ranchería Oguivo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9227|Rural|
+33188|Remojachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9299|Rural|
+33188|Resuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9325|Rural|
+33188|Sitanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9534|Rural|
+33188|Abirare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8181|Rural|
+33188|Baqueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8316|Rural|
+33188|Batayeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8363|Rural|
+33188|Cajerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8410|Rural|
+33188|Cieneguitas de la Linterna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8503|Rural|
+33188|Cumbre de Cosimpa (Chuachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8545|Rural|
+33188|Cumbre del Ojito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8552|Rural|
+33188|El Encinal|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8616|Rural|
+33188|El Ojito|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8651|Rural|
+33188|El Orégano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8658|Rural|
+33188|El Rosado|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8696|Rural|
+33188|El Zapure|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8710|Rural|
+33188|La Cebadilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8863|Rural|
+33188|La Gobernadora|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8873|Rural|
+33188|La Lajita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8899|Rural|
+33188|La Loma del Encinal|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8907|Rural|
+33188|La Mesa (La Mesa Blanca)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8912|Rural|
+33188|La Morita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8923|Rural|
+33188|Mategorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9000|Rural|
+33188|Mesa de Basiaguare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9009|Rural|
+33188|Nacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9076|Rural|
+33188|Naguachochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9084|Rural|
+33188|Repohue|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9317|Rural|
+33188|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9403|Rural|
+33188|Roquichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9387|Rural|
+33188|San Pablo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9458|Rural|
+33188|Sicochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9507|Rural|
+33188|Tecorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9576|Rural|
+33190|Boquimova|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8396|Rural|
+33190|Chichimochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8451|Rural|
+33190|Kocheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8854|Rural|
+33190|Mesa de los Ratones|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9019|Rural|
+33190|Romichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9381|Rural|
+33190|Rurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9424|Rural|
+33190|Bachamochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8271|Rural|
+33190|Cuesta Blanca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8541|Rural|
+33190|El Cerrito (Los Cerritos)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8605|Rural|
+33190|El Ranchito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8679|Rural|
+33190|El Yerbanís|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8709|Rural|
+33190|Güichaboachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8752|Rural|
+33190|La Turbina|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8935|Rural|
+33190|Nahuajirachi (Naguajirachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9088|Rural|
+33190|Rorogochachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9390|Rural|
+33190|Sitanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9536|Rural|
+33190|Sonorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9556|Rural|
+33190|Tajirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9566|Rural|
+33190|Bacochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8275|Rural|
+33190|Cerro Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8443|Rural|
+33190|Coperachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8523|Rural|
+33190|El Durazno|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8615|Rural|
+33190|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8640|Rural|
+33190|Huizomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8840|Rural|
+33190|Los Mochis|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8974|Rural|
+33190|Paraje Remejirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9161|Rural|
+33190|Ranchería Papajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9228|Rural|
+33190|Rancho Tucheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9248|Rural|
+33190|Santa Cruz|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9469|Rural|
+33190|Sicuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9513|Rural|
+33190|Ciénega de Norogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1617|Rural|
+33190|Bacazorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8270|Rural|
+33190|Banoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8315|Rural|
+33190|Casachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8430|Rural|
+33190|Chihuite|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8458|Rural|
+33190|Los Charcos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8969|Rural|
+33190|Mesa de Parehuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9026|Rural|
+33190|Pahuirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9151|Rural|
+33190|Ranchería Nanayahuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9223|Rural|
+33190|Ranchería Ruruchacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9231|Rural|
+33190|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9409|Rural|
+33190|Santa Rosa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9473|Rural|
+33190|Sellorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9500|Rural|
+33190|Sipurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9524|Rural|
+33190|Turoseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9604|Rural|
+33190|Zapareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9639|Rural|
+33190|Barosachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8329|Rural|
+33190|Basiaguarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8339|Rural|
+33190|Casa Blanca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8428|Rural|
+33190|El Alamito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8587|Rural|
+33190|Las Chinacas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8945|Rural|
+33190|Los Metates|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8973|Rural|
+33190|Remochique (Paraje)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9293|Rural|
+33190|Santa Cruz|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9470|Rural|
+33190|Saweachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9488|Rural|
+33190|Simuchichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9519|Rural|
+33190|Sitanachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9540|Rural|
+33190|Tegomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9580|Rural|
+33190|Bacasorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8268|Rural|
+33190|Bajío de Cuechi (Cuhechi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8294|Rural|
+33190|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8341|Rural|
+33190|Batosegachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8366|Rural|
+33190|Cocherare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8507|Rural|
+33190|El Bajío del Cebollín|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8594|Rural|
+33190|El Carrizal|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8601|Rural|
+33190|La Ciénega|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8865|Rural|
+33190|La Luna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8909|Rural|
+33190|Murirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9068|Rural|
+33190|Pallecuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9153|Rural|
+33190|Paraje el Aguaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9158|Rural|
+33190|Parehuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9166|Rural|
+33190|Piedra Pinta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9183|Rural|
+33190|Remochique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9292|Rural|
+33190|San Antonio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9448|Rural|
+33190|Sayabochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9489|Rural|
+33190|Sepochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9502|Rural|
+33190|Sicorachachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9512|Rural|
+33190|Sitagapachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9531|Rural|
+33190|Los Hormigueros|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8971|Rural|
+33190|Los Hornitos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8972|Rural|
+33190|Los Táscates|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8982|Rural|
+33190|Mesa de Bacochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9007|Rural|
+33190|Muracharachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9067|Rural|
+33190|Nahueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9089|Rural|
+33190|Rochachi (Rocheachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9351|Rural|
+33190|Rorogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9389|Rural|
+33190|Sarabeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9479|Rural|
+33190|Satevó|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9485|Rural|
+33190|Venatachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9621|Rural|
+33190|Agua Puerca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8201|Rural|
+33190|Baguerare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8281|Rural|
+33190|Baqueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8317|Rural|
+33190|Choreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8475|Rural|
+33190|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8834|Rural|
+33190|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9102|Rural|
+33190|Piedra Pinta|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9184|Rural|
+33190|Remojiparachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9302|Rural|
+33190|Riconchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9334|Rural|
+33190|Segorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9493|Rural|
+33190|Tatahuichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9573|Rural|
+33190|Ureachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9614|Rural|
+33190|Aquichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8226|Rural|
+33190|Aquichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8227|Rural|
+33190|Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8286|Rural|
+33190|Baquiriachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8322|Rural|
+33190|Basuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8360|Rural|
+33190|Bocoyna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8382|Rural|
+33190|Chamochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8445|Rural|
+33190|Chaneachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8446|Rural|
+33190|Coloradas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8519|Rural|
+33190|Comichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8520|Rural|
+33190|El Manzano de Norogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8648|Rural|
+33193|Bacabochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8261|Rural|
+33193|Coechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8511|Rural|
+33193|El Cohechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8609|Rural|
+33193|El Madroño|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8627|Rural|
+33193|Guamoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8739|Rural|
+33193|Huizomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8839|Rural|
+33193|La Laguna de Rocheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8893|Rural|
+33193|La Soledad|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8932|Rural|
+33193|Rojosarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9376|Rural|
+33193|Sarabicachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9481|Rural|
+33193|Tres Ventanas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9594|Rural|
+33193|Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8285|Rural|
+33193|Bataqueachi (Batagueachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8362|Rural|
+33193|Bisomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8375|Rural|
+33193|Cohechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8513|Rural|
+33193|Koyachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8855|Rural|
+33193|Pino Agujerado|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9185|Rural|
+33193|Ratarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9259|Rural|
+33193|Basigochi de las Palmas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8349|Rural|
+33193|Cuchihuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8539|Rural|
+33193|El Guajolote|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8623|Rural|
+33193|El Terrero|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8708|Rural|
+33193|La Laguna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8890|Rural|
+33193|La Tinaja|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8934|Rural|
+33193|Los Terreros|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8983|Rural|
+33193|Mesa de Pahuiranachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9024|Rural|
+33193|Nachachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9082|Rural|
+33193|Norogachi (Norogachito)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9121|Rural|
+33193|Rojachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9364|Rural|
+33193|Rojosarare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9377|Rural|
+33193|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9404|Rural|
+33193|San Martín|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9455|Rural|
+33193|Bajío de la Cueva|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8296|Rural|
+33193|Biribeachi (Baribeachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8374|Rural|
+33193|Cerro Blanco (Biribeachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8437|Rural|
+33193|Ganochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8714|Rural|
+33193|Mesa Colorada|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9006|Rural|
+33193|Rechanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9268|Rural|
+33193|Richanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9332|Rural|
+33193|Río de la Cueva|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9341|Rural|
+33193|Santa Ana (El Táscate)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9467|Rural|
+33193|Aparichi (La Tinaja)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8221|Rural|
+33193|Arroyo de Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8246|Rural|
+33193|Betebachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8370|Rural|
+33193|El Bajío (Basigochito)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8593|Rural|
+33193|El Rincón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8692|Rural|
+33193|Huitachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8827|Rural|
+33193|Loma Alta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8960|Rural|
+33193|Pahuiranachi (Recobichi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9152|Rural|
+33193|Pechique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9169|Rural|
+33193|San Rafael|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9463|Rural|
+33193|San Vicente|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9465|Rural|
+33193|Turuseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9609|Rural|
+33193|Choreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8474|Rural|
+33193|Chuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8480|Rural|
+33193|El Arroyo (Gomichi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8590|Rural|
+33193|La Joya|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8885|Rural|
+33193|Las Tapias|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8955|Rural|
+33193|Nonoava|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9115|Rural|
+33193|Pareguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9165|Rural|
+33193|San Antonio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9447|Rural|
+33193|Sayaguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9491|Rural|
+33193|Turuceachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9607|Rural|
+33193|Canoitas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8413|Rural|
+33193|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8638|Rural|
+33193|El Rebaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8688|Rural|
+33193|Guacarichi (Bacarichi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8723|Rural|
+33193|Huichaboachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8794|Rural|
+33193|La Rinconada|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8931|Rural|
+33193|Mesa de la Soledad|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9017|Rural|
+33193|Recobichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9273|Rural|
+33193|Aquichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8224|Rural|
+33193|Arroyo Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8250|Rural|
+33193|Bajío Viejo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8308|Rural|
+33193|Bajisochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8309|Rural|
+33193|Chihuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8454|Rural|
+33193|La Mesa de los Charcos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8915|Rural|
+33193|Mesa de Chihuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9012|Rural|
+33193|Mesa del Aguaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9036|Rural|
+33193|Nonoava|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9116|Rural|
+33193|Ranchería Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9212|Rural|
+33193|Rofeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9358|Rural|
+33193|Sensiachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9501|Rural|
+33193|Sitanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9535|Rural|
+33193|Yegochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9630|Rural|
+33194|Aquibachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8223|Rural|
+33194|Baburiachi (Babureachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8259|Rural|
+33194|Barahuarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8323|Rural|
+33194|Capotare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8421|Rural|
+33194|Corachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8525|Rural|
+33194|El Cordón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8611|Rural|
+33194|Huararare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8775|Rural|
+33194|Hueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8778|Rural|
+33194|Huicochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8811|Rural|
+33194|Hupachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8842|Rural|
+33194|Hurichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8844|Rural|
+33194|La Casita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8861|Rural|
+33194|La Higuera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8877|Rural|
+33194|Nacabeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9073|Rural|
+33194|Oserare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9142|Rural|
+33194|Rechuchiqui|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9271|Rural|
+33194|Rekowata|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9289|Rural|
+33194|Repogatare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9311|Rural|
+33194|Repogueachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9315|Rural|
+33194|Riberachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9329|Rural|
+33194|Rosanachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9408|Rural|
+33194|Sicurbe|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9515|Rural|
+33194|Arareco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8233|Rural|
+33194|Canorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8414|Rural|
+33194|Chuachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8481|Rural|
+33194|Machirachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8988|Rural|
+33194|Rancho Tecorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9247|Rural|
+33194|Regochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9283|Rural|
+33194|Retosachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9327|Rural|
+33194|San Pablo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9459|Rural|
+33194|Yepo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9632|Rural|
+33194|Abore|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8183|Rural|
+33194|Aborichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8191|Rural|
+33194|Aborirare (Guarirare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8192|Rural|
+33194|Agua Caliente|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8198|Rural|
+33194|Basaseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8336|Rural|
+33194|Boquimoba|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8386|Rural|
+33194|Charerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8449|Rural|
+33194|Chinachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8460|Rural|
+33194|Cururare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8563|Rural|
+33194|Cusayepachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8567|Rural|
+33194|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8641|Rural|
+33194|Gomichi (Arroyo Hondo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8719|Rural|
+33194|Guacarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8722|Rural|
+33194|Huacarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8768|Rural|
+33194|La Laja|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8897|Rural|
+33194|La Manzana|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8910|Rural|
+33194|Maquirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8991|Rural|
+33194|Nagueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9085|Rural|
+33194|Rechanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9269|Rural|
+33194|Rejubachi (Rijubachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9288|Rural|
+33194|Rojosarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9378|Rural|
+33194|Ruchebo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9418|Rural|
+33194|Sibamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9504|Rural|
+33194|Sitachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9529|Rural|
+33194|Tajirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9567|Rural|
+33194|Tónachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9587|Rural|
+33194|Turuceachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9608|Rural|
+33194|Basigochito|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8352|Rural|
+33194|Boquimoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8384|Rural|
+33194|Borachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8398|Rural|
+33194|Corirurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8531|Rural|
+33194|Cubirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8537|Rural|
+33194|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8833|Rural|
+33194|La Dominga|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8869|Rural|
+33194|Mechogueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9003|Rural|
+33194|Napachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9093|Rural|
+33194|Pesachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9176|Rural|
+33194|Ranchería Guararare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9219|Rural|
+33194|Rapichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9252|Rural|
+33194|Rayabo (Rabo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9263|Rural|
+33194|Rocoroachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9357|Rural|
+33194|Rogapuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9359|Rural|
+33194|Rojasarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9371|Rural|
+33194|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9406|Rural|
+33194|Rosanachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9407|Rural|
+33194|Sagoachi (Nonoava)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9429|Rural|
+33194|Santa Ana|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9466|Rural|
+33194|Siquemuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9526|Rural|
+33194|Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9586|Rural|
+33194|Viterachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9623|Rural|
+33194|Agua Amarilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8194|Rural|
+33194|Agua Escondida|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8199|Rural|
+33194|Basigochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8300|Rural|
+33194|Basigochito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8350|Rural|
+33194|Basigochito|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8351|Rural|
+33194|Basuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8359|Rural|
+33194|Batigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8364|Rural|
+33194|Chihuivo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8459|Rural|
+33194|Comichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8521|Rural|
+33194|Cordón de Nacaripa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8530|Rural|
+33194|El Cerrito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8604|Rural|
+33194|Huicheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8803|Rural|
+33194|Machirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8987|Rural|
+33194|Nacabeachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9074|Rural|
+33194|Ocorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9129|Rural|
+33194|Pochachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9187|Rural|
+33194|Recubichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9280|Rural|
+33194|Ritoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9348|Rural|
+33194|Rumichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9420|Rural|
+33194|Sarichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9483|Rural|
+33194|Sicochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9508|Rural|
+33194|Sitanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9537|Rural|
+33194|Sitanachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9539|Rural|
+33194|Sitanapuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9546|Rural|
+33194|Sojabachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9552|Rural|
+33194|Sorarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9559|Rural|
+33194|Zaparichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9645|Rural|
+33194|Aniloachi (Lochachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8217|Rural|
+33194|Bautirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8368|Rural|
+33194|Chihuirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8456|Rural|
+33194|Güichubechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8756|Rural|
+33194|Huasarorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8776|Rural|
+33194|Huehueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8781|Rural|
+33194|Hueleyvo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8783|Rural|
+33194|Huichuriachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8810|Rural|
+33194|Los Napuchis (Orerare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8975|Rural|
+33194|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9101|Rural|
+33194|Pachoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9147|Rural|
+33194|Retosachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9326|Rural|
+33194|Reynarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9328|Rural|
+33194|Rojogochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9374|Rural|
+33194|Sagoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9428|Rural|
+33194|Sahué|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9443|Rural|
+33194|Sapareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9476|Rural|
+33194|Simonachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9518|Rural|
+33194|Samachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1622|Rural|
+33194|Apachoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8219|Rural|
+33194|Bacuseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8279|Rural|
+33194|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8299|Rural|
+33194|Boquimona|Poblado comunal|Guachochi|Chihuahua||33181|08|33181||27|027|8395|Rural|
+33194|Chaparrera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8448|Rural|
+33194|Chicarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8450|Rural|
+33194|Chupachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8492|Rural|
+33194|Cururare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8564|Rural|
+33194|El Coyote|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8612|Rural|
+33194|Hicharachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8766|Rural|
+33194|Ireachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8848|Rural|
+33194|Napitore (Nabituri)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9096|Rural|
+33194|Nonoava|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9117|Rural|
+33194|Ochirase|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9124|Rural|
+33194|Parehuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9167|Rural|
+33194|Pesachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9175|Rural|
+33194|Recobata|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9272|Rural|
+33194|Repogueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9314|Rural|
+33194|Sicochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9509|Rural|
+33194|Tabachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9563|Rural|
+33194|Teporachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9581|Rural|
+33194|Toborachi (Taborachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9584|Rural|
+33194|Tucheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9597|Rural|
+33194|Babuse|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8260|Rural|
+33194|Boquimoba|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8385|Rural|
+33194|Caborachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8406|Rural|
+33194|Chahuichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8444|Rural|
+33194|Churichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8495|Rural|
+33194|Cieneguitas (Ocorare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8502|Rural|
+33194|Coyachi (El Sombrero)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8536|Rural|
+33194|Guague|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8726|Rural|
+33194|Hueleybo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8782|Rural|
+33194|Huichaboachi (Huichabochi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8795|Rural|
+33194|Huichagorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8801|Rural|
+33194|Juverachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8853|Rural|
+33194|Moba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9052|Rural|
+33194|Nacabeachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9075|Rural|
+33194|Nacaripa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9078|Rural|
+33194|Rajugue|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9204|Rural|
+33194|Recamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9266|Rural|
+33194|Rejomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9287|Rural|
+33194|Ronachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9383|Rural|
+33194|Rosahuarachi (Rosabachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9397|Rural|
+33194|Ruchichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9419|Rural|
+33194|Sahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9440|Rural|
+33194|Sarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9482|Rural|
+33194|Sitanachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9538|Rural|
+33194|Tatahuichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9574|Rural|
+33195|Ahuirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8209|Rural|
+33195|Anamoris|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8215|Rural|
+33195|Aquichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8228|Rural|
+33195|Ariseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8235|Rural|
+33195|Arroyos Colorados|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8254|Rural|
+33195|Basaseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8337|Rural|
+33195|Betevachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8372|Rural|
+33195|Boquimoba|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8389|Rural|
+33195|Boquimoba|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8392|Rural|
+33195|Caborachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8407|Rural|
+33195|Calonachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8412|Rural|
+33195|Huichatare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8802|Rural|
+33195|Huina|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8820|Rural|
+33195|Huirirasi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8826|Rural|
+33195|Masantare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8995|Rural|
+33195|Meguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9004|Rural|
+33195|Moriz|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9063|Rural|
+33195|Rabo|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9199|Rural|
+33195|Rapichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9251|Rural|
+33195|Sicurabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9514|Rural|
+33195|Sinorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9522|Rural|
+33195|Siturachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9550|Rural|
+33195|Yamuco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9629|Rural|
+33195|Yokivo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9637|Rural|
+33195|Capirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8417|Rural|
+33195|Caporachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8420|Rural|
+33195|Cocohuichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8510|Rural|
+33195|Corarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8526|Rural|
+33195|El Puente de Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8670|Rural|
+33195|Huatevachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8777|Rural|
+33195|Huichagoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8799|Rural|
+33195|Huirare (Huirabo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8825|Rural|
+33195|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9104|Rural|
+33195|Rabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9198|Rural|
+33195|Rapichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9253|Rural|
+33195|Rayabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9261|Rural|
+33195|Renareyna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9304|Rural|
+33195|Richuyna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9333|Rural|
+33195|Risiochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9347|Rural|
+33195|Rocachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9349|Rural|
+33195|Rosanapachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9413|Rural|
+33195|Rouhirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9417|Rural|
+33195|Sitanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9541|Rural|
+33195|Sitanachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9543|Rural|
+33195|Aquichi (El Vado)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8229|Rural|
+33195|Ariseachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8237|Rural|
+33195|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8343|Rural|
+33195|Borinapuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8402|Rural|
+33195|Chuhuirare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8487|Rural|
+33195|Chupeachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8494|Rural|
+33195|Cohechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8516|Rural|
+33195|El Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8645|Rural|
+33195|Guarinachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8744|Rural|
+33195|Huetosachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8790|Rural|
+33195|Napuchi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9106|Rural|
+33195|Nonoava|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9118|Rural|
+33195|Rancho Ocorabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9246|Rural|
+33195|Renorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9306|Rural|
+33195|Reroachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9322|Rural|
+33195|Rosabachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9393|Rural|
+33195|Umuri|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9611|Rural|
+33195|Yahuirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9628|Rural|
+33195|Bajichi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8291|Rural|
+33195|Boquimoba|Poblado comunal|Guachochi|Chihuahua||33181|08|33181||27|027|8394|Rural|
+33195|Cañarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8416|Rural|
+33195|Chicutare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8452|Rural|
+33195|Coracachi (Cuervo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8524|Rural|
+33195|El Burrito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8596|Rural|
+33195|Gomirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8720|Rural|
+33195|Guararachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8742|Rural|
+33195|Huetosachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8788|Rural|
+33195|La Tableta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8933|Rural|
+33195|Pesachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9179|Rural|
+33195|Rancho Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9236|Rural|
+33195|Rarámuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9256|Rural|
+33195|Repogueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9316|Rural|
+33195|Rerahuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9321|Rural|
+33195|Rojarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9367|Rural|
+33195|Rosacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9394|Rural|
+33195|Sipurarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9525|Rural|
+33195|Cusárare|Pueblo|Guachochi|Chihuahua||33181|08|33181||28|027|1620|Rural|
+33195|Aguamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8205|Rural|
+33195|Aquigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8232|Rural|
+33195|Asabichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8255|Rural|
+33195|Bacuseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8280|Rural|
+33195|Bajichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8290|Rural|
+33195|Baliguchi (Bariguchachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8314|Rural|
+33195|Bicuechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8373|Rural|
+33195|Boquimoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8388|Rural|
+33195|Choguita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8471|Rural|
+33195|Cochipachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8508|Rural|
+33195|Cutemachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8571|Rural|
+33195|Higuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8767|Rural|
+33195|Huichore|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8808|Rural|
+33195|Huizarochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8838|Rural|
+33195|Jorirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8851|Rural|
+33195|Machogueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8990|Rural|
+33195|Quirichirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9196|Rural|
+33195|Quirichirabo|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9197|Rural|
+33195|Ranacherachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9207|Rural|
+33195|Rancho Bitorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9237|Rural|
+33195|Recomichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9275|Rural|
+33195|Remochochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9295|Rural|
+33195|Remuybo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9303|Rural|
+33195|Rochivo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9354|Rural|
+33195|Ronobacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9386|Rural|
+33195|Rosajarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9399|Rural|
+33195|Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9591|Rural|
+33195|Umogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9610|Rural|
+33195|Zapareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9641|Rural|
+33195|Zitarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9646|Rural|
+33195|Yepo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9635|Rural|
+33195|Anamorso|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8216|Rural|
+33195|Arroyo de Husarorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8242|Rural|
+33195|Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8288|Rural|
+33195|Cutechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8569|Rural|
+33195|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8642|Rural|
+33195|Guasirerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8747|Rural|
+33195|Huichachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8797|Rural|
+33195|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8836|Rural|
+33195|Ireachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8849|Rural|
+33195|Mesa de Chicuetabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9011|Rural|
+33195|Naqueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9108|Rural|
+33195|Nusina|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9122|Rural|
+33195|Pesachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9178|Rural|
+33195|Remochotare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9296|Rural|
+33195|Satevó|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9487|Rural|
+33195|Sicachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9506|Rural|
+33195|Siteachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9548|Rural|
+33195|Acarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8193|Rural|
+33195|Bacasorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8269|Rural|
+33195|Balibuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8313|Rural|
+33195|Basihuare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8353|Rural|
+33195|Basuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8361|Rural|
+33195|Capochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8419|Rural|
+33195|Choreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8477|Rural|
+33195|Chuyaibo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8500|Rural|
+33195|Chuyeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8501|Rural|
+33195|El Abache|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8572|Rural|
+33195|Huipinapachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8823|Rural|
+33195|Nacipa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9083|Rural|
+33195|Perare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9171|Rural|
+33195|Rorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9388|Rural|
+33195|Rorogochachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9391|Rural|
+33195|Rumigarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9421|Rural|
+33195|Sahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9442|Rural|
+33195|Sayahuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9492|Rural|
+33195|Seguarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9494|Rural|
+33195|Sehuerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9499|Rural|
+33195|Yahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9627|Rural|
+33195|Huichagoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1624|Rural|
+33195|Bacherachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8273|Rural|
+33195|Chuiachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8488|Rural|
+33195|Chupeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8493|Rural|
+33195|Cochirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8509|Rural|
+33195|Cusaremachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8565|Rural|
+33195|El Manzano|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8647|Rural|
+33195|Guagueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8730|Rural|
+33195|Guagueachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8731|Rural|
+33195|Guagüitare (Bajitare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8735|Rural|
+33195|Norogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9120|Rural|
+33195|Ocozatare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9135|Rural|
+33195|Rejogochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9286|Rural|
+33195|Ricubitare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9335|Rural|
+33195|Ripigayna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9345|Rural|
+33195|Rosana|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9401|Rural|
+33195|San Juan|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9454|Rural|
+33195|Sipochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9523|Rural|
+33195|Sitanachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9542|Rural|
+33195|Usabachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9618|Rural|
+33195|Abore|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8184|Rural|
+33195|Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8190|Rural|
+33195|Ayogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8256|Rural|
+33195|Babureachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8258|Rural|
+33196|Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8188|Rural|
+33196|Bacarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8262|Rural|
+33196|El Aguaje|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8575|Rural|
+33196|El Aguaje|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8576|Rural|
+33196|El Puente de Humira|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8671|Rural|
+33196|Guacayvo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8724|Rural|
+33196|Guajitare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8737|Rural|
+33196|Güiranapochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8759|Rural|
+33196|Huichibeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8804|Rural|
+33196|La Mesa del Partidero|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8918|Rural|
+33196|Marago|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8993|Rural|
+33196|Nabuchiqui|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9069|Rural|
+33196|Rechoybo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9270|Rural|
+33196|Remechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9291|Rural|
+33196|Reperachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9310|Rural|
+33196|Repogatare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9313|Rural|
+33196|Repunachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9318|Rural|
+33196|Rorogochachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9392|Rural|
+33196|Rosaquichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9414|Rural|
+33196|Sapagarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9475|Rural|
+33196|Siteachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9547|Rural|
+33196|Taserachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9572|Rural|
+33196|Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9588|Rural|
+33196|Bajichi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8293|Rural|
+33196|Boquirare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8397|Rural|
+33196|Cerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8436|Rural|
+33196|Cuisimachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8543|Rural|
+33196|El Papigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8660|Rural|
+33196|El Tejabán|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8706|Rural|
+33196|Guapalayna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8740|Rural|
+33196|Güetebachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8750|Rural|
+33196|Güicusirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8757|Rural|
+33196|Huetosachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8791|Rural|
+33196|La Gavilana|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8870|Rural|
+33196|Mesa de Ecarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9013|Rural|
+33196|Mochogue|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9054|Rural|
+33196|Molirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9058|Rural|
+33196|Renechachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9305|Rural|
+33196|Ricurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9336|Rural|
+33196|Rohuerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9361|Rural|
+33196|Rosacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9395|Rural|
+33196|Sapareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9477|Rural|
+33196|Saquirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9478|Rural|
+33196|Satevó|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9486|Rural|
+33196|Somarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9554|Rural|
+33196|Ahueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8207|Rural|
+33196|Arroyo de Machi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8244|Rural|
+33196|Babuireachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8257|Rural|
+33196|Bajichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8292|Rural|
+33196|Bajisochi (Bajichi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8311|Rural|
+33196|Basoneachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8356|Rural|
+33196|Boquimoba|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8391|Rural|
+33196|Carretera a Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8426|Rural|
+33196|Casochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8432|Rural|
+33196|Chiturachi (Siturachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8469|Rural|
+33196|Chugoomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8485|Rural|
+33196|Chuyachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8499|Rural|
+33196|Conejachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8522|Rural|
+33196|Corohuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8533|Rural|
+33196|Cunigotare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8561|Rural|
+33196|El Pajarito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8659|Rural|
+33196|Guague|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8727|Rural|
+33196|Huicochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8812|Rural|
+33196|Huicochi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8814|Rural|
+33196|Huiyoyna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8830|Rural|
+33196|Humira|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8841|Rural|
+33196|Matalirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8999|Rural|
+33196|Menochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9005|Rural|
+33196|Nanaruchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9092|Rural|
+33196|Nararachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9109|Rural|
+33196|Ocorare|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9133|Rural|
+33196|Rabo (Canorase)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9200|Rural|
+33196|Rarámuchi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9258|Rural|
+33196|Repogatare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9312|Rural|
+33196|Rojomoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9375|Rural|
+33196|Sicorabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9511|Rural|
+33196|Siturachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9551|Rural|
+33196|Tónachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9590|Rural|
+33196|Yeponase|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9636|Rural|
+33196|Aquiachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8222|Rural|
+33196|Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8289|Rural|
+33196|Barranca del Cobre|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8330|Rural|
+33196|Bocomova|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8380|Rural|
+33196|Chuachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8482|Rural|
+33196|Cururabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8562|Rural|
+33196|Cusarorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8566|Rural|
+33196|Güillamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8758|Rural|
+33196|Guirare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8761|Rural|
+33196|Huaguitare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8769|Rural|
+33196|Huetosachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8789|Rural|
+33196|Huichigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8805|Rural|
+33196|Huitochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8829|Rural|
+33196|Matachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8998|Rural|
+33196|Mochogue|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9055|Rural|
+33196|Mochogueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9056|Rural|
+33196|Pamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9155|Rural|
+33196|Pesachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9180|Rural|
+33196|Rapichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9254|Rural|
+33196|Rarámuchi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9257|Rural|
+33196|Rehuisuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9284|Rural|
+33196|Repechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9309|Rural|
+33196|Richachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9330|Rural|
+33196|Rocaros|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9350|Rural|
+33196|Rojarare (El Encinal)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9369|Rural|
+33196|Rosanachi (Chihuahuita)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9412|Rural|
+33196|Sague|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9437|Rural|
+33196|Sitagochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9532|Rural|
+33196|Tucheachi [ExÁAserradero]|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9602|Rural|
+33196|Vado de Cusarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9620|Rural|
+33196|Baqueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8318|Rural|
+33196|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8347|Rural|
+33196|Boreachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8401|Rural|
+33196|Chinarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8461|Rural|
+33196|Chipahuitavo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8463|Rural|
+33196|El Realito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8682|Rural|
+33196|Guahuachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8736|Rural|
+33196|Guarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8741|Rural|
+33196|Guasave (Guasaivo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8745|Rural|
+33196|Güetogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8751|Rural|
+33196|Güirinapuchi (Birinapuchi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8763|Rural|
+33196|Huarababo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8774|Rural|
+33196|Hugapachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8792|Rural|
+33196|Huiparase|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8822|Rural|
+33196|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8837|Rural|
+33196|La Renga|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8930|Rural|
+33196|Masantare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8994|Rural|
+33196|Nahuirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9090|Rural|
+33196|Nararachi (Arroyos Colorados)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9110|Rural|
+33196|Ocorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9130|Rural|
+33196|Ocorare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9132|Rural|
+33196|Osichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9143|Rural|
+33196|Pesachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9177|Rural|
+33196|Rarámuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9255|Rural|
+33196|Rayabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9262|Rural|
+33196|Recaimo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9265|Rural|
+33196|Repunachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9319|Rural|
+33196|Resijochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9324|Rural|
+33196|Rimichurachi (Las Cabañas)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9339|Rural|
+33196|Rohuichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9362|Rural|
+33196|Sacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9426|Rural|
+33196|Sahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9441|Rural|
+33196|San Pablo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9460|Rural|
+33196|Similirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9517|Rural|
+33196|Siniguchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9521|Rural|
+33196|Veracruz|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9622|Rural|
+33196|Abore|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8185|Rural|
+33196|Ariseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8236|Rural|
+33196|Bacuchatare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8278|Rural|
+33196|Bajisochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8310|Rural|
+33196|Basirecota (Huasurecota)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8355|Rural|
+33196|Bechore|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8369|Rural|
+33196|Boquimoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8390|Rural|
+33196|Cebollín|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8435|Rural|
+33196|Chihuina|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8455|Rural|
+33196|Chihuirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8457|Rural|
+33196|Chique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8468|Rural|
+33196|Corareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8528|Rural|
+33196|Harabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8765|Rural|
+33196|Huajitare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8772|Rural|
+33196|Huechede|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8779|Rural|
+33196|Huetebachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8785|Rural|
+33196|Huichore|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8807|Rural|
+33196|Huirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8824|Rural|
+33196|Ichutarache|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8846|Rural|
+33196|Inoravo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8847|Rural|
+33196|La Gavilana|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8871|Rural|
+33196|Mochogayna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9053|Rural|
+33196|Nahuajirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9087|Rural|
+33196|Ocheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9123|Rural|
+33196|Rancho Cueva Pinta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9238|Rural|
+33196|Recabuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9264|Rural|
+33196|Reroachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9323|Rural|
+33196|Rojarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9368|Rural|
+33196|Simutabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9520|Rural|
+33196|Sitamoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9533|Rural|
+33196|Somarachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9555|Rural|
+33196|Sorichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9560|Rural|
+33196|Sugurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9562|Rural|
+33196|Uruchique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9616|Rural|
+33196|Vitorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9624|Rural|
+33196|Baciarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8274|Rural|
+33196|Bacoreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8277|Rural|
+33196|Bitorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8376|Rural|
+33196|Boreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8399|Rural|
+33196|Canutare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8415|Rural|
+33196|Chicué|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8453|Rural|
+33196|Churirabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8496|Rural|
+33196|Cutemachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8570|Rural|
+33196|El Aguaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8574|Rural|
+33196|El Rincón|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8693|Rural|
+33196|Guague|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8728|Rural|
+33196|Guararachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8743|Rural|
+33196|Huetebatabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8786|Rural|
+33196|Huichagoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8800|Rural|
+33196|Huicochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8813|Rural|
+33196|Huilarabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8815|Rural|
+33196|Hurare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8843|Rural|
+33196|La Higuera|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8878|Rural|
+33196|Las Guindas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8948|Rural|
+33196|Mateorabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9001|Rural|
+33196|Motosatavo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9065|Rural|
+33196|Motosatavo (Motoratavo)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9066|Rural|
+33196|Ranigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9250|Rural|
+33196|Recomachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9274|Rural|
+33196|Rihuinachi (Ribintare)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9337|Rural|
+33196|Rohuichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9363|Rural|
+33196|Rosavaina (Resovaina)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9415|Rural|
+33196|Sitanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9544|Rural|
+33196|Sitanachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9545|Rural|
+33196|Tucheachi [Aserradero]|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9601|Rural|
+33196|Tuchine (El Vado)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9603|Rural|
+33196|Uruchique|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9617|Rural|
+33196|Apachochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8220|Rural|
+33196|Bajío Largo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8307|Rural|
+33196|Baturabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8367|Rural|
+33196|Capirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8418|Rural|
+33196|Corare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8527|Rural|
+33196|Huetosachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8787|Rural|
+33196|La Laja|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8898|Rural|
+33196|Miguerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9050|Rural|
+33196|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9105|Rural|
+33196|Ocorabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9128|Rural|
+33196|Pechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9168|Rural|
+33196|Raborachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9201|Rural|
+33196|Rijubachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9338|Rural|
+33196|Rocobeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9356|Rural|
+33196|Sopepachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9557|Rural|
+33196|Taborachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9565|Rural|
+33197|Güerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1625|Rural|
+33197|Basiquirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8354|Rural|
+33197|Cuhuiro|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8542|Rural|
+33197|El Aguaje (Guajichi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8577|Rural|
+33197|El Ojito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8654|Rural|
+33197|Ganochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8715|Rural|
+33197|Gochina|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8717|Rural|
+33197|Gumisachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8764|Rural|
+33197|Huichagoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8798|Rural|
+33197|Huichochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8806|Rural|
+33197|Las Juntas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8950|Rural|
+33197|Ripiachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9344|Rural|
+33197|Tucheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9598|Rural|
+33197|Tucheachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9599|Rural|
+33197|Wuisarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9626|Rural|
+33197|Huinoroachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8821|Rural|
+33197|Mohorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9057|Rural|
+33197|Morisochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9061|Rural|
+33197|Nachacachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9081|Rural|
+33197|Pahuichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9150|Rural|
+33197|Rahuihuarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9203|Rural|
+33197|Recanuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9267|Rural|
+33197|Recorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9278|Rural|
+33197|Remochochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9294|Rural|
+33197|Requeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9320|Rural|
+33197|Rosaguarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9396|Rural|
+33197|Tecorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9577|Rural|
+33197|Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8187|Rural|
+33197|Bacarauachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8264|Rural|
+33197|Bacarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8265|Rural|
+33197|Basigochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8344|Rural|
+33197|Basigochi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8345|Rural|
+33197|Cohechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8514|Rural|
+33197|Cuchachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8538|Rural|
+33197|Gallabozarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8713|Rural|
+33197|Guasinachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8746|Rural|
+33197|Huerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8784|Rural|
+33197|Huichurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8809|Rural|
+33197|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8835|Rural|
+33197|Nahujirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9091|Rural|
+33197|Ocorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9131|Rural|
+33197|Paraje Sitagapachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9162|Rural|
+33197|Richachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9331|Rural|
+33197|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9410|Rural|
+33197|Bajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8287|Rural|
+33197|Basigochi|Poblado comunal|Guachochi|Chihuahua||33181|08|33181||27|027|8346|Rural|
+33197|Boquimoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8387|Rural|
+33197|Boquimoba|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8393|Rural|
+33197|Boreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8400|Rural|
+33197|Cohechi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8515|Rural|
+33197|Cohuarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8517|Rural|
+33197|El Arco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8589|Rural|
+33197|El Rancho|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8681|Rural|
+33197|Guagüichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8734|Rural|
+33197|Huamorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8773|Rural|
+33197|Huillorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8819|Rural|
+33197|Machogueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8989|Rural|
+33197|Peñasco Blanco|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9170|Rural|
+33197|Sehuerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9498|Rural|
+33197|Sicochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9510|Rural|
+33197|Somarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9553|Rural|
+33197|Tecorichi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9578|Rural|
+33197|Norogachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1621|Rural|
+33197|Ahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8206|Rural|
+33197|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8342|Rural|
+33197|El Ranchito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8680|Rural|
+33197|Hurichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8845|Rural|
+33197|Mesa de la Laguna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9016|Rural|
+33197|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9103|Rural|
+33197|Ocochichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9127|Rural|
+33197|Repechi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9308|Rural|
+33197|Rojasarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9372|Rural|
+33197|Santa María|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9471|Rural|
+33197|Techonachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9575|Rural|
+33197|Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9589|Rural|
+33197|Zapareachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9642|Rural|
+33197|Siquirichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1608|Rural|
+33197|Beterachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8371|Rural|
+33197|Choreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8476|Rural|
+33197|Chuirali|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8489|Rural|
+33197|Cuitemochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8544|Rural|
+33197|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8643|Rural|
+33197|El Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8644|Rural|
+33197|Napichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9094|Rural|
+33197|Pallenachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9154|Rural|
+33197|Paraje las Lagunas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9160|Rural|
+33197|Páramo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9163|Rural|
+33197|Rejachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9285|Rural|
+33197|Relahuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9290|Rural|
+33197|Rochivo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9353|Rural|
+33197|Torichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9592|Rural|
+33197|Bacarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8263|Rural|
+33197|Cayehuachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8433|Rural|
+33197|El Manzano|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|8646|Rural|
+33197|Enarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8711|Rural|
+33197|Guazarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8748|Rural|
+33197|Recuzachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9282|Rural|
+33197|Rogarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9360|Rural|
+33197|Rosanachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9411|Rural|
+33197|Sopichichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9558|Rural|
+33197|Totorichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9593|Rural|
+33197|Upachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9613|Rural|
+33197|Zapareachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9640|Rural|
+33197|Aboreachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8189|Rural|
+33197|Boagarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8378|Rural|
+33197|Chuirare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8490|Rural|
+33197|Coguerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8512|Rural|
+33197|El Puertecito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8672|Rural|
+33197|El Tenampa|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8707|Rural|
+33197|Gomarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8718|Rural|
+33197|Los Pilares|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8979|Rural|
+33197|Morisochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9062|Rural|
+33197|Pachuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9148|Rural|
+33197|Rolubo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9379|Rural|
+33197|Rumigrachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9422|Rural|
+33197|Sarabeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9480|Rural|
+33197|Warijeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9625|Rural|
+33198|Basaseachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8334|Rural|
+33198|Chipahuichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8462|Rural|
+33198|El Aguajito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8583|Rural|
+33198|El Encino (Napisoachi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8617|Rural|
+33198|El Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8639|Rural|
+33198|Guacharachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8725|Rural|
+33198|Los Táscates|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8981|Rural|
+33198|Mesa de Papajichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9025|Rural|
+33198|Morelos|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9059|Rural|
+33198|Nacasorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9079|Rural|
+33198|Napuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9100|Rural|
+33198|Ranchería Baboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9210|Rural|
+33198|Ranchería Cocohuichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9216|Rural|
+33198|Ranchería Muyeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9222|Rural|
+33198|Santana|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9474|Rural|
+33198|Agua Caliente|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8197|Rural|
+33198|Alamito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8213|Rural|
+33198|Arroyo de Gualayna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8241|Rural|
+33198|Baquiriachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8321|Rural|
+33198|Cariceachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8424|Rural|
+33198|Cumbre del Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8551|Rural|
+33198|Huillorare|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8818|Rural|
+33198|La Joya|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8884|Rural|
+33198|Mesa de Bocoyna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9010|Rural|
+33198|Mesa de Huiyorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9014|Rural|
+33198|Mesa de Nacabeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9022|Rural|
+33198|Mesa de Richuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9029|Rural|
+33198|Mesa de Rocheachi (Ranchería la Mesa)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9030|Rural|
+33198|Mesa de Tónachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9034|Rural|
+33198|Rayabo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9260|Rural|
+33198|Remojachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9301|Rural|
+33198|Yepo|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9634|Rural|
+33198|El Aguaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1611|Rural|
+33198|Aquichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8225|Rural|
+33198|Bachamuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8272|Rural|
+33198|Basigochi de Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8348|Rural|
+33198|Boquimoba|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8383|Rural|
+33198|El Álamo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8588|Rural|
+33198|El Ranchito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8678|Rural|
+33198|El Saltito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8699|Rural|
+33198|Guagüichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8733|Rural|
+33198|Güirarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8760|Rural|
+33198|Huillorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8817|Rural|
+33198|La Guitarra (La Guitarrilla)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8876|Rural|
+33198|La Lagunita|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8895|Rural|
+33198|Ramucheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9205|Rural|
+33198|Ranchería Arroyo de Richuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9209|Rural|
+33198|Ranchería Chipahuarichi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9215|Rural|
+33198|Ranchería Sicochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9232|Rural|
+33198|Agua Blanca|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8195|Rural|
+33198|Arroyo de la Cebadilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8243|Rural|
+33198|Bacorachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8276|Rural|
+33198|Basoreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8357|Rural|
+33198|El Ojito|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8653|Rural|
+33198|Los Rosados|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8980|Rural|
+33198|Matachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8997|Rural|
+33198|Mesa de Valerio|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9035|Rural|
+33198|Mesa del Aguaje|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9037|Rural|
+33198|Olirare (Timichi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9136|Rural|
+33198|Ranchería Basigochito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9213|Rural|
+33198|Ranchería Yehuachique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9235|Rural|
+33198|Santa Rita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9472|Rural|
+33198|Basiahuare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1600|Rural|
+33198|Rocheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1607|Rural|
+33198|Tónachi|Pueblo|Guachochi|Chihuahua||33181|08|33181||28|027|1609|Rural|
+33198|Aboreachi|Pueblo|Guachochi|Chihuahua||33181|08|33181||28|027|1610|Rural|
+33198|Laguna de Aboreachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|5783|Rural|
+33198|Arroyo del Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8248|Rural|
+33198|Basigochi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8298|Rural|
+33198|Bocoyna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8381|Rural|
+33198|Chubeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8483|Rural|
+33198|Huahuarare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8771|Rural|
+33198|Huichaborare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8796|Rural|
+33198|Huizarochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8832|Rural|
+33198|La Cebadilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8864|Rural|
+33198|Mesa de Bamoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9008|Rural|
+33198|Mesa del Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9042|Rural|
+33198|Piedra Bola|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9182|Rural|
+33198|Ranchería de la Laguna|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9218|Rural|
+33198|Ranchería Humira|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9220|Rural|
+33198|Ranchería las Guindas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9221|Rural|
+33198|Rancho las Norias|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9244|Rural|
+33198|Rojasarare de Rocheachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9373|Rural|
+33198|San Buenaventura|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9450|Rural|
+33198|Sehuerachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9497|Rural|
+33198|Urichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9615|Rural|
+33198|Ranchería Bajisochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|1606|Rural|
+33198|Arroyo de Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8240|Rural|
+33198|Barranquita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8331|Rural|
+33198|Basuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8358|Rural|
+33198|Chutanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8497|Rural|
+33198|El Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8637|Rural|
+33198|La Puerta|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8927|Rural|
+33198|Mesa de Meguachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9021|Rural|
+33198|Nacabeachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9070|Rural|
+33198|Nacabeachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9071|Rural|
+33198|Nacabeachi|Congregación|Guachochi|Chihuahua||33181|08|33181||11|027|9072|Rural|
+33198|Ramucheachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9206|Rural|
+33198|Rocoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9355|Rural|
+33198|Rosamachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9400|Rural|
+33198|Salto Grande|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9446|Rural|
+33198|Timuchi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9583|Rural|
+33198|Tobosachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9585|Rural|
+33198|Yepo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9631|Rural|
+33198|Yepo|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9633|Rural|
+33198|Aguachochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8202|Rural|
+33198|Apachoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8218|Rural|
+33198|Bacasorare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8267|Rural|
+33198|Basaseachi|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|8335|Rural|
+33198|Basiaguarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8338|Rural|
+33198|El Bajío (Basigochi)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8592|Rural|
+33198|El Frijolar|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8619|Rural|
+33198|Guagueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8729|Rural|
+33198|La Mesa del Puerto|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8919|Rural|
+33198|Las Cuevitas|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8947|Rural|
+33198|Napuchis|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9107|Rural|
+33198|Oserare|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9141|Rural|
+33198|Ranchería Remochochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9230|Rural|
+33198|Ranchería Sitanapurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9234|Rural|
+33198|Recubirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9281|Rural|
+33198|Rocharachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9352|Rural|
+33198|Rurachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9423|Rural|
+33198|Sagoachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9427|Rural|
+33198|Sigüiguarachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9516|Rural|
+33198|Basigochi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|4143|Rural|
+33198|Aquichique|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8231|Rural|
+33198|Arroyo del Manzano|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8247|Rural|
+33198|Cebadilla|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8434|Rural|
+33198|Chuyachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8498|Rural|
+33198|Cirirachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8504|Rural|
+33198|El Guajolote|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8622|Rural|
+33198|El Ojito|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8652|Rural|
+33198|Huehueachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8780|Rural|
+33198|La Lagunita|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8894|Rural|
+33198|Los Arbolitos (Choguita)|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|8966|Rural|
+33198|Mesa del Manzano|Ejido|Guachochi|Chihuahua||33181|08|33181||15|027|9043|Rural|
+33198|Pesachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9174|Rural|
+33198|Ranchería Bajío Largo|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9211|Rural|
+33198|Rosanachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9405|Rural|
+33198|Saterachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9484|Rural|
+33198|Sehuerachi|Ranchería|Guachochi|Chihuahua||33181|08|33181||29|027|9496|Rural|

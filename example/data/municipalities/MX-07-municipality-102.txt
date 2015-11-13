@@ -1,0 +1,33 @@
+30866|Los Encinos|Fraccionamiento|Tuxtla Chico|Chiapas||30872|07|30872||21|102|5581|Rural|
+30866|Los Naranjos|Fraccionamiento|Tuxtla Chico|Chiapas||30872|07|30872||21|102|5790|Rural|
+30867|Omoha|Ranchería|Tuxtla Chico|Chiapas||30701|07|30701||29|102|1845|Rural|
+30868|Vicente Guerrero|Ranchería|Tuxtla Chico|Chiapas||30701|07|30701||29|102|1846|Rural|
+30869|Sur de Guillen|Ranchería|Tuxtla Chico|Chiapas||30701|07|30701||29|102|1847|Rural|
+30870|Gática|Ejido|Tuxtla Chico|Chiapas||30872|07|30872||15|102|1850|Rural|
+30870|Sección Margaritas|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1861|Rural|
+30870|Santa Elena|Barrio|Tuxtla Chico|Chiapas||30872|07|30872||02|102|5657|Urbano|
+30870|Club de Leones|Fraccionamiento|Tuxtla Chico|Chiapas||30872|07|30872||21|102|7343|Urbano|
+30870|San Juan|Barrio|Tuxtla Chico|Chiapas||30872|07|30872||02|102|0001|Urbano|
+30870|Cahoa Buenavista|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1848|Rural|
+30870|Izapa 2a Sección|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1855|Rural|
+30870|Medio Monte 1a Sección|Congregación|Tuxtla Chico|Chiapas||30872|07|30872||11|102|1857|Rural|
+30870|Vida Mejor|Colonia|Tuxtla Chico|Chiapas||30872|07|30872||09|102|5656|Urbano|
+30870|Guadalupe Victoria|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1851|Rural|
+30870|Medio Monte 2a Sección|Congregación|Tuxtla Chico|Chiapas||30872|07|30872||11|102|1858|Rural|
+30870|Tuxtla Chico|Fraccionamiento|Tuxtla Chico|Chiapas||30872|07|30872||21|102|1862|Urbano|
+30870|Santa Bárbara|Barrio|Tuxtla Chico|Chiapas||30872|07|30872||02|102|0004|Urbano|
+30870|Izapa 1a Sección|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1854|Rural|
+30870|Miguel Hidalgo|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1859|Rural|
+30870|San José|Barrio|Tuxtla Chico|Chiapas||30872|07|30872||02|102|5860|Urbano|
+30870|Guillen 2a Sección|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1853|Rural|
+30870|El Sacrificio|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1849|Rural|
+30870|Guillen 1a Sección|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1852|Rural|
+30870|Manuel Lazos|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1856|Rural|
+30870|San Joaquín|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|1860|Rural|
+30871|La Toma 2a Sección|Ranchería|Tuxtla Chico|Chiapas||30701|07|30701||29|102|1863|Rural|
+30874|Sección la Granja|Colonia|Tuxtla Chico|Chiapas||30872|07|30872||09|102|0002|Rural|
+30874|El Encanto|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|7342|Rural|
+30875|La Toma Galera|Colonia|Tuxtla Chico|Chiapas||30701|07|30701||09|102|0003|Rural|
+30875|Talismán|Pueblo|Tuxtla Chico|Chiapas||30701|07|30701||28|102|1865|Rural|
+30876|Cahua 1a Sección|Ranchería|Tuxtla Chico|Chiapas||30842|07|30842||29|102|5824|Rural|
+30877|El Aguinal|Ranchería|Tuxtla Chico|Chiapas||30872|07|30872||29|102|5853|Rural|

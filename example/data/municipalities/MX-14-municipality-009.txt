@@ -1,0 +1,5 @@
+45350|El Arenal|Pueblo|El Arenal|Jalisco||45351|14|45351||28|009|0976|Rural|
+45355|La Cima|Fraccionamiento|El Arenal|Jalisco||45351|14|45351||21|009|0001|Urbano|
+45359|Santa Quitería|Ranchería|El Arenal|Jalisco||45351|14|45351||29|009|0977|Rural|
+45360|Santa Cruz del Astillero|Pueblo|El Arenal|Jalisco||45351|14|45351||28|009|0978|Rural|
+45368|Huaxtla|Congregación|El Arenal|Jalisco||45351|14|45351||11|009|0979|Rural|

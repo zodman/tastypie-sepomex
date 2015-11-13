@@ -1,0 +1,143 @@
+51550|Tlatlaya|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1293|Rural|
+51553|La Cueva|Pueblo|Tlatlaya|México||51571|15|51571||28|105|0040|Rural|
+51553|Loma Larga|Pueblo|Tlatlaya|México||51571|15|51571||28|105|0048|Rural|
+51553|Puerto Frío|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0065|Rural|
+51553|San Marcos|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1289|Rural|
+51553|Teopazul|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0071|Rural|
+51553|Coatepec|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1287|Rural|
+51553|El Terroncillo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9574|Rural|
+51553|Peña del Agua|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0057|Rural|
+51553|Piedra Ancha|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0059|Rural|
+51553|Dieciocho de Marzo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|8522|Rural|
+51553|Los Miraveles|Ranchería|Tlatlaya|México||51571|15|51571||29|105|8514|Rural|
+51554|Juntas del Paso Topilar|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0036|Rural|
+51554|Cerro del Morado|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9086|Rural|
+51554|El Arenal|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9071|Rural|
+51554|El Revelado|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9622|Rural|
+51554|Corral de Piedra Dos|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0011|Rural|
+51554|Tecomatlán|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9085|Rural|
+51555|La Laguna Puerto de la Arena|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0042|Rural|
+51555|Puerto de la  Arena|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1296|Rural|
+51555|El Potrero|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0027|Rural|
+51555|Plan de la Cuadrilla|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9528|Rural|
+51556|El Mango|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9083|Rural|
+51556|Cuadrilla de Gutiérrez|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9578|Rural|
+51556|San Mateo|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1290|Rural|
+51556|El Limón|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1297|Rural|
+51556|Juntas del Río Limón|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0037|Rural|
+51557|Benito Juárez|Colonia|Tlatlaya|México||51571|15|51571||09|105|9277|Rural|
+51557|San Juan Tetitlán|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1288|Rural|
+51557|Los Ocotes|Pueblo|Tlatlaya|México||51571|15|51571||28|105|0051|Rural|
+51558|Cuadrilla de los Sotero|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0013|Rural|
+51558|Barriales|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0004|Rural|
+51558|Pueblo Nuevo|Colonia|Tlatlaya|México||51571|15|51571||09|105|9678|Rural|
+51558|La Cofradía|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0038|Rural|
+51559|La Guacamaya|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0041|Rural|
+51559|Santa Cruz|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1291|Rural|
+51559|Santa María|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1292|Rural|
+51559|Mazatitla|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0053|Rural|
+51559|Corral Parota|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0012|Rural|
+51560|Limón Terrero|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0047|Rural|
+51560|Azúchil|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9625|Rural|
+51564|El Poroche|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0026|Rural|
+51564|Cerro de los Bautistas|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0049|Rural|
+51564|Las Juntas de Azúchil|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9679|Rural|
+51564|El Tiquimil|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0032|Rural|
+51565|El Devanador|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0016|Rural|
+51565|La Cubata|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0039|Rural|
+51565|Vuelta del Río|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1299|Rural|
+51566|Coahuilotes|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0010|Rural|
+51566|El Naranjito|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0024|Rural|
+51566|Cacahuananche|Ranchería|Tlatlaya|México||51571|15|51571||29|105|8241|Rural|
+51566|El Zapote|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1300|Rural|
+51566|Ranchos Nuevos|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0068|Rural|
+51568|La Lagunilla|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1301|Rural|
+51569|El Naranjito|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1302|Rural|
+51569|La Víbora|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0044|Rural|
+51569|Agua Fría|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0001|Rural|
+51569|Las Juntas del Paso|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0046|Rural|
+51569|El Ciruelo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9527|Rural|
+51569|El Reparo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9519|Rural|
+51569|Paso de Jaquinicuil|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1298|Rural|
+51569|Los Limones|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9626|Rural|
+51570|Tierra Blanca|Colonia|Tlatlaya|México||51571|15|51571||09|105|5218|Rural|
+51570|La Papaya|Colonia|Tlatlaya|México||51571|15|51571||09|105|5217|Rural|
+51570|Santa Ana Zicatecoyan|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1303|Rural|
+51572|Chachalacatenco|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0007|Rural|
+51572|Pinzán Morado|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0060|Rural|
+51572|Plan del Alambique|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0062|Rural|
+51572|Barranca de las Flores|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0003|Rural|
+51572|El Alambique|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0015|Rural|
+51572|Peña Colorada|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0056|Rural|
+51573|El Tamarindo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0031|Rural|
+51573|San Juan Corral|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1295|Rural|
+51573|El Montón|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0023|Rural|
+51573|El Toroal|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0033|Rural|
+51573|La Parota|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1333|Rural|
+51574|Los Hornos|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0050|Rural|
+51574|Cerro Blanco|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0061|Rural|
+51574|Río Topilar|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0069|Rural|
+51575|Peña del Órgano|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1305|Rural|
+51575|El Manguito|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0022|Rural|
+51575|Charco del Lagarto|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0008|Rural|
+51576|El Zopilote|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1306|Rural|
+51576|Moctezuma|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1307|Rural|
+51576|Cuadrilla Nueva|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0014|Rural|
+51576|Juntas de Santa Ana Zicatecoyan|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0035|Rural|
+51576|Rancho Cua|Ranchería|Tlatlaya|México||51571|15|51571||29|105|1308|Rural|
+51577|Puerto Minatitlán|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0066|Rural|
+51577|Cruz del Norte|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1309|Rural|
+51577|El Gavilán|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1310|Rural|
+51577|Puerto Seco|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1311|Rural|
+51577|Amacuatitla|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0002|Rural|
+51578|La Alcantarilla|Ranchería|Tlatlaya|México||51571|15|51571||29|105|8265|Rural|
+51578|Cerro de Aguacatepec|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0006|Rural|
+51578|Corral de Piedra|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1312|Rural|
+51578|El Salitrillo|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1313|Rural|
+51578|Rincón del Aguacate|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1314|Rural|
+51578|El Mango|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0021|Rural|
+51578|Salitre Grande|Ranchería|Tlatlaya|México||51571|15|51571||29|105|8229|Rural|
+51579|Cuadrilla de las Flores|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9514|Rural|
+51579|San Lucas|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9677|Rural|
+51579|El Suchual|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0030|Rural|
+51579|Pie del Cerro|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1315|Rural|
+51579|Tejupilquito|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1316|Rural|
+51579|La Cofradia|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9070|Rural|
+51579|San Felipe Tepehuastitlán|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0070|Rural|
+51579|Cuadrilla del Cirián (Cirián Grande)|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9274|Rural|
+51580|San Francisco de Asís|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1318|Rural|
+51580|Tlacocuspan|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1323|Rural|
+51580|El Limo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0019|Rural|
+51582|El Naranjo Palmar Grande|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0025|Rural|
+51582|Palmar Grande|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1327|Rural|
+51583|Macuatitla|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0052|Rural|
+51583|Pie del Cerro San Vicente|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0058|Rural|
+51583|Palma Torcida|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1320|Rural|
+51584|El Higo Prieto|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1322|Rural|
+51584|El Salitre Ojo de Agua|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0028|Rural|
+51584|Cuadrilla Nueva|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0072|Rural|
+51584|Ancón de los Curieles|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1321|Rural|
+51585|San Pedro Limón|Pueblo|Tlatlaya|México||51581|15|51581||28|105|1324|Rural|
+51586|Palos Verdes|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1325|Rural|
+51587|Cascalote|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0005|Rural|
+51587|Mayaltepec|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1326|Rural|
+51587|Cirián Grande|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0009|Rural|
+51587|El Guayabo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0017|Rural|
+51587|Peña Blanca|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0055|Rural|
+51587|Rancho Viejo|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0067|Rural|
+51587|Huixtitla|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0034|Rural|
+51587|El Llano|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0020|Rural|
+51588|El Guitarratel|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0018|Rural|
+51588|Las Esmeraldas|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1328|Rural|
+51588|Puerto de los Martínez|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0063|Rural|
+51588|Las Esmeraldas (Puerto del Órgano)|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0064|Rural|
+51588|El Sauz|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0029|Rural|
+51590|Rincón Grande|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1331|Rural|
+51598|Palos Altos|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0054|Rural|
+51598|El Temblor|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1332|Rural|
+51598|Las Juntas|Ranchería|Tlatlaya|México||51571|15|51571||29|105|0045|Rural|
+51598|San Antonio del Rosario|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1317|Rural|
+51598|Nuevo Copaltepec|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1330|Rural|
+51598|El Naranjo|Pueblo|Tlatlaya|México||51571|15|51571||28|105|1329|Rural|
+51599|La Parota|Pueblo|Tlatlaya|México||51571|15|51571||28|105|0043|Rural|
+51599|Ancón de la Presa|Ranchería|Tlatlaya|México||51571|15|51571||29|105|9084|Rural|

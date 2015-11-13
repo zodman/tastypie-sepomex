@@ -1,0 +1,7 @@
+87700|Santander|Colonia|Jiménez|Tamaulipas||87001|28|87001||09|018|3919|Urbano|
+87700|Santander Jiménez|Villa|Jiménez|Tamaulipas||87001|28|87001||32|018|0610|Rural|
+87709|El Peñón|Ejido|Jiménez|Tamaulipas||87001|28|87001||15|018|0613|Rural|
+87709|El Encinal|Ranchería|Jiménez|Tamaulipas||87001|28|87001||29|018|0612|Rural|
+87710|La Esperanza|Ejido|Jiménez|Tamaulipas||87001|28|87001||15|018|0614|Rural|
+87713|Tres de Abril (El Tulillo)|Ranchería|Jiménez|Tamaulipas||87001|28|87001||29|018|0001|Rural|
+87720|Allende|Ranchería|Jiménez|Tamaulipas||87001|28|87001||29|018|0615|Rural|

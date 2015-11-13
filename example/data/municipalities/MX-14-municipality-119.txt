@@ -1,0 +1,71 @@
+45750|Zacoalco de Torres Centro|Colonia|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||09|119|1352|Semiurbano|49
+45752|Las Cebollas|Barrio|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||02|119|3887|Semiurbano|49
+45752|Camino Real|Fraccionamiento|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||21|119|3892|Urbano|49
+45753|Dorados de Villa|Colonia|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||09|119|5348|Urbano|49
+45753|Flores Magón|Fraccionamiento|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||21|119|3884|Semiurbano|49
+45753|San Juan|Barrio|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||02|119|3888|Urbano|49
+45753|De los Castillos|Barrio|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||02|119|3889|Semiurbano|49
+45753|De los Camichines|Barrio|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||02|119|3890|Semiurbano|49
+45753|Alto|Barrio|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||02|119|3895|Semiurbano|49
+45753|Magisterio|Fraccionamiento|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||21|119|3891|Semiurbano|49
+45753|Bugambilias|Colonia|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||09|119|5347|Urbano|49
+45754|San Miguel|Fraccionamiento|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||21|119|3886|Semiurbano|49
+45754|Emiliano Zapata|Colonia|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||09|119|3893|Semiurbano|49
+45754|Cruz Verde|Barrio|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||02|119|3894|Semiurbano|49
+45754|Polillas de Zacoalco|Colonia|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||09|119|5349|Urbano|49
+45754|El Calvario|Fraccionamiento|Zacoalco de Torres|Jalisco|Zacoalco de Torres|45751|14|45751||21|119|3885|Semiurbano|49
+45755|Pueblo Nuevo|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1354|Rural|
+45755|Barranca de Santa Clara|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1355|Rural|
+45755|Potrero del Nogal|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5384|Rural|
+45755|Zamoranas|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5390|Rural|
+45755|Arroyo Prieto (Montecillos)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5350|Rural|
+45755|Benito Juárez (Catarina Uno)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|1361|Rural|
+45756|Barranca de los Laureles|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1356|Rural|
+45756|El Tlacuache (El Valle)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5367|Rural|
+45756|El Crucero de la Vía|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5362|Rural|
+45757|La Piedra Grande|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5374|Rural|
+45757|Rancho Bonanza (Rancho San Gabriel)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5385|Rural|
+45757|El Briseño (Los Briseño)|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1357|Rural|
+45757|Zacoalco (Capilla del Cerrito)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5389|Rural|
+45758|Los Castillos|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5381|Rural|
+45758|Colonia Bugambilias|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5353|Rural|
+45758|El Triángulo (Ex-Hacienda el Camichín)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5368|Rural|
+45758|Barrio Alto (Boruconsa)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5351|Rural|
+45758|El Centenario|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5359|Rural|
+45758|El Llano|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5364|Rural|
+45760|Barranca de Otates (Barranca de Otatán)|Pueblo|Zacoalco de Torres|Jalisco||45751|14|45751||28|119|1358|Rural|
+45763|Las Guásimas (Los Castro)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5378|Rural|
+45764|Los Ureña (La Ureñita)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5382|Rural|
+45765|General Andrés Figueroa (Catarina Dos)|Pueblo|Zacoalco de Torres|Jalisco||45751|14|45751||28|119|1359|Rural|
+45766|Ureña|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1360|Rural|
+45767|El Gancho (La Manga)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5363|Rural|
+45770|Beny|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5352|Rural|
+45770|Rancho Paraíso Country (Las Huertas)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5387|Rural|
+45770|San Marcos|Pueblo|Zacoalco de Torres|Jalisco||45751|14|45751||28|119|1362|Rural|
+45773|El Agua Caliente (El Pantano)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5355|Rural|
+45774|El Tecolote|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5366|Rural|
+45775|El Zapote (La Guitarra)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5370|Rural|
+45776|La Cruz|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5372|Rural|
+45776|La Playita|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5375|Rural|
+45777|Crucero de los Pozos|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5354|Rural|
+45777|Rancho las Ánimas|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5386|Rural|
+45777|Centro Logistico Jalisco, Area Habitacional|Unidad habitacional|Zacoalco de Torres|Jalisco||45751|14|45751||31|119|5323|Rural|
+45777|El Verde|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5369|Rural|
+45777|Potrero de los Pozos|Unidad habitacional|Zacoalco de Torres|Jalisco||45751|14|45751||31|119|5383|Rural|
+45780|El Canelo|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5357|Rural|
+45780|Verdía|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1363|Rural|
+45783|El Clarón|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5361|Rural|
+45783|La Tierra Colorada (La Carricera)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5377|Rural|
+45784|El Carrizal|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5358|Rural|
+45785|Sayulapan|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1364|Rural|
+45786|Las Moras (Las Mesas)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5380|Rural|
+45786|Las Moras|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5379|Rural|
+45786|San Antonio|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5388|Rural|
+45787|La Milpilla|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5373|Rural|
+45787|El Arroz|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5356|Rural|
+45788|El Ramireño (El Coyote)|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5365|Rural|
+45788|La Sábila|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5376|Rural|
+45788|Cacaluta (La Villita)|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1365|Rural|
+45789|El Crucero de San Isidro|Ranchería|Zacoalco de Torres|Jalisco||45751|14|45751||29|119|1366|Rural|
+45789|La Calera|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5371|Rural|
+45789|El Chivato|Congregación|Zacoalco de Torres|Jalisco||45751|14|45751||11|119|5360|Rural|

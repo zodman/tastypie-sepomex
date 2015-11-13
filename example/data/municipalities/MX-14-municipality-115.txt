@@ -1,0 +1,41 @@
+46100|Villa Guerrero|Ciudad|Villa Guerrero|Jalisco||46101|14|46101||08|115|1476|Rural|
+46103|San Felipe|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0008|Urbano|
+46103|La Aviación|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0005|Urbano|
+46104|Nuevo|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0007|Urbano|
+46105|Estanco|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0003|Rural|
+46105|Loma Bonita|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0006|Rural|
+46106|Verde|Barrio|Villa Guerrero|Jalisco||46101|14|46101||02|115|0001|Urbano|
+46106|Gasolinera|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0004|Urbano|
+46107|De la Rosa|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0002|Urbano|
+46109|Santa Cecilia|Colonia|Villa Guerrero|Jalisco||46101|14|46101||09|115|0009|Rural|
+46110|Tlacuitapan|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0035|Rural|
+46110|El Plan|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0017|Rural|
+46110|Santa Rita|Ranchería|Villa Guerrero|Jalisco||46101|14|46101||29|115|0034|Rural|
+46110|Patáhuac (Patagua)|Ranchería|Villa Guerrero|Jalisco||46101|14|46101||29|115|1480|Rural|
+46110|Zacatequillas|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0036|Rural|
+46110|El Patito|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0015|Rural|
+46110|El Charco Largo|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0013|Rural|
+46112|El Carnicero|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0012|Rural|
+46112|La Nopalera (Arroyo de Agua)|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0024|Rural|
+46113|Adjuntas del Norte|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0010|Rural|
+46114|El Pirul|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0016|Rural|
+46114|Las Conchas (La Concha)|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0025|Rural|
+46114|Juanacatic|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0019|Rural|
+46114|Capellanía|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0011|Rural|
+46114|Uribes|Ranchería|Villa Guerrero|Jalisco||46101|14|46101||29|115|1478|Rural|
+46114|Ojo de Agua de Cardos|Ranchería|Villa Guerrero|Jalisco||46101|14|46101||29|115|0028|Rural|
+46114|San Buenaventura|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0032|Rural|
+46114|La Boquilla|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0020|Rural|
+46114|La Labor|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0023|Rural|
+46115|San Juan|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0033|Rural|
+46115|La Cofradía|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0022|Rural|
+46117|Los Sauces|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0026|Rural|
+46120|San Lorenzo de Atzqueltán|Pueblo|Villa Guerrero|Jalisco||46101|14|46101||28|115|1475|Rural|
+46120|Izolta|Ranchería|Villa Guerrero|Jalisco||46101|14|46101||29|115|0018|Rural|
+46123|San Antonio|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0031|Rural|
+46123|Puerto del Viento|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0029|Rural|
+46123|De Enmedio (Manillas)|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0030|Rural|
+46124|El Limón|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0014|Rural|
+46126|Los Valles|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0027|Rural|
+46127|La Ciénega de los Márquez (La Ciénega)|Rancho|Villa Guerrero|Jalisco||46101|14|46101||48|115|0021|Rural|
+46127|La Guásima|Ranchería|Villa Guerrero|Jalisco||46101|14|46101||29|115|1479|Rural|

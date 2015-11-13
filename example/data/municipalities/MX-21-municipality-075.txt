@@ -1,0 +1,20 @@
+73920|Tenamacoyan|Ranchería|Hueyapan|Puebla||73901|21|73901||29|075|1348|Rural|
+73920|Hueyapan Centro|Colonia|Hueyapan|Puebla||73901|21|73901||09|075|1347|Urbano|
+73923|Atmoloni|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7341|Urbano|
+73923|Buenavista|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7343|Urbano|
+73924|Nanacacot|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7353|Urbano|
+73924|Barrio Alto|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7342|Urbano|
+73924|Colostitán|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7344|Urbano|
+73925|Coyotepec|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7345|Rural|
+73926|Gardenias|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7348|Rural|
+73926|Maloapan|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7351|Rural|
+73926|Paso Real|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7352|Rural|
+73926|Cuatro Caminos|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7346|Rural|
+73926|La Aurora|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7349|Rural|
+73927|Tetelilla|Colonia|Hueyapan|Puebla||73901|21|73901||09|075|1350|Rural|
+73927|Dos Ríos|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7347|Rural|
+73927|La Pagoda|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7350|Rural|
+73927|Talzintán|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7354|Rural|
+73928|Nexpan|Colonia|Hueyapan|Puebla||73901|21|73901||09|075|1351|Rural|
+73928|Tepetitanapan|Poblado comunal|Hueyapan|Puebla||73901|21|73901||27|075|7355|Rural|
+73928|Ahuatepec|Barrio|Hueyapan|Puebla||73901|21|73901||02|075|7340|Rural|

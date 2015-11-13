@@ -1,0 +1,22 @@
+62970|San Pedro Jantetelco|Pueblo|Jantetelco|Morelos||62971|17|62971||28|010|0622|Rural|
+62970|Manuel Alarcón|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|0811|Rural|
+62970|Mariana Díaz|Unidad habitacional|Jantetelco|Morelos||62971|17|62971||31|010|1467|Urbano|
+62972|Gabriel Tepepa|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1468|Urbano|
+62972|Amayuca|Pueblo|Jantetelco|Morelos||62971|17|62971||28|010|0624|Rural|
+62973|Serafín Marcial Bonilla|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1460|Rural|
+62974|Santa Lucia|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1456|Rural|
+62974|Alondra|Fraccionamiento|Jantetelco|Morelos||62971|17|62971||21|010|0809|Rural|
+62974|Nuevo Xochimilco|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1455|Rural|
+62974|Mariano Matamoros|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|0808|Rural|
+62974|4 Caminos|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|0810|Rural|
+62975|Los Bordos|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1457|Rural|
+62975|La Y|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1458|Rural|
+62975|La Renta|Colonia|Jantetelco|Morelos||62971|17|62971||09|010|1459|Rural|
+62976|La Alaja|Ranchería|Jantetelco|Morelos||62971|17|62971||29|010|1462|Rural|
+62977|Chalcatzingo|Pueblo|Jantetelco|Morelos||62971|17|62971||28|010|0625|Rural|
+62977|La Joya|Ranchería|Jantetelco|Morelos||62971|17|62971||29|010|1461|Rural|
+62978|San Antonio La Esperanza|Pueblo|Jantetelco|Morelos||62931|17|62931||28|010|0361|Rural|
+62978|Tenango (Santa Ana)|Pueblo|Jantetelco|Morelos||62931|17|62931||28|010|0626|Rural|
+62978|Emiliano Zapata|Colonia|Jantetelco|Morelos||62931|17|62931||09|010|1463|Rural|
+62978|La Huerta|Ranchería|Jantetelco|Morelos||62931|17|62931||29|010|1464|Rural|
+62978|Peñón de los Baños|Ranchería|Jantetelco|Morelos||62931|17|62931||29|010|1465|Rural|

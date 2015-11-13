@@ -1,0 +1,24 @@
+48200|Talpa de Allende Centro|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|2410|Rural|21
+48202|Mesa|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3458|Rural|21
+48202|Los Maestros|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3456|Rural|21
+48202|Naranjo|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3457|Rural|21
+48203|El Cerrito|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3459|Rural|21
+48205|Villas Del Rosario|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3461|Rural|21
+48205|San Miguel|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3463|Rural|21
+48207|San Francisco|Colonia|Talpa de Allende|Jalisco|Talpa de Allende|48201|14|48201||09|084|3462|Rural|21
+48210|La Cañada|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2413|Rural|
+48211|Cabos|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2414|Rural|
+48212|La Mesa|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2412|Rural|
+48212|Los Zapotes|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2415|Rural|
+48212|Los Ocotes|Ejido|Talpa de Allende|Jalisco||48201|14|48201||15|084|2409|Rural|
+48213|El Rincón de Cabos (El Rincón)|Poblado comunal|Talpa de Allende|Jalisco||48201|14|48201||27|084|5051|Rural|
+48220|Cuale|Congregación|Talpa de Allende|Jalisco||48201|14|48201||11|084|2416|Rural|
+48230|Desmoronado|Congregación|Talpa de Allende|Jalisco||48201|14|48201||11|084|2417|Rural|
+48240|Concepción Del Bramador|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2418|Rural|
+48247|Los Encinos|Rancho|Talpa de Allende|Jalisco||48201|14|48201||48|084|0001|Rural|
+48250|La Cuesta|Congregación|Talpa de Allende|Jalisco||48201|14|48201||11|084|2419|Rural|
+48255|La Esperanza|Hacienda|Talpa de Allende|Jalisco||48201|14|48201||24|084|2420|Rural|
+48255|Santa Julia (Rajas Paradas)|Rancho|Talpa de Allende|Jalisco||48201|14|48201||48|084|0002|Rural|
+48256|Soyatan|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2421|Rural|
+48256|Santa Lucia|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|4275|Rural|
+48259|Las Colonias|Ranchería|Talpa de Allende|Jalisco||48201|14|48201||29|084|2422|Rural|

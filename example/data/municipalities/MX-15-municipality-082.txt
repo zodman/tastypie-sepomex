@@ -1,0 +1,181 @@
+51400|Sanchéz|Colonia|Tejupilco|México|Tejupilco de Hidalgo|51411|15|51411||09|082|1180|Rural|22
+51400|La Florida|Colonia|Tejupilco|México|Tejupilco de Hidalgo|51411|15|51411||09|082|5912|Rural|22
+51400|Tejupilco de Hidalgo Centro|Colonia|Tejupilco|México|Tejupilco de Hidalgo|51411|15|51411||09|082|1166|Rural|22
+51400|La Isla|Colonia|Tejupilco|México|Tejupilco de Hidalgo|51411|15|51411||09|082|1174|Rural|22
+51400|Hidalgo|Colonia|Tejupilco|México|Tejupilco de Hidalgo|51411|15|51411||09|082|1186|Rural|22
+51410|Rincón de Ugartes|Ranchería|Tejupilco|México||51411|15|51411||29|082|1204|Rural|
+51410|El Cuagüilote Ojo de Agua (La Pera)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5877|Rural|
+51410|El Capire|Colonia|Tejupilco|México||51411|15|51411||09|082|1178|Rural|
+51410|Cerro de Cacalotepec|Ranchería|Tejupilco|México||51411|15|51411||29|082|5857|Rural|
+51410|Ojo de Agua (Rincón de Ugarte)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5941|Rural|
+51410|Buenavista|Colonia|Tejupilco|México||51411|15|51411||09|082|5852|Rural|
+51410|San José de la Laguna|Colonia|Tejupilco|México||51411|15|51411||09|082|1206|Rural|
+51410|Jalpan (Jalpan San Simón)|Pueblo|Tejupilco|México||51411|15|51411||28|082|1157|Rural|
+51410|Agua Bendita|Ranchería|Tejupilco|México||51411|15|51411||29|082|5844|Rural|
+51410|Rincón de López|Colonia|Tejupilco|México||51411|15|51411||09|082|8496|Urbano|
+51412|Lomas de Tejupilco|Colonia|Tejupilco|México||51411|15|51411||09|082|1175|Rural|
+51412|Independencia|Colonia|Tejupilco|México||51411|15|51411||09|082|5649|Rural|
+51412|Rinconada de la Labor|Ranchería|Tejupilco|México||51411|15|51411||29|082|5962|Rural|
+51412|El Sol|Colonia|Tejupilco|México||51411|15|51411||09|082|9114|Rural|
+51412|Rincón del Carmen|Pueblo|Tejupilco|México||51411|15|51411||28|082|1163|Rural|
+51412|Juárez|Colonia|Tejupilco|México||51411|15|51411||09|082|1172|Rural|
+51412|Rincón de Aguirre|Ranchería|Tejupilco|México||51411|15|51411||29|082|1202|Rural|
+51412|Juntas de Zacatepec (El Pedregal 2a. Mza.)|Ranchería|Tejupilco|México||51411|15|51411||29|082|1197|Rural|
+51412|Rincón de Jaimes|Colonia|Tejupilco|México||51411|15|51411||09|082|1195|Rural|
+51412|Zacatepec|Pueblo|Tejupilco|México||51411|15|51411||28|082|1208|Rural|
+51412|La Laguna de Mazatepec|Ranchería|Tejupilco|México||51411|15|51411||29|082|5913|Rural|
+51412|Río de Aquiagua (Aquiagua)|Pueblo|Tejupilco|México||51411|15|51411||28|082|5964|Rural|
+51412|México 68|Colonia|Tejupilco|México||51411|15|51411||09|082|1189|Rural|
+51412|Mazatepec|Pueblo|Tejupilco|México||51411|15|51411||28|082|5937|Rural|
+51412|Emiliano Zapata|Colonia|Tejupilco|México||51411|15|51411||09|082|9115|Rural|
+51412|Vicente Guerrero|Colonia|Tejupilco|México||51411|15|51411||09|082|5643|Rural|
+51412|Luis Donaldo Colosio|Colonia|Tejupilco|México||51411|15|51411||09|082|5647|Rural|
+51412|Las Américas|Colonia|Tejupilco|México||51411|15|51411||09|082|5648|Rural|
+51412|Cerro de Mazatepec|Ranchería|Tejupilco|México||51411|15|51411||29|082|5860|Rural|
+51412|El Ocote|Ranchería|Tejupilco|México||51411|15|51411||29|082|5887|Rural|
+51412|Las Rosas|Colonia|Tejupilco|México||51411|15|51411||09|082|9116|Rural|
+51413|Plan de Maguey|Ranchería|Tejupilco|México||51411|15|51411||29|082|5950|Rural|
+51413|Rincón de San Gabriel|Ranchería|Tejupilco|México||51411|15|51411||29|082|5959|Rural|
+51413|San Andrés Ocotepec|Pueblo|Tejupilco|México||51411|15|51411||28|082|1160|Rural|
+51413|San Gabriel Pantoja|Pueblo|Tejupilco|México||51411|15|51411||28|082|1164|Rural|
+51413|Puerto Madroño|Ranchería|Tejupilco|México||51411|15|51411||29|082|5955|Rural|
+51413|Los Baños|Ranchería|Tejupilco|México||51411|15|51411||29|082|5930|Rural|
+51414|Fragüita|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|9520|Rural|
+51414|ISSEMYM|Fraccionamiento|Tejupilco|México||51411|15|51411||21|082|1187|Rural|
+51414|Cuadrilla de Leones|Ranchería|Tejupilco|México||51411|15|51411||29|082|5866|Rural|
+51414|Los Colorines|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|9108|Rural|
+51414|Paso de Vigas|Colonia|Tejupilco|México||51411|15|51411||09|082|1227|Rural|
+51414|Rincón del Naranjo La Cabecera|Ranchería|Tejupilco|México||51411|15|51411||29|082|5960|Rural|
+51414|La Cabecera (La Cabecera de los Arrayanes)|Colonia|Tejupilco|México||51411|15|51411||09|082|1225|Rural|
+51414|Los Pericones|Ranchería|Tejupilco|México||51411|15|51411||29|082|5935|Rural|
+51415|Jumiltepec|Pueblo|Tejupilco|México||51411|15|51411||28|082|5901|Rural|
+51415|El Cirián de la Laguna (El Cirián)|Ranchería|Tejupilco|México||51411|15|51411||29|082|8519|Rural|
+51415|El Salitre Segunda Seccción|Ranchería|Tejupilco|México||51411|15|51411||29|082|9112|Rural|
+51415|Cañadas de San Simón (Cañada de Chivas)|Ranchería|Tejupilco|México||51411|15|51411||29|082|1203|Rural|
+51415|Salitre de San Lucas|Ranchería|Tejupilco|México||51411|15|51411||29|082|1231|Rural|
+51415|Suquitila|Ranchería|Tejupilco|México||51411|15|51411||29|082|5972|Rural|
+51415|La Cofradía los Mangos|Colonia|Tejupilco|México||51411|15|51411||09|082|1154|Rural|
+51415|Epazotes|Colonia|Tejupilco|México||51411|15|51411||09|082|1224|Rural|
+51415|El Calvario|Colonia|Tejupilco|México||51411|15|51411||09|082|1181|Rural|
+51416|Antonio de San Lucas del Maíz|Ranchería|Tejupilco|México||51411|15|51411||29|082|5848|Rural|
+51416|Piedra Ancha|Ranchería|Tejupilco|México||51411|15|51411||29|082|5948|Rural|
+51416|Llano Grande (Llano Grande de San Lucas)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5927|Rural|
+51416|San Lucas del Maíz (San Lucas)|Pueblo|Tejupilco|México||51411|15|51411||28|082|1165|Rural|
+51416|La Joya de San Lucas|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|1179|Rural|
+51417|Cuadrilla de los Martínez (Los Martínez)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5867|Rural|
+51417|El Mamey de San Lucas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5882|Rural|
+51417|Sáuz de San Lucas (El Sáuz)|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|1156|Rural|
+51417|Limón de San Lucas del Maíz|Ranchería|Tejupilco|México||51411|15|51411||29|082|5928|Rural|
+51417|Cuevillas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5869|Rural|
+51417|Fundadora de San Lucas del Maíz|Ranchería|Tejupilco|México||51411|15|51411||29|082|5909|Rural|
+51417|El Platanal (El Platanal de San Lucas)|Ranchería|Tejupilco|México||51411|15|51411||29|082|1205|Rural|
+51417|La Angostura Primera|Ranchería|Tejupilco|México||51411|15|51411||29|082|5902|Rural|
+51417|Los Melchores de San Lucas (Los Melchores)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5933|Rural|
+51417|Agua Negra|Ranchería|Tejupilco|México||51411|15|51411||29|082|5845|Rural|
+51418|Almoloya de las Granadas|Pueblo|Tejupilco|México||51411|15|51411||28|082|1201|Rural|
+51418|Tenería (Pueblo Nuevo)|Pueblo|Tejupilco|México||51411|15|51411||28|082|1199|Rural|
+51418|Cerro Alto (Milpa Vieja)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5855|Rural|
+51418|Río Grande|Pueblo|Tejupilco|México||51411|15|51411||28|082|5965|Rural|
+51422|Cerro Gordo|Ranchería|Tejupilco|México||51411|15|51411||29|082|5863|Rural|
+51422|El Rodeo|Ranchería|Tejupilco|México||51411|15|51411||29|082|5889|Rural|
+51422|Zapote del Ancón|Ranchería|Tejupilco|México||51411|15|51411||29|082|5975|Rural|
+51422|El Limón de la Estancia|Ranchería|Tejupilco|México||51411|15|51411||29|082|5881|Rural|
+51422|Ocoyapan|Pueblo|Tejupilco|México||51411|15|51411||28|082|5940|Rural|
+51422|La Estancia de Ixtapan|Ranchería|Tejupilco|México||51411|15|51411||29|082|5910|Rural|
+51422|La Labor de Zaragoza|Pueblo|Tejupilco|México||51411|15|51411||28|082|1158|Rural|
+51423|Arballo|Colonia|Tejupilco|México||51411|15|51411||09|082|1151|Rural|
+51423|El Capire de Pantoja|Ranchería|Tejupilco|México||51411|15|51411||29|082|5874|Rural|
+51423|Pantoja|Pueblo|Tejupilco|México||51411|15|51411||28|082|1161|Rural|
+51423|Antimonio|Ranchería|Tejupilco|México||51411|15|51411||29|082|5847|Rural|
+51423|Antimonio Pantoja|Ranchería|Tejupilco|México||51411|15|51411||29|082|5849|Rural|
+51423|Santiago Arizmendi|Pueblo|Tejupilco|México||51411|15|51411||28|082|5971|Rural|
+51424|Encinos Verdes|Ranchería|Tejupilco|México||51411|15|51411||29|082|5896|Rural|
+51424|Rincón el Sáuz Ocotepec|Ranchería|Tejupilco|México||51411|15|51411||29|082|5961|Rural|
+51424|El Sauz Ocotepec (El Sauz)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5895|Rural|
+51424|Llano Grande|Pueblo|Tejupilco|México||51411|15|51411||28|082|1155|Rural|
+51424|Las Animas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5917|Rural|
+51425|Cerro del Divisadero|Ranchería|Tejupilco|México||51411|15|51411||29|082|5862|Rural|
+51425|Juluapan (Juloapan)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5900|Rural|
+51425|Rincón Chiquito|Ranchería|Tejupilco|México||51411|15|51411||29|082|5957|Rural|
+51425|Las Moras|Ranchería|Tejupilco|México||51411|15|51411||29|082|5926|Rural|
+51425|Lodo Prieto|Ranchería|Tejupilco|México||51411|15|51411||29|082|5929|Rural|
+51425|Hacienda de Ixtapan|Ranchería|Tejupilco|México||51411|15|51411||29|082|5897|Rural|
+51425|San Francisco|Ranchería|Tejupilco|México||51411|15|51411||29|082|5968|Rural|
+51425|Cerro del Chirimoyo|Ranchería|Tejupilco|México||51411|15|51411||29|082|5861|Rural|
+51425|El Zapote de Ixtapan (El Zapote)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5893|Rural|
+51425|Puerto de Jalpan (Jalpa)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5954|Rural|
+51425|Los Nopales|Ranchería|Tejupilco|México||51411|15|51411||29|082|5934|Rural|
+51426|Ilamos|Ranchería|Tejupilco|México||51411|15|51411||29|082|5899|Rural|
+51426|San Miguel Ixtapan|Pueblo|Tejupilco|México||51411|15|51411||28|082|8893|Rural|
+51426|Puerto del Aire|Pueblo|Tejupilco|México||51411|15|51411||28|082|1162|Rural|
+51426|Las Juntas de Ixtapan|Ranchería|Tejupilco|México||51411|15|51411||29|082|5919|Rural|
+51426|La Guitarra|Ranchería|Tejupilco|México||51411|15|51411||29|082|5911|Rural|
+51427|Pinzán Morado|Ranchería|Tejupilco|México||51411|15|51411||29|082|5949|Rural|
+51427|Salto Grande|Ranchería|Tejupilco|México||51411|15|51411||29|082|5966|Rural|
+51427|El Carmen de Ixtapan|Colonia|Tejupilco|México||51411|15|51411||09|082|1191|Rural|
+51427|Cuadrilla de López|Colonia|Tejupilco|México||51411|15|51411||09|082|1226|Rural|
+51427|El Burrito (El Sáuz)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5872|Rural|
+51427|San Mateo (San Mateo Ixtapan)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5967|Rural|
+51427|Tirados|Ranchería|Tejupilco|México||51411|15|51411||29|082|1209|Rural|
+51427|Salitre de Acamuchitlán (El Salitre)|Pueblo|Tejupilco|México||51411|15|51411||28|082|5890|Rural|
+51427|Plaza de Gallos|Ranchería|Tejupilco|México||51411|15|51411||29|082|5953|Rural|
+51427|Acamuchitlán|Pueblo|Tejupilco|México||51411|15|51411||28|082|5843|Rural|
+51427|Aguacate-Monte de Dios|Ranchería|Tejupilco|México||51411|15|51411||29|082|5846|Rural|
+51427|Las Juntas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5918|Rural|
+51427|Monte de Dios|Ranchería|Tejupilco|México||51411|15|51411||29|082|5938|Rural|
+51427|Tonatilco|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|9113|Rural|
+51428|La Florida (Kilómetro Cinco)|Pueblo|Tejupilco|México||51411|15|51411||28|082|5644|Rural|
+51428|El Potrero de Ixtapan (El Potrero)|Ranchería|Tejupilco|México||51411|15|51411||29|082|1210|Rural|
+51428|Santa Rosa (Las Juntas)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5970|Rural|
+51428|Santa Rosa Rincón de Jaimes|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|1194|Rural|
+51428|Santa María de las Flores|Ranchería|Tejupilco|México||51411|15|51411||29|082|5969|Rural|
+51428|Las Mesas de Ixtapan (Las Mesas)|Pueblo|Tejupilco|México||51411|15|51411||28|082|1159|Rural|
+51428|Campanario de Ixtapan (El Campanario)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5873|Rural|
+51428|Barranca de Ixtapan|Ranchería|Tejupilco|México||51411|15|51411||29|082|5850|Rural|
+51430|Bejucos de Sanchéz Colin|Colonia|Tejupilco|México||51431|15|51431||09|082|1228|Rural|
+51432|Las Mesas de los Capires (Las Mesas)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5924|Rural|
+51432|Rincón del Guayabal|Colonia|Tejupilco|México||51411|15|51411||09|082|1232|Rural|
+51432|Cuadrilla del Molino|Ranchería|Tejupilco|México||51411|15|51411||29|082|5868|Rural|
+51432|Puerto la Piedra Labrada (Pto. de Carboneras)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5947|Rural|
+51432|El Ciruelo|Ranchería|Tejupilco|México||51411|15|51411||29|082|5875|Rural|
+51432|La Cañada|Ranchería|Tejupilco|México||51411|15|51411||29|082|5907|Rural|
+51432|Potrero del Guayabal|Ranchería|Tejupilco|México||51411|15|51411||29|082|5946|Rural|
+51432|Rincón de Carboneras (Carboneras)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5958|Rural|
+51432|Cerro de los Elizaldes|Ranchería|Tejupilco|México||51411|15|51411||29|082|5858|Rural|
+51432|Cerro de los Huérfanos|Ranchería|Tejupilco|México||51411|15|51411||29|082|5859|Rural|
+51433|El Corupo|Ranchería|Tejupilco|México||51411|15|51411||29|082|5876|Rural|
+51433|El Jumate|Ranchería|Tejupilco|México||51411|15|51411||29|082|5880|Rural|
+51433|Planes de la Cofradía (Los Planes)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5952|Rural|
+51433|El Zapote de Acamuchitlán (El Zapote)|Pueblo|Tejupilco|México||51411|15|51411||28|082|5894|Rural|
+51433|La Calera|Ranchería|Tejupilco|México||51411|15|51411||29|082|5906|Rural|
+51433|Tejapan Limones (Tejapan)|Pueblo|Tejupilco|México||51411|15|51411||28|082|5974|Rural|
+51433|La Mesa|Ranchería|Tejupilco|México||51411|15|51411||29|082|5923|Rural|
+51433|Río Chiquito|Ranchería|Tejupilco|México||51411|15|51411||29|082|5963|Rural|
+51434|Las Anonas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5914|Rural|
+51434|Paso de San Juan|Pueblo|Tejupilco|México||51411|15|51411||28|082|5944|Rural|
+51434|Naranjo Chiquito|Ranchería|Tejupilco|México||51411|15|51411||29|082|5939|Rural|
+51434|Coahuilotes|Ranchería|Tejupilco|México||51411|15|51411||29|082|5864|Rural|
+51434|Las Ilamas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5925|Rural|
+51434|Los Pinzanes (La Pinzanera)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5936|Rural|
+51434|El Naranjo Grande|Ranchería|Tejupilco|México||51411|15|51411||29|082|5886|Rural|
+51434|La Bolsa|Ranchería|Tejupilco|México||51411|15|51411||29|082|5903|Rural|
+51434|La Cuitacera|Ranchería|Tejupilco|México||51411|15|51411||29|082|5908|Rural|
+51434|El Guayabo|Ranchería|Tejupilco|México||51411|15|51411||29|082|5879|Rural|
+51435|La Calera|Ranchería|Tejupilco|México||51411|15|51411||29|082|5904|Rural|
+51435|Cacahuananche|Ranchería|Tejupilco|México||51411|15|51411||29|082|5854|Rural|
+51435|Paso de la Parota|Ranchería|Tejupilco|México||51411|15|51411||29|082|5943|Rural|
+51435|Plan del Puente|Ranchería|Tejupilco|México||51411|15|51411||29|082|5951|Rural|
+51435|Barro Prieto|Ranchería|Tejupilco|México||51411|15|51411||29|082|5853|Rural|
+51435|Paso del Guayabal (El Paso)|Pueblo|Tejupilco|México||51411|15|51411||28|082|1230|Rural|
+51436|Benito Juárez (Lázaro Cárdenas del Río)|Colonia|Tejupilco|México||51411|15|51411||09|082|5851|Rural|
+51436|El Molino del Salto (Galera del Molino)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5884|Rural|
+51436|Mesa de Gallos (El Llano)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5922|Rural|
+51436|Potrero Grande|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|9110|Rural|
+51436|Las Juntas del Salto|Ranchería|Tejupilco|México||51411|15|51411||29|082|5920|Rural|
+51436|El Puerto del Blanqueadero (Peñas Pintas)|Poblado comunal|Tejupilco|México||51411|15|51411||27|082|9111|Rural|
+51436|El Salto (El Salto Dos)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5891|Rural|
+51436|La Palma Cuata (La Palma)|Colonia|Tejupilco|México||51411|15|51411||09|082|9109|Rural|
+51436|Las Lomas (Los Depósitos)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5921|Rural|
+51437|El Picacho del Rincón del Guayabal|Ranchería|Tejupilco|México||51411|15|51411||29|082|5888|Rural|
+51437|Paredes Prietas|Ranchería|Tejupilco|México||51411|15|51411||29|082|5942|Rural|
+51437|La Parota (Rancho las Parotas)|Ranchería|Tejupilco|México||51411|15|51411||29|082|5915|Rural|

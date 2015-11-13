@@ -1,0 +1,56 @@
+46000|Huejuquilla El Alto Centro|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|1449|Rural|50
+46002|El Temachaco|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|3897|Rural|50
+46003|El Aserradero|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|0005|Urbano|50
+46004|Plan Del Rio|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|3898|Rural|50
+46005|Independencia|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|3899|Rural|50
+46005|El Techalote|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|3900|Rural|50
+46006|Xitlali|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|0009|Urbano|50
+46007|Santa Cecilia|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|0008|Urbano|50
+46007|El Torpe|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|3896|Rural|50
+46008|Los Laureles|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|0006|Urbano|50
+46009|Los Sauces|Colonia|Huejuquilla el Alto|Jalisco|Huejuquilla el Alto|46001|14|46001||09|042|0007|Urbano|50
+46010|San José de Maderas|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1451|Rural|
+46012|El Zollate|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0023|Rural|
+46013|Jimulco|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1452|Rural|
+46013|Rancho Colorado|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1454|Rural|
+46014|El Terrero|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0022|Rural|
+46014|San José de Orozco|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0038|Rural|
+46014|Cerro Blanco|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0011|Rural|
+46014|La Estancia de Arriba|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0026|Rural|
+46014|Los Zapotes|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0034|Rural|
+46015|Arroyos del Agua|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1455|Rural|
+46015|Vallecito|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0002|Rural|
+46016|El Colorado|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1453|Rural|
+46017|La Muralla|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0027|Rural|
+46017|La Ordeña|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0028|Rural|
+46017|Buenavista (El Tuerto)|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0039|Rural|
+46018|Los Ortega y Cardos|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1456|Rural|
+46018|Ortega|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1457|Rural|
+46019|Bajío de Maderas|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0010|Rural|
+46019|Mesa de Cristo|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0004|Rural|
+46020|Margaritas|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1458|Rural|
+46022|Los García|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0031|Rural|
+46022|El Cedro|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0020|Rural|
+46022|Los Mezquites|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0033|Rural|
+46022|El Carrizal|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0019|Rural|
+46022|San Cayetano de los Landa|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0037|Rural|
+46023|Las Granjas|Colonia|Huejuquilla el Alto|Jalisco||46001|14|46001||09|042|0017|Rural|
+46024|Ciénega de Pacheco|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0014|Rural|
+46024|Salitre de Arriba|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0036|Rural|
+46024|La Boquilla|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0024|Rural|
+46024|Salitre de Abajo|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0035|Rural|
+46025|Cuesta de Yugos|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0018|Rural|
+46025|Colomos de San Nicolás|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0015|Rural|
+46025|San Nicolás de Acuña|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1459|Rural|
+46029|El Sabino|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0021|Rural|
+46029|La Cofradía|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|1460|Rural|
+46029|La Estancia de Abajo|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0025|Rural|
+46029|Las Pilas|Ranchería|Huejuquilla el Alto|Jalisco||46001|14|46001||29|042|0003|Rural|
+46030|Rincón de San Vicente|Colonia|Huejuquilla el Alto|Jalisco||46001|14|46001||09|042|0001|Rural|
+46030|Tenzompa|Pueblo|Huejuquilla el Alto|Jalisco||46001|14|46001||28|042|1461|Rural|
+46030|Cerro de Temachaco|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0012|Rural|
+46034|Hatmasie|Colonia|Huejuquilla el Alto|Jalisco||46001|14|46001||09|042|0016|Rural|
+46036|Ciénega de Guadalupe|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0013|Rural|
+46037|La Soledad|Pueblo|Huejuquilla el Alto|Jalisco||46001|14|46001||28|042|0029|Rural|
+46037|Las Pilas|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0030|Rural|
+46037|Los Llanos|Rancho|Huejuquilla el Alto|Jalisco||46001|14|46001||48|042|0032|Rural|

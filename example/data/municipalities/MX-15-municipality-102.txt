@@ -1,0 +1,36 @@
+50500|San Andrés Timilpan|Pueblo|Timilpan|México||50741|15|50741||28|102|0565|Urbano|
+50503|N Teje|Barrio|Timilpan|México||50741|15|50741||02|102|9505|Urbano|
+50503|N Zititi|Barrio|Timilpan|México||50741|15|50741||02|102|9504|Urbano|
+50503|M Bodo|Barrio|Timilpan|México||50741|15|50741||02|102|9506|Urbano|
+50504|N Gunzda|Barrio|Timilpan|México||50741|15|50741||02|102|9507|Urbano|
+50504|Aguacate|Barrio|Timilpan|México||50741|15|50741||02|102|9508|Urbano|
+50505|N Zola|Barrio|Timilpan|México||50741|15|50741||02|102|9509|Urbano|
+50505|Campo Santo|Barrio|Timilpan|México||50741|15|50741||02|102|9510|Urbano|
+50505|Segunda Manzana|Barrio|Timilpan|México||50741|15|50741||02|102|9511|Urbano|
+50507|Primera Manzana de Barrio Iturbide|Barrio|Timilpan|México||50741|15|50741||02|102|0002|Rural|
+50507|Segunda Manzana de Barrio Iturbide|Barrio|Timilpan|México||50741|15|50741||02|102|0562|Rural|
+50507|Barrio de Ocampo|Barrio|Timilpan|México||50741|15|50741||02|102|0566|Rural|
+50508|Primera Manzana de San Nicolás|Pueblo|Timilpan|México||50741|15|50741||28|102|0567|Rural|
+50508|Segunda Manzana de San Nicolás|Colonia|Timilpan|México||50741|15|50741||09|102|9497|Rural|
+50509|Segunda Manzana de Zaragoza|Colonia|Timilpan|México||50741|15|50741||09|102|9495|Rural|
+50509|Tercera Manzana de Zaragoza|Barrio|Timilpan|México||50741|15|50741||02|102|9498|Rural|
+50509|Primera Manzana de Zaragoza|Pueblo|Timilpan|México||50741|15|50741||28|102|0568|Rural|
+50510|Huapango|Pueblo|Timilpan|México||50741|15|50741||28|102|0569|Rural|
+50520|Barrio Iturbide|Barrio|Timilpan|México||50741|15|50741||02|102|8161|Rural|
+50520|Primera Manzana Barrio de Hidalgo|Barrio|Timilpan|México||50741|15|50741||02|102|0570|Rural|
+50523|Lomas de Emiliano Zapata (Las Lomas)|Colonia|Timilpan|México||50741|15|50741||09|102|9496|Rural|
+50524|Segunda Manzana de Barrio Morelos|Barrio|Timilpan|México||50741|15|50741||02|102|9501|Rural|
+50525|Agua Bendita|Ranchería|Timilpan|México||50741|15|50741||29|102|8187|Rural|
+50525|Tercera Manzana de Barrio Iturbide Ixcaja|Barrio|Timilpan|México||50741|15|50741||02|102|9503|Rural|
+50525|Primera Manzana de Barrio Morelos|Barrio|Timilpan|México||50741|15|50741||02|102|0563|Rural|
+50525|Primera Manzana de Cañada de Lobos|Pueblo|Timilpan|México||50741|15|50741||28|102|0571|Rural|
+50525|Tercera Manzana de Barrio de Morelos|Barrio|Timilpan|México||50741|15|50741||02|102|0001|Rural|
+50525|Segunda Manzana Barrio de Hidalgo|Ranchería|Timilpan|México||50741|15|50741||29|102|9502|Rural|
+50526|Primera Manzana del Pueblo de Rincón de Bucio|Pueblo|Timilpan|México||50741|15|50741||28|102|0564|Rural|
+50526|Segunda Manzana de Cañada de Lobos|Barrio|Timilpan|México||50741|15|50741||02|102|9500|Rural|
+50526|Segunda Manzana del Pueblo de Rincón de Bucio|Barrio|Timilpan|México||50741|15|50741||02|102|0003|Rural|
+50527|Tercera Manzana del Pueblo de Rincón de Bucio|Barrio|Timilpan|México||50741|15|50741||02|102|9499|Rural|
+50528|El Palmito|Pueblo|Timilpan|México||50741|15|50741||28|102|0561|Rural|
+50540|San Antonio Yondejé|Pueblo|Timilpan|México||50741|15|50741||28|102|0573|Rural|
+50540|Santiaguito Maxdá|Pueblo|Timilpan|México||50741|15|50741||28|102|0574|Rural|
+50540|Barrio Quinto de Maxdá (Enzdá)|Barrio|Timilpan|México||50741|15|50741||02|102|0572|Rural|

@@ -1,0 +1,40 @@
+93680|Atzalan|Villa|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||32|023|2497|Rural|
+93680|Napoala|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2498|Rural|
+93680|Xiocuilapa|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2499|Rural|
+93680|Ahuateno|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2496|Rural|
+93683|Cuauhtémoc|Pueblo|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||28|023|0005|Rural|
+93684|San Salvador|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2500|Rural|
+93684|Tilzapota|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2501|Rural|
+93684|Cruz Gorda|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|6839|Rural|
+93684|Toxtixtaca|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|9062|Rural|
+93685|El Equimite|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2502|Rural|
+93685|Naranjillo|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|9041|Rural|
+93685|Zapotitlán|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2503|Rural|
+93687|Almanza|Ejido|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||15|023|2504|Rural|
+93687|Cerro de San Francisco|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|7262|Rural|
+93687|Huatamimilo|Poblado comunal|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||27|023|0002|Rural|
+93687|Tinajas|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|0003|Rural|
+93688|Alseseca el Grande|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2505|Rural|
+93688|El Fortín|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2506|Rural|
+93689|Tazolapa|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2507|Rural|
+93690|Tierra Nueva|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93601|30|93601||29|023|2508|Rural|
+93692|Loma de las Flores|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|1977|Rural|
+93692|San Pedro Buenavista|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2510|Rural|
+93692|Pompeya|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2509|Rural|
+93693|Cerro del Candelero (Huipanguillo)|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|0006|Rural|
+93693|Rancho Nuevo|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2512|Rural|
+93693|Arroyo Colorado|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2511|Rural|
+93693|Ictzictic|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|7296|Rural|
+93694|El Campamento|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2515|Rural|
+93694|Cuatro Caminos|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2514|Rural|
+93694|Copalillo I|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2513|Rural|
+93695|Santiago|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93651|30|93651||11|023|2517|Rural|
+93695|Arroyo Negro|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93651|30|93651||11|023|7477|Rural|
+93695|Plan de Arroyos|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93651|30|93651||11|023|2516|Rural|
+93696|Zapotal|Poblado comunal|Atzalan|Veracruz de Ignacio de la Llave||93651|30|93651||27|023|9058|Rural|
+93697|Pahua Hueca|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2518|Rural|
+93697|El Pimiento|Poblado comunal|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||27|023|0001|Rural|
+93698|Copalillo II (El Palmar)|Congregación|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||11|023|2519|Rural|
+93698|Zapote Redondo|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2521|Rural|
+93698|El Tesoro|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|2520|Rural|
+93698|El Anayal|Ranchería|Atzalan|Veracruz de Ignacio de la Llave||93701|30|93701||29|023|0004|Rural|

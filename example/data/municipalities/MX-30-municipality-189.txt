@@ -1,0 +1,224 @@
+92770|Frijolillo|Barrio|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||02|189|1680|Rural|
+92770|20 de Noviembre|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4326|Urbano|
+92770|Nuevo Sol|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|5677|Urbano|
+92770|Aire Libre (Kilómetro 15)|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|1677|Rural|
+92770|La Mata|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1682|Urbano|
+92770|Peña de Afuera|Barrio|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||02|189|1685|Rural|
+92770|Boca del Monte|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1791|Rural|
+92770|Ceiba Rica|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1802|Rural|
+92770|Santiago de La Peña|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2095|Urbano|
+92770|Las Animas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4324|Urbano|
+92770|Alto Lucero|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|1678|Rural|
+92770|Cañada Rica|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||29|189|1679|Rural|
+92770|El Vergel|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1864|Urbano|
+92770|Miguel Hidalgo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|2015|Urbano|
+92770|Montes de Armenia|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2021|Rural|
+92770|El Paraíso|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|7109|Urbano|
+92770|CTM|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1818|Urbano|
+92770|El Muro|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1856|Rural|
+92770|La Unión|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1941|Rural|
+92770|La Victoria|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1942|Urbano|
+92770|Puente Don Diego|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2062|Rural|
+92770|Murillo Vidal|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4328|Urbano|
+92770|Ojite|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||29|189|1683|Rural|
+92770|Países Bajos (Kilómetro 8)|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||29|189|1684|Rural|
+92770|Tierra Blanca|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|1688|Rural|
+92770|Altamira|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1764|Rural|
+92770|Chijolar|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1824|Rural|
+92770|Tampiquillo|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2103|Rural|
+92770|Dante Delgado|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4323|Urbano|
+92770|1ro de Mayo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4327|Urbano|
+92770|Higueral|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||29|189|1681|Rural|
+92770|Buenos Aires|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1794|Rural|
+92770|Chomotla|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1825|Rural|
+92770|Fernando Gutiérrez Barrios|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4325|Urbano|
+92770|Santiago de la Peña|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|1687|Rural|
+92770|Loma Alta|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1974|Rural|
+92770|Manlio Fabio Altamirano|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|2004|Urbano|
+92770|Praxedis Guerrero (Kilómetro 18)|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|1686|Rural|
+92770|Juana Moza|Ejido|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||15|189|1920|Rural|
+92770|Zapotal Zaragoza|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2136|Rural|
+92770|Niños Héroes|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|5676|Urbano|
+92772|Rancho Viejo|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92981|30|92981||29|189|1753|Rural|
+92773|Emiliano Zapata|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|5674|Urbano|
+92773|Playa Norte|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|7111|Urbano|
+92773|Cerro de Tumilco|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1805|Rural|
+92773|La Barra|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1921|Urbano|
+92773|Barra Norte|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1922|Rural|
+92773|Monte Horeb|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|5675|Urbano|
+92773|Chacoaco|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1821|Rural|
+92773|Arboleda|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4329|Urbano|
+92773|La Ceiba|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1926|Rural|
+92773|El Paraíso|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|4330|Urbano|
+92773|Franco Cruz Hernández|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1883|Urbano|
+92773|La Victoria|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1943|Urbano|
+92773|Tampamachoco|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|2102|Urbano|
+92773|Banderas|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1781|Rural|
+92773|La Calzada|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|1924|Urbano|
+92773|El Capullo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|7110|Urbano|
+92773|Playa Azul|Colonia|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||09|189|7112|Urbano|
+92774|Miramar (La Antigua)|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2017|Rural|
+92774|Corredor Industrial|Parque industrial|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||26|189|4332|Rural|
+92774|Benito Juárez|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1786|Urbano|
+92774|La Moderna|Ejido|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||15|189|4331|Rural|
+92774|Linda Vista|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1969|Rural|
+92774|Playa Emiliano Zapata|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2055|Rural|
+92774|Tabuco|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2101|Rural|
+92774|Higo de la Esperanza|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1902|Rural|
+92775|Las Pasas|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1957|Rural|
+92775|Salto de La Reforma|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2081|Rural|
+92775|Monte Morelos|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2020|Rural|
+92775|Laja del Tubo|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1778|Rural|
+92775|Tebanco|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2100|Rural|
+92776|Chiconcoa|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1823|Rural|
+92776|Héroes de Chapultepec (El Tamarindo)|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1899|Rural|
+92776|Peña Alta|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2050|Rural|
+92776|Banco del Calichar|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1780|Rural|
+92776|El Progreso|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1795|Rural|
+92776|Francisco I. Madero|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1880|Urbano|
+92776|San José el Grande|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2085|Rural|
+92776|El Jobo|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1851|Rural|
+92776|Macuiltépetl|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1999|Rural|
+92776|El Coyol|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1849|Rural|
+92776|Zapote Domingo|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2139|Rural|
+92780|Comején|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1811|Rural|
+92780|El Lindero|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1972|Rural|
+92780|Otatal|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2038|Rural|
+92780|Chalahuite|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||29|189|1689|Rural|
+92780|Palma de Morelos|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2042|Rural|
+92780|Nalúa|Ranchería|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||29|189|1690|Rural|
+92783|Tronconal|Rancho|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||48|189|0001|Rural|
+92783|El Angosto|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1848|Rural|
+92783|La Camelia|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1925|Rural|
+92783|Héroe de Nacozari (Arroyo de San Lorenzo)|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1898|Rural|
+92783|Tronconal de Herrera Beltrán|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|0002|Rural|
+92783|Alto de San Lorenzo|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1847|Rural|
+92784|Sabanillas|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2077|Rural|
+92784|Baltazar|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1779|Rural|
+92784|La Laja de Coloman|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1945|Rural|
+92785|Juan Zumaya (El Remate)|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1919|Rural|
+92785|Buena Vista|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1792|Rural|
+92785|Cruz Naranjos|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|1816|Rural|
+92785|Zapotalillo|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2137|Rural|
+92786|Ojite Rancho Nuevo|Pueblo|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||28|189|0004|Rural|
+92789|La Laja de Zapote Bueno|Congregación|Tuxpan|Veracruz de Ignacio de la Llave||92801|30|92801||11|189|2138|Rural|
+92800|Túxpam de Rodríguez Cano Centro|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1691|Urbano|16
+92810|Rafael Hernández Ochoa|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1695|Rural|16
+92810|Jesús Reyes Heroles|Unidad habitacional|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||31|189|4333|Urbano|16
+92810|Murillo Vidal|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1696|Rural|16
+92810|El Esfuerzo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1694|Urbano|16
+92810|INFONAVIT Puerto Pesquero|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2063|Urbano|16
+92810|Esperanza Azcon|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5672|Urbano|16
+92820|Álvarez|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1697|Urbano|16
+92820|Olímpica|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1936|Urbano|16
+92820|Azteca|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1698|Urbano|16
+92820|Mexicana Miguel Alemán|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1699|Urbano|16
+92820|Concepción|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|7106|Urbano|16
+92820|Azteca|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|5656|Urbano|16
+92830|Rodríguez Alcaine|Fraccionamiento|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||21|189|7107|Urbano|16
+92830|Juárez|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1701|Urbano|16
+92830|Géminis INFONAVIT|Fraccionamiento|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||21|189|1890|Urbano|16
+92830|Escudero|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1702|Urbano|16
+92830|Las Palmas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1956|Urbano|16
+92830|Anáhuac|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1700|Urbano|16
+92830|Lázaro Cárdenas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1963|Urbano|16
+92830|Los Pinos|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1991|Urbano|16
+92830|INFONAVIT Castillo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5662|Urbano|16
+92830|Campo Real|Fraccionamiento|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||21|189|7108|Urbano|16
+92833|Cabo Rojo|Fraccionamiento|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||21|189|7862|Urbano|16
+92834|23 de Noviembre|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2119|Urbano|16
+92834|Alfonso Arroyo Flores|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4334|Urbano|16
+92840|Loma Linda|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1704|Urbano|16
+92840|Los Mangos|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1990|Urbano|16
+92840|Reyes Heroles|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1705|Urbano|16
+92840|Fausto Vega Santander|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1873|Urbano|16
+92840|INFONAVIT Tulipanes|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5673|Urbano|16
+92840|Vicente Guerrero|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2120|Urbano|16
+92840|Adolfo Lopez Mateos|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4335|Urbano|16
+92840|El Naranjal|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1703|Rural|16
+92845|De los Artistas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1706|Urbano|16
+92850|Jazmín|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5663|Urbano|16
+92850|Militares|Unidad habitacional|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||31|189|7130|Urbano|16
+92850|Emiliano Zapata|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1867|Urbano|16
+92850|Las Lomas|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|1954|Urbano|16
+92850|Luis Donaldo Colosio|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4336|Urbano|16
+92850|Federico Garcia Blanco|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1875|Urbano|16
+92850|Juan Lucas|Congregación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||11|189|1918|Urbano|16
+92850|Las Joyas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1950|Urbano|16
+92850|Pisaflores|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2053|Urbano|16
+92850|Las Lomas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1707|Urbano|16
+92850|Dante Delgado|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4651|Urbano|16
+92853|Petropolis|Fraccionamiento|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||21|189|0003|Urbano|16
+92853|San Antonio|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2082|Urbano|16
+92853|Lomas de Maratea|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5655|Urbano|16
+92853|El Retiro|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1860|Urbano|16
+92853|Obrera|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|2036|Urbano|16
+92853|El Mirador|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1855|Urbano|16
+92853|Insurgentes|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1909|Urbano|16
+92853|México Lindo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|7718|Urbano|16
+92853|Obrera|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2034|Urbano|16
+92853|Los Mangos|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|4337|Urbano|16
+92853|Colinas Del Sol|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5654|Urbano|16
+92853|Túxpam VIVAH|Conjunto habitacional|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||12|189|5671|Urbano|16
+92853|Los Mangos|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|7717|Urbano|16
+92853|Niños Héroes|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5653|Urbano|16
+92853|Joaquín Hernandez Galicia|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5664|Urbano|16
+92853|Militares Retirados|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5665|Urbano|16
+92853|Cenecista C.N.C.|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5666|Urbano|16
+92854|Democrática|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1833|Urbano|16
+92854|Libertad|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1935|Urbano|16
+92854|Vista Hermosa|Conjunto habitacional|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||12|189|2129|Urbano|16
+92854|Manuel Ávila Camacho|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|7719|Urbano|16
+92854|Rodriguez Alcaine|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1966|Urbano|16
+92860|6 de Enero|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2096|Urbano|16
+92860|Rosa Maria|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1708|Urbano|16
+92860|Zapote Gordo|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1709|Urbano|16
+92860|Villamar|Congregación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||11|189|2127|Urbano|16
+92860|Villa Rosita II|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4338|Urbano|16
+92860|Villa Rosita|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2126|Urbano|16
+92860|Tenechaco INFONAVIT|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2104|Urbano|16
+92863|Villa Rosita I|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4339|Urbano|16
+92870|Burocrática|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1710|Urbano|16
+92870|INFONAVIT CANACO|Unidad habitacional|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||31|189|1711|Urbano|16
+92870|Tropicana|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5659|Urbano|16
+92870|La Rivera|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1712|Urbano|16
+92870|INFONAVIT CROC|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5657|Urbano|16
+92870|Electricistas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1865|Urbano|16
+92870|INFONAVIT CTM|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5658|Urbano|16
+92875|Del Valle|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1713|Urbano|16
+92876|FOVISSSTE|Unidad habitacional|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||31|189|1714|Urbano|16
+92880|Del Puerto|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1829|Urbano|16
+92880|Adolfo Ruiz Cortínez|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|2076|Urbano|16
+92880|17 de Octubre|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1837|Urbano|16
+92880|Adolfo Ruiz Cortines|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1715|Urbano|16
+92880|Enrique Rodríguez Cano|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1716|Urbano|16
+92883|Las Delicias|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1832|Urbano|16
+92883|Luis Donaldo Colosio|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|5661|Urbano|16
+92883|El Fortín|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5670|Urbano|16
+92883|FECAPOMEX|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1874|Urbano|16
+92883|Niños Héroes|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5669|Urbano|16
+92883|Salinas de Gortari|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2079|Urbano|16
+92883|Luís Donaldo Colosio|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5660|Urbano|16
+92883|Enrique Rodríguez Cano|Ampliación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||38|189|4342|Urbano|16
+92884|Cobos|Congregación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||11|189|7721|Urbano|16
+92888|Monte Grande|Congregación|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||11|189|2019|Urbano|16
+92888|La Calzada|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4343|Urbano|16
+92890|Jardines de Tuxpan|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1717|Urbano|16
+92890|Lomas de Tuxpan FOVISSSTE|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1979|Urbano|16
+92890|Valle Verde|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|7720|Urbano|16
+92893|Casa Bella|Fraccionamiento|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||21|189|1799|Urbano|16
+92893|El Romance|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1861|Urbano|16
+92893|Nueva Italia|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2032|Urbano|16
+92893|5 de Julio|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2064|Urbano|16
+92893|INFONAVIT Las Granjas de Alto Lucero|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1949|Urbano|16
+92893|Campestre Alborada|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4344|Urbano|16
+92894|Del Bosque|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4348|Urbano|16
+92894|Paola Samperio Benitez|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5668|Urbano|16
+92894|Revolución Mexicana|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2070|Urbano|16
+92894|El Retoño|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|5667|Urbano|16
+92894|Granjas de Alto Lucero|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1891|Urbano|16
+92894|INFONAVIT Las Granjas|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4346|Urbano|16
+92894|Los Pinos|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|4347|Urbano|16
+92894|Villa de Guadalupe|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2123|Urbano|16
+92895|Universitaria|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|2110|Urbano|16
+92895|CEAS|Colonia|Tuxpan|Veracruz de Ignacio de la Llave|Túxpam de Rodríguez Cano|92801|30|92801||09|189|1801|Urbano|16

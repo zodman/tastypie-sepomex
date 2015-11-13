@@ -1,0 +1,133 @@
+78940|Villa de Arista Centro|Colonia|Villa de Arista|San Luis Potosí||78431|24|78431||09|056|0813|Rural|
+78943|Benito Juárez|Colonia|Villa de Arista|San Luis Potosí||78431|24|78431||09|056|3754|Urbano|
+78943|Los Nogales|Colonia|Villa de Arista|San Luis Potosí||78431|24|78431||09|056|3757|Urbano|
+78944|Hipodromo|Fraccionamiento|Villa de Arista|San Luis Potosí||78431|24|78431||21|056|3756|Urbano|
+78945|Vialle de Arista|Barrio|Villa de Arista|San Luis Potosí||78431|24|78431||02|056|3759|Urbano|
+78947|Guadalupe|Fraccionamiento|Villa de Arista|San Luis Potosí||78431|24|78431||21|056|3755|Urbano|
+78947|Niños Héroes|Colonia|Villa de Arista|San Luis Potosí||78431|24|78431||09|056|3758|Urbano|
+78950|El Vergel|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3662|Rural|
+78950|Rafael García|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3702|Rural|
+78950|Rancho Grande|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3716|Rural|
+78950|Rancho Santa Rosa (La Luz)|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3725|Rural|
+78950|San Fernando|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3733|Rural|
+78950|El Corazón de Jesús|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|2426|Rural|
+78950|La Florida|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3678|Rural|
+78950|Ranchito San Isidro (Los Llanitos)|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3703|Rural|
+78950|Rancho el Huevo|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3709|Rural|
+78950|San Eduardo|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3731|Rural|
+78950|San Martín de Guadalupe|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3743|Rural|
+78950|Potrero el Maguey (Olga Lidia Monsiváis)|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3700|Rural|
+78950|Rancho la Magdalena|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3718|Rural|
+78950|Santa Carolina|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3747|Rural|
+78950|Charco Blanco|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3638|Rural|
+78950|Colonia Guadalupe|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3642|Rural|
+78950|El Trébol|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3661|Rural|
+78950|Fracción la Palma|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3666|Rural|
+78950|Granja el Saucito|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3668|Rural|
+78950|Rancho Campo el Gato|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3704|Rural|
+78950|San Elías|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3732|Rural|
+78950|San Fidel|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3734|Rural|
+78950|Santa Rosa|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3750|Rural|
+78950|El Mezquite|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|2425|Rural|
+78950|Santa Teresa|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|2795|Rural|
+78950|Felipe Miranda|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3665|Rural|
+78950|Capillas (La Capilla)|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3636|Rural|
+78950|El Maguey de Limones|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3653|Rural|
+78950|El Pozo|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3658|Rural|
+78950|Escamilla [Empacadora]|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3663|Rural|
+78950|Guardarraya|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3670|Rural|
+78950|La Víbora (Herminio Gámez)|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3685|Rural|
+78950|Los Cedros|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3687|Rural|
+78950|Los Pilares|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3690|Rural|
+78950|Rancho el Progreso|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3713|Rural|
+78950|Rancho San José de las Flores|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3721|Rural|
+78950|San Rafael|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3745|Rural|
+78950|Buenavista|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|2487|Rural|
+78950|Rancho Chelita|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3705|Rural|
+78950|San José de Buenavista|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3739|Rural|
+78950|El Diamante|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3650|Rural|
+78950|Granja de San Isidro|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3667|Rural|
+78950|José Luis|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3675|Rural|
+78950|La Granja|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3679|Rural|
+78950|Los Hermanos Neri|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3688|Rural|
+78950|Ninguno [Planta de Luz]|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3695|Rural|
+78950|Rancho de la Cruz|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3706|Rural|
+78950|Rancho San Rafael|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3722|Rural|
+78950|San Antonio|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3729|Rural|
+78950|San José|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3737|Rural|
+78950|El Dorado|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3651|Rural|
+78950|El Maguey de Ezqueda|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3652|Rural|
+78950|El Olivo|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3654|Rural|
+78950|Granja San José|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3669|Rural|
+78950|Jesús Gámez|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3673|Rural|
+78950|Rancho el Bajío|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3707|Rural|
+78950|Rancho el Mezquite|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3710|Rural|
+78950|Rancho el Rifle|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3714|Rural|
+78950|Rancho Santa Cecilia|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3724|Rural|
+78950|San Jorge|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3736|Rural|
+78953|La Cecilia|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3676|Rural|
+78953|El Cañón de las Auras|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3648|Rural|
+78953|San José de Buenavista (El Cochinito)|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3740|Rural|
+78953|La Escondida|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3677|Rural|
+78954|Salitrillos|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|0812|Rural|
+78954|El Charquito|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|0811|Rural|
+78954|Rancho el Gachupín|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3708|Rural|
+78955|Piedra Rodada (Antonio Martínez Leija)|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3699|Rural|
+78955|Rancho María del Pilar|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3719|Rural|
+78955|San Silverio|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3746|Rural|
+78955|La Tinaja|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3684|Rural|
+78955|Martín Gámez|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3692|Rural|
+78955|El Bajío|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3647|Rural|
+78955|Rancho el Pitayo|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3712|Rural|
+78955|San Pedro|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3744|Rural|
+78955|Cirilo Saldaña|Colonia|Villa de Arista|San Luis Potosí||78431|24|78431||09|056|3640|Rural|
+78955|El Tajo|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|2798|Rural|
+78955|La Lajita|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3681|Rural|
+78955|San José del Arbolito|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3741|Rural|
+78955|Ingeniero Palau (Rancho los Nogales)|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3672|Rural|
+78955|El Pedernal|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3657|Rural|
+78955|San José de Altamira|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3738|Rural|
+78955|Capillla de las Peñitas|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3637|Rural|
+78955|Cuatro Caminos|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3643|Rural|
+78956|Charco Valeria|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3639|Rural|
+78956|El Palmarito|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3655|Rural|
+78956|Ejido Villa de Arista (Amado Torres Tovar)|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3644|Rural|
+78956|José Leonor Sierra|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3674|Rural|
+78956|La Presa (Francisco Camacho Rivera)|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3683|Rural|
+78956|Las Paredes|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3686|Rural|
+78956|Quirino Castro|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3701|Rural|
+78956|Ejido Villa de Arista (Guadalupe González)|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3645|Rural|
+78956|El Azafrán|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3646|Rural|
+78956|El Charco los Ganaderos|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3649|Rural|
+78956|Federico Gámez|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3664|Rural|
+78956|Majada de Don Paz|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3691|Rural|
+78957|Los Parras|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3689|Rural|
+78957|Milpas|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3694|Rural|
+78957|Tanque el Árbol|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3752|Rural|
+78957|Palmas Anchas|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3696|Rural|
+78957|Rancho Santa Anita|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3723|Rural|
+78957|San Alejandro|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3728|Rural|
+78957|Santa Leticia|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3748|Rural|
+78957|Colonia Buenavista|Colonia|Villa de Arista|San Luis Potosí||78431|24|78431||09|056|3641|Rural|
+78957|Rancho San David|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3720|Rural|
+78957|San Dionisio|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3730|Rural|
+78957|San Leonel|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3742|Rural|
+78957|Derramaderos|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|0810|Rural|
+78957|Rancho el Palomo|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3711|Rural|
+78957|Raúl Costilla|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3726|Rural|
+78957|El Refugio|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3659|Rural|
+78957|La Pelotera (Venta del Carmen)|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3682|Rural|
+78957|Herminio Gámez|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3671|Rural|
+78957|Peñita de Guadalupe|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3698|Rural|
+78957|Rancho el Rosario|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3715|Rural|
+78957|Santo Tomás|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3751|Rural|
+78957|La Lagunita|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3680|Rural|
+78957|Pegolas|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3697|Rural|
+78957|San Isidro|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3735|Rural|
+78957|Santa Rosa|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3749|Rural|
+78957|Tanque el Novillero|Ejido|Villa de Arista|San Luis Potosí||78431|24|78431||15|056|3753|Rural|
+78957|Mesteñas|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3693|Rural|
+78957|Rancho la Aurora|Ranchería|Villa de Arista|San Luis Potosí||78431|24|78431||29|056|3717|Rural|
+78958|Rincón de Leijas|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3727|Rural|
+78958|El Palmito|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3656|Rural|
+78958|El Tanquecito|Poblado comunal|Villa de Arista|San Luis Potosí||78431|24|78431||27|056|3660|Rural|

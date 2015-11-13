@@ -1,0 +1,28 @@
+45950|Poncitlán Centro|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|1413|Semiurbano|19
+45954|Guadalupana|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3396|Semiurbano|19
+45954|Santa Maria|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3397|Semiurbano|19
+45954|Olímpica|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|4133|Semiurbano|19
+45955|Bellavista|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3394|Semiurbano|19
+45955|Loma Dorada|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3395|Semiurbano|19
+45956|El Torila|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3398|Semiurbano|19
+45957|El Santuario|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3399|Semiurbano|19
+45957|El Romereño (INFONAVIT)|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|4134|Semiurbano|19
+45957|Libertad|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3401|Semiurbano|19
+45958|Los Tepetates|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3400|Semiurbano|19
+45959|San Francisco|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3402|Semiurbano|19
+45959|Patria|Colonia|Poncitlán|Jalisco|Poncitlán|45951|14|45951||09|066|3403|Semiurbano|19
+45960|Santa Cruz El Grande|Pueblo|Poncitlán|Jalisco||45951|14|45951||28|066|1421|Rural|
+45961|Agua Caliente|Ranchería|Poncitlán|Jalisco||45951|14|45951||29|066|1415|Rural|
+45963|San Luis del Agua Caliente|Colonia|Poncitlán|Jalisco||47801|14|47801||09|066|1425|Rural|
+45964|El Zapote|Ranchería|Poncitlán|Jalisco||47801|14|47801||29|066|1422|Rural|
+45965|Estancia de Cuitzeo|Congregación|Poncitlán|Jalisco||47801|14|47801||11|066|1424|Rural|
+45965|Cuitzeo|Pueblo|Poncitlán|Jalisco||47801|14|47801||28|066|1423|Rural|
+45970|Mezcala|Pueblo|Poncitlán|Jalisco||47801|14|47801||28|066|1426|Rural|
+45975|Tlachichilco del Carmen|Ranchería|Poncitlán|Jalisco||47801|14|47801||29|066|5339|Rural|
+45975|San Juan Tecomatlán|Pueblo|Poncitlán|Jalisco||47801|14|47801||28|066|1427|Rural|
+45976|San Jacinto|Congregación|Poncitlán|Jalisco||45951|14|45951||11|066|1420|Rural|
+45976|Casa Blanca|Congregación|Poncitlán|Jalisco||45951|14|45951||11|066|1418|Rural|
+45977|San Miguel Zapotitlán|Pueblo|Poncitlán|Jalisco||45951|14|45951||28|066|1417|Rural|
+45977|San José de Ornelas|Colonia|Poncitlán|Jalisco||45951|14|45951||09|066|1416|Rural|
+45978|San Pedro Itzicán|Pueblo|Poncitlán|Jalisco||45951|14|45951||28|066|1419|Rural|
+45979|San Sebastián|Pueblo|Poncitlán|Jalisco||47801|14|47801||28|066|1428|Rural|

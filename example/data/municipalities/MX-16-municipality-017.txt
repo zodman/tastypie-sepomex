@@ -1,0 +1,76 @@
+61020|Contepec|Pueblo|Contepec|Michoacán de Ocampo||61251|16|61251||28|017|2082|Urbano|
+61020|Loma Colorada|Colonia|Contepec|Michoacán de Ocampo||61251|16|61251||09|017|6229|Urbano|
+61020|El Jagüey|Colonia|Contepec|Michoacán de Ocampo||61251|16|61251||09|017|6227|Urbano|
+61020|Cuarto|Colonia|Contepec|Michoacán de Ocampo||61251|16|61251||09|017|6226|Urbano|
+61020|Pueblo Nuevo|Colonia|Contepec|Michoacán de Ocampo||61251|16|61251||09|017|6230|Urbano|
+61020|El Pedregal (Cuartel Cuarto)|Colonia|Contepec|Michoacán de Ocampo||61251|16|61251||09|017|6228|Urbano|
+61023|Santa María de los Ángeles|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|5525|Rural|
+61023|Las Peritas|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6215|Rural|
+61023|El Zorrillo (El Cerro del Águila)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6205|Rural|
+61024|Ampliación Parque Industrial|Parque industrial|Contepec|Michoacán de Ocampo||61251|16|61251||26|017|6191|Rural|
+61024|El Crucero|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6201|Rural|
+61024|Cerro Agujerado (Cuartel Tercero)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6196|Rural|
+61024|Los Pirules|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6218|Rural|
+61025|Santa María la Ahogada|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2084|Rural|
+61025|El Nogal (Ampliación San Rafael)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|0001|Rural|
+61025|Cerro Colorado|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6197|Rural|
+61026|Puente Negro (San Rafael)|Rancho|Contepec|Michoacán de Ocampo||61251|16|61251||48|017|0004|Rural|
+61030|Cerro Prieto|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6198|Rural|
+61030|Salto de Tepuxtepec|Pueblo|Contepec|Michoacán de Ocampo||61251|16|61251||28|017|2086|Rural|
+61030|La Puerta (La Puerta de Tepuxtepec)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6213|Rural|
+61030|San Antonio|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6222|Rural|
+61034|La Placita|Poblado comunal|Contepec|Michoacán de Ocampo||61251|16|61251||27|017|5018|Rural|
+61034|La Soledad|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6214|Rural|
+61035|Yereje|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|2088|Rural|
+61035|Cerrito Uñatal|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6195|Rural|
+61035|Llano Largo (Santa Rosa de Lima)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6216|Rural|
+61036|Lázaro Cárdenas|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2090|Rural|
+61036|San Isidro (Ex-Hacienda de San Isidro)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6223|Rural|
+61036|San Jerónimo|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6224|Rural|
+61036|El Tecolote|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2089|Rural|
+61036|Mogotes|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2091|Rural|
+61036|La Ladera|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6211|Rural|
+61037|La Estanzuela (La Chiripa)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|2085|Rural|
+61037|Temascales (El Jacal)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|2092|Rural|
+61037|El Milagro|Pueblo|Contepec|Michoacán de Ocampo||61251|16|61251||28|017|4018|Rural|
+61037|Estanzuelita|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6207|Rural|
+61037|El Redondo|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6221|Rural|
+61037|La Alberca|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6208|Rural|
+61040|Santiago Loma Bonita|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6225|Rural|
+61040|La Higuerilla (Los Lirios)|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2093|Rural|
+61040|El Sauz (La Colonia del Sauz)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6202|Rural|
+61040|Melchor Ocampo (Pateo)|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2094|Rural|
+61041|Buenavista|Pueblo|Contepec|Michoacán de Ocampo||61251|16|61251||28|017|2095|Rural|
+61041|Colonia los Pirules|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6200|Rural|
+61042|San Pedro Tarímbaro|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2097|Rural|
+61042|Bravo|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2096|Rural|
+61042|Colonia la Paz (El Zapote)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6199|Rural|
+61043|El Terrero|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6204|Rural|
+61043|El Sombrerito (El Cerrito)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6203|Rural|
+61043|El Céreo|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2098|Rural|
+61043|La Haciendita (Bordo de la Cruz)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6210|Rural|
+61045|La Loma|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6212|Rural|
+61045|La Rueda|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2099|Rural|
+61046|Las Cuevas|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|2100|Rural|
+61046|Los Artones|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6217|Rural|
+61047|Atotonilco|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2101|Rural|
+61047|La Balastrera|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6209|Rural|
+61047|Nueva Colonia Ampliación de Atotonilco|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6219|Rural|
+61047|Balneario de Buenavista|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6193|Rural|
+61047|San Rafael|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2102|Rural|
+61047|Ampliación de Buenavista|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6190|Rural|
+61047|Rancho de los Bolaños|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6220|Rural|
+61048|Las Pilas|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2103|Rural|
+61050|Agua Caliente|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2104|Rural|
+61050|Venta de Bravo|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2105|Rural|
+61050|Arroyo del Muerto (Presa Santa Teresa)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6192|Rural|
+61051|Las Tenerías (Las Tenerías de Tepetongo)|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2108|Rural|
+61051|Zaragoza (Puerto de Medina)|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2107|Rural|
+61051|Tepetongo|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2106|Rural|
+61053|El Césped|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|2109|Rural|
+61054|Canoas (El Rosario)|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6194|Rural|
+61054|Colorado|Rancho|Contepec|Michoacán de Ocampo||61251|16|61251||48|017|0003|Rural|
+61054|Los Fresnos|Rancho|Contepec|Michoacán de Ocampo||61251|16|61251||48|017|0002|Rural|
+61054|El Capulín|Ejido|Contepec|Michoacán de Ocampo||61251|16|61251||15|017|2110|Rural|
+61055|El Encino|Poblado comunal|Contepec|Michoacán de Ocampo||61251|16|61251||27|017|5717|Rural|
+61055|Estación Contepec|Ranchería|Contepec|Michoacán de Ocampo||61251|16|61251||29|017|6206|Rural|

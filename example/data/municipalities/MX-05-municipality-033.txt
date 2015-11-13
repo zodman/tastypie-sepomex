@@ -1,0 +1,280 @@
+27800|San Pedro de las Colonias Centro|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1442|Semiurbano|10
+27804|Barrio San Luis|Barrio|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||02|033|1444|Semiurbano|10
+27804|Viviendas Populares|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2999|Urbano|10
+27805|Barrio Nuevo|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1445|Semiurbano|10
+27810|Las Palmas|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2326|Semiurbano|10
+27810|Popular el Fénix|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2241|Semiurbano|10
+27810|FOVISSSTE|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2325|Semiurbano|10
+27810|Raúl Gómez Espinoza|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2254|Semiurbano|10
+27810|Fonhapo|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2321|Semiurbano|10
+27810|Burócratas Municipales|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2243|Semiurbano|10
+27810|El Ancora|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1446|Semiurbano|10
+27810|El Ancora|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|2252|Semiurbano|10
+27810|El Fénix|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|2242|Semiurbano|10
+27811|INFONAVIT|Unidad habitacional|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||31|033|1447|Semiurbano|10
+27811|Eliseo Mendoza Berrueto|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2236|Semiurbano|10
+27811|Los Nogales|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2237|Semiurbano|10
+27812|Altamira|Ejido|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||15|033|2234|Semiurbano|10
+27812|Altamira|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2249|Semiurbano|10
+27813|Villas de La América|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2993|Urbano|10
+27813|Maura Gómez|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2994|Urbano|10
+27813|La América|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2998|Urbano|10
+27820|La Trinidad|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|1449|Semiurbano|10
+27820|La Trinidad|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1448|Semiurbano|10
+27822|Popular San Isidro|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1450|Semiurbano|10
+27823|Junta Civica Francisco I. Madero|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|3001|Urbano|10
+27830|Lázaro Cárdenas|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1451|Semiurbano|10
+27830|Monterrey|Barrio|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||02|033|1452|Semiurbano|10
+27838|Luis Donaldo Colosio|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2248|Semiurbano|10
+27838|Ramos Arizpe|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1453|Semiurbano|10
+27839|Lázaro Cárdenas|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|1454|Semiurbano|10
+27840|Proletaria Benito Juárez|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1455|Semiurbano|10
+27840|El Ancora|Ejido|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||15|033|2240|Semiurbano|10
+27845|Agua Nueva|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2251|Semiurbano|10
+27845|Agua Nueva|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|2303|Semiurbano|10
+27845|El Chamizal|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1456|Semiurbano|10
+27845|Diana Laura Rioja de Colosio|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2253|Semiurbano|10
+27845|Parque Industrial San Pedro|Parque industrial|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||26|033|3002|Urbano|10
+27845|El Mirador|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2247|Semiurbano|10
+27846|Aníbal Flores Neira|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1457|Semiurbano|10
+27847|La Quinta|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|1458|Semiurbano|10
+27847|La Quinta|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|1459|Semiurbano|10
+27848|Del Valle|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2246|Semiurbano|10
+27848|Villa Magisterial los Tulipanes|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1460|Semiurbano|10
+27850|Barrio Saltillo|Barrio|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||02|033|1464|Semiurbano|10
+27850|Las Habas|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2322|Semiurbano|10
+27850|Las Margaritas|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2323|Semiurbano|10
+27850|El Triángulo|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2997|Urbano|10
+27850|Las Rosas|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1462|Semiurbano|10
+27850|El Fénix|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2245|Semiurbano|10
+27850|Las Rosas Popular|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2996|Urbano|10
+27859|Las Rosas|Ampliación|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||38|033|1465|Semiurbano|10
+27860|Obrera Benito Juárez|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1467|Semiurbano|10
+27860|Miguel Hidalgo|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1466|Semiurbano|10
+27863|Las Misiones|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|3003|Urbano|10
+27870|Los Sauces|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2244|Semiurbano|10
+27870|Francisco I Madero|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|2327|Semiurbano|10
+27870|Las Catarinas|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|3000|Urbano|10
+27880|Emiliano Zapata|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1469|Semiurbano|10
+27880|Valparaíso|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2239|Semiurbano|10
+27880|Barrio de Guadalupe|Barrio|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||02|033|1470|Semiurbano|10
+27890|Las Américas|Fraccionamiento|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||21|033|2250|Semiurbano|10
+27890|Francisco Villa|Colonia|San Pedro|Coahuila de Zaragoza|San Pedro|27801|05|27801||09|033|1471|Semiurbano|10
+27940|Luchana|Pueblo|San Pedro|Coahuila de Zaragoza||27901|05|27901||28|033|1518|Rural|
+27943|El Estribo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1551|Rural|
+27943|La Palma|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3842|Rural|
+27943|Marte|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3858|Rural|
+27943|El Ranchito|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3810|Rural|
+27943|Maravillas|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3856|Rural|
+27943|Seis de Octubre|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3918|Rural|
+27943|El Retiro|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1532|Rural|
+27943|Ricardo Flores Magón|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1554|Rural|
+27943|Mitla|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3860|Rural|
+27943|Aquiles Serdán|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1534|Rural|
+27943|El Cosaco|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3804|Rural|
+27943|Pequeña Lote Cuatro Concordia|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3875|Rural|
+27944|Primero de Mayo (Algorta)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1536|Rural|
+27944|Guadalupe Almaraz|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3823|Rural|
+27944|Siquío Quiroz (Colonia Agrícola la Fe)|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3919|Rural|
+27944|Las Carretas|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3848|Rural|
+27944|Vicente Guerrero|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3927|Rural|
+27944|La Fe|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1523|Rural|
+27944|Diez de Mayo (Las Casitas)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1535|Rural|
+27944|Emiliano Zapata (Albia)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1539|Rural|
+27944|Fraba [Lácteos]|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3819|Rural|
+27944|Veinte de Noviembre (Santa Lucía)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1531|Rural|
+27944|Algorta|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3790|Rural|
+27944|Diez de Mayo (El Grupo)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3801|Rural|
+27944|Diez de Mayo (Los Ramírez)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3802|Rural|
+27944|Grupo Número Tres (Ejido Alejo González)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3822|Rural|
+27944|San Francisco de la Fe|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3890|Rural|
+27944|Diez de Mayo (El Chorizo)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1550|Rural|
+27944|Beta Santa Mónica|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3792|Rural|
+27944|Noria Algorta Número 3|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3863|Rural|
+27944|San Rafael de Arriba|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1538|Rural|
+27944|Alejo González (Bilbao)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1515|Rural|
+27944|Noria Algorta Número 2|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3862|Rural|
+27944|Noria Grupo Dos (Ejido Veinte de Noviembre)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3865|Rural|
+27945|Santa Ana|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3905|Rural|
+27945|Cuauhtémoc Cárdenas (Medio Pulmón)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3800|Rural|
+27945|Tres Estrellas|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3926|Rural|
+27945|Oscar Talavera (La Palma)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3872|Rural|
+27945|San Carlos de la Fe|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3889|Rural|
+27945|Santa Ana (Santa Ana de Arriba)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3906|Rural|
+27945|La Victoria|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1517|Rural|
+27945|Sofía de Arriba|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1530|Rural|
+27945|Santa Ana|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1543|Rural|
+27945|La Fe|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3834|Rural|
+27945|Nuevo Mundo|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1537|Rural|
+27945|Vega Larga|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1544|Rural|
+27946|Santa Elena (El Güero)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3910|Rural|
+27946|San Ignacio|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3892|Rural|
+27946|Lagos de Moreno (Ampueros)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|1545|Rural|
+27946|San José (El Recuerdo)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3897|Rural|
+27946|Bella Vista|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|1540|Rural|
+27946|San Alberto (Archandas)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3886|Rural|
+27946|Gabino Vázquez (Begoña)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1541|Rural|
+27946|Félix Ramírez (Gavilanes)|Colonia|San Pedro|Coahuila de Zaragoza||27801|05|27801||09|033|1546|Rural|
+27946|San Alberto|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3885|Rural|
+27946|Purísima de Rubio|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3880|Rural|
+27946|Vigo (El Oasis) [Establo]|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3930|Rural|
+27946|La Asunción (La Chona)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3827|Rural|
+27947|Purísima de Rubio|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3881|Rural|
+27948|Sociedad Bellavista (Ejido Luchana)|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3920|Rural|
+27948|Vida Nueva Uno|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3929|Rural|
+27948|Lázaro Cárdenas (Dolores)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1516|Rural|
+27948|Beta Santa Mónica [Sociedad de Producción Rural]|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3793|Rural|
+27948|Vida Nueva|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3928|Rural|
+27948|Santa Teresa|Estación|San Pedro|Coahuila de Zaragoza||27901|05|27901||16|033|1528|Rural|
+27948|Agrícola Aquiles Serdán Número Dos|Colonia|San Pedro|Coahuila de Zaragoza||27901|05|27901||09|033|3799|Rural|
+27948|El Gatuño|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3807|Rural|
+27948|Emiliano Zapata (Las Jaulas)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3814|Rural|
+27948|Las Palmas|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3852|Rural|
+27948|Presa de Guadalupe (Vida Nueva)|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3879|Rural|
+27948|Santa Mónica|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|1527|Rural|
+27948|Beta Santa Mónica|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3791|Rural|
+27948|La Noria Número Uno (Lázaro Cárdenas)|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3841|Rural|
+27948|Noria Sector Tres A (Ejido Luchana)|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3867|Rural|
+27948|Parcela Uno de Aquiles Serdán|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3874|Rural|
+27948|Pequeña Santa Mónica|Ejido|San Pedro|Coahuila de Zaragoza||27901|05|27901||15|033|3878|Rural|
+27948|Tres Estrellas|Ranchería|San Pedro|Coahuila de Zaragoza||27901|05|27901||29|033|3925|Rural|
+27950|San Luis de Gurza|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3209|Rural|
+27950|Concordia|Estación|San Pedro|Coahuila de Zaragoza||27801|05|27801||16|033|1549|Rural|
+27950|Doroteo Arango|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3931|Urbano|
+27950|Urquizo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1521|Rural|
+27950|La Rosita|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1555|Rural|
+27953|José Díaz Rodríguez (Ejido Doroteo Arango)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3824|Rural|
+27953|Noria Doroteo Arango|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3864|Rural|
+27953|Santa Teresita de Jesús|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3914|Rural|
+27953|San Isidro|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1533|Rural|
+27953|San Antonio de Gurza|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1557|Rural|
+27953|Charco Verde|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3798|Rural|
+27953|Gregorio Mancillas Hernández (La Manga)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3821|Rural|
+27953|La Estrella y la Barca|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3832|Rural|
+27953|Santa Rita|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3913|Rural|
+27953|El Destino de Abajo de San Isidro|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3805|Rural|
+27953|San Carlos (Las Margaritas)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3888|Rural|
+27953|Flores Magón|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3818|Rural|
+27953|Rafael Padilla Medina (El Olmo)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3882|Rural|
+27953|La Carolina (La Nueva Carolina)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1552|Rural|
+27953|Noria Sector Dos B Concordia|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3866|Rural|
+27953|San Francisco de Gurza (Santa Rosa)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1560|Rural|
+27953|Santa Lucia|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1568|Rural|
+27953|Carolinas|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3797|Rural|
+27953|Gonzalo Ferniza Moreno|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3820|Rural|
+27953|Los Compadres|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3855|Rural|
+27953|Bolívar|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1548|Rural|
+27953|El Triángulo (Vicente Vázquez Ontiveros)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3812|Rural|
+27953|San Antonio de Gurza|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3887|Rural|
+27953|Carolina del Norte|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3796|Rural|
+27953|San Isidro (El Jacalón)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3896|Rural|
+27954|Tacuba|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1593|Rural|
+27954|La Vega de los Chivos (José Refugio Díaz Cuéllar)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3825|Rural|
+27954|La Escondida [Granja]|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3831|Rural|
+27954|La Fe|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3833|Rural|
+27954|Santa Alicia [Establo]|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3904|Rural|
+27954|Buenavista|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|1571|Rural|
+27954|Panamá|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3873|Rural|
+27954|San Agustín|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3884|Rural|
+27954|Candelaria|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1575|Rural|
+27954|San Esteban de Abajo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1582|Rural|
+27954|La Pentalfa|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3844|Rural|
+27954|El Triángulo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1588|Rural|
+27954|Tacubaya|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1558|Rural|
+27954|San Francisco|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1574|Rural|
+27954|San Pedro (José Ruiz Velázquez)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3826|Rural|
+27954|La Palmita (Ignacio Hernández Leza)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3843|Rural|
+27954|La Viña (La Vega de los Chivos)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3847|Rural|
+27954|Santa Elena|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1587|Rural|
+27954|Nueva Candelaria|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3868|Rural|
+27954|Tacuba|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3921|Rural|
+27955|San Felipe (San Felipe de Purcell)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1583|Rural|
+27955|San Salvador (El Despepite)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3903|Rural|
+27955|San Rafael de Abajo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1586|Rural|
+27955|San Marcos|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1584|Rural|
+27955|Santa Sofía (Sofía de Abajo)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1529|Rural|
+27955|Ignacio Zaragoza|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1589|Rural|
+27955|La Vega|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3846|Rural|
+27955|Las Mercedes [Agrícola]|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3851|Rural|
+27955|San Patricio|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3900|Rural|
+27955|Nuevo San Juan Bautista|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3870|Rural|
+27956|Tacubaya Uno (San José de los Álamos)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3922|Rural|
+27956|Alejandría|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1522|Rural|
+27956|Santiago|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1570|Rural|
+27956|La Noria de Alejandría|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3839|Rural|
+27957|Progreso|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1562|Rural|
+27957|Los Arenales (Félix Fernández)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3854|Rural|
+27957|Los Rebeldes|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3894|Rural|
+27957|San Lorenzo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1524|Rural|
+27957|Pequeña Propiedad Urquizo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3877|Rural|
+27957|San Ignacio [Establo]|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3893|Rural|
+27957|Santa Eulalia|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1526|Rural|
+27957|La Noria de Progreso|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3840|Rural|
+27957|San Francisco de Arriba|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1520|Rural|
+27957|El Retiro Viejo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3811|Rural|
+27957|San Ignacio Dos|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3895|Rural|
+27958|Gatas Mochas|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1567|Rural|
+27958|Carlos Salinas de Gortari (San Salvador)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3794|Rural|
+27958|Estrellita del Norte (Santa María)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3817|Rural|
+27958|San Pablo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1561|Rural|
+27958|La Ciudadela (El Eucalipto)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3806|Rural|
+27958|La Casa de la Noria|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3830|Rural|
+27958|Reynosa|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1559|Rural|
+27958|San Ignacio|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1566|Rural|
+27958|El Porvenir (El Siete)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3809|Rural|
+27958|Estrellita del Norte (Santa María)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3816|Rural|
+27958|Santa Brígida|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1525|Rural|
+27958|Estrellita del Norte|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3815|Rural|
+27958|Morelos y Pavón|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3861|Rural|
+27958|Pequeña Propiedad Santo Tomás (La Purcell)|Rancho|San Pedro|Coahuila de Zaragoza||27801|05|27801||48|033|3876|Rural|
+27958|Santo Tomás (Ernesto Meléndez)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3917|Rural|
+27958|El Venado|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3813|Rural|
+27958|Santo Tomás|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3838|Rural|
+27958|La Reforma (Los Pinabetes)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3845|Rural|
+27958|San Pablo|Rancho|San Pedro|Coahuila de Zaragoza||27801|05|27801||48|033|3899|Rural|
+27958|Santo Tomás|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3916|Rural|
+27960|Santa Anita Dos (El Jacalón)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3908|Rural|
+27960|Las Pistolas|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3853|Rural|
+27960|Santa Anita Medio Lote (Mauro Díaz Ramos)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3909|Rural|
+27960|El Porvenir de Abajo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1553|Rural|
+27960|Patrocinio|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1565|Rural|
+27960|Santa María|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3911|Rural|
+27960|Las Margaritas|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3849|Rural|
+27960|Santa Anita|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3907|Rural|
+27960|El Áncora (La Independencia)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1563|Rural|
+27960|Santa María|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1569|Rural|
+27960|El Cairo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3803|Rural|
+27960|San Roque 2|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3902|Rural|
+27960|San Roque|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3901|Rural|
+27960|Las Margaritas|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3850|Rural|
+27965|Nuevo Delicias|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1573|Rural|
+27965|El Rayo|Parque industrial|San Pedro|Coahuila de Zaragoza||27801|05|27801||26|033|1576|Rural|
+27965|El Pinto|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1577|Rural|
+27966|San Francisco del Valle|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3891|Rural|
+27966|Margarita del Norte|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3857|Rural|
+27967|Nueva Victoria|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1572|Rural|
+27970|Frontera|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1580|Rural|
+27970|La Luz|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3836|Rural|
+27970|Tebas|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3923|Rural|
+27970|Tebas y Palmira|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1594|Rural|
+27970|Santo Niño|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3915|Rural|
+27970|Presa de Cleto|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1591|Rural|
+27970|Cleto|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1590|Rural|
+27970|Carlos Sifuentes Ugalde (La Encantada)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3795|Rural|
+27970|La Luz (La Luz Vieja)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3837|Rural|
+27970|Tebas y Palmira|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3924|Rural|
+27970|El Nilo|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1579|Rural|
+27970|Mayrán|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1581|Rural|
+27970|San Miguel|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1585|Rural|
+27970|La Lucecita (La Luz Nueva)|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3835|Rural|
+27970|Menfis|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3859|Rural|
+27970|San Nicolás|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3898|Rural|
+27970|Santa Rita|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3912|Rural|
+27973|Benavides|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|1592|Rural|
+27974|La Candelaria|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3828|Rural|
+27974|La Candelaria|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3829|Rural|
+27975|El Mezquite|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3808|Rural|
+27975|Nueva Candelaria|Ejido|San Pedro|Coahuila de Zaragoza||27801|05|27801||15|033|3869|Rural|
+27975|Nuevo San Pedro (La Puerta)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3871|Rural|
+27976|Mala Noche y Arracadas|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|1595|Rural|
+27977|Rincón de García (Rincón de García Chacón)|Ranchería|San Pedro|Coahuila de Zaragoza||27801|05|27801||29|033|3883|Rural|

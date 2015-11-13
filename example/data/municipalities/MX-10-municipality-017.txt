@@ -1,0 +1,33 @@
+35350|Villa Ocampo Centro|Colonia|Ocampo|Durango||35691|10|35691||09|017|1448|Urbano|
+35353|Los Lares|Barrio|Ocampo|Durango||35691|10|35691||02|017|2209|Urbano|
+35353|Arroyo del Barro|Barrio|Ocampo|Durango||35691|10|35691||02|017|2212|Urbano|
+35353|Del Conejo|Barrio|Ocampo|Durango||35691|10|35691||02|017|2208|Urbano|
+35354|13|Barrio|Ocampo|Durango||35691|10|35691||02|017|2210|Urbano|
+35354|SAHOP|Barrio|Ocampo|Durango||35691|10|35691||02|017|2211|Urbano|
+35355|Las Palapas|Colonia|Ocampo|Durango||35691|10|35691||09|017|2205|Urbano|
+35356|Alameda|Colonia|Ocampo|Durango||35691|10|35691||09|017|2207|Urbano|
+35356|Los Félix|Barrio|Ocampo|Durango||35691|10|35691||02|017|2206|Urbano|
+35357|San Gabriel|Congregación|Ocampo|Durango||35691|10|35691||11|017|1450|Rural|
+35360|México y los Lirios|Villa|Ocampo|Durango||35691|10|35691||32|017|1451|Rural|
+35363|San José de La Montaña|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1452|Rural|
+35364|La Providencia|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1454|Rural|
+35366|Santa Ana|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1455|Rural|
+35367|Las Huertas|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1457|Rural|
+35367|La Estancia|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1456|Rural|
+35368|Saltillo|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1458|Rural|
+35370|Villa Orestes Pereyra (Rosario)|Ejido|Ocampo|Durango||35691|10|35691||15|017|1459|Rural|
+35371|La Navecilla|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1460|Rural|
+35373|El Vergel|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1462|Rural|
+35373|La Flor|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1463|Rural|
+35374|Nuevo José Guadalupe de La Rueda (la Rueda)|Ejido|Ocampo|Durango||35691|10|35691||15|017|1464|Rural|
+35375|Graciano Sánchez (Tanque Grande)|Ejido|Ocampo|Durango||35691|10|35691||15|017|1465|Rural|
+35375|Presidio|Ejido|Ocampo|Durango||35691|10|35691||15|017|1466|Rural|
+35380|Torreón de Cañas|Ejido|Ocampo|Durango||35691|10|35691||15|017|1467|Rural|
+35381|Las Nieves|Pueblo|Ocampo|Durango||35691|10|35691||28|017|1468|Rural|
+35383|Canutillo|Ejido|Ocampo|Durango||35691|10|35691||15|017|1469|Rural|
+35383|El Llorón|Ejido|Ocampo|Durango||35691|10|35691||15|017|1470|Rural|
+35383|El Molino|Rancho|Ocampo|Durango||35691|10|35691||48|017|0001|Rural|
+35385|La Haciendita del Espíritu Santo|Congregación|Ocampo|Durango||35691|10|35691||11|017|1471|Rural|
+35390|El Encino de La Paz|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1473|Rural|
+35393|Sauces de Canutillo|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1474|Rural|
+35395|La Parrita (la Parrita de los Indios)|Ranchería|Ocampo|Durango||35691|10|35691||29|017|1475|Rural|

@@ -1,0 +1,901 @@
+30400|Cintalapa de Figueroa Centro|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|1322|Urbano|18
+30400|San Marcos|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2207|Semiurbano|18
+30400|Santa Cruz|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2211|Semiurbano|18
+30400|El Mirador|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2214|Urbano|18
+30400|Lirios del Valle|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|5685|Urbano|18
+30400|Nuevo Sinaí|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5688|Urbano|18
+30400|Lindavista|Ranchería|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||29|017|5956|Rural|18
+30400|La Esmeralda|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5682|Urbano|18
+30400|Portales de Cintalapa|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|5689|Urbano|18
+30400|Los Laureles|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2200|Semiurbano|18
+30400|San Francisco|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2203|Semiurbano|18
+30400|Lomas del Oriente|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2218|Urbano|18
+30400|Albores Guillén|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|5515|Urbano|18
+30400|La Candelaria|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|5681|Urbano|18
+30400|Los Pinos|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|5686|Urbano|18
+30400|Linda Vista|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2208|Urbano|18
+30400|Linda Vista|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|5683|Urbano|18
+30400|San José del Bado|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5690|Urbano|18
+30400|Unión Ejidal|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5692|Urbano|18
+30400|Solo un Camino|Ranchería|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||29|017|5984|Rural|18
+30400|Tepeyac|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2201|Semiurbano|18
+30400|El Huapinol|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|2863|Rural|18
+30400|4 de Octubre|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5677|Urbano|18
+30400|Miguel Ángel Luna|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5687|Urbano|18
+30400|Urbana|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2195|Urbano|18
+30400|Juan Sabines|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2198|Semiurbano|18
+30400|Paraíso|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|2205|Urbano|18
+30400|Jardín Magisterial|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|2206|Urbano|18
+30400|San Martín|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2212|Semiurbano|18
+30400|Las Garzas|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|3608|Semiurbano|18
+30400|14 de Febrero|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|5676|Urbano|18
+30400|Linda Vista|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|5684|Urbano|18
+30400|Insurgentes|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2197|Semiurbano|18
+30400|Guadalupe|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2204|Semiurbano|18
+30400|Salomón González Blanco|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2215|Semiurbano|18
+30400|Buenos Aires|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|5679|Urbano|18
+30400|Magisterial|Fraccionamiento|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||21|017|5680|Urbano|18
+30400|Santa Cecilia|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2202|Semiurbano|18
+30400|Seguro Social|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2209|Semiurbano|18
+30400|Obrera Campesina|Colonia|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||09|017|2213|Semiurbano|18
+30400|Santo Domingo|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|2217|Semiurbano|18
+30400|Brasilito|Barrio|Cintalapa|Chiapas|Cintalapa de Figueroa|30401|07|30401||02|017|5678|Urbano|18
+30406|Palmira|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5901|Rural|
+30406|Sagrado Corazón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5905|Rural|
+30406|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5906|Rural|
+30406|San Ramón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5912|Rural|
+30406|La Molienda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5889|Rural|
+30406|Los Tulipanes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5899|Rural|
+30406|San Jorge|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5908|Rural|
+30406|La Trinidad|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5893|Rural|
+30406|Rancho Verde|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5903|Rural|
+30406|8 de Enero|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|2216|Rural|
+30406|Los Joaquines|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5896|Rural|
+30406|Los Mangos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5897|Rural|
+30406|San Luis|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5910|Rural|
+30406|La Guirnalda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5888|Rural|
+30406|San Pedro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5911|Rural|
+30406|Santa Rosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5913|Rural|
+30406|Chamiapa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5882|Rural|
+30406|Diez de Abril|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5883|Rural|
+30406|El Nanche|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5886|Rural|
+30406|Gracias a Dios|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5887|Rural|
+30406|Las Palmas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5894|Rural|
+30406|Los Quebrachos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5898|Rural|
+30406|El Mirador|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5885|Rural|
+30406|La Palapa del Negro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5890|Rural|
+30406|La Primavera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5891|Rural|
+30406|Rancho Verde|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5904|Rural|
+30406|San Francisco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5907|Rural|
+30406|Tuxtitla|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5691|Rural|
+30406|El Framboyán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5884|Rural|
+30406|La Purcianita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5892|Rural|
+30406|Los Cocos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5895|Rural|
+30406|Miramar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5900|Rural|
+30406|Rancho Bonito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5902|Rural|
+30406|San José|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5909|Rural|
+30407|Cuba|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5920|Rural|
+30407|El Muray|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5931|Rural|
+30407|La Enramada|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5942|Rural|
+30407|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5947|Rural|
+30407|Las Maravillas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5953|Rural|
+30407|Leopoldo Meza P.|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5955|Rural|
+30407|Rancho Escondido|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5968|Rural|
+30407|El Chino|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5923|Rural|
+30407|El Paso (Casa Hogar)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5932|Rural|
+30407|Guillermo Ramos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5937|Rural|
+30407|La Esperanza Fracción Dos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5944|Rural|
+30407|Las Minas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5954|Rural|
+30407|Los Mangos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5959|Rural|
+30407|Santa Clara|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5977|Rural|
+30407|Santa Rita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5981|Rural|
+30407|3 Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5914|Rural|
+30407|Aníbal Moguel Farrera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5916|Rural|
+30407|Centro Demostrativo|Finca|Cintalapa|Chiapas||30401|07|30401||20|017|5918|Rural|
+30407|La Esmeralda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5943|Rural|
+30407|La Granada|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5948|Rural|
+30407|La Piedad|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5951|Rural|
+30407|Monte Cristo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5961|Rural|
+30407|Piedra Roja|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5965|Rural|
+30407|Quinta Casa Blanca|Finca|Cintalapa|Chiapas||30401|07|30401||20|017|5967|Rural|
+30407|El Amate|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5921|Rural|
+30407|El Laurel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5928|Rural|
+30407|El Saltillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5935|Rural|
+30407|Nueva Esperanza|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5962|Rural|
+30407|Peña Flor|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5964|Rural|
+30407|Rancho Francisca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5969|Rural|
+30407|Rancho Quemado|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5970|Rural|
+30407|San Juan del Río|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5974|Rural|
+30407|Todos Santos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5985|Rural|
+30407|El Duraznillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5926|Rural|
+30407|Jorge Burguete|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5938|Rural|
+30407|La Candelaria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5939|Rural|
+30407|La Claudia (Los Cocodrilos)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5941|Rural|
+30407|Los Ángeles|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5957|Rural|
+30407|Purísima Concepción (Loma Colorada)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5966|Rural|
+30407|Santa Patricia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5980|Rural|
+30407|Valle Dorado|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5987|Rural|
+30407|Veracruz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5988|Rural|
+30407|Vista Hermosa|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5989|Rural|
+30407|Altamira|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5915|Rural|
+30407|Cielo Azul|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5919|Rural|
+30407|El Caoba|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5922|Rural|
+30407|El Dorado|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5925|Rural|
+30407|El Higuito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5927|Rural|
+30407|El Quijote|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5933|Rural|
+30407|El Sabino|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5934|Rural|
+30407|El Triunfo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5936|Rural|
+30407|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5946|Rural|
+30407|Los Laureles|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5958|Rural|
+30407|Rancho Verde|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5971|Rural|
+30407|Santa Isabel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5978|Rural|
+30407|Santa Martha|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5979|Rural|
+30407|El Ciprés|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5924|Rural|
+30407|El Manantial|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5929|Rural|
+30407|La Ciénega|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5940|Rural|
+30407|La Habana|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5949|Rural|
+30407|La Muralla|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5950|Rural|
+30407|Bellamira|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5917|Rural|
+30407|El Mirador|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5930|Rural|
+30407|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5945|Rural|
+30407|Los Toritos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5960|Rural|
+30407|Ocotlán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5963|Rural|
+30407|San Francisco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5973|Rural|
+30407|Santa Rita Laguna Seca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5982|Rural|
+30407|Las Delicias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5952|Rural|
+30407|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5972|Rural|
+30407|San Juditas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5975|Rural|
+30407|San Raúl|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5976|Rural|
+30407|Santa Rita Uno|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5983|Rural|
+30407|Tres Piedras|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5986|Rural|
+30408|Benito Juárez 1|Ejido|Cintalapa|Chiapas||30401|07|30401||15|017|1330|Rural|
+30409|El Potrillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5999|Rural|
+30409|Las Piñuelas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6008|Rural|
+30409|El Tomatal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6000|Rural|
+30409|Los Abelinos (Los Chantiris)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6009|Rural|
+30409|Los Limones|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6011|Rural|
+30409|Romi|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6015|Rural|
+30409|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6016|Rural|
+30409|Alimentos Ejidal [Procesadora]|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5991|Rural|
+30409|Casa Blanca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5992|Rural|
+30409|El Hojamán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5997|Rural|
+30409|Jardines del Bosque|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6003|Rural|
+30409|Los Mangos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6012|Rural|
+30409|Los Pocitos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6013|Rural|
+30409|Santa Rosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6018|Rural|
+30409|Tacuazín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6021|Rural|
+30409|Émili|Equipamiento|Cintalapa|Chiapas||30401|07|30401||17|017|5990|Rural|
+30409|Durango|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5995|Rural|
+30409|Las Piñuelas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6007|Rural|
+30409|Los Limones|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6010|Rural|
+30409|San Isidro las Piñuelas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6017|Rural|
+30409|Casa de Cristal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5993|Rural|
+30409|La Lomita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6005|Rural|
+30409|Las Felícidas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6006|Rural|
+30409|El Desengaño|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5996|Rural|
+30409|El Hojamán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5998|Rural|
+30409|Hermanos Cervantes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6002|Rural|
+30409|Monte Claro Santa Cruz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6014|Rural|
+30409|Sin Pensar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6020|Rural|
+30409|Dos Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|5994|Rural|
+30409|El Tronconal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6001|Rural|
+30409|La Escondida|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6004|Rural|
+30409|Santa Teresita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6019|Rural|
+30410|Peña de Horeb|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6043|Rural|
+30410|Villa de los Álamos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6052|Rural|
+30410|Villahermosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6053|Rural|
+30410|Cinco Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6023|Rural|
+30410|Dos Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6024|Rural|
+30410|La Escondida|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6030|Rural|
+30410|Los Tamarindos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6039|Rural|
+30410|Mesitalia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6040|Rural|
+30410|Santa Martha|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6050|Rural|
+30410|Cereso (El Amate No. 14)|Equipamiento|Cintalapa|Chiapas||30401|07|30401||17|017|6022|Rural|
+30410|El Novillero|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6029|Rural|
+30410|San Juan de Dios|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6047|Rural|
+30410|Señor Rufino|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6051|Rural|
+30410|Las Pitayas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6036|Rural|
+30410|El Buen Pastor|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6027|Rural|
+30410|La Sidra|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6035|Rural|
+30410|Rusbel Cruz P.|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6044|Rural|
+30410|La Mochita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6033|Rural|
+30410|La Odisea|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6034|Rural|
+30410|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6045|Rural|
+30410|San Ricardo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6049|Rural|
+30410|San José|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6046|Rural|
+30410|Lázaro Cárdenas|Pueblo|Cintalapa|Chiapas||30401|07|30401||28|017|1334|Rural|
+30410|El Milagro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6028|Rural|
+30410|Los Álamos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6037|Rural|
+30412|El Brasil|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6026|Rural|
+30412|Morelia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6041|Rural|
+30412|La Gavia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6031|Rural|
+30412|Los Limones|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6038|Rural|
+30412|Xochimilco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6054|Rural|
+30412|El Balsamar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6025|Rural|
+30412|San Ricardo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6048|Rural|
+30412|Zapote Negro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6055|Rural|
+30412|La Isleta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6032|Rural|
+30412|Ojo de Agua|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6042|Rural|
+30413|El Porvenir|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6064|Rural|
+30413|El Recuerdo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6065|Rural|
+30413|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6075|Rural|
+30413|Rancho Escondido|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6086|Rural|
+30413|San Ignacio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6088|Rural|
+30413|San Rafael|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6095|Rural|
+30413|Tierra Bendita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6102|Rural|
+30413|El Lienzo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6062|Rural|
+30413|La Valdiviana|Finca|Cintalapa|Chiapas||30401|07|30401||20|017|6078|Rural|
+30413|San Diego|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6087|Rural|
+30413|San José|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6089|Rural|
+30413|Santa Martha|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6099|Rural|
+30413|Brasilia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6057|Rural|
+30413|Ocotlán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6083|Rural|
+30413|San Miguel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6094|Rural|
+30413|Mérida|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1335|Rural|
+30413|5 de mayo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6059|Rural|
+30413|El Manguito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6063|Rural|
+30413|El Trece|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6067|Rural|
+30413|La Argentina|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6073|Rural|
+30413|La Asunción|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|5869|Rural|
+30413|3 Diamantes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6056|Rural|
+30413|La Razón|Finca|Cintalapa|Chiapas||30401|07|30401||20|017|6077|Rural|
+30413|Las Margaritas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6080|Rural|
+30413|Las Vegas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6081|Rural|
+30413|Monarcas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6082|Rural|
+30413|Puerto Barrio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6085|Rural|
+30413|San Luis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6091|Rural|
+30413|San Luis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6092|Rural|
+30413|San Martín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6093|Rural|
+30413|Santa Lucía|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6098|Rural|
+30413|Integral Adolfo López Mateos|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1339|Rural|
+30413|El Carrizal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6061|Rural|
+30413|El Triángulo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6068|Rural|
+30413|Gracias a Dios|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6070|Rural|
+30413|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6071|Rural|
+30413|Piedra Pintada|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6084|Rural|
+30413|Santa Clara|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6097|Rural|
+30413|Santa Rosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6100|Rural|
+30413|Buenavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6058|Rural|
+30413|El Siete (El Cero)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6066|Rural|
+30413|San José (El Cuajilote)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6090|Rural|
+30413|El Carmen|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6060|Rural|
+30413|El Zakura|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6069|Rural|
+30413|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6072|Rural|
+30413|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6076|Rural|
+30413|Las Flores|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6079|Rural|
+30413|San Ramón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6096|Rural|
+30413|Santiago|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6101|Rural|
+30414|La Cañada (La Papaya)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6103|Rural|
+30415|Chicozapote|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6111|Rural|
+30415|El Caoba|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6116|Rural|
+30415|El Jordán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6121|Rural|
+30415|Eladio Trinidad Natarén|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6132|Rural|
+30415|La Historia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6143|Rural|
+30415|Las Delicias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6148|Rural|
+30415|Los Potrillos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6154|Rural|
+30415|San Francisco|Barrio|Cintalapa|Chiapas||30401|07|30401||02|017|1336|Rural|
+30415|Corral Falso|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6114|Rural|
+30415|El Patio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6123|Rural|
+30415|El Pital|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6125|Rural|
+30415|El Saltillito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6128|Rural|
+30415|Guachipilín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6133|Rural|
+30415|La Diana|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6140|Rural|
+30415|La Magdalena (La magdalena 29 de Diciembre)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6145|Rural|
+30415|Nueva Esperanza 2a. Sección|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6156|Rural|
+30415|Vallarta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6174|Rural|
+30415|Alta Unión|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6104|Rural|
+30415|Buenavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6108|Rural|
+30415|Casa Blanca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6110|Rural|
+30415|El Huanacastle|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6120|Rural|
+30415|El Porvenir|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6126|Rural|
+30415|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6134|Rural|
+30415|La Argentina|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6136|Rural|
+30415|La Mora|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6146|Rural|
+30415|La Vueltona|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6147|Rural|
+30415|Los Mangos|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6153|Rural|
+30415|Sagrado Corazón de Jesús|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6160|Rural|
+30415|San Juan|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6166|Rural|
+30415|San Judas (San Jacinto)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6167|Rural|
+30415|Emiliano Zapata|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1342|Rural|
+30415|Chicozapote las Casetas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6112|Rural|
+30415|El Aguacate|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6115|Rural|
+30415|El Carmen|Finca|Cintalapa|Chiapas||30401|07|30401||20|017|6118|Rural|
+30415|El Sauz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6130|Rural|
+30415|La Herradura|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6142|Rural|
+30415|Los Higos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6152|Rural|
+30415|Venustiano Carranza|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6175|Rural|
+30415|Amando Borraz Ochoa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6105|Rural|
+30415|Colonia Gómez|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6113|Rural|
+30415|El Caracol|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6117|Rural|
+30415|El Majagual|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6122|Rural|
+30415|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6141|Rural|
+30415|La Jabalina|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6144|Rural|
+30415|Las Pilas (Santa Úrsula)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6151|Rural|
+30415|San Antonio del Río|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6162|Rural|
+30415|San Rafael|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6169|Rural|
+30415|San Vicente|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6170|Rural|
+30415|Argelia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6106|Rural|
+30415|Bellavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6107|Rural|
+30415|Buenos Aires|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6109|Rural|
+30415|El Sauce|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6129|Rural|
+30415|Horno Blanco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6135|Rural|
+30415|La Calzada|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6138|Rural|
+30415|Las Margaritas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6149|Rural|
+30415|Las Margaritas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6150|Rural|
+30415|Plan de Guadalupe Dos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6158|Rural|
+30415|San Francisco Hojamán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6163|Rural|
+30415|Santa Julia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6171|Rural|
+30415|Villa del Río|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6176|Rural|
+30415|El Carrizalillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6119|Rural|
+30415|El Perú|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6124|Rural|
+30415|El Progreso|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6127|Rural|
+30415|El Tlacuazin|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6131|Rural|
+30415|La Cieneguilla|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6139|Rural|
+30415|Mariano Pérez Díaz (La Joya)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6155|Rural|
+30415|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6161|Rural|
+30415|San Antonio (Lindavista)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6164|Rural|
+30415|San Martín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6168|Rural|
+30415|Santa Martha|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6172|Rural|
+30415|Tres Piedras|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6173|Rural|
+30415|La Cabaña|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6137|Rural|
+30415|Pénjamo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6157|Rural|
+30415|Rancho Chico|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6159|Rural|
+30415|San José Betania|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6165|Rural|
+30416|El Milagro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6181|Rural|
+30416|El Valle|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6184|Rural|
+30416|El Zapote de Abajo (Desvio de Abelardo)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6186|Rural|
+30416|La Victoria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6190|Rural|
+30416|San Marcos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6197|Rural|
+30416|3 de Mayo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6201|Rural|
+30416|El Zapote de Abajo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6185|Rural|
+30416|La Esperanza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6189|Rural|
+30416|Los Moguel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6192|Rural|
+30416|San Fernando|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6195|Rural|
+30416|El Recuerdo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6183|Rural|
+30416|El Zapote de Arriba|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6187|Rural|
+30416|Santa Ana|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6198|Rural|
+30416|Santa Isabel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6200|Rural|
+30416|Vesubio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6202|Rural|
+30416|El Caracol|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6179|Rural|
+30416|Abelardo L Rodriguez|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1321|Rural|
+30416|David Nivón Escobar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6177|Rural|
+30416|El Capricho|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6178|Rural|
+30416|El Manguito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6180|Rural|
+30416|Humberto Mendoza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6188|Rural|
+30416|Manuel Martínez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6193|Rural|
+30416|El Pensamiento|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6182|Rural|
+30416|Las Peñas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6191|Rural|
+30416|Productores de Sorgo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6194|Rural|
+30416|San José las Flores|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6196|Rural|
+30416|Santa Cruz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6199|Rural|
+30417|Córdova|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6207|Rural|
+30417|El Norteño|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6213|Rural|
+30417|El Tabachín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6218|Rural|
+30417|El Tepeyac|Barrio|Cintalapa|Chiapas||30401|07|30401||02|017|6219|Rural|
+30417|Las Dalias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6232|Rural|
+30417|Los Mangos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6236|Rural|
+30417|Monte Oreb|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6243|Rural|
+30417|Nueva Reforma (El Recreo)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6247|Rural|
+30417|San Ángel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6253|Rural|
+30417|San Benito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6254|Rural|
+30417|San Joaquín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6255|Rural|
+30417|El Convenio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6209|Rural|
+30417|El Egipto|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6210|Rural|
+30417|La Cabaña|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6226|Rural|
+30417|Paraje los Patos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6251|Rural|
+30417|Santa Clara|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6259|Rural|
+30417|14 de Febrero|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6203|Rural|
+30417|El Retazo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6216|Rural|
+30417|Jorge de la Vega Domínguez (Las Pavas)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6224|Rural|
+30417|Las Lajas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6233|Rural|
+30417|Las Murallas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6234|Rural|
+30417|Los Pinitos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6239|Rural|
+30417|Monte Sinaí Dos (El Fénix)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6244|Rural|
+30417|Castellano Pomposo|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1333|Rural|
+30417|Copalatenco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6206|Rural|
+30417|El Oasis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6214|Rural|
+30417|José Castillo Tielmans|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6225|Rural|
+30417|La Orquídea|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6231|Rural|
+30417|Los Manguitos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6237|Rural|
+30417|Los Olivos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6238|Rural|
+30417|Santo Domingo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6262|Rural|
+30417|La Esperanza de los Pobres|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1338|Rural|
+30417|Ciénega de León|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|1341|Rural|
+30417|El Lindero|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6211|Rural|
+30417|El Palenque|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6215|Rural|
+30417|El Salvador|Barrio|Cintalapa|Chiapas||30401|07|30401||02|017|6217|Rural|
+30417|La Calzada|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6227|Rural|
+30417|Las Palmas|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6235|Rural|
+30417|Los Tamarindos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6240|Rural|
+30417|Monte de los Olivos (La Mona)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6242|Rural|
+30417|Puerto Rico|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6252|Rural|
+30417|San José Puerto Rico|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6256|Rural|
+30417|Comitancillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6205|Rural|
+30417|Ingeniero Eloy Borras Aguilar|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6223|Rural|
+30417|La Divina Providencia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6228|Rural|
+30417|La Esperanza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6229|Rural|
+30417|Nueva Libertad|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6246|Rural|
+30417|Nuevas Maravillas|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6249|Rural|
+30417|Crisálidas (Plan del Mango)|Barrio|Cintalapa|Chiapas||30401|07|30401||02|017|6208|Rural|
+30417|La Orquídea|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6230|Rural|
+30417|Monte Carlo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6241|Rural|
+30417|Nazareth|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6245|Rural|
+30417|Nueva Venecia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6248|Rural|
+30417|San Juan|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6258|Rural|
+30417|Buenos Aires|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6204|Rural|
+30417|El Nilo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6212|Rural|
+30417|El Triángulo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6220|Rural|
+30417|Fracción Nuevo Mundo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6221|Rural|
+30417|Francisco Villa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6222|Rural|
+30417|Nuevo Mundo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6250|Rural|
+30417|San Joseito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6257|Rural|
+30417|Santa Lidia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6260|Rural|
+30417|Santa Rosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6261|Rural|
+30420|Argentina|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6263|Rural|
+30420|Cuatro Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6271|Rural|
+30420|El Calvario|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6273|Rural|
+30420|El Retiro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6299|Rural|
+30420|El Triángulo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6306|Rural|
+30420|Las Vegas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6328|Rural|
+30420|Macuilapa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6333|Rural|
+30420|Nueva Liberación|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6335|Rural|
+30420|San Damián|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6348|Rural|
+30420|San Francisco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6349|Rural|
+30420|Santa Elena|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6365|Rural|
+30420|Santo Domingo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6369|Rural|
+30420|Centenario|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6266|Rural|
+30420|Colima|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6267|Rural|
+30420|El Bosque|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6272|Rural|
+30420|El Dorado|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6279|Rural|
+30420|El Porvenir|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6294|Rural|
+30420|Las Cruces|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6322|Rural|
+30420|Miravalle|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6334|Rural|
+30420|Poza Rica|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6338|Rural|
+30420|San Jacinto|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6351|Rural|
+30420|San Juanito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6354|Rural|
+30420|Santa Martha|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6366|Rural|
+30420|Santa Teresa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6368|Rural|
+30420|Último de Mayo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6373|Rural|
+30420|El Milagro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6286|Rural|
+30420|El Pensamiento (El Arbolito)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6293|Rural|
+30420|El Recreo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6296|Rural|
+30420|El Salvador|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6301|Rural|
+30420|El Triangulo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6305|Rural|
+30420|Llano Grande|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6329|Rural|
+30420|Paso Real|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6336|Rural|
+30420|Puerta Dorada|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6339|Rural|
+30420|San Marcos|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6355|Rural|
+30420|Santa Ana|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6359|Rural|
+30420|Tierra Blanca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6371|Rural|
+30420|Bonanza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6264|Rural|
+30420|El Cardel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6274|Rural|
+30420|El Chahuite|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6275|Rural|
+30420|El Milagro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6285|Rural|
+30420|El Recuerdo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6298|Rural|
+30420|Las Chinampinas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6320|Rural|
+30420|Las Flores|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6323|Rural|
+30420|Las Jacarandas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6324|Rural|
+30420|Las Moradas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6326|Rural|
+30420|Río Grande|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6343|Rural|
+30420|San Andrés|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6345|Rural|
+30420|San Carlos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6347|Rural|
+30420|San Ramón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6357|Rural|
+30420|Santa Cruz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6364|Rural|
+30420|Tres Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6372|Rural|
+30420|Villa Corona|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6375|Rural|
+30420|Buenavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6265|Rural|
+30420|El Edén|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6281|Rural|
+30420|El Gavilán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6282|Rural|
+30420|El Patio de Madera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6291|Rural|
+30420|Las Crucecitas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6321|Rural|
+30420|Los Cocos (Rancho Bonito)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6330|Rural|
+30420|Los Olachea (San Antonio Valdiviana)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6332|Rural|
+30420|San Roque|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6358|Rural|
+30420|Santa Ana|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6360|Rural|
+30420|Santa Cecilia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6362|Rural|
+30420|Santa Clara|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6363|Rural|
+30420|Vista Hermosa|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1344|Rural|
+30420|Concepción|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6269|Rural|
+30420|El Cielito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6277|Rural|
+30420|El Jardín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6284|Rural|
+30420|El Nuevo Edén|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6288|Rural|
+30420|El Palomar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6290|Rural|
+30420|El Pensamiento|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6292|Rural|
+30420|El Santuario|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6302|Rural|
+30420|El Socorro Dos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6304|Rural|
+30420|El Triángulo Tlaxcalteca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6307|Rural|
+30420|El Triunfo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6308|Rural|
+30420|El Tule|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6309|Rural|
+30420|La Esperanza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6310|Rural|
+30420|La Fortuna|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6311|Rural|
+30420|La Gloria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6312|Rural|
+30420|La Higuera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6314|Rural|
+30420|La Ilusión|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6315|Rural|
+30420|La Vuelta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6319|Rural|
+30420|Las Reynas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6327|Rural|
+30420|Los Flamboyanes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6331|Rural|
+30420|Rancho Bonito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6341|Rural|
+30420|Rincón las Minas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6342|Rural|
+30420|San Agustín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6344|Rural|
+30420|San Rafael|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6356|Rural|
+30420|Villa Morelos|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1343|Rural|
+30420|Orizaba|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|1346|Rural|
+30420|Columpio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6268|Rural|
+30420|Coronel Luis Espinosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6270|Rural|
+30420|El Gran Chaparral|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6283|Rural|
+30420|El Oasis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6289|Rural|
+30420|El Sabinito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6300|Rural|
+30420|La Granadita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6313|Rural|
+30420|La Primavera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6316|Rural|
+30420|Las Mercedes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6325|Rural|
+30420|Rancho Alegre|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6340|Rural|
+30420|San Francisco (La Víbora)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6350|Rural|
+30420|Unión Pastrana|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6374|Rural|
+30420|El Chiflido|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6276|Rural|
+30420|El Desierto|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6278|Rural|
+30420|El Ecuador|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6280|Rural|
+30420|El Milagro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6287|Rural|
+30420|El Progreso|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6295|Rural|
+30420|El Recuerdo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6297|Rural|
+30420|El Socorro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6303|Rural|
+30420|La Veleta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6317|Rural|
+30420|La Vuelta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6318|Rural|
+30420|Patria Nueva|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6337|Rural|
+30420|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6346|Rural|
+30420|San José|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6352|Rural|
+30420|San José Montecristo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6353|Rural|
+30420|Santa Anita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6361|Rural|
+30420|Santa Rita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6367|Rural|
+30420|Solo Dios|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6370|Rural|
+30420|Zacualpa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6376|Rural|
+30422|Amatán (Cerro Brujo)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6377|Rural|
+30422|El Paraiso|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6378|Rural|
+30422|San Pedro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6380|Rural|
+30422|Ignacio Zaragoza|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6379|Rural|
+30423|El Chichonal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6388|Rural|
+30423|El Riego|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6403|Rural|
+30423|La Bugambilia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6409|Rural|
+30423|Los Aguacates|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6421|Rural|
+30423|Monarca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6429|Rural|
+30423|Piedra Azul|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6432|Rural|
+30423|Santa María|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6445|Rural|
+30423|El Ahogadero|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6387|Rural|
+30423|El Hular|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6393|Rural|
+30423|El Ingenio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6394|Rural|
+30423|Guillermo Velázquez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6408|Rural|
+30423|La Ñagara|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6411|Rural|
+30423|Río Negro (Pueblo Viejo)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6433|Rural|
+30423|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6436|Rural|
+30423|San Luis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6443|Rural|
+30423|Simón Bolívar (El Transval)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6447|Rural|
+30423|Las Merceditas|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1332|Rural|
+30423|Alberto Valencia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6382|Rural|
+30423|El Jobal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6395|Rural|
+30423|El Manguito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6396|Rural|
+30423|El Milagro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6397|Rural|
+30423|El Naranjal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6399|Rural|
+30423|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6406|Rural|
+30423|La Sombra|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6416|Rural|
+30423|Los Pinos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6426|Rural|
+30423|Monte Sinaí Dos (Los Horcones)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6430|Rural|
+30423|San Carlos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6438|Rural|
+30423|San Jesús|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6440|Rural|
+30423|La Constitución|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1331|Rural|
+30423|El Chintulito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6390|Rural|
+30423|El Coyolar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6391|Rural|
+30423|La Noria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6412|Rural|
+30423|Las Ánimas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6418|Rural|
+30423|Paraíso de las Maravillas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6431|Rural|
+30423|San Carlos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6439|Rural|
+30423|El Mirador|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6398|Rural|
+30423|Felipe Ángeles|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6404|Rural|
+30423|Guadalupe Victoria Uno (La Herradura)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6407|Rural|
+30423|La Victoria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6417|Rural|
+30423|Las Guanábanas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6419|Rural|
+30423|Las Palmas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6420|Rural|
+30423|Los Limones (Tetesquite)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6425|Rural|
+30423|Miguel Chacón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6428|Rural|
+30423|Salto de Agua|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6435|Rural|
+30423|San Sebastián|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1327|Rural|
+30423|La Ceiba|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6410|Rural|
+30423|La Peñita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6414|Rural|
+30423|San Antonio del Carmen|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6437|Rural|
+30423|Adolfo López Ruiz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6381|Rural|
+30423|Cuatro de Agosto|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6385|Rural|
+30423|El Aguaje|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6386|Rural|
+30423|El Chintule|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6389|Rural|
+30423|El Gran Poder|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6392|Rural|
+30423|El Naranjal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6400|Rural|
+30423|El Paso la Costosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6401|Rural|
+30423|El Recuerdo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6402|Rural|
+30423|Gilberto Morales|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6405|Rural|
+30423|Los Cocos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6422|Rural|
+30423|Los Corazones|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6423|Rural|
+30423|Los Limones|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6424|Rural|
+30423|San José Montenegro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6441|Rural|
+30423|Agua Dulce|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6383|Rural|
+30423|Amado González Muñoz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6384|Rural|
+30423|La Peña|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6413|Rural|
+30423|La Selva|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6415|Rural|
+30423|Los Potrillos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6427|Rural|
+30423|Rosember López Escobar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6434|Rural|
+30423|San José Naranjal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6442|Rural|
+30423|San Miguel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6444|Rural|
+30423|Santa Rosa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6446|Rural|
+30423|Soledad del Bosque|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6448|Rural|
+30424|Adolfo López Mateos|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6450|Rural|
+30424|Andrés Gómez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6451|Rural|
+30424|El Platanillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6464|Rural|
+30424|El Porvenir|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6465|Rural|
+30424|El Potrero|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6467|Rural|
+30424|El Zapote 2|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6473|Rural|
+30424|Montecristo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6501|Rural|
+30424|Monterrey|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6502|Rural|
+30424|El Cucurucho|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6457|Rural|
+30424|El Porvenir|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6466|Rural|
+30424|El Progreso|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6468|Rural|
+30424|La Herendira|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6480|Rural|
+30424|Las Naranjas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6487|Rural|
+30424|Los Tulipanes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6496|Rural|
+30424|El Arco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6456|Rural|
+30424|El Otro Mundo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6462|Rural|
+30424|Encarnación Hernández L.|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6472|Rural|
+30424|La Bandera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6478|Rural|
+30424|Las Láminas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6486|Rural|
+30424|Los Joaquines|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6494|Rural|
+30424|San Cayetano|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6507|Rural|
+30424|Vista Alegre (El Mercadito)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6512|Rural|
+30424|El Aguajón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6455|Rural|
+30424|Framboyán|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6474|Rural|
+30424|General Cárdenas|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6475|Rural|
+30424|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6476|Rural|
+30424|La Panelita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6481|Rural|
+30424|La Sima|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6482|Rural|
+30424|La Virginia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6483|Rural|
+30424|Las Carmelitas|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6484|Rural|
+30424|Las Tres Marías|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6490|Rural|
+30424|Los Alpes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6492|Rural|
+30424|Marcos Pérez Pérez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6500|Rural|
+30424|Veracruz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6511|Rural|
+30424|Antonio Díaz Ruiz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6452|Rural|
+30424|Juan Gómez Sánchez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6477|Rural|
+30424|Las Palmas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6488|Rural|
+30424|Las Perlas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6489|Rural|
+30424|Los Horcones|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6493|Rural|
+30424|Los Limones|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6495|Rural|
+30424|Luis O. Moreno H.|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6498|Rural|
+30424|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6506|Rural|
+30424|Unidad Modelo|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6508|Rural|
+30424|Agua Fría|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6449|Rural|
+30424|Antonio Gómez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6453|Rural|
+30424|Buenos Aires|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6454|Rural|
+30424|El Dorado|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6458|Rural|
+30424|La Cabaña|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6479|Rural|
+30424|Las Gardenias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6485|Rural|
+30424|Lindavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6491|Rural|
+30424|Luis Díaz Aguilar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6497|Rural|
+30424|Venustiano Carranza|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6510|Rural|
+30424|El Edén|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6459|Rural|
+30424|El Ensueño|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6460|Rural|
+30424|El Zapote|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6470|Rural|
+30424|Nazareth|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6503|Rural|
+30424|Ojo de Agua (Unesco)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6504|Rural|
+30424|Oscar López|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6505|Rural|
+30424|Urbano Martínez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6509|Rural|
+30424|El Medallin (Unesco)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6461|Rural|
+30424|El Paraíso|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6463|Rural|
+30424|El Rosario|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6469|Rural|
+30424|Emiliano Zapata|Ejido|Cintalapa|Chiapas||30401|07|30401||15|017|6471|Rural|
+30424|Marcos Gómez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6499|Rural|
+30425|Bellalinda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6514|Rural|
+30425|Chapultepec|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6516|Rural|
+30425|El Amatillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6519|Rural|
+30425|El Ocote|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6529|Rural|
+30425|El Ocotillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6530|Rural|
+30425|El Oriente|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6531|Rural|
+30425|El Zapotillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6541|Rural|
+30425|Las Brisas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6553|Rural|
+30425|Las Pilas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6564|Rural|
+30425|Nazareth|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6573|Rural|
+30425|Sagrado Corazón de Jesús|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6585|Rural|
+30425|Santa Fe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6599|Rural|
+30425|Santa Lucia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6601|Rural|
+30425|Corazón del Valle|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6518|Rural|
+30425|El Danubio|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6526|Rural|
+30425|El Platanillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6532|Rural|
+30425|La Cima|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6547|Rural|
+30425|La Vainilla|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6551|Rural|
+30425|Las Maravillas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6560|Rural|
+30425|Los Andes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6567|Rural|
+30425|Los Hornos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6569|Rural|
+30425|Niños Héroes|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6574|Rural|
+30425|Nueva Puebla|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6575|Rural|
+30425|San Mateo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6593|Rural|
+30425|San Miguel|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6594|Rural|
+30425|Nueva Tenochtitlán (Rizo de Oro)|Ejido|Cintalapa|Chiapas||30401|07|30401||15|017|1347|Rural|
+30425|Chapultepec|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6515|Rural|
+30425|Humoa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6544|Rural|
+30425|La Florida|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6548|Rural|
+30425|La Nueva España|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6550|Rural|
+30425|La Vibora|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6552|Rural|
+30425|Las Bugambilias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6554|Rural|
+30425|Las Perlas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6563|Rural|
+30425|Lindavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6566|Rural|
+30425|Pablo Salazar|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6577|Rural|
+30425|Rancho Cupido|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6582|Rural|
+30425|Santa Cruz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6598|Rural|
+30425|Santa Fe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6600|Rural|
+30425|Santo Domingo|Barrio|Cintalapa|Chiapas||30401|07|30401||02|017|1337|Rural|
+30425|El Bernal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6520|Rural|
+30425|El Sinaí (Santa Elena)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6538|Rural|
+30425|Las Canoitas Segunda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6556|Rural|
+30425|Las Lluvias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6559|Rural|
+30425|Las Palmas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6562|Rural|
+30425|Los Clavelitos (Pilón de Azúcar)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6568|Rural|
+30425|Los Laureles|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6570|Rural|
+30425|San Joaquín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6589|Rural|
+30425|San Juan|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6591|Rural|
+30425|San Luis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6592|Rural|
+30425|San Pedro de las Palmas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6595|Rural|
+30425|Tatachepe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6604|Rural|
+30425|Valle de Corzo (San Fernando)|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6605|Rural|
+30425|Veinte de Noviembre|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6606|Rural|
+30425|Altamira|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6513|Rural|
+30425|El Sauz|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6536|Rural|
+30425|Las Jaquimas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6558|Rural|
+30425|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6586|Rural|
+30425|Siete Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6603|Rural|
+30425|El Brillante|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6521|Rural|
+30425|El Edén|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6527|Rural|
+30425|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6543|Rural|
+30425|Las Dos Gardenias|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6557|Rural|
+30425|Las Murallas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6561|Rural|
+30425|Los Miradores|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6571|Rural|
+30425|Pénjamo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6579|Rural|
+30425|Rancho Alegre|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6581|Rural|
+30425|Rincón Sandía|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6583|Rural|
+30425|San Isidro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6588|Rural|
+30425|San Pedro las Palmas Dos|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6596|Rural|
+30425|El Chahuitillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6523|Rural|
+30425|El Consuelo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6524|Rural|
+30425|El Horizonte|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6528|Rural|
+30425|El Saltillo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6535|Rural|
+30425|El Sinaí|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6537|Rural|
+30425|El Tesoro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6540|Rural|
+30425|Guadalupe|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6542|Rural|
+30425|La Angostura|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6546|Rural|
+30425|Los Pinos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6572|Rural|
+30425|Nueva Vida|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6576|Rural|
+30425|San José la Verdad|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6590|Rural|
+30425|San Vicente|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6597|Rural|
+30425|Santa Teresa|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6602|Rural|
+30425|Yerbasanta|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6607|Rural|
+30425|Cáp. Rosendo Salazar|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1345|Rural|
+30425|Cinco Cerros|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6517|Rural|
+30425|El Cafetal (Rancho Nuevo)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6522|Rural|
+30425|El Corazoncito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6525|Rural|
+30425|El Recuerdo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6533|Rural|
+30425|El Renegado (La Cabaña)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6534|Rural|
+30425|El Sueño|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6539|Rural|
+30425|Jilotepec|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6545|Rural|
+30425|La Libertad|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6549|Rural|
+30425|Las Canoitas Primera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6555|Rural|
+30425|Las Tasajeras|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6565|Rural|
+30425|Palo Blanco|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6578|Rural|
+30425|Piedra de Cal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6580|Rural|
+30425|Río Limón (Los Mangos)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6584|Rural|
+30425|San Fernando|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6587|Rural|
+30426|La Florida|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1328|Rural|
+30426|José Castillo Tielmans|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6609|Rural|
+30426|El Mirador|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6608|Rural|
+30426|Nuevo Jerusalén|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6610|Rural|
+30427|Tehuacan|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1349|Rural|
+30427|Alta Vista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6613|Rural|
+30427|Betania|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6615|Rural|
+30427|El Calvario|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6618|Rural|
+30427|El Jobito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6623|Rural|
+30427|Nuevo Coyoacán|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6645|Rural|
+30427|Roberto Barrios|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1348|Rural|
+30427|Agua Escondida|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6611|Rural|
+30427|Alaska|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6612|Rural|
+30427|La Selva|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6636|Rural|
+30427|Monserrat|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6642|Rural|
+30427|Rancho Nuevo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6646|Rural|
+30427|Rincón Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6647|Rural|
+30427|San Bartolo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6648|Rural|
+30427|San Lucas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6649|Rural|
+30427|El Aguajón|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6617|Rural|
+30427|El Porvenir|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6626|Rural|
+30427|La Herradura|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6633|Rural|
+30427|Las Casitas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6637|Rural|
+30427|Terranova|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6651|Rural|
+30427|El Guamúchil|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6622|Rural|
+30427|El Rubí|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6628|Rural|
+30427|Las Limas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6638|Rural|
+30427|Alto la Alvarda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6614|Rural|
+30427|La Lagunita|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6634|Rural|
+30427|La Naranja|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6635|Rural|
+30427|Los Ángeles|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6640|Rural|
+30427|Nancital|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6644|Rural|
+30427|El Manguito|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6624|Rural|
+30427|El Refugio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6627|Rural|
+30427|El Suspiro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6629|Rural|
+30427|Juan Carral|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6630|Rural|
+30427|La Guacamaya|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6632|Rural|
+30427|Las Margaritas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6639|Rural|
+30427|Miramar (El Tempisque)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6641|Rural|
+30427|Bethel|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6616|Rural|
+30427|El Capulín|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6619|Rural|
+30427|El Estoraque (El Organal)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6620|Rural|
+30427|El Faro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6621|Rural|
+30427|El Pencil|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6625|Rural|
+30427|La Esmeralda|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6631|Rural|
+30427|Monterrey|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6643|Rural|
+30427|Santiago|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6650|Rural|
+30428|El Porvenir (El Rosario)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6654|Rural|
+30428|La Candelaria|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6657|Rural|
+30428|Pimienta Berlín|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6664|Rural|
+30428|El Retiro|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6655|Rural|
+30428|La Selva|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6660|Rural|
+30428|Las Cuevas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6661|Rural|
+30428|El Paraíso|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6653|Rural|
+30428|El Zapotal (Santa Rosa)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6656|Rural|
+30428|La Marqueza|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6659|Rural|
+30428|Venecia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6666|Rural|
+30428|La Esperanza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6658|Rural|
+30428|El Aguacate|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6652|Rural|
+30428|San Fernando|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6665|Rural|
+30428|Nueva Pimienta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6662|Rural|
+30428|Palomares|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6663|Rural|
+30429|El Estoracón|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1326|Rural|
+30429|Guadalupe Victoria|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1340|Rural|
+30429|Adrián Pérez|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6667|Rural|
+30429|El Naranjo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6675|Rural|
+30429|La Argentina|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6684|Rural|
+30429|Los Mangos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6696|Rural|
+30429|Belén (La Peñita)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6669|Rural|
+30429|Javier López Moreno|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6682|Rural|
+30429|La Bizca|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6685|Rural|
+30429|La Esperanza|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6686|Rural|
+30429|La Ribera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6689|Rural|
+30429|San Mateo|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6708|Rural|
+30429|Santa Inés|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6710|Rural|
+30429|El Magueyal|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6673|Rural|
+30429|El Mirador|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6674|Rural|
+30429|La Posta|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6688|Rural|
+30429|Martín Ríos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6699|Rural|
+30429|Rancho Alegre|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6703|Rural|
+30429|Buenavista|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6670|Rural|
+30429|Quintilo Velázquez L|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6702|Rural|
+30429|Rancho Escondido|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6704|Rural|
+30429|Santa Lucia|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6711|Rural|
+30429|Altamira|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6668|Rural|
+30429|El Bosque|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6671|Rural|
+30429|El Cuajilote|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6672|Rural|
+30429|El Ocote|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6677|Rural|
+30429|La Aceitera|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6683|Rural|
+30429|Las Brisas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6690|Rural|
+30429|Los Amates|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6693|Rural|
+30429|Pascual López|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6700|Rural|
+30429|San Antonio|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6706|Rural|
+30429|Santa Martha|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6712|Rural|
+30429|Uña de Gato|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6714|Rural|
+30429|Francisco I Madero|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1323|Rural|
+30429|El Perú|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6678|Rural|
+30429|Las Nubes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6692|Rural|
+30429|Sonora|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6713|Rural|
+30429|El Oasis|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6676|Rural|
+30429|Francisco Arellano|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6679|Rural|
+30429|Jacinto Tirado|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|6681|Rural|
+30429|La Mora|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6687|Rural|
+30429|Los Amates|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6694|Rural|
+30429|Los Tulipanes|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6698|Rural|
+30429|Penachos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6701|Rural|
+30429|San Miguel los Encinos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6709|Rural|
+30429|Triunfo de Madero|Colonia|Cintalapa|Chiapas||30401|07|30401||09|017|1324|Rural|
+30429|Guerrero (Ocho de Marzo)|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6680|Rural|
+30429|Las Margaritas|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6691|Rural|
+30429|Los Hermanos|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6695|Rural|
+30429|Los Ocotones [Aserradero]|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6697|Rural|
+30429|San Andrés|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6705|Rural|
+30429|San Jacinto|Ranchería|Cintalapa|Chiapas||30401|07|30401||29|017|6707|Rural|

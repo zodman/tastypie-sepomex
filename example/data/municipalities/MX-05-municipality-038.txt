@@ -1,0 +1,17 @@
+26450|Zaragoza Centro|Colonia|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||09|038|0877|Semiurbano|18
+26452|Manantiales del Valle|Fraccionamiento|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||21|038|3232|Urbano|18
+26452|Sagón|Colonia|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||09|038|2056|Semiurbano|18
+26452|La Pedrera|Barrio|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||02|038|2057|Semiurbano|18
+26452|Industrial|Fraccionamiento|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||21|038|2059|Semiurbano|18
+26452|La Nogalera|Colonia|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||09|038|2058|Semiurbano|18
+26453|El Mimbre|Colonia|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||09|038|2061|Semiurbano|18
+26454|Nuevo Pueblo INFONAVIT|Colonia|Zaragoza|Coahuila de Zaragoza|Zaragoza|26531|05|26531||09|038|2060|Semiurbano|18
+26459|Zaragoza|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0883|Rural|
+26460|La Maroma|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0884|Rural|
+26463|San Fernando (Dávila)|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0885|Rural|
+26464|Paso del Tío Pío|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0878|Rural|
+26464|Tío Pío|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0879|Rural|
+26465|Patiño|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0882|Rural|
+26465|El Mimbre|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0881|Rural|
+26465|Maravillas|Ejido|Zaragoza|Coahuila de Zaragoza||26531|05|26531||15|038|0886|Rural|
+26467|El Remolino|Congregación|Zaragoza|Coahuila de Zaragoza||26531|05|26531||11|038|0887|Rural|

@@ -1,0 +1,19 @@
+68410|Palma Sola|Congregación|Cosolapa|Oaxaca||68414|20|68414||11|021|4432|Rural|
+68410|Almolonga|Congregación|Cosolapa|Oaxaca||68414|20|68414||11|021|0348|Rural|
+68410|El Refugio|Congregación|Cosolapa|Oaxaca||68414|20|68414||11|021|0346|Rural|
+68411|El Refugio Viejo|Ranchería|Cosolapa|Oaxaca||68414|20|68414||29|021|0347|Rural|
+68412|Migiel Hidalgo (Colonia Agrícola)|Ranchería|Cosolapa|Oaxaca||68414|20|68414||29|021|0355|Rural|
+68412|Rancho Tablas Reyes|Congregación|Cosolapa|Oaxaca||68414|20|68414||11|021|0349|Rural|
+68412|Morelos|Ranchería|Cosolapa|Oaxaca||68414|20|68414||29|021|4431|Rural|
+68415|Cosolapa Centro|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|0345|Rural|15
+68416|Obreros|Conjunto habitacional|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||12|021|3326|Rural|15
+68416|Santa Fe|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3327|Rural|15
+68416|Constancia|Unidad habitacional|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||31|021|3660|Rural|15
+68417|San Jose|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3332|Rural|15
+68417|La Laguna|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3371|Rural|15
+68418|Floresta|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3330|Rural|15
+68418|Sagrado Corazón|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3331|Rural|15
+68418|Faustino Perez|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3370|Rural|15
+68419|El Rastro|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3369|Rural|15
+68419|Primero de Mayo|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3329|Rural|15
+68419|Vista Hermosa|Colonia|Cosolapa|Oaxaca|Cosolapa|68414|20|68414||09|021|3328|Rural|15

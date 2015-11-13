@@ -1,0 +1,19 @@
+93960|Deportiva 1a Secc|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||09|192|0711|Rural|
+93960|Vega de Alatorre|Pueblo|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||28|192|2624|Rural|
+93960|Las Vegas|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||09|192|0905|Rural|
+93960|Independencia|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||09|192|0838|Rural|
+93960|El Progreso|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||09|192|0766|Rural|
+93960|La Diana Alta|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||09|192|0861|Rural|
+93965|Las Higueras|Ejido|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||15|192|2626|Rural|
+93970|Monte Negro|Ejido|Vega de Alatorre|Veracruz de Ignacio de la Llave||93961|30|93961||15|192|2627|Rural|
+93980|Los Mangos|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|0945|Rural|
+93980|Estadio|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|0792|Rural|
+93980|Torres Méndez|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|7864|Urbano|
+93980|El Chamizal|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|0744|Rural|
+93980|Santa Bárbara|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|1087|Rural|
+93980|Manuel L Morales|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|0961|Rural|
+93980|Luz Maria Zapata|Colonia|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||09|192|0953|Rural|
+93980|La Firmeza|Fraccionamiento|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||21|192|0862|Rural|
+93980|Emilio Carranza|Pueblo|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||28|192|2628|Rural|
+93986|Loma Bonita|Congregación|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||11|192|2630|Rural|
+93986|El Centenario (El Tecolote)|Rancho|Vega de Alatorre|Veracruz de Ignacio de la Llave||93981|30|93981||48|192|0001|Rural|

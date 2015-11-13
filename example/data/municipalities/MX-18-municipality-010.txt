@@ -1,0 +1,91 @@
+63630|La Pila|Barrio|Rosamorada|Nayarit||63632|18|63632||02|010|1311|Urbano|
+63630|El Rastro|Colonia|Rosamorada|Nayarit||63632|18|63632||09|010|1309|Urbano|
+63630|Insurgentes|Colonia|Rosamorada|Nayarit||63632|18|63632||09|010|1310|Urbano|
+63630|Agua Caliente|Colonia|Rosamorada|Nayarit||63632|18|63632||09|010|1307|Urbano|
+63630|Las Lajitas|Colonia|Rosamorada|Nayarit||63632|18|63632||09|010|1308|Urbano|
+63630|Rosamorada Centro|Pueblo|Rosamorada|Nayarit||63632|18|63632||28|010|0498|Urbano|
+63633|Abelardo L. Rodríguez (Amapa)|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0501|Rural|
+63633|Pescadero|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0502|Rural|
+63633|Francisco Villa (El Retiro)|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|1333|Rural|
+63634|Bonita|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0497|Rural|
+63634|Cerro Verde|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1316|Rural|
+63634|Los Petates|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1346|Rural|
+63634|Crucero Providencia|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1321|Rural|
+63634|Las Anonas|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1340|Rural|
+63634|Teponahuaxtla (Huaixta)|Poblado comunal|Rosamorada|Nayarit||63632|18|63632||27|010|0505|Rural|
+63634|Copales|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1317|Rural|
+63634|Las Adelitas|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1339|Rural|
+63634|Los Horcones|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1344|Rural|
+63634|Lázaro Cárdenas|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0503|Rural|
+63634|Providencia|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0504|Rural|
+63634|El Camionero [Restaurante]|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1356|Rural|
+63635|San Juan Bautista|Pueblo|Rosamorada|Nayarit||63632|18|63632||28|010|0509|Rural|
+63635|Los Cinco Hermanos|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1354|Rural|
+63635|Cofradía de Cuyutlán|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0506|Rural|
+63635|Los Arrayanes|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0507|Rural|
+63635|San Marcos Cuyutlán|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0510|Rural|
+63635|Paramita|Pueblo|Rosamorada|Nayarit||63632|18|63632||28|010|0508|Rural|
+63635|El Cuatante|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1324|Rural|
+63636|San Miguelito|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0513|Rural|
+63636|Llano del Tigre|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0512|Rural|
+63637|Zomatlán del Caimanero|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0514|Rural|
+63637|El Mil|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1327|Rural|
+63637|Chilapa|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0496|Rural|
+63637|Crucero a Zomatlán|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1319|Rural|
+63637|Huerta Paula Sojo|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1336|Rural|
+63637|Colonias 18 de Marzo|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0516|Rural|
+63638|Las Pilas|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0515|Rural|
+63638|Rancho de Ramón Ibarra|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1352|Rural|
+63638|El Potro|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1328|Rural|
+63638|Minitas|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0499|Rural|
+63640|Los Medina|Ejido|Rosamorada|Nayarit||63201|18|63201||15|010|0518|Rural|
+63640|Crucero de los Medina|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1320|Rural|
+63640|La Boquita|Ejido|Rosamorada|Nayarit||63201|18|63201||15|010|0517|Rural|
+63640|Rancho de Miguel Sosa (Crucero de Pericos)|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1351|Rural|
+63640|Vicente Guerrero (El Mogote)|Ejido|Rosamorada|Nayarit||63201|18|63201||15|010|0521|Rural|
+63643|Pericos|Ejido|Rosamorada|Nayarit||63201|18|63201||15|010|0519|Rural|
+63643|Andrés Ramírez|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1313|Rural|
+63644|Francisco Contreras [Granja Camaronera]|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1334|Rural|
+63644|El Chirimoyo [Embarcadero]|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1330|Rural|
+63644|Los Espejos [Embarcadero]|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1331|Rural|
+63644|Pimientillo|Ejido|Rosamorada|Nayarit||63201|18|63201||15|010|0520|Rural|
+63644|Los Espejos [Granja Camaronera]|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1335|Rural|
+63645|16 de Septiembre|Colonia|Rosamorada|Nayarit||63201|18|63201||09|010|1213|Urbano|
+63645|San Vicente Centro|Colonia|Rosamorada|Nayarit||63201|18|63201||09|010|0524|Urbano|
+63645|Obrera CTM|Colonia|Rosamorada|Nayarit||63201|18|63201||09|010|1305|Urbano|
+63645|Teodoro Estrada|Colonia|Rosamorada|Nayarit||63201|18|63201||09|010|1306|Urbano|
+63645|Lázaro Cárdenas|Colonia|Rosamorada|Nayarit||63201|18|63201||09|010|1304|Urbano|
+63646|La Loma|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|0525|Rural|
+63646|El Llanito|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1326|Rural|
+63648|El Tamarindo|Ejido|Rosamorada|Nayarit||63201|18|63201||15|010|0511|Rural|
+63648|El Canal de la Lima|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1323|Rural|
+63648|Crucero a Mexcaltitán (La Siesta)|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1318|Rural|
+63648|Los Cerritos (Loma de los Chivos)|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1342|Rural|
+63648|Los Ramírez|Ranchería|Rosamorada|Nayarit||63201|18|63201||29|010|1348|Rural|
+63650|Rancho Miguel Cervantes|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1355|Rural|
+63650|San Diego del Naranjo|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0527|Rural|
+63650|Coyotes|Congregación|Rosamorada|Nayarit||63632|18|63632||11|010|0532|Rural|
+63652|Agua Aceda|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1312|Rural|
+63652|Carrizo del Peñasquillo|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1315|Rural|
+63652|La Flecha|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1337|Rural|
+63652|Santa Fe|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0529|Rural|
+63655|La Higuerita|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1338|Rural|
+63655|Mojocuautla (Adjuntas)|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0530|Rural|
+63655|Rancho de Agripin Flores|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1350|Rural|
+63655|San Juan Corapan|Poblado comunal|Rosamorada|Nayarit||63632|18|63632||27|010|0531|Rural|
+63656|Estación Chilapa|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1332|Rural|
+63656|Paso Real del Bejuco|Ejido|Rosamorada|Nayarit||63632|18|63632||15|010|0526|Rural|
+63656|Rancho Hermanos Bautista|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1353|Rural|
+63657|Benito Valle (San Miguel)|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1314|Rural|
+63657|Las Conchas|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1341|Rural|
+63657|San Miguel|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1358|Rural|
+63657|El Bálsamo|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1322|Rural|
+63657|Rincón de las Cucharas|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1357|Rural|
+63657|Rosarito|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0528|Rural|
+63658|El Guayabo|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1325|Rural|
+63658|Los Pimienta|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1347|Rural|
+63658|Los Leandros|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1345|Rural|
+63658|Puente el Bejuco (El Capricho)|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1349|Rural|
+63658|El Quebrantadero (Hermanos Ibarra)|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1329|Rural|
+63658|El Ochenta|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|0533|Rural|
+63658|Los Cuates|Ranchería|Rosamorada|Nayarit||63632|18|63632||29|010|1343|Rural|

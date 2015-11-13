@@ -1,0 +1,21 @@
+75380|Huatlatlauca|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|2226|Rural|
+75380|Socontitla (Barranca Socontitla)|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|0010|Rural|
+75386|San Miguel Cosahuatla|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|2233|Rural|
+75386|Santa María Coacuacán|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|2232|Rural|
+75387|Cantera San Pablo|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|0005|Rural|
+75389|San Pablo Zoyatitlanapan|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|2227|Rural|
+75390|Álvaro Obregón|Ejido|Huatlatlauca|Puebla||74901|21|74901||15|070|0002|Rural|
+75390|Álvaro Obregón (Barranca San Miguel)|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|0003|Rural|
+75390|Copalcotitla|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|0007|Rural|
+75390|Tempexquistla|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|2229|Rural|
+75393|Rancho Rosas|Rancho|Huatlatlauca|Puebla||74901|21|74901||48|070|0008|Rural|
+75393|Emiliano Zapata|Colonia|Huatlatlauca|Puebla||74901|21|74901||09|070|0001|Rural|
+75394|Santo Tomás Atlixilihuian|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|0009|Rural|
+75394|Baixtla|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|0004|Rural|
+75395|San Nicolás Atlalpan|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|2228|Rural|
+75395|Chimala|Barrio|Huatlatlauca|Puebla||74901|21|74901||02|070|0006|Rural|
+75396|Tepanacitla (Guadalupe Tepanacitla)|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|0011|Rural|
+75396|Quetzalapa (San Baltazar Quetzalapa)|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|2230|Rural|
+75396|Tochmatzintla|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|2231|Rural|
+75398|Ahuatempan (San Lucas Ahuatempan)|Ranchería|Huatlatlauca|Puebla||74901|21|74901||29|070|2234|Rural|
+75399|Tepetzintzintla|Pueblo|Huatlatlauca|Puebla||74901|21|74901||28|070|2235|Rural|

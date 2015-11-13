@@ -1,0 +1,24 @@
+68470|El Cantón|Ranchería|San Lucas Ojitlán|Oaxaca||68301|20|68301||29|232|0469|Rural|
+68470|San Lucas Ojitlán|Pueblo|San Lucas Ojitlán|Oaxaca||68301|20|68301||28|232|0471|Urbano|
+68471|Laguna Del Diablo|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0472|Rural|
+68471|Santa Rosa Pie Del Cerro|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0476|Rural|
+68472|Rayas de La Carolina|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0477|Rural|
+68472|Loma de Piedra|Congregación|San Lucas Ojitlán|Oaxaca||68301|20|68301||11|232|0474|Rural|
+68473|Nuevo Paso Limón|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0475|Rural|
+68473|El Nanche|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0478|Rural|
+68473|Pueblo Nuevo|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0479|Rural|
+68474|El Malotal|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0480|Rural|
+68474|Los Angeles|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0482|Rural|
+68474|Alfredo Vladmir Bonfil|Ranchería|San Lucas Ojitlán|Oaxaca||68301|20|68301||29|232|4867|Rural|
+68474|Las Pochotas|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0481|Rural|
+68474|Paso Novillo|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0483|Rural|
+68475|Laguna Escondida|Ranchería|San Lucas Ojitlán|Oaxaca||68301|20|68301||29|232|0473|Rural|
+68475|La Esperanza|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0484|Rural|
+68475|Nuevo Aguacate|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0485|Rural|
+68476|Arroyo Camarón|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|4565|Rural|
+68476|Arroyo Remolino|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0486|Rural|
+68476|Ideal Arriba|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0488|Rural|
+68476|El Cafetal Segundo|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0487|Rural|
+68477|Arroyo Camalote|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|4564|Rural|
+68477|Los Ideales|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|4566|Rural|
+68479|Mazin Grande|Ejido|San Lucas Ojitlán|Oaxaca||68301|20|68301||15|232|0490|Rural|

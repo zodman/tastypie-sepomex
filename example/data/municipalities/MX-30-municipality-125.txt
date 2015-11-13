@@ -1,0 +1,32 @@
+94970|Moreno|Fraccionamiento|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||21|125|5061|Rural|68
+94970|12 de Octubre|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5063|Rural|68
+94970|San Antonio|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5058|Rural|68
+94970|Loma Linda|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5060|Rural|68
+94970|12 de Marzo|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5065|Rural|68
+94970|Salvador Esquer Apodaca|Unidad habitacional|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||31|125|7338|Rural|68
+94970|Manlio Fabio Altamirano|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5062|Rural|68
+94970|Benito Juárez|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5059|Rural|68
+94970|Paso Del Macho Centro|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|3145|Rural|68
+94970|Reforma|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5057|Rural|68
+94970|Emiliano Zapata|Colonia|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||09|125|5064|Rural|68
+94970|El Naranjito|Unidad habitacional|Paso del Macho|Veracruz de Ignacio de la Llave|Paso del Macho|94971|30|94971||31|125|5066|Rural|68
+94972|El Porvenir|Rancho|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||48|125|0002|Rural|
+94972|Paso Gavilán|Pueblo|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||28|125|3144|Rural|
+94973|Paso Azúcar|Ranchería|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||29|125|8555|Rural|
+94974|Loma Pelada|Rancho|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||48|125|0003|Rural|
+94974|Tlanamacoyan|Rancho|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||48|125|0004|Rural|
+94974|El Angostillo|Rancho|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||48|125|0005|Rural|
+94975|La Gloria|Congregación|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||11|125|6068|Rural|
+94975|Mata Tejón|Congregación|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||11|125|6069|Rural|
+94975|Rincón del Chile|Ranchería|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||29|125|7891|Rural|
+94975|Paso Frijol|Poblado comunal|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||27|125|0001|Rural|
+94975|Paso del Burro|Congregación|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||11|125|6070|Rural|
+94975|El Cedro|Congregación|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||11|125|6071|Rural|
+94975|Potrero Grande (Remudadero Rancho Nuevo)|Congregación|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||11|125|3146|Rural|
+94976|Actopan|Pueblo|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||28|125|3143|Rural|
+94976|La Víbora|Ranchería|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||29|125|6063|Rural|
+94976|Paso Limón|Rancho|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||48|125|0006|Rural|
+94976|El Zapotal|Congregación|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||11|125|3147|Rural|
+94976|Cañamazo|Ranchería|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||29|125|7205|Rural|
+94976|La Peña|Ranchería|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||29|125|8569|Rural|
+94977|Corral de Piedra|Ranchería|Paso del Macho|Veracruz de Ignacio de la Llave||94971|30|94971||29|125|7530|Rural|

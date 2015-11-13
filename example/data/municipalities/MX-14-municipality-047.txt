@@ -1,0 +1,9 @@
+47900|Jamay Centro|Colonia|Jamay|Jalisco|Jamay|47901|14|47901||09|047|2236|Semiurbano|33
+47902|El Seminario|Colonia|Jamay|Jalisco|Jamay|47901|14|47901||09|047|3683|Semiurbano|33
+47902|San Isidro|Colonia|Jamay|Jalisco|Jamay|47901|14|47901||09|047|0001|Urbano|33
+47902|San Antonio|Colonia|Jamay|Jalisco|Jamay|47901|14|47901||09|047|0003|Urbano|33
+47902|El Trompo|Colonia|Jamay|Jalisco|Jamay|47901|14|47901||09|047|0002|Urbano|33
+47902|Tepeyac|Colonia|Jamay|Jalisco|Jamay|47901|14|47901||09|047|3682|Semiurbano|33
+47903|La Maltaraña (La Palmita)|Hacienda|Jamay|Jalisco||47901|14|47901||24|047|2238|Rural|
+47905|San Agustin|Ranchería|Jamay|Jalisco||47901|14|47901||29|047|2239|Rural|
+47909|San Miguel de la Paz|Pueblo|Jamay|Jalisco||47901|14|47901||28|047|2240|Rural|

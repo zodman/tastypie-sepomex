@@ -1,0 +1,16 @@
+54660|Coyotepec|Pueblo|Coyotepec|México||54661|15|54661||28|023|3035|Rural|
+54665|El Gavillero|Ejido|Coyotepec|México||54661|15|54661||15|023|9012|Rural|
+54665|La Planada|Barrio|Coyotepec|México||54661|15|54661||02|023|5783|Rural|
+54665|Santa Bárbara|Barrio|Coyotepec|México||54661|15|54661||02|023|5784|Rural|
+54665|Reyes|Barrio|Coyotepec|México||54661|15|54661||02|023|5786|Rural|
+54665|Caltenco|Barrio|Coyotepec|México||54661|15|54661||02|023|5787|Rural|
+54666|Ixtapacalco|Barrio|Coyotepec|México||54661|15|54661||02|023|5778|Rural|
+54666|Cimapan|Barrio|Coyotepec|México||54661|15|54661||02|023|5777|Rural|
+54666|San Francisco|Barrio|Coyotepec|México||54661|15|54661||02|023|5782|Rural|
+54667|Acoacalco|Barrio|Coyotepec|México||54661|15|54661||02|023|5779|Rural|
+54667|Santiago|Barrio|Coyotepec|México||54661|15|54661||02|023|5781|Rural|
+54667|La Bolsa|Colonia|Coyotepec|México||54661|15|54661||09|023|7590|Rural|
+54667|Chautongo|Barrio|Coyotepec|México||54661|15|54661||02|023|5780|Rural|
+54668|Pueblo Nuevo|Barrio|Coyotepec|México||54661|15|54661||02|023|5785|Rural|
+54668|San Juan|Barrio|Coyotepec|México||54661|15|54661||02|023|5788|Rural|
+54668|Lomas de San Juan|Colonia|Coyotepec|México||54661|15|54661||09|023|8275|Urbano|

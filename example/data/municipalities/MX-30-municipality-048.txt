@@ -1,0 +1,75 @@
+96340|Ferrocarrilera|Ejido|Cosoleacaque|Veracruz de Ignacio de la Llave||96201|30|96201||15|048|3789|Rural|
+96342|San Francisco Tierra Nueva|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0009|Rural|
+96342|Monte Alto|Ranchería|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||29|048|3795|Rural|
+96343|Estero del Pantano|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||09|048|4125|Rural|
+96343|Residencial las Olas|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||21|048|7248|Rural|
+96343|Punta Verde|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||21|048|7877|Urbano|
+96343|Villas Ana María|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||21|048|7867|Urbano|
+96343|Las Palmas|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||21|048|0014|Rural|
+96343|Calzadas (Kilómetro 14)|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||09|048|4146|Rural|
+96343|El Paraíso|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||48|048|0003|Rural|
+96343|Canticas|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||09|048|4100|Rural|
+96343|El Kilómetro Diecisiete|Congregación|Cosoleacaque|Veracruz de Ignacio de la Llave||96401|30|96401||11|048|7499|Rural|
+96344|Kilómetro 25|Congregación|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||11|048|4147|Rural|
+96344|8 de Mayo|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4186|Rural|
+96344|7 de Mayo|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4206|Rural|
+96344|Las Rosas|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||21|048|4159|Rural|
+96344|La Oaxaqueña|Ejido|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||15|048|3792|Rural|
+96344|Nuevo Carrizal|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4183|Rural|
+96344|Jardines de las Flores 2000|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5302|Rural|
+96344|José F. Gutiérrez|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4145|Rural|
+96344|Agustin Melgar|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4085|Rural|
+96344|Agustin Melgar|Ampliación|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||38|048|5571|Rural|
+96344|Jacarandas|Unidad habitacional|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||31|048|4143|Rural|
+96344|Luis Donaldo Colosio|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4168|Rural|
+96344|Hato Nuevo|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0007|Urbano|
+96344|Carlos Salinas de Gortari|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4101|Rural|
+96344|Infonavit Paquital|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5298|Rural|
+96344|Encinal|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5572|Rural|
+96344|Corpal|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5574|Rural|
+96344|Azteca|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4090|Rural|
+96344|Francisco I. Madero|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5573|Rural|
+96345|La Esperanza|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4150|Rural|
+96345|Cerro Blanco|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0006|Rural|
+96345|Hibueras|Estación|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||16|048|3794|Rural|
+96345|Zacatal Victoria|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4217|Rural|
+96345|Barrancas (Buenos Aires)|Pueblo|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||28|048|3793|Rural|
+96345|La Bomba|Ejido|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||15|048|0001|Rural|
+96345|Buenos Aires|Congregación|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||11|048|7104|Rural|
+96346|Solidaridad El Naranjito|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|3796|Rural|
+96346|Encinos|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4124|Rural|
+96346|Hermenegildo J Aldana|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4135|Rural|
+96346|Arboledas|Unidad habitacional|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||31|048|5887|Rural|
+96346|Veracruz|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4212|Rural|
+96346|El Naranjo|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4120|Rural|
+96347|Minatitlán (Minatitlán)|Aeropuerto|Cosoleacaque|Veracruz de Ignacio de la Llave||96351|30|96351||01|048|3797|Rural|
+96347|Fernando G. Barrios|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96351|30|96351||09|048|4127|Rural|
+96347|Los Prados|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96351|30|96351||21|048|7292|Rural|
+96347|Paso la Lajilla|Pueblo|Cosoleacaque|Veracruz de Ignacio de la Llave||96351|30|96351||28|048|7511|Rural|
+96347|Chichonal|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96351|30|96351||09|048|7103|Rural|
+96347|San Antonio|Ejido|Cosoleacaque|Veracruz de Ignacio de la Llave||96351|30|96351||15|048|3800|Rural|
+96348|Los Limones|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||21|048|0012|Rural|
+96348|Gustavo Díaz Ordaz|Pueblo|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||28|048|3798|Rural|
+96348|Niños Héroes|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4178|Rural|
+96348|Esfera Del Pantano|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5218|Rural|
+96348|México|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5413|Rural|
+96349|Lomas de San Agustín|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||21|048|7584|Rural|
+96349|Loma de Achota|Ranchería|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||29|048|0004|Rural|
+96349|Lomas de Camalotal|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0008|Rural|
+96349|Los Arcos|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||21|048|0013|Rural|
+96349|Cascajal I|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0002|Rural|
+96349|Temoloapan|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0011|Rural|
+96349|Martin Lancero|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4172|Rural|
+96349|Villas del Vergel|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||21|048|0005|Rural|
+96349|Cajiapan|Rancho|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||48|048|0010|Rural|
+96349|San Pedro Mártir|Pueblo|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||28|048|3790|Semiurbano|
+96349|Coacotla|Ranchería|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||29|048|3799|Rural|
+96349|Los Mangos|Fraccionamiento|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||21|048|7346|Rural|
+96349|Sección 32|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|4204|Semiurbano|
+96349|Jardines del Bosque|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave||96701|30|96701||09|048|5222|Rural|
+96350|Cosoleacaque Centro|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave|Cosoleacaque|96351|30|96351||09|048|3788|Urbano|53
+96350|Rincón de la Colmena|Colonia|Cosoleacaque|Veracruz de Ignacio de la Llave|Cosoleacaque|96351|30|96351||09|048|7510|Rural|53
+96350|Primero|Barrio|Cosoleacaque|Veracruz de Ignacio de la Llave|Cosoleacaque|96351|30|96351||02|048|4921|Semiurbano|53
+96353|Segundo|Barrio|Cosoleacaque|Veracruz de Ignacio de la Llave|Cosoleacaque|96351|30|96351||02|048|4922|Semiurbano|53
+96357|Cuarto|Barrio|Cosoleacaque|Veracruz de Ignacio de la Llave|Cosoleacaque|96351|30|96351||02|048|4924|Semiurbano|53
+96358|Tercero|Barrio|Cosoleacaque|Veracruz de Ignacio de la Llave|Cosoleacaque|96351|30|96351||02|048|4923|Semiurbano|53

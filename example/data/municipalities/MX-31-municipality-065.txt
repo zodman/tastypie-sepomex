@@ -1,0 +1,5 @@
+97616|Puerto de San Felipe|Pueblo|San Felipe|Yucatán||97701|31|97701||28|065|0386|Rural|
+97616|San Felipe|Pueblo|San Felipe|Yucatán||97701|31|97701||28|065|0387|Rural|
+97617|Punta Bachul|Ejido|San Felipe|Yucatán||97701|31|97701||15|065|1382|Rural|
+97617|Punta Nichili|Ejido|San Felipe|Yucatán||97701|31|97701||15|065|1381|Rural|
+97618|Ejido San Felipe|Ejido|San Felipe|Yucatán||97701|31|97701||15|065|1383|Rural|

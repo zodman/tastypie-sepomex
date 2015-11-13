@@ -1,0 +1,30 @@
+54200|Polotitlán de la Ilustración|Pueblo|Polotitlán|México||54201|15|54201||28|071|2823|Rural|
+54203|Loma Bonita|Colonia|Polotitlán|México||54201|15|54201||09|071|8935|Urbano|
+54204|El Álamo|Colonia|Polotitlán|México||54201|15|54201||09|071|2820|Rural|
+54220|San Francisco Acaxuchitlantongo|Pueblo|Polotitlán|México||54201|15|54201||28|071|2829|Rural|
+54223|Ruano|Pueblo|Polotitlán|México||54201|15|54201||28|071|2824|Rural|
+54223|La Loma del Pino (Pachuquilla)|Ranchería|Polotitlán|México||54201|15|54201||29|071|8937|Rural|
+54224|Encinillas|Ejido|Polotitlán|México||54201|15|54201||15|071|2821|Rural|
+54225|San Isidro el Chico|Ranchería|Polotitlán|México||54201|15|54201||29|071|8707|Rural|
+54225|La Nave|Ranchería|Polotitlán|México||54201|15|54201||29|071|8704|Rural|
+54225|San Isidro|Ranchería|Polotitlán|México||54201|15|54201||29|071|8706|Rural|
+54225|Ranchito de Ruano|Ranchería|Polotitlán|México||54201|15|54201||29|071|8705|Rural|
+54225|San Isidrito|Ranchería|Polotitlán|México||54201|15|54201||29|071|8936|Rural|
+54226|San Antonio el Nuevo|Pueblo|Polotitlán|México||54201|15|54201||28|071|2827|Rural|
+54226|San Antonio el Viejo|Pueblo|Polotitlán|México||54201|15|54201||28|071|2828|Rural|
+54227|Cerro Gordo|Pueblo|Polotitlán|México||54201|15|54201||28|071|7330|Rural|
+54227|Estación Polotitlán (Casas Viejas)|Pueblo|Polotitlán|México||54201|15|54201||28|071|7329|Rural|
+54227|Satélite|Ranchería|Polotitlán|México||54201|15|54201||29|071|8709|Rural|
+54233|El Gavillero de la Trinidad (La Curva)|Pueblo|Polotitlán|México||54201|15|54201||28|071|7326|Rural|
+54233|La Magdalena|Ranchería|Polotitlán|México||54201|15|54201||29|071|7327|Rural|
+54234|Lázaro Cárdenas (San Rafael)|Barrio|Polotitlán|México||54201|15|54201||02|071|2822|Rural|
+54234|La Purísima (Buenavista)|Pueblo|Polotitlán|México||54201|15|54201||28|071|7328|Rural|
+54235|San Nicolás de los Cerritos|Pueblo|Polotitlán|México||54201|15|54201||28|071|2830|Rural|
+54235|San Antonio Polotitlán|Ranchería|Polotitlán|México||54201|15|54201||29|071|8708|Rural|
+54236|Taxhie|Pueblo|Polotitlán|México||54201|15|54201||28|071|2831|Rural|
+54236|San Antonio Escobedo|Pueblo|Polotitlán|México||54201|15|54201||28|071|2826|Rural|
+54236|Pueblo Nuevo|Ranchería|Polotitlán|México||54201|15|54201||29|071|8710|Rural|
+54237|Celayita (San José Celayita)|Colonia|Polotitlán|México||54201|15|54201||09|071|2819|Rural|
+54237|El Tesoro|Pueblo|Polotitlán|México||54201|15|54201||28|071|6886|Rural|
+54237|San Agustín el Cuervo|Pueblo|Polotitlán|México||54201|15|54201||28|071|2825|Rural|
+54239|San Antonio Escobedo Norte|Ranchería|Polotitlán|México||54201|15|54201||29|071|0001|Rural|

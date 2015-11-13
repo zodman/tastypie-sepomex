@@ -1,0 +1,96 @@
+76270|La Guanajuato|Barrio|Colón|Querétaro||76271|22|76271||02|005|1345|Urbano|
+76270|El Tepetate|Barrio|Colón|Querétaro||76271|22|76271||02|005|2471|Urbano|
+76270|San Antonio|Colonia|Colón|Querétaro||76271|22|76271||09|005|1351|Urbano|
+76270|El Arroyito|Barrio|Colón|Querétaro||76271|22|76271||02|005|2469|Urbano|
+76270|Soriano|Colonia|Colón|Querétaro||76271|22|76271||09|005|2339|Urbano|
+76270|El Cerrito|Colonia|Colón|Querétaro||76271|22|76271||09|005|1346|Urbano|
+76270|Los Laureanos|Barrio|Colón|Querétaro||76271|22|76271||02|005|1350|Urbano|
+76270|Las Fronteras|Barrio|Colón|Querétaro||76271|22|76271||02|005|1349|Urbano|
+76270|El Puertecito|Barrio|Colón|Querétaro||76271|22|76271||02|005|2470|Urbano|
+76270|Colón Centro|Colonia|Colón|Querétaro||76271|22|76271||09|005|0319|Urbano|
+76270|El Salitre|Barrio|Colón|Querétaro||76271|22|76271||02|005|1347|Urbano|
+76270|Las Crucitas|Pueblo|Colón|Querétaro||76271|22|76271||28|005|1348|Urbano|
+76270|Camino Real|Barrio|Colón|Querétaro||76271|22|76271||02|005|2468|Urbano|
+76272|El Álamo Cuate|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2473|Rural|
+76272|Tierra Adentro|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2452|Rural|
+76272|Tanquesitos|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2490|Rural|
+76272|El Cilguero (Pueblo Nuevo)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2496|Rural|
+76272|Peña Blanca|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2491|Rural|
+76272|El Fuenteño|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0322|Rural|
+76272|Los Trigos|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0323|Rural|
+76272|El Leoncito|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2478|Rural|
+76272|Ailitos|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2497|Rural|
+76273|Rancho San Antonio (Col. Álvaro Obregón)|Barrio|Colón|Querétaro||76271|22|76271||02|005|2455|Rural|
+76274|Ejido Patria|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2475|Rural|
+76274|Sauz Seco|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2489|Rural|
+76274|La Joya|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2477|Rural|
+76274|Puerto del Coyote|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2495|Rural|
+76274|El Coyote|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0324|Rural|
+76276|Casas Viejas|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2476|Rural|
+76276|El Poleo|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0328|Rural|
+76276|El Carrizal|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0327|Rural|
+76276|El Potrero|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0329|Rural|
+76276|Salitrera (Presa de la Soledad)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2483|Rural|
+76276|Santa María de Guadalupe (Santa Ma. del Mexicano)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2486|Rural|
+76276|La Concepción|Ranchería|Colón|Querétaro||76271|22|76271||29|005|3066|Rural|
+76277|El Saucillo|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0331|Rural|
+76277|Puerto de San Antonio|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0332|Rural|
+76277|Nuevo Álamos|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2474|Rural|
+76278|Parque Aeroespacial de Quéretaro|Parque industrial|Colón|Querétaro||76271|22|76271||26|005|2386|Rural|
+76278|Querétaro (Ing. Fernando Espinoza Gtz)|Aeropuerto|Colón|Querétaro||76271|22|76271||01|005|0006|Rural|
+76279|La Carbonera|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0333|Rural|
+76279|Zamorano|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0320|Rural|
+76280|Ajuchitlán|Pueblo|Colón|Querétaro||76271|22|76271||28|005|0334|Urbano|
+76280|San Martín|Pueblo|Colón|Querétaro||76271|22|76271||28|005|0335|Rural|
+76280|San Martín|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2461|Rural|
+76280|Centro (Ajuchitlán)|Colonia|Colón|Querétaro||76271|22|76271||09|005|2472|Urbano|
+76281|Puerta de Enmedio|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0336|Rural|
+76282|El Leoncito|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2494|Rural|
+76282|Los Quiotes|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0338|Rural|
+76282|Milpillas|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2453|Rural|
+76283|Peña Colorada|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0339|Rural|
+76283|El Mezote|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2482|Rural|
+76283|La Pila|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2481|Rural|
+76283|Vista Hermosa|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0340|Rural|
+76284|La Zorra|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0341|Rural|
+76284|Nogales|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0342|Rural|
+76286|Ejido Colón Fracción del Moral|Barrio|Colón|Querétaro||76271|22|76271||02|005|2454|Rural|
+76286|Nuevo Progreso|Colonia|Colón|Querétaro||76271|22|76271||09|005|2462|Rural|
+76286|El Lindero|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2442|Rural|
+76286|Nuevo Rumbo|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2218|Rural|
+76286|La Palmita|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2498|Rural|
+76286|Los Naranjos|Fraccionamiento|Colón|Querétaro||76271|22|76271||21|005|2465|Rural|
+76286|El Moral|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2467|Rural|
+76286|San Isidro|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0343|Rural|
+76288|San José la Peñuela (La Peñuela)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0345|Rural|
+76288|San Martín|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2485|Rural|
+76289|Esperanza|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0346|Rural|
+76290|Santa Rosa Finca|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2499|Rural|
+76290|Santa Rosa de Lima (Santa Rosa Poblado)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0348|Rural|
+76290|El Puente|Ranchería|Colón|Querétaro||76271|22|76271||29|005|3067|Rural|
+76290|El Gallo|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0347|Rural|
+76290|Ajuchitlán Sector Sur|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2463|Rural|
+76293|Palmas|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2492|Rural|
+76293|Tierra Dura|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2493|Rural|
+76293|Urecho|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0349|Rural|
+76294|San Vicente El Alto|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0350|Rural|
+76294|Ejido Purísima de Cubos|Barrio|Colón|Querétaro||76271|22|76271||02|005|2458|Rural|
+76294|San Francisco|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2484|Rural|
+76294|La Ponderosa|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2451|Rural|
+76294|San Vicente (San Vicente el Bajo)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2488|Rural|
+76295|Ejido San Ildefonso|Barrio|Colón|Querétaro||76271|22|76271||02|005|2459|Rural|
+76295|Ejido San Vicente el Alto Pozo Dos|Barrio|Colón|Querétaro||76271|22|76271||02|005|2460|Rural|
+76295|San Ildefonso|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0352|Rural|
+76295|Viborillas|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0353|Rural|
+76295|Santa María Nativitas|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2487|Rural|
+76295|Galeras|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0351|Rural|
+76295|Ampliación Galeras Oeste|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2464|Rural|
+76296|La Esperanza|Fraccionamiento|Colón|Querétaro||76271|22|76271||21|005|2456|Rural|
+76296|Ampliación el Blanco|Colonia|Colón|Querétaro||76271|22|76271||09|005|2466|Rural|
+76296|El Blanco|Pueblo|Colón|Querétaro||76271|22|76271||28|005|0354|Urbano|
+76296|Purísima de Cubos (La Purísima)|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2480|Rural|
+76296|Noria de Cubos|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0355|Rural|
+76297|Las Cenizas|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0356|Rural|
+76298|México Lindo|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0357|Rural|
+76299|Florisol|Ranchería|Colón|Querétaro||76271|22|76271||29|005|2457|Rural|
+76299|Los Benitos|Ranchería|Colón|Querétaro||76271|22|76271||29|005|0358|Rural|

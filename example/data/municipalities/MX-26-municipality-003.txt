@@ -1,0 +1,565 @@
+85760|Alamos Centro|Colonia|Alamos|Sonora||85763|26|85763||09|003|1394|Urbano|
+85764|La Estación|Colonia|Alamos|Sonora||85763|26|85763||09|003|3341|Urbano|
+85764|El Rastro|Colonia|Alamos|Sonora||85763|26|85763||09|003|8725|Rural|
+85764|5 de Febrero La Campana|Colonia|Alamos|Sonora||85763|26|85763||09|003|1950|Rural|
+85764|El Barranco|Colonia|Alamos|Sonora||85763|26|85763||09|003|1937|Rural|
+85764|Chula Vista|Colonia|Alamos|Sonora||85763|26|85763||09|003|8719|Rural|
+85764|Real de Minas|Colonia|Alamos|Sonora||85763|26|85763||09|003|8738|Rural|
+85764|Hacienda Vieja|Colonia|Alamos|Sonora||85763|26|85763||09|003|8727|Rural|
+85764|Las Delicias|Colonia|Alamos|Sonora||85763|26|85763||09|003|8731|Rural|
+85764|Olas Altas 4|Colonia|Alamos|Sonora||85763|26|85763||09|003|1938|Rural|
+85764|La Campana|Colonia|Alamos|Sonora||85763|26|85763||09|003|1949|Rural|
+85765|Loma de Guadalupe|Colonia|Alamos|Sonora||85763|26|85763||09|003|1940|Rural|
+85765|El Volantín|Colonia|Alamos|Sonora||85763|26|85763||09|003|8726|Rural|
+85765|Monte|Colonia|Alamos|Sonora||85763|26|85763||09|003|8734|Rural|
+85765|Tacubaya El Perico|Colonia|Alamos|Sonora||85763|26|85763||09|003|1939|Rural|
+85765|El Perico|Colonia|Alamos|Sonora||85763|26|85763||09|003|8724|Rural|
+85765|Las Higueras|Colonia|Alamos|Sonora||85763|26|85763||09|003|3331|Rural|
+85765|Blneario El Camuco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8718|Rural|
+85765|El Calvario|Colonia|Alamos|Sonora||85763|26|85763||09|003|8721|Rural|
+85765|La Colorada|Colonia|Alamos|Sonora||85763|26|85763||09|003|1941|Rural|
+85766|Los Guayparines|Colonia|Alamos|Sonora||85763|26|85763||09|003|1944|Rural|
+85766|El Chalatón|Colonia|Alamos|Sonora||85763|26|85763||09|003|8722|Rural|
+85766|Las Palmas|Colonia|Alamos|Sonora||85763|26|85763||09|003|8732|Rural|
+85766|Nuevo Álamos|Colonia|Alamos|Sonora||85763|26|85763||09|003|8737|Rural|
+85766|Churubusco|Colonia|Alamos|Sonora||85763|26|85763||09|003|8720|Rural|
+85766|Los Guayparines Sonochihua|Colonia|Alamos|Sonora||85763|26|85763||09|003|1945|Rural|
+85766|Real de los Álamos|Colonia|Alamos|Sonora||85763|26|85763||09|003|1943|Rural|
+85767|Nueva Creación|Colonia|Alamos|Sonora||85763|26|85763||09|003|8735|Rural|
+85767|La Esmeralda|Colonia|Alamos|Sonora||85763|26|85763||09|003|8729|Rural|
+85767|La Ladrillera|Colonia|Alamos|Sonora||85763|26|85763||09|003|8730|Rural|
+85767|DIF|Colonia|Alamos|Sonora||85763|26|85763||09|003|1942|Rural|
+85767|El Mezquital|Colonia|Alamos|Sonora||85763|26|85763||09|003|8723|Rural|
+85767|La Capilla|Colonia|Alamos|Sonora||85763|26|85763||09|003|1946|Rural|
+85767|Álamos 5 de Febrero|Colonia|Alamos|Sonora||85763|26|85763||09|003|1948|Rural|
+85767|La Aviación|Colonia|Alamos|Sonora||85763|26|85763||09|003|8728|Rural|
+85767|Los Vergeles|Colonia|Alamos|Sonora||85763|26|85763||09|003|8733|Rural|
+85767|5 de Febrero|Colonia|Alamos|Sonora||85763|26|85763||09|003|1947|Rural|
+85767|Álamo Dorado|Colonia|Alamos|Sonora||85763|26|85763||09|003|8716|Rural|
+85767|Nueva Esmeralda|Colonia|Alamos|Sonora||85763|26|85763||09|003|8736|Rural|
+85767|Nuevo Amanecer|Fraccionamiento|Alamos|Sonora||85763|26|85763||21|003|3371|Urbano|
+85767|Aurora|Colonia|Alamos|Sonora||85763|26|85763||09|003|8717|Rural|
+85770|Vado Cuate|Ejido|Alamos|Sonora||85763|26|85763||15|003|3322|Rural|
+85770|Agua Blanca|Poblado comunal|Alamos|Sonora||85763|26|85763||27|003|8744|Rural|
+85770|El Mezquital|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8854|Rural|
+85770|Gocojaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8914|Rural|
+85770|Goriego|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8916|Rural|
+85770|Jecopaco (San Antonio)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8932|Rural|
+85770|Los Valles|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9082|Rural|
+85770|Potrerillos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9113|Rural|
+85770|La Sauceda|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8991|Rural|
+85770|Los Encinitos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9062|Rural|
+85770|Nacapule|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9095|Rural|
+85770|Zacatemato|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9200|Rural|
+85770|Antonico|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8752|Rural|
+85770|Burapaquito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8769|Rural|
+85770|El Potrero|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8869|Rural|
+85770|El Sauz|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8891|Rural|
+85770|La Hortaliza|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8963|Rural|
+85770|Las Choyitas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9014|Rural|
+85770|Las Garzas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9017|Rural|
+85770|San Pedro|Ejido|Alamos|Sonora||85763|26|85763||15|003|9160|Rural|
+85770|Mexiquillo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1431|Rural|
+85770|Agua Blanca|Ejido|Alamos|Sonora||85763|26|85763||15|003|8743|Rural|
+85770|Charajaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8780|Rural|
+85770|Chinatopa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8785|Rural|
+85770|Cochuhuerito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8790|Rural|
+85770|El Charuco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8824|Rural|
+85770|Gochico Nuevo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8912|Rural|
+85770|La Caña|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8943|Rural|
+85770|La Concepción|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8951|Rural|
+85770|La Tribuna (Cuernavaca)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8997|Rural|
+85770|Las Güijas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9019|Rural|
+85770|Miramar|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9089|Rural|
+85770|Mochibampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9090|Rural|
+85770|Nahuibampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9096|Rural|
+85770|San Pablo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9155|Rural|
+85770|Techobampo|Congregación|Alamos|Sonora||85763|26|85763||11|003|1432|Rural|
+85770|Macoyahui|Congregación|Alamos|Sonora||85763|26|85763||11|003|1437|Rural|
+85770|Agua Blanca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8742|Rural|
+85770|Bacajaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8757|Rural|
+85770|Buenavista|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8768|Rural|
+85770|Chacari|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8779|Rural|
+85770|Chinahuiro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8783|Rural|
+85770|Guayparín|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8926|Rural|
+85770|La Junta|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8969|Rural|
+85770|Las Ánimas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9008|Rural|
+85770|Las Lajas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9021|Rural|
+85770|Los Barrancos Colorados|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9051|Rural|
+85770|Los Jicotes|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9067|Rural|
+85770|San Juan|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9149|Rural|
+85770|Satajaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9173|Rural|
+85770|Setajaqui (Setajaqui del Río)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9175|Rural|
+85770|Tepara|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9184|Rural|
+85770|Todos Santos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9191|Rural|
+85770|San Bernardo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1435|Rural|
+85770|El Centro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8820|Rural|
+85770|El Chalate|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8822|Rural|
+85770|El Tuburi|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8902|Rural|
+85770|Guajaray|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8922|Rural|
+85770|Guataturi|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8924|Rural|
+85770|La Chuna|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8946|Rural|
+85770|La Independencia|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8968|Rural|
+85770|La Ventana|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9000|Rural|
+85770|Los Coyotes|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9060|Rural|
+85770|Los Ganchos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9065|Rural|
+85770|Mesa Colorada|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9086|Rural|
+85770|Paraje Colorado|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9105|Rural|
+85770|San Pedro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9159|Rural|
+85770|Tecoripa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9183|Rural|
+85770|Tojibampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9192|Rural|
+85770|Burapaco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1433|Rural|
+85770|Aguaje del Chino|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8751|Rural|
+85770|Bavícora|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8763|Rural|
+85770|Campo Nuevo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8775|Rural|
+85770|Cuchuhueri|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8796|Rural|
+85770|El Coso|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8837|Rural|
+85770|La Esperanza (Testapochi)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8960|Rural|
+85770|Los Algodones|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9047|Rural|
+85770|Los Becerros|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9054|Rural|
+85770|Los Estrados|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9064|Rural|
+85770|Los Molinos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9077|Rural|
+85770|Mascuragüi|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9085|Rural|
+85770|Rancho Nuevo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9123|Rural|
+85770|Rancho Viejo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9128|Rural|
+85770|Aquinavo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8753|Rural|
+85770|Chorijoa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8788|Rural|
+85770|El Tepehuaje|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8897|Rural|
+85770|El Terrero|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8899|Rural|
+85770|Jobegüi|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8933|Rural|
+85770|La Noria|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8983|Rural|
+85770|La Pionia|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8988|Rural|
+85770|La Toma de Agua|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8996|Rural|
+85770|Las Panelas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9029|Rural|
+85770|Loma del Sabino|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9045|Rural|
+85770|Los Mezcales|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9074|Rural|
+85770|Sejaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9174|Rural|
+85770|Topiyeca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9194|Rural|
+85773|El Tabelo (San José del Tabelo)|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1401|Rural|
+85773|Los Tanques|Congregación|Alamos|Sonora||85763|26|85763||11|003|1444|Rural|
+85773|Nuevo Piedras Verdes|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1445|Rural|
+85773|Campo 24-A|Ejido|Alamos|Sonora||85763|26|85763||15|003|3353|Rural|
+85773|Osobampo|Ejido|Alamos|Sonora||85763|26|85763||15|003|3360|Rural|
+85773|El Alamillo (Las Pitahayitas)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8805|Rural|
+85773|El Chiflido|Ejido|Alamos|Sonora||85763|26|85763||15|003|8829|Rural|
+85773|El Chupadero|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8833|Rural|
+85773|El Copas (La Noria)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8835|Rural|
+85773|El Porvenir|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8868|Rural|
+85773|El Ranchito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8874|Rural|
+85773|El Rincón|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8881|Rural|
+85773|El Tabelito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8893|Rural|
+85773|La Casita|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8945|Rural|
+85773|La Huerta|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8964|Rural|
+85773|La Noria|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8982|Rural|
+85773|San Andrés|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9138|Rural|
+85773|Santa Ana|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9166|Rural|
+85773|Tabelojaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9179|Rural|
+85773|Tres Marías (Bachoco 3261)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9196|Rural|
+85773|Minas Nuevas|Congregación|Alamos|Sonora||85763|26|85763||11|003|1397|Rural|
+85773|Yoricarichic|Ejido|Alamos|Sonora||85763|26|85763||15|003|3351|Rural|
+85773|El Rincón Viejo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8883|Rural|
+85773|General Francisco Villa División del Norte|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8909|Rural|
+85773|Guadalupe (Los Encinos)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8921|Rural|
+85773|La Higuera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8962|Rural|
+85773|Las Salvias|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9034|Rural|
+85773|Margarita Valenzuela|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9084|Rural|
+85773|Mochomobampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9091|Rural|
+85773|San Ramón (El Mezquital)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9163|Rural|
+85773|Tres Marías (Bachoco 3262)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9197|Rural|
+85773|El Guamúchil|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1400|Rural|
+85773|La Higuera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1402|Rural|
+85773|San Antonio del Cupis|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1436|Rural|
+85773|Agua Tapada|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8749|Rural|
+85773|El Garabato (Los Dos Hermanos)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8844|Rural|
+85773|El Peñasco Blanco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8866|Rural|
+85773|Joconas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8934|Rural|
+85773|La Huerta de los Ricos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8965|Rural|
+85773|Los Arenales|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9050|Rural|
+85773|San Isidro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9147|Rural|
+85773|Santa Amalia (El Toro)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9165|Rural|
+85773|Tasajera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9180|Rural|
+85773|Las Minitas|Congregación|Alamos|Sonora||85763|26|85763||11|003|1434|Rural|
+85773|El Mocézarit (Conicárit)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1442|Rural|
+85773|El Aguajito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8804|Rural|
+85773|El Cerco de Boon|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8821|Rural|
+85773|Genex (Las Gemelas)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8910|Rural|
+85773|La Ladrillera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8972|Rural|
+85773|La Lechería|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8974|Rural|
+85773|La Pasadita (Tres Marías)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8987|Rural|
+85773|Las Uvalamas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9040|Rural|
+85773|Los Bustillos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9056|Rural|
+85773|Los Mezcales|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9072|Rural|
+85773|Los Mezcales|Ejido|Alamos|Sonora||85763|26|85763||15|003|9073|Rural|
+85773|Presa de Denís|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9118|Rural|
+85773|San Antonio de los López|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9142|Rural|
+85773|Tres Marías (Bachoco 3263)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9198|Rural|
+85773|Buenavista|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8767|Rural|
+85773|Casas Coloradas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8778|Rural|
+85773|El Dátil|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8839|Rural|
+85773|El Guacaporo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8848|Rural|
+85773|El Palomar (Cañada)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8860|Rural|
+85773|El Paredón Blanco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8864|Rural|
+85773|El Retiro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8879|Rural|
+85773|El Tepustete|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8898|Rural|
+85773|Gran Chaparrón|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8917|Rural|
+85773|La Cabaña|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8941|Rural|
+85773|La Cuchilla|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8953|Rural|
+85773|La Noria del Naranjo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8985|Rural|
+85773|Las Pitahayitas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9031|Rural|
+85773|Los Sonogoris|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9081|Rural|
+85773|Presa de Corrales|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9117|Rural|
+85773|Agua Tapada|Ejido|Alamos|Sonora||85763|26|85763||15|003|8750|Rural|
+85773|Campamento de la CFE|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8773|Rural|
+85773|El Chicural (Aniceto)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8827|Rural|
+85773|El Chiflido (El Chicural)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8830|Rural|
+85773|El Tezal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8900|Rural|
+85773|La Cuarentenaria|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8952|Rural|
+85773|San Antonio|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9140|Rural|
+85773|San Pedro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9157|Rural|
+85773|Santa Cruz|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9169|Rural|
+85773|Tres Marías|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9195|Rural|
+85773|El Chato|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8825|Rural|
+85773|El Churubusco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8834|Rural|
+85773|El Papalote|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8863|Rural|
+85773|El Puente|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8871|Rural|
+85773|Guadalupe|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8919|Rural|
+85773|La Reforma|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8990|Rural|
+85773|Los Güicos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9066|Rural|
+85773|Minas Nuevas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9088|Rural|
+85773|Roberto Valenzuela|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9129|Rural|
+85773|San Agustín de la Palma|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9136|Rural|
+85773|San Pedro|Ejido|Alamos|Sonora||85763|26|85763||15|003|9158|Rural|
+85773|Campamento de la Comisión Nacional del Agua|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8774|Rural|
+85773|El Campamento Viejo de la CNA|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8816|Rural|
+85773|El Carrizal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8818|Rural|
+85773|El Centro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8819|Rural|
+85773|El Chiflido|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8828|Rural|
+85773|El Gringo (Cerro Blanco)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8847|Rural|
+85773|El Ranchito|Ejido|Alamos|Sonora||85763|26|85763||15|003|8875|Rural|
+85773|El Rincón|Ejido|Alamos|Sonora||85763|26|85763||15|003|8882|Rural|
+85773|El Vado|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8903|Rural|
+85773|General Francisco Villa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8908|Rural|
+85773|La Tinajera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8995|Rural|
+85773|La Zata|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9003|Rural|
+85773|Las Cebollas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9012|Rural|
+85773|Los Cuates|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9061|Rural|
+85773|Mética|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9087|Rural|
+85773|San Vicente (La Discordia)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9164|Rural|
+85773|Sobia|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9177|Rural|
+85773|Campamento las Casitas (El Mocúzarit)|Congregación|Alamos|Sonora||85763|26|85763||11|003|1438|Rural|
+85773|La Vinata|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1440|Rural|
+85773|Agua Salada|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8748|Rural|
+85774|Cuchuhuari|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8795|Rural|
+85774|Huicochic|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8928|Rural|
+85774|La Bebelama|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8940|Rural|
+85774|Las Burras|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9009|Rural|
+85774|Los Amoles|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9048|Rural|
+85774|El Naranjo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8858|Rural|
+85774|San Antonio|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9139|Rural|
+85774|El Sabino|Congregación|Alamos|Sonora||85763|26|85763||11|003|1408|Rural|
+85774|El Frijol|Ejido|Alamos|Sonora||85763|26|85763||15|003|1439|Rural|
+85774|La Tescalama|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1443|Rural|
+85774|El Infiernito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8852|Rural|
+85774|El Reventón|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8880|Rural|
+85774|El Vado|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8904|Rural|
+85774|La Batea|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8939|Rural|
+85774|La Laguna|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8973|Rural|
+85774|Los Otates|Ejido|Alamos|Sonora||85763|26|85763||15|003|9080|Rural|
+85774|Sahuarivo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9135|Rural|
+85774|San Rafael|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9161|Rural|
+85774|Santa Rosa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9172|Rural|
+85774|Vinatería|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9199|Rural|
+85774|Cochibampo|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1399|Rural|
+85774|El Potrero|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1407|Rural|
+85774|Agua Fría|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8745|Rural|
+85774|El Bebedero|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8812|Rural|
+85774|La Cañada del Agua|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8944|Rural|
+85774|La Cuchilla|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8954|Rural|
+85774|La Mezcalera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8977|Rural|
+85774|Pie de la Cuesta|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9108|Rural|
+85774|Taymuco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9182|Rural|
+85774|Tepopa|Ejido|Alamos|Sonora||85763|26|85763||15|003|9186|Rural|
+85774|Los Camotes (San José del Palmar)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1441|Rural|
+85774|Corogüi|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8793|Rural|
+85774|El Chirivo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8832|Rural|
+85774|El Ojo de Agua|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8859|Rural|
+85774|El Trigo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8901|Rural|
+85774|Gochico Viejo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8913|Rural|
+85774|Las Canoas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9011|Rural|
+85774|Las Viruelas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9044|Rural|
+85774|Táscate|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9181|Rural|
+85774|Chinajaque|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8784|Rural|
+85774|La Noria|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8981|Rural|
+85774|Las Ánimas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9007|Rural|
+85774|Tetacora|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9187|Rural|
+85774|El Guajolote|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8849|Rural|
+85774|El Sabinal (Arroyo Grande)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8885|Rural|
+85774|Jurinavo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8936|Rural|
+85774|Las Cuevas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9016|Rural|
+85774|Los Otates|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9079|Rural|
+85774|Munihuasa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9093|Rural|
+85774|Palo Verde|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9102|Rural|
+85774|San Rafael del Sabino (El Sabinito)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9162|Rural|
+85774|Santa Bárbara|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9168|Rural|
+85774|Agua Salada|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8747|Rural|
+85774|Cieneguita|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8789|Rural|
+85774|Guadalupe|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8920|Rural|
+85774|La Mojonera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8979|Rural|
+85774|La Vinatería|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9001|Rural|
+85774|Las Vinoramas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9043|Rural|
+85774|Los Llanos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9069|Rural|
+85774|Ojo Prieto|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9099|Rural|
+85774|Román Yocupicio (El Ranchito)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9130|Rural|
+85774|San Francisco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9144|Rural|
+85774|San José|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9148|Rural|
+85774|Sotorijaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9178|Rural|
+85774|Tepopa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9185|Rural|
+85775|Potrero de Alcántar|Congregación|Alamos|Sonora||85763|26|85763||11|003|1410|Rural|
+85775|El Maquipo|Congregación|Alamos|Sonora||85763|26|85763||11|003|1420|Rural|
+85775|La Cieneguita|Ejido|Alamos|Sonora||85763|26|85763||15|003|3350|Rural|
+85775|Guamuchilito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8923|Rural|
+85775|Jamochihuasa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8931|Rural|
+85775|Las Algarrobas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9004|Rural|
+85775|Las Plomosas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9032|Rural|
+85775|Potrero de Reuter|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9114|Rural|
+85775|San Pedro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9156|Rural|
+85775|La Labor de Santa Lucía (El Mezquital)|Ejido|Alamos|Sonora||85763|26|85763||15|003|3380|Rural|
+85775|Barumico|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8761|Rural|
+85775|El Cajón del Sabino (El Cajón)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8814|Rural|
+85775|El Cajoncito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8815|Rural|
+85775|El Tepehuaje|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8896|Rural|
+85775|La Concepción|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8950|Rural|
+85775|La Majada|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8975|Rural|
+85775|La Mina de la Cruz|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8978|Rural|
+85775|Los Mimbres (El Pinito)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9076|Rural|
+85775|Potrerillos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9112|Rural|
+85775|San Miguel|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9152|Rural|
+85775|Santa Fe|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9170|Rural|
+85775|La Labor Grande|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8970|Rural|
+85775|La Tinaja|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8994|Rural|
+85775|Las Lajas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9020|Rural|
+85775|Los Brasiles|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9055|Rural|
+85775|Palmarito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9100|Rural|
+85775|Huirocoba|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1409|Rural|
+85775|Agua Blanca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8741|Rural|
+85775|Buenavista|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8766|Rural|
+85775|El Taray|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8895|Rural|
+85775|La Zata|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9002|Rural|
+85775|El Mezquital|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1396|Rural|
+85775|El Zapote|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1421|Rural|
+85775|Choquinahui (El Cobre)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8787|Rural|
+85775|El Frijol|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8843|Rural|
+85775|El Guayabo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8851|Rural|
+85775|Arroyo Hondo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8756|Rural|
+85775|El Encino|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8841|Rural|
+85775|El Reparo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8878|Rural|
+85775|El Rodeo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8884|Rural|
+85775|El Sombrerito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8892|Rural|
+85775|Las Mojarras|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9026|Rural|
+85775|Las Sardinas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9035|Rural|
+85775|Palos Chinos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9103|Rural|
+85775|Agua Caliente de Antero (Agua Caliente)|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1404|Rural|
+85775|Baboyahui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1405|Rural|
+85775|El Cajón|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1406|Rural|
+85775|La Palma|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8986|Rural|
+85775|La Presa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8989|Rural|
+85775|La Soledad|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8993|Rural|
+85775|Las Tablas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9037|Rural|
+85775|El Guamuchil|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1419|Rural|
+85775|La Quintera|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1422|Rural|
+85775|El Baiquillo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8810|Rural|
+85775|El Maquipito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8853|Rural|
+85775|El Sauce|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8889|Rural|
+85775|Fundición|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8907|Rural|
+85775|Gocopiro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8915|Rural|
+85775|Las Cuevas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9015|Rural|
+85775|Los Llanos de Benito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9070|Rural|
+85775|Paparique|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9104|Rural|
+85775|Puerta de Mano|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9120|Rural|
+85775|La Laborcita|Ejido|Alamos|Sonora||85763|26|85763||15|003|3379|Rural|
+85775|El Borbollón|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8813|Rural|
+85775|El Mirasol|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8855|Rural|
+85775|El Sabino Grande (El Sabino)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8887|Rural|
+85775|Palo Injerto|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9101|Rural|
+85775|Sabinito Sur|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9134|Rural|
+85775|San Pablo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9154|Rural|
+85776|La Aduana|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1395|Rural|
+85776|La Isleta|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1412|Rural|
+85776|Bachaca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8759|Rural|
+85776|California (Santa Mónica)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8771|Rural|
+85776|Chícoras|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8781|Rural|
+85776|El Potrillo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8870|Rural|
+85776|La Cieneguilla|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8948|Rural|
+85776|Las Lomas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9023|Rural|
+85776|Los Josos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9068|Rural|
+85776|Dolisa (Presa el Veranito)|Congregación|Alamos|Sonora||85763|26|85763||11|003|1398|Rural|
+85776|Yocojigua|Hacienda|Alamos|Sonora||85763|26|85763||24|003|1416|Rural|
+85776|El Veranito|Ejido|Alamos|Sonora||85763|26|85763||15|003|2784|Rural|
+85776|Bachaca|Ejido|Alamos|Sonora||85763|26|85763||15|003|8760|Rural|
+85776|Ejido Severino Ceniceros (Cerro Pelón)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8802|Rural|
+85776|El Gran Chaparral|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8846|Rural|
+85776|El Porvenir|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8867|Rural|
+85776|Huirubampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8930|Rural|
+85776|La Escondida|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8958|Rural|
+85776|La Sierrita|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8992|Rural|
+85776|Las Rastras|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9033|Rural|
+85776|Las Viguitas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9042|Rural|
+85776|San Manuel|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9150|Rural|
+85776|San Nicolás|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9153|Rural|
+85776|Tobari|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9190|Rural|
+85776|Abachapa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8740|Rural|
+85776|Cuchujaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8797|Rural|
+85776|El Aguaje|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8803|Rural|
+85776|El Caracol|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8817|Rural|
+85776|El Dátil|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8838|Rural|
+85776|El Guasimal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8850|Rural|
+85776|El Sauce|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8890|Rural|
+85776|Juchica|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8935|Rural|
+85776|Las Norias|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9027|Rural|
+85776|Las Uvalamas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9038|Rural|
+85776|Los Mezquitos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9075|Rural|
+85776|Nasubampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9097|Rural|
+85776|Agua Nueva|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8746|Rural|
+85776|Argentina|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8754|Rural|
+85776|Compostela de las Amapas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8791|Rural|
+85776|Dos Hermanos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8801|Rural|
+85776|El Eucalipto|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8842|Rural|
+85776|El Palomo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8861|Rural|
+85776|La Ladrillera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8971|Rural|
+85776|Las Chicuritas (Agua Cercada)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9013|Rural|
+85776|Nacapul|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9094|Rural|
+85776|Predio Santa Anita|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9116|Rural|
+85776|Rancherías|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9121|Rural|
+85776|San Antonio de los González|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9141|Rural|
+85776|Tetacruz|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9188|Rural|
+85776|Crianza (Bachoco 3264)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8794|Rural|
+85776|El Babójori|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8809|Rural|
+85776|El Garambullo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8845|Rural|
+85776|El Molino|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8856|Rural|
+85776|Las Mercedes|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9025|Rural|
+85776|Paredones|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9107|Rural|
+85776|Piedras Blancas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9110|Rural|
+85776|Rancho Jayze|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9122|Rural|
+85776|Batarimocha|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8762|Rural|
+85776|La Mesa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8976|Rural|
+85776|La Urraca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8998|Rural|
+85776|Las Cabras|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9010|Rural|
+85776|Las Uvalamas|Ejido|Alamos|Sonora||85763|26|85763||15|003|9039|Rural|
+85776|Los Encinos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9063|Rural|
+85776|Maranatha (Argentina)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9083|Rural|
+85776|Monterrey (Bachoco 3265)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9092|Rural|
+85776|Piedras Blancas|Ejido|Alamos|Sonora||85763|26|85763||15|003|9111|Rural|
+85776|Cuesta Blanca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8798|Rural|
+85776|El Amapal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8806|Rural|
+85776|El Barazón|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8811|Rural|
+85776|El Chíchal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8826|Rural|
+85776|El Divisadero (El Mezquite Cuate)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8840|Rural|
+85776|La Haciendita|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8961|Rural|
+85776|Las Amapas [Agropecuaria]|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9005|Rural|
+85776|Las Víboras|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9041|Rural|
+85776|Pozo Viejo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9115|Rural|
+85776|Rancho Viejo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9127|Rural|
+85776|San Martín|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9151|Rural|
+85776|Santa Anita|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9167|Rural|
+85776|Tojibampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1415|Rural|
+85776|Arnoldo Acosta|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8755|Rural|
+85776|El Corcovado|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8836|Rural|
+85776|El Nacapul|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8857|Rural|
+85776|El Papalote|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8862|Rural|
+85776|El Puerto|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8872|Rural|
+85776|El Ranchito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8873|Rural|
+85776|La Aceituna|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8937|Rural|
+85776|La Uvalama|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8999|Rural|
+85776|Las Lajitas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9022|Rural|
+85776|Rancho Piedras Blancas (La Presa)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9124|Rural|
+85776|San Alfonso (La Pasadita)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9137|Rural|
+85776|Tetagiosa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9189|Rural|
+85777|Gerocoa Chico (Gerocoa)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1411|Rural|
+85777|Bacamaya|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8758|Rural|
+85777|Chino Gordo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8786|Rural|
+85777|Las Ánimas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9006|Rural|
+85777|Las Mayas (La Granadita)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9024|Rural|
+85777|Los Carneros|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9059|Rural|
+85777|Rancho Viejo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9126|Rural|
+85777|San Ignacio|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9145|Rural|
+85777|21 de Marzo Uno|Ejido|Alamos|Sonora||85763|26|85763||15|003|8739|Rural|
+85777|Daniel Morales|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8800|Rural|
+85777|El Chapote|Poblado comunal|Alamos|Sonora||85763|26|85763||27|003|8823|Rural|
+85777|Guayparín (Guayparime)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8927|Rural|
+85777|La Escondida|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8957|Rural|
+85777|La Noria (Toribampo)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8984|Rural|
+85777|Los Capomos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9057|Rural|
+85777|El Carrizal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1424|Rural|
+85777|Tapizuelas|Congregación|Alamos|Sonora||85763|26|85763||11|003|1427|Rural|
+85777|El Chino (San Antonio de los Chinos)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1429|Rural|
+85777|Las Campas|Ejido|Alamos|Sonora||85763|26|85763||15|003|3354|Rural|
+85777|Belduque|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8764|Rural|
+85777|Chihuahua|Ejido|Alamos|Sonora||85763|26|85763||15|003|8782|Rural|
+85777|El Chilar|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8831|Rural|
+85777|Francisco Solís|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8906|Rural|
+85777|La Ciénega|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8947|Rural|
+85777|La Cuesta del Carrizal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8956|Rural|
+85777|Las Guásimas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9018|Rural|
+85777|Las Sisas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9036|Rural|
+85777|Los Alamillos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9046|Rural|
+85777|Los Batequis|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9052|Rural|
+85777|Noria del Jacal|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9098|Rural|
+85777|Rosarito Uno|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9133|Rural|
+85777|Cerro Colorado (El Colorado)|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1417|Rural|
+85777|21 de Marzo|Poblado comunal|Alamos|Sonora||85763|26|85763||27|003|3314|Rural|
+85777|El Ave Negra Dos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8807|Rural|
+85777|El Sabino|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8886|Rural|
+85777|El Salitral|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8888|Rural|
+85777|El Tacuache|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8894|Rural|
+85777|Huiquibampo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8929|Rural|
+85777|La Bandera|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8938|Rural|
+85777|La Camilla|Poblado comunal|Alamos|Sonora||85763|26|85763||27|003|8942|Rural|
+85777|La Cuesta|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8955|Rural|
+85777|La Iguana Sur (El Coyote)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8967|Rural|
+85777|Los Arbolitos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9049|Rural|
+85777|Los Mautos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9071|Rural|
+85777|Rosarito|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9131|Rural|
+85777|Las Flores (Gerocoa)|Ejido|Alamos|Sonora||85763|26|85763||15|003|1413|Rural|
+85777|San Vicente|Pueblo|Alamos|Sonora||85763|26|85763||28|003|1414|Rural|
+85777|Anáhuac|Ejido|Alamos|Sonora||85763|26|85763||15|003|2259|Rural|
+85777|Capitahuasa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8776|Rural|
+85777|Cuesta de Manojaqui|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8799|Rural|
+85777|El Remudadero|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8877|Rural|
+85777|Guayparín|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8925|Rural|
+85777|La Esperanza|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8959|Rural|
+85777|Los Norotes|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9078|Rural|
+85777|Providencia|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9119|Rural|
+85777|Los Muertos|Hacienda|Alamos|Sonora||85763|26|85763||24|003|1426|Rural|
+85777|Bellavista|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8765|Rural|
+85777|California (La Asina)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8770|Rural|
+85777|California (Sector Cuatro)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8772|Rural|
+85777|El Ave Negra I|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8808|Rural|
+85777|Francisco R. Serrano|Ejido|Alamos|Sonora||85763|26|85763||15|003|8905|Rural|
+85777|Las Pilas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9030|Rural|
+85777|Paredón|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9106|Rural|
+85777|Piedras Blancas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9109|Rural|
+85777|Tonomino|Poblado comunal|Alamos|Sonora||85763|26|85763||27|003|9193|Rural|
+85777|El Paso|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8865|Rural|
+85777|Gerocoa Chico (Las Flores)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8911|Rural|
+85777|La Colorada|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8949|Rural|
+85777|Los Bebederos (La Granada)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9053|Rural|
+85777|Rancho Seco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9125|Rural|
+85777|Rosarito Dos|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9132|Rural|
+85777|San Isidro|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9146|Rural|
+85777|Santa Rosa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9171|Rural|
+85777|El Chinal|Congregación|Alamos|Sonora||85763|26|85763||11|003|1418|Rural|
+85777|Basiroa|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1423|Rural|
+85777|El Salado|Congregación|Alamos|Sonora||85763|26|85763||11|003|1425|Rural|
+85777|Los Citahuis|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1428|Rural|
+85777|La Providencia|Ranchería|Alamos|Sonora||85763|26|85763||29|003|1430|Rural|
+85777|La Gacela|Ranchería|Alamos|Sonora||85763|26|85763||29|003|3386|Rural|
+85777|Casanate|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8777|Rural|
+85777|Conisaca|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8792|Rural|
+85777|El Recodo|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8876|Rural|
+85777|Guadalupe|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8918|Rural|
+85777|La Iguana (La Iguana Norte)|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8966|Rural|
+85777|La Noria|Ranchería|Alamos|Sonora||85763|26|85763||29|003|8980|Rural|
+85777|Las Pailas|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9028|Rural|
+85777|Los Capomos|Ejido|Alamos|Sonora||85763|26|85763||15|003|9058|Rural|
+85777|San Francisco|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9143|Rural|
+85777|Sivilimora|Ranchería|Alamos|Sonora||85763|26|85763||29|003|9176|Rural|

@@ -1,0 +1,29 @@
+71220|San Sebastián|Barrio|Santa María Atzompa|Oaxaca||68005|20|68005||02|399|3909|Urbano|
+71220|Ampliación Progreso|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|4063|Rural|
+71220|Odisea|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|3795|Urbano|
+71220|San Jerónimo Yahuiche|Pueblo|Santa María Atzompa|Oaxaca||68005|20|68005||28|399|4064|Urbano|
+71220|Yahuiche|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|4713|Urbano|
+71220|Jardines de Yahuiche|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|3914|Rural|
+71220|Cantores|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|4712|Rural|
+71220|Semblanza Oaxaqueña|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|3793|Urbano|
+71220|Santa Cruz|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|4896|Urbano|
+71220|Los Cantaros|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|4966|Urbano|
+71220|Santa Maria Atzompa|Pueblo|Santa María Atzompa|Oaxaca||68005|20|68005||28|399|2772|Urbano|
+71222|La Cañada|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|1070|Urbano|
+71222|Niños Héroes|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|3797|Rural|
+71222|Guelaguetza|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|0026|Urbano|
+71222|Oaxaca|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|1090|Urbano|
+71222|Santa María|Ejido|Santa María Atzompa|Oaxaca||68005|20|68005||15|399|4062|Rural|
+71222|Los Girasoles|Residencial|Santa María Atzompa|Oaxaca||68005|20|68005||30|399|4923|Urbano|
+71222|La Samaritana|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|0023|Urbano|
+71222|Residencial Denali|Residencial|Santa María Atzompa|Oaxaca||68005|20|68005||30|399|4956|Urbano|
+71222|Forestal|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|0025|Urbano|
+71222|Paraje la Asunción|Ejido|Santa María Atzompa|Oaxaca||68005|20|68005||15|399|4137|Rural|
+71223|Alfareros|Conjunto habitacional|Santa María Atzompa|Oaxaca||68005|20|68005||12|399|0001|Rural|
+71223|Santa Catarina Montaño|Pueblo|Santa María Atzompa|Oaxaca||68005|20|68005||28|399|2775|Urbano|
+71223|Ex-Hacienda la Soledad|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|4716|Urbano|
+71223|Residencial Santa María|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|4715|Urbano|
+71223|Riberas de San Jerónimo|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|4364|Rural|
+71223|San José Hidalgo|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|4717|Urbano|
+71223|Lomas de San Jerónimo|Fraccionamiento|Santa María Atzompa|Oaxaca||68005|20|68005||21|399|4714|Urbano|
+71223|Montealbán|Colonia|Santa María Atzompa|Oaxaca||68005|20|68005||09|399|4135|Urbano|

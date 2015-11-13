@@ -1,0 +1,21 @@
+71330|San Pablo Cuatro Venados|Pueblo|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||28|292|2828|Rural|
+71333|Benito Juárez|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0001|Rural|
+71333|Río Minas|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0017|Rural|
+71333|Río Jalapilla|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|4602|Rural|
+71333|Rebollero|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0016|Rural|
+71333|El Esponjado|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0002|Rural|
+71333|San Cristóbal|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0018|Rural|
+71334|El Moral|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0004|Rural|
+71334|El Poleo|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0005|Rural|
+71334|Llano Manteca|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0012|Rural|
+71334|Mina Ruina|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0013|Rural|
+71334|Santa Bárbara|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0019|Rural|
+71334|La Cumbre Clavellinas|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0007|Rural|
+71334|Ojo de Agua|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0014|Rural|
+71334|La Nevería|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0009|Rural|
+71334|La Plazuelita|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0010|Rural|
+71334|El Magueyal|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0003|Rural|
+71334|El Zacatán|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0006|Rural|
+71334|La Herradura|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0008|Rural|
+71334|Llano del Toro|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0011|Rural|
+71334|Piedra Blanca|Ranchería|San Pablo Cuatro Venados|Oaxaca||71311|20|71311||29|292|0015|Rural|

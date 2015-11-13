@@ -1,0 +1,256 @@
+23400|San José del Cabo Centro|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0190|Urbano|04
+23403|La Choya INFONAVIT|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0595|Urbano|04
+23403|La Playita|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0644|Urbano|04
+23403|San Vicente|Barrio|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||02|008|0594|Urbano|04
+23403|La Playa|Ranchería|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||29|008|0223|Urbano|04
+23405|El Chamizal|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0203|Urbano|04
+23405|La Joya de los Cabos|Conjunto habitacional|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||12|008|0647|Urbano|04
+23405|El Tule|Residencial|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||30|008|0906|Urbano|04
+23405|Zona Hotelera San José del Cabo|Zona comercial|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||33|008|0645|Urbano|04
+23405|Miconos|Conjunto habitacional|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||12|008|0648|Urbano|04
+23405|Trailers Park|Campamento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||04|008|0651|Urbano|04
+23405|Magisterial|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0907|Urbano|04
+23405|Cabo Real|Conjunto habitacional|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||12|008|0646|Urbano|04
+23405|Mañanitas|Conjunto habitacional|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||12|008|0650|Urbano|04
+23405|Costa Brava|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0839|Urbano|04
+23405|Coral Baja|Conjunto habitacional|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||12|008|0649|Urbano|04
+23405|Lomas del Tule|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0905|Urbano|04
+23406|8 de Octubre|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0197|Urbano|04
+23406|Club de Golf Residencial|Club de golf|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||39|008|0198|Urbano|04
+23406|Cerro del Vigía|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0709|Urbano|04
+23406|Costa Azul|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0625|Urbano|04
+23406|5 de Febrero|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0200|Urbano|04
+23406|Palmillas|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0627|Urbano|04
+23406|Villas de La Joya|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0708|Urbano|04
+23406|Gringos Hill|Condominio|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||10|008|0626|Urbano|04
+23406|Lomas de La Joya|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0707|Urbano|04
+23406|Primero de Mayo|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0199|Urbano|04
+23406|Terrazas Costa Azul|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0710|Urbano|04
+23407|Rosarito|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0196|Urbano|04
+23407|Animas Bajas|Ranchería|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||29|008|0247|Urbano|04
+23407|Animas Altas|Pueblo|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||28|008|0589|Urbano|04
+23407|INFONAVIT Colosio|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0628|Urbano|04
+23407|Guaymitas|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0592|Urbano|04
+23407|Rinconada La Huerta|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0652|Urbano|04
+23407|El Rosarito|Residencial|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||30|008|0838|Urbano|04
+23420|Aeropuerto|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0678|Urbano|04
+23420|Santa Anita|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0192|Urbano|04
+23425|Santa Catarina|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0635|Urbano|04
+23426|Loma Cruz|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0654|Urbano|04
+23426|Invi San José Viejo|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0653|Urbano|04
+23427|Vista Hermosa|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0657|Urbano|04
+23427|Colinas San José|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0840|Urbano|04
+23427|Villas de Cortez|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0878|Urbano|04
+23427|Monte Bello Condominio Plus|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0012|Urbano|04
+23427|Zacatal Zona Norte|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0656|Urbano|04
+23427|El Zacatal|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0655|Urbano|04
+23428|Invi Santa Rosa|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0660|Urbano|04
+23428|Santa Rosa|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0658|Urbano|04
+23428|Santa Rosa|Ampliación|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||38|008|0659|Urbano|04
+23429|San José del Cabo (Los Cabos)|Aeropuerto|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||01|008|0193|Rural|04
+23430|Zacatal|Ampliación|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||38|008|0661|Urbano|04
+23434|Pénjamo|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0662|Urbano|04
+23434|Loma Bonita|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0881|Urbano|04
+23434|Veredas|Ampliación|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||38|008|0664|Urbano|04
+23434|Villa Bonita|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0004|Urbano|04
+23434|Oasis|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0663|Urbano|04
+23434|Costa Dorada|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0880|Urbano|04
+23435|INFONAVIT|Conjunto habitacional|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||12|008|0665|Urbano|04
+23435|FOVISSSTE las Veredas|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0634|Urbano|04
+23435|Las Veredas|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0666|Urbano|04
+23435|FOVISSSTE las Veredas|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0677|Urbano|04
+23436|San Bernabe|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0669|Urbano|04
+23436|Catarina|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0667|Urbano|04
+23436|Buenos Aires|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0668|Urbano|04
+23437|San José Viejo|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0672|Urbano|04
+23437|Las Dunas|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0671|Urbano|04
+23437|El Limón|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0670|Urbano|04
+23440|Jesús Castro Agundes|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0194|Urbano|04
+23443|Chula Vista|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0590|Urbano|04
+23443|El Aguajito|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0673|Urbano|04
+23443|Mauricio Castro|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0195|Urbano|04
+23444|Pablo L Martinez|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0591|Urbano|04
+23444|Monte Real Residencial|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0877|Urbano|04
+23444|Lomas Residencial 2a Etapa|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0909|Urbano|04
+23444|Colinas Plus|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0879|Urbano|04
+23444|Luis Donaldo Colosio|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0674|Urbano|04
+23444|Lomas de Rosarito|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0675|Urbano|04
+23444|Lomas Residencial 1a  Etapa|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0908|Urbano|04
+23444|Country del Mar|Fraccionamiento|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||21|008|0923|Urbano|04
+23445|Lomas de Guaymitas|Colonia|Los Cabos|Baja California Sur|San José del Cabo|23401|03|23401||09|008|0676|Urbano|04
+23450|Plaza Náutica|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0603|Urbano|03
+23450|Modulo Turístico|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0630|Urbano|03
+23450|Plaza Bonita|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0599|Urbano|03
+23450|Plaza Real|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0600|Urbano|03
+23450|Plaza las Glorias|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0604|Urbano|03
+23450|Plaza del Marlin|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0601|Urbano|03
+23450|Plaza del Sol|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0602|Urbano|03
+23450|La Dársena|Zona comercial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||33|008|0629|Urbano|03
+23450|Cabo San Lucas Centro|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0201|Urbano|03
+23453|El Medano|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0208|Urbano|03
+23453|La Marina|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0516|Urbano|03
+23453|Terrasol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0517|Urbano|03
+23453|El Pedregal|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0518|Urbano|03
+23454|Residencial La Cima|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0715|Urbano|03
+23454|El Tezal|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0513|Urbano|03
+23454|Zona Hotelera|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0514|Urbano|03
+23454|La Vista|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0892|Urbano|03
+23454|Vista Bahía|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0893|Urbano|03
+23454|Vistana|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0896|Urbano|03
+23454|Punta Arena|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0885|Urbano|03
+23454|Cumbres del Tezal|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0890|Urbano|03
+23454|Peña de  Horeb|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0889|Urbano|03
+23454|Privanzas|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0891|Urbano|03
+23454|San Luciano|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0887|Urbano|03
+23454|Mediterránea|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0894|Urbano|03
+23454|Maranatha|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0886|Urbano|03
+23454|Puerta del Mar|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0895|Urbano|03
+23455|Cabo Bello|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0681|Urbano|03
+23455|Villa Serena|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0934|Urbano|03
+23455|Misiones del Cabo|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0857|Urbano|03
+23455|Puesta del Sol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0682|Urbano|03
+23455|Santa Carmela|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0688|Urbano|03
+23455|Residencial Cabo del Sol|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0931|Urbano|03
+23456|Lomas del Cabo|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0512|Urbano|03
+23456|Altos de Miramar|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0862|Urbano|03
+23456|Bella Vista|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0511|Urbano|03
+23456|Arco Iris|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0481|Urbano|03
+23456|Colinas de Cabo Baja|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0506|Urbano|03
+23456|Rincón de Miramar|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0863|Urbano|03
+23456|Privada Perla|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0867|Urbano|03
+23456|Real de Miramar|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0868|Urbano|03
+23456|Balcones|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0507|Urbano|03
+23456|Jazmines|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0508|Urbano|03
+23456|Acuario|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0509|Urbano|03
+23456|El Palmar|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0865|Urbano|03
+23456|Paraíso|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0866|Urbano|03
+23456|Bugambilias|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0510|Urbano|03
+23456|Buenos Aires|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0864|Urbano|03
+23456|Auroras|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0901|Urbano|03
+23456|Quintas California|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0913|Urbano|03
+23456|Miramar|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0687|Urbano|03
+23460|La Joya|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0684|Urbano|03
+23460|Tabachines|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0888|Urbano|03
+23460|Arenal|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0632|Urbano|03
+23460|Mariano Matamoros|Ampliación|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||38|008|0679|Urbano|03
+23462|Mesa Colorada I|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0711|Urbano|03
+23462|Leonardo Gastélum Quinta Etapa|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0001|Urbano|03
+23462|Lagunitas|Unidad habitacional|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||31|008|0502|Urbano|03
+23462|Mesa Colorada III|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0713|Urbano|03
+23462|Leonardo Rodríguez Gastélum|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0936|Urbano|03
+23462|Paraíso del Sol|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0007|Urbano|03
+23462|Mesa Colorada II|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0712|Urbano|03
+23463|Cabo San Lucas Country Club|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0501|Urbano|03
+23467|Ventanas del Cortés|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0910|Urbano|03
+23467|Vista Real|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0498|Urbano|03
+23467|Residencial San Jerónimo|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0005|Urbano|03
+23467|Residencial Puerta del Sol|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0497|Urbano|03
+23467|Amalfi|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0706|Urbano|03
+23467|Coto San Diego|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0918|Urbano|03
+23467|Casa Mexicana|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0884|Urbano|03
+23467|Reyna Avalos|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0500|Urbano|03
+23467|Desarrollo Turístico Cabo Vista|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0499|Urbano|03
+23467|Artesanos|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0503|Urbano|03
+23468|Mariano Matamoros|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0204|Urbano|03
+23468|INFONAVIT Viejo|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0921|Urbano|03
+23469|Benito Juárez|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0205|Urbano|03
+23469|Juárez|Ampliación|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||38|008|0505|Urbano|03
+23469|Coromuel|Unidad habitacional|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||31|008|0504|Urbano|03
+23470|4 de Marzo|Ampliación|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||38|008|0490|Urbano|03
+23470|Lienzo Charro Centro|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0685|Urbano|03
+23470|Vía de Lerry|Condominio|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||10|008|0882|Urbano|03
+23470|La Cruz|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0206|Urbano|03
+23470|Ildefonso Green|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0496|Urbano|03
+23470|Ejidal|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0495|Urbano|03
+23470|Nueva Ejidal|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0932|Urbano|03
+23470|Libertad|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0933|Urbano|03
+23472|Lomas Altas|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0919|Urbano|03
+23472|Núcleo Agrario|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0494|Urbano|03
+23472|Magisterial|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0922|Urbano|03
+23472|4 de Marzo|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0491|Urbano|03
+23472|Obrera|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0492|Urbano|03
+23472|Lomas del Faro Viejo|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0493|Urbano|03
+23473|Reforma|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0009|Urbano|03
+23473|Hojazen|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0484|Urbano|03
+23473|Vista Hermosa|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0704|Urbano|03
+23473|Gardenias|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0705|Urbano|03
+23473|Lomas del Pacifico|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0482|Urbano|03
+23473|Portales|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0927|Urbano|03
+23473|Terranova|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0929|Urbano|03
+23473|Altamira Condominios Plus|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0011|Urbano|03
+23473|Aurora|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0487|Urbano|03
+23473|Brisas del Pacifico|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0489|Urbano|03
+23473|INFONAVIT Nuevo|Unidad habitacional|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||31|008|0631|Urbano|03
+23473|Los Cangrejos|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0686|Urbano|03
+23473|Casa Blanca|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0928|Urbano|03
+23473|Buena Vista|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0875|Urbano|03
+23473|Jacarandas|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0483|Urbano|03
+23473|Brisas del Pacifico Codepa|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0488|Urbano|03
+23473|Altamira|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0010|Urbano|03
+23473|Cerro de los Venados|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0486|Urbano|03
+23474|La Esperanza|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0903|Urbano|03
+23474|Arcos del Sol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0680|Urbano|03
+23474|Inova|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0714|Urbano|03
+23474|Jardines del Sol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0683|Urbano|03
+23474|Villas de La Joya|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0900|Urbano|03
+23475|Hemisferia|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0955|Urbano|03
+23477|Tierra y Libertad|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0727|Urbano|03
+23477|Progreso|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0728|Urbano|03
+23477|Lomas del Valle|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0916|Urbano|03
+23477|Lomas del Sol|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0633|Urbano|03
+23477|Magisterial Viva|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0856|Urbano|03
+23477|Chulavista|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0006|Urbano|03
+23477|Cabo Fierro|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0008|Urbano|03
+23477|Caribe|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0730|Urbano|03
+23477|Celeste|Residencial|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||30|008|0899|Urbano|03
+23477|Rosa Delia|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0902|Urbano|03
+23477|Residencial La Peña|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0731|Urbano|03
+23477|Santa Fe Oro|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0898|Urbano|03
+23477|Las Palmas|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0883|Urbano|03
+23477|Misiones de Santa Fe|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0904|Urbano|03
+23477|Las Palmas|Colonia|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||09|008|0729|Urbano|03
+23478|Jardines del Sur|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0596|Urbano|03
+23478|Arcos del Sol II|Fraccionamiento|Los Cabos|Baja California Sur|Cabo San Lucas|23452|03|23452||21|008|0597|Urbano|03
+23500|Matancitas|Poblado comunal|Los Cabos|Baja California Sur||23502|03|23502||27|008|0980|Rural|
+23500|Milpillas|Ranchería|Los Cabos|Baja California Sur||23502|03|23502||29|008|0209|Rural|
+23500|Santiago|Pueblo|Los Cabos|Baja California Sur||23502|03|23502||28|008|0210|Rural|
+23501|El Epazote|Ranchería|Los Cabos|Baja California Sur||23502|03|23502||29|008|0211|Rural|
+23510|Agua Caliente|Congregación|Los Cabos|Baja California Sur||23502|03|23502||11|008|0213|Rural|
+23520|Miraflores|Pueblo|Los Cabos|Baja California Sur||23401|03|23401||28|008|0214|Rural|
+23522|La Palmilla|Ranchería|Los Cabos|Baja California Sur||23502|03|23502||29|008|0216|Rural|
+23530|Caduaño|Congregación|Los Cabos|Baja California Sur||23502|03|23502||11|008|0217|Rural|
+23531|Boca de La Trinidad|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0218|Rural|
+23532|El Bosque|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0219|Rural|
+23537|Loma Encantada|Fraccionamiento|Los Cabos|Baja California Sur||23401|03|23401||21|008|0002|Rural|
+23537|Vista Colorada|Fraccionamiento|Los Cabos|Baja California Sur||23401|03|23401||21|008|0957|Rural|
+23537|Palmilla|Fraccionamiento|Los Cabos|Baja California Sur||23401|03|23401||21|008|0003|Rural|
+23537|La Antigua|Fraccionamiento|Los Cabos|Baja California Sur||23401|03|23401||21|008|0956|Rural|
+23540|San Bernabe|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0220|Urbano|
+23541|El Refugio|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0221|Rural|
+23542|Palo Escopeta|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0222|Rural|
+23550|Santa Catarina|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0225|Urbano|
+23550|San José Viejo|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0224|Urbano|
+23551|Los Frailes|Ranchería|Los Cabos|Baja California Sur||23331|03|23331||29|008|0226|Rural|
+23552|Santa Rosa|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0227|Urbano|
+23560|Las Cuevas|Colonia|Los Cabos|Baja California Sur||23331|03|23331||09|008|0228|Rural|
+23560|El Campamento|Campamento|Los Cabos|Baja California Sur||23331|03|23331||04|008|0871|Rural|
+23567|Santa Cruz|Ranchería|Los Cabos|Baja California Sur||23502|03|23502||29|008|0232|Rural|
+23570|La Rivera|Ranchería|Los Cabos|Baja California Sur||23502|03|23502||29|008|0233|Rural|
+23572|Las Lagunas|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0235|Rural|
+23573|Miramar|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0236|Rural|
+23574|Cabo Pulmo|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0237|Rural|
+23575|Las Barrancas|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0238|Rural|
+23580|Buenavista|Ranchería|Los Cabos|Baja California Sur||23331|03|23331||29|008|0239|Rural|
+23581|La Ballena|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0240|Rural|
+23581|San Felipe|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0241|Rural|
+23582|Las Casitas|Congregación|Los Cabos|Baja California Sur||23401|03|23401||11|008|0242|Rural|
+23585|Punta Chileno|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0243|Rural|
+23586|El Ranchito|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0244|Rural|
+23587|Rosarito|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0245|Rural|
+23588|El Zacatal|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0246|Rural|
+23590|La Candelaria|Pueblo|Los Cabos|Baja California Sur||23401|03|23401||28|008|0248|Rural|
+23593|El Sauzal|Poblado comunal|Los Cabos|Baja California Sur||23401|03|23401||27|008|0979|Rural|
+23593|Boca del Saucito|Ranchería|Los Cabos|Baja California Sur||23401|03|23401||29|008|0249|Rural|
+23595|Buena Vista|Fraccionamiento|Los Cabos|Baja California Sur||23452|03|23452||21|008|0982|Rural|
+23595|Agua Escondida|Ranchería|Los Cabos|Baja California Sur||23452|03|23452||29|008|0250|Rural|
+23597|Buenavista|Poblado comunal|Los Cabos|Baja California Sur||23401|03|23401||27|008|0953|Rural|

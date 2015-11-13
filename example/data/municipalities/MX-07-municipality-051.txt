@@ -1,0 +1,102 @@
+30560|San Agustín|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2128|Semiurbano|13
+30560|La Bendición|Colonia|Mapastepec|Chiapas|Mapastepec|30561|07|30561||09|051|2133|Urbano|13
+30560|San Juan|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2140|Semiurbano|13
+30560|Los Laureles|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|5771|Urbano|13
+30560|Mapastepec Centro|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|1473|Semiurbano|13
+30560|El Malucal|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2130|Semiurbano|13
+30560|El Riíto|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2135|Semiurbano|13
+30560|Olímpico|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2137|Semiurbano|13
+30560|Luis Donaldo Colosio|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2141|Semiurbano|13
+30560|Santa Cecilia|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2142|Semiurbano|13
+30560|El Embarcadero|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2149|Semiurbano|13
+30560|Benito Juárez|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2150|Semiurbano|13
+30560|El Recuerdo|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|3848|Semiurbano|13
+30560|Juan Sabines|Fraccionamiento|Mapastepec|Chiapas|Mapastepec|30561|07|30561||21|051|3850|Semiurbano|13
+30560|Las Marillitas|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2148|Semiurbano|13
+30560|El Llanito|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2129|Semiurbano|13
+30560|San Miguel|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2143|Semiurbano|13
+30560|Jubileo 2000|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|5772|Urbano|13
+30560|Nuevo Reforma|Fraccionamiento|Mapastepec|Chiapas|Mapastepec|30561|07|30561||21|051|5773|Urbano|13
+30560|16 de Febrero|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2131|Semiurbano|13
+30560|Santa Cruz|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2132|Semiurbano|13
+30560|Unidad Mexicana|Unidad habitacional|Mapastepec|Chiapas|Mapastepec|30561|07|30561||31|051|2139|Semiurbano|13
+30560|El DIF|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2146|Semiurbano|13
+30560|Anáhuac|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2144|Semiurbano|13
+30560|Generación 2000 Nuevo Milenio|Colonia|Mapastepec|Chiapas|Mapastepec|30561|07|30561||09|051|3849|Urbano|13
+30560|Canta Rana|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|5769|Urbano|13
+30560|Juan Becerra|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2151|Semiurbano|13
+30560|Los Carriles|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|5852|Urbano|13
+30560|15 de Enero|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|2147|Semiurbano|13
+30560|Herbín Rizo González|Barrio|Mapastepec|Chiapas|Mapastepec|30561|07|30561||02|051|5770|Urbano|13
+30563|Simón Bolívar|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4803|Rural|
+30563|Flores Magón|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|1477|Rural|
+30563|Nicolás Bravo 2|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4822|Rural|
+30563|Nicolás Bravo 1|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4821|Rural|
+30563|Belisario Domínguez|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4802|Rural|
+30563|Barrancón|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4804|Rural|
+30563|Nueva Sesecapa|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1484|Rural|
+30564|Unión Santa Isabel|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4811|Rural|
+30564|Lázaro Cárdenas|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4813|Rural|
+30564|El Carmen|Ejido|Mapastepec|Chiapas||30561|07|30561||15|051|5592|Rural|
+30564|Benito Juárez|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4810|Rural|
+30564|Francisco I. Madero|Ejido|Mapastepec|Chiapas||30561|07|30561||15|051|5560|Rural|
+30564|Nerciso Mendoza|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4818|Rural|
+30565|Anonal|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4812|Rural|
+30565|Roberto Barrios|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1476|Rural|
+30565|Nuevo Guerrero|Ejido|Mapastepec|Chiapas||30561|07|30561||15|051|5516|Rural|
+30565|El Higuero|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4808|Rural|
+30565|Barrita de Pajón|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4809|Rural|
+30565|Estación Vieja|Estación|Mapastepec|Chiapas||30561|07|30561||16|051|1472|Rural|
+30565|Ibarra|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1474|Rural|
+30565|La Vainilla|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1475|Rural|
+30565|Zapata|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4819|Rural|
+30565|Pino Suárez|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4817|Rural|
+30566|La Playa|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4805|Rural|
+30566|Los Limones|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|1478|Rural|
+30566|Santo Tomás|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|0003|Rural|
+30566|La Alianza|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4814|Rural|
+30566|El Encanto|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4816|Rural|
+30566|El Huamuche|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|5604|Rural|
+30567|Adolfo López Mateos|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1480|Rural|
+30567|La Blanca|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4807|Rural|
+30567|Hidalgo Novillero|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1479|Rural|
+30567|Juan Escutia 2|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4815|Rural|
+30567|Valdivia|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4820|Rural|
+30568|Santa Julia|Rancho|Mapastepec|Chiapas||30561|07|30561||48|051|0004|Rural|
+30568|Santa Julia|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|4806|Rural|
+30568|El Rosario|Paraje|Mapastepec|Chiapas||30561|07|30561||45|051|0001|Rural|
+30570|Nicolás Bravo|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|1488|Rural|
+30570|Nueva Libertad|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4797|Rural|
+30570|Nueva Esperanza|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4800|Rural|
+30570|La Ceiba|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4798|Rural|
+30570|Altamira I|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4799|Rural|
+30570|Villa Nueva|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4801|Rural|
+30570|Ruiz Cortines|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1481|Rural|
+30573|Doroteo Arango|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4793|Rural|
+30573|Guadalupe Victoria|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|1485|Rural|
+30573|Piedras Blancas|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4795|Rural|
+30573|San José|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4796|Rural|
+30574|La Fortuna|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4789|Rural|
+30574|Altamira 2|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4786|Rural|
+30574|Santa Rosa las Nubes|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4787|Rural|
+30574|Tierra y Libertad|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4792|Rural|
+30574|Sólo Dios|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4788|Rural|
+30574|Progreso de Chiapas|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1486|Rural|
+30574|21 de Marzo|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4785|Rural|
+30574|López Portillo|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4791|Rural|
+30575|Pantaleón Domínguez|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|1489|Rural|
+30575|Los Alpes|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4781|Rural|
+30575|Los Olivos|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4783|Rural|
+30575|La Victoria|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4794|Rural|
+30575|La Fortuna|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4782|Rural|
+30575|Absalón Castellanos|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4784|Rural|
+30576|Guisamar|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4775|Rural|
+30576|El Ayotal|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4773|Rural|
+30576|Las Palmas|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4774|Rural|
+30576|Santa Rita las Flores|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4776|Rural|
+30576|Loma Bonita|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4777|Rural|
+30576|Unión Chiapaneca|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4778|Rural|
+30576|Las Mandarinas|Ranchería|Mapastepec|Chiapas||30561|07|30561||29|051|0002|Rural|
+30576|3 de Mayo|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|1487|Rural|
+30576|Nueva Reforma|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4779|Rural|
+30577|Nuevo Nicolás Bravo|Colonia|Mapastepec|Chiapas||30561|07|30561||09|051|4780|Rural|

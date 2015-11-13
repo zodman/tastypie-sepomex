@@ -1,0 +1,356 @@
+63000|Tepic Centro|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0001|Urbano|02
+63009|Centro SCT Nayarit|Gran usuario|Tepic|Nayarit|Tepic|63001|18|63001||22|017|0004|Urbano|02
+63010|Amado Nervo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0005|Urbano|02
+63010|Amado Nervo|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0006|Urbano|02
+63010|Sacristán|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0008|Urbano|02
+63010|Paseo de La Constitución|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0007|Urbano|02
+63018|El Punto|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0009|Urbano|02
+63019|Loma Hermosa|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1061|Urbano|02
+63019|Francisco Villa|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0010|Urbano|02
+63020|Unidad Deportiva Santa Teresita|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0012|Urbano|02
+63020|Santa Teresita|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0011|Urbano|02
+63021|Adolfo López Mateos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0013|Urbano|02
+63022|INDECO|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0014|Urbano|02
+63023|Ojo de Agua|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0015|Urbano|02
+63023|Buenos Aires|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1093|Urbano|02
+63023|Senderos del Monte|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0179|Urbano|02
+63030|Cuitlahuac|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0016|Urbano|02
+63030|Lomas de La Cruz Sutse|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0018|Urbano|02
+63030|Chapultepec|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0017|Urbano|02
+63030|San José|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0019|Urbano|02
+63035|Bugambilias|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0205|Urbano|02
+63035|Ampliación El Paraíso|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1068|Urbano|02
+63035|Valle Verde|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1064|Urbano|02
+63035|Villas del Paraíso|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0078|Urbano|02
+63035|Jardines del Valle|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0021|Urbano|02
+63035|Valle de La Cruz|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1066|Urbano|02
+63035|Islas del Paraíso|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1112|Urbano|02
+63035|Valle de Zaragoza|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1067|Urbano|02
+63035|Nueva Alemania|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0993|Urbano|02
+63035|Nuevo Progreso|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1070|Urbano|02
+63037|Sindicalistas|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0027|Urbano|02
+63037|Residencial La Esmeralda|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0201|Urbano|02
+63037|Valle Verde Conalep|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0992|Urbano|02
+63037|Villas de la Laguna|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1215|Urbano|02
+63037|Ingeniero Agrónomo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0996|Urbano|02
+63037|La Loma|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1043|Urbano|02
+63037|La Lomita|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1094|Urbano|02
+63037|Villas Arana|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1856|Urbano|02
+63037|Lomas de La Cruz|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0025|Urbano|02
+63037|Villas de la Cruz|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0197|Urbano|02
+63037|Zapopan|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1097|Urbano|02
+63037|Tulipanes|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1045|Urbano|02
+63037|Los Viveros|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0026|Urbano|02
+63037|Los Arcos|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1062|Urbano|02
+63038|Emilio M. González|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0031|Urbano|02
+63038|El Mirador INFONAVIT|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0029|Urbano|02
+63038|El Paraíso|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0030|Urbano|02
+63038|Rancho las Cruces|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0215|Urbano|02
+63038|Reforma|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0034|Urbano|02
+63038|Las Conchas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0032|Urbano|02
+63038|Las Pares|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0033|Urbano|02
+63039|Camino Real|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0213|Urbano|02
+63039|Aztlán El Verde|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0991|Urbano|02
+63039|Riveras de La Laguna|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1084|Urbano|02
+63039|Real Montecarlo|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0203|Urbano|02
+63039|Puerta de La Laguna|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0035|Urbano|02
+63039|Social Progresivo Cuba|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0214|Urbano|02
+63040|Magisterial|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0036|Urbano|02
+63050|Miguel Ángel Paredes|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0038|Urbano|02
+63050|Mololoa|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0039|Urbano|02
+63050|El Parían|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0037|Urbano|02
+63058|Rivas Allende|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0040|Urbano|02
+63058|Sandino|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0041|Urbano|02
+63058|Sanchez Ibarra|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0042|Urbano|02
+63059|Villas de Matatipac|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0045|Urbano|02
+63059|San Juanito|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1071|Urbano|02
+63059|Lomas de Cortez|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0043|Urbano|02
+63059|Lomas de La Laguna|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0044|Urbano|02
+63060|El Rodeo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0046|Urbano|02
+63061|Lomas Altas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0047|Urbano|02
+63062|Lomas Bonitas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0049|Urbano|02
+63062|Rinconada Residencial|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1156|Urbano|02
+63062|Alaska|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1092|Urbano|02
+63062|El Palomar|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0048|Urbano|02
+63066|Lomas del Valle Ampliación|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1060|Urbano|02
+63066|Lomas del Valle|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0050|Urbano|02
+63066|Florencia|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1858|Urbano|02
+63067|Las Flores|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0051|Urbano|02
+63068|América Manríquez|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0053|Urbano|02
+63068|Luis Echeverría A.|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0052|Urbano|02
+63069|Primero de Mayo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0054|Urbano|02
+63069|Unidad Obrera|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0055|Urbano|02
+63069|Ampliación Unidad Obrera|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1055|Urbano|02
+63070|La Huerta|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0057|Urbano|02
+63070|Emiliano Zapata|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0056|Urbano|02
+63080|Heriberto Casas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0058|Urbano|02
+63081|Acayapan|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0059|Urbano|02
+63082|El Naranjal|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0061|Urbano|02
+63082|El Faisán|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0060|Urbano|02
+63083|Ruinas de Jauja|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0062|Urbano|02
+63083|Ampliación Santa Teresita|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0063|Urbano|02
+63084|Ingeniero Aguayo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0064|Urbano|02
+63084|Los Pinos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0065|Urbano|02
+63088|Santa Fe|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0067|Urbano|02
+63089|Santa Cecilia|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0068|Urbano|02
+63100|20 de Noviembre|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0069|Urbano|02
+63109|Estadios|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0070|Urbano|02
+63110|Rodeo de La Punta|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0072|Urbano|02
+63110|Lindavista|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0071|Urbano|02
+63114|Residencial los Olivos|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1857|Urbano|02
+63114|Nuevas Delicias|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0024|Urbano|02
+63114|Colinas del Nayar|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0208|Urbano|02
+63114|Dieciséis de Septiembre|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1096|Urbano|02
+63114|Solidaridad INFONAVIT|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0073|Urbano|02
+63114|Aztlán Solidaridad|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1058|Urbano|02
+63114|Ecologistas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1059|Urbano|02
+63114|Guadalupe|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1056|Urbano|02
+63114|Solidaridad Primavera|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1057|Urbano|02
+63115|SPAUAN|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0074|Urbano|02
+63116|FOVISSSTE 2a Etapa|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0075|Urbano|02
+63117|Las Brisas FOVISSSTE|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0077|Urbano|02
+63117|Las Brisas|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0076|Urbano|02
+63117|Brisas de San Juan|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0002|Urbano|02
+63119|FOVISSSTE 1a Etapa|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0079|Urbano|02
+63120|Villa San Ángel|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0082|Urbano|02
+63120|Obrera CTM|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0081|Urbano|02
+63120|IMSS|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0080|Urbano|02
+63128|Lomas de San Juan|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0003|Urbano|02
+63129|Cora|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0086|Urbano|02
+63129|Aves del Paraíso|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0084|Urbano|02
+63129|Villas de San Juan|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1190|Urbano|02
+63129|Arboledas|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0066|Urbano|02
+63129|Jagüey|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0085|Urbano|02
+63129|Tío Baltazar|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0088|Urbano|02
+63129|Leonardo Rodríguez Alcaine|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0207|Urbano|02
+63129|Rey Nayar|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0087|Urbano|02
+63130|San Juan|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0089|Urbano|02
+63135|El Tecolote|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0090|Urbano|02
+63135|El Tecolote INFONAVIT|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0091|Urbano|02
+63136|Independencia|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0092|Urbano|02
+63137|Residencial La Loma|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0093|Urbano|02
+63138|Versalles Sur|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0095|Urbano|02
+63138|Rincón de San Juan|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0094|Urbano|02
+63139|Versalles Norte|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0096|Urbano|02
+63147|Secretaria de La Reforma Agraria|Gran usuario|Tepic|Nayarit|Tepic|63001|18|63001||22|017|0097|Urbano|02
+63149|Palacio de Gobierno del Estado de Nayarit|Gran usuario|Tepic|Nayarit|Tepic|63001|18|63001||22|017|0098|Urbano|02
+63150|Menchaca|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0099|Urbano|02
+63155|Universidad Autónoma de Nayarit|Gran usuario|Tepic|Nayarit|Tepic|63001|18|63001||22|017|0101|Urbano|02
+63156|Burócrata Federal|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0102|Urbano|02
+63157|Ciudad del Valle|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0103|Urbano|02
+63158|Caja de Agua|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0104|Urbano|02
+63159|San Antonio|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0105|Urbano|02
+63160|Morelos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0107|Urbano|02
+63160|Electricistas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0106|Urbano|02
+63163|Corralón|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0109|Urbano|02
+63164|Pedregal de San Juan|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1044|Urbano|02
+63164|El Pedregal|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0111|Urbano|02
+63164|El Pedregal|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1115|Urbano|02
+63166|Benito Juárez|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0113|Urbano|02
+63166|Del Bosque|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0114|Urbano|02
+63167|Peñita|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0115|Urbano|02
+63168|Jardines de La Cruz|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0116|Urbano|02
+63169|Fray Junipero Serra|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0117|Urbano|02
+63170|Las Aves|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0122|Urbano|02
+63170|Los Llanitos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0123|Urbano|02
+63170|Dr. Lucas Vallarta|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0119|Urbano|02
+63170|Flamingos|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1046|Urbano|02
+63170|Ferrocarrilero 2a Secc.|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0120|Urbano|02
+63170|México|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0995|Urbano|02
+63170|Gobierno del Cambio I|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1072|Urbano|02
+63170|12 de Diciembre|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0118|Urbano|02
+63172|Unidos por Tu Tranquilidad|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0100|Urbano|02
+63173|Puerta Encanto|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0108|Urbano|02
+63173|Nayarabastos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0128|Urbano|02
+63173|Olimpo|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1162|Urbano|02
+63173|Del Sol|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1211|Urbano|02
+63173|Aramara|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1123|Urbano|02
+63173|Ejidal|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1146|Urbano|02
+63173|Parque Ecológico|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0135|Urbano|02
+63173|Puerta Jardín|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0223|Urbano|02
+63173|El Rubí|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1040|Urbano|02
+63173|Villas de La Cantera|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1077|Urbano|02
+63173|Revolución|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1124|Urbano|02
+63173|Villas del Molino|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1163|Urbano|02
+63173|Ciudad Industrial|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0124|Urbano|02
+63173|Jesús García|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0127|Urbano|02
+63173|Vistas de La Cantera Etapa 2|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1047|Urbano|02
+63173|Puesta del Sol|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1860|Urbano|02
+63173|Ciudad Industrial Microindustria|Parque industrial|Tepic|Nayarit|Tepic|63001|18|63001||26|017|0125|Urbano|02
+63173|Molinos del Rey|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1150|Urbano|02
+63173|Jardines del Parque|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1076|Urbano|02
+63173|La Floresta|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1147|Urbano|02
+63173|Villas del Roble|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1198|Urbano|02
+63173|Justino Ávila Arce|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1049|Urbano|02
+63173|Jazmines|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0126|Urbano|02
+63173|Cantera del Nayar|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1041|Urbano|02
+63173|Villas del Parque|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1075|Urbano|02
+63173|Vistas de La Cantera|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1153|Urbano|02
+63174|Zitacua|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0137|Urbano|02
+63174|La Esperanza|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0134|Urbano|02
+63174|Venceremos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0136|Urbano|02
+63174|Prieto Crispín|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0129|Urbano|02
+63174|Flores Magón|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0132|Urbano|02
+63174|Genaro Vázquez|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0133|Urbano|02
+63174|4 Milpas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0130|Urbano|02
+63175|Luis Donaldo Colosio Murrieta|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|1114|Urbano|02
+63175|Benito Juárez Oriente|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0138|Urbano|02
+63175|Instituto Tecnológico de Tepic|Gran usuario|Tepic|Nayarit|Tepic|63001|18|63001||22|017|0143|Urbano|02
+63175|Oriental|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0145|Urbano|02
+63175|Dr. Cuesta Barrios|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0140|Urbano|02
+63175|2 de Agosto|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0141|Urbano|02
+63175|Gobernadores|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0142|Urbano|02
+63175|Comerciantes|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0139|Urbano|02
+63175|Lagos del Country|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0144|Urbano|02
+63175|Valle del Country|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0951|Urbano|02
+63176|Gustavo Díaz Ordaz|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0148|Urbano|02
+63176|Colonial|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0147|Urbano|02
+63176|Cáp. Orozco|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0146|Urbano|02
+63177|Juventud|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0121|Urbano|02
+63177|Esteban Baca Calderón|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0150|Urbano|02
+63177|Ampliación Tierra y Libertad|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0948|Urbano|02
+63177|18 de Agosto|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0149|Urbano|02
+63177|El Capomo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0151|Urbano|02
+63177|Lirios|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1095|Urbano|02
+63177|Villa las Rosas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1854|Urbano|02
+63177|Ferrocarrilero 1a Secc.|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0152|Urbano|02
+63177|Simancas|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0154|Urbano|02
+63177|Los Colomos|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1042|Urbano|02
+63177|Villas del Nayar|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1217|Urbano|02
+63177|Universitario (AGEUAN)|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0155|Urbano|02
+63177|Heriberto Jara|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0153|Urbano|02
+63178|Luis Donaldo Colosio|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0156|Urbano|02
+63178|Tierra y Libertad|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0157|Urbano|02
+63179|Gilberto Flores Muñoz|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0158|Urbano|02
+63180|Valle Dorado|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0163|Urbano|02
+63180|Valle de Nayarit|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1073|Urbano|02
+63180|Moctezuma|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0162|Urbano|02
+63180|Burócrata Estatal|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0159|Urbano|02
+63180|Colinas del Rey|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0160|Urbano|02
+63180|Cuauhtémoc|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0161|Urbano|02
+63180|Bethel|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1074|Urbano|02
+63183|Insurgentes|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0164|Urbano|02
+63184|Gardenias|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0165|Urbano|02
+63184|Miravalles|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0166|Urbano|02
+63185|Los Fresnos Poniente|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0169|Urbano|02
+63185|Félix Peña|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0168|Urbano|02
+63185|El 8|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0167|Urbano|02
+63186|Predio San Martín|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0172|Urbano|02
+63186|IMSS|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0170|Urbano|02
+63186|Leyva Medina|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0171|Urbano|02
+63189|Labores de Godínez|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0173|Urbano|02
+63190|Lázaro Cárdenas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0176|Urbano|02
+63190|Juan Escutia|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0175|Urbano|02
+63190|Aviación|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0174|Urbano|02
+63190|15 de Mayo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0178|Urbano|02
+63190|Los Fresnos Oriente|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0177|Urbano|02
+63193|Miguel Hidalgo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0180|Urbano|02
+63194|El Puerto|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0181|Urbano|02
+63194|Ladrilleras|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0182|Urbano|02
+63194|Valle Magno|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0219|Urbano|02
+63194|El Armadillo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1081|Urbano|02
+63194|Nuevas Palomas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0183|Urbano|02
+63194|Puente de San Cayetano|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0184|Urbano|02
+63194|Bonaterra|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1151|Urbano|02
+63195|Las Islas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0954|Urbano|02
+63195|Conasupo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0185|Urbano|02
+63195|Marco Antonio Fernández|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0188|Urbano|02
+63195|Severiano Ocegueda|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0950|Urbano|02
+63195|Extamex|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0186|Urbano|02
+63195|La Joya|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1148|Urbano|02
+63195|Paseo del Valle Real|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|1078|Urbano|02
+63195|Los Sauces INFONAVIT|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0189|Urbano|02
+63195|Valle de Matatipac|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0190|Urbano|02
+63195|Los Ciruelos|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0222|Urbano|02
+63195|Jacarandas|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0949|Urbano|02
+63195|Las Palomas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|1079|Urbano|02
+63196|Nueva Aviación|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0193|Urbano|02
+63196|Periodistas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0194|Urbano|02
+63196|Castilla|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0192|Urbano|02
+63196|El Guayabo|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0220|Urbano|02
+63196|Caminera|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0191|Urbano|02
+63196|26 de Septiembre|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0195|Urbano|02
+63197|Plan de Ayala|Zona industrial|Tepic|Nayarit|Tepic|63001|18|63001||37|017|0952|Urbano|02
+63197|Los Fresnos|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0997|Urbano|02
+63197|5 de Febrero|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0196|Urbano|02
+63197|Hermosa Provincia|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0198|Urbano|02
+63197|Los Fresnos INFONAVIT|Unidad habitacional|Tepic|Nayarit|Tepic|63001|18|63001||31|017|0199|Urbano|02
+63197|Tabacos Aztecas|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0202|Urbano|02
+63197|Niños Héroes|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0953|Urbano|02
+63197|Los Sauces|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0200|Urbano|02
+63198|Villas de La Paz|Fraccionamiento|Tepic|Nayarit|Tepic|63001|18|63001||21|017|0204|Urbano|02
+63199|José María Martínez (El Molino)|Colonia|Tepic|Nayarit|Tepic|63001|18|63001||09|017|0206|Urbano|02
+63500|Las Parejas|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0925|Rural|07
+63500|18 de Marzo|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0921|Rural|07
+63500|El Cerro|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0927|Rural|07
+63500|El Campo|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0920|Rural|07
+63500|Nueva Valey|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0924|Rural|07
+63500|Las Cruces|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0926|Rural|07
+63500|Francisco Velázquez|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0918|Rural|07
+63500|Hebrón|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0110|Rural|
+63500|Francisco I Madero Centro|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0325|Rural|07
+63500|El Chorro|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0922|Rural|07
+63500|Lázaro Cárdenas|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0919|Rural|07
+63500|Caja de Agua|Colonia|Tepic|Nayarit|Francisco I. Madero (Puga)|63001|18|63001||09|017|0923|Rural|07
+63500|Los Sabinos|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0112|Rural|
+63501|Bellavista|Pueblo|Tepic|Nayarit||63001|18|63001||28|017|0328|Rural|
+63502|El Rincón|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0329|Rural|
+63502|San Andrés|Pueblo|Tepic|Nayarit||63001|18|63001||28|017|0330|Rural|
+63502|Centro Federal de Readaptación Social No 4 El Rincón|Gran usuario|Tepic|Nayarit||63001|18|63001||22|017|1020|Rural|
+63503|San Fernando|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0331|Rural|
+63504|Mora|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0333|Rural|
+63504|Seis de Enero|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0334|Rural|
+63504|La Esperanza|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0332|Rural|
+63505|Morelos II|Fraccionamiento|Tepic|Nayarit||63001|18|63001||21|017|1098|Rural|
+63505|La Fortuna|Congregación|Tepic|Nayarit||63001|18|63001||11|017|0326|Rural|
+63505|El Pichón|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0336|Rural|
+63505|Lo de Lamedo|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0337|Rural|
+63506|La Cantera|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0338|Rural|
+63507|El Izote|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0335|Rural|
+63507|El Aguacate|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0339|Rural|
+63507|Venustiano Carranza|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0349|Rural|
+63507|Platanitos|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0347|Rural|
+63507|Las Delicias|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0340|Rural|
+63508|La Escondida|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0342|Rural|
+63508|Camichín de Jauja|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0341|Rural|
+63508|La Planta|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0343|Rural|
+63509|El Refugio|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0344|Rural|
+63510|Cinco de Mayo (El Ciruelo)|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0345|Rural|
+63510|El Jicote|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0346|Rural|
+63510|Catorce de Marzo|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0216|Rural|
+63511|La Guadalupana|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0211|Urbano|
+63511|La Corregidora|Colonia|Tepic|Nayarit||63001|18|63001||09|017|1855|Urbano|
+63511|Puente de San Cayetano|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0327|Rural|
+63511|Las Joyas|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0210|Urbano|
+63511|San Cayetano|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0348|Rural|
+63511|Novillero|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0209|Urbano|
+63511|Diamante|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0212|Urbano|
+63511|El Verde|Colonia|Tepic|Nayarit||63001|18|63001||09|017|0218|Rural|
+63511|Volcanes|Colonia|Tepic|Nayarit||63001|18|63001||09|017|1853|Urbano|
+63512|Lo de García|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0351|Rural|
+63512|Las Peñitas (La Repisa)|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0350|Rural|
+63513|Estación Roseta|Paraje|Tepic|Nayarit||63001|18|63001||45|017|0352|Rural|
+63514|Las Pilas (El Tepeguaje)|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0353|Rural|
+63514|Los Salazares|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0354|Rural|
+63515|Benito Juárez (Las Chivas)|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0355|Rural|
+63515|El Espino|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0356|Rural|
+63516|Jumatan|Campamento|Tepic|Nayarit||63001|18|63001||04|017|0359|Rural|
+63516|El Limón|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0358|Rural|
+63517|Barranca Blanca|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0360|Rural|
+63517|El Trapichillo|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0361|Rural|
+63518|La Resolana|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0364|Rural|
+63518|La Herradura|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0363|Rural|
+63518|Pajuelazo (El Guanacaste)|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0362|Rural|
+63519|La Yerba|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0365|Rural|
+63520|El Colorado|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0366|Rural|
+63522|Jesús María Cortez|Congregación|Tepic|Nayarit||63001|18|63001||11|017|0368|Rural|
+63523|Atonalisco|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0369|Rural|
+63524|Buenos Aires|Rancho|Tepic|Nayarit||63001|18|63001||48|017|0357|Rural|
+63524|Santiago de Pochotitán|Pueblo|Tepic|Nayarit||63001|18|63001||28|017|0221|Rural|
+63524|Caleras de Cofrados|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0370|Rural|
+63524|El Floreño (El Capulín)|Ranchería|Tepic|Nayarit||63001|18|63001||29|017|0217|Rural|
+63526|El Vicenteño|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0372|Rural|
+63526|Zapote de Picachos|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0373|Rural|
+63527|San Luis de Lozada|Pueblo|Tepic|Nayarit||63001|18|63001||28|017|0374|Rural|
+63528|Mesa de Picachos (El Casco)|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0375|Rural|
+63529|Las Blancas (Carretones de Cerritos)|Ejido|Tepic|Nayarit||63001|18|63001||15|017|0376|Rural|

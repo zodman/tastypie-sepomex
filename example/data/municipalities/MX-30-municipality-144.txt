@@ -1,0 +1,26 @@
+96150|Comunal|Barrio|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||02|144|0002|Urbano|
+96150|Canapa|Colonia|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||09|144|7514|Rural|
+96150|Nueva Esperanza|Colonia|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||09|144|0001|Urbano|
+96150|Sayula de Alemán|Pueblo|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||28|144|3735|Rural|
+96150|Belem|Barrio|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||02|144|7251|Rural|
+96150|Pobre|Colonia|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||09|144|7551|Rural|
+96151|Cruz del Milagro|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|3736|Rural|
+96152|Almagres|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|3737|Rural|
+96153|El Jícaro|Rancho|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||48|144|0007|Rural|
+96154|El Alicante|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|7376|Rural|
+96154|Aguilera|Pueblo|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||28|144|3739|Rural|
+96154|Veintisiete de Septiembre|Congregación|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||11|144|7773|Rural|
+96155|El Juile|Estación|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||16|144|3740|Rural|
+96156|Gelacia Ceballos Gómez (El Azufre)|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|0003|Rural|
+96156|General Miguel Alemán|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|0004|Rural|
+96156|San Isidro|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|0008|Rural|
+96157|Medias Aguas|Ejido|Sayula de Alemán|Veracruz de Ignacio de la Llave||96951|30|96951||15|144|3741|Rural|
+96157|Lázaro Cárdenas (Adolfo Ruiz Cortines)|Congregación|Sayula de Alemán|Veracruz de Ignacio de la Llave||96951|30|96951||11|144|7529|Rural|
+96158|Paraíso Naranjo|Ejido|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||15|144|3742|Rural|
+96158|Macaya|Ejido|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||15|144|7554|Rural|
+96158|Venustiano Carranza|Pueblo|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||28|144|3743|Rural|
+96158|Palma Morena|Congregación|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||11|144|7560|Rural|
+96158|Romero Rubio|Pueblo|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||28|144|0006|Rural|
+96159|El Progreso Mixe|Pueblo|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||28|144|0005|Rural|
+96159|San José del Palmar|Rancho|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||48|144|0009|Rural|
+96159|Adolfo López Mateos|Ranchería|Sayula de Alemán|Veracruz de Ignacio de la Llave||96001|30|96001||29|144|3744|Rural|

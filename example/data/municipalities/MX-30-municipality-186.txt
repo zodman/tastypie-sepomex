@@ -1,0 +1,6 @@
+94170|Tecama|Ejido|Tomatlán|Veracruz de Ignacio de la Llave||94141|30|94141||15|186|2702|Rural|
+94170|Tomatlan|Pueblo|Tomatlán|Veracruz de Ignacio de la Llave||94141|30|94141||28|186|2703|Rural|
+94172|Rafael Guizar y Valencia|Barrio|Tomatlán|Veracruz de Ignacio de la Llave||94141|30|94141||02|186|0001|Urbano|
+94173|Santa Cecilia|Barrio|Tomatlán|Veracruz de Ignacio de la Llave||94141|30|94141||02|186|0003|Urbano|
+94173|San Isidro|Barrio|Tomatlán|Veracruz de Ignacio de la Llave||94141|30|94141||02|186|0002|Urbano|
+94178|Cruz Verde|Ranchería|Tomatlán|Veracruz de Ignacio de la Llave||94141|30|94141||29|186|0004|Rural|

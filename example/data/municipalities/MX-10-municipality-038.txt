@@ -1,0 +1,41 @@
+34890|Vicente Guerrero Centro|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|0892|Urbano|10
+34892|San Antonio|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|1955|Urbano|10
+34892|Los Angeles|Fraccionamiento|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||21|038|6049|Urbano|10
+34892|Revolución|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|1954|Urbano|10
+34893|CNOP|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|1957|Urbano|10
+34893|F.O.V.I.|Fraccionamiento|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||21|038|6045|Urbano|10
+34893|Justicia Social|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|6047|Urbano|10
+34893|INFONAVIT|Fraccionamiento|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||21|038|1956|Urbano|10
+34893|Emiliano Zapata|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|1959|Urbano|10
+34893|Las Américas|Fraccionamiento|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||21|038|3923|Urbano|10
+34893|U.N.E.|Fraccionamiento|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||21|038|6051|Urbano|10
+34893|Olga Margarita Salinas de Gortari|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|1958|Urbano|10
+34893|Nueva España|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|1960|Urbano|10
+34894|José Guadalupe Rodríguez|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|0901|Urbano|10
+34894|Lázaro Cárdenas|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|6050|Urbano|10
+34894|Felipe Angeles|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|6046|Urbano|10
+34894|Las Flores|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|6048|Urbano|10
+34894|Ejidal|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|6043|Urbano|10
+34894|Escritores|Fraccionamiento|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||21|038|6044|Urbano|10
+34894|Loma Bonita|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|0001|Urbano|10
+34895|Héroe de Nacozari|Colonia|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||09|038|2053|Urbano|10
+34895|Negrete|Barrio|Vicente Guerrero|Durango|Vicente Guerrero|34891|10|34891||02|038|1961|Urbano|10
+34896|La Parada|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3930|Rural|
+34896|San José de las Corrientes|Ejido|Vicente Guerrero|Durango||34891|10|34891||15|038|0893|Rural|
+34896|Chicago|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|0899|Rural|
+34897|Alfredo V. Bonfil (Pompeya)|Pueblo|Vicente Guerrero|Durango||34891|10|34891||28|038|3922|Rural|
+34897|Tonalas|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3932|Rural|
+34898|Graceros|Pueblo|Vicente Guerrero|Durango||34891|10|34891||28|038|0895|Rural|
+34898|San Isidro de Murillos|Ejido|Vicente Guerrero|Durango||34891|10|34891||15|038|0897|Rural|
+34898|San Pedro Alcántara|Ejido|Vicente Guerrero|Durango||34891|10|34891||15|038|0902|Rural|
+34898|El Pozo|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3927|Rural|
+34898|El Ancón|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|0898|Rural|
+34898|El Vergel|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3928|Rural|
+34898|Santa Bárbara (Máximo Rodarte Hinojosa)|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3931|Rural|
+34898|El Duraznito|Ejido|Vicente Guerrero|Durango||34891|10|34891||15|038|3924|Rural|
+34898|Estación Vicente Guerrero|Estación|Vicente Guerrero|Durango||34891|10|34891||16|038|3929|Rural|
+34898|Los Copmpadres|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|6042|Rural|
+34898|El Durazno|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3925|Rural|
+34898|El Potrero|Ranchería|Vicente Guerrero|Durango||34891|10|34891||29|038|3926|Rural|
+34898|San Francisco Javier|Ejido|Vicente Guerrero|Durango||34891|10|34891||15|038|0896|Rural|
+34898|San José del Molino|Ejido|Vicente Guerrero|Durango||34891|10|34891||15|038|0900|Rural|

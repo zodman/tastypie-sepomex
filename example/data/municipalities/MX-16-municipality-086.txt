@@ -1,0 +1,23 @@
+59230|El Calvario|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0002|Urbano|
+59230|La Loma|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0005|Urbano|
+59230|Independencia|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0004|Urbano|
+59230|Vicente Guerrero|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0006|Urbano|
+59230|Mora|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0008|Urbano|
+59230|Tanhuato de Guerrero|Villa|Tanhuato|Michoacán de Ocampo||59232|16|59232||32|086|1110|Urbano|
+59230|El Areño|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0001|Urbano|
+59230|San Ramón|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0011|Urbano|
+59230|Onofre Vázquez|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0009|Urbano|
+59230|San Isidro|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0010|Urbano|
+59230|Loma Bonita|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0007|Urbano|
+59230|El Mirador|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0003|Urbano|
+59233|Las Cieneguitas|Ranchería|Tanhuato|Michoacán de Ocampo||59232|16|59232||29|086|3907|Rural|
+59233|La Presa|Ranchería|Tanhuato|Michoacán de Ocampo||59232|16|59232||29|086|0014|Rural|
+59234|San José de Vargas|Congregación|Tanhuato|Michoacán de Ocampo||59232|16|59232||11|086|1111|Rural|
+59234|Tinaja de Vargas|Congregación|Tanhuato|Michoacán de Ocampo||59232|16|59232||11|086|1112|Rural|
+59235|Los Charcos|Congregación|Tanhuato|Michoacán de Ocampo||59232|16|59232||11|086|1109|Rural|
+59237|Tarimoro|Congregación|Tanhuato|Michoacán de Ocampo||59232|16|59232||11|086|1114|Rural|
+59240|Villanueva (Villa Nueva)|Ranchería|Tanhuato|Michoacán de Ocampo||59232|16|59232||29|086|3908|Rural|
+59243|Ejidal Agua Gruesa|Colonia|Tanhuato|Michoacán de Ocampo||59232|16|59232||09|086|0012|Rural|
+59243|Los Mogotes (Los Tres Valles)|Rancho|Tanhuato|Michoacán de Ocampo||59232|16|59232||48|086|0015|Rural|
+59244|La Laguna (Colonia Santa Clara)|Rancho|Tanhuato|Michoacán de Ocampo||59232|16|59232||48|086|0013|Rural|
+59244|Rancho Nuevo|Ranchería|Tanhuato|Michoacán de Ocampo||59232|16|59232||29|086|0016|Rural|

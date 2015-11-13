@@ -1,0 +1,17 @@
+78440|Cerro de San Pedro|Colonia|Cerro de San Pedro|San Luis Potosí||78001|24|78001||09|009|0381|Rural|
+78443|Jesús María|Congregación|Cerro de San Pedro|San Luis Potosí||78001|24|78001||11|009|0383|Rural|
+78444|Monte Caldera|Congregación|Cerro de San Pedro|San Luis Potosí||78001|24|78001||11|009|0384|Rural|
+78445|Cuesta de Campa|Ejido|Cerro de San Pedro|San Luis Potosí||78001|24|78001||15|009|2428|Rural|
+78446|Divisadero|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78001|24|78001||27|009|2934|Rural|
+78446|Calderón|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78001|24|78001||27|009|2936|Rural|
+78446|El Tecolote|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78001|24|78001||27|009|2935|Rural|
+78447|Portezuelo|Ranchería|Cerro de San Pedro|San Luis Potosí||78001|24|78001||29|009|0382|Rural|
+78447|Joyita de La Cruz|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78001|24|78001||27|009|2682|Rural|
+78447|La Zapatilla|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78001|24|78001||27|009|2930|Rural|
+78447|La Sabanilla (Portezuelo)|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78001|24|78001||27|009|2937|Rural|
+78448|Granjas de la Florida|Colonia|Cerro de San Pedro|San Luis Potosí||78343|24|78343||09|009|2938|Rural|
+78448|Campestre Real del Potosí|Colonia|Cerro de San Pedro|San Luis Potosí||78343|24|78343||09|009|2942|Rural|
+78448|Granjas de San Francisco|Colonia|Cerro de San Pedro|San Luis Potosí||78343|24|78343||09|009|2940|Rural|
+78448|Planta del Carmen (El Ocho)|Ejido|Cerro de San Pedro|San Luis Potosí||78343|24|78343||15|009|2429|Rural|
+78448|Los Gómez Lado Oriente|Poblado comunal|Cerro de San Pedro|San Luis Potosí||78343|24|78343||27|009|2939|Rural|
+78448|Granjas de San Pedro|Colonia|Cerro de San Pedro|San Luis Potosí||78343|24|78343||09|009|2941|Rural|

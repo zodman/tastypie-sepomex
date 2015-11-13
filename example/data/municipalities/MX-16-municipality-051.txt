@@ -1,0 +1,32 @@
+59500|Bellavista|Colonia|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||09|051|5021|Urbano|
+59500|Lomas de San José|Colonia|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||09|051|5025|Urbano|
+59500|Dr. Ignacio Chávez|Colonia|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||09|051|5022|Urbano|
+59500|Lindavista|Colonia|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||09|051|5024|Urbano|
+59500|San José de Gracia|Pueblo|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||28|051|1269|Urbano|
+59500|El Durazno|Colonia|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||09|051|5023|Urbano|
+59500|Tenería|Colonia|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||09|051|5026|Urbano|
+59503|Auchén|Ranchería|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||29|051|4701|Rural|
+59503|El Jarrero|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5027|Rural|
+59503|El Potrerito|Rancho|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||48|051|0003|Rural|
+59503|La Loma del Soyate|Rancho|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||48|051|0004|Rural|
+59504|Desviación de los Olivos (La Villita)|Ranchería|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||29|051|5029|Rural|
+59504|La Estancia del Monte (China)|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5030|Rural|
+59504|Barranca de la Virgen|Ranchería|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||29|051|5028|Rural|
+59505|La Villita|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5034|Rural|
+59505|La Frontera|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5031|Rural|
+59505|La Tinaja Seca (La Tinaja)|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5033|Rural|
+59505|Los Olivos de Ordeña|Rancho|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||48|051|0002|Rural|
+59505|La Rosa|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5032|Rural|
+59505|San Miguel|Ranchería|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||29|051|1271|Rural|
+59506|Loma Ojo de Rana|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5036|Rural|
+59506|La Nopalera|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5035|Rural|
+59506|Ojo de Rana|Pueblo|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||28|051|1272|Rural|
+59507|Los Cojos|Ranchería|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||29|051|4750|Rural|
+59507|La Arena|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5037|Rural|
+59507|El Sabino|Ranchería|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||29|051|1273|Rural|
+59508|Izote|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5039|Rural|
+59508|El Espino de Abajo|Rancho|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||48|051|0005|Rural|
+59508|El Espino|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5038|Rural|
+59508|Barranca de la Breña|Rancho|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||48|051|0001|Rural|
+59508|La Tinaja de los Ruiz|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5040|Rural|
+59508|Paso Real|Poblado comunal|Marcos Castellanos|Michoacán de Ocampo||59501|16|59501||27|051|5041|Rural|

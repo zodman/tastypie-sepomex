@@ -1,0 +1,126 @@
+93820|Santa Clara|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2567|Rural|
+93820|Misantla Centro|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2560|Urbano|
+93826|Benito Juárez|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2572|Rural|
+93826|Pedregal 2|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|1008|Rural|
+93826|Mateo Acosta|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0968|Rural|
+93826|Jardines de Misantla|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0845|Rural|
+93826|Alfonso Reyes|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0613|Rural|
+93826|Pedregal 1|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|1007|Rural|
+93826|Ancon Esperanza O El Pedregal|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2571|Rural|
+93826|Nizin|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0988|Rural|
+93826|Francisco Villa|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2573|Rural|
+93826|La Gloria|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2574|Rural|
+93826|Sector Popular|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2575|Rural|
+93827|Carlos Roberto Smith|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0669|Rural|
+93827|Miradores|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0973|Rural|
+93827|Puerto Palchan|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2576|Urbano|
+93827|Rafael Ramirez La Voignet|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2577|Rural|
+93828|Cristian Magnani de Alemán|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0815|Rural|
+93828|20 de Noviembre|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|1161|Rural|
+93828|Espaldilla|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2580|Rural|
+93828|Emiliano Zapata|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0003|Urbano|
+93828|Teresa Peñafiel|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2581|Rural|
+93828|Manuel Villaraus|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0962|Rural|
+93828|Los Libreros|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|7893|Urbano|
+93828|5 de Mayo|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2579|Urbano|
+93828|Aviación|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2578|Rural|
+93829|Marco Antonio Muñoz|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2583|Rural|
+93829|Maestros Veracruzanos|Unidad habitacional|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||31|109|0001|Urbano|
+93829|Lindavista|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2582|Urbano|
+93829|Luz Divina Morales|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|0952|Rural|
+93829|Obrera|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|2584|Urbano|
+93830|La Defensa|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2586|Rural|
+93830|La Concordia|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6563|Rural|
+93830|La Unión|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6566|Rural|
+93830|La Constancia|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6564|Rural|
+93830|Troncones|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2588|Rural|
+93830|La Guadalupe|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6565|Rural|
+93830|Máximo García|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6567|Rural|
+93830|Rancho Nuevo|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6558|Rural|
+93830|Coapeche|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2585|Rural|
+93830|La Reforma|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2589|Rural|
+93833|La Libertad|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2591|Rural|
+93833|Guadalupe Victoria|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2603|Rural|
+93833|Rancho Alegre|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6557|Rural|
+93833|San Felipe|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6559|Rural|
+93833|Palpoala Ixcan|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2600|Rural|
+93833|Loma Bonita|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6554|Rural|
+93833|Colorado Chico|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6549|Rural|
+93833|Palmira de Hidalgo|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6555|Rural|
+93833|El Diamante|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6550|Rural|
+93834|La Lima|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2559|Rural|
+93834|Primavera|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2594|Rural|
+93834|Cerro Quebrado|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6548|Rural|
+93834|La Unión|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6553|Rural|
+93834|Poza del Tigre|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6556|Rural|
+93834|Arroyo Hondo|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2593|Rural|
+93834|Vista Hermosa|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6562|Rural|
+93835|C. Escamilla|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6538|Rural|
+93835|Pipianales|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6545|Rural|
+93835|La Sabana|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6542|Rural|
+93835|Venustiano Carranza|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2596|Rural|
+93835|Congregación Fundo Legal Palpoala Ixcán|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6539|Rural|
+93835|La Soledad|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6543|Rural|
+93835|Mafafas|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6544|Rural|
+93835|San Francisco|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6546|Rural|
+93836|Plan de La Vieja|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2564|Rural|
+93836|Brazo Seco|Congregación|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||11|109|6533|Rural|
+93836|La Joya|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6541|Rural|
+93836|Loma Bonita|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2587|Rural|
+93836|La Habana|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6540|Rural|
+93836|Loma Del Cojolite|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2597|Rural|
+93837|Arroyo Frío|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2570|Rural|
+93837|Plan de La Vega|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2563|Rural|
+93837|Balderas|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6532|Rural|
+93837|La Paola|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6535|Rural|
+93837|La Reforma (Kilómetro 9)|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|7225|Rural|
+93837|El Carmen o K.M 5|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6593|Rural|
+93837|El Gavilán|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6534|Rural|
+93837|Rancho Nuevo|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6536|Rural|
+93837|R. de La Miel|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6537|Rural|
+93840|Las Lajas|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6575|Rural|
+93840|Ignacio Zaragoza|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2592|Rural|
+93840|Francisco Sarabia|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2590|Rural|
+93840|El Carmen|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6570|Rural|
+93840|Puerto Chico|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6577|Rural|
+93843|La Capilla|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6574|Rural|
+93843|Tapapulum|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2568|Rural|
+93843|Morelos|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2561|Rural|
+93843|El Pozon|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2601|Rural|
+93843|Chapachapa|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6569|Rural|
+93843|Poxtitlan|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2595|Rural|
+93843|Allende|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6568|Rural|
+93843|Santa Cruz Hidalgo|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2598|Rural|
+93844|Plan Grande|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6576|Rural|
+93844|Arroyo Negro|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6547|Rural|
+93844|El Valle|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6573|Rural|
+93844|Buenos Aires|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2558|Rural|
+93844|Los Ídolos|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2602|Rural|
+93844|La Pahua|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6551|Rural|
+93844|Santa Julia|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6560|Rural|
+93844|Guadalupe Victoria (La Vaquería)|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6561|Rural|
+93844|La Piedad|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6552|Rural|
+93845|Pueblo Viejo|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2565|Rural|
+93845|Paso Blanco|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2562|Rural|
+93845|Trapiches|Ejido|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||15|109|2604|Rural|
+93845|Santa Cruz Buena Vista|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6586|Rural|
+93846|Francisco I. Madero|Colonia|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||09|109|6589|Rural|
+93846|Salvador Diaz Mirón|Pueblo|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||28|109|2566|Rural|
+93846|Manuel Gutiérrez Najera|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6592|Rural|
+93846|La Loma|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6588|Rural|
+93846|El Mirador|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6590|Rural|
+93846|Guillermo Badillo|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6587|Rural|
+93846|Zacatal|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6591|Rural|
+93847|El Lirial|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6571|Rural|
+93847|Manantiales|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6580|Rural|
+93847|Moxillon|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6581|Rural|
+93847|Independencia|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2605|Rural|
+93847|Barranca del Tigre|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6578|Rural|
+93847|Torrecillas|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6583|Rural|
+93847|La Mesa|Rancho|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||48|109|0002|Rural|
+93847|Juan Jacobo Torres (La Monera)|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6579|Rural|
+93847|Plan de Guerrero|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6585|Rural|
+93847|Vicente Guerrero|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|2599|Rural|
+93847|El Mirasol|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6572|Rural|
+93847|Palma Sola|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6582|Rural|
+93847|Cruz Verde|Ranchería|Misantla|Veracruz de Ignacio de la Llave||93821|30|93821||29|109|6584|Rural|

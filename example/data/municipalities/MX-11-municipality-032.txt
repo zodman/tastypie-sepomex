@@ -1,0 +1,210 @@
+37980|San José Iturbide Centro|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|2337|Urbano|32
+37983|Buenavista 1ra. Seccion|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8094|Urbano|32
+37983|Buenavista 4ta. Seccion|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8097|Urbano|32
+37983|Buenavista II|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8098|Urbano|32
+37983|La Llorona 2a. Secc.|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8106|Urbano|32
+37983|Las Mercedes|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8108|Urbano|32
+37983|Buenavista 3ra. Seccion|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8096|Urbano|32
+37983|La Llorona|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|4210|Urbano|32
+37983|Prados del Rosario|Fraccionamiento|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||21|032|5497|Urbano|32
+37983|Buenavista|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8093|Urbano|32
+37983|Prados del Rosario 2da. Sección|Fraccionamiento|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||21|032|8112|Urbano|32
+37983|La Llorona 1a. Secc.|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8105|Urbano|32
+37983|Padres Marías|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8111|Urbano|32
+37983|Villas de San José|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8117|Urbano|32
+37983|Buenavista 2da. Seccion|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8095|Urbano|32
+37984|Santa Elena|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8114|Urbano|32
+37984|Lomas del Calvario|Fraccionamiento|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||21|032|8109|Urbano|32
+37984|El Mirador|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8100|Urbano|32
+37984|Lomas del Cerrito|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8110|Urbano|32
+37984|San José del Sol|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8113|Urbano|32
+37984|Vista Real|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8118|Urbano|32
+37984|Colinas de San José|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8099|Urbano|32
+37984|Peña Taurina|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|4211|Urbano|32
+37984|El Tepetate|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8103|Urbano|32
+37985|Jardines de Maria Teresa|Fraccionamiento|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||21|032|8104|Urbano|32
+37985|Valle Alameda|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8115|Urbano|32
+37985|La Deportiva|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|4212|Rural|32
+37985|El Pinito|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8102|Urbano|32
+37985|Nicolás Campa|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|4213|Urbano|32
+37985|Arboladas|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8092|Urbano|32
+37985|La Purisima|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8107|Urbano|32
+37985|Villa Corzo|Fraccionamiento|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||21|032|8116|Urbano|32
+37985|El Panteón|Colonia|San José Iturbide|Guanajuato|San José Iturbide|37981|11|37981||09|032|8101|Urbano|32
+37986|La Venta|Congregación|San José Iturbide|Guanajuato||37981|11|37981||11|032|2334|Rural|
+37986|La Cantera|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2348|Rural|
+37986|La Cinta|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2349|Rural|
+37986|La Huerta|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2350|Rural|
+37986|Arroyo del Gachupín|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7953|Rural|
+37986|Fraccionamiento Residencial del Valle|Fraccionamiento|San José Iturbide|Guanajuato||37981|11|37981||21|032|8008|Rural|
+37986|El Tepetate|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7995|Rural|
+37986|El Lince|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7977|Rural|
+37986|Rancho Viejo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8075|Rural|
+37986|Granja la Purísima|Granja|San José Iturbide|Guanajuato||37981|11|37981||23|032|8010|Rural|
+37986|Fraccionamiento la Cantera|Fraccionamiento|San José Iturbide|Guanajuato||37981|11|37981||21|032|8006|Rural|
+37986|Las Cajitas|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8040|Rural|
+37986|Rancho Nuevo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8072|Rural|
+37987|Puerta de Españita|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8062|Rural|
+37987|El Chupadero (Agua Zarca)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7966|Rural|
+37987|El Patolito|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2343|Rural|
+37987|Puerto de Carroza|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2341|Rural|
+37987|Españita|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8000|Rural|
+37987|El Guajolote|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2342|Rural|
+37987|Presa los Vargas|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8060|Rural|
+37987|El Charape de los Pelones|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7964|Rural|
+37987|El Patol|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7987|Rural|
+37988|El Mosqueado (Allende)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7980|Rural|
+37988|El Mastranto|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7978|Rural|
+37988|Las Tinajas del Arenal|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8050|Rural|
+37988|El Arenal de Abajo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2345|Rural|
+37988|El Arenal de Arriba|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2346|Rural|
+37988|La Dura|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8023|Rural|
+37988|El Capiro|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7959|Rural|
+37988|El Cerrito del Arenal|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7962|Rural|
+37990|Rancho Largo (Barrio de Aldama)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2365|Rural|
+37990|Tulillo de Abajo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2366|Rural|
+37990|Jesús María de Abajo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8014|Rural|
+37990|La Laguna|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8027|Rural|
+37990|San Martín|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8081|Rural|
+37990|La Fragua|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2362|Rural|
+37990|El Huizache de Galomo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7974|Rural|
+37990|El Nacimiento|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7981|Rural|
+37990|El Nacimiento Tres (Granja el Socorro)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7982|Rural|
+37990|El Paraíso|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7984|Rural|
+37990|El Tepetate|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7996|Rural|
+37990|Maguey Cuate|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8057|Rural|
+37990|Rancho el Colorado|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8066|Rural|
+37990|Rancho Guadalupe (El Nacimiento Dos)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8068|Rural|
+37990|Tulillo de Arriba|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8087|Rural|
+37990|El Crucero del Galomo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7969|Rural|
+37990|Jesús María de Arriba|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8015|Rural|
+37990|Rancho Capilla de Guadalupe|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8065|Rural|
+37990|Cruz de La Maza|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2360|Rural|
+37990|El Galomo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2361|Rural|
+37990|El Cerrito de Galomo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7961|Rural|
+37990|El Ciprés|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7967|Rural|
+37990|La Nueva Trinidad|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8031|Rural|
+37990|El Pozo Blanco de Galomo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7988|Rural|
+37990|La Norita del Refugio|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8030|Rural|
+37990|Rancho el Trébol [Comercializadora]|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8067|Rural|
+37990|San Sebastián del Salitre|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2353|Rural|
+37990|Las Golondrinas|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8042|Rural|
+37990|Las Liebres|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8043|Rural|
+37990|Tepozanes|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8086|Rural|
+37991|El Capulín|Congregación|San José Iturbide|Guanajuato||37981|11|37981||11|032|2355|Rural|
+37993|Atonguito|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7954|Rural|
+37993|El Paraíso|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7985|Rural|
+37993|El Cárcamo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7970|Rural|
+37993|El Huizachal|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7972|Rural|
+37993|La Canela|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8019|Rural|
+37993|La Colmena|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8021|Rural|
+37993|La Palmita|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8032|Rural|
+37993|Rancho Moctezuma|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8071|Rural|
+37993|San Antonio del Llano|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8077|Rural|
+37993|Ojo de Diego|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2370|Rural|
+37993|El Huizachal|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7973|Rural|
+37993|Granja María Luisa|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8011|Rural|
+37993|Las Adjuntas|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8039|Rural|
+37993|La Soledad de Arriba|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2371|Rural|
+37993|Quinta las Mercedes|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8064|Rural|
+37993|Villa Elena|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8091|Rural|
+37993|Los Vega de Abajo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8055|Rural|
+37993|La Ascensión (El Milagro)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8018|Rural|
+37993|La Reforma|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8035|Rural|
+37993|Pueblo Nuevo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8061|Rural|
+37993|Viborillas|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8090|Rural|
+37993|Los Chávez|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8051|Rural|
+37993|Los Vega de Arriba|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8056|Rural|
+37993|San Antonio Viborillas|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8078|Rural|
+37994|El Bordo (Filiberto Leal)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7958|Rural|
+37994|La Acequia (Las Canoas)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8017|Rural|
+37994|La Ciénega|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8020|Rural|
+37994|La Estancita del Capulín|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8025|Rural|
+37994|San Rafael de las Medias|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8082|Rural|
+37994|La Escondida|Hacienda|San José Iturbide|Guanajuato||37981|11|37981||24|032|2369|Rural|
+37994|El Saucito|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7993|Rural|
+37994|Valle Verde|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8088|Rural|
+37994|Los Terreros|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2357|Rural|
+37994|El Magueyal (La Esquina)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2372|Rural|
+37994|Abel Rico Mendoza|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7952|Rural|
+37994|El Florete|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7971|Rural|
+37994|La Garrapata|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8026|Rural|
+37994|Casa Digna|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7955|Rural|
+37994|Fátima|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8009|Rural|
+37994|Las Canoas|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8041|Rural|
+37994|Las Medias|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8045|Rural|
+37994|El Conejo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7968|Rural|
+37994|La Loma de los Terreros|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8028|Rural|
+37994|Las Talegas (Anastacio Basaldéa Nieto)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8048|Rural|
+37994|La Yerbabuena|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2359|Rural|
+37994|Miranda|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2373|Rural|
+37994|Pozo Blanco del Capulín|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2374|Rural|
+37994|La Estancia del Capulín|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8024|Rural|
+37994|Puerto de la Ceniza|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8063|Rural|
+37994|Guadalupe (Hacienda de Guadalupe)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8013|Rural|
+37994|San Isidro|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8079|Rural|
+37995|El Charco (Tabicapulín)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7965|Rural|
+37995|Carbajal|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2354|Rural|
+37995|María de la Luz|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8058|Rural|
+37995|Los Encinos|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8052|Rural|
+37995|Rincón de Santa Anita|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2335|Rural|
+37995|El Jaralillo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7975|Rural|
+37995|El Mezquital|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7979|Rural|
+37995|El Zorrillo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7999|Rural|
+37995|Ojo de Agua del Refugio|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2358|Rural|
+37995|El Puertecito|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7989|Rural|
+37995|El Tapanco|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7994|Rural|
+37995|El Zapote|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7998|Rural|
+37995|Santa Anita|Congregación|San José Iturbide|Guanajuato||37981|11|37981||11|032|2338|Rural|
+37995|El Cerro del Pájaro (El Eucalipto)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7963|Rural|
+37995|Las Tuzas|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2356|Rural|
+37995|El Panalito|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7983|Rural|
+37995|Las Nopaleras|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8046|Rural|
+37996|El Arquito (El Arquito Buenavistilla)|Ejido|San José Iturbide|Guanajuato||37981|11|37981||15|032|7957|Rural|
+37996|Medina|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2340|Rural|
+37996|Rancho Nuevo de Buenavistilla|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2344|Rural|
+37996|Estancia de San Diego|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8001|Rural|
+37996|La Torna|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8037|Rural|
+37996|Buenavistilla|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2339|Rural|
+37996|San Diego de las Trasquilas|Ejido|San José Iturbide|Guanajuato||37981|11|37981||15|032|2336|Rural|
+37996|El Rincón de Medina|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7992|Rural|
+37997|Cinco de Mayo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2367|Rural|
+37997|El Ranchito de la Huerta|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7991|Rural|
+37997|Ex-Hacienda San Jerónimo|Hacienda|San José Iturbide|Guanajuato||37981|11|37981||24|032|8003|Rural|
+37997|Granja Santa Imelda|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8012|Rural|
+37997|La Luz|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8029|Rural|
+37997|Eugenio González (Fracciones la Alameda)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8002|Rural|
+37997|La Palmita del Cinco de Mayo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8033|Rural|
+37997|San Jerónimo|Hacienda|San José Iturbide|Guanajuato||37981|11|37981||24|032|2351|Rural|
+37997|Colonia San Francisco|Colonia|San José Iturbide|Guanajuato||37981|11|37981||09|032|7956|Rural|
+37997|El Carmen|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7960|Rural|
+37997|El Ranchito|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7990|Rural|
+37997|Rancho Santa Rita|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8074|Rural|
+37997|San Antonio de la Ascensión|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8076|Rural|
+37997|La Alameda|Hacienda|San José Iturbide|Guanajuato||37981|11|37981||24|032|2368|Rural|
+37997|Fraccionamiento Cajeme|Fraccionamiento|San José Iturbide|Guanajuato||37981|11|37981||21|032|8005|Rural|
+37997|La Purísima de la Huerta|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8034|Rural|
+37997|Las Tienditas|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8049|Rural|
+37997|Rancho la Ascensión|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8069|Rural|
+37997|El Parque|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7986|Rural|
+37997|Las Ánimas|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8038|Rural|
+37997|Nuevo Cinco de Mayo|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8059|Rural|
+37997|Rancho San Jerónimo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8073|Rural|
+37997|Viborillas|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8089|Rural|
+37997|Fraccionamiento Lomas del Vergel|Fraccionamiento|San José Iturbide|Guanajuato||37981|11|37981||21|032|8007|Rural|
+37997|Rancho la Flor|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8070|Rural|
+37997|Santa María de los Remedios|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8085|Rural|
+37998|El Jobero|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|7976|Rural|
+37998|El Vino|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|7997|Rural|
+37998|La Soledad|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8036|Rural|
+37998|Los Olivos (Los Tildios)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8053|Rural|
+37998|Kilómetro 57 [Fonda]|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8016|Rural|
+37998|Los Tildios|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8054|Rural|
+37998|Fracción la Loma (Fracción la Loma el Jorero)|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8004|Rural|
+37998|Las Liebres del Capulín|Ejido|San José Iturbide|Guanajuato||37981|11|37981||15|032|8044|Rural|
+37998|Las Pomas (San Rafael de las Pomas)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8047|Rural|
+37998|San José de la Cruz|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8080|Rural|
+37998|Santa Brígida|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8084|Rural|
+37998|La Concepción de Abajo|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|2364|Rural|
+37998|La Concepción de Arriba (La Concha)|Poblado comunal|San José Iturbide|Guanajuato||37981|11|37981||27|032|8022|Rural|
+37998|San Rafael de las Pomas|Ranchería|San José Iturbide|Guanajuato||37981|11|37981||29|032|8083|Rural|

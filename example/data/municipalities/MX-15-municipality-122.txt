@@ -1,0 +1,35 @@
+56610|San Miguel las Tablas|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|6391|Urbano|21
+56610|Alfredo Baranda|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4415|Urbano|21
+56610|Américas|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4416|Urbano|21
+56610|Niños Héroes|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4418|Urbano|21
+56613|San Miguel Xico|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4421|Urbano|21
+56614|Cerro del Marques|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4425|Urbano|21
+56614|San Martín Xico La Laguna|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4426|Urbano|21
+56614|Ex-hacienda Xico|Unidad habitacional|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||31|122|8944|Urbano|21
+56614|Real de San Martín|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|7887|Urbano|21
+56614|Central de Abasto|Equipamiento|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||17|122|9623|Urbano|21
+56614|Antorcha Valle de Chalco|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|9624|Urbano|21
+56615|El Agostadero|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|6392|Urbano|21
+56615|Santiago|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4429|Urbano|21
+56615|María Isabel|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4428|Urbano|21
+56615|Concepción|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4427|Urbano|21
+56616|Guadalupana|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4430|Urbano|21
+56616|Providencia|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4432|Urbano|21
+56617|Jardín|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4435|Urbano|21
+56617|El Triunfo|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4433|Urbano|21
+56617|San Isidro|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4436|Urbano|21
+56617|Independencia|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4434|Urbano|21
+56617|Santa Cruz|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4437|Urbano|21
+56618|Geovillas la Asunción|Unidad habitacional|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||31|122|0145|Urbano|21
+56618|San Juan Tlalpizahuac|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4441|Urbano|21
+56618|La Asunción|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|6394|Urbano|21
+56618|Carlos Salinas de Gortari|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|5618|Urbano|21
+56618|Darío Martínez II Sección|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4439|Urbano|21
+56618|Avándaro|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4438|Urbano|21
+56618|Emiliano Zapata|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4440|Urbano|21
+56618|San Gregorio|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|6395|Urbano|21
+56619|Alfredo del Mazo|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4442|Urbano|21
+56619|Del Carmen|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4444|Urbano|21
+56619|Santa Catarina|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|6393|Urbano|21
+56619|Ampliación Santa Catarina|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4445|Rural|21
+56619|Darío Martínez I Sección|Colonia|Valle de Chalco Solidaridad|México|Valle de Chalco Solidaridad|56612|15|56612||09|122|4443|Urbano|21

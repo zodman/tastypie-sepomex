@@ -1,0 +1,157 @@
+42800|Centro|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0786|Urbano|05
+42800|Las Palmas|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|2215|Urbano|05
+42803|Bugambilias|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|2866|Urbano|05
+42803|Los Sabinos|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|5492|Urbano|05
+42803|La Huerta|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|6162|Urbano|05
+42803|Mastrantos|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|2514|Urbano|05
+42803|Chapultepec|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|5493|Urbano|05
+42803|El Llano 1a Sección|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0800|Urbano|05
+42803|Las Rosas|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|2509|Urbano|05
+42803|Quinta las Rosas|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|2583|Urbano|05
+42803|Tierra Blanca|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|5491|Urbano|05
+42803|Lomas de Iturbe|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|0002|Urbano|05
+42803|San Lorenzo|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0790|Urbano|05
+42803|El Cielito|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0789|Urbano|05
+42803|Iturbe|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0801|Urbano|05
+42803|Tultengo|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0807|Urbano|05
+42803|INFONAVIT San Marcos|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|0973|Urbano|05
+42803|Del Llano|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|5482|Urbano|05
+42803|El Llano 2a Sección|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|2214|Urbano|05
+42803|Rinconada de Tultengo|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|2857|Urbano|05
+42804|Jalpa|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0791|Urbano|05
+42804|Loma Blanca|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|2836|Urbano|05
+42804|Los Fresnos|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|2116|Urbano|05
+42805|San José|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0792|Urbano|05
+42806|Alvarado|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0793|Urbano|05
+42807|Las Manzanitas|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|2698|Urbano|05
+42807|FOVISSSTE|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|0958|Urbano|05
+42807|Barrio Alto|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0794|Urbano|05
+42807|El Huerto|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|1059|Urbano|05
+42807|Tollan|Unidad habitacional|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||31|076|2117|Urbano|05
+42808|El Salitre|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|2115|Urbano|05
+42808|PEMEX|Unidad habitacional|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||31|076|0795|Urbano|05
+42808|El Salitre|Fraccionamiento|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||21|076|2228|Urbano|05
+42808|Villas del Salitre|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|5490|Urbano|05
+42808|16 de Enero 2da. Ampliación (El Tesoro)|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|1079|Urbano|05
+42809|La Malinche|Colonia|Tula de Allende|Hidalgo|Tula de Allende|42801|13|42801||09|076|0796|Urbano|05
+42810|Santa María Macua|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0798|Rural|
+42810|La Cuarta Manzana|Poblado comunal|Tula de Allende|Hidalgo||42801|13|42801||27|076|5521|Rural|
+42810|Héroes Carranza|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0797|Rural|
+42812|Xiteje de la Reforma|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0799|Rural|
+42813|La Milpa de García|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5524|Rural|
+42813|Xijay de Cuauhtémoc|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|0808|Rural|
+42813|El Cerrito|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5513|Rural|
+42813|San Miguel de las Piedras Segunda Sección|Poblado comunal|Tula de Allende|Hidalgo||42801|13|42801||27|076|5532|Rural|
+42813|San Miguel de las Piedras Primera Sección|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0805|Rural|
+42813|Santa María Michimaltongo|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5505|Rural|
+42814|Nantzha|Barrio|Tula de Allende|Hidalgo||42801|13|42801||02|076|0784|Rural|
+42814|Tenjay|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5507|Rural|
+42814|El Crestón|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5515|Rural|
+42814|San Andrés (San Andrés Tultepec)|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0785|Rural|
+42815|Xonthe|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5536|Rural|
+42815|Xochitlán de las Flores|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0787|Rural|
+42815|El Paso|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5518|Rural|
+42815|La Magdalena|Exhacienda|Tula de Allende|Hidalgo||42801|13|42801||18|076|5520|Rural|
+42816|Tula (Arriba del Parque Ecológico)|Ejido|Tula de Allende|Hidalgo||42801|13|42801||15|076|5511|Rural|
+42816|La Mezquitera|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5523|Rural|
+42820|Michimaloya|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0802|Rural|
+42820|El Vindhó|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2548|Rural|
+42820|Santa María Michimaltongo|Barrio|Tula de Allende|Hidalgo||42801|13|42801||02|076|0806|Rural|
+42820|San Antonio Tula|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|0803|Rural|
+42820|La Poza|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2864|Rural|
+42820|Xiteje de Zapata|Poblado comunal|Tula de Allende|Hidalgo||42801|13|42801||27|076|5535|Rural|
+42820|El Venado|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|6165|Rural|
+42823|Privada los Cipreces|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5488|Urbano|
+42823|Los Sauces|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5487|Urbano|
+42823|Arboledas|Residencial|Tula de Allende|Hidalgo||42801|13|42801||30|076|5489|Urbano|
+42824|San Pedro|Barrio|Tula de Allende|Hidalgo||42801|13|42801||02|076|5486|Urbano|
+42824|San Carlos|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5484|Urbano|
+42824|San Pedro|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5483|Urbano|
+42824|De Ferrocarrileros|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5485|Urbano|
+42825|Santa Ana Ahuehuepan|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0809|Urbano|
+42826|Los Truenitos|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5530|Rural|
+42826|Praderas del Llano|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5527|Rural|
+42826|Teocalco|Poblado comunal|Tula de Allende|Hidalgo||42801|13|42801||27|076|5533|Rural|
+42826|Ingenieros de Refinería|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2208|Rural|
+42827|San Francisco Bojay|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|0804|Rural|
+42827|Benito Juárez|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2210|Rural|
+42827|San Francisco Bojay|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|5531|Rural|
+42827|Bojay|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5529|Rural|
+42827|Julián Villagrán|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5503|Rural|
+42827|Antonio Guerrero Briseño|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5498|Rural|
+42830|El Canal|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2211|Urbano|
+42830|La Joya|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2511|Urbano|
+42830|El Carmen|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|2271|Urbano|
+42830|Los Pirules|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|6163|Urbano|
+42830|San Pedro Alpuyeca|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0812|Urbano|
+42830|Tolteca|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0813|Urbano|
+42831|San Marcos|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0814|Urbano|
+42832|Bomintzha Centro|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|0815|Urbano|
+42833|El Damu|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5473|Urbano|
+42833|La Vuelta del Río|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5466|Urbano|
+42833|Tolteca|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5476|Urbano|
+42833|El Plan|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5480|Urbano|
+42833|Los Muelles|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5478|Urbano|
+42833|Empleados Tolteca|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5479|Urbano|
+42833|La Hacienda|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5739|Urbano|
+42833|Tolteca|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5477|Urbano|
+42833|CFE|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5474|Urbano|
+42833|El Montecillo|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5475|Urbano|
+42833|Bugambilias|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5496|Urbano|
+42833|Los Cedros|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5481|Urbano|
+42834|El Rayo|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5467|Urbano|
+42834|Netzahualcoyotl|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5582|Urbano|
+42834|Satélite|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5469|Urbano|
+42834|La Bombita|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5468|Urbano|
+42834|Galaxia|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5472|Urbano|
+42834|Las Violetas|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|5471|Urbano|
+42834|El Salto|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5470|Urbano|
+42835|La Mezquitera|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5522|Rural|
+42835|El Cerrito|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5514|Rural|
+42835|El Godo|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5516|Rural|
+42835|El Ocote|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5517|Rural|
+42835|El Carmen (La Mesita)|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5512|Rural|
+42836|El Saabi|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5501|Rural|
+42836|Sesenta y Dos|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5506|Rural|
+42836|Los Lagos|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|2850|Rural|
+42836|Nueva Santa María|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5504|Rural|
+42836|Loma Bonita|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2811|Rural|
+42836|El Sesenta y Uno|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5502|Rural|
+42836|El Zaus|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|6161|Rural|
+42837|Acoculco|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5497|Rural|
+42837|San Lucas Teacalco|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0819|Rural|
+42837|Jardines de San Miguel|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|2507|Rural|
+42837|El Recinto (Ejido Pueblo Nuevo)|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|5500|Rural|
+42837|Acoculco (Dos Peñas)|Ejido|Tula de Allende|Hidalgo||42801|13|42801||15|076|5509|Rural|
+42837|El Puendhó|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5519|Rural|
+42837|Las Cortinas|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5525|Rural|
+42837|Pueblo Nuevo (La Subida)|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5528|Rural|
+42837|San Lucas Teacalco|Ejido|Tula de Allende|Hidalgo||42801|13|42801||15|076|5510|Rural|
+42838|Cerrito del Tepeyac|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5499|Rural|
+42838|Ignacio Zaragoza|Pueblo|Tula de Allende|Hidalgo||42801|13|42801||28|076|0817|Rural|
+42838|Leonardo Rodríguez Alcaine|Fraccionamiento|Tula de Allende|Hidalgo||42801|13|42801||21|076|6153|Rural|
+42838|La Amistad|Colonia|Tula de Allende|Hidalgo||42801|13|42801||09|076|2900|Rural|
+42838|Tercera Manzana|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5534|Rural|
+42838|Montecillos|Ranchería|Tula de Allende|Hidalgo||42801|13|42801||29|076|5526|Rural|
+42840|Ciudad Cooperativa Cruz Azul Centro|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0816|Urbano|14
+42842|San Miguel Vindhó|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0820|Urbano|14
+42843|La Loma|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0989|Urbano|14
+42843|La Romera|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|2076|Urbano|14
+42843|Los Naranjos|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|2078|Urbano|14
+42843|La Loma|Fraccionamiento|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||21|076|5494|Urbano|14
+42844|Pedregal|Finca|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||20|076|2079|Urbano|14
+42845|Pueblo Nuevo|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|2081|Urbano|14
+42846|El Mirador|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|2082|Urbano|14
+42846|Monte Alegre|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|1025|Urbano|14
+42846|La Pila|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|5495|Urbano|14
+42846|Cruz Azul|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|2080|Urbano|14
+42847|El Chamizal|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0945|Urbano|14
+42847|Pueblo Nuevo 2a Sección|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0929|Urbano|14
+42847|10 de Diciembre|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0935|Urbano|14
+42847|Los Arcos|Fraccionamiento|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||21|076|2808|Urbano|14
+42847|El Cerrito|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0943|Urbano|14
+42848|Alborada|Fraccionamiento|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||21|076|0896|Urbano|14
+42848|Dengui|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|5508|Urbano|14
+42848|Independencia|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|2077|Urbano|14
+42849|Las Nueces|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|5836|Urbano|14
+42849|Santa María Ilucan|Colonia|Tula de Allende|Hidalgo|Cruz Azul|42841|13|42841||09|076|0821|Urbano|14

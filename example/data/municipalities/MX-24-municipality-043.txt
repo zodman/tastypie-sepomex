@@ -1,0 +1,13 @@
+79590|Tierranueva Centro|Colonia|Tierra Nueva|San Luis Potosí|Tierra Nueva|79561|24|79561||09|043|1397|Semiurbano|15
+79592|Los Nogales|Barrio|Tierra Nueva|San Luis Potosí|Tierra Nueva|79561|24|79561||02|043|2806|Urbano|15
+79592|El Original|Barrio|Tierra Nueva|San Luis Potosí|Tierra Nueva|79561|24|79561||02|043|1897|Semiurbano|15
+79592|De los Moros|Barrio|Tierra Nueva|San Luis Potosí|Tierra Nueva|79561|24|79561||02|043|1896|Semiurbano|15
+79593|Rancho la Cebada|Rancho|Tierra Nueva|San Luis Potosí||79561|24|79561||48|043|0004|Rural|
+79593|El Santuario|Barrio|Tierra Nueva|San Luis Potosí|Tierra Nueva|79561|24|79561||02|043|1895|Semiurbano|15
+79594|La Piedad|Barrio|Tierra Nueva|San Luis Potosí|Tierra Nueva|79561|24|79561||02|043|1894|Semiurbano|15
+79595|Paisanos|Colonia|Tierra Nueva|San Luis Potosí||79561|24|79561||09|043|0001|Rural|
+79595|Hacienda Vieja|Ranchería|Tierra Nueva|San Luis Potosí||79561|24|79561||29|043|1399|Rural|
+79595|Rancho San Gabriel|Ranchería|Tierra Nueva|San Luis Potosí||79561|24|79561||29|043|3013|Rural|
+79595|El Salitre Grande|Rancho|Tierra Nueva|San Luis Potosí||79561|24|79561||48|043|0002|Rural|
+79595|El Patol|Ranchería|Tierra Nueva|San Luis Potosí||79561|24|79561||29|043|2492|Rural|
+79599|Labor de Osolla|Rancho|Tierra Nueva|San Luis Potosí||79561|24|79561||48|043|0003|Rural|

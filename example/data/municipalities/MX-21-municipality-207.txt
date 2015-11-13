@@ -1,0 +1,51 @@
+73680|Comaltepec|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1208|Rural|
+73680|Los Cristales|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|7754|Rural|
+73680|La Cortadura|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|7757|Rural|
+73680|Santa Cruz Xaltetela|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1196|Rural|
+73680|Zacapoaxtla Centro|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|1199|Rural|
+73680|Texpilco|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7755|Rural|
+73680|Zacapexpan|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7756|Rural|
+73680|La Concordia|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|7758|Rural|
+73681|Las Lomas|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1200|Rural|
+73683|Tatzcuala|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1202|Rural|
+73684|Cohuatzalpan|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7744|Rural|
+73684|El Progreso|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1203|Rural|
+73685|Los Cristales (Talican)|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|7740|Rural|
+73685|San Francisco Zacapexpan|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7748|Rural|
+73685|San Carlos|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7736|Rural|
+73685|Nexpanateno|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|1204|Rural|
+73685|Ahuatepec|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7728|Rural|
+73685|Apulco|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7743|Rural|
+73685|La Cañada|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7733|Rural|
+73686|Ahuacatlán|Pueblo|Zacapoaxtla|Puebla||73682|21|73682||28|207|1205|Rural|
+73686|Colos|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7742|Rural|
+73687|Ocotlán|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7730|Rural|
+73687|Xochitepec|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1198|Rural|
+73687|Moragco|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7731|Rural|
+73687|Xilita|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7739|Rural|
+73687|San Juan Tahitic|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1195|Rural|
+73687|Tepoxac|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7727|Rural|
+73688|Xalacapan|Pueblo|Zacapoaxtla|Puebla||73682|21|73682||28|207|1206|Rural|
+73689|La Ermita|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7732|Rural|
+73689|Insurgentes|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7741|Rural|
+73689|Xaltipac|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1197|Rural|
+73689|Jardín de los Volcanes|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7737|Rural|
+73689|Calcahualco|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7753|Rural|
+73689|Los Manzanos|Colonia|Zacapoaxtla|Puebla||73682|21|73682||09|207|7734|Rural|
+73690|Jilotepec|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1207|Rural|
+73691|La Libertad|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1210|Rural|
+73692|Cuacuilco|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1211|Rural|
+73692|Yanhuicapan|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7738|Rural|
+73693|Tatoxcac|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|1212|Rural|
+73694|Independencia (Xiuteno)|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7745|Rural|
+73694|Nexticapan|Pueblo|Zacapoaxtla|Puebla||73682|21|73682||28|207|7750|Rural|
+73694|El Molino|Ejido|Zacapoaxtla|Puebla||73682|21|73682||15|207|1209|Rural|
+73694|Atacpan|Pueblo|Zacapoaxtla|Puebla||73682|21|73682||28|207|1213|Rural|
+73694|Héroes del Cinco de Mayo|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7747|Rural|
+73697|Ixtacapan|Ejido|Zacapoaxtla|Puebla||73682|21|73682||15|207|1214|Rural|
+73697|San José Buena Vista|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7729|Rural|
+73697|Francisco I. Madero|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7752|Rural|
+73697|Texocoyohuac|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7749|Rural|
+73698|Mazapa|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7746|Rural|
+73698|Gonzalo Bautista|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7751|Rural|
+73698|San Rafael|Barrio|Zacapoaxtla|Puebla||73682|21|73682||02|207|7735|Rural|

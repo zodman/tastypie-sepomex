@@ -1,0 +1,37 @@
+26170|Nava Centro|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|0783|Semiurbano|17
+26170|Los Laureles|Fraccionamiento|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||21|022|3230|Urbano|17
+26172|Rogelio Montemayor|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2042|Semiurbano|17
+26172|Bosques de Río Escondido|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2044|Semiurbano|17
+26172|Del Sol|Fraccionamiento|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||21|022|3250|Urbano|17
+26172|Carlos Salinas de Gortari|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2043|Semiurbano|17
+26172|Chamizal|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2040|Semiurbano|17
+26172|El Encino|Ejido|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||15|022|2041|Semiurbano|17
+26173|Juan Antonio Osuna Cárdenas|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2045|Semiurbano|17
+26174|20 de Noviembre|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2048|Semiurbano|17
+26174|Progreso|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2053|Semiurbano|17
+26174|Lázaro Cárdenas|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|0004|Urbano|17
+26174|Independencia|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2049|Semiurbano|17
+26174|SUTERM|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2046|Semiurbano|17
+26174|Napoleón Gómez Sada|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2050|Semiurbano|17
+26174|El Manantial|Fraccionamiento|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||21|022|0001|Urbano|17
+26174|Las Torres|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|0003|Urbano|17
+26174|Acosta Vidales|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2047|Semiurbano|17
+26175|Nogalar|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2054|Semiurbano|17
+26175|Luis Donaldo Colosio|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2052|Semiurbano|17
+26175|Santa Fe|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|4241|Urbano|17
+26176|Camino Real|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|3191|Urbano|17
+26176|Sanitaria|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2055|Rural|17
+26176|2 de Agosto|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|2051|Semiurbano|17
+26177|San Andrés|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|4240|Urbano|17
+26177|Emiliano Zapata|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|3213|Urbano|17
+26177|Del Valle|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|3211|Urbano|17
+26177|Magisterio|Colonia|Nava|Coahuila de Zaragoza|Nava|26531|05|26531||09|022|3212|Urbano|17
+26180|Río Escondido|Zona federal|Nava|Coahuila de Zaragoza||26531|05|26531||34|022|0788|Rural|
+26180|Río Escondido|Estación|Nava|Coahuila de Zaragoza||26531|05|26531||16|022|0789|Rural|
+26183|Plan de Ayala|Colonia|Nava|Coahuila de Zaragoza||26001|05|26001||09|022|0002|Urbano|
+26183|Venustiano Carranza Sector Aeropuerto|Colonia|Nava|Coahuila de Zaragoza||26001|05|26001||09|022|1737|Urbano|
+26183|Compositores Mexicanos|Colonia|Nava|Coahuila de Zaragoza||26001|05|26001||09|022|2914|Urbano|
+26185|Río Escondido|Ejido|Nava|Coahuila de Zaragoza||26531|05|26531||15|022|0790|Rural|
+26190|El Saucito|Ranchería|Nava|Coahuila de Zaragoza||26531|05|26531||29|022|0791|Rural|
+26193|Santo Domingo|Ranchería|Nava|Coahuila de Zaragoza||26001|05|26001||29|022|0792|Rural|
+26196|La Sauceda|Ejido|Nava|Coahuila de Zaragoza||26531|05|26531||15|022|0793|Rural|

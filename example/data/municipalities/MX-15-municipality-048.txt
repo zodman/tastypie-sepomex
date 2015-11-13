@@ -1,0 +1,64 @@
+50700|Santo Domingo|Barrio|Jocotitlán|México||50701|15|50701||02|048|8941|Urbano|
+50700|Jocotitlán|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0724|Rural|
+50700|San Juan|Barrio|Jocotitlán|México||50701|15|50701||02|048|8206|Rural|
+50700|San Agustín|Barrio|Jocotitlán|México||50701|15|50701||02|048|8272|Rural|
+50710|Concepción Caro|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0731|Rural|
+50710|San Miguel Tenochtitlán|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0732|Rural|
+50710|San Andrés|Barrio|Jocotitlán|México||50701|15|50701||02|048|8271|Rural|
+50713|Santa María Citendeje|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0727|Rural|
+50714|La Presa|Pueblo|Jocotitlán|México||50701|15|50701||28|048|7303|Rural|
+50714|Los Martínez|Barrio|Jocotitlán|México||50701|15|50701||02|048|7305|Rural|
+50714|San Isidro|Pueblo|Jocotitlán|México||50701|15|50701||28|048|7307|Rural|
+50715|San Juan Cuajomulco|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0729|Rural|
+50715|Barrio Santa Cruz Chico|Barrio|Jocotitlán|México||50701|15|50701||02|048|9547|Urbano|
+50715|San Marcos Cuajomulco|Pueblo|Jocotitlán|México||50701|15|50701||28|048|6723|Rural|
+50716|San Juan Cuajomulco|Colonia|Jocotitlán|México||50701|15|50701||09|048|7300|Rural|
+50717|Chimeje|Pueblo|Jocotitlán|México||50701|15|50701||28|048|7301|Rural|
+50717|Alcibar|Hacienda|Jocotitlán|México||50701|15|50701||24|048|7302|Rural|
+50717|Santiago Casandeje|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0728|Rural|
+50720|San José Boqui|Pueblo|Jocotitlán|México||50701|15|50701||28|048|6722|Rural|
+50724|Endavaci|Barrio|Jocotitlán|México||50701|15|50701||02|048|7298|Rural|
+50724|Santiago Yeche|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0734|Rural|
+50724|Boyecha|Barrio|Jocotitlán|México||50701|15|50701||02|048|6706|Rural|
+50724|Tula|Barrio|Jocotitlán|México||50701|15|50701||02|048|6711|Rural|
+50724|Huemetla|Pueblo|Jocotitlán|México||50701|15|50701||28|048|6719|Rural|
+50724|Las Fuentes Yeche|Ranchería|Jocotitlán|México||50701|15|50701||29|048|0738|Rural|
+50724|La Luz|Barrio|Jocotitlán|México||50701|15|50701||02|048|6708|Rural|
+50724|El Lindero|Barrio|Jocotitlán|México||50701|15|50701||02|048|6713|Rural|
+50726|15 de Agosto|Barrio|Jocotitlán|México||50701|15|50701||02|048|6717|Rural|
+50726|Tiacaque|Pueblo|Jocotitlán|México||50701|15|50701||28|048|6724|Rural|
+50726|San Francisco Cheje|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0737|Rural|
+50726|Cheje|Ejido|Jocotitlán|México||50701|15|50701||15|048|6718|Rural|
+50726|Providencia|Ejido|Jocotitlán|México||50701|15|50701||15|048|7295|Rural|
+50726|San Pascual Meje|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0735|Rural|
+50726|Los Reyes San Dimas|Ejido|Jocotitlán|México||50701|15|50701||15|048|7294|Rural|
+50727|La Providencia|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0733|Rural|
+50727|Los Reyes|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0736|Rural|
+50733|Santa Elena|Barrio|Jocotitlán|México||50701|15|50701||02|048|7291|Rural|
+50733|La Unión|Barrio|Jocotitlán|México||50701|15|50701||02|048|7293|Rural|
+50733|Enguindo San Isidro|Barrio|Jocotitlán|México||50701|15|50701||02|048|0730|Rural|
+50733|Del Progreso|Barrio|Jocotitlán|México||50701|15|50701||02|048|6712|Rural|
+50733|La Soledad|Barrio|Jocotitlán|México||50701|15|50701||02|048|7290|Rural|
+50733|Los Javieres|Barrio|Jocotitlán|México||50701|15|50701||02|048|7292|Rural|
+50734|Legorreta|Ranchería|Jocotitlán|México||50701|15|50701||29|048|7288|Rural|
+50734|Santa Clara|Barrio|Jocotitlán|México||50701|15|50701||02|048|7289|Rural|
+50734|Pasteje|Zona industrial|Jocotitlán|México||50701|15|50701||37|048|7299|Rural|
+50734|San Jacinto|Barrio|Jocotitlán|México||50701|15|50701||02|048|6709|Rural|
+50734|San Joaquín|Barrio|Jocotitlán|México||50701|15|50701||02|048|6710|Rural|
+50734|Las Ánimas Villeje|Pueblo|Jocotitlán|México||50701|15|50701||28|048|6720|Rural|
+50734|Guadalupe|Barrio|Jocotitlán|México||50701|15|50701||02|048|8162|Urbano|
+50735|Buenavista|Barrio|Jocotitlán|México||50701|15|50701||02|048|7287|Rural|
+50735|San José Nativitas|Pueblo|Jocotitlán|México||50701|15|50701||28|048|7286|Rural|
+50736|La Manga|Pueblo|Jocotitlán|México||50701|15|50701||28|048|7284|Rural|
+50736|Ex-Hacienda San José Villeje|Ranchería|Jocotitlán|México||50701|15|50701||29|048|8294|Rural|
+50736|La Tenería|Barrio|Jocotitlán|México||50701|15|50701||02|048|6716|Rural|
+50736|Siffari|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0741|Rural|
+50736|Mavoro|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0739|Rural|
+50736|Zacualpan|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0742|Rural|
+50736|Santa Mónica Caspu|Pueblo|Jocotitlán|México||50701|15|50701||28|048|7285|Rural|
+50736|Ojo de Agua|Pueblo|Jocotitlán|México||50701|15|50701||28|048|6721|Rural|
+50736|La Era|Barrio|Jocotitlán|México||50701|15|50701||02|048|6715|Rural|
+50737|La Venta|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0740|Rural|
+50737|La Loma|Barrio|Jocotitlán|México||50701|15|50701||02|048|6707|Rural|
+50737|Santa María Endare|Pueblo|Jocotitlán|México||50701|15|50701||28|048|0725|Rural|
+50737|El Ruso|Barrio|Jocotitlán|México||50701|15|50701||02|048|6714|Rural|

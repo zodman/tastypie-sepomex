@@ -1,0 +1,103 @@
+29160|Nuevo Carmen Tonapac|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|4745|Urbano|15
+29160|Benito Juárez|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4750|Semiurbano|15
+29160|Santa Elena|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4752|Semiurbano|15
+29160|San Miguel|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4755|Semiurbano|15
+29160|San Sebastián|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4756|Semiurbano|15
+29160|Sol Azteca|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5766|Urbano|15
+29160|San Jacinto|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4761|Semiurbano|15
+29160|Chiapa de Corzo Centro|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|0293|Urbano|15
+29160|Nueva Esperanza|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|4746|Urbano|15
+29160|El Recuerdo|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|4748|Semiurbano|15
+29160|Ampliación Benito Juárez|Ampliación|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||38|027|5739|Urbano|15
+29160|Ampliación Covadonga|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5740|Urbano|15
+29160|Luis Donaldo Colosio|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|5751|Urbano|15
+29160|Santa Cecilia|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5763|Urbano|15
+29160|San Pedro|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4753|Semiurbano|15
+29160|Real de Chiapa|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|4771|Urbano|15
+29160|San Juan Nuevo Paraíso|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5539|Urbano|15
+29160|La Joya|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5747|Urbano|15
+29160|Ángel Vázquez|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|4751|Urbano|15
+29160|Francisco I Madero|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|5743|Urbano|15
+29160|Ribera Las Flechas|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5757|Urbano|15
+29160|Nocatili|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|4744|Urbano|15
+29160|San Gregorio|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4758|Semiurbano|15
+29160|San Vicente|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4759|Semiurbano|15
+29160|Las Mercedes|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5750|Urbano|15
+29160|Juan Grijalva|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|0296|Urbano|15
+29160|Emiliano Zapata I|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|4747|Urbano|15
+29160|Infonavit el Recuerdo|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|4749|Urbano|15
+29160|Santo Tomas|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4757|Semiurbano|15
+29160|San Sebastián|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|4766|Semiurbano|15
+29160|21 de Octubre|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5737|Urbano|15
+29160|Esperanza 2000|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5742|Urbano|15
+29160|María Candelaria|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5752|Urbano|15
+29160|Nandambua 2a Sección|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5753|Urbano|15
+29160|Rosario El Nipe|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5758|Urbano|15
+29160|San Judas Tadeo|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|5761|Urbano|15
+29160|El Calvario|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4754|Urbano|15
+29160|San Antonio Abad|Barrio|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||02|027|4760|Semiurbano|15
+29160|Santa Fe|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|4768|Semiurbano|15
+29160|Santa Cruz Nipe|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5765|Urbano|15
+29163|Julio Cesar Ruiz Ferro|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5746|Urbano|15
+29163|Independencia 2000|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5744|Urbano|15
+29163|Jorge Obispo Hernández|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5745|Urbano|15
+29163|El Refugio|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|2908|Urbano|15
+29163|El Paraíso|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|0312|Urbano|15
+29163|Pedregal de San Ángel|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5570|Urbano|15
+29163|Plan Chiapas|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|2909|Urbano|15
+29163|Loma Larga|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5748|Urbano|15
+29164|Conquista Obrera|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|2188|Urbano|15
+29164|Morelos|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|2189|Urbano|15
+29164|Villa Real|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5768|Urbano|15
+29165|El Mirador|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5741|Urbano|15
+29165|Nuevo Zinacantán|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5755|Urbano|15
+29165|Las Margaritas|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5749|Urbano|15
+29165|Nandambua 1a Sección|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|0298|Urbano|15
+29165|Unión Antorchista|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5767|Urbano|15
+29165|Santa Cruz|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5764|Urbano|15
+29165|Santa Ana|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5786|Urbano|15
+29165|Rivera Cahuare|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|0306|Urbano|15
+29165|Jardines del Grijalva|Fraccionamiento|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||21|027|5587|Urbano|15
+29165|San Joaquín|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5760|Urbano|15
+29165|Santa Bárbara|Finca|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||20|027|5762|Urbano|15
+29165|Adriana Gabriela de Ruiz Ferro|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5738|Urbano|15
+29165|Playa Vista|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5756|Urbano|15
+29165|San Francisco|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5759|Urbano|15
+29165|Nuevo Bochil|Colonia|Chiapa de Corzo|Chiapas|Chiapa de Corzo|29161|07|29161||09|027|5754|Urbano|15
+29166|Nuevo Porvenir (Bergantín)|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0004|Rural|
+29166|Miguel Hidalgo|Poblado comunal|Chiapa de Corzo|Chiapas||29161|07|29161||27|027|6759|Rural|
+29166|El Palmar|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0295|Rural|
+29166|Lindavista|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0009|Rural|
+29167|Amatal|Ejido|Chiapa de Corzo|Chiapas||29161|07|29161||15|027|4765|Rural|
+29167|Juan Sabines Gutiérrez|Ejido|Chiapa de Corzo|Chiapas||29161|07|29161||15|027|5546|Rural|
+29167|San Antonio|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|3071|Rural|
+29167|Las Flechas|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0297|Rural|
+29167|Rivera Santo Domingo|Ejido|Chiapa de Corzo|Chiapas||29161|07|29161||15|027|4764|Rural|
+29167|Santo Domingo|Ejido|Chiapa de Corzo|Chiapas||29161|07|29161||15|027|4772|Rural|
+29169|Venustiano Carranza|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0307|Rural|
+29169|El Vergel|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0304|Rural|
+29169|Nueva Palestina|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0299|Rural|
+29169|Rivera de Monte Rico|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0301|Rural|
+29169|El Amatal|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0294|Rural|
+29169|Rivera Cupia|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0300|Rural|
+29169|Salvador Urbina|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0302|Rural|
+29169|Cupasmi|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0305|Rural|
+29170|Rivera de Cangui|Ranchería|Chiapa de Corzo|Chiapas||29161|07|29161||29|027|0311|Rural|
+29170|América Libre|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0308|Rural|
+29170|Emiliano Zapata|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0309|Rural|
+29170|Ribera la Unión (Castaño)|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0002|Rural|
+29170|Narciso Mendoza|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0310|Rural|
+29174|Unión y Progreso|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0005|Rural|
+29176|Francisco Sarabia|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0313|Rural|
+29177|Chiapa de Corzo (Ángel Albino Corzo)|Aeropuerto|Chiapa de Corzo|Chiapas||29161|07|29161||01|027|3082|Rural|
+29178|Aurora Buenavista|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0006|Rural|
+29178|Galecio Narcia|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0314|Rural|
+29179|Felipe Carrillo Puerto|Ejido|Chiapa de Corzo|Chiapas||29161|07|29161||15|027|0008|Rural|
+29179|Distrito Federal|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0315|Rural|
+29180|Cabeza de Agua (San Antonio)|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0001|Rural|
+29180|El Ranchito|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0007|Rural|
+29180|Nicolás Bravo|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0318|Rural|
+29180|El Tejar|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0003|Rural|
+29180|Julián Grajales|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0317|Rural|
+29180|Ignacio Allende|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|0316|Rural|
+29183|El Canelar|Colonia|Chiapa de Corzo|Chiapas||29161|07|29161||09|027|2932|Rural|

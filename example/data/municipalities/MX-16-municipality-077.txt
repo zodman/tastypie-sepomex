@@ -1,0 +1,65 @@
+61980|Arboledas|Colonia|San Lucas|Michoacán de Ocampo||61941|16|61941||09|077|0001|Urbano|
+61980|Ojo de Agua|Colonia|San Lucas|Michoacán de Ocampo||61941|16|61941||09|077|4753|Urbano|
+61980|San Lucas|Pueblo|San Lucas|Michoacán de Ocampo||61941|16|61941||28|077|2883|Urbano|
+61984|Tirinchicuas|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0030|Rural|
+61984|Los Limones y Anexos|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0024|Rural|
+61984|Las Paredes|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2885|Rural|
+61985|La Estancia|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2882|Rural|
+61985|Ceiba Seca|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2886|Rural|
+61985|La Laja (La Lajita)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2887|Rural|
+61986|El Machuque (Plan del Reparo)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0012|Rural|
+61986|La Angostura del Canje|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0016|Rural|
+61986|El Guayabo|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0011|Rural|
+61986|Plan de las Carreras|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0026|Rural|
+61987|El Para|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0014|Rural|
+61987|Angao (Angao de los Herrera)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2881|Rural|
+61987|Corral Viejo|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0006|Rural|
+61987|El Apartadero|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0007|Rural|
+61990|Characharando|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2899|Rural|
+61990|Capire Manzano|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0003|Rural|
+61990|Cuauhtémoc (Huarichi)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2890|Rural|
+61990|El Cuajilote|Congregación|San Lucas|Michoacán de Ocampo||61941|16|61941||11|077|2889|Rural|
+61990|Capire Verde|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0004|Rural|
+61990|El Charapo|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0008|Rural|
+61990|Chumbítaro|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2888|Rural|
+61991|Salguero|Pueblo|San Lucas|Michoacán de Ocampo||40666|16|40666||28|077|2892|Rural|
+61991|Santa Cruz de Villa Gómez|Pueblo|San Lucas|Michoacán de Ocampo||40666|16|40666||28|077|2893|Rural|
+61991|Rincón de San Francisco|Ranchería|San Lucas|Michoacán de Ocampo||40666|16|40666||29|077|2894|Rural|
+61992|Vicente Riva Palacio|Pueblo|San Lucas|Michoacán de Ocampo||40666|16|40666||28|077|2895|Urbano|
+61993|San Nicolás|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0028|Rural|
+61993|San Jerónimo|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2898|Rural|
+61993|Buena Vista|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0002|Rural|
+61993|El Crucero|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0010|Rural|
+61993|La Chica|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0017|Rural|
+61993|La Herradura (La Ciénega)|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0019|Rural|
+61993|La Huizachera (El Huizachal)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2896|Rural|
+61994|Tacupa|Pueblo|San Lucas|Michoacán de Ocampo||40666|16|40666||28|077|2891|Rural|
+61995|Urerio|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0032|Rural|
+61995|El Naranjo|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2901|Rural|
+61995|El Cueramo|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2900|Rural|
+61995|Las Palmitas|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0023|Rural|
+61995|Los Bancos|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2902|Rural|
+61995|El Ojo de Agua de Urerio|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0013|Rural|
+61995|Terrero Salado|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0029|Rural|
+61996|Monte Grande|Hacienda|San Lucas|Michoacán de Ocampo||61941|16|61941||24|077|2904|Rural|
+61996|Limón de Monte Grande|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2903|Rural|
+61996|La Quiringucua|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0021|Rural|
+61996|Pinzán Colorado|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2905|Rural|
+61997|San Pedrito|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2908|Rural|
+61997|La Magueyera (Barrio de las Flores)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0020|Rural|
+61997|Los Brasiles|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2907|Rural|
+61997|El Tule|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0015|Rural|
+61997|Paso de Corupo (Cuizillo)|Pueblo|San Lucas|Michoacán de Ocampo||61941|16|61941||28|077|2906|Rural|
+61997|Ceibas Altas|Poblado comunal|San Lucas|Michoacán de Ocampo||61941|16|61941||27|077|5336|Rural|
+61997|Las Huitzucatas (El Terrero Blanco)|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0022|Rural|
+61997|Querutzeo (Queruseo)|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0027|Rural|
+61998|Tiringueo de Arriba|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0031|Rural|
+61998|El Tamarindo|Pueblo|San Lucas|Michoacán de Ocampo||61941|16|61941||28|077|3989|Rural|
+61998|La Garra|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0018|Rural|
+61998|El Cinco de Copas|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|0009|Rural|
+61998|San Pedro el Grande|Hacienda|San Lucas|Michoacán de Ocampo||61941|16|61941||24|077|2909|Rural|
+61998|Tiringueo de Abajo|Poblado comunal|San Lucas|Michoacán de Ocampo||61941|16|61941||27|077|6365|Rural|
+61998|Paso de las Parotas|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0025|Rural|
+61998|Tejería|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2897|Rural|
+61998|Terrero Prieto|Ranchería|San Lucas|Michoacán de Ocampo||61941|16|61941||29|077|2910|Rural|
+61998|Casa Blanca|Rancho|San Lucas|Michoacán de Ocampo||61941|16|61941||48|077|0005|Rural|

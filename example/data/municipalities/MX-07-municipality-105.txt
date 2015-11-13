@@ -1,0 +1,14 @@
+30880|Eureka|Ejido|Unión Juárez|Chiapas||30882|07|30882||15|105|1869|Rural|
+30880|Desenlace|Ejido|Unión Juárez|Chiapas||30882|07|30882||15|105|1868|Rural|
+30880|Chiquihuite|Ejido|Unión Juárez|Chiapas||30882|07|30882||15|105|1866|Rural|
+30880|Desengaño|Ejido|Unión Juárez|Chiapas||30882|07|30882||15|105|1867|Rural|
+30880|Unión Juárez|Pueblo|Unión Juárez|Chiapas||30882|07|30882||28|105|1870|Rural|
+30881|Córdoba Matasapo|Ejido|Unión Juárez|Chiapas||30701|07|30701||15|105|1872|Rural|
+30881|Cerro del Carmen Pico de Loro|Pueblo|Unión Juárez|Chiapas||30701|07|30701||28|105|1871|Rural|
+30881|11 de Abril|Ejido|Unión Juárez|Chiapas||30701|07|30701||15|105|1873|Rural|
+30883|San José Cerro del Carmen|Ejido|Unión Juárez|Chiapas||30882|07|30882||15|105|5799|Rural|
+30883|Finca Muxbal|Finca|Unión Juárez|Chiapas||30882|07|30882||20|105|5562|Rural|
+30884|Talquián|Ejido|Unión Juárez|Chiapas||30882|07|30882||15|105|0001|Rural|
+30884|San Isidro|Colonia|Unión Juárez|Chiapas||30882|07|30882||09|105|5589|Rural|
+30885|Santo Domingo|Ejido|Unión Juárez|Chiapas||30701|07|30701||15|105|1876|Rural|
+30885|La Trinidad|Ejido|Unión Juárez|Chiapas||30701|07|30701||15|105|1875|Rural|

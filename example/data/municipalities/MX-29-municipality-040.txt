@@ -1,0 +1,19 @@
+90440|Cuatla|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|0455|Rural|
+90440|Topilco de Juárez|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|0815|Rural|
+90440|San Simón Tlatlahuquitepec|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|0236|Urbano|
+90440|Tlalapechco|Colonia|Xaltocan|Tlaxcala||90301|29|90301||09|040|1219|Rural|
+90440|Loma Dorada|Colonia|Xaltocan|Tlaxcala||90301|29|90301||09|040|1220|Rural|
+90440|San Martin Xaltocan|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|0232|Rural|
+90440|Puerto Arturo|Barrio|Xaltocan|Tlaxcala||90301|29|90301||02|040|0938|Urbano|
+90440|Jardines de Xaltocan|Colonia|Xaltocan|Tlaxcala||90301|29|90301||09|040|0939|Urbano|
+90443|Alva|Ranchería|Xaltocan|Tlaxcala||90301|29|90301||29|040|1212|Rural|
+90443|Nueva Ampliación Adolfo Ruiz Cortínez|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1213|Rural|
+90443|San José Texopa|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1215|Rural|
+90443|La Retama|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1218|Rural|
+90443|Cañada de Chipila|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1211|Rural|
+90443|Santa Bárbara Acuicuizcatepec|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|0234|Rural|
+90443|Nueva Ampliación Camino a Xaltocan|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1214|Rural|
+90443|Las Mesas|Colonia|Xaltocan|Tlaxcala||90301|29|90301||09|040|1216|Rural|
+90443|Estela Sánchez Rodríguez|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1217|Rural|
+90444|Atzacoalco|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|1210|Rural|
+90444|La Ascensión Huitzcolotepec|Pueblo|Xaltocan|Tlaxcala||90301|29|90301||28|040|0235|Rural|

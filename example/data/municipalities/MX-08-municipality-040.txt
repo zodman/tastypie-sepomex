@@ -1,0 +1,54 @@
+31940|Madera Centro|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|0480|Semiurbano|09
+31940|El Estadio|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3146|Semiurbano|09
+31940|Pacifico|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3164|Semiurbano|09
+31940|La Cruz|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3147|Semiurbano|09
+31940|Progreso|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|4142|Urbano|09
+31940|Barrio Uno|Barrio|Madera|Chihuahua|Madera|31941|08|31941||02|040|3148|Urbano|09
+31940|Fovissste|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3152|Semiurbano|09
+31940|El Santuario|Barrio|Madera|Chihuahua|Madera|31941|08|31941||02|040|4135|Urbano|09
+31940|Obrera|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3149|Semiurbano|09
+31940|Campesina|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3150|Semiurbano|09
+31940|La Paz|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3151|Semiurbano|09
+31940|Noreste|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3157|Semiurbano|09
+31940|Internacional|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3161|Semiurbano|09
+31940|Lienzo Charro|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3153|Semiurbano|09
+31940|Seguro Social|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3156|Semiurbano|09
+31940|Americano|Barrio|Madera|Chihuahua|Madera|31941|08|31941||02|040|3158|Semiurbano|09
+31940|Los Ojitos|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3163|Urbano|09
+31940|Vista Hermosa|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3144|Semiurbano|09
+31940|Quinientas|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3160|Semiurbano|09
+31940|Emiliano Zapata|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3162|Semiurbano|09
+31940|Barrio San José|Barrio|Madera|Chihuahua|Madera|31941|08|31941||02|040|3145|Urbano|09
+31940|Ferrocarrilera|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3154|Semiurbano|09
+31940|Infonavit|Colonia|Madera|Chihuahua|Madera|31941|08|31941||09|040|3159|Semiurbano|09
+31942|Nuevo Madera|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0482|Rural|
+31942|El Refugio|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0487|Rural|
+31942|Rivera Socorro|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0484|Rural|
+31942|Las Golondrinas|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0488|Rural|
+31943|3 Ojitos|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0485|Rural|
+31943|Nahuerachic|Hacienda|Madera|Chihuahua||31941|08|31941||24|040|0481|Rural|
+31943|Preson de Golondrinas|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0483|Rural|
+31943|Boquilla de Golondrina|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0479|Rural|
+31944|Libertad|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0492|Rural|
+31944|Cebadilla de Dolores|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0490|Rural|
+31945|Dolores|Pueblo|Madera|Chihuahua||31941|08|31941||28|040|0491|Rural|
+31950|Preson del Toro|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0495|Rural|
+31950|Año de Hidalgo|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0493|Rural|
+31950|Las Varas|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0494|Rural|
+31953|Mesa del Huracán|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0501|Rural|
+31953|Jesús Garcia|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0506|Rural|
+31953|Chihuahuita|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0498|Rural|
+31954|El Arco|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|5771|Rural|
+31954|La Norteña|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0505|Rural|
+31954|Maderal|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0507|Rural|
+31955|Los Pinos|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0509|Rural|
+31955|Esmeralda|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0508|Rural|
+31955|El Alamillo|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0510|Rural|
+31955|Nicolás Bravo|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0486|Rural|
+31956|El Largo|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0503|Rural|
+31956|Chuhuichupa|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0502|Rural|
+31956|El Norte|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0504|Rural|
+31956|Alto de Dolores|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0497|Rural|
+31957|Las Pomas|Ejido|Madera|Chihuahua||31941|08|31941||15|040|0500|Rural|
+31959|El Colorado|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0499|Rural|
+31959|Moctezuma|Ranchería|Madera|Chihuahua||31941|08|31941||29|040|0496|Rural|

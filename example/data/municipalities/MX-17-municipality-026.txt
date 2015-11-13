@@ -1,0 +1,26 @@
+62540|Tlayacapan|Pueblo|Tlayacapan|Morelos||62541|17|62541||28|026|0214|Rural|
+62543|La Mextepec|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1437|Rural|
+62543|Emiliano Zapata|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1438|Rural|
+62543|San Andrés Cuauhtempan|Ranchería|Tlayacapan|Morelos||62541|17|62541||29|026|0212|Rural|
+62543|Tres de Mayo|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1436|Rural|
+62544|Jardines de Tlayacapan|Fraccionamiento|Tlayacapan|Morelos||62541|17|62541||21|026|1443|Rural|
+62544|Camino Real los Reyes|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1441|Rural|
+62544|Nacatongo|Ranchería|Tlayacapan|Morelos||62541|17|62541||29|026|1445|Rural|
+62544|Lázaro Cárdenas|Unidad habitacional|Tlayacapan|Morelos||62541|17|62541||31|026|1447|Rural|
+62544|Valle de Oaxtepec|Fraccionamiento|Tlayacapan|Morelos||62541|17|62541||21|026|1444|Rural|
+62544|Las Calandrias|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1440|Rural|
+62544|Pedregal Tlalli|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1439|Rural|
+62544|Joyas del Astillero|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1442|Rural|
+62544|Texalo|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1446|Rural|
+62545|Puente Pantitlán|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1449|Rural|
+62545|Revolución XXI|Unidad habitacional|Tlayacapan|Morelos||62541|17|62541||31|026|1450|Rural|
+62545|El Bebedero|Ranchería|Tlayacapan|Morelos||62541|17|62541||29|026|1448|Rural|
+62545|Ex-Hacienda Pantitlán|Ranchería|Tlayacapan|Morelos||62541|17|62541||29|026|1451|Rural|
+62545|El Partidor|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1454|Rural|
+62546|El Golan|Ranchería|Tlayacapan|Morelos||62731|17|62731||29|026|1452|Rural|
+62546|Las Vivianas|Colonia|Tlayacapan|Morelos||62731|17|62731||09|026|0867|Semiurbano|
+62546|EL Ahuehuete|Colonia|Tlayacapan|Morelos||62731|17|62731||09|026|1453|Rural|
+62547|Los Ciruelos|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1434|Rural|
+62547|Cruz Blanca|Colonia|Tlayacapan|Morelos||62541|17|62541||09|026|1435|Rural|
+62547|San José de Los Laureles|Ranchería|Tlayacapan|Morelos||62541|17|62541||29|026|0213|Rural|
+62547|San Agustín Amatlipac|Ranchería|Tlayacapan|Morelos||62541|17|62541||29|026|0215|Rural|

@@ -1,0 +1,33 @@
+98730|Las Animas|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1396|Urbano|
+98730|Buenavista|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1390|Urbano|
+98730|San Juan Bautista|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1394|Urbano|
+98730|El Tule|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|0346|Rural|
+98730|Presidentes|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1392|Urbano|
+98730|Barrio Alto|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1397|Urbano|
+98730|Gral. Pánfilo Natera Centro|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|0347|Urbano|
+98730|Piedra Azul|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1395|Urbano|
+98730|San Rafael|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1407|Rural|
+98730|Santa Fe|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1393|Urbano|
+98730|Santa Cruz|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1389|Urbano|
+98730|Magisterial|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1391|Urbano|
+98740|Unión de San Antonio|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1411|Rural|
+98740|Presa Del Coloradito|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1405|Rural|
+98740|La Tesorera|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|0351|Rural|
+98740|El Saucito|Pueblo|General Pánfilo Natera|Zacatecas||98711|32|98711||28|016|0349|Urbano|
+98740|Marin|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1403|Rural|
+98740|Santa Maria|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1410|Rural|
+98740|Las Amapolas|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1400|Rural|
+98740|Guanajuatillo|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|0350|Rural|
+98740|Noria Del Cerro|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1404|Rural|
+98750|El Saladillo|Pueblo|General Pánfilo Natera|Zacatecas||98711|32|98711||28|016|0352|Urbano|
+98750|Pamanes|Colonia|General Pánfilo Natera|Zacatecas||98711|32|98711||09|016|1398|Rural|
+98750|Valle Del San Juan|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1412|Rural|
+98750|Las Escobas|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1402|Rural|
+98760|La Haciendita|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1399|Rural|
+98760|Rancho Nuevo|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|0353|Rural|
+98760|Santa Elena|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|0355|Rural|
+98760|Tahonas|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1408|Rural|
+98760|San Pablo|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|0354|Rural|
+98760|Providencia|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1406|Rural|
+98760|Las Animas|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1401|Rural|
+98760|San Ramon|Ranchería|General Pánfilo Natera|Zacatecas||98711|32|98711||29|016|1409|Rural|

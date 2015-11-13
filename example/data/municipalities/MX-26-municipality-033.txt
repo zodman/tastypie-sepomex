@@ -1,0 +1,307 @@
+85240|Las Parritas (El Changuito)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3967|Rural|
+85240|Las Parras|Hacienda|Huatabampo|Sonora||85901|26|85901||24|033|1050|Rural|
+85240|El Triunfo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3912|Rural|
+85240|Estero Aquiropo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3918|Rural|
+85240|El Etchoropo|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1047|Rural|
+85240|La Reforma|Hacienda|Huatabampo|Sonora||85901|26|85901||24|033|1048|Rural|
+85240|El Dátil|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3897|Rural|
+85240|Jupagojori|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3934|Rural|
+85240|Sahuaral de Otero|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1053|Rural|
+85240|El Naranjo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3905|Rural|
+85240|Janitzio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3929|Rural|
+85240|Morelos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3988|Rural|
+85240|Moroncárit|Pueblo|Huatabampo|Sonora||85901|26|85901||28|033|1051|Rural|
+85240|Pozo Dulce|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1052|Rural|
+85240|Citaváro|Hacienda|Huatabampo|Sonora||85901|26|85901||24|033|1046|Rural|
+85240|Huirojara|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3926|Rural|
+85240|La Unión|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1049|Rural|
+85240|Agropecuaría Jupateco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3853|Rural|
+85240|Benjamín Hill (Bachomocobe)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3866|Rural|
+85240|Jinamaqui|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3930|Rural|
+85240|Pozo Dulce|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4005|Rural|
+85240|Rancho de Anguis|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4009|Rural|
+85241|El Caro|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1055|Rural|
+85241|La Cochera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3941|Rural|
+85241|El Sufragio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1056|Rural|
+85241|Baburo|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1054|Rural|
+85241|El Caro|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3893|Rural|
+85241|El Vigía|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3913|Rural|
+85241|La Alameda|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3937|Rural|
+85241|La Trinidad|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3963|Rural|
+85241|Zamicarit|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1057|Rural|
+85241|El Chinalito|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3895|Rural|
+85241|La Rueda (Morelos)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3961|Rural|
+85241|Jupateco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3935|Rural|
+85243|La Mielera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3952|Rural|
+85243|Palo Verde|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3994|Rural|
+85243|Ramírez|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4007|Rural|
+85243|El Porvenir|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1059|Rural|
+85243|La Línea|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3950|Rural|
+85243|San Cristóbal|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1060|Rural|
+85243|Rosas|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4012|Rural|
+85243|Serna|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4026|Rural|
+85243|La Rosita|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3960|Rural|
+85243|Santini|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4023|Rural|
+85244|La China|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1061|Rural|
+85244|La Galera|Hacienda|Huatabampo|Sonora||85901|26|85901||24|033|1062|Rural|
+85244|La Esquina|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3947|Rural|
+85244|Las Mamias|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1063|Rural|
+85244|El Gato|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3900|Rural|
+85244|Capazeta (Buelna)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3880|Rural|
+85245|Buyarumo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1064|Rural|
+85245|Navobaxia|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1069|Rural|
+85245|La Colonita|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3942|Rural|
+85245|La Quinta Chía|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3958|Rural|
+85245|Huepaco|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1065|Rural|
+85245|Jupare|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1066|Rural|
+85245|La Primavera|Poblado comunal|Huatabampo|Sonora||85901|26|85901||27|033|3957|Rural|
+85245|Pablo Gómez Cota (La Primavera)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3993|Rural|
+85245|Santa Rosa (La Piocha)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4021|Rural|
+85245|Las Flores|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1068|Rural|
+85245|El Chapote|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3894|Rural|
+85245|La Primavera|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1067|Rural|
+85245|Bracamontes|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3867|Rural|
+85245|El Juparito (Huepaco)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3901|Rural|
+85245|La Laguna|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3949|Rural|
+85245|Chijubampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3888|Rural|
+85245|Pueblo Viejo|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1070|Rural|
+85245|Cicivari|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3889|Rural|
+85245|El Embarcadero|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3898|Rural|
+85245|La Primavera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3956|Rural|
+85245|17 de Octubre|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3843|Rural|
+85245|Agropecuaria Faromo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3852|Rural|
+85245|El Marro|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3902|Rural|
+85245|Huerta Linda|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3925|Rural|
+85245|La Hacienda de los Vey (Los Chinos)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3948|Rural|
+85246|La Esquina|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3946|Rural|
+85246|La Arenita|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3938|Rural|
+85246|Las Milpas|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1072|Rural|
+85246|Aquisahuali|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3857|Rural|
+85246|El Tábare|Hacienda|Huatabampo|Sonora||85901|26|85901||24|033|1071|Rural|
+85246|Camajoa|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3870|Rural|
+85246|Oraba|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3992|Rural|
+85246|Rio Mazarai|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1073|Rural|
+85246|Aquichopo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3856|Rural|
+85247|Zábila|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1081|Rural|
+85247|El Riíto|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|3344|Rural|
+85247|Los Boquivos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3971|Rural|
+85247|El Riíto de Mazaray (Riíto Muerto)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3909|Rural|
+85247|Estero Santa Bárbara|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3919|Rural|
+85247|Huacaporo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3924|Rural|
+85247|Las Guayabitas|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3966|Rural|
+85247|Buitbores|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1075|Rural|
+85247|La Cuchilla|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1076|Rural|
+85247|Agroinsumos Urrea|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3850|Rural|
+85247|Rancho Estrella|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4010|Rural|
+85247|Bacapaco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3861|Rural|
+85247|Bacusi (Luis Otero Borbón)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3862|Rural|
+85247|Cautebe|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3881|Rural|
+85247|La Escalera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1077|Rural|
+85247|La Esperanza|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1078|Rural|
+85247|6 de Enero|Colonia|Huatabampo|Sonora||85901|26|85901||09|033|3841|Rural|
+85247|Juliantabampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3933|Rural|
+85247|Sepobampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4024|Rural|
+85247|Torocoba|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4031|Rural|
+85247|Loma Del Etchoropo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1079|Rural|
+85247|Adrián Anguamea|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3847|Rural|
+85247|San José|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4018|Rural|
+85247|Santini|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4022|Rural|
+85247|Bachantahui|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1074|Rural|
+85247|Mochibampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1080|Rural|
+85247|Chapultepec|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3885|Rural|
+85248|Loma de Moroncarit|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1082|Rural|
+85249|Campo Gutiérrez|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3874|Rural|
+85249|El Gallo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3899|Rural|
+85249|El Riíto|Poblado comunal|Huatabampo|Sonora||85901|26|85901||27|033|3908|Rural|
+85249|La Curva|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3944|Rural|
+85249|La Regla (Los Rodríguez)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3959|Rural|
+85249|Campo de Eduardo Santini|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3872|Rural|
+85249|Campo Miguel Alatorre|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3875|Rural|
+85249|Campo Romo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3876|Rural|
+85249|La Paila|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3953|Rural|
+85249|Martínez|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3984|Rural|
+85249|Mumuncuera (Campo los Verdugo)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3990|Rural|
+85249|Pascual Orozco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3995|Rural|
+85249|Urrea (El Caballito)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4035|Rural|
+85249|Campo San Francisco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3877|Rural|
+85249|Héctor Urrea|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3923|Rural|
+85249|Los Cuates|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3972|Rural|
+85249|San Javier|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4017|Rural|
+85249|Urrea|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4034|Rural|
+85249|Campo Diecinueve|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1083|Rural|
+85249|Agropecuaria Adalí|Poblado comunal|Huatabampo|Sonora||85901|26|85901||27|033|3851|Rural|
+85249|Campo Epifanio Zazueta|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3873|Rural|
+85249|El Martillo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3903|Rural|
+85249|Los Elizondos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3973|Rural|
+85249|Los Noventa|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3974|Rural|
+85249|Luis Echeverría Zuno|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3980|Rural|
+85249|Mumuncuera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3989|Rural|
+85249|Predio Mumuncuera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4006|Rural|
+85249|Roberto Romo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4011|Rural|
+85249|Campo de Arturo Martínez|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3871|Rural|
+85249|Campo Trini Rosas|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3878|Rural|
+85249|Larriñiga|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3964|Rural|
+85249|Los Patos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3976|Rural|
+85249|Macías|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3981|Rural|
+85249|Pitahaya (Arturo Martínez)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3996|Rural|
+85249|San Ignacio (La Bomba)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4015|Rural|
+85249|Tepahui Tres|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4028|Rural|
+85249|Unificación Campesina (Cola Seca)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4033|Rural|
+85249|San Antonio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1084|Rural|
+85249|El Campito|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|3892|Rural|
+85249|La Cuchilla de San Antonio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3943|Rural|
+85249|Tepahui Dos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4027|Rural|
+85249|Armenta|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3860|Rural|
+85249|Campo Urrea Mumuncuera|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3879|Rural|
+85249|La Curva|Poblado comunal|Huatabampo|Sonora||85901|26|85901||27|033|3945|Rural|
+85249|La Pitahaya|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3955|Rural|
+85249|Los Pinos (Elías Karam)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3977|Rural|
+85249|Santa Julia|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4020|Rural|
+85249|Serbel|Poblado comunal|Huatabampo|Sonora||85901|26|85901||27|033|4025|Rural|
+85249|Yocupicio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4036|Rural|
+85249|Alto de Silverio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3855|Rural|
+85249|La Choya|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3940|Rural|
+85249|Tepahui Uno|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4029|Rural|
+85250|Sirebampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1087|Rural|
+85250|Guadalupe Estrella (Kilómetro Ciento Siete)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3922|Rural|
+85250|Luis|Estación|Huatabampo|Sonora||85901|26|85901||16|033|1086|Rural|
+85250|Cerco de Huico|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3882|Rural|
+85250|Chichibojoro (Coteco)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3887|Rural|
+85250|San Isidro|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4016|Rural|
+85250|Las Bocas|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1085|Rural|
+85250|Cerco de Inés|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3883|Rural|
+85250|Lonchería Carolina|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3969|Rural|
+85250|Chichibojoro|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3886|Rural|
+85250|El Trailero [Restaurante]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3911|Rural|
+85250|Loma de los Angelitos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3968|Rural|
+85250|Los Angelitos Reubicación|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3970|Rural|
+85250|Rosita [Restaurante]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4013|Rural|
+85250|Zenaida (Los Angelitos) [Restaurante]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4037|Rural|
+85250|Bahiquillo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3863|Rural|
+85250|Jitosiáric|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3931|Rural|
+85250|La Bomba|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3939|Rural|
+85250|Ánimas|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|3342|Rural|
+85250|Buiyagojo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3868|Rural|
+85250|Kilómetro Ciento Uno|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3936|Rural|
+85250|Míriam [Restaurante]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3987|Rural|
+85250|Los Ortega|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3975|Rural|
+85250|Mario Yocupicio|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3983|Rural|
+85251|Bachoco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1088|Rural|
+85251|Tojahui|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4030|Rural|
+85251|Jambiolabampo|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1089|Rural|
+85251|Yavaritos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1090|Rural|
+85251|Playa Tojahui|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4002|Rural|
+85251|Adolfo López Mateos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3846|Rural|
+85251|Jambiolabampo Dos (Los Pollos)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3928|Rural|
+85251|Santa Filomena (La Capilla)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4019|Rural|
+85251|Faustino Félix Serna|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3920|Rural|
+85251|El Crucero|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3896|Rural|
+85251|Playa la Ballena|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4000|Rural|
+85251|Bajerobeta (Playa Bachoco)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3864|Rural|
+85251|El Apache|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3891|Rural|
+85252|Yavaros|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1091|Rural|
+85252|Playa Huatabampito|Equipamiento|Huatabampo|Sonora||85901|26|85901||17|033|3999|Rural|
+85252|La Técnica [Colonia]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3962|Rural|
+85252|Salinas (Tres Hermanos)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4014|Rural|
+85252|Miramar|Colonia|Huatabampo|Sonora||85901|26|85901||09|033|2206|Rural|
+85253|El Santo (Bachomojaqui)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3910|Rural|
+85253|Camahuiroa|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1092|Rural|
+85253|Bachomojaqui|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|3332|Rural|
+85253|Playa Bachomojaqui|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3997|Rural|
+85253|Playa Camahuiroa|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3998|Rural|
+85254|Tierra y Libertad|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1094|Rural|
+85254|Benito Juárez|Poblado comunal|Huatabampo|Sonora||85901|26|85901||27|033|3865|Rural|
+85254|Café Lupita (Luchy)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3869|Rural|
+85254|La Loma de Estación Luis (Las Vías)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3951|Rural|
+85254|10 de Abril|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1093|Rural|
+85254|El Abrileño [Restaurante]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3890|Rural|
+85254|Aric Fuerte Mayo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3859|Rural|
+85255|Los Toltecas|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1096|Rural|
+85255|Juan Escutia|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1095|Rural|
+85255|Jubarebampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3932|Rural|
+85255|Guadalupe Victoria|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|2791|Rural|
+85255|El Ranchito (Yujumary)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3907|Rural|
+85255|Lucía|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3978|Rural|
+85256|Francisco Sarabia|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1097|Rural|
+85256|24 de Febrero|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3844|Rural|
+85256|Masobampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3985|Rural|
+85256|Porcina Soles|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4004|Rural|
+85256|Sonora Sinaloa (Bamocha)|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1098|Rural|
+85256|Cerrillos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3884|Rural|
+85256|Emiliano Zapata Dos|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3915|Rural|
+85256|Agropecuaria Villa Hermosa|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3854|Rural|
+85256|Manuel Caudillo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3982|Rural|
+85256|Manuel Caudillo|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1103|Rural|
+85257|Totoliboqui|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|1100|Rural|
+85257|Playa los Baños|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4001|Rural|
+85257|Las Águilas|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3965|Rural|
+85257|El Palomo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3906|Rural|
+85257|Fuerte Mayo [Acuícola]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3921|Rural|
+85257|Juan de la Barrera|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1099|Rural|
+85257|Navopatía|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3991|Rural|
+85258|Acuícola Clej|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3845|Rural|
+85258|Plutarco Elías Calles|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|3011|Rural|
+85258|Lucio Blanco|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3979|Rural|
+85258|Agiabampo 1|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1101|Rural|
+85258|Rancho Bamocha|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4008|Rural|
+85258|Melchor Ocampo|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1104|Rural|
+85258|Álvaro Obregón|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1102|Rural|
+85258|Área Comercial los Toltecas|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3858|Rural|
+85258|El Nacapul|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3904|Rural|
+85259|21 de Marzo|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|2786|Rural|
+85259|Venustiano Carranza|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1105|Rural|
+85259|Agiabampo 2|Congregación|Huatabampo|Sonora||85901|26|85901||11|033|1106|Rural|
+85259|Agiabampo Número Dos (El Campito)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3849|Rural|
+85259|Torocobampo|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4032|Rural|
+85259|Emiliano Zapata Uno|Ejido|Huatabampo|Sonora||85901|26|85901||15|033|1108|Rural|
+85259|Agiabampo Dos (El Cuadrado)|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3848|Rural|
+85259|Emiliano Zapata|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3914|Rural|
+85259|Estación Fitopecuaria|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3917|Rural|
+85259|Insurgentes de Pueblo Yaqui|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3927|Rural|
+85259|La Panchita [Restaurante]|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3954|Rural|
+85259|Porcina Carranza|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|4003|Rural|
+85259|Don|Estación|Huatabampo|Sonora||85901|26|85901||16|033|1107|Rural|
+85259|Estación Don|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3916|Rural|
+85259|Mayo Fuerte|Ranchería|Huatabampo|Sonora||85901|26|85901||29|033|3986|Rural|
+85900|Huatabampo Centro|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1484|Semiurbano|08
+85910|Ibarra|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1486|Semiurbano|08
+85913|Del Valle|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1488|Semiurbano|08
+85914|El Porvenir|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|3027|Urbano|08
+85920|Lázaro Cárdenas|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1489|Semiurbano|08
+85925|La Trinidad|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1490|Semiurbano|08
+85930|Muñoz|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1554|Semiurbano|08
+85930|14 de Enero|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1491|Semiurbano|08
+85930|Las Palmas|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|1553|Semiurbano|08
+85935|El Pedregal|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|3029|Rural|08
+85935|Parque Industrial|Parque industrial|Huatabampo|Sonora|Huatabampo|85901|26|85901||26|033|3028|Urbano|08
+85935|El Sauce|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1492|Rural|08
+85935|Nuevo Amanecer|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|2012|Semiurbano|08
+85937|Independencia|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|3034|Urbano|08
+85937|Los Naranjos|Unidad habitacional|Huatabampo|Sonora|Huatabampo|85901|26|85901||31|033|1494|Semiurbano|08
+85938|Campo Larrinaga|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|3030|Urbano|08
+85940|Beltrones|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|1556|Semiurbano|08
+85940|Oscar Lopez|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|2009|Semiurbano|08
+85940|Campo Fuente Saúco|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|3031|Urbano|08
+85940|El Alhuate|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1495|Semiurbano|08
+85940|Pascual Orozco|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1555|Semiurbano|08
+85943|Colosio|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|2011|Semiurbano|08
+85950|Obregón|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1496|Semiurbano|08
+85960|La Ranchería|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1497|Semiurbano|08
+85966|Nueva|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|2010|Semiurbano|08
+85966|Santa Cruz|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1558|Semiurbano|08
+85967|Guadalupe Ríos|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1498|Semiurbano|08
+85968|La Laguna|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1499|Semiurbano|08
+85968|PRI 90|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1560|Semiurbano|08
+85970|Anselmo Macías|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|3033|Urbano|08
+85970|Díaz|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|1501|Semiurbano|08
+85977|Privada Residencial La Hacienda|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|3304|Urbano|08
+85977|Los Juris|Residencial|Huatabampo|Sonora|Huatabampo|85901|26|85901||30|033|1502|Semiurbano|08
+85980|El Rastro Viejo|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1505|Semiurbano|08
+85980|El Control|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|3032|Urbano|08
+85984|INFONAVIT Los Juris|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1561|Semiurbano|08
+85984|El Trébol|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|1562|Semiurbano|08
+85984|Nueva Creación|Fraccionamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||21|033|3035|Urbano|08
+85990|La Cuchilla|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1506|Semiurbano|08
+85990|Unidad Deportiva|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|3840|Urbano|08
+85994|Instituto Tecnológico de Huatabampo|Equipamiento|Huatabampo|Sonora|Huatabampo|85901|26|85901||17|033|3842|Semiurbano|08
+85994|La Unión|Colonia|Huatabampo|Sonora|Huatabampo|85901|26|85901||09|033|1563|Semiurbano|08

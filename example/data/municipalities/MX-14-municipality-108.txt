@@ -1,0 +1,30 @@
+49800|Tuxpan Centro|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3107|Semiurbano|13
+49805|Vista Hermosa|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|4264|Semiurbano|13
+49805|Palmita|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3109|Semiurbano|13
+49805|Magisterial|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|4263|Semiurbano|13
+49805|Paso Blanco|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|5054|Urbano|13
+49806|Santiago|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3111|Semiurbano|13
+49806|Camichines|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|4265|Semiurbano|13
+49806|Miguel Hidalgo|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3110|Semiurbano|13
+49807|Arcos Bugambilias|Fraccionamiento|Tuxpan|Jalisco|Tuxpan|49801|14|49801||21|108|5281|Urbano|13
+49807|Lomas Del Norte|Fraccionamiento|Tuxpan|Jalisco|Tuxpan|49801|14|49801||21|108|3112|Semiurbano|13
+49808|Talpita|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3113|Semiurbano|13
+49810|Atenquique Colonia|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3114|Rural|13
+49810|Floresta|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3115|Semiurbano|13
+49810|Infonavit|Unidad habitacional|Tuxpan|Jalisco|Tuxpan|49801|14|49801||31|108|3116|Semiurbano|13
+49815|La Cajita|Fraccionamiento|Tuxpan|Jalisco|Tuxpan|49801|14|49801||21|108|4262|Semiurbano|13
+49815|Antonio Rendón|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|4261|Semiurbano|13
+49815|Lázaro Cárdenas|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3117|Semiurbano|13
+49816|Ferrocarril|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3118|Semiurbano|13
+49817|Vistas de la Floresta|Fraccionamiento|Tuxpan|Jalisco|Tuxpan|49801|14|49801||21|108|5231|Urbano|13
+49817|Ciuhapilli|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3119|Semiurbano|13
+49818|Comisión Del Sur|Colonia|Tuxpan|Jalisco|Tuxpan|49801|14|49801||09|108|3120|Semiurbano|13
+49820|Atenquique|Pueblo|Tuxpan|Jalisco||49801|14|49801||28|108|3121|Rural|
+49825|Los Mazos|Ejido|Tuxpan|Jalisco||49801|14|49801||15|108|3123|Rural|
+49828|San Juan Espanatica|Ranchería|Tuxpan|Jalisco||49801|14|49801||29|108|3124|Rural|
+49829|Los Laureles|Ranchería|Tuxpan|Jalisco||49801|14|49801||29|108|3125|Rural|
+49830|El Platanar|Pueblo|Tuxpan|Jalisco||49801|14|49801||28|108|3126|Rural|
+49834|La Higuera|Hacienda|Tuxpan|Jalisco||49901|14|49901||24|108|3127|Rural|
+49835|21 de Noviembre|Ejido|Tuxpan|Jalisco||49901|14|49901||15|108|3128|Rural|
+49836|Buen País|Congregación|Tuxpan|Jalisco||49901|14|49901||11|108|3129|Rural|
+49837|Padilla|Ejido|Tuxpan|Jalisco||49901|14|49901||15|108|3130|Rural|

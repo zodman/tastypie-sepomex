@@ -1,0 +1,27 @@
+51950|San Sebastián|Barrio|Tonatico|México||51951|15|51951||02|107|5192|Rural|
+51950|Tonatico|Pueblo|Tonatico|México||51951|15|51951||28|107|1546|Rural|
+51950|San Felipe|Barrio|Tonatico|México||51951|15|51951||02|107|5195|Rural|
+51950|San Gaspar|Barrio|Tonatico|México||51951|15|51951||02|107|5193|Rural|
+51950|Santa María Norte|Colonia|Tonatico|México||51951|15|51951||09|107|5191|Rural|
+51950|Santa María Sur|Barrio|Tonatico|México||51951|15|51951||02|107|5194|Rural|
+51953|Paso de San Juan|Colonia|Tonatico|México||51951|15|51951||09|107|6181|Urbano|
+51954|San Isidro|Ranchería|Tonatico|México||51951|15|51951||29|107|6182|Rural|
+51955|Comunidad|Ranchería|Tonatico|México||51951|15|51951||29|107|6180|Rural|
+51955|San Miguel|Ranchería|Tonatico|México||51951|15|51951||29|107|1544|Rural|
+51955|Pueblo Viejo|Ranchería|Tonatico|México||51951|15|51951||29|107|6178|Rural|
+51956|El Rincón|Ranchería|Tonatico|México||51951|15|51951||29|107|1538|Rural|
+51956|Trapiche|Ranchería|Tonatico|México||51951|15|51951||29|107|6179|Rural|
+51959|Los Amates (San José de los Amates)|Ranchería|Tonatico|México||51951|15|51951||29|107|1549|Rural|
+51960|Tlacopan|Ranchería|Tonatico|México||51951|15|51951||29|107|1545|Rural|
+51960|Portón de Sueño|Unidad habitacional|Tonatico|México||51951|15|51951||31|107|6177|Urbano|
+51963|San Bartolo|Ranchería|Tonatico|México||51951|15|51951||29|107|1543|Rural|
+51963|La Audiencia|Ranchería|Tonatico|México||51951|15|51951||29|107|1540|Rural|
+51964|Salinas|Ranchería|Tonatico|México||51951|15|51951||29|107|1542|Rural|
+51964|El Terrero|Ranchería|Tonatico|México||51951|15|51951||29|107|1550|Rural|
+51970|El Zapote|Ranchería|Tonatico|México||51951|15|51951||29|107|1539|Rural|
+51973|La Puerta de Santiago|Ranchería|Tonatico|México||51951|15|51951||29|107|1551|Rural|
+51974|Colixtlahuacán|Ranchería|Tonatico|México||51951|15|51951||29|107|8923|Rural|
+51974|Ojo de Agua|Ranchería|Tonatico|México||51951|15|51951||29|107|1537|Rural|
+51975|El Remate|Ranchería|Tonatico|México||51951|15|51951||29|107|7431|Rural|
+51976|Llano de Solidaridad|Ranchería|Tonatico|México||51951|15|51951||29|107|7432|Rural|
+51977|La Vega|Ranchería|Tonatico|México||51951|15|51951||29|107|1541|Rural|

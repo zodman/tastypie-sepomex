@@ -1,0 +1,40 @@
+58980|Mirador del Valle|Fraccionamiento|Queréndaro|Michoacán de Ocampo||58982|16|58982||21|072|3916|Urbano|
+58980|El Calvario|Colonia|Queréndaro|Michoacán de Ocampo||58982|16|58982||09|072|0002|Urbano|
+58980|Benito Juárez|Colonia|Queréndaro|Michoacán de Ocampo||58982|16|58982||09|072|0001|Urbano|
+58980|La Cruz|Colonia|Queréndaro|Michoacán de Ocampo||58982|16|58982||09|072|0004|Urbano|
+58980|Queréndaro|Pueblo|Queréndaro|Michoacán de Ocampo||58982|16|58982||28|072|0943|Urbano|
+58980|Francisco J. Mújica|Colonia|Queréndaro|Michoacán de Ocampo||58982|16|58982||09|072|0003|Urbano|
+58983|Rincón de Zetina|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0946|Rural|
+58983|San Miguel las Cuevas|Pueblo|Queréndaro|Michoacán de Ocampo||58982|16|58982||28|072|4036|Rural|
+58983|Ojo de Agua Grande|Poblado comunal|Queréndaro|Michoacán de Ocampo||58982|16|58982||27|072|0021|Rural|
+58983|Pueblo Viejo|Pueblo|Queréndaro|Michoacán de Ocampo||58982|16|58982||28|072|0944|Rural|
+58983|Tiradores|Pueblo|Queréndaro|Michoacán de Ocampo||58982|16|58982||28|072|0947|Rural|
+58983|Ojo de Agua Chico (Ojo de Agua Chiquito)|Poblado comunal|Queréndaro|Michoacán de Ocampo||58982|16|58982||27|072|0020|Rural|
+58984|El Castillo|Pueblo|Queréndaro|Michoacán de Ocampo||58982|16|58982||28|072|0948|Rural|
+58985|Río de Parras|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0949|Rural|
+58986|La Estancia|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0950|Rural|
+58987|Eusebio Luna|Colonia|Queréndaro|Michoacán de Ocampo||58982|16|58982||09|072|0951|Rural|
+58990|San José de la Cumbre|Pueblo|Queréndaro|Michoacán de Ocampo||58982|16|58982||28|072|0952|Rural|
+58990|San José Lagunillas|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0026|Rural|
+58990|Puente de Piedra|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0024|Rural|
+58993|La Agua Agria|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0014|Rural|
+58993|Peña Blanca|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0953|Rural|
+58993|El Tejocote|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0009|Rural|
+58993|Las Agujas (El Panteón de las Agujas)|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0017|Rural|
+58993|Mi Ranchito|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0019|Rural|
+58993|Las Trampas|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0018|Rural|
+58994|Santo Domingo|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0027|Rural|
+58994|El Trompillo|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0011|Rural|
+58994|El Llano (Los Llanos)|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0007|Rural|
+58994|El Templete|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0010|Rural|
+58994|Palo Grueso (La Troja)|Poblado comunal|Queréndaro|Michoacán de Ocampo||58982|16|58982||27|072|0022|Rural|
+58994|El Nopal|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0008|Rural|
+58994|Jauja|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0013|Rural|
+58995|Dolores (Cerro de Dolores)|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0005|Rural|
+58995|Garnica|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0012|Rural|
+58995|Ojo de Agua (El Sauz)|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0023|Rural|
+58997|Milpillas|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0954|Rural|
+58997|La Alberca|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0015|Rural|
+58997|La Huerta de las Manzanas|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0016|Rural|
+58997|Real de Otzumatlán|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0025|Rural|
+58997|El Jazmín del Rincón|Ranchería|Queréndaro|Michoacán de Ocampo||58982|16|58982||29|072|0006|Rural|

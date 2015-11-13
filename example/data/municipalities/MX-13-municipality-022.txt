@@ -1,0 +1,68 @@
+43580|Epazoyucan Centro|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|1738|Urbano|
+43583|Las Palmas|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4755|Urbano|
+43583|Arriba|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4757|Urbano|
+43583|Picacho|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4756|Urbano|
+43583|Álvaro Obregón|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4759|Urbano|
+43584|El Girón|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|1739|Rural|
+43584|Morelos|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4603|Urbano|
+43584|20 de Noviembre|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4758|Urbano|
+43584|Abajo|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4753|Urbano|
+43584|Las Garitas|Colonia|Epazoyucan|Hidalgo||42001|13|42001||09|022|4754|Urbano|
+43585|La Gotera|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4785|Rural|
+43585|San José Chavarria|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4801|Rural|
+43585|San Juan Tizahuapan|Pueblo|Epazoyucan|Hidalgo||42001|13|42001||28|022|1740|Rural|
+43585|Caja del Agua|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|4762|Rural|
+43585|La Vega|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4792|Rural|
+43586|Cerro Alto|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4765|Rural|
+43586|Tepozotlán|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4809|Rural|
+43586|Jometitlán|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4783|Rural|
+43586|San Vicente|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4806|Rural|
+43586|San Francisco|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|2820|Rural|
+43586|El Cascabel (La Coyotera)|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4768|Rural|
+43586|El Grillo|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4772|Rural|
+43586|San Miguel Nopalapa|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|4804|Rural|
+43586|La Paloma|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4788|Rural|
+43586|Piedra Blanca|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4799|Rural|
+43586|San José Palacio|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4803|Rural|
+43586|Xochihuacán|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|2577|Rural|
+43587|San Juan Tizahuapan|Barrio|Epazoyucan|Hidalgo||42001|13|42001||02|022|4761|Rural|
+43587|El Galán|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4771|Rural|
+43587|Maguey Blanco|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4797|Rural|
+43587|El Guajolote|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|1741|Rural|
+43587|Xolostitla de Morelos (Xolostitla)|Ejido|Epazoyucan|Hidalgo||42001|13|42001||15|022|1742|Rural|
+43587|El Manzano|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|4773|Rural|
+43587|Ciénega Larga|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4766|Rural|
+43587|Casacoalco|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4763|Rural|
+43587|La Huerta Grande|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4786|Rural|
+43590|Chapultepec|Barrio|Epazoyucan|Hidalgo||42001|13|42001||02|022|4760|Rural|
+43590|Guadalupe|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4782|Rural|
+43590|La Trinidad|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4790|Rural|
+43590|La Trinidad Segunda Sección|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4791|Rural|
+43590|Santa Mónica|Pueblo|Epazoyucan|Hidalgo||42001|13|42001||28|022|1743|Rural|
+43590|Cerro Alto|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4764|Rural|
+43590|El Salto|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4781|Rural|
+43592|Escobillas|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|1744|Rural|
+43592|Los Corrales|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4795|Rural|
+43592|Juan Pacheco Aguirre|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4784|Rural|
+43592|El Palmar|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4778|Rural|
+43592|Santa María las Mesas|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4808|Rural|
+43592|El Pinillo|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4779|Rural|
+43593|Piedras Negras|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4780|Rural|
+43593|San Pablo Guadalupe|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4805|Rural|
+43593|Tomás González Meneses|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4810|Rural|
+43594|El Mercillero|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4774|Rural|
+43594|Las Palomas|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4794|Rural|
+43594|San José el Tecolote|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4802|Rural|
+43594|Santa María el Arco|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4807|Rural|
+43595|San Juan Tizahuapan|Ejido|Epazoyucan|Hidalgo||42001|13|42001||15|022|4767|Rural|
+43595|El Crucero de Nexpa|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4769|Rural|
+43595|La Presa (Casas Blancas)|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4789|Rural|
+43595|Nexpan|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4798|Rural|
+43595|El Escobal|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4770|Rural|
+43596|El Ocote|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4776|Rural|
+43596|San Cayetano (Los Lazcano)|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4800|Rural|
+43596|La Mesita|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4787|Rural|
+43596|Los Lirios|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4796|Rural|
+43596|El Nopalillo|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|4775|Rural|
+43596|El Ocote Chico|Poblado comunal|Epazoyucan|Hidalgo||42001|13|42001||27|022|4777|Rural|
+43596|Las Palmitas|Ranchería|Epazoyucan|Hidalgo||42001|13|42001||29|022|4793|Rural|

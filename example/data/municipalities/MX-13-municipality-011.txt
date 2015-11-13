@@ -1,0 +1,57 @@
+43060|Tecolotitla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1228|Rural|
+43060|Cochiscuatitla|Residencial|Atlapexco|Hidalgo||43007|13|43007||30|011|1226|Rural|
+43060|Deportiva|Colonia|Atlapexco|Hidalgo||43007|13|43007||09|011|2691|Urbano|
+43060|Cochotla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1227|Rural|
+43060|Subestación|Colonia|Atlapexco|Hidalgo||43007|13|43007||09|011|2842|Urbano|
+43060|Atlapexco Centro|Pueblo|Atlapexco|Hidalgo||43007|13|43007||28|011|1225|Urbano|
+43061|Pahactla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1230|Rural|
+43061|Atlaltipa Tecolotitla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1229|Rural|
+43062|Tecacahuaco|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1232|Rural|
+43062|Tierra Playa|Poblado comunal|Atlapexco|Hidalgo||43007|13|43007||27|011|3980|Rural|
+43062|Tzintepetzintla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3982|Rural|
+43062|Tlachapa|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1233|Rural|
+43062|Samaria|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3976|Rural|
+43062|Santo Tomás|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1231|Rural|
+43062|Xancaltitla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3983|Rural|
+43062|Las Flores|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3975|Rural|
+43062|Granja Acuícola|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3965|Rural|
+43063|Itzócal|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1236|Rural|
+43063|Poxtla Atlajco|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3974|Rural|
+43063|Atlajco|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1235|Rural|
+43063|Achiquihuixtla|Colonia|Atlapexco|Hidalgo||43007|13|43007||09|011|1234|Rural|
+43064|Tulipanes|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3952|Urbano|
+43064|Abajo|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3951|Urbano|
+43064|7 de Mayo|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3949|Urbano|
+43064|Valle Verde|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3950|Urbano|
+43064|Progreso|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3948|Urbano|
+43065|Humberta Hernández Tovar|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3954|Urbano|
+43065|Tecoluco Calpan|Barrio|Atlapexco|Hidalgo||43007|13|43007||02|011|3953|Urbano|
+43065|10 de Mayo|Colonia|Atlapexco|Hidalgo||43007|13|43007||09|011|3955|Urbano|
+43066|Atlaltipa Mirador|Poblado comunal|Atlapexco|Hidalgo||43007|13|43007||27|011|3958|Rural|
+43066|Atotomoc|Poblado comunal|Atlapexco|Hidalgo||43007|13|43007||27|011|3959|Rural|
+43066|El Mirador|Poblado comunal|Atlapexco|Hidalgo||43007|13|43007||27|011|3961|Rural|
+43066|Ixtacuatitla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3966|Rural|
+43066|Pochoíca|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3973|Rural|
+43066|Palo Gordo|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1239|Rural|
+43066|Plan Huasteca|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3972|Rural|
+43066|Atlaltipa Huitzotlaco|Poblado comunal|Atlapexco|Hidalgo||43007|13|43007||27|011|3957|Rural|
+43066|La Reforma|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3969|Rural|
+43066|Oxpantla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3971|Rural|
+43066|Huitzotlaco|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1238|Rural|
+43066|Atencuapa|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1237|Rural|
+43066|Ixtacuayo|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3967|Rural|
+43067|Tenexco 1|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1242|Rural|
+43067|El Suspiro|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3963|Rural|
+43067|Tempexquite|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3977|Rural|
+43067|San Isidro|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1241|Rural|
+43067|Los Naranjos|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3970|Rural|
+43067|Cuatapa|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3984|Rural|
+43067|La Providencia|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3968|Rural|
+43067|El Porvenir|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3962|Rural|
+43067|General Emiliano Zapata|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3964|Rural|
+43067|Coyolapa|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|1240|Rural|
+43067|Tenexco II|Poblado comunal|Atlapexco|Hidalgo||43007|13|43007||27|011|3978|Rural|
+43067|Tlahica|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3981|Rural|
+43068|Ejido Atlapexco|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3960|Rural|
+43068|Teocoatitla|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3979|Rural|
+43068|6 de Enero|Ranchería|Atlapexco|Hidalgo||43007|13|43007||29|011|3956|Rural|

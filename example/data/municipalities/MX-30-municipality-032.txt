@@ -1,0 +1,68 @@
+95870|Los Sauces|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4846|Urbano|45
+95870|Las Araucarias|Fraccionamiento|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||21|032|4849|Urbano|45
+95870|El Recuerdo|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|7535|Urbano|45
+95870|Tío Tin|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4856|Urbano|45
+95870|San Juan|Barrio|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||02|032|4858|Urbano|45
+95870|Tepetapan|Fraccionamiento|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||21|032|4861|Urbano|45
+95870|Canseco|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4863|Urbano|45
+95870|El Rodeo|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0771|Urbano|45
+95870|San José|Barrio|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||02|032|1073|Urbano|45
+95870|San Miguel|Barrio|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||02|032|1079|Urbano|45
+95870|Tepetapan|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4859|Urbano|45
+95870|Rafael Hernández Ochoa|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0828|Urbano|45
+95870|Nixtamalapa|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0987|Urbano|45
+95870|Los Prados|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4847|Urbano|45
+95870|Catemaco|Fraccionamiento|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||21|032|4851|Urbano|45
+95870|Prolongación Tepetapan|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4860|Urbano|45
+95870|Don Pedro|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0720|Urbano|45
+95870|El Panteón|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0764|Urbano|45
+95870|Granja|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0867|Urbano|45
+95870|Norte|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4848|Urbano|45
+95870|El Carmen|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4852|Urbano|45
+95870|Tío Julito|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4853|Urbano|45
+95870|La Candelaria|Barrio|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||02|032|4854|Urbano|45
+95870|Los Carriles|Fraccionamiento|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||21|032|7612|Urbano|45
+95870|Lindavista|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0915|Urbano|45
+95870|Villa Flores|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|1180|Urbano|45
+95870|Santa Rosa|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4850|Urbano|45
+95870|Los Pinos|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4855|Urbano|45
+95870|El Puente|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0768|Urbano|45
+95870|6 de Enero|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0007|Urbano|45
+95870|El Mirador|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|0757|Urbano|45
+95870|Catemaco Centro|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|3619|Urbano|45
+95870|Tepeyac|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|4857|Urbano|45
+95870|Santa Rosa|Barrio|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||02|032|4862|Urbano|45
+95870|La Poza|Colonia|Catemaco|Veracruz de Ignacio de la Llave|Catemaco|95871|30|95871||09|032|7611|Urbano|45
+95873|Tebanca|Poblado comunal|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||27|032|0001|Rural|
+95874|Matalcalcinta|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|0011|Rural|
+95874|Miguel Hidalgo (El Apompal)|Colonia|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||09|032|3625|Rural|
+95874|Temolapan|Poblado comunal|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||27|032|0003|Rural|
+95874|San Antonio|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|0005|Rural|
+95874|Maxacapan|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3621|Rural|
+95875|San Juan Seco de Valencia|Pueblo|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||28|032|0009|Rural|
+95875|Ahuatepec|Pueblo|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||28|032|0008|Rural|
+95876|San Antonio de Padua|Colonia|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||09|032|0010|Rural|
+95876|La Victoria|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3622|Rural|
+95876|Pozolapan (Cartagena)|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3626|Rural|
+95876|San Juan Bautista|Barrio|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||02|032|7253|Rural|
+95877|Colonia el Águila|Pueblo|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||28|032|3620|Rural|
+95877|Zapoapan de Cabañas|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3623|Rural|
+95877|Candelaria|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3627|Rural|
+95877|La Providencia|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|0013|Rural|
+95879|Bajos de Mimiahua|Poblado comunal|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||27|032|0002|Rural|
+95879|Benito Juárez|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|3628|Rural|
+95880|Sontecomapan|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3630|Rural|
+95880|Dos Amates|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|3629|Rural|
+95883|Península de Moreno|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|7539|Rural|
+95883|Adalberto Tejeda|Colonia|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||09|032|0004|Rural|
+95884|Coxcoapan|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3631|Rural|
+95888|Calpultéolt (El Morro)|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|3632|Rural|
+95890|Coyame|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|3633|Rural|
+95893|Teotepec|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|0012|Rural|
+95894|Chichiguesa|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|0006|Rural|
+95896|La Candelaria|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|7766|Rural|
+95897|Perla de San Martín|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|3634|Rural|
+95897|Gustavo Díaz Ordaz|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|7765|Rural|
+95897|Mario Souza|Congregación|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||11|032|7540|Rural|
+95897|Olotepec|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|7761|Rural|
+95898|La Palma|Ranchería|Catemaco|Veracruz de Ignacio de la Llave||95871|30|95871||29|032|3635|Rural|

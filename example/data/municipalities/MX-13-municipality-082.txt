@@ -1,0 +1,28 @@
+42190|Pueblo Nuevo|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5952|Urbano|
+42190|Las Moneras|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5950|Urbano|
+42190|Zapotlán de Juárez Centro|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|0280|Urbano|
+42190|Emiliano Zapata|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5949|Urbano|
+42190|Benito Juárez|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5947|Urbano|
+42190|La Presita|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5951|Urbano|
+42190|Nueva Santa María|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5948|Urbano|
+42191|La Cañada|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5938|Urbano|
+42191|Lázaro Cárdenas|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5942|Urbano|
+42191|Los Jorges|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5936|Urbano|
+42191|Lomas del Pedregal|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5943|Urbano|
+42191|El Cerrito|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5937|Urbano|
+42191|Pueblo Nuevo|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5939|Urbano|
+42191|Acayuca|Pueblo|Zapotlán de Juárez|Hidalgo||42091|13|42091||28|082|0281|Urbano|
+42191|El Herradero|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5941|Urbano|
+42191|Obrera|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5940|Urbano|
+42192|Cerrito|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5944|Urbano|
+42192|Niños Héroes|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5946|Urbano|
+42192|San Pedro Huaquilpan|Pueblo|Zapotlán de Juárez|Hidalgo||42091|13|42091||28|082|0282|Urbano|
+42192|Buenos Aires|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|5945|Urbano|
+42192|Revolución Mexicana|Colonia|Zapotlán de Juárez|Hidalgo||42091|13|42091||09|082|2705|Urbano|
+42194|San Isidro|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5955|Rural|
+42195|El Fortino|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5953|Rural|
+42195|Urizan|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5959|Rural|
+42196|San Javier|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5956|Rural|
+42197|El Pavo Real|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5954|Rural|
+42197|Santa Rosa|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5958|Rural|
+42198|San Pedro Huitepec|Ranchería|Zapotlán de Juárez|Hidalgo||42091|13|42091||29|082|5957|Rural|

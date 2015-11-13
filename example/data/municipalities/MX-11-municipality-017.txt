@@ -1,0 +1,555 @@
+36500|Irapuato Centro|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0366|Urbano|06
+36510|La Salud|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0369|Urbano|06
+36510|Plan de Guanajuato|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0371|Urbano|06
+36510|Piedra Lisa|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0370|Urbano|06
+36510|San Miguel|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0372|Urbano|06
+36511|La Herradura|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0373|Urbano|06
+36511|Lomas de Santa Cecilia|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0374|Urbano|06
+36512|Los Hoyos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0376|Urbano|06
+36512|Las Ladrilleras|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0375|Urbano|06
+36513|San José|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0378|Urbano|06
+36513|Plaza Boulevard|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0377|Urbano|06
+36514|Inmobiliaria Recreo|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0379|Urbano|06
+36515|Los Paraísos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|6920|Urbano|06
+36515|San Carlos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3526|Urbano|06
+36515|Jardines de La Hacienda|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3527|Urbano|06
+36515|Carlos Salinas de Gortari|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4825|Urbano|06
+36515|Luis Alonso González|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3522|Urbano|06
+36515|Pronasol|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3523|Urbano|06
+36515|Punto Verde|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4644|Urbano|06
+36515|24 de Abril|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3521|Urbano|06
+36515|Las Fuentes 2a Sección|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4826|Urbano|06
+36515|El Ángel|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3520|Urbano|06
+36515|24 de Diciembre|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4349|Urbano|06
+36515|El Trébol|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3519|Urbano|06
+36515|Lucio Cabañas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3525|Urbano|06
+36515|Las Fuentes|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3528|Urbano|06
+36515|Brisas del Río|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4645|Urbano|06
+36515|Ernesto Che Guevara|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3524|Urbano|06
+36520|Guerrero|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0381|Urbano|06
+36520|Morelos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0383|Urbano|06
+36520|San Pedro|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0384|Urbano|06
+36520|Las Arboledas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0382|Urbano|06
+36524|Ampliación las Américas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4771|Urbano|06
+36524|Quinta del Magisterio|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5501|Urbano|06
+36524|Las Américas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3531|Urbano|06
+36525|Jacarandas|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|0385|Urbano|06
+36526|Las Águilas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4356|Urbano|06
+36526|Roma|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3548|Urbano|06
+36526|San Pedro|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0386|Urbano|06
+36530|Álvaro Obregón|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0387|Urbano|06
+36530|San Cayetano|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0390|Urbano|06
+36530|Renovación|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0389|Urbano|06
+36530|Nuevo|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0388|Urbano|06
+36540|La Huerta|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3517|Urbano|06
+36540|San Isidro|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3516|Urbano|06
+36540|Lázaro Cárdenas|Ampliación|Irapuato|Guanajuato|Irapuato|36501|11|36501||38|017|4828|Urbano|06
+36540|Emiliano Zapata 2|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0391|Urbano|06
+36540|Lázaro Cárdenas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0392|Urbano|06
+36540|Francisco Villa|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4660|Urbano|06
+36540|Josefa Ortiz de Domínguez|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3518|Urbano|06
+36541|Irapuato (Ciudad Industrial)|Zona industrial|Irapuato|Guanajuato|Irapuato|36501|11|36501||37|017|0393|Urbano|06
+36542|Ex Hacienda Buenavista|Congregación|Irapuato|Guanajuato|Irapuato|36501|11|36501||11|017|3512|Urbano|06
+36542|Residencias Militares|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0394|Urbano|06
+36544|Rancho Grande|Ejido|Irapuato|Guanajuato|Irapuato|36501|11|36501||15|017|0678|Urbano|06
+36544|Excelsior|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4830|Urbano|06
+36544|Ciudad de Los Olivos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0396|Urbano|06
+36544|Las Alamedas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4665|Urbano|06
+36545|Rafael Galván|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3513|Urbano|06
+36545|Villa San Ángel|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0017|Urbano|06
+36545|12 Región Zona Militar|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0397|Urbano|06
+36545|Constitución de Apatzingán|Ampliación|Irapuato|Guanajuato|Irapuato|36501|11|36501||38|017|4832|Urbano|06
+36545|Azteca|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3514|Urbano|06
+36545|Constitución de Apatzingan 2a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4831|Urbano|06
+36545|Constitución de Apatzingan|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3515|Urbano|06
+36546|Malvas (La Argolla)|Ejido|Irapuato|Guanajuato|Irapuato|36501|11|36501||15|017|0676|Rural|06
+36546|Apolo|Parque industrial|Irapuato|Guanajuato|Irapuato|36501|11|36501||26|017|4666|Urbano|06
+36547|Las Malvas Revolución|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0398|Urbano|06
+36550|Miguel Hidalgo|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0400|Urbano|06
+36550|San Antonio|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0401|Urbano|06
+36550|Los Presidentes|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0399|Urbano|06
+36554|La Candelaria|Congregación|Irapuato|Guanajuato|Irapuato|36501|11|36501||11|017|0693|Urbano|06
+36554|Primaveral|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3563|Urbano|06
+36554|Las Pergolas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5390|Urbano|06
+36554|El Zapote del Milagro|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0001|Urbano|06
+36554|La Florida|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4834|Urbano|06
+36554|Las Huertas 3a Sección|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4836|Urbano|06
+36554|Colinas del Río|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|6915|Urbano|06
+36554|Villa de Lourdes|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0016|Urbano|06
+36554|Nueva Reforma Agraria|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3553|Urbano|06
+36554|Villas del Milagro|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4365|Urbano|06
+36554|Las Liebres|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5413|Urbano|06
+36554|Las Huertas 2a Sección|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4837|Urbano|06
+36555|Ganadera|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3564|Urbano|06
+36555|Magisterial|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4652|Urbano|06
+36555|La Alameda|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5454|Urbano|06
+36555|Residencial Palma de Mallorca|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0009|Urbano|06
+36555|El Encino|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|3544|Urbano|06
+36555|Purísima de Flores|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4654|Urbano|06
+36555|El Vergel|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5389|Urbano|06
+36555|Playa Azul|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0403|Urbano|06
+36555|Valle Verde|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3459|Rural|06
+36555|Fonapo|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3566|Urbano|06
+36555|Purísima del Jardín O Hilacha|Congregación|Irapuato|Guanajuato|Irapuato|36501|11|36501||11|017|0687|Urbano|06
+36555|Purísima del Jardín|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4359|Urbano|06
+36555|5 de Septiembre|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4653|Urbano|06
+36555|Quinta Magisterial|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4785|Urbano|06
+36555|Bajada de San Martín|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3550|Urbano|06
+36555|Los Fresnos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3551|Urbano|06
+36555|Las Fuentes Magisterial|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4668|Urbano|06
+36556|Granjas Agropecuarias San Miguel|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0404|Urbano|06
+36556|Campo Real|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|4833|Urbano|06
+36557|Hacienda San Miguelito|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3562|Urbano|06
+36557|La Valenciana|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3542|Urbano|06
+36557|Benito Juárez 2|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0406|Urbano|06
+36557|Las Diligencias|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3555|Urbano|06
+36557|Quinta Verde|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4786|Urbano|06
+36557|Las Aves|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4781|Urbano|06
+36557|San Miguelito|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4835|Urbano|06
+36557|Haciendas de Santiago|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5358|Urbano|06
+36557|Rinconada de La Hacienda|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5286|Urbano|06
+36557|Benito Juárez 1|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0405|Urbano|06
+36557|Hacienda las Flores|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4664|Urbano|06
+36558|Ex Hacienda San Miguelito|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4787|Urbano|06
+36558|El Milagro|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4353|Urbano|06
+36558|Cerrada Altamira|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4650|Urbano|06
+36558|Los Huertos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4765|Urbano|06
+36558|EL Zapote|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4777|Urbano|06
+36558|Tajín|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4790|Urbano|06
+36558|San Martín de Porres|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3549|Urbano|06
+36558|El Rosario|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4794|Urbano|06
+36558|Esmeralda|Condominio|Irapuato|Guanajuato|Irapuato|36501|11|36501||10|017|0011|Urbano|06
+36558|Tlaxcalita|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4364|Urbano|06
+36558|El Colonial|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4651|Urbano|06
+36558|El Milagro de Santo Domingo|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4789|Urbano|06
+36559|Independencia|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0407|Urbano|06
+36560|Distrito Federal|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0408|Urbano|06
+36560|Santa Anita|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0411|Urbano|06
+36560|La Paz|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0409|Urbano|06
+36560|Los Arcos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0410|Urbano|06
+36566|Estrella|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0412|Urbano|06
+36566|Las Palmas|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0413|Urbano|06
+36567|Las Misiones|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0415|Urbano|06
+36568|Álamos|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|3458|Urbano|06
+36568|San Juan de Retana|Ejido|Irapuato|Guanajuato|Irapuato|36571|11|36571||15|017|0675|Urbano|06
+36568|Ignacio Allende|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0416|Urbano|06
+36570|Del Bosque|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0417|Urbano|06
+36570|Pipila|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|0420|Urbano|06
+36570|El Cantador|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0418|Urbano|06
+36570|Los Reyes|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0419|Urbano|06
+36570|Solidaridad Infonavit|Unidad habitacional|Irapuato|Guanajuato|Irapuato|36571|11|36571||31|017|0421|Urbano|06
+36576|12 de Diciembre|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|3567|Urbano|06
+36576|Los Pinos|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|4357|Urbano|06
+36576|Nuevo México|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0423|Urbano|06
+36576|La Lupita|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|3569|Urbano|06
+36576|Primavera|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|4873|Urbano|06
+36577|Ibarra|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0424|Urbano|06
+36577|Juan Pablo II|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|6916|Urbano|06
+36578|Obrero|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0425|Urbano|06
+36580|De la Calzada de Guadalupe|Barrio|Irapuato|Guanajuato|Irapuato|36571|11|36571||02|017|0426|Urbano|06
+36580|Guanajuato|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0430|Urbano|06
+36580|Durazno|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0427|Urbano|06
+36580|Guadalupe|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0429|Urbano|06
+36583|Industrial San Roque|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4871|Urbano|06
+36583|San Roque|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0432|Urbano|06
+36583|Insurgentes|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0431|Urbano|06
+36584|Expo Fresas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4845|Urbano|06
+36584|Jardines de la Virgen|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|6921|Urbano|06
+36584|Hacienda La Virgen|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|3571|Urbano|06
+36584|Morelos|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0434|Urbano|06
+36584|Hacienda La Virgen 2a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4844|Urbano|06
+36584|Del Parque|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|5534|Urbano|06
+36584|Santa Amalia (Morelos 2da. Secc)|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|6922|Urbano|06
+36584|La Virgen|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|5357|Urbano|06
+36585|Valle de las Flores|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|0433|Urbano|06
+36585|Hacienda Colon|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4468|Urbano|06
+36585|Valle de Las Flores 3a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4851|Urbano|06
+36585|Rancho Colon|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|4362|Urbano|06
+36585|Los Agaves|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|0014|Urbano|06
+36585|Morelos|Ampliación|Irapuato|Guanajuato|Irapuato|36571|11|36571||38|017|4841|Urbano|06
+36585|Valle de Las Flores 2a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4870|Urbano|06
+36585|Las Luminarias|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4466|Urbano|06
+36585|Irapuato|Residencial|Irapuato|Guanajuato|Irapuato|36571|11|36571||30|017|4852|Urbano|06
+36586|Flores Magón Sur|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0435|Urbano|06
+36586|Granjas Saldaña|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0436|Urbano|06
+36587|Colón 3a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4850|Urbano|06
+36587|Ex Hacienda Las Ánimas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5262|Urbano|06
+36587|Club Century|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4847|Urbano|06
+36587|Las Animas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0437|Urbano|06
+36587|Villa Real|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4848|Urbano|06
+36587|Los Girasoles|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3530|Urbano|06
+36587|Colón 2a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4849|Urbano|06
+36588|Los Cipreses|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0438|Urbano|06
+36588|Santiaguito|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0440|Urbano|06
+36588|San Vicente|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0439|Urbano|06
+36589|Cuarto Día|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0441|Urbano|06
+36590|El Refugio|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|0444|Urbano|06
+36590|18 de Agosto|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0443|Urbano|06
+36590|Irapuato|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0445|Urbano|06
+36590|Valle del Sol|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|3457|Urbano|06
+36590|Los Ángeles|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0446|Urbano|06
+36590|San Marcos|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0447|Urbano|06
+36590|La Venta Nueva Central de Abastos|Zona comercial|Irapuato|Guanajuato|Irapuato|36571|11|36571||33|017|4846|Urbano|06
+36590|Central de Abastos|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|4351|Urbano|06
+36593|Quintas San Joaquín|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|0012|Urbano|06
+36593|Quinta San Joaquín|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4671|Urbano|06
+36593|Esfuerzo y Lucha|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4842|Urbano|06
+36593|Emiliano Zapata III|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|4876|Urbano|06
+36593|Balcones de Floresta|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|6913|Urbano|06
+36593|Caudillo del Sur|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|6914|Urbano|06
+36593|2da. Sección San Joaquín|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|5500|Urbano|06
+36593|Ucopi|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|3570|Urbano|06
+36595|Floresta|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4872|Urbano|06
+36595|La Primavera|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|6917|Urbano|06
+36595|Rincón de Los Fresnos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|4843|Urbano|06
+36595|Las Carmelitas|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0448|Urbano|06
+36595|Floresta|Residencial|Irapuato|Guanajuato|Irapuato|36571|11|36571||30|017|3568|Urbano|06
+36595|Las Carmelitas II|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36571|11|36571||21|017|6918|Urbano|06
+36597|Colon|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0449|Urbano|06
+36599|Municipio Libre|Colonia|Irapuato|Guanajuato|Irapuato|36571|11|36571||09|017|0450|Urbano|06
+36600|El Cobano|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0451|Urbano|06
+36600|San Antonio de Ayala|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|3536|Urbano|06
+36600|San Antonio|Conjunto habitacional|Irapuato|Guanajuato|Irapuato|36501|11|36501||12|017|4853|Urbano|06
+36600|Jardines de San Antonio|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4355|Urbano|06
+36610|Mediterráneo|Conjunto habitacional|Irapuato|Guanajuato|Irapuato|36501|11|36501||12|017|4855|Urbano|06
+36610|Españita|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0452|Urbano|06
+36610|Bernardo Cobos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3561|Urbano|06
+36611|Jardines del Valle|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0453|Urbano|06
+36612|Casa Blanca|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4350|Urbano|06
+36612|Ciudad Deportiva|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0454|Urbano|06
+36613|Lomas del Pedregal|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3552|Urbano|06
+36613|Bellavista|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4657|Urbano|06
+36613|Lomas de Españita|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0455|Urbano|06
+36613|Vista Hermosa|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3545|Urbano|06
+36613|Bellavista|Ampliación|Irapuato|Guanajuato|Irapuato|36501|11|36501||38|017|4854|Urbano|06
+36613|Cerrito de Camino Real|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5392|Urbano|06
+36614|Bugambilias|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|3537|Urbano|06
+36614|Hacienda de San Miguel|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4780|Urbano|06
+36614|Residencial Toscana|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5261|Urbano|06
+36614|Vasco de Quiroga FOVISSSTE|Unidad habitacional|Irapuato|Guanajuato|Irapuato|36501|11|36501||31|017|0456|Urbano|06
+36614|El Cortijo|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4352|Urbano|06
+36615|La Estancia A|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4874|Urbano|06
+36615|La Estancia|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0457|Urbano|06
+36615|Heritage|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3533|Urbano|06
+36615|La Estancia B|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3534|Urbano|06
+36615|Quetzal|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4784|Urbano|06
+36615|Tabachines|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0458|Urbano|06
+36615|Estancia las Palmas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4656|Urbano|06
+36615|Loma Bonita|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4856|Urbano|06
+36620|Unidad Modelo del IMSS|Unidad habitacional|Irapuato|Guanajuato|Irapuato|36501|11|36501||31|017|0461|Urbano|06
+36620|Las Plazas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0459|Urbano|06
+36620|Los Encinos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4782|Urbano|06
+36620|Camino Real|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3535|Urbano|06
+36620|Hermano Mateo|Ranchería|Irapuato|Guanajuato|Irapuato|36501|11|36501||29|017|6906|Rural|06
+36620|Estrella|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3532|Urbano|06
+36620|Santa Fe|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0460|Urbano|06
+36620|Ejido Lo de Juárez|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0661|Urbano|06
+36624|Juárez|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0463|Urbano|06
+36624|San Juan Bosco|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4788|Urbano|06
+36624|Bosques de la Pradera|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5398|Urbano|06
+36625|Valle Real|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0008|Urbano|06
+36625|Campestre de las Flores|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3554|Urbano|06
+36625|Quintas Libertad|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5263|Urbano|06
+36625|La Gavia|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|5455|Urbano|06
+36625|Misión Privadas Residenciales|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5408|Urbano|06
+36626|Camino Real de Lo de Juárez|Ejido|Irapuato|Guanajuato|Irapuato|36501|11|36501||15|017|0659|Urbano|06
+36626|Galaxia Real de Arandas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5474|Urbano|06
+36626|Arandas|Ejido|Irapuato|Guanajuato|Irapuato|36501|11|36501||15|017|0658|Rural|06
+36626|Galaxia Naranjal|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4778|Urbano|06
+36626|Jardines de Arandas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5391|Urbano|06
+36626|Jalisco|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4655|Urbano|06
+36630|La Pradera|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0465|Urbano|06
+36630|Villas El Dorado|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0464|Urbano|06
+36630|Santa Fe 2a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4857|Urbano|06
+36630|Laboratorio CFE Sur|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4858|Urbano|06
+36630|Laboratorio CFE Norte|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4859|Urbano|06
+36631|Comisión Federal de Electricidad|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0466|Urbano|06
+36633|Del Bosque|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|4860|Urbano|06
+36633|Aranzazu|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|5493|Urbano|06
+36633|Inmobiliaria Futurama|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0467|Urbano|06
+36633|Ampliación los Arcos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4772|Urbano|06
+36633|Rincón de los Arcos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4648|Urbano|06
+36633|Terracota|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5647|Urbano|06
+36640|Las Eras|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0470|Urbano|06
+36640|San Gabriel 2a Secc.|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0473|Urbano|06
+36640|San Gabriel 1a Secc.|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0472|Urbano|06
+36640|Las Trojes|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3539|Urbano|06
+36640|Puerta de Hierro|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5363|Urbano|06
+36640|Campestre Hurtado|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0468|Urbano|06
+36640|Las Eras 3a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4862|Urbano|06
+36640|Santa María 2a Sección|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4863|Urbano|06
+36640|Los Príncipes|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0471|Urbano|06
+36640|Santa María|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3538|Urbano|06
+36640|Quinta Jacarandas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4361|Urbano|06
+36640|Las Eras 2a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4861|Urbano|06
+36640|San Gabriel 3a Secc.|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0474|Urbano|06
+36643|El Campirano|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4774|Urbano|06
+36643|Villa Jardín|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4791|Urbano|06
+36643|Los Prados|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|9306|Urbano|06
+36643|Quinta las Villas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3556|Urbano|06
+36643|Villas de los Pobres (8 de Junio)|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4669|Urbano|06
+36643|Ejido Irapuato|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0005|Urbano|06
+36643|Miraflores|Condominio|Irapuato|Guanajuato|Irapuato|36501|11|36501||10|017|0010|Urbano|06
+36643|Provincia Cibeles|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4783|Urbano|06
+36644|Primero de Mayo Infonavit|Unidad habitacional|Irapuato|Guanajuato|Irapuato|36501|11|36501||31|017|0475|Urbano|06
+36644|Quinta Real|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4796|Urbano|06
+36644|Misioneros|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5414|Urbano|06
+36644|1 de Mayo|Ampliación|Irapuato|Guanajuato|Irapuato|36501|11|36501||38|017|4864|Urbano|06
+36644|Vasco de Quiroga|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3547|Urbano|06
+36645|Renacimiento|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4838|Urbano|06
+36645|San Francisco de la Charca (El Nido)|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4775|Urbano|06
+36645|San Isidro Labrador|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4839|Urbano|06
+36645|Guadalupe|Ranchería|Irapuato|Guanajuato|Irapuato|36501|11|36501||29|017|4779|Semiurbano|06
+36645|Villas de San  Clemente|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|6923|Urbano|06
+36646|Lomas del Pavo Real|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|6919|Urbano|06
+36648|San José de Jorge López|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0476|Urbano|06
+36649|Flores Magón Norte|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0477|Urbano|06
+36650|Gamez|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0478|Urbano|06
+36650|La Hacienda|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0479|Urbano|06
+36659|San José|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0480|Urbano|06
+36660|Jardines de Irapuato|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0482|Urbano|06
+36660|Los Eucaliptos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0485|Urbano|06
+36660|Las Rosas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0484|Urbano|06
+36660|Zona Dorada|Zona comercial|Irapuato|Guanajuato|Irapuato|36501|11|36501||33|017|4865|Urbano|06
+36660|Las Reynas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0483|Urbano|06
+36666|El Ranchito Independencia|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0486|Urbano|06
+36666|Lindavista|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0487|Urbano|06
+36667|Santa Julia|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0488|Urbano|06
+36668|Quinta Marqués|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0490|Urbano|06
+36668|Niños Héroes|Barrio|Irapuato|Guanajuato|Irapuato|36501|11|36501||02|017|0489|Urbano|06
+36669|Las Fuentes|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0491|Urbano|06
+36670|Piamonte|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4795|Urbano|06
+36670|Privada San Fernando|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4866|Urbano|06
+36670|Trento|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0002|Urbano|06
+36670|Capilla de Mendoza|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4793|Urbano|06
+36670|Villas de Irapuato|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0492|Urbano|06
+36670|Vista Alegre|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4658|Urbano|06
+36680|Haciendas El Carrizal|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3529|Urbano|06
+36680|Las Brisas|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5265|Urbano|06
+36680|Las Delicias|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0495|Urbano|06
+36680|Nogalia|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4647|Urbano|06
+36680|Esfuerzo Obrero|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0494|Urbano|06
+36680|Casas Populares (popular)|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0493|Urbano|06
+36683|Villa Esmeralda|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4663|Urbano|06
+36683|Portones|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|5448|Urbano|06
+36683|Rinconada del Parque|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4667|Urbano|06
+36687|San Cayetano de Luna I|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4646|Urbano|06
+36687|Villa San Cayetano|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4792|Urbano|06
+36687|San Juanito|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4662|Urbano|06
+36687|Los Duraznos|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5381|Urbano|06
+36687|San Cayetano 1a Sección|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4868|Urbano|06
+36687|El Encanto|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0006|Urbano|06
+36687|Los Monjes|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0013|Urbano|06
+36687|San Cayetano|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4867|Urbano|06
+36687|El Jaral|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|5535|Urbano|06
+36690|Las Palomas|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0497|Urbano|06
+36690|Jardín del Country|Residencial|Irapuato|Guanajuato|Irapuato|36501|11|36501||30|017|4354|Urbano|06
+36690|Moderna|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0498|Urbano|06
+36690|Nuevos Colonos Unidos|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|3540|Urbano|06
+36690|Real del Lago|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|4869|Urbano|06
+36690|Ferrocarrilero|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0496|Urbano|06
+36690|Moderna Prolongación|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0499|Urbano|06
+36690|Rodriguez|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0500|Urbano|06
+36690|San Ángel|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|4827|Urbano|06
+36691|Cereso Irapuato|Gran usuario|Irapuato|Guanajuato|Irapuato|36571|11|36571||22|017|0501|Urbano|06
+36698|Residencial Campestre|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|0502|Urbano|06
+36698|Europa|Fraccionamiento|Irapuato|Guanajuato|Irapuato|36501|11|36501||21|017|3559|Urbano|06
+36699|Viveros Revolución|Colonia|Irapuato|Guanajuato|Irapuato|36501|11|36501||09|017|0503|Urbano|06
+36800|San Cristóbal|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0630|Rural|
+36803|Cuchicuato|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0623|Rural|
+36804|San Javier|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0692|Rural|
+36804|San Diego del Rosal (El Zorrillo)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0690|Rural|
+36804|San José Bernalejo (El Ranchito)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0691|Rural|
+36804|Villas del Sol|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6853|Rural|
+36805|La Caja|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0625|Rural|
+36806|Venado de San Lorenzo|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0637|Rural|
+36806|Vista Hermosa|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6904|Rural|
+36806|Tejamanil|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0633|Rural|
+36806|Tamahula|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|5285|Rural|
+36806|El Tejamanil|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6838|Rural|
+36806|El Venadito|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6842|Rural|
+36806|La Pila de los Hernández|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6860|Rural|
+36807|Nuevo Ejido San Lorenzo|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0627|Rural|
+36807|Paso Blanco|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0640|Rural|
+36807|Rancho de los Rodríguez|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|5341|Rural|
+36807|Noria de Camarena|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0639|Rural|
+36807|San Agustín de los Tordos|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0628|Rural|
+36807|Tierras Negras|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6900|Rural|
+36807|El Conejo|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0688|Rural|
+36810|La Calera|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0643|Rural|
+36810|Santa Cruz|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6911|Rural|
+36810|Purísima del Progreso|Barrio|Irapuato|Guanajuato||36501|11|36501||02|017|4360|Rural|
+36813|Estación de Villalobos|Paraje|Irapuato|Guanajuato||36501|11|36501||45|017|0635|Rural|
+36813|Guadalupe Villa Cárdenas|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0647|Rural|
+36813|San Antonio Texas|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0650|Rural|
+36813|Ejido de Aldama|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|6831|Rural|
+36813|Buenos Aires|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0649|Rural|
+36813|San Antonio Texas (Los Corrales)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6882|Rural|
+36813|San Antonio el Rico|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0629|Rural|
+36813|Rancho Nuevo del Llanito|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0645|Rural|
+36813|Rancho Nuevo del Llanito (Los Arévalo)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6877|Rural|
+36813|San Vicente|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0646|Rural|
+36813|La Presa de San Vicente|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6861|Rural|
+36813|Molino de Santa Ana|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0644|Rural|
+36813|El Llanito|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6836|Rural|
+36813|San Miguel de Villalobos|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0634|Rural|
+36814|La Villita de Guadalupe|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6827|Rural|
+36814|El Triángulo|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6840|Rural|
+36814|Estación Vieyra (Granja Ofelia)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6845|Rural|
+36814|Gabino Vázquez (Las Viboras)|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|0636|Rural|
+36814|Taretán|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0652|Rural|
+36814|Camino Real|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6819|Rural|
+36814|Vieyra|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6903|Rural|
+36814|Serrano|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0632|Rural|
+36814|Hacienda de Márquez|Congregación|Irapuato|Guanajuato||36501|11|36501||11|017|0642|Rural|
+36814|Santa Bárbara|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0648|Rural|
+36814|Castro del Río (Parque Tecnoindustrial)|Zona industrial|Irapuato|Guanajuato||36501|11|36501||37|017|4643|Rural|
+36814|El Copalillo (El Chorizo)|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6823|Rural|
+36815|San José|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6910|Rural|
+36815|Aldama|Congregación|Irapuato|Guanajuato||36501|11|36501||11|017|0641|Rural|
+36815|Hacienda de Aldama|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|5526|Urbano|
+36815|Del Castillo|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6905|Rural|
+36815|Loma Bonita|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6908|Rural|
+36815|Mirador|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6909|Rural|
+36816|Estancia del Copal|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6846|Rural|
+36816|Comedero Grande|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0655|Rural|
+36816|El Encino del Copal|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0656|Rural|
+36816|Comederito|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0654|Rural|
+36817|Las Peñitas|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0651|Rural|
+36817|Fraccionamiento Anáhuac (Campo de Tiro)|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6850|Rural|
+36817|Cañada de la Muerte|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0653|Rural|
+36817|Cabañas Loma del Marqués|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6818|Rural|
+36818|Santa Rosa Tamascatío (Santa Rosa de la Cruz)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0670|Rural|
+36818|El Garbanzo|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6834|Rural|
+36820|Alfredo V. Bonfil|Poblado comunal|Irapuato|Guanajuato||36501|11|36501||27|017|5307|Rural|
+36822|Loma Bonita|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|5393|Urbano|
+36822|Peñuelas|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0665|Rural|
+36822|Carrizal Grande|Congregación|Irapuato|Guanajuato||36501|11|36501||11|017|0662|Urbano|
+36823|Guadalupe de Paso Blanco (El Ranchito)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0624|Rural|
+36823|La Garrida|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0667|Rural|
+36823|Nueva Colonia Copalillo (El Atorón)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|5283|Rural|
+36823|La Huerta del Naranjal|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6858|Rural|
+36823|Libramiento León-Salamanca|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6868|Rural|
+36823|El Copalillo|Congregación|Irapuato|Guanajuato||36501|11|36501||11|017|0622|Rural|
+36824|Valencianita|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0657|Urbano|
+36824|Ex-Hacienda del Copal|Exhacienda|Irapuato|Guanajuato||36501|11|36501||18|017|0660|Rural|
+36824|El Triángulo (Los Sauces)|Granja|Irapuato|Guanajuato||36501|11|36501||23|017|6841|Rural|
+36824|CINVESTAV|Equipamiento|Irapuato|Guanajuato||36501|11|36501||17|017|6822|Rural|
+36825|La Morada|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|4685|Rural|
+36825|San Nicolás Temascatío|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0666|Rural|
+36825|Ojo de Agua de Bermúdez|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0669|Rural|
+36825|Lo de Sierra|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0664|Rural|
+36825|Adjuntas|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6813|Rural|
+36826|El Carrizalito|Congregación|Irapuato|Guanajuato||36501|11|36501||11|017|0663|Rural|
+36826|La Trinidad de Temascatío|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0679|Rural|
+36826|Lomita de Malvas|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6871|Rural|
+36826|Bellas Artes|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6816|Rural|
+36826|Fraccionamiento Comunicadores|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6852|Rural|
+36826|Las Malvas (El Resbalón)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6867|Rural|
+36826|Arteaga|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|4358|Rural|
+36826|Purísima de Temascatío de Abajo|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6872|Rural|
+36826|Los Laureles (Los Pirules)|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6828|Rural|
+36826|Purísima de Temascatío de Arriba|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0677|Rural|
+36826|San Juan Temascatío|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6889|Rural|
+36827|San José de Marañón (La Mocha)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6887|Rural|
+36827|San José de Marañón (Cuauhtémoc Leycegui)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6886|Rural|
+36827|San Miguelito|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6894|Rural|
+36827|Shangrilá|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6899|Rural|
+36827|San Vicente de Malvas (La Oreja)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6895|Rural|
+36827|Santa Elena|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0684|Rural|
+36827|Rancho Grande|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6873|Rural|
+36830|Las Liebres|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6866|Rural|
+36830|La Soledad|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6862|Rural|
+36830|El Guayabo|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6824|Rural|
+36830|El Cuero|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6833|Rural|
+36830|Colinas del Río Dos|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|4840|Urbano|
+36830|El Cerrito de las Huertas|Poblado comunal|Irapuato|Guanajuato||36501|11|36501||27|017|5306|Rural|
+36830|Rosario de Covarrubias|Poblado comunal|Irapuato|Guanajuato||36501|11|36501||27|017|5459|Rural|
+36830|Rancho Nuevo de Dolores (El Cuero)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0696|Rural|
+36830|Ex-Hacienda San Miguelito Lote Uno|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6847|Rural|
+36830|San José de Bernalejo (El Guayabo)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6885|Rural|
+36830|El Coecillo|Hacienda|Irapuato|Guanajuato||36501|11|36501||24|017|0695|Rural|
+36830|San Francisco de la Charca|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6883|Rural|
+36833|Residencial Bosques|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6880|Rural|
+36833|Colonia Plan Vivirá|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6830|Rural|
+36833|Fracción San Miguelito (Luis Mioni)|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6849|Rural|
+36833|Villas de Bernalejo|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|4773|Urbano|
+36834|Rivera de Guadalupe|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0683|Rural|
+36834|Estación de Rivera|Paraje|Irapuato|Guanajuato||36501|11|36501||45|017|6844|Rural|
+36834|San José de los Naranjos (Juan Rivera)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|5284|Rural|
+36834|Villas del Sol|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|4659|Urbano|
+36834|Purísima de Covarrubias|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|5406|Rural|
+36834|San José de Rivera (San José de los Naranjos)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6888|Rural|
+36835|El Romeral|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0699|Rural|
+36835|San José de Cruces|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0701|Rural|
+36835|Rancho la Soledad|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6874|Rural|
+36835|San Luis del Jánamo (El Morado)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6891|Rural|
+36835|Centro Industrial de Guanajuato|Zona industrial|Irapuato|Guanajuato||36501|11|36501||37|017|0003|Rural|
+36835|Guadalupe de Rivera|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0680|Rural|
+36835|Providencia de Pérez (El Guantón)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0700|Rural|
+36835|San Isidro de la Cumbre|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6884|Rural|
+36835|Morelos de Guadalupe de Rivera|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6829|Rural|
+36835|El Jánamo|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6835|Rural|
+36836|Santa Fe de Munguía|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|5502|Rural|
+36836|Betania|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6817|Rural|
+36836|La Playa|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|5475|Rural|
+36836|Munguía|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0702|Rural|
+36836|Laguna Larga|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0682|Rural|
+36836|Santa Cecilia|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6896|Rural|
+36836|San Ignacio de Rivera (Ojo de Agua)|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0705|Rural|
+36836|San José de la Laguna (Los Ranchitos)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0706|Rural|
+36836|San Antonio|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6881|Rural|
+36837|Noria de Munguía|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0703|Rural|
+36837|Chichíngaro|Granja|Irapuato|Guanajuato||36501|11|36501||23|017|6821|Rural|
+36837|Refugio de Munguía|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6879|Rural|
+36837|El Tope|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6839|Rural|
+36837|La Concepción (San Miguel del Brete)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6855|Rural|
+36837|San Miguel del Brete|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6892|Rural|
+36837|La Cinta de Bernales|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6854|Rural|
+36837|La Florida|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6857|Rural|
+36837|Santa Fe de Bernales|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6898|Rural|
+36837|La Tinajita|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6864|Rural|
+36837|Loma Bonita|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6869|Rural|
+36837|San Antonio de Bernales|Poblado comunal|Irapuato|Guanajuato||36501|11|36501||27|017|5397|Rural|
+36840|Tomelopitos|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0686|Rural|
+36843|San Roque|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0698|Rural|
+36843|La Paz|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6907|Rural|
+36843|Urbi Villas del Rey|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6912|Rural|
+36844|Bodega de Cuarta Brigada|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0671|Rural|
+36844|La Sanabria|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|9304|Rural|
+36844|San Antonio de Chico|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0673|Rural|
+36844|Buenavista de Chico|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|5432|Rural|
+36844|La Soledad|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|0681|Rural|
+36844|Cuarta Brigada|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0015|Urbano|
+36844|Bajada de Cuarta Brigada|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6815|Rural|
+36845|Alfonso Martínez Vela [Antena XEBO]|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6814|Rural|
+36845|Rancho Monteleón|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6875|Rural|
+36845|Las Casitas|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6865|Rural|
+36845|San Francisco de la Cruz|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0018|Rural|
+36845|Carmelitas Dos|Fraccionamiento|Irapuato|Guanajuato||36501|11|36501||21|017|6851|Rural|
+36845|La Luz del Día (Ejido de la Sonaja)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6859|Rural|
+36845|Ex-Hacienda San Roque|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6848|Rural|
+36845|Loma de los Conejos|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6870|Rural|
+36846|La Zahúrda|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0697|Rural|
+36846|La Sonaja|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6826|Rural|
+36846|Rancho San Isidro|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6878|Rural|
+36846|Colonia la Soledad|Colonia|Irapuato|Guanajuato||36501|11|36501||09|017|6825|Rural|
+36846|La Sonaja (Granja Borja)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6863|Rural|
+36846|San Agustín el Alto (La Araña)|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|0004|Rural|
+36846|Tomelópez|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0685|Rural|
+36846|El Carmen|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0672|Rural|
+36847|Rancho Nuevo de Yóstiro|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6876|Rural|
+36847|Tinajita de Crucitas|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6902|Rural|
+36847|La Esperancita|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6856|Rural|
+36847|San Carlos|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|5342|Rural|
+36847|Casas Blancas|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6820|Rural|
+36847|Vista Hermosa|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0638|Rural|
+36847|El Palomar|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6837|Rural|
+36847|San Luis del Jánamo|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6890|Rural|
+36847|San Miguel del Brete|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6893|Rural|
+36847|Valenciana de Yóstiro|Ejido|Irapuato|Guanajuato||36501|11|36501||15|017|0704|Rural|
+36847|Tinaja de Bernales|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6901|Rural|
+36847|El Capulín de Yóstiro|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6832|Rural|
+36847|El Venado de Yóstiro|Ranchería|Irapuato|Guanajuato||36501|11|36501||29|017|6843|Rural|
+36849|Santa Elena de la Cruz|Pueblo|Irapuato|Guanajuato||36501|11|36501||28|017|6897|Rural|
+36849|La Zarca (La Frente)|Granja|Irapuato|Guanajuato||36501|11|36501||23|017|0007|Rural|

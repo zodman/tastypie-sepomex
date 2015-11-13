@@ -1,0 +1,72 @@
+40630|Limón Grande|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2386|Rural|
+40630|Ixtapilla|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2375|Rural|
+40630|Tucuruato|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2376|Rural|
+40630|Tupatarillo|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2390|Rural|
+40630|San José|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2387|Rural|
+40631|San Blas y Cuinio|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2378|Rural|
+40631|Cuadrilla Nueva|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2377|Rural|
+40632|La Palma|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2379|Rural|
+40632|Tamacuaro|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2381|Rural|
+40632|Nuevo Galeana|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2380|Rural|
+40633|Los Tules|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2382|Rural|
+40634|Zirandanganguio|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2385|Rural|
+40634|Los Capires|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2384|Rural|
+40634|Huaratzio|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2383|Rural|
+40634|La Comunidad|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2389|Rural|
+40634|El Guayabo|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2388|Rural|
+40635|Cutzamala de Pinzón Centro|Colonia|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||09|027|2374|Rural|13
+40636|La Curva|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3821|Rural|13
+40636|Las Escobitas|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3823|Rural|13
+40636|La Tortuguita|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|1400|Rural|13
+40636|Las Donas|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3822|Rural|13
+40636|El Calvario|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|1238|Rural|13
+40636|El Divisadero|Colonia|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||09|027|1252|Rural|13
+40638|Terrero|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|1288|Rural|13
+40638|El Pueblito|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|1274|Rural|13
+40638|Chino|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3817|Rural|13
+40638|Las Parotas|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3815|Rural|13
+40638|16 de Septiembre|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3816|Rural|13
+40639|El Barco|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|1223|Rural|13
+40639|Las Flores|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|3820|Rural|13
+40639|Las Querendas|Barrio|Cutzamala de Pinzón|Guerrero|Cutzamala de Pinzón|40637|12|40637||02|027|1434|Rural|13
+40640|Arroyo Grande|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2392|Rural|
+40640|El Quelite|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2393|Rural|
+40642|Pacuaro|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2394|Rural|
+40643|El Tule|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2395|Rural|
+40644|El Salitre|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2399|Rural|
+40644|El Tepehuaje|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2400|Rural|
+40644|El Ojo de Agua|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2398|Rural|
+40644|Cuincharas|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2396|Rural|
+40644|El Mango|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2397|Rural|
+40645|La Garra|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2402|Rural|
+40645|Amilpillas|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2401|Rural|
+40645|Los Guajes|Hacienda|Cutzamala de Pinzón|Guerrero||40637|12|40637||24|027|2403|Rural|
+40645|La Playa|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2404|Rural|
+40646|La Cañada del Pinzan|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2407|Rural|
+40646|Camutla|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2405|Rural|
+40646|El Pinzan|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2406|Rural|
+40647|El Timbinal|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2408|Rural|
+40647|La Ciénega|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2409|Rural|
+40647|La Laja|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2410|Rural|
+40648|El Aguacate|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2413|Rural|
+40648|El Cundan|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2414|Rural|
+40648|Atotonilco|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2411|Rural|
+40648|Courindichapio|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2412|Rural|
+40649|Characo|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2416|Rural|
+40649|Cuataceo|Campamento|Cutzamala de Pinzón|Guerrero||40637|12|40637||04|027|2415|Rural|
+40650|La Florida|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2418|Rural|
+40650|Zacapuato|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2419|Rural|
+40650|El Tamarindo|Colonia|Cutzamala de Pinzón|Guerrero||40637|12|40637||09|027|4531|Urbano|
+40650|Tamarindos|Colonia|Cutzamala de Pinzón|Guerrero||40637|12|40637||09|027|4556|Urbano|
+40650|La Caguirica|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2417|Rural|
+40652|El Pochote|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2420|Rural|
+40653|Las Juntas|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2421|Rural|
+40653|Orilla de Balderrama|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2422|Rural|
+40653|El Coyol|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|0001|Rural|
+40655|Alborejo|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2423|Rural|
+40657|Oxtotitlán|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2425|Rural|
+40657|Cañas Viejas|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2424|Rural|
+40658|Los Desposados|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2426|Rural|
+40658|Zirapitiro|Pueblo|Cutzamala de Pinzón|Guerrero||40637|12|40637||28|027|2427|Rural|
+40659|La Mohonera|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2428|Rural|
+40659|Zacango|Ranchería|Cutzamala de Pinzón|Guerrero||40637|12|40637||29|027|2429|Rural|

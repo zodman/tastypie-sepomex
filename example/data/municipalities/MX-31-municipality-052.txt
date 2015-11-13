@@ -1,0 +1,44 @@
+97430|Sambula|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0657|Semiurbano|04
+97430|Motul de Carrillo Puerto Centro|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0572|Semiurbano|04
+97432|Felipe Carrillo Puerto|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0601|Semiurbano|04
+97432|Real del Mayab|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|1054|Semiurbano|04
+97432|Londres|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0944|Semiurbano|04
+97432|Las Huertas|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|0940|Semiurbano|04
+97432|Mario H Cuevas|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0630|Semiurbano|04
+97432|Puesta Del Sol|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|0941|Semiurbano|04
+97432|Infonavit|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0612|Semiurbano|04
+97432|Mayab|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|1038|Semiurbano|04
+97432|Perla de La Costa|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0939|Semiurbano|04
+97433|San Carlos|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0662|Semiurbano|04
+97433|Santa Cruz Pachón|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|1781|Urbano|04
+97433|San Juan|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0946|Semiurbano|04
+97433|Santiago Castillo|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0695|Semiurbano|04
+97434|Residencial|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|0942|Semiurbano|04
+97434|Rogelio Chale|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0656|Semiurbano|04
+97434|Edesio Carrillo|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0591|Semiurbano|04
+97434|La Herradura|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|0943|Semiurbano|04
+97434|El Roble|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|1774|Urbano|04
+97434|San Roque|Colonia|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||09|052|0945|Semiurbano|04
+97434|Vivah|Fraccionamiento|Motul|Yucatán|Motul de Carrillo Puerto|97431|31|97431||21|052|1775|Urbano|04
+97436|Sacapuc|Hacienda|Motul|Yucatán||97431|31|97431||24|052|0326|Rural|
+97436|Pacchen|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1277|Rural|
+97436|Timul|Hacienda|Motul|Yucatán||97431|31|97431||24|052|0327|Rural|
+97437|Kini|Pueblo|Motul|Yucatán||97431|31|97431||28|052|0324|Rural|
+97440|Komchén Martínez|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1279|Rural|
+97440|Uci|Pueblo|Motul|Yucatán||97431|31|97431||28|052|0328|Rural|
+97440|Santa Teresa|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1280|Rural|
+97440|Kancabchen|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1278|Rural|
+97443|Kancabal|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1282|Rural|
+97443|Tanya|Ranchería|Motul|Yucatán||97431|31|97431||29|052|0332|Rural|
+97443|Chacabol|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1281|Rural|
+97444|Kaxatah|Ranchería|Motul|Yucatán||97431|31|97431||29|052|0331|Rural|
+97444|Mesatunich|Ranchería|Motul|Yucatán||97431|31|97431||29|052|0333|Rural|
+97444|Kambul|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1284|Rural|
+97444|Kopte|Ranchería|Motul|Yucatán||97431|31|97431||29|052|0334|Rural|
+97444|Kancabchén Uci|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1286|Rural|
+97444|San Pedro Camara|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1287|Rural|
+97444|Dzununcan|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1285|Rural|
+97445|Dzunul|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1288|Rural|
+97445|Dzina|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1289|Rural|
+97446|Hili|Hacienda|Motul|Yucatán||97431|31|97431||24|052|0330|Rural|
+97446|Sakolá|Pueblo|Motul|Yucatán||97431|31|97431||28|052|1283|Rural|

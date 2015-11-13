@@ -1,0 +1,70 @@
+61880|Corongorera|Colonia|Churumuco|Michoacán de Ocampo||61853|16|61853||09|029|0003|Urbano|
+61880|Melchor Ocampo|Colonia|Churumuco|Michoacán de Ocampo||61853|16|61853||09|029|0005|Urbano|
+61880|Churumuco de Morelos|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|2797|Urbano|
+61880|Buenos Aires|Colonia|Churumuco|Michoacán de Ocampo||61853|16|61853||09|029|0001|Urbano|
+61880|Campamento|Colonia|Churumuco|Michoacán de Ocampo||61853|16|61853||09|029|0002|Urbano|
+61880|Lázaro Cárdenas|Colonia|Churumuco|Michoacán de Ocampo||61853|16|61853||09|029|0004|Urbano|
+61883|El Ahuijote|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0012|Rural|
+61883|La Lajita|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0025|Rural|
+61883|La Noria|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0026|Rural|
+61883|El Cueramato|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0016|Rural|
+61883|San Martín de la Luz|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2810|Rural|
+61883|Loma el Guayacán|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4007|Rural|
+61883|Los Cimientos|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0032|Rural|
+61883|Puerto de Ruedas (El Ancón)|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0035|Rural|
+61883|El Pitiral|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4009|Rural|
+61884|Palma de Huaro|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2800|Rural|
+61884|Buenavista|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0006|Rural|
+61884|Canipio|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0007|Rural|
+61884|Melchor Ocampo (Cunuato)|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4010|Rural|
+61884|La Cañada del Huaricho|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0022|Rural|
+61884|Valdovinos|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0042|Rural|
+61884|Los Hornitos|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4011|Rural|
+61885|Las Flores|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4008|Rural|
+61885|San Martín del Naranjo|Poblado comunal|Churumuco|Michoacán de Ocampo||61853|16|61853||27|029|6185|Rural|
+61885|Santa Elena|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2801|Rural|
+61885|Tapamichapio|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0041|Rural|
+61885|Las Pilas|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2803|Rural|
+61885|San Juan|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0038|Rural|
+61885|La Candelaria|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2799|Rural|
+61886|Cuitzán|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|2796|Rural|
+61886|Santa María|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0039|Rural|
+61886|El Cuirindal|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2802|Rural|
+61886|El Picacho|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4013|Rural|
+61887|El Cueramal|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0015|Rural|
+61887|Las Juntas|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0028|Rural|
+61887|Rincón del Otate|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0036|Rural|
+61887|Charapo|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0008|Rural|
+61887|El Potrero Grande|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0018|Rural|
+61887|Angamio|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4006|Rural|
+61887|Los Pinzanes|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0033|Rural|
+61890|Ojo de Agua de Poturo|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2805|Rural|
+61890|El Olvido|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2804|Rural|
+61890|Poturo|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|2806|Rural|
+61892|Corralito|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0010|Rural|
+61892|El Guayabo|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0017|Rural|
+61892|Cuiripan|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0011|Rural|
+61892|La Caña|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2807|Rural|
+61892|Los Charcos|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0031|Rural|
+61893|El Timbiriche|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2808|Rural|
+61893|Potrero de Campinchirán|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0034|Rural|
+61893|San Antonio|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4014|Rural|
+61894|El Salitrillo|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0019|Rural|
+61894|Corral de Tierra (La Lagunita)|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0009|Rural|
+61894|Ramírez del Varal (Puerto del Varal)|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2798|Rural|
+61894|El Platanar|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2809|Rural|
+61895|La Cuitacera|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0023|Rural|
+61895|Lavaderos del Salitre|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0030|Rural|
+61895|El Barillo|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0013|Rural|
+61895|La Tindimicua|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0027|Rural|
+61895|El Salitrillo|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0020|Rural|
+61895|San Antonio (El Timbiriche)|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0037|Rural|
+61895|El Salitre|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|4012|Rural|
+61896|Las Juntas de Poturo|Ejido|Churumuco|Michoacán de Ocampo||61853|16|61853||15|029|2811|Rural|
+61896|Paso de Palmillas|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|2812|Rural|
+61896|El Tarepe|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0021|Rural|
+61896|Santa Rosa|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0040|Rural|
+61899|El Chocolate|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0014|Rural|
+61899|Las Juntas|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0029|Rural|
+61899|Potrero de Corpus|Pueblo|Churumuco|Michoacán de Ocampo||61853|16|61853||28|029|2813|Rural|
+61899|La Laja|Ranchería|Churumuco|Michoacán de Ocampo||61853|16|61853||29|029|0024|Rural|

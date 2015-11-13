@@ -1,0 +1,29 @@
+78840|Biznaga|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0700|Rural|
+78840|Buenavista|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0701|Rural|
+78841|Puerto de Magdalena|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0702|Rural|
+78843|La Presa|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0703|Rural|
+78844|Los Chilares|Poblado comunal|Villa de Guadalupe|San Luis Potosí||78701|24|78701||27|047|2556|Rural|
+78844|La Presita|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0704|Rural|
+78845|Santa María del Rincón (El Guajolote)|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0001|Rural|
+78847|Magdalenas|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0705|Rural|
+78850|Villa de Guadalupe|Villa|Villa de Guadalupe|San Luis Potosí||78701|24|78701||32|047|0709|Rural|
+78850|Zaragoza de Solís|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0710|Rural|
+78850|Rancho Alegre|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0707|Rural|
+78850|Guadalupito|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0706|Rural|
+78850|Santa Isabel|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0708|Rural|
+78851|Morelos|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0711|Rural|
+78853|Llano de Jesús María|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0712|Rural|
+78855|El Leoncito|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0713|Rural|
+78855|San José del Muerto|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0714|Rural|
+78856|La Joya|Rancho|Villa de Guadalupe|San Luis Potosí||78701|24|78701||48|047|0003|Rural|
+78856|Santa Inés de la Obscura|Rancho|Villa de Guadalupe|San Luis Potosí||78701|24|78701||48|047|0002|Rural|
+78858|Jarillas|Hacienda|Villa de Guadalupe|San Luis Potosí||78701|24|78701||24|047|0715|Rural|
+78858|Santa Rosa|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0716|Rural|
+78859|San Antonio de La Ordeña|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0717|Rural|
+78860|Santa Rosa la Masita|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0718|Rural|
+78862|San Bartolo|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0719|Rural|
+78862|Vallejo|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0720|Rural|
+78863|Palo Blanco|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0721|Rural|
+78864|Santa Rita de Hernandez|Ranchería|Villa de Guadalupe|San Luis Potosí||78701|24|78701||29|047|0722|Rural|
+78866|San Francisco|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0723|Rural|
+78868|Santa Teresa|Ejido|Villa de Guadalupe|San Luis Potosí||78701|24|78701||15|047|0724|Rural|

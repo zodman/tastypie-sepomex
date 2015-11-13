@@ -1,0 +1,8 @@
+75120|INFONAVIT|Colonia|Nopalucan|Puebla||75001|21|75001||09|104|3715|Rural|
+75120|Nopalucan de la Granja|Pueblo|Nopalucan|Puebla||75001|21|75001||28|104|2113|Rural|
+75125|Juan de la Granja|Pueblo|Nopalucan|Puebla||75001|21|75001||28|104|2115|Rural|
+75126|Erendira|Pueblo|Nopalucan|Puebla||75001|21|75001||28|104|2116|Rural|
+75127|Rincón de Citlaltepetl|Pueblo|Nopalucan|Puebla||75001|21|75001||28|104|2117|Rural|
+75127|Santa María Ixtiyucan|Pueblo|Nopalucan|Puebla||75001|21|75001||28|104|2118|Rural|
+75128|Santa Cruz del Bosque|Pueblo|Nopalucan|Puebla||75001|21|75001||28|104|2119|Rural|
+75129|Manuel Ávila Camacho|Colonia|Nopalucan|Puebla||75001|21|75001||09|104|2120|Rural|

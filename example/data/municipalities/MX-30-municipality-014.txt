@@ -1,0 +1,39 @@
+94940|Paraje Nuevo Centro|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave|Paraje Nuevo|94963|30|94963||09|014|3122|Rural|37
+94940|San Isidro|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave|Paraje Nuevo|94963|30|94963||09|014|4803|Rural|37
+94940|California|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave|Paraje Nuevo|94963|30|94963||09|014|0661|Rural|37
+94940|Santa Cecilia|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave|Paraje Nuevo|94963|30|94963||09|014|4989|Rural|37
+94940|Guadalupe|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave|Paraje Nuevo|94963|30|94963||09|014|4802|Rural|37
+94940|24 de Febrero|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave|Paraje Nuevo|94963|30|94963||09|014|4988|Rural|37
+94943|Ojo de Agua Chico|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3121|Rural|
+94945|El Tejar|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7488|Urbano|
+94945|La Gloria|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7246|Rural|
+94946|San Rafael Rio Seco|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3123|Rural|
+94946|La Palma|Ranchería|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||29|014|3125|Rural|
+94946|Colonia las Gardenias|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7894|Rural|
+94950|Zacatipan|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|6870|Rural|
+94950|Amatlan de los Reyes|Villa|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||32|014|3129|Rural|
+94952|La Peñuela|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3126|Rural|
+94953|San Francisco|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7723|Urbano|
+94953|Manuel Leon|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3127|Rural|
+94953|La Desviación|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7724|Urbano|
+94953|Concordia|Fraccionamiento|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||21|014|7116|Urbano|
+94953|Ameyalco|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7725|Urbano|
+94953|La Ermita|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7132|Urbano|
+94953|El Crucero|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7722|Urbano|
+94954|Cacahuatal|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3134|Rural|
+94954|Dos Ríos|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|0001|Urbano|
+94954|San Martín|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7727|Urbano|
+94954|Aquiojapa|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7730|Urbano|
+94954|Potrerillo|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7728|Urbano|
+94954|Santa Isabel|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7729|Urbano|
+94954|Altepetzinatl|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7731|Urbano|
+94954|Puente de los Agüacates|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7476|Rural|
+94954|Venta Parada|Pueblo|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||28|014|3128|Rural|
+94954|Quimiapan|Colonia|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||09|014|7726|Urbano|
+94955|El Otate|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3133|Rural|
+94956|La Patrona|Ranchería|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||29|014|3135|Rural|
+94956|Los Angeles|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3136|Rural|
+94957|Guadalupe|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3137|Rural|
+94958|Cañada Blanca|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3130|Rural|
+94959|Trapiche Viejo|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3131|Rural|
+94959|Fraternidad|Congregación|Amatlán de los Reyes|Veracruz de Ignacio de la Llave||94501|30|94501||11|014|3132|Rural|

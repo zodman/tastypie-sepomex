@@ -1,0 +1,10 @@
+31650|Portales del Valle|Fraccionamiento|Aquiles Serdán|Chihuahua||31651|08|31651||21|004|0002|Urbano|
+31650|Laderas de San Guillermo Etapa II|Fraccionamiento|Aquiles Serdán|Chihuahua||31651|08|31651||21|004|0004|Urbano|
+31650|Centro|Colonia|Aquiles Serdán|Chihuahua||31651|08|31651||09|004|0274|Urbano|
+31650|El Ranchito|Barrio|Aquiles Serdán|Chihuahua||31651|08|31651||02|004|5761|Urbano|
+31650|Laderas de San Guillermo|Colonia|Aquiles Serdán|Chihuahua||31651|08|31651||09|004|3996|Urbano|
+31650|San Guillermo (Santa Elena)|Pueblo|Aquiles Serdán|Chihuahua||31651|08|31651||28|004|0275|Rural|
+31652|San Antonio el Grande|Pueblo|Aquiles Serdán|Chihuahua||31651|08|31651||28|004|0277|Rural|
+31653|Punta Oriente|Fraccionamiento|Aquiles Serdán|Chihuahua||31651|08|31651||21|004|0001|Urbano|
+31653|Vista San Guillermo|Fraccionamiento|Aquiles Serdán|Chihuahua||31651|08|31651||21|004|0003|Urbano|
+31657|Santo Domingo (Francisco Portillo)|Pueblo|Aquiles Serdán|Chihuahua||31651|08|31651||28|004|4160|Rural|

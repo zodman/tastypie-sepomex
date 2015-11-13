@@ -1,0 +1,130 @@
+24400|Champotón Centro|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0306|Urbano|08
+24400|Venustiano Carranza|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0530|Urbano|08
+24400|Cocal|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0980|Urbano|08
+24400|ISSSTE|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0988|Urbano|08
+24400|La Playa|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0989|Urbano|08
+24400|Pedregal|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1000|Urbano|08
+24400|Huanal|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1032|Urbano|08
+24400|La Cruz|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0511|Urbano|08
+24400|INFONAVIT Miraflores|Fraccionamiento|Champotón|Campeche|Champotón|24401|04|24401||21|004|0515|Semiurbano|08
+24400|Plan-chac|Unidad habitacional|Champotón|Campeche|Champotón|24401|04|24401||31|004|0519|Urbano|08
+24400|Carolinas|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0978|Urbano|08
+24400|Concepción Duran|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0981|Urbano|08
+24400|Flamboyan|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0984|Urbano|08
+24400|Laureles|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0994|Urbano|08
+24400|Malecón|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0996|Urbano|08
+24400|Manguitos|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0997|Urbano|08
+24400|Mirador II|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1184|Urbano|08
+24400|Cuauhtémoc|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0983|Urbano|08
+24400|Guadalupe|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0985|Urbano|08
+24400|INFONAVIT|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0987|Urbano|08
+24400|La Santa|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0990|Urbano|08
+24400|Lázaro Cárdenas|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0995|Urbano|08
+24400|Microondas|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1034|Urbano|08
+24400|Nueva Esperanza|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0517|Urbano|08
+24400|Tajonal|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0529|Urbano|08
+24400|Guadalupe Victoria|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0986|Urbano|08
+24400|Mirador I|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1183|Urbano|08
+24400|San Patricio|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0526|Urbano|08
+24400|Ulises Sansores|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1004|Urbano|08
+24400|Camaroncito|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1033|Urbano|08
+24400|Cristóbal Colon|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0508|Urbano|08
+24400|Las Brisas|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0513|Urbano|08
+24400|Moch-Cohuo|Unidad habitacional|Champotón|Campeche|Champotón|24401|04|24401||31|004|0516|Urbano|08
+24400|Arenal|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0972|Urbano|08
+24400|Arrocera|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0973|Urbano|08
+24400|Aserradero|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0974|Urbano|08
+24400|Cardenal|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0977|Urbano|08
+24400|Centenario|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0979|Urbano|08
+24400|Las Mercedes|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0992|Urbano|08
+24400|Las Palomas|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0993|Urbano|08
+24400|Paraíso|Ejido|Champotón|Campeche|Champotón|24401|04|24401||15|004|0999|Urbano|08
+24400|Puente Viejo|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|1002|Urbano|08
+24400|Pozo del Chenpek|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0509|Urbano|08
+24400|Nueva Esperanza INFONAVIT|Unidad habitacional|Champotón|Campeche|Champotón|24401|04|24401||31|004|0518|Urbano|08
+24400|Pozo del Monte|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0520|Urbano|08
+24400|Avenida|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0975|Urbano|08
+24400|Cañaveral|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0976|Urbano|08
+24400|Nueva Jerusalén|Colonia|Champotón|Campeche|Champotón|24401|04|24401||09|004|0998|Urbano|08
+24400|ISSFAM|Unidad habitacional|Champotón|Campeche|Champotón|24401|04|24401||31|004|1265|Urbano|08
+24402|Paraíso|Ejido|Champotón|Campeche||24401|04|24401||15|004|0310|Rural|
+24402|El Zapote|Ejido|Champotón|Campeche||24401|04|24401||15|004|0311|Rural|
+24402|Canasayab|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0958|Rural|
+24402|Ulumal|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0308|Rural|
+24402|Moquel|Ejido|Champotón|Campeche||24401|04|24401||15|004|0309|Rural|
+24403|La Noria|Pueblo|Champotón|Campeche||24401|04|24401||28|004|1256|Rural|
+24403|El Porvenir|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0312|Rural|
+24404|San José Carpizo Uno (San Fernando)|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0313|Rural|
+24404|San José Carpizo Dos|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0314|Rural|
+24404|San Miguel|Ejido|Champotón|Campeche||24401|04|24401||15|004|1097|Rural|
+24405|San Antonio del Río|Ejido|Champotón|Campeche||24401|04|24401||15|004|1096|Rural|
+24410|La Fraternidad|Ejido|Champotón|Campeche||24401|04|24401||15|004|1215|Rural|
+24410|San Marcos|Ejido|Champotón|Campeche||24401|04|24401||15|004|1217|Rural|
+24410|San Luis Carpizo|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0318|Rural|
+24410|Vicente Guerrero|Ejido|Champotón|Campeche||24401|04|24401||15|004|0320|Rural|
+24410|Cañaveral|Ejido|Champotón|Campeche||24401|04|24401||15|004|1178|Rural|
+24410|Villamar|Ejido|Champotón|Campeche||24401|04|24401||15|004|1181|Rural|
+24410|Caporal|Ejido|Champotón|Campeche||24401|04|24401||15|004|1219|Rural|
+24410|San Pablo|Ejido|Champotón|Campeche||24401|04|24401||15|004|0319|Rural|
+24410|Punta Xen|Ejido|Champotón|Campeche||24401|04|24401||15|004|1095|Rural|
+24410|Nueva Esperanza Uno (San Miguel Tobías)|Ejido|Champotón|Campeche||24401|04|24401||15|004|1175|Rural|
+24410|La Estrella|Ejido|Champotón|Campeche||24401|04|24401||15|004|1220|Rural|
+24410|Nueva Esperanza Número 2 (Santo Domingo)|Ejido|Champotón|Campeche||24401|04|24401||15|004|1177|Rural|
+24410|San Felipe|Ejido|Champotón|Campeche||24401|04|24401||15|004|1216|Rural|
+24410|Ley Federal de La Reforma Agraria|Ejido|Champotón|Campeche||24401|04|24401||15|004|0317|Rural|
+24411|López Mateos (La Desconfianza)|Ejido|Champotón|Campeche||24401|04|24401||15|004|0321|Rural|
+24411|Pustunich|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0322|Rural|
+24413|San Pablo Pixtún|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0324|Rural|
+24413|Valle Hermoso|Ejido|Champotón|Campeche||24401|04|24401||15|004|1221|Rural|
+24414|Revolución|Ejido|Champotón|Campeche||24401|04|24401||15|004|0336|Rural|
+24414|Aquiles Serdán (Chuiná)|Ejido|Champotón|Campeche||24401|04|24401||15|004|1084|Rural|
+24414|Lázaro Cárdenas|Ejido|Champotón|Campeche||24401|04|24401||15|004|1091|Rural|
+24414|El Pocito|Ejido|Champotón|Campeche||24401|04|24401||15|004|0326|Rural|
+24414|Dzacabuchén|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0325|Rural|
+24414|Monte Bravo|Ejido|Champotón|Campeche||24401|04|24401||15|004|1218|Rural|
+24414|José María Morelos y Pavón|Ejido|Champotón|Campeche||24401|04|24401||15|004|0327|Rural|
+24414|General José Ortiz Ávila|Ejido|Champotón|Campeche||24401|04|24401||15|004|1088|Rural|
+24414|Pixoyal|Ejido|Champotón|Campeche||24401|04|24401||15|004|0276|Rural|
+24415|San Antonio Yacasay|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0329|Rural|
+24415|Felipe Carrillo Puerto|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0328|Rural|
+24416|Xbacab|Ejido|Champotón|Campeche||24401|04|24401||15|004|0330|Rural|
+24418|Miguel Colorado|Ranchería|Champotón|Campeche||24351|04|24351||29|004|0277|Rural|
+24418|5 de Febrero|Ejido|Champotón|Campeche||24351|04|24351||15|004|0275|Rural|
+24418|Venustiano Carranza Km. 67|Ejido|Champotón|Campeche||24351|04|24351||15|004|0332|Rural|
+24419|Profesor Graciano Sánchez|Ejido|Champotón|Campeche||24351|04|24351||15|004|0334|Rural|
+24420|Arellano|Ejido|Champotón|Campeche||24401|04|24401||15|004|0337|Rural|
+24420|San Dimas (Villa de Guadalupe)|Ejido|Champotón|Campeche||24401|04|24401||15|004|0338|Rural|
+24421|Villa de Guadalupe|Ejido|Champotón|Campeche||24401|04|24401||15|004|0339|Rural|
+24423|San Juan Carpizo|Hacienda|Champotón|Campeche||24401|04|24401||24|004|0341|Rural|
+24424|López Portillo 2 (Nilun)|Ejido|Champotón|Campeche||24401|04|24401||15|004|1092|Rural|
+24424|Valle de Quetzalcóatl|Ejido|Champotón|Campeche||24401|04|24401||15|004|1098|Rural|
+24424|López Portillo|Ejido|Champotón|Campeche||24401|04|24401||15|004|1182|Rural|
+24425|Yohaltún|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0344|Rural|
+24425|Chac Chaito|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0343|Rural|
+24430|Santa Cruz de Rovira|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0345|Rural|
+24433|Nuevo Michoacán|Ejido|Champotón|Campeche||24401|04|24401||15|004|1179|Rural|
+24435|Nayarit Castellot (Xnoha)|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0347|Rural|
+24435|Buenaventura|Ejido|Champotón|Campeche||24401|04|24401||15|004|1085|Rural|
+24440|Santo Domingo Kesté|Ejido|Champotón|Campeche||24401|04|24401||15|004|1174|Rural|
+24440|Hool|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0349|Rural|
+24441|Carlos Salinas de Gortari|Ejido|Champotón|Campeche||24401|04|24401||15|004|0350|Rural|
+24443|Miguel Allende|Ejido|Champotón|Campeche||24401|04|24401||15|004|1093|Rural|
+24443|Chilam Balam|Ejido|Champotón|Campeche||24401|04|24401||15|004|1086|Rural|
+24443|Ah Kim Pech|Ejido|Champotón|Campeche||24401|04|24401||15|004|1083|Rural|
+24443|Moch Cohuó|Ejido|Champotón|Campeche||24401|04|24401||15|004|1094|Rural|
+24443|Kukulkán|Ejido|Champotón|Campeche||24401|04|24401||15|004|1090|Rural|
+24443|Nuevo Paraíso|Ejido|Champotón|Campeche||24401|04|24401||15|004|1222|Rural|
+24445|Dzitbalché Castellot|Ejido|Champotón|Campeche||24401|04|24401||15|004|1087|Rural|
+24445|Ignacio López Rayón|Ejido|Champotón|Campeche||24401|04|24401||15|004|1089|Rural|
+24445|La Providencia|Ejido|Champotón|Campeche||24401|04|24401||15|004|1180|Rural|
+24450|Sihochac|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0351|Rural|
+24451|La Joya|Ingenio|Champotón|Campeche||24401|04|24401||25|004|0352|Rural|
+24459|Ciudad del Sol|Pueblo|Champotón|Campeche||24401|04|24401||28|004|0354|Rural|
+24460|Seybaplaya|Villa|Champotón|Campeche||24001|04|24001||32|004|0356|Rural|
+24460|Costa Blanca|Ranchería|Champotón|Campeche||24001|04|24001||29|004|0355|Rural|
+24460|Sihoplaya|Ranchería|Champotón|Campeche||24001|04|24001||29|004|0357|Rural|
+24462|Haltunchén|Hacienda|Champotón|Campeche||24401|04|24401||24|004|0359|Rural|
+24462|Villa Madero|Ejido|Champotón|Campeche||24401|04|24401||15|004|0956|Rural|
+24464|X-keulil|Pueblo|Champotón|Campeche||24001|04|24001||28|004|0361|Rural|
+24482|Coronel Ortiz Ávila|Ejido|Champotón|Campeche||24351|04|24351||15|004|0372|Rural|
+24495|Maya Tecún I|Ranchería|Champotón|Campeche||24401|04|24401||29|004|0378|Rural|

@@ -1,0 +1,51 @@
+71050|Santa Maria Zacatepec Centro|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|2634|Urbano|
+71053|Caja de Agua|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|0894|Rural|
+71053|Santa Ana|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|1287|Urbano|
+71053|San José|Barrio|Santa María Zacatepec|Oaxaca||71051|20|71051||02|447|3647|Urbano|
+71053|Santa Cecilia|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|5148|Urbano|
+71054|La Asunción|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|5149|Urbano|
+71054|Capilla|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|1073|Urbano|
+71054|La Parota|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|3648|Rural|
+71055|Guadalupe|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|3649|Urbano|
+71055|La Muralla|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|1104|Urbano|
+71055|Atotonilco|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|5147|Urbano|
+71056|Llano de la Viuda|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5675|Rural|
+71056|Los Manguitos|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5677|Rural|
+71056|El Cuete|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5146|Rural|
+71056|La Virgen|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5670|Rural|
+71056|Las Juntas|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5671|Rural|
+71056|San Juan Viejo|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5680|Rural|
+71057|El Ciruelo|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5661|Rural|
+71057|San Felipe Atotonilco|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5679|Rural|
+71057|San Vicente Piñas|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2633|Rural|
+71057|Atotonilco|Colonia|Santa María Zacatepec|Oaxaca||71051|20|71051||09|447|0874|Rural|
+71057|Las Palmas|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5673|Rural|
+71057|La Tijerilla|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5669|Rural|
+71058|Loma del Carnero|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5676|Rural|
+71058|Aquiles Serdán|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|2638|Rural|
+71058|San Isidro Amatitlán|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2639|Rural|
+71058|El Cangrejo|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5660|Rural|
+71058|San Antonio Zaragoza|Congregación|Santa María Zacatepec|Oaxaca||71051|20|71051||11|447|2637|Rural|
+71058|La Culebra|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2640|Rural|
+71060|San Juan Cabeza del Río|Ranchería|Santa María Zacatepec|Oaxaca||71008|20|71008||29|447|2641|Rural|
+71060|El Ocote Prieto|Ranchería|Santa María Zacatepec|Oaxaca||71008|20|71008||29|447|5665|Rural|
+71063|Guadalupe|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2642|Rural|
+71063|El Rosario|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5666|Rural|
+71064|Rancho San Pedro|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|5678|Rural|
+71064|El Tapango|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2636|Rural|
+71064|Tierra Colorada|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5684|Rural|
+71064|El Coyulito|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|5662|Rural|
+71064|Tres Arroyos|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5685|Rural|
+71065|Guadalupe Nuevo Centro|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5668|Rural|
+71065|El Limón Santa Ana|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5663|Rural|
+71065|Santa Cruz Tutiahua|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|4402|Rural|
+71066|Santiago Llano Grande|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2632|Rural|
+71067|Cañada Hamaca|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5659|Rural|
+71067|Coyul Grande|Pueblo|Santa María Zacatepec|Oaxaca||71051|20|71051||28|447|2643|Rural|
+71067|El Naranjo|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5664|Rural|
+71067|San Marcos Nejapa|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5681|Rural|
+71067|Santa Cruz de Rufino Tamayo|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5683|Rural|
+71067|Las Mesas|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5672|Rural|
+71068|Llano Chapultepec|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5674|Rural|
+71068|Estanzuelilla|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5667|Rural|
+71068|San Miguel|Ranchería|Santa María Zacatepec|Oaxaca||71051|20|71051||29|447|5682|Rural|

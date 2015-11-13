@@ -1,0 +1,264 @@
+35000|Gómez Palacio Centro|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|0999|Urbano|02
+35003|Tiendas de Descuento S.A.|Gran usuario|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||22|007|1001|Urbano|02
+35010|Felipe Carrillo Puerto|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1003|Urbano|02
+35010|Rinconada Bugambilias|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4643|Urbano|02
+35010|Villa del Pedregal|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1005|Urbano|02
+35010|Bugambilias|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1002|Urbano|02
+35010|El Paraíso|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4659|Urbano|02
+35010|Filadelfia|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1004|Urbano|02
+35013|Loma Real|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|0011|Urbano|02
+35013|Las Agavias|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4655|Urbano|02
+35013|Cerradas Miravalle|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4641|Urbano|02
+35013|Floresta|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4656|Urbano|02
+35013|Valle Real|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4674|Urbano|02
+35013|El Manantial|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|6081|Urbano|02
+35014|Rincón del Pedregal|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1007|Urbano|02
+35014|Quintas Villa Nápoles|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1006|Urbano|02
+35014|Rincón del Pedregal 2|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1008|Urbano|02
+35015|Miravalle|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1010|Urbano|02
+35015|San Alberto|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1011|Urbano|02
+35015|Nuevo Castillo|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4639|Urbano|02
+35015|Salvador Nava Marínez|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4645|Urbano|02
+35015|San Antonio|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1012|Urbano|02
+35015|Las Flores|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4694|Urbano|02
+35015|Residencial Campanario|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|2394|Urbano|02
+35015|Miguel de La Madrid Hurtado|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1009|Urbano|02
+35015|San Ángel|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|6086|Urbano|02
+35015|Rincón San Antonio|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4657|Urbano|02
+35015|Villas San Antonio|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4658|Urbano|02
+35015|San Vicente|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|0006|Urbano|02
+35015|7 de Noviembre|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|0007|Urbano|02
+35016|María Inés Mata de Rendón|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4653|Urbano|02
+35016|El Centenario|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4651|Urbano|02
+35016|Octaviano Rendón|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4654|Urbano|02
+35016|Leticia Herrera|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4652|Urbano|02
+35017|Emiliano Zapata|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4630|Urbano|02
+35017|Solidaridad|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1014|Urbano|02
+35017|Mezquital|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1013|Urbano|02
+35018|Boringher|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1015|Urbano|02
+35018|Rinconada Nápoles|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|2033|Urbano|02
+35018|Rinconadas Hamburgo|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1016|Urbano|02
+35018|Las Granjas|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4633|Urbano|02
+35018|Villa Nápoles|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1017|Urbano|02
+35019|Núcleo Universitario|Equipamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||17|007|0013|Urbano|02
+35019|Abraham Rosales|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1018|Urbano|02
+35019|Hamburgo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1020|Urbano|02
+35019|División del Norte|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1019|Urbano|02
+35020|El Polvorón|Unidad habitacional|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||31|007|1023|Urbano|02
+35020|Morales|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4665|Urbano|02
+35020|Los Álamos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1022|Urbano|02
+35020|Rosales|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1025|Urbano|02
+35020|La Esperanza|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1024|Urbano|02
+35023|Noas|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4634|Urbano|02
+35023|Villas el Refugio|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4662|Urbano|02
+35024|Casa Blanca|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1028|Urbano|02
+35024|Nueva los Ángeles|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1030|Urbano|02
+35024|Los Álamos|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1029|Urbano|02
+35025|Geovillas San Ignacio|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4629|Urbano|02
+35025|Fidel Velásquez|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1033|Urbano|02
+35025|Nogales|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1035|Urbano|02
+35025|Nuevo Gómez|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1036|Urbano|02
+35025|Del Valle|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1032|Urbano|02
+35025|Chapala Oriente|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1031|Urbano|02
+35025|Luis Donaldo Colosio Murrieta|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1034|Urbano|02
+35026|Morelos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1038|Urbano|02
+35026|José López Portillo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1037|Urbano|02
+35027|Nuevo los Álamos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1044|Urbano|02
+35027|Mutualismo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1043|Urbano|02
+35027|Los Viñedos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1042|Urbano|02
+35027|Valle Azul|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1045|Urbano|02
+35027|Doroteo Arango|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1040|Urbano|02
+35027|La Herradura|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1041|Urbano|02
+35027|Carlos A Herrera|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1039|Urbano|02
+35027|Villa Alejandra|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4642|Urbano|02
+35028|Rincón Dorado|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1047|Urbano|02
+35028|El Dorado|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1046|Urbano|02
+35029|Santa Sofia|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|2924|Urbano|02
+35029|Nuevo Refugio|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1049|Urbano|02
+35029|Las Carmelitas|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4680|Urbano|02
+35029|Bosque Real|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|6085|Urbano|02
+35029|El Refugio|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1048|Urbano|02
+35030|Jacinto Canek|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1052|Urbano|02
+35030|Brittingham I|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1050|Urbano|02
+35030|Francisco González de La Vega|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1051|Urbano|02
+35038|Cuauhtémoc|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1053|Urbano|02
+35039|El Amigo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|2054|Urbano|02
+35039|Brittingham II|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1054|Urbano|02
+35040|Rebollo Acosta|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4632|Urbano|02
+35040|Rubén Jaramillo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1056|Urbano|02
+35040|5 de Mayo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1055|Urbano|02
+35040|Santa Rosa|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1057|Urbano|02
+35043|Hortensias|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1058|Urbano|02
+35043|Primavera|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1059|Urbano|02
+35044|Santa Rosalía|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1062|Urbano|02
+35044|San Isidro|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|0998|Urbano|02
+35044|Guadalupe Victoria|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1060|Urbano|02
+35045|Tierra Blanca|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1064|Urbano|02
+35045|Independencia|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1063|Urbano|02
+35046|Felipe Ángeles|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1065|Urbano|02
+35046|Roberto Fierro|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1067|Urbano|02
+35047|Tierra y Libertad|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1069|Urbano|02
+35047|Santa Rosa|Ampliación|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||38|007|1068|Urbano|02
+35048|Del Bosque|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1070|Urbano|02
+35049|Hijos de Campesinos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4631|Urbano|02
+35049|Otilio Montaño|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4638|Urbano|02
+35049|Santa Teresa|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4646|Urbano|02
+35049|Miguel Hidalgo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1076|Urbano|02
+35049|Pánfilo Natera|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1077|Urbano|02
+35049|14 de Noviembre|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|2037|Urbano|02
+35049|Quintas del Desierto|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4670|Urbano|02
+35049|José Rebollo Acosta|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1073|Urbano|02
+35049|Parque Hundido|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1995|Urbano|02
+35049|La Feria|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1075|Urbano|02
+35049|Parque Hundido|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4660|Urbano|02
+35049|Villa Puerta del Sol|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|0008|Urbano|02
+35049|Los Cedros|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|0012|Urbano|02
+35049|Quintas del Desierto II|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4635|Urbano|02
+35049|Nicolás Fernández|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4637|Urbano|02
+35049|Expo Gómez Palacio|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1072|Urbano|02
+35050|Francisco Villa|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1079|Urbano|02
+35050|Revolución|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1082|Urbano|02
+35050|María Luisa Prado de Mayagoitia|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1081|Urbano|02
+35050|Bellavista|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1078|Urbano|02
+35050|Francisco Zarco|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1080|Urbano|02
+35054|Villa del Mar|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1083|Urbano|02
+35055|15 de Diciembre|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1084|Urbano|02
+35056|Pensiones|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1085|Urbano|02
+35057|Las Fuentes|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1088|Urbano|02
+35057|Castellanos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4666|Urbano|02
+35057|FOVISSSTE|Unidad habitacional|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||31|007|1087|Urbano|02
+35058|Ampliación Bellavista|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1089|Urbano|02
+35059|Cerro de la Pila|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1091|Urbano|02
+35059|Rafael Castellanos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1092|Urbano|02
+35060|Deportiva|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1093|Urbano|02
+35060|Héctor Mayagoitia Domínguez|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1094|Urbano|02
+35060|Sacramento|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1096|Urbano|02
+35060|Popular|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1095|Urbano|02
+35064|Lázaro Cárdenas|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1097|Urbano|02
+35064|INFONAVIT Santa Rosa|Unidad habitacional|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||31|007|1098|Urbano|02
+35065|21 de Marzo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1099|Urbano|02
+35066|Armando del Castillo Franco|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1100|Urbano|02
+35067|Niños Héroes|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1103|Urbano|02
+35067|Jerusalem|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1102|Urbano|02
+35068|El Foce|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1104|Urbano|02
+35069|La Central|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1106|Urbano|02
+35069|Santa Rosa|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1108|Urbano|02
+35069|Ernesto Herrera Zavala|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1862|Urbano|02
+35069|Ejidal|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1105|Urbano|02
+35069|Ampliación Sacramento|Ampliación|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||38|007|1107|Urbano|02
+35069|Central|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4671|Urbano|02
+35070|Santiago Papasquiaro|Unidad habitacional|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||31|007|1109|Urbano|02
+35070|Valle del Nazas|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1110|Urbano|02
+35073|Cerro Lindo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4677|Urbano|02
+35074|Los Arrayanes|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4617|Urbano|02
+35074|Torremolinos|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|6091|Urbano|02
+35075|Valle del Guadiana|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4649|Urbano|02
+35076|Pequeña Propiedad la Encantada|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4675|Urbano|02
+35077|Parque Industrial Lagunero|Zona industrial|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||37|007|2034|Urbano|02
+35077|Francisco Pérez Ríos|Unidad habitacional|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||31|007|1114|Urbano|02
+35078|Veredas de Santa Rita|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|0010|Urbano|02
+35078|Zona Industrial y Secciones|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1115|Urbano|02
+35079|Parque Industrial II|Zona industrial|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||37|007|0005|Urbano|02
+35079|Jardín|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|2036|Urbano|02
+35079|Villas las Misiones|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4678|Urbano|02
+35079|INFONAVIT José Campillo Sainz|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1116|Urbano|02
+35079|Rinconada del Parque|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1117|Urbano|02
+35080|Valle Campestre|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1120|Urbano|02
+35080|El Campestre|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1118|Urbano|02
+35080|Francisco Villa Campestre|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|4667|Urbano|02
+35080|Rincón Campestre|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|1119|Urbano|02
+35080|Privada Campestre|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4640|Urbano|02
+35080|Villa Campestre|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|4650|Urbano|02
+35090|Flores Magón|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1123|Urbano|02
+35090|Las Rosas|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1122|Urbano|02
+35090|El Consuelo|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1121|Urbano|02
+35090|San Patricio|Fraccionamiento|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||21|007|0003|Urbano|02
+35099|Benito Juárez|Colonia|Gómez Palacio|Durango|Gómez Palacio|35001|10|35001||09|007|1124|Urbano|02
+35100|Dinamita|Pueblo|Gómez Palacio|Durango||35001|10|35001||28|007|1125|Rural|
+35100|Puente de La Torreña|Ranchería|Gómez Palacio|Durango||35001|10|35001||29|007|1127|Rural|
+35101|Nuevo Jericó|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1129|Rural|
+35101|6 de Octubre|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1130|Rural|
+35102|José María Morelos y Pavón|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1131|Rural|
+35103|Santa Clara|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1134|Rural|
+35103|Berlín|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1132|Rural|
+35103|Providencia|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1133|Rural|
+35104|Lázaro Cárdenas|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1136|Rural|
+35104|La Paz|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1135|Rural|
+35105|Brittingham|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1137|Rural|
+35105|Poanas|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1138|Rural|
+35106|Pueblo Nuevo (el Siete)|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1140|Rural|
+35107|Numancia|Colonia|Gómez Palacio|Durango||35001|10|35001||09|007|1141|Rural|
+35110|Villa Gregorio García|Pueblo|Gómez Palacio|Durango||35001|10|35001||28|007|1143|Rural|
+35110|California|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1142|Rural|
+35111|San Alberto|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1149|Rural|
+35111|Venecia|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1150|Rural|
+35111|Huitrón|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1147|Rural|
+35111|Glorieta|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1146|Rural|
+35111|Eureka de Media Luna (eureka)|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1145|Rural|
+35111|Jimenez (jimenez Uno)|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1148|Rural|
+35112|El Barro|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1153|Rural|
+35112|Independencia|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1155|Rural|
+35112|Arturo Martínez Adame|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1151|Rural|
+35112|El Valle de Eureka|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1154|Rural|
+35113|Los Ángeles|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1158|Rural|
+35113|Jerusalén|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1157|Rural|
+35113|El Recuerdo|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1156|Rural|
+35114|El Retoño|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1160|Rural|
+35114|Chihuahuita (chihuahuita Nuevo)|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1159|Rural|
+35114|Rinconada|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1161|Rural|
+35114|Rinconada|Ranchería|Gómez Palacio|Durango||35001|10|35001||29|007|1162|Rural|
+35115|La Vega|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1164|Rural|
+35115|El Paraíso|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1163|Rural|
+35115|Las Masitas|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1165|Rural|
+35117|El Rincón de Santa Cruz|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1166|Rural|
+35117|Santa Cruz|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1167|Rural|
+35118|Reforma|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1170|Rural|
+35118|El Quemado|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1169|Rural|
+35118|San Felipe|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1171|Rural|
+35118|El Compás|Estación|Gómez Palacio|Durango||35001|10|35001||16|007|1168|Rural|
+35119|Santa Cruz Luján|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1173|Rural|
+35119|La Flor|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1172|Rural|
+35120|La Luz|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1178|Rural|
+35120|La Esmeralda|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1177|Rural|
+35120|Agrícola La Popular|Colonia|Gómez Palacio|Durango||35001|10|35001||09|007|1175|Rural|
+35120|El Vergel|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1176|Rural|
+35121|Arcinas|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1179|Rural|
+35123|Palo Blanco|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1181|Rural|
+35127|El Consuelo|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1182|Rural|
+35128|El Vergelito|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1183|Rural|
+35129|La Tehua|Pueblo|Gómez Palacio|Durango||35001|10|35001||28|007|1184|Rural|
+35130|La Popular|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1185|Rural|
+35132|La Aurora|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1187|Rural|
+35132|Las Playas|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1188|Rural|
+35133|Pastor Rouaix|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1189|Rural|
+35134|Manila|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1192|Rural|
+35134|El Junco|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1190|Rural|
+35134|La Plata|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1191|Rural|
+35135|Competencia|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1193|Rural|
+35135|El Triunfo|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1194|Rural|
+35135|Jolo (19 de Octubre)|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1195|Rural|
+35136|Bucareli|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1196|Rural|
+35136|Noe|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1197|Rural|
+35137|Buendía|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1198|Rural|
+35137|María Antonieta|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1199|Rural|
+35139|El Fénix|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1200|Rural|
+35139|Filadelfia|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1201|Rural|
+35140|San José del Viñedo|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1207|Rural|
+35140|Aquiles Serdán|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|0001|Rural|
+35140|Jabonoso|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1204|Rural|
+35140|Las Huertas|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1205|Rural|
+35140|Transporte|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1209|Rural|
+35140|San Sebastián|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1208|Rural|
+35140|El Cariño|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1203|Rural|
+35140|Urbi Villa del Cedro|Fraccionamiento|Gómez Palacio|Durango||35001|10|35001||21|007|0009|Rural|
+35140|Cuba|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1202|Rural|
+35140|San Ignacio|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1206|Rural|
+35141|El Castillo|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1210|Rural|
+35141|Viñedo|Estación|Gómez Palacio|Durango||35001|10|35001||16|007|1211|Rural|
+35143|Bella Unión|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1212|Rural|
+35144|San Ramón|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1213|Rural|
+35146|El Refugio|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1214|Rural|
+35146|Nuevo Gómez|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1215|Rural|
+35146|El Refugio|Fraccionamiento|Gómez Palacio|Durango||35001|10|35001||21|007|2092|Urbano|
+35146|Colonia Establera San Francisco|Colonia|Gómez Palacio|Durango||35001|10|35001||09|007|6083|Rural|
+35147|Dolores|Ejido|Gómez Palacio|Durango||35001|10|35001||15|007|1216|Rural|

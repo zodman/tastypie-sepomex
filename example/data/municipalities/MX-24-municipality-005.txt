@@ -1,0 +1,89 @@
+79380|Cárdenas Centro|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|1252|Urbano|09
+79382|El Mirador II|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0005|Urbano|09
+79382|Bellavista 2a Sección|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0002|Urbano|09
+79382|Brownsville|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0003|Urbano|09
+79382|El Señor del Amparo|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1759|Urbano|09
+79382|Del Carmen|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1757|Urbano|09
+79382|El Calichal Grande|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1758|Urbano|09
+79382|Ferrocarrilera|Conjunto habitacional|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||12|005|2946|Urbano|09
+79383|De La Palma|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1756|Urbano|09
+79384|INFONAVIT|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0006|Urbano|09
+79384|Nuevo Venecia|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0008|Urbano|09
+79384|Sector Corito|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|1755|Urbano|09
+79384|Arboledas|Fraccionamiento|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||21|005|0001|Urbano|09
+79384|Guadalupe|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1754|Urbano|09
+79385|Magisterial|Fraccionamiento|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||21|005|1893|Urbano|09
+79385|San Isidro Chaparral|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1762|Urbano|09
+79385|La Atajea|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0007|Urbano|09
+79385|Astral|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|1892|Urbano|09
+79386|del Rasconcito|Barrio|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||02|005|1761|Urbano|09
+79387|Morelos|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|1760|Urbano|09
+79387|El Mirador|Colonia|Cárdenas|San Luis Potosí|Cárdenas|79381|24|79381||09|005|0004|Urbano|09
+79390|Colonia Agrícola el Naranjo|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0017|Rural|
+79390|El Ranchito|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0025|Rural|
+79390|Lagunitas|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0044|Rural|
+79390|Naranjo|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|1256|Rural|
+79390|Miramar|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0052|Rural|
+79390|Las Canoas|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0045|Rural|
+79390|Las Lomas|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0046|Rural|
+79393|El Trompillal|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0028|Rural|
+79393|El Palo Alto|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0024|Rural|
+79393|La Pista|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0041|Rural|
+79393|El Derramadero|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0020|Rural|
+79393|El Tulillo|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0029|Rural|
+79393|Isabel Gómez|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0035|Rural|
+79393|Rancho Moy Báez|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0068|Rural|
+79393|Potrero de las Parejas (Ignacio Martínez)|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0059|Rural|
+79393|La Borreguita|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0037|Rural|
+79393|Flavio Contreras|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0033|Rural|
+79393|El Aguaje|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|1251|Rural|
+79393|Arroyo del Tabaco|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0012|Rural|
+79393|Cárdenas (Olegario Castro)|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0015|Rural|
+79393|Potrero de las Ánimas|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0058|Rural|
+79393|Rancho Avestruces|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0062|Rural|
+79394|Las Moras|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0047|Rural|
+79394|Ninguno [Estación de Microondas]|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0054|Rural|
+79394|Lobos|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0049|Rural|
+79394|Pascual Rodríguez|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0056|Rural|
+79394|Cañada de Pastores|Poblado comunal|Cárdenas|San Luis Potosí||79381|24|79381||27|005|1258|Rural|
+79394|Potrero el Savial|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0060|Rural|
+79394|Higinio Olivo (La Labor)|Ejido|Cárdenas|San Luis Potosí||79381|24|79381||15|005|1254|Rural|
+79395|Los Desmontes|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0050|Rural|
+79395|Pozo Número Diez|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0061|Rural|
+79395|Unidad de Riego Cárdenas (Jesús de León)|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0070|Rural|
+79395|Pozo Número Tres|Ejido|Cárdenas|San Luis Potosí||79381|24|79381||15|005|2422|Rural|
+79395|Agua Zarca|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0010|Rural|
+79395|Las Peñitas|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0048|Rural|
+79395|Pantano|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0055|Rural|
+79395|Rancho Bellavista|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0063|Rural|
+79395|La Puerta [Potrero los Desmontes]|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0042|Rural|
+79395|Rancho los Rivera|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0067|Rural|
+79395|Abel Calderón|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0009|Rural|
+79395|La Piedad|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0040|Rural|
+79395|Rancho Espiricueta|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0064|Rural|
+79396|El Vaquero|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0030|Rural|
+79396|La Capilla|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0038|Rural|
+79396|Epifanio Guzmán|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0031|Rural|
+79396|Cirilo Mendoza Díaz|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0016|Rural|
+79396|El Salitrillo|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0027|Rural|
+79396|Narciso Linares|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0053|Rural|
+79396|Tanque de la Guerra|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0069|Rural|
+79396|El Mirador|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0022|Rural|
+79396|La Puerta de la Esperanza|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0043|Rural|
+79396|Rancho la Brecha|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0065|Rural|
+79396|El Remigio|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0026|Rural|
+79396|El Duraznillo|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0021|Rural|
+79396|Los Tachos|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0051|Rural|
+79396|El Alazán|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0018|Rural|
+79396|El Charco|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0019|Rural|
+79396|La Cinta|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0039|Rural|
+79396|Rancho Leal|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0066|Rural|
+79397|Bugambilia|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0014|Rural|
+79397|La Atarjea (Pozo Número Dos)|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0036|Rural|
+79397|Potrero de la Tinajilla|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0057|Rural|
+79397|Anexo la Atarjea|Colonia|Cárdenas|San Luis Potosí||79381|24|79381||09|005|0011|Rural|
+79397|Granja María Dolores|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0034|Rural|
+79397|La Noria|Ejido|Cárdenas|San Luis Potosí||79381|24|79381||15|005|1255|Rural|
+79397|Bernardo Vargas Gámez|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0013|Rural|
+79397|Familia Lozano|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0032|Rural|
+79397|El Mirador (Pozo Número Uno)|Ranchería|Cárdenas|San Luis Potosí||79381|24|79381||29|005|0023|Rural|

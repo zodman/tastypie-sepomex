@@ -1,0 +1,11 @@
+70480|San Pedro|Barrio|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||02|333|3559|Semiurbano|37
+70480|Luis Donaldo Colosio|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|3662|Semiurbano|37
+70480|Yeguri|Barrio|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||02|333|3424|Semiurbano|37
+70480|Los Pinos|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|3425|Semiurbano|37
+70480|El Trapichito|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|3426|Urbano|37
+70480|San Pedro Totolapan Centro|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|2254|Semiurbano|37
+70480|Vista Hermosa|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|3421|Semiurbano|37
+70480|Plan de Roman|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|3422|Semiurbano|37
+70480|El Estudiante|Colonia|San Pedro Totolápam|Oaxaca|San Pedro Totolapa|70401|20|70401||09|333|3423|Semiurbano|37
+70482|San Juan Guegoyachi|Pueblo|San Pedro Totolápam|Oaxaca||70401|20|70401||28|333|2257|Rural|
+70484|San José de Gracia|Congregación|San Pedro Totolápam|Oaxaca||70401|20|70401||11|333|4399|Rural|

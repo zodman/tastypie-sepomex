@@ -1,0 +1,108 @@
+58880|Club Erandeni|Equipamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||17|088|0002|Urbano|
+58880|Ex-Hacienda de Guadalupe|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0846|Rural|
+58880|Puerta del Sol|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|3610|Urbano|
+58880|Diana Laura Viuda de Colosio|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3807|Urbano|
+58880|Galaxia Tarimbaro II|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3813|Urbano|
+58880|Galaxia Tarímbaro I|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4684|Urbano|
+58880|Campestre|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|5557|Urbano|
+58880|Villa Zipecua|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|3609|Urbano|
+58880|Jardín Morelia|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3814|Urbano|
+58880|Paseo del Erandeni|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|3818|Urbano|
+58880|Metrópolis III|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|5568|Urbano|
+58880|El Colegio|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0845|Rural|
+58880|Mesón Nuevo|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0847|Rural|
+58880|Santa María|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0848|Rural|
+58880|Privadas del Sol II|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3822|Urbano|
+58880|Erandeni IV|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|4682|Urbano|
+58880|Loma Bonita|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|4687|Urbano|
+58880|El Carrizal|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|4694|Rural|
+58880|La Cantera|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|4699|Rural|
+58880|San Marcos|Barrio|Tarímbaro|Michoacán de Ocampo||58111|16|58111||02|088|0010|Urbano|
+58880|Queretanillo|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3823|Urbano|
+58880|Hacienda del Sol|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4686|Urbano|
+58880|Cueva del Coyote|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0003|Urbano|
+58880|Real Erandeni|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3623|Urbano|
+58880|Erandeni III|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|4681|Urbano|
+58880|Independencia|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|4696|Rural|
+58880|Villa Natura|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|0021|Urbano|
+58880|Tarímbaro|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0849|Urbano|
+58880|Erandeni I|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|3590|Urbano|
+58880|Loma Colorada|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|3625|Urbano|
+58880|Real Hacienda|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3824|Urbano|
+58880|Valinda|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3826|Urbano|
+58880|Galaxia Tarímbaro III|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4685|Urbano|
+58880|Metrópolis|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4688|Urbano|
+58880|San Bernabé de las Canteras|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4691|Rural|
+58880|De La Cruz|Barrio|Tarímbaro|Michoacán de Ocampo||58111|16|58111||02|088|0004|Urbano|
+58880|Cañada del Herrero|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0844|Rural|
+58880|La Doctrina|Barrio|Tarímbaro|Michoacán de Ocampo||58111|16|58111||02|088|0006|Urbano|
+58880|Las Palomas|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3815|Rural|
+58880|Loma Dorada Erandeni|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3816|Urbano|
+58880|Real Valladolid|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3817|Rural|
+58880|Privadas del Sol|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3821|Urbano|
+58880|Erandeni II|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|3825|Urbano|
+58881|Cuto del Porvenir|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0850|Urbano|
+58883|Peña del Panal|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0851|Rural|
+58883|Rancho Nuevo|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0852|Rural|
+58885|Cañada de la Magdalena|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0853|Rural|
+58885|El Curiro|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0013|Rural|
+58885|El Puesto|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0015|Rural|
+58886|Las Coronillas|Rancho|Tarímbaro|Michoacán de Ocampo||58111|16|58111||48|088|0012|Rural|
+58886|La Colmena (El Garbanzo)|Rancho|Tarímbaro|Michoacán de Ocampo||58111|16|58111||48|088|0018|Rural|
+58886|Cañada de los Sauces|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0854|Rural|
+58887|Jamaica|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0014|Rural|
+58887|Arindeo|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0855|Rural|
+58887|La Concepción (La Conchita)|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0011|Rural|
+58887|Felipe Ángeles|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0016|Rural|
+58887|Ampliación Jamaica|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0019|Rural|
+58887|Santa Cruz|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0856|Rural|
+58887|El Zapote|Rancho|Tarímbaro|Michoacán de Ocampo||58111|16|58111||48|088|0020|Rural|
+58890|La Noria|Hacienda|Tarímbaro|Michoacán de Ocampo||58111|16|58111||24|088|0859|Rural|
+58890|Cuparátaro|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0858|Rural|
+58890|Téjaro de los Izquierdo|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0860|Urbano|
+58890|El Calabozo|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|3808|Urbano|
+58890|Plan de Ayala|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0008|Urbano|
+58890|Cotzio|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0857|Rural|
+58890|El Capulín|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|3809|Urbano|
+58890|El Cerrito de Cotzio|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|3810|Urbano|
+58891|El Pedregal|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0005|Urbano|
+58891|Vista Bella|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3827|Rural|
+58891|Los Olivos|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0007|Urbano|
+58891|Uruétaro|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0865|Urbano|
+58891|Ex Hacienda de Uruétaro|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3812|Rural|
+58891|San Carlos|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0009|Urbano|
+58891|El Cuitzillo Grande|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|0861|Rural|
+58891|Miguel Hidalgo|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0862|Rural|
+58891|San José de la Trinidad|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0863|Rural|
+58891|Bugambilias|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3805|Rural|
+58891|Hacienda el Encanto|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|5531|Rural|
+58891|San Pedro de los Sauces|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0864|Rural|
+58893|El Trébol|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3739|Rural|
+58893|Paseos del Valle|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3820|Rural|
+58893|Cumbres de Tarímbaro|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4698|Urbano|
+58893|Mirador de las Palmas|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3742|Rural|
+58893|Terranova|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3746|Rural|
+58893|El Cuitzillo Chico|Pueblo|Tarímbaro|Michoacán de Ocampo||58111|16|58111||28|088|4679|Rural|
+58893|Recursos Hidráulicos|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4689|Rural|
+58893|Verónica López|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|0022|Rural|
+58893|Francisco Villa|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|4683|Rural|
+58893|Valle Real|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|3747|Rural|
+58893|Privadas el Trébol|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|0023|Rural|
+58893|Laureles Eréndira|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3741|Rural|
+58893|Paseo Santa Fe|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3744|Rural|
+58893|Campestre Tarímbaro|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3806|Rural|
+58893|La Palma (Las Palmas)|Poblado comunal|Tarímbaro|Michoacán de Ocampo||58111|16|58111||27|088|3740|Rural|
+58893|Mirador de las Monarcas|Conjunto habitacional|Tarímbaro|Michoacán de Ocampo||58111|16|58111||12|088|3743|Rural|
+58893|El Sendero|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4680|Rural|
+58893|Rinconada los Sauces|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4690|Rural|
+58893|San José de la Palma|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|3745|Rural|
+58893|Cuesta Prieta|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|4678|Rural|
+58893|Valle Real II|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4693|Rural|
+58893|Cumbres del Campestre|Colonia|Tarímbaro|Michoacán de Ocampo||58111|16|58111||09|088|5560|Rural|
+58893|Terranova II|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4692|Rural|
+58893|Los Ruiseñores|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|5335|Rural|
+58895|La Magdalena (Ex-Hacienda de la Magdalena)|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|4695|Rural|
+58895|El Jagüey|Rancho|Tarímbaro|Michoacán de Ocampo||58111|16|58111||48|088|0017|Rural|
+58895|El Lometón|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0866|Rural|
+58895|Santa Ana del Arco|Ranchería|Tarímbaro|Michoacán de Ocampo||58111|16|58111||29|088|0867|Rural|
+58895|Paraíso Escondido Etapa I, II y III|Fraccionamiento|Tarímbaro|Michoacán de Ocampo||58111|16|58111||21|088|4697|Rural|

@@ -1,0 +1,239 @@
+88000|Nuevo Laredo Centro|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0816|Urbano|06
+88009|Nuevo Laredo (Quetzalcóatl)|Aeropuerto|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||01|027|0819|Rural|06
+88020|Independencia|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0820|Urbano|06
+88030|Victoria|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0821|Urbano|06
+88040|Ferrocarril|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0822|Urbano|06
+88040|Ojo Caliente|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0823|Urbano|06
+88060|Zaragoza|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0826|Urbano|06
+88070|Viveros|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0827|Urbano|06
+88100|Altavista|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0828|Urbano|06
+88100|CNOP|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0829|Urbano|06
+88105|FOVISSSTE Las Alazanas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0011|Urbano|06
+88105|Solidaridad|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0831|Urbano|06
+88110|Del Maestro|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0833|Urbano|06
+88120|Maclovio Herrera|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0835|Urbano|06
+88120|Buenavista|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0834|Urbano|06
+88123|El Progreso|Ejido|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||15|027|2749|Urbano|06
+88123|Las Cumbres|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0012|Urbano|06
+88123|Villas de San Francisco|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3448|Urbano|06
+88123|Pavorreales|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2752|Urbano|06
+88123|Endulzadora PEMEX|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2753|Urbano|06
+88123|Guerreros del Sol|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2750|Urbano|06
+88123|Los Arcos|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2751|Urbano|06
+88123|Villas del Progreso|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3449|Urbano|06
+88124|Alianza para la Producción|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0836|Urbano|06
+88124|Lic. Daniel Hernández Isais|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0013|Urbano|06
+88125|Sistema Merlín|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0840|Urbano|06
+88125|La Joya|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0839|Urbano|06
+88126|Santiago M. Beldén|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2755|Urbano|06
+88126|Vicente Mendoza|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0025|Urbano|06
+88126|Central de Carga|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2754|Urbano|06
+88127|Colorines|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|3911|Urbano|06
+88130|Buenos Aires|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0841|Urbano|06
+88134|Lic. Luis Donaldo Colosio|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0843|Urbano|06
+88134|20 de Noviembre|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0844|Urbano|06
+88135|Américo Villarreal Guerra|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0845|Urbano|06
+88135|Villas de la Fe|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2742|Urbano|06
+88135|Unidad Nacional|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0846|Urbano|06
+88136|Nueva Era|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0847|Urbano|06
+88140|Peña Benavides|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0850|Urbano|06
+88140|Jardín Juvencia|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0849|Urbano|06
+88140|Cuartel Militar Macario Zamora|Zona militar|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||47|027|0848|Urbano|06
+88144|San Andrés|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3467|Urbano|06
+88144|Los Garza|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0855|Urbano|06
+88144|Emiliano Zapata|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0853|Urbano|06
+88144|Las Alazanas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0854|Urbano|06
+88145|Tamaulipas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0859|Urbano|06
+88145|Nueva España|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0018|Urbano|06
+88145|Los Virreyes|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0858|Urbano|06
+88145|Lomas del Rey|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0857|Urbano|06
+88146|Claudette|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0860|Urbano|06
+88146|El Caracol|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2726|Urbano|06
+88147|Las Lomas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0861|Urbano|06
+88147|Ayuntamiento 77|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2756|Urbano|06
+88150|Roma|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0863|Urbano|06
+88150|El Remolino|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0862|Urbano|06
+88150|Tinajitas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3597|Urbano|06
+88160|Hidalgo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0864|Urbano|06
+88170|Parque Industrial Longoria|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|3840|Urbano|06
+88170|Los Cántaros|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3878|Urbano|06
+88170|Hipódromo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0865|Urbano|06
+88175|América 12|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0868|Urbano|06
+88176|Tercer Milenio|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2760|Urbano|06
+88176|Ampliación Tercer Milenio|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3445|Urbano|06
+88176|El Francés y Buenos Aires|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2759|Urbano|06
+88176|María Luisa|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2762|Urbano|06
+88176|El Bayito|Ejido|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||15|027|0869|Urbano|06
+88176|Recinto Fiscal|Equipamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||17|027|2761|Urbano|06
+88176|Unión Del Recuerdo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0870|Urbano|06
+88177|Nueva Victoria|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0019|Urbano|06
+88177|Constitucional|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2764|Urbano|06
+88177|Los Olivos|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0017|Urbano|06
+88177|Toboganes|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2766|Urbano|06
+88177|Othón Chávez|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2771|Urbano|06
+88177|Los Sánchez|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3447|Urbano|06
+88177|Naciones Unidas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|3628|Urbano|06
+88177|Daniel Covarrubias|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2768|Urbano|06
+88177|Praderas del Mezquital|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0021|Urbano|06
+88177|Voluntad y Trabajo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2770|Urbano|06
+88177|Arturo Cortés Villada|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0871|Urbano|06
+88177|Reservas Territoriales|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2763|Urbano|06
+88179|Los Artistas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|3728|Urbano|06
+88179|Bertha de Avellano|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0874|Urbano|06
+88179|La Sandía|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0875|Urbano|06
+88179|Reforma Urbana|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0876|Urbano|06
+88179|Bellavista|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0873|Urbano|06
+88179|Anexo Reforma Urbana|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2772|Urbano|06
+88179|Lomas del Río|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2727|Urbano|06
+88179|Las Arboledas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3777|Urbano|06
+88180|Rosita|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0877|Urbano|06
+88184|Las Torres|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0878|Urbano|06
+88185|Parque Industrial 2 Laredos|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|0879|Urbano|06
+88186|Parque Industrial Río Grande|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|0880|Urbano|06
+88187|La Fe|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0881|Urbano|06
+88190|Mirador|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0882|Urbano|06
+88194|Anáhuac Sur|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2733|Urbano|06
+88194|Unión|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0883|Urbano|06
+88195|Zona de Tolerancia|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0886|Urbano|06
+88195|La Esperanza|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0884|Urbano|06
+88195|Loma Bonita|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0885|Urbano|06
+88200|San Rafael|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0887|Urbano|06
+88209|Juárez|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0888|Urbano|06
+88210|Matamoros|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0889|Urbano|06
+88210|Hacienda J. Longoria|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3466|Urbano|06
+88210|Lomas del Poniente|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3351|Urbano|06
+88220|Palacios|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0890|Urbano|06
+88230|Junta Federal de Mejoras Materiales|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0891|Urbano|06
+88230|San José|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0892|Urbano|06
+88230|Sistema de Agua y Saneamiento|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0893|Urbano|06
+88240|Postal|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0896|Urbano|06
+88240|Mier y Terán|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0895|Urbano|06
+88240|Guerrero|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0894|Urbano|06
+88240|Riberas del Bravo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0897|Urbano|06
+88250|Jesús Garcia|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0899|Urbano|06
+88250|Morelos|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0900|Urbano|06
+88250|Villas del Sol|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2773|Urbano|06
+88260|Jardín|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0903|Urbano|06
+88260|Anáhuac|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0901|Urbano|06
+88260|González|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0902|Urbano|06
+88270|Madero|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0907|Urbano|06
+88270|Las Flores|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0905|Urbano|06
+88270|Los Álamos|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0906|Urbano|06
+88270|SUTERM II|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0904|Urbano|06
+88274|FOVISSSTE Benito Juárez|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0908|Urbano|06
+88274|Parque Industrial Río Bravo|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|0910|Urbano|06
+88274|INFONAVIT Benito Juárez|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0004|Urbano|06
+88274|Balcones del Boulevard|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0909|Urbano|06
+88274|Vista Hermosa|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3461|Urbano|06
+88274|Santa Anita|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3460|Urbano|06
+88274|Casa Linda|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0006|Urbano|06
+88274|Río Bravo|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0022|Urbano|06
+88275|Las Alamedas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2729|Urbano|06
+88275|Centro Comercial Reforma|Zona comercial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||33|027|3463|Urbano|06
+88275|Privanzas Sector Alameda|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3718|Urbano|06
+88275|Parque Industrial FINSA|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|0912|Urbano|06
+88275|INFONAVIT Fundadores|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0911|Urbano|06
+88276|Eden Country Villas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0007|Urbano|06
+88276|El Cortijo|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0913|Urbano|06
+88276|El Edén|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2737|Urbano|06
+88276|Valle Real|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3627|Urbano|06
+88276|Gran Boulevard|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3459|Urbano|06
+88276|Bonanza|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3462|Urbano|06
+88277|Colinas del Sur Oriente|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0914|Urbano|06
+88277|Jardines de la Hacienda|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0010|Urbano|06
+88277|San Patricio|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0023|Urbano|06
+88277|Parque Módulo Industrial Américas|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|0915|Urbano|06
+88277|Concordia|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2740|Urbano|06
+88277|Residencial Longoria|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3458|Urbano|06
+88277|Las Viñas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3768|Urbano|06
+88278|Campestre|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0916|Urbano|06
+88278|Club Campestre Ribera del Bravo|Equipamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||17|027|3464|Urbano|06
+88280|Central 2000|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2732|Urbano|06
+88280|Club de Leones|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0918|Urbano|06
+88280|Burócratas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0917|Urbano|06
+88280|Ferrocarrilera|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2731|Urbano|06
+88280|El Río|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3465|Urbano|06
+88280|México|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0919|Urbano|06
+88283|Vamos Tamaulipas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|3451|Urbano|06
+88283|Villas de San Miguel|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3255|Urbano|06
+88283|Francisco Villa 2|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0008|Urbano|06
+88283|150 Aniversario|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2775|Urbano|06
+88283|1° de Mayo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2774|Urbano|06
+88284|Manuel Cavazos Lerma|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0921|Urbano|06
+88284|Francisco Villa|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0920|Rural|06
+88284|Nuevo Milenio|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2776|Urbano|06
+88285|Lomas del Rosario|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0014|Urbano|06
+88285|Insurgentes|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0009|Urbano|06
+88285|Parque Industrial Oradel|Zona industrial|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||37|027|0020|Urbano|06
+88285|Del Valle|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|3450|Urbano|06
+88285|Los Ángeles|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3649|Urbano|06
+88285|El Campanario|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2777|Urbano|06
+88285|Villas del Oradel|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3452|Urbano|06
+88285|Valles de Anáhuac|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3612|Urbano|06
+88285|Blanca Navidad|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0005|Urbano|06
+88287|SUTERM I|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0027|Urbano|06
+88287|Electricistas|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0922|Urbano|06
+88287|Viviendas Unidas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0001|Urbano|06
+88289|Don Ramón Salcido|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0923|Urbano|06
+88289|Militar|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0924|Urbano|06
+88290|Los Fresnos|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2785|Urbano|06
+88290|Villas de la Concordia|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0026|Urbano|06
+88290|La Paz|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0925|Urbano|06
+88290|Santa Elena|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3720|Urbano|06
+88290|Lagos|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0926|Urbano|06
+88290|Tulipanes|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0002|Urbano|06
+88290|Balcones del Valle|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0003|Urbano|06
+88290|El Nogal|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2782|Urbano|06
+88290|Alfonso Gutiérrez|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2779|Urbano|06
+88290|Santa Martha|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3723|Urbano|06
+88290|Hacienda de la Concordia|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3252|Urbano|06
+88290|Los Cerezos|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0015|Urbano|06
+88290|Los Presidentes|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2783|Urbano|06
+88290|Los Ciruelos|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0016|Urbano|06
+88290|Los Aztecas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2780|Urbano|06
+88290|Los Encinos|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2781|Urbano|06
+88290|Villa del Lago|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2784|Urbano|06
+88293|Saneva|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0930|Urbano|06
+88293|Carlos Benjamín Galván Maytorera|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2745|Urbano|06
+88293|María del Pilar Martínez Muñoz|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2748|Urbano|06
+88293|El Caporal|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2744|Urbano|06
+88293|Manuel Martínez Méndez|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2739|Urbano|06
+88293|Pedregal|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2741|Urbano|06
+88293|América 1|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0927|Urbano|06
+88293|El Pedregal Residencial|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3457|Urbano|06
+88293|Gilberto Montemayor Quintanilla|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2738|Urbano|06
+88293|América 14|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0928|Urbano|06
+88293|Granjas Guzmán|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0929|Urbano|06
+88293|Valles del Paraíso|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2786|Urbano|06
+88294|Campesina|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0932|Urbano|06
+88294|Alijadores|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0931|Urbano|06
+88294|Santa Cecilia|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2787|Urbano|06
+88294|Granjas Treviño|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0933|Urbano|06
+88295|Granjas Económicas 2|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0938|Urbano|06
+88295|Granjas Regina|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0939|Urbano|06
+88295|Valle Elizondo|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3923|Urbano|06
+88295|ITAVU|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3455|Urbano|06
+88295|Vamos Tamaulipas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2788|Urbano|06
+88295|Palmares|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3601|Urbano|06
+88295|Valle Dorado|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0024|Urbano|06
+88295|Enrique Cárdenas Gonzalez|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0936|Urbano|06
+88295|El Triunfo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|3732|Urbano|06
+88295|Granjas Económicas 1|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0937|Urbano|06
+88295|Haciendas de San Agustín|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3596|Urbano|06
+88295|Las Piedritas|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2747|Urbano|06
+88295|El Capulín|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0935|Urbano|06
+88296|América 2,3,5 y 6|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0940|Urbano|06
+88296|Colinas del Sur Poniente|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0944|Urbano|06
+88296|Lomas del Popo|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|2790|Urbano|06
+88296|Misión de San Mauricio|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|2789|Urbano|06
+88296|Los Agaves|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3626|Urbano|06
+88296|CERESO|Equipamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||17|027|2791|Urbano|06
+88296|Bosques del Sur|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3608|Urbano|06
+88298|América 7|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|0945|Urbano|06
+88298|Agrónomos|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3453|Urbano|06
+88298|Candelario Perales|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3454|Urbano|06
+88298|La Concordia|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0946|Urbano|06
+88299|América 4|Colonia|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||09|027|0947|Urbano|06
+88299|Colinas de San Javier|Fraccionamiento|Nuevo Laredo|Tamaulipas|Nuevo Laredo|88002|28|88002||21|027|3729|Urbano|06
+88350|La Cruz|Ejido|Nuevo Laredo|Tamaulipas||88002|28|88002||15|027|3879|Rural|
+88350|Miguel Alemán O El Carrizo|Ejido|Nuevo Laredo|Tamaulipas||88002|28|88002||15|027|0960|Rural|

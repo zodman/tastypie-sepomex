@@ -1,0 +1,28 @@
+46400|Tequila Centro|Ciudad|Tequila|Jalisco|Tequila|46401|14|46401||08|094|1545|Semiurbano|41
+46402|Pino Suárez|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3831|Semiurbano|41
+46402|Obrera|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3830|Semiurbano|41
+46402|Infonavit|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3835|Semiurbano|41
+46402|La Mula|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3837|Semiurbano|41
+46403|El Ranchito|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|4221|Semiurbano|41
+46403|Lomas Del Paraíso|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3829|Semiurbano|41
+46403|El Tezcalame|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3832|Semiurbano|41
+46403|El Maluaste|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3826|Semiurbano|41
+46403|El Rosario|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3827|Semiurbano|41
+46403|Santa Cruz de los Espinos|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3834|Semiurbano|41
+46403|Sauza|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|4222|Semiurbano|41
+46403|La Mezcalera|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3828|Semiurbano|41
+46404|Chulavista|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3824|Semiurbano|41
+46404|El Trapiche|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3833|Semiurbano|41
+46404|Ex Hacienda de Abajo|Colonia|Tequila|Jalisco|Tequila|46401|14|46401||09|094|3825|Semiurbano|41
+46405|Potrero de los Rivera|Ranchería|Tequila|Jalisco||46401|14|46401||29|094|1547|Rural|
+46407|El Medineño|Ejido|Tequila|Jalisco||46401|14|46401||15|094|1541|Rural|
+46407|Las Norias|Ranchería|Tequila|Jalisco||46401|14|46401||29|094|1542|Rural|
+46408|El Salvador|Pueblo|Tequila|Jalisco||46401|14|46401||28|094|1548|Rural|
+46409|Tapexco|Ranchería|Tequila|Jalisco||46401|14|46401||29|094|1549|Rural|
+46409|San Martin de las Cañas|Ejido|Tequila|Jalisco||46401|14|46401||15|094|1543|Rural|
+46409|Santa Teresa|Ejido|Tequila|Jalisco||46401|14|46401||15|094|1544|Rural|
+46420|Jalpilla|Ranchería|Tequila|Jalisco||46401|14|46401||29|094|1550|Rural|
+46420|Santo Domingo|Ranchería|Tequila|Jalisco||46401|14|46401||29|094|4447|Rural|
+46420|El Carrizo|Ranchería|Tequila|Jalisco||46401|14|46401||29|094|4470|Rural|
+46430|San Pedro Analco|Pueblo|Tequila|Jalisco||46401|14|46401||28|094|1551|Rural|
+46433|Tuitan|Ejido|Tequila|Jalisco||46401|14|46401||15|094|1552|Rural|

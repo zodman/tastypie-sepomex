@@ -1,0 +1,20 @@
+68258|Benito Juárez|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4229|Urbano|
+68258|Fraternidad Mazateca|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4843|Rural|
+68258|Rancho el Mezquite|Ranchería|San Pablo Etla|Oaxaca||68202|20|68202||29|293|0004|Rural|
+68258|6 de Enero|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|0001|Urbano|
+68258|Poblado Morelos|Pueblo|San Pablo Etla|Oaxaca||68202|20|68202||28|293|0253|Rural|
+68258|Morelos|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4228|Urbano|
+68258|Santa Cruz Etla|Ranchería|San Pablo Etla|Oaxaca||68202|20|68202||29|293|0252|Rural|
+68258|Coloniala Azucena|Colonia|San Pablo Etla|Oaxaca||68202|20|68202||09|293|0003|Rural|
+68258|San Pablo Etla|Pueblo|San Pablo Etla|Oaxaca||68202|20|68202||28|293|0250|Rural|
+68258|San Sebastián (San Sebastián Etla)|Ranchería|San Pablo Etla|Oaxaca||68202|20|68202||29|293|0251|Rural|
+68258|La Ocotera|Ejido|San Pablo Etla|Oaxaca||68202|20|68202||15|293|4603|Rural|
+68259|El Roble|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4220|Urbano|
+68259|El Manantial|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|3942|Urbano|
+68259|Villas Hacienda Blanca|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|0002|Urbano|
+68259|Capufe|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4955|Urbano|
+68259|La Esmeralda|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|3780|Urbano|
+68259|Riconada San Pablo|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4219|Urbano|
+68259|Barrio Morelos|Barrio|San Pablo Etla|Oaxaca||68202|20|68202||02|293|4227|Rural|
+68259|Hacienda Blanca|Pueblo|San Pablo Etla|Oaxaca||68202|20|68202||28|293|4218|Urbano|
+68259|Residencial Hacienda Blanca|Fraccionamiento|San Pablo Etla|Oaxaca||68202|20|68202||21|293|4232|Urbano|

@@ -1,0 +1,82 @@
+51350|San Miguel Zinacantepec|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1104|Rural|
+51354|Del Calvario|Barrio|Zinacantepec|México||51351|15|51351||02|118|1108|Rural|
+51354|29 de Octubre|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8595|Urbano|
+51354|San Miguel|Barrio|Zinacantepec|México||51351|15|51351||02|118|9636|Urbano|
+51354|Nevado Plus I|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|1110|Rural|
+51354|La Aurora I|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8573|Urbano|
+51354|Los Maestros|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8596|Urbano|
+51354|Vista Nevado 1|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|9637|Urbano|
+51354|La Esperanza|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|1109|Rural|
+51354|Nevado Plus II|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|1111|Rural|
+51354|Residencial Zinacantepec|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8594|Urbano|
+51354|La Joya|Colonia|Zinacantepec|México||51351|15|51351||09|118|0002|Rural|
+51354|De San Miguel|Barrio|Zinacantepec|México||51351|15|51351||02|118|1107|Rural|
+51354|Cerro del Murciélago|Barrio|Zinacantepec|México||51351|15|51351||02|118|6731|Rural|
+51354|Las Ánimas|Ranchería|Zinacantepec|México||51351|15|51351||29|118|6738|Rural|
+51354|La Aurora II|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8230|Urbano|
+51355|Las Culturas|Colonia|Zinacantepec|México||51351|15|51351||09|118|1113|Urbano|
+51355|San Lorenzo Cuautenco|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1122|Rural|
+51355|San Luis Mextepec|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1123|Rural|
+51355|Ojuelos|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|5535|Rural|
+51355|San Jorge|Exhacienda|Zinacantepec|México||51351|15|51351||18|118|1115|Rural|
+51355|Zimbron|Colonia|Zinacantepec|México||51351|15|51351||09|118|9631|Urbano|
+51355|Emiliano Zapata|Colonia|Zinacantepec|México||51351|15|51351||09|118|1114|Rural|
+51355|La Cruz|Colonia|Zinacantepec|México||51351|15|51351||09|118|1116|Rural|
+51355|Rancho San Nicolás|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|1124|Urbano|
+51355|El Porvenir|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|7425|Rural|
+51355|Casa Grande|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8207|Rural|
+51355|Zimbrones|Barrio|Zinacantepec|México||51351|15|51351||02|118|1112|Rural|
+51355|La Loma|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|7426|Urbano|
+51355|Nueva Serratón|Colonia|Zinacantepec|México||51351|15|51351||09|118|8597|Urbano|
+51355|La Victoria|Residencial|Zinacantepec|México||51351|15|51351||30|118|1117|Rural|
+51355|La Joya|Colonia|Zinacantepec|México||51351|15|51351||09|118|6955|Rural|
+51355|Privadas de la Hacienda|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8518|Urbano|
+51355|Rinconada de Tecaxic|Colonia|Zinacantepec|México||51351|15|51351||09|118|1119|Rural|
+51355|Zamarrero|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|1120|Urbano|
+51355|Bosques Residencial|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|1125|Rural|
+51355|La Virgen|Colonia|Zinacantepec|México||51351|15|51351||09|118|6733|Rural|
+51355|Vista Hermosa|Colonia|Zinacantepec|México||51351|15|51351||09|118|9633|Urbano|
+51356|San Gregorio|Residencial|Zinacantepec|México||51351|15|51351||30|118|1129|Rural|
+51356|Lindavista|Colonia|Zinacantepec|México||51351|15|51351||09|118|9632|Urbano|
+51356|De la Veracruz|Barrio|Zinacantepec|México||51351|15|51351||02|118|1126|Rural|
+51356|Irma Patricia Galindo de Rez|Colonia|Zinacantepec|México||51351|15|51351||09|118|5113|Rural|
+51356|Deportiva|Colonia|Zinacantepec|México||51351|15|51351||09|118|6953|Urbano|
+51357|Ricardo Flores Magón|Colonia|Zinacantepec|México||51351|15|51351||09|118|1138|Rural|
+51357|Villas de Guadalupe|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|9634|Urbano|
+51357|El Testerazo|Colonia|Zinacantepec|México||51351|15|51351||09|118|1137|Rural|
+51357|Hacienda San José Barbabosa|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|5112|Urbano|
+51357|Vista Nevado Plus|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|9638|Urbano|
+51357|San Matías Transfiguración|Colonia|Zinacantepec|México||51351|15|51351||09|118|1130|Rural|
+51357|El Potrero Barbosa|Colonia|Zinacantepec|México||51351|15|51351||09|118|8598|Urbano|
+51357|Paraje la Puerta de Barbabosa|Fraccionamiento|Zinacantepec|México||51351|15|51351||21|118|8971|Urbano|
+51360|Santa María del Monte|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1133|Rural|
+51364|El Curtidor|Barrio|Zinacantepec|México||51351|15|51351||02|118|6736|Rural|
+51364|La Lima|Barrio|Zinacantepec|México||51351|15|51351||02|118|6737|Rural|
+51364|El Coporo|Barrio|Zinacantepec|México||51351|15|51351||02|118|6735|Urbano|
+51364|San Miguel Hojas Anchas|Barrio|Zinacantepec|México||51351|15|51351||02|118|6742|Rural|
+51366|San Bartolo el Llano (San Isidro)|Barrio|Zinacantepec|México||51351|15|51351||02|118|6740|Urbano|
+51366|San Bartolo el Viejo|Barrio|Zinacantepec|México||51351|15|51351||02|118|6741|Rural|
+51367|San Cristóbal Tecolit|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1139|Rural|
+51367|Loma de San Francisco|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1141|Rural|
+51367|De México|Barrio|Zinacantepec|México||51351|15|51351||02|118|6730|Urbano|
+51370|San Juan de las Huertas|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1143|Rural|
+51370|Santa Cruz Cuauhtenco|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1150|Rural|
+51370|Dos de Marzo|Colonia|Zinacantepec|México||51351|15|51351||09|118|6952|Urbano|
+51370|Morelos|Colonia|Zinacantepec|México||51351|15|51351||09|118|6734|Rural|
+51373|Recibitas (El Remolino)|Barrio|Zinacantepec|México||51351|15|51351||02|118|6739|Rural|
+51374|Ojo de Agua|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1145|Rural|
+51375|Tejalpa|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1134|Rural|
+51375|Benito Juárez|Pueblo|Zinacantepec|México||51351|15|51351||28|118|9635|Urbano|
+51380|San Antonio Acahualco|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1132|Rural|
+51383|Progreso|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1135|Rural|
+51383|San Pedro Tejalpa|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1136|Rural|
+51383|Cuauhtémoc|Colonia|Zinacantepec|México||51351|15|51351||09|118|0001|Rural|
+51384|El Contadero de Matamoros (San José)|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1144|Urbano|
+51385|Ciendabajo (Hacienda de Abajo)|Barrio|Zinacantepec|México||51351|15|51351||02|118|6732|Rural|
+51386|La Herradura|Colonia|Zinacantepec|México||51351|15|51351||09|118|6954|Rural|
+51386|La Cañada (Cañada Grande)|Colonia|Zinacantepec|México||51351|15|51351||09|118|6951|Urbano|
+51390|La Puerta del Monte|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1148|Rural|
+51390|Buenavista|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1149|Rural|
+51393|Raíces|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1146|Rural|
+51393|La Peñuela|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1147|Rural|
+51393|Loma Alta|Pueblo|Zinacantepec|México||51351|15|51351||28|118|1142|Rural|

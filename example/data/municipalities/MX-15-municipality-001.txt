@@ -1,0 +1,108 @@
+50300|Peñasco de Dios|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8685|Rural|
+50300|Acambay Centro|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|0395|Rural|
+50300|El Triangulo|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8231|Urbano|
+50303|Constituyentes|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8679|Rural|
+50303|Manuel Hinojosa|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|5221|Rural|
+50304|Los Pinos|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8683|Rural|
+50305|Independencia|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8681|Rural|
+50305|La Camelia|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8682|Rural|
+50305|Niños Héroes|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8684|Rural|
+50306|Valle de los Espejos|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8687|Rural|
+50306|Revolución|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8686|Rural|
+50306|El Nogal|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|8680|Rural|
+50310|Huamango|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|7322|Rural|
+50310|Dongu Barrio Dos|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|6597|Rural|
+50310|Botidi|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0415|Rural|
+50310|Esdoca|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0414|Rural|
+50310|La Cumbre|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8671|Rural|
+50313|Dateje|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0396|Rural|
+50313|Ganzda|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0399|Rural|
+50313|Loma Linda|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0417|Rural|
+50313|Hacienda Toto|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0420|Rural|
+50314|Barrancas|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0418|Rural|
+50314|Las Palomas|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8675|Rural|
+50314|Las Golondrinas|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0464|Rural|
+50314|Buenavista|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0419|Rural|
+50314|Bovini|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0421|Rural|
+50314|La Huerta|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0463|Rural|
+50315|Santa María las Arenas|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|6590|Rural|
+50315|Las Trojes|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|7324|Rural|
+50315|Mado Sector II|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0460|Rural|
+50315|Los Pilares|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0465|Rural|
+50315|Santa María las Arenas Dos|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8678|Rural|
+50315|Las Arenas|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0406|Rural|
+50320|Endeje|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0413|Rural|
+50320|Parque del Oso Bueno|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|7323|Rural|
+50323|Boshi Grande|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0429|Rural|
+50324|La Manga|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0401|Rural|
+50324|Mado Sector I|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0461|Rural|
+50324|San Antonio las Palmas|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0462|Rural|
+50325|San Juanico Sector II|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0428|Rural|
+50325|La Venta (Barrio la Venta)|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|0427|Rural|
+50325|San Juanico Sector I|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0403|Rural|
+50325|San Nicolás Acambay|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0426|Rural|
+50325|La Venta|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8669|Rural|
+50325|Lucero|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8670|Rural|
+50326|La Caridad|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0400|Rural|
+50326|Boshi Chiquito|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0430|Rural|
+50326|San Ildefonso Yolotepec|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0412|Rural|
+50330|San Pedro de los Metates|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0404|Rural|
+50333|Deshpe|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|7325|Rural|
+50333|Hondiga|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0424|Rural|
+50333|Agua Limpia|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0425|Rural|
+50333|Pathé|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0402|Rural|
+50333|Boxindo|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0422|Rural|
+50334|El Medrano|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8672|Rural|
+50335|Chanteje|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0423|Rural|
+50335|La Estancia Sector I|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0431|Rural|
+50335|Las Chivas|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8677|Rural|
+50335|La Estancia Sector II|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0432|Rural|
+50336|San José Bocto|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0411|Rural|
+50336|Loma de San Ángel|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0408|Rural|
+50336|La Laguna|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0409|Rural|
+50337|La Soledad|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0410|Rural|
+50337|La Esperanza|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0407|Rural|
+50337|Pueblo Nuevo|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0457|Rural|
+50340|Cerrito Tixmadeje|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0454|Rural|
+50340|Guadalupe|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|0450|Rural|
+50343|Tixmadeje Grande (Santa María Tixmadeje)|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0452|Rural|
+50343|Doxteje Barrio Primero|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|6596|Rural|
+50343|Candeje|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|8666|Rural|
+50343|Tixmadeje Chiquito|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0455|Rural|
+50343|Doxteje Barrio Dos|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|6595|Rural|
+50343|La Providencia Doxteje|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8824|Rural|
+50343|Doxteje Centro|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0451|Rural|
+50343|Tixmadeje Grande Barrio Dos|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0453|Rural|
+50343|El Pedregal Tixmadeje|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8667|Rural|
+50344|El Ermitaño|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0458|Rural|
+50344|Detiña|Ejido|Acambay de Ruíz Castañeda|México||50301|15|50301||15|001|8825|Rural|
+50344|La Palma|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0459|Rural|
+50344|Tixmadeje|Ejido|Acambay de Ruíz Castañeda|México||50301|15|50301||15|001|8676|Rural|
+50344|La Florida|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0456|Rural|
+50345|Dongú Puerto|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|0416|Rural|
+50345|Dongu|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0398|Rural|
+50345|Dongu Barrio Uno|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|6598|Rural|
+50345|Detiña (San Antonio Detiña)|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0397|Rural|
+50350|Rincón de Juando|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|6591|Rural|
+50350|Boti|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|0438|Rural|
+50350|Los Sauces|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0440|Rural|
+50350|La Nopalera|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|8668|Rural|
+50353|Cruz Colorada|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0442|Rural|
+50353|Loma de Enmedio|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|6593|Rural|
+50353|Cañada del Gallo|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0446|Rural|
+50353|Puentecillas|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0435|Rural|
+50354|Muyteje|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0449|Rural|
+50354|La Teresa|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0439|Rural|
+50354|Conejeras|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0441|Rural|
+50355|La Loma|Colonia|Acambay de Ruíz Castañeda|México||50301|15|50301||09|001|0448|Rural|
+50355|El Capulín la Loma|Barrio|Acambay de Ruíz Castañeda|México||50301|15|50301||02|001|6594|Rural|
+50355|San Agustín la Loma|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|8673|Rural|
+50356|Los Toriles|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0444|Rural|
+50356|Gandó|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|8674|Rural|
+50356|Las Mangas|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0443|Rural|
+50357|Los Charcos|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0434|Rural|
+50357|San Francisco|Ejido|Acambay de Ruíz Castañeda|México||50301|15|50301||15|001|0447|Rural|
+50357|Loma del Fresno|Ranchería|Acambay de Ruíz Castañeda|México||50301|15|50301||29|001|6592|Rural|
+50357|San Francisco Shaxni|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0436|Rural|
+50357|Agostadero|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0437|Rural|
+50357|Juando|Pueblo|Acambay de Ruíz Castañeda|México||50301|15|50301||28|001|0433|Rural|

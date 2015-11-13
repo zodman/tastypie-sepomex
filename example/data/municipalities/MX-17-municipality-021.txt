@@ -1,0 +1,15 @@
+62620|Tetecala|Pueblo|Tetecala|Morelos||62621|17|62621||28|021|0318|Rural|
+62623|Cerro de las Cruces|Colonia|Tetecala|Morelos||62621|17|62621||09|021|1949|Urbano|
+62624|Llano Viejo|Ranchería|Tetecala|Morelos||62621|17|62621||29|021|1672|Rural|
+62624|El Charco|Colonia|Tetecala|Morelos||62621|17|62621||09|021|0316|Rural|
+62624|Actopan|Ranchería|Tetecala|Morelos||62621|17|62621||29|021|0320|Rural|
+62624|Sonora|Colonia|Tetecala|Morelos||62621|17|62621||09|021|0307|Rural|
+62625|Tonantzicalli|Ranchería|Tetecala|Morelos||62621|17|62621||29|021|1676|Rural|
+62625|Mariano Matamoros|Colonia|Tetecala|Morelos||62621|17|62621||09|021|1675|Rural|
+62625|Cuautlita|Ranchería|Tetecala|Morelos||62621|17|62621||29|021|0315|Rural|
+62625|Francisco Sarabia|Colonia|Tetecala|Morelos||62621|17|62621||09|021|0317|Rural|
+62625|El Alicanto|Colonia|Tetecala|Morelos||62621|17|62621||09|021|1674|Rural|
+62625|El Aguacate|Colonia|Tetecala|Morelos||62621|17|62621||09|021|1673|Rural|
+62626|El Móvil|Colonia|Tetecala|Morelos||62621|17|62621||09|021|1677|Rural|
+62626|Contlalco|Ranchería|Tetecala|Morelos||62621|17|62621||29|021|0314|Rural|
+62626|Palos de Fierro|Ranchería|Tetecala|Morelos||62621|17|62621||29|021|1678|Rural|

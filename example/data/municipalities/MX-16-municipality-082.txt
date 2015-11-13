@@ -1,0 +1,224 @@
+61650|21 de Noviembre|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3082|Urbano|20
+61650|El Encanto|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4466|Urbano|20
+61650|Joyas de Cuinio|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4473|Urbano|20
+61650|22 de Septiembre|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3079|Urbano|20
+61650|El Aile|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3081|Urbano|20
+61650|30 de Septiembre|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4462|Urbano|20
+61650|Caricho|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4464|Urbano|20
+61650|Jardines de La Purísima|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4471|Urbano|20
+61650|Trabajo y Confianza|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4481|Urbano|20
+61650|La Joya de la Golondrina|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4851|Urbano|20
+61650|Comunidad Indígena|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3084|Urbano|20
+61650|Los Pajaritos|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3083|Urbano|20
+61650|Los Pinos|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3076|Urbano|20
+61650|El Mirador|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4467|Urbano|20
+61650|Falda de La Mesa|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4469|Urbano|20
+61650|Purísima|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4475|Urbano|20
+61650|Parque Hidalgo|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4480|Urbano|20
+61650|Tacambaro de Codallos Centro|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|2601|Urbano|20
+61650|La Carolina|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|3080|Urbano|20
+61650|Ayuntamiento|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4463|Urbano|20
+61650|Cerro Hueco|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4465|Urbano|20
+61650|La Huerta|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4474|Urbano|20
+61650|Las Yácatas|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4476|Urbano|20
+61650|Llanos de Canícuaro|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4477|Urbano|20
+61650|Ejido J. Jesús Alcaraz|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|2598|Urbano|20
+61650|Loma Escondida|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4478|Urbano|20
+61650|El Venado|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4468|Urbano|20
+61650|G. Morelos|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4470|Urbano|20
+61650|Jardines de Caricho|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4472|Urbano|20
+61650|Los Ciruelos|Colonia|Tacámbaro|Michoacán de Ocampo|Tacámbaro de Codallos|61651|16|61651||09|082|4479|Urbano|20
+61652|La Blanca (El Aserradero de la Blanca)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4522|Rural|
+61652|Plan de San Pablo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4640|Rural|
+61652|El Gigante|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4501|Rural|
+61652|Las Cuatas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0016|Rural|
+61652|San José Chico|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2606|Rural|
+61652|Santa Rita Primera|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2613|Rural|
+61652|Santa Rita Segunda|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2614|Rural|
+61652|El Colorín Chico|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0011|Rural|
+61652|Buenavista|Hacienda|Tacámbaro|Michoacán de Ocampo||61651|16|61651||24|082|2602|Rural|
+61652|Santas Marías|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2607|Rural|
+61652|Sopomio|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2608|Rural|
+61652|Tecario|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2609|Rural|
+61652|San José Grande|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2610|Rural|
+61652|San José Aramútaro|Pueblo|Tacámbaro|Michoacán de Ocampo||61651|16|61651||28|082|4039|Rural|
+61652|Hacienda de San Pablo|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|4641|Rural|
+61652|La Colmena|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4529|Rural|
+61652|El Colorín Grande|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2603|Rural|
+61652|El Pantano (El Cuije)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2604|Rural|
+61652|El Terrero|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2605|Rural|
+61653|San Miguel Tamácuaro|Pueblo|Tacámbaro|Michoacán de Ocampo||61651|16|61651||28|082|2600|Rural|
+61653|Canícuaro|Hacienda|Tacámbaro|Michoacán de Ocampo||61651|16|61651||24|082|2595|Rural|
+61654|Los Jacales|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0017|Rural|
+61654|Upanguaro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4526|Rural|
+61654|El Salto|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4512|Rural|
+61654|La Luz|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|0019|Rural|
+61654|Los Morales|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2618|Rural|
+61654|Testerazo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2621|Rural|
+61654|San Isidro Mayorazgo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4596|Rural|
+61654|La Magdalena|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2617|Rural|
+61654|El Jacal|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4614|Rural|
+61654|El Escobetillo (Chiquita) [Granja]|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|0013|Rural|
+61654|El Mayorazgo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2616|Rural|
+61654|San Rafael Lejía|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2620|Rural|
+61654|La Viña|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4546|Rural|
+61654|Los Olivos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4566|Rural|
+61654|Paso de Serrano (La Fundición)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4576|Rural|
+61654|Cuitzato|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|0010|Rural|
+61654|San Agustín|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2619|Rural|
+61655|El Atascoso|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4496|Rural|
+61655|El Rosal|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4510|Rural|
+61655|Serrano|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2623|Rural|
+61655|Pinos Altos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4578|Rural|
+61655|La Ilusión|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|4591|Rural|
+61655|Santa Paula|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2622|Rural|
+61655|La Policlínica|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4541|Rural|
+61655|Pueblo Viejo de la Sierra (Pueblo Viejo)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4583|Rural|
+61655|San Antonio de Viña|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4595|Rural|
+61655|La Planta|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4540|Rural|
+61655|Rancho Adelas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4589|Rural|
+61655|El Olimpo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0014|Rural|
+61655|El Durazno|Pueblo|Tacámbaro|Michoacán de Ocampo||61651|16|61651||28|082|4041|Rural|
+61655|Machúparo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4571|Rural|
+61656|Plan de Ornelas (Aguatibia)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4580|Rural|
+61656|El Llano de Puquitzimo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4505|Rural|
+61656|Las Latas (Plan de las Latas)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2625|Rural|
+61656|El Pedregoso|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2624|Rural|
+61657|La Mesa Alta|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|4538|Rural|
+61657|La Cuchilla|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4530|Rural|
+61657|Puente de Ánimas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4585|Rural|
+61657|San Antonio Buenavista|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4593|Rural|
+61657|Santa Catalina|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4601|Rural|
+61657|Copitero|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2597|Rural|
+61657|El Despacho (Chorícuaro)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4500|Rural|
+61657|La Cofradía|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4528|Rural|
+61657|La Esperanza|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4532|Rural|
+61657|La Piedra del Molino|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2626|Rural|
+61657|Ciénega|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4490|Rural|
+61657|Pitaya de Copitero|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4579|Rural|
+61657|San José de los Laureles|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2628|Rural|
+61657|Cutzi Mintzícuri|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4590|Rural|
+61657|Churumuco|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0009|Rural|
+61657|San Vicente Cofradía|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0022|Rural|
+61657|El Zarzal|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4513|Rural|
+61657|El Rincón de Copitero|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4604|Rural|
+61657|Puente de Tierra|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2627|Rural|
+61657|Loma Ceñida|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4556|Rural|
+61657|San Antonio Copitero|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4594|Rural|
+61657|Puente Oscuro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4586|Rural|
+61658|Yoricostio (La Villita)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2615|Rural|
+61658|Agua Fría|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4483|Rural|
+61658|El Rincón de Caricho (Chorícuaro)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4592|Rural|
+61658|La Guardia|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2630|Rural|
+61658|Puente de San Andrés|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2632|Rural|
+61658|Llano Grande (Llano Grande de la Guardia)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4555|Rural|
+61658|El Agostadero|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2629|Rural|
+61658|Cruz del Plato|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4524|Rural|
+61658|El Rincón de Chorícuaro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0015|Rural|
+61658|La Soledad|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2631|Rural|
+61659|San Juan de Viña|Pueblo|Tacámbaro|Michoacán de Ocampo||61651|16|61651||28|082|2611|Rural|
+61659|Joya de la Vihuela|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4612|Rural|
+61659|El Ciprés|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4498|Rural|
+61659|Cruz Gorda|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2633|Rural|
+61659|Plan de la Cárcel (Puente del Eje)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2634|Rural|
+61659|La Noria|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2646|Rural|
+61659|Quiterio|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2635|Rural|
+61659|La Guardia|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4534|Rural|
+61659|Los Llanos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4613|Rural|
+61663|Caracha|Ejido|Tacámbaro|Michoacán de Ocampo||61651|16|61651||15|082|2638|Rural|
+61663|Agua Dulce|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4482|Rural|
+61663|La Sanguijuela|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4542|Rural|
+61663|La Loma|Pueblo|Tacámbaro|Michoacán de Ocampo||61651|16|61651||28|082|2639|Rural|
+61663|La Mesa del Pinal|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4539|Rural|
+61663|El Limón|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4610|Rural|
+61664|La Tinaja|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4545|Rural|
+61664|San Jerónimo Arroyo de Apo (Huatzanguío)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2640|Rural|
+61664|San Vicente|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4600|Rural|
+61664|Los Cajones|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4560|Rural|
+61664|El Reparo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4508|Rural|
+61664|Los Tepehuajes (Loma los Tepehuajes)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4569|Rural|
+61665|Caramécuaro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2596|Rural|
+61665|Canta Ranas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4486|Rural|
+61665|Tiriapo|Pueblo|Tacámbaro|Michoacán de Ocampo||61651|16|61651||28|082|4040|Rural|
+61665|El Salitre|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4511|Rural|
+61665|San José Buenavista (Mesa de Tamácuaro)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4598|Rural|
+61665|Caramecuarito|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4487|Rural|
+61665|Las Hoyas Altas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4551|Rural|
+61665|Santa Rosa|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4603|Rural|
+61666|La Yerbabuena|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4547|Rural|
+61666|Charapio|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4489|Rural|
+61666|Los Guayabos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4564|Rural|
+61666|Joya de Charapio|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4519|Rural|
+61666|Las Cuevas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4550|Rural|
+61666|Los Sauces|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4568|Rural|
+61667|Huizachera|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4516|Rural|
+61667|El Manguito|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4506|Rural|
+61667|La Yuca|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4548|Rural|
+61667|Paso de Morelos (La Parotita)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2637|Rural|
+61667|Loma Larga|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4557|Rural|
+61667|Los Tepetates|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4570|Rural|
+61667|El Atravesaño|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4497|Rural|
+61667|San Jerónimo (La Mesa Redonda)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4597|Rural|
+61667|La Yácata|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4609|Rural|
+61668|La Escondida|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4531|Rural|
+61668|El Limoncito|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4504|Rural|
+61668|Los Planes|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4567|Rural|
+61668|El Rincón|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4509|Rural|
+61668|Los Corralitos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4561|Rural|
+61668|Santa Rita|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4602|Rural|
+61668|El Cirián|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4499|Rural|
+61668|La Tijera|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4544|Rural|
+61668|Puerto las Ánimas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4588|Rural|
+61668|Casa Blanca|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4488|Rural|
+61668|Las Ánimas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4549|Rural|
+61668|Las Juntas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4552|Rural|
+61668|Los Guayabitos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4563|Rural|
+61668|Los Ocotes|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4565|Rural|
+61668|Mesa Redonda|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4573|Rural|
+61670|La Salud|Barrio|Tacámbaro|Michoacán de Ocampo||61651|16|61651||02|082|0008|Urbano|
+61670|Horcado|Barrio|Tacámbaro|Michoacán de Ocampo||61651|16|61651||02|082|0004|Urbano|
+61670|Vegoña|Barrio|Tacámbaro|Michoacán de Ocampo||61651|16|61651||02|082|0007|Urbano|
+61670|Guaracha|Barrio|Tacámbaro|Michoacán de Ocampo||61651|16|61651||02|082|0005|Urbano|
+61670|Guanajuato|Barrio|Tacámbaro|Michoacán de Ocampo||61651|16|61651||02|082|0006|Urbano|
+61670|Pedernales|Hacienda|Tacámbaro|Michoacán de Ocampo||61651|16|61651||24|082|2644|Urbano|
+61670|Puente Alto|Barrio|Tacámbaro|Michoacán de Ocampo||61651|16|61651||02|082|0002|Urbano|
+61670|Obrera|Colonia|Tacámbaro|Michoacán de Ocampo||61651|16|61651||09|082|0003|Urbano|
+61673|Las Joyas (El Poblado)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4536|Rural|
+61673|La Laguna (Laguna la Magdalena)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4537|Rural|
+61673|El Columpio|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|0012|Rural|
+61673|Sorucio el Alto|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4606|Rural|
+61673|La Alberca|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4484|Rural|
+61673|Pino Solo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4577|Rural|
+61674|Corral de Piedra|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4492|Rural|
+61674|Chupio|Ejido|Tacámbaro|Michoacán de Ocampo||61651|16|61651||15|082|2643|Rural|
+61674|Ojo de Agua de Chupio (La Noria)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2647|Rural|
+61674|Chipícuaro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2636|Rural|
+61675|Petembo Viejo|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|0018|Rural|
+61675|El Conejo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4491|Rural|
+61675|La Barranca|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4521|Rural|
+61675|Tarimoro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4607|Rural|
+61675|Petembo|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2645|Rural|
+61675|Cútzaro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4494|Rural|
+61675|Puerto de Cadenas|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4587|Rural|
+61676|La Guagua|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4533|Rural|
+61676|El Algodonal|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4514|Rural|
+61676|La Huerta|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4535|Rural|
+61676|Arroyo Frío [Balneario]|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4485|Rural|
+61676|Ojo de Agua|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4575|Rural|
+61676|Parocho (Las Paredes)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2599|Rural|
+61676|El Carrizal|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4525|Rural|
+61676|San Rafael Cutzaróndiro|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4599|Rural|
+61677|Los Coyotes|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4562|Rural|
+61677|La Tinaja|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4611|Rural|
+61677|San Juan Tecario|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0020|Rural|
+61677|San Rafael Tecario (El Poblado)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|0021|Rural|
+61677|Sin Agua|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4605|Rural|
+61677|La Iglesia Vieja|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4517|Rural|
+61677|Plaza de Gallos|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4581|Rural|
+61677|Hacienda San Rafael (Trapiche)|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4515|Rural|
+61677|El Jabalí|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4518|Rural|
+61678|Pueblo Viejo de Tecario|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4584|Rural|
+61678|Casa Blanca|Rancho|Tacámbaro|Michoacán de Ocampo||61651|16|61651||48|082|0001|Rural|
+61678|La Cucha|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|4527|Rural|
+61678|La Pequeñita|Hacienda|Tacámbaro|Michoacán de Ocampo||61651|16|61651||24|082|4582|Rural|
+61678|La Joya de los Metates|Ranchería|Tacámbaro|Michoacán de Ocampo||61651|16|61651||29|082|2641|Rural|

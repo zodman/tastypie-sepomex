@@ -1,0 +1,148 @@
+34500|Canelas|Pueblo|Canelas|Durango||34541|10|34541||28|002|0547|Semiurbano|
+34510|Agua Blanca de Avitia|Ranchería|Canelas|Durango||34541|10|34541||29|002|0553|Rural|
+34510|Los Fresnos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2631|Rural|
+34510|Carboneras|Ranchería|Canelas|Durango||34541|10|34541||29|002|2668|Rural|
+34510|Ventanitas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2743|Rural|
+34510|La Yerbabuena|Pueblo|Canelas|Durango||34541|10|34541||28|002|0550|Rural|
+34510|El Molino|Ranchería|Canelas|Durango||34541|10|34541||29|002|2700|Rural|
+34510|Pino Alto|Ranchería|Canelas|Durango||34541|10|34541||29|002|2702|Rural|
+34510|El Ranchito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2650|Rural|
+34510|Tierra Azul|Ranchería|Canelas|Durango||34541|10|34541||29|002|2664|Rural|
+34510|La Mesa de los Mateos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2704|Rural|
+34510|El Llano|Ranchería|Canelas|Durango||34541|10|34541||29|002|2709|Rural|
+34513|El Carrizo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2628|Rural|
+34513|La Angostura|Ranchería|Canelas|Durango||34541|10|34541||29|002|4697|Rural|
+34513|Birimoa|Ranchería|Canelas|Durango||34541|10|34541||29|002|0554|Rural|
+34513|El Guasimal|Ranchería|Canelas|Durango||34541|10|34541||29|002|2632|Rural|
+34513|El Aguacate|Ranchería|Canelas|Durango||34541|10|34541||29|002|2624|Rural|
+34513|El Potrero de Birimoa|Ranchería|Canelas|Durango||34541|10|34541||29|002|2648|Rural|
+34513|El Potrerito de Valles|Ranchería|Canelas|Durango||34541|10|34541||29|002|2675|Rural|
+34513|Puerto de los Hernández|Ranchería|Canelas|Durango||34541|10|34541||29|002|2695|Rural|
+34513|San Miguel|Ranchería|Canelas|Durango||34541|10|34541||29|002|2697|Rural|
+34513|Los Chirimoyos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2629|Rural|
+34513|Mesa de Chirimoyo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2736|Rural|
+34513|El Durazno de Beltrán|Ranchería|Canelas|Durango||34541|10|34541||29|002|2676|Rural|
+34513|Zapotes de Valencia|Ranchería|Canelas|Durango||34541|10|34541||29|002|2666|Rural|
+34513|La Cañita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2705|Rural|
+34514|El Pinal|Ranchería|Canelas|Durango||34541|10|34541||29|002|2646|Rural|
+34514|Los Otates|Ranchería|Canelas|Durango||34541|10|34541||29|002|2680|Rural|
+34514|El Tablón|Ranchería|Canelas|Durango||34541|10|34541||29|002|2699|Rural|
+34514|La Cupia (Jojobitos)|Ranchería|Canelas|Durango||34541|10|34541||29|002|2703|Rural|
+34514|La Mora (Cuesta de Pinitos)|Ranchería|Canelas|Durango||34541|10|34541||29|002|2739|Rural|
+34514|Rancho Colorado|Ranchería|Canelas|Durango||34541|10|34541||29|002|2674|Rural|
+34514|Las Papas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2644|Rural|
+34514|La Tijera|Ranchería|Canelas|Durango||34541|10|34541||29|002|2678|Rural|
+34514|El Comedero del Rodeo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2669|Rural|
+34514|La Cuchilla|Ranchería|Canelas|Durango||34541|10|34541||29|002|2672|Rural|
+34514|Zapote de Rodríguez|Ranchería|Canelas|Durango||34541|10|34541||29|002|0549|Rural|
+34514|El Laurelito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2677|Rural|
+34514|La Laguna|Ranchería|Canelas|Durango||34541|10|34541||29|002|2746|Rural|
+34514|Santa Rosa|Ranchería|Canelas|Durango||34541|10|34541||29|002|2671|Rural|
+34514|La Joya|Ranchería|Canelas|Durango||34541|10|34541||29|002|2673|Rural|
+34514|Cerco de Piedra|Ranchería|Canelas|Durango||34541|10|34541||29|002|2679|Rural|
+34514|La Ermita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2701|Rural|
+34514|Los Tanques|Ranchería|Canelas|Durango||34541|10|34541||29|002|2727|Rural|
+34514|Primer Vado|Ranchería|Canelas|Durango||34541|10|34541||29|002|2732|Rural|
+34514|Rancho Viejo|Ranchería|Canelas|Durango||34541|10|34541||29|002|4702|Rural|
+34514|El Huesquelite|Ranchería|Canelas|Durango||34541|10|34541||29|002|2670|Rural|
+34514|Pedro Rocha Vega|Ranchería|Canelas|Durango||34541|10|34541||29|002|2751|Rural|
+34515|Santas Marías|Ranchería|Canelas|Durango||34541|10|34541||29|002|2658|Rural|
+34515|Los Mangos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2707|Rural|
+34515|El Granadillo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2710|Rural|
+34515|Los Alisos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2721|Rural|
+34515|Las Manzanillas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2694|Rural|
+34516|Papudos|Ranchería|Canelas|Durango||34541|10|34541||29|002|4700|Rural|
+34516|La Ramada|Ranchería|Canelas|Durango||34541|10|34541||29|002|2708|Rural|
+34516|La Mesa de Coroneles|Ranchería|Canelas|Durango||34541|10|34541||29|002|2692|Rural|
+34517|La Cañada del Macho|Ranchería|Canelas|Durango||34541|10|34541||29|002|2638|Rural|
+34517|La Lajita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2681|Rural|
+34520|San Ramón|Ranchería|Canelas|Durango||34541|10|34541||29|002|2656|Rural|
+34520|La Esperanza|Ranchería|Canelas|Durango||34541|10|34541||29|002|2683|Rural|
+34520|Ramblas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2724|Rural|
+34520|San José de Llanitos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2745|Rural|
+34520|El Potrerito|Ranchería|Canelas|Durango||34541|10|34541||29|002|0552|Rural|
+34520|Cebollitas|Ranchería|Canelas|Durango||34541|10|34541||29|002|0555|Rural|
+34520|Potrero Grande|Ranchería|Canelas|Durango||34541|10|34541||29|002|2719|Rural|
+34520|Cebollas Grandes|Ranchería|Canelas|Durango||34541|10|34541||29|002|0556|Rural|
+34520|El Sobaco|Ranchería|Canelas|Durango||34541|10|34541||29|002|2729|Rural|
+34523|El Tagarete|Ranchería|Canelas|Durango||34541|10|34541||29|002|2722|Rural|
+34523|El Aguaje|Ranchería|Canelas|Durango||34541|10|34541||29|002|2715|Rural|
+34523|Los Lobos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2637|Rural|
+34523|Mesa de Guadalupe|Ranchería|Canelas|Durango||34541|10|34541||29|002|0559|Rural|
+34523|Los Robles|Ranchería|Canelas|Durango||34541|10|34541||29|002|2716|Rural|
+34523|La Peña|Ranchería|Canelas|Durango||34541|10|34541||29|002|4698|Rural|
+34523|San Jerónimo|Ranchería|Canelas|Durango||34541|10|34541||29|002|4703|Rural|
+34524|Salsipuedes|Ranchería|Canelas|Durango||34541|10|34541||29|002|2653|Rural|
+34524|El Madroño (La Cueva)|Ranchería|Canelas|Durango||34541|10|34541||29|002|2686|Rural|
+34524|Los Sauces de Arroyo Grande|Ranchería|Canelas|Durango||34541|10|34541||29|002|2714|Rural|
+34524|El Río|Ranchería|Canelas|Durango||34541|10|34541||29|002|2652|Rural|
+34524|El Puerto del Agua|Ranchería|Canelas|Durango||34541|10|34541||29|002|2649|Rural|
+34524|El Madroño|Ranchería|Canelas|Durango||34541|10|34541||29|002|2747|Rural|
+34524|San Juan de Huichacán|Ranchería|Canelas|Durango||34541|10|34541||29|002|2654|Rural|
+34524|La Soledad|Ranchería|Canelas|Durango||34541|10|34541||29|002|2698|Rural|
+34524|El Granadito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2633|Rural|
+34524|Arroyo Grande|Ejido|Canelas|Durango||34541|10|34541||15|002|2713|Rural|
+34524|Los Sauces del Granadito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2752|Rural|
+34525|Los Veranos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2665|Rural|
+34525|La Hacienda|Ranchería|Canelas|Durango||34541|10|34541||29|002|2635|Rural|
+34525|Rancho Escondido|Ranchería|Canelas|Durango||34541|10|34541||29|002|2741|Rural|
+34525|El Sauz|Ranchería|Canelas|Durango||34541|10|34541||29|002|2659|Rural|
+34525|El Derrumbe|Ranchería|Canelas|Durango||34541|10|34541||29|002|2723|Rural|
+34525|Martín Avitia Carrasco|Ranchería|Canelas|Durango||34541|10|34541||29|002|2750|Rural|
+34525|La Caña|Ranchería|Canelas|Durango||34541|10|34541||29|002|2627|Rural|
+34525|Potrerito de Carrasco|Ranchería|Canelas|Durango||34541|10|34541||29|002|2682|Rural|
+34525|La Tembladora|Ranchería|Canelas|Durango||34541|10|34541||29|002|2689|Rural|
+34525|El Durazno de los López|Ranchería|Canelas|Durango||34541|10|34541||29|002|2731|Rural|
+34525|La Guacamaya|Ranchería|Canelas|Durango||34541|10|34541||29|002|2749|Rural|
+34525|El Carrizo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2735|Rural|
+34525|La Mesa de los Quiotes|Ranchería|Canelas|Durango||34541|10|34541||29|002|2737|Rural|
+34526|La Plomosa|Congregación|Canelas|Durango||34541|10|34541||11|002|2717|Rural|
+34526|El Cajoncito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2733|Rural|
+34526|El Potrero de los Cháidez|Ranchería|Canelas|Durango||34541|10|34541||29|002|2684|Rural|
+34526|Llano Blanco|Ranchería|Canelas|Durango||34541|10|34541||29|002|2685|Rural|
+34526|La Mesa de la Perra|Ranchería|Canelas|Durango||34541|10|34541||29|002|2744|Rural|
+34526|Pascuas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2645|Rural|
+34526|Monte Negro|Ranchería|Canelas|Durango||34541|10|34541||29|002|2642|Rural|
+34526|El Cajón|Ranchería|Canelas|Durango||34541|10|34541||29|002|2626|Rural|
+34527|Las Trojas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2720|Rural|
+34527|Mirasolar|Ranchería|Canelas|Durango||34541|10|34541||29|002|2641|Rural|
+34527|El Tepehuaje|Ranchería|Canelas|Durango||34541|10|34541||29|002|2663|Rural|
+34527|Guachapure|Ranchería|Canelas|Durango||34541|10|34541||29|002|2634|Rural|
+34527|El Mecatal|Ranchería|Canelas|Durango||34541|10|34541||29|002|2640|Rural|
+34527|Buenavista|Ranchería|Canelas|Durango||34541|10|34541||29|002|2706|Rural|
+34527|El Mautal|Ranchería|Canelas|Durango||34541|10|34541||29|002|2639|Rural|
+34527|El Oro|Ranchería|Canelas|Durango||34541|10|34541||29|002|2643|Rural|
+34527|Mesa de la Caña|Ranchería|Canelas|Durango||34541|10|34541||29|002|2712|Rural|
+34527|El Ranchito de Birimoa|Ranchería|Canelas|Durango||34541|10|34541||29|002|2647|Rural|
+34527|El Rancho Nuevo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2651|Rural|
+34527|San Nicolás|Ranchería|Canelas|Durango||34541|10|34541||29|002|2655|Rural|
+34527|Los Bevelamos|Ranchería|Canelas|Durango||34541|10|34541||29|002|2718|Rural|
+34527|Brasiles|Ranchería|Canelas|Durango||34541|10|34541||29|002|2625|Rural|
+34527|El Saucito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2728|Rural|
+34530|Camellones|Ranchería|Canelas|Durango||34541|10|34541||29|002|2734|Rural|
+34530|El Ojito de Camellones|Pueblo|Canelas|Durango||34541|10|34541||28|002|0560|Rural|
+34530|El Salto de Camellones|Ranchería|Canelas|Durango||34541|10|34541||29|002|0562|Rural|
+34530|La Cieneguita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2711|Rural|
+34530|La Escondida|Ranchería|Canelas|Durango||34541|10|34541||29|002|2630|Rural|
+34530|Las Joyas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2636|Rural|
+34533|Valuarte|Ranchería|Canelas|Durango||34541|10|34541||29|002|2667|Rural|
+34533|Vascogil|Ranchería|Canelas|Durango||34541|10|34541||29|002|0558|Rural|
+34533|Santa Cruz|Ranchería|Canelas|Durango||34541|10|34541||29|002|2657|Rural|
+34533|La Ciénega|Ranchería|Canelas|Durango||34541|10|34541||29|002|2730|Rural|
+34533|La Rosita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2742|Rural|
+34533|La Cebadilla|Ranchería|Canelas|Durango||34541|10|34541||29|002|2691|Rural|
+34534|Tecolotes|Ranchería|Canelas|Durango||34541|10|34541||29|002|2661|Rural|
+34535|Minitas de Palomas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2738|Rural|
+34535|Entronque el Alamito|Ranchería|Canelas|Durango||34541|10|34541||29|002|2748|Rural|
+34535|El Manzanillo|Ranchería|Canelas|Durango||34541|10|34541||29|002|2687|Rural|
+34535|El Puerto la Esperanza|Ranchería|Canelas|Durango||34541|10|34541||29|002|2696|Rural|
+34535|Rancho Santo Niño|Ranchería|Canelas|Durango||34541|10|34541||29|002|4701|Rural|
+34535|Las Adjuntas (La Junta)|Ranchería|Canelas|Durango||34541|10|34541||29|002|2690|Rural|
+34535|Taunitas|Ranchería|Canelas|Durango||34541|10|34541||29|002|2660|Rural|
+34535|Galeancita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2693|Rural|
+34536|La Traspana|Ranchería|Canelas|Durango||34541|10|34541||29|002|2688|Rural|
+34536|Joya de Montoros|Ranchería|Canelas|Durango||34541|10|34541||29|002|2725|Rural|
+34537|La Aurora|Ranchería|Canelas|Durango||34541|10|34541||29|002|2726|Rural|
+34537|Metates|Ranchería|Canelas|Durango||34541|10|34541||29|002|4699|Rural|
+34537|La Tembladora|Ranchería|Canelas|Durango||34541|10|34541||29|002|2662|Rural|
+34537|La Quebradita|Ranchería|Canelas|Durango||34541|10|34541||29|002|2740|Rural|

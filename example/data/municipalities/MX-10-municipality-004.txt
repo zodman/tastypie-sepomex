@@ -1,0 +1,132 @@
+35800|Cuencame de Ceniceros Centro|Colonia|Cuencamé|Durango||35801|10|35801||09|004|1726|Semiurbano|
+35803|Juan Pablo II|Colonia|Cuencamé|Durango||35801|10|35801||09|004|0001|Urbano|
+35803|Ponteduro|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5989|Urbano|
+35803|El Pasajito|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5980|Urbano|
+35803|Cruz Roja|Colonia|Cuencamé|Durango||35801|10|35801||09|004|6000|Urbano|
+35804|Gral. Vicente Orozco|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5982|Urbano|
+35804|El Panteón|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5979|Urbano|
+35804|La Deportiva|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5983|Urbano|
+35804|Tierra Blanca|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5991|Urbano|
+35805|Pueblo de Santiago|Pueblo|Cuencamé|Durango||35801|10|35801||28|004|5990|Urbano|
+35805|La Plazuela|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5985|Urbano|
+35805|Pirules|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5992|Urbano|
+35806|Barriales|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5993|Urbano|
+35806|Magistral|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5994|Urbano|
+35807|Alamedas|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5995|Urbano|
+35807|Esperanza|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5999|Urbano|
+35807|Educación Especial|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5996|Urbano|
+35807|Lomas|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5998|Urbano|
+35807|Lomita|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5997|Urbano|
+35810|Velardeña Centro|Colonia|Cuencamé|Durango||35801|10|35801||09|004|1737|Rural|
+35813|Las Cuadras|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5986|Urbano|
+35813|Las Palmas|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5987|Urbano|
+35813|El Ranchito|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5981|Urbano|
+35814|La Perla|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5984|Urbano|
+35814|Las Playas|Colonia|Cuencamé|Durango||35801|10|35801||09|004|5988|Urbano|
+35815|Las Mercedes|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1744|Rural|
+35815|Veinte Amigos|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1742|Rural|
+35815|Agua Vieja|Zona federal|Cuencamé|Durango||35801|10|35801||34|004|1730|Rural|
+35816|Providencia|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1739|Rural|
+35817|Pedreceña (Estación Pedreceña)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1741|Rural|
+35817|Los Cuatillos (Hacienda de Pedriceña)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1736|Rural|
+35817|Asarco|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1743|Rural|
+35817|Marqueseña|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1738|Rural|
+35817|El Crucero (Crucero Pedriceña)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5232|Rural|
+35817|Gaby|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5246|Rural|
+35820|12 de Diciembre (Sombreretillo)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1749|Rural|
+35820|Crucero de Simón Bolívar|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5224|Rural|
+35820|Comedor el Puerto|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5221|Rural|
+35820|Comedor las Palomas|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5222|Rural|
+35820|San José de Pajaritos|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5275|Rural|
+35823|Las Enramadas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5258|Rural|
+35823|La Lagunilla|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1752|Rural|
+35823|Cerrito Colorado (Santa Eulalia)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1751|Rural|
+35824|La Cureña de Arriba|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5248|Rural|
+35824|La Cureña de Abajo|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1732|Rural|
+35825|San Diego de Arriba|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5268|Rural|
+35826|San Diego de Abajo|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5267|Rural|
+35826|Torrecillas|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1746|Rural|
+35826|Vinata San Antonio|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5280|Rural|
+35827|Las Alechuzas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5256|Rural|
+35827|Los Vallecillos|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5264|Rural|
+35827|Vista Hermosa|Congregación|Cuencamé|Durango||35801|10|35801||11|004|1747|Rural|
+35830|San Pedro de Ocuila|Pueblo|Cuencamé|Durango||35801|10|35801||28|004|1735|Rural|
+35830|El Carrizal|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5230|Rural|
+35830|El Nogalito|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5236|Rural|
+35830|Los Altares|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5262|Rural|
+35830|Mangas Cuatas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5265|Rural|
+35830|El Huizache|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5234|Rural|
+35830|El Aguajito|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5228|Rural|
+35830|Santa Cruz de la Cuchilla|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1734|Rural|
+35830|El Aguaje|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5227|Rural|
+35830|El Pedregal|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5237|Rural|
+35830|Cerro Gordo|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5218|Rural|
+35833|Las Cuevas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5257|Rural|
+35833|San Antonio del Ojo Seco|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1750|Rural|
+35834|El Tanque|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1729|Rural|
+35834|Corredor Comercial (Comedor la Vivienda)|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5223|Rural|
+35834|La Vinata|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5253|Rural|
+35834|El Ranchito|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5242|Rural|
+35834|Cuatro Hermanos|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5225|Rural|
+35834|San José de la Peña|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5274|Rural|
+35835|Pasaje|Estación|Cuencamé|Durango||35801|10|35801||16|004|1728|Rural|
+35835|La Fe|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1727|Rural|
+35835|El Poblano|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5240|Rural|
+35835|El Tajo|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5243|Rural|
+35837|La Majada (Las Lomitas)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5252|Rural|
+35837|Santa Bárbara|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5277|Rural|
+35837|La Vinata de los Tres Reyes|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5254|Rural|
+35840|Estación Progreso|Estación|Cuencamé|Durango||34721|10|34721||16|004|1758|Rural|
+35840|Colonia Oriente|Ejido|Cuencamé|Durango||34721|10|34721||15|004|1763|Rural|
+35840|El Chaparral|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5231|Rural|
+35840|El Mezquite Mocho (Los Muro)|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5235|Rural|
+35840|Dolores|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5226|Rural|
+35840|San Francisco|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5269|Rural|
+35844|El Ranchito|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5241|Rural|
+35846|Cía. Ganadera Atotonilco Soc. Coop.|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|5219|Rural|
+35847|La Virgen|Ranchería|Cuencamé|Durango||34721|10|34721||29|004|1753|Rural|
+35847|Estancia de Santiago|Ranchería|Cuencamé|Durango||34721|10|34721||29|004|1754|Rural|
+35847|Cerro de Santiago|Ejido|Cuencamé|Durango||34721|10|34721||15|004|1755|Rural|
+35847|Colonia Chapala|Colonia|Cuencamé|Durango||34721|10|34721||09|004|1756|Rural|
+35847|Colonia San Carlos (La Esparceña)|Colonia|Cuencamé|Durango||34721|10|34721||09|004|5220|Rural|
+35850|Cuauhtémoc|Pueblo|Cuencamé|Durango||34702|10|34702||28|004|1764|Rural|
+35853|Pedro Vélez|Ejido|Cuencamé|Durango||34721|10|34721||15|004|1777|Rural|
+35853|San José de los García|Ranchería|Cuencamé|Durango||34721|10|34721||29|004|1770|Rural|
+35853|Santa Elena (Los Barrón)|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5278|Rural|
+35853|La Purísima|Pueblo|Cuencamé|Durango||34721|10|34721||28|004|1740|Rural|
+35854|San José de Nazareno|Ranchería|Cuencamé|Durango||34721|10|34721||29|004|1768|Rural|
+35854|5 de Mayo (San Ángel)|Ejido|Cuencamé|Durango||34721|10|34721||15|004|1766|Rural|
+35854|San Martín|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5276|Rural|
+35856|Emiliano Zapata|Pueblo|Cuencamé|Durango||34721|10|34721||28|004|1765|Rural|
+35856|El Borruel|Ejido|Cuencamé|Durango||34721|10|34721||15|004|5229|Rural|
+35856|Héroes de Chapultepec (San Sebastián)|Ejido|Cuencamé|Durango||34721|10|34721||15|004|1767|Rural|
+35857|Los Azulitos|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5263|Rural|
+35857|Bajío del Simental|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5217|Rural|
+35857|El Tiro|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5244|Rural|
+35857|La Esperanza (La Rosita)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5250|Rural|
+35857|La Granja|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5251|Rural|
+35860|Laguna de Patos|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5255|Rural|
+35860|El Perú|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5238|Rural|
+35863|La Roca|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1760|Rural|
+35863|San José|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5273|Rural|
+35864|Las Palmas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5259|Rural|
+35864|Las Playas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5260|Rural|
+35864|Pablo Sidar (Tequesquitillo)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|1773|Rural|
+35864|San Agustín|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5266|Rural|
+35864|Yerbabuena|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5281|Rural|
+35865|La Esperanza|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5249|Rural|
+35865|El Herradero|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5233|Rural|
+35865|San José|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5272|Rural|
+35870|El Alamillo|Ejido|Cuencamé|Durango||34702|10|34702||15|004|1771|Rural|
+35870|El Perpetuo Socorro|Ejido|Cuencamé|Durango||34702|10|34702||15|004|5239|Rural|
+35874|Rancho Escobedo (San Carlos)|Ranchería|Cuencamé|Durango||35801|10|35801||29|004|1762|Rural|
+35874|Limas|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5261|Rural|
+35874|Augusto Gómez Villanueva|Pueblo|Cuencamé|Durango||35801|10|35801||28|004|1780|Rural|
+35874|San Isidro de Santa María (San Isidro)|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5271|Rural|
+35874|San Isidro|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5270|Rural|
+35875|San Antonio de los García (Ojo Zarco)|Ejido|Cuencamé|Durango||34702|10|34702||15|004|1774|Rural|
+35875|Ignacio López Rayón|Ranchería|Cuencamé|Durango||34702|10|34702||29|004|1779|Rural|
+35876|Santa Teresa|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5279|Rural|
+35876|La Cruz|Ejido|Cuencamé|Durango||35801|10|35801||15|004|5247|Rural|
+35877|Estanzuela|Ejido|Cuencamé|Durango||34702|10|34702||15|004|5245|Rural|
+35877|Ramón Corona|Pueblo|Cuencamé|Durango||34702|10|34702||28|004|1772|Rural|

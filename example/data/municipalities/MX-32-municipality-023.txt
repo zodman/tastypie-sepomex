@@ -1,0 +1,11 @@
+99960|Cerro La Arena|Fraccionamiento|Juchipila|Zacatecas||99961|32|99961||21|023|1675|Rural|
+99960|San Sebastián|Pueblo|Juchipila|Zacatecas||99961|32|99961||28|023|0744|Rural|
+99960|Juchipila|Pueblo|Juchipila|Zacatecas||99961|32|99961||28|023|0742|Rural|
+99960|Contitlan|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0740|Rural|
+99960|Guadalupe Victoria|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0741|Rural|
+99960|La Quinta|Colonia|Juchipila|Zacatecas||99961|32|99961||09|023|1635|Rural|
+99960|Pueblo Viejo|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0743|Rural|
+99969|Mezquitera|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0746|Rural|
+99970|Remolino|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0747|Rural|
+99974|El Ranchito|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0748|Rural|
+99979|Amazochitl|Ranchería|Juchipila|Zacatecas||99961|32|99961||29|023|0749|Rural|

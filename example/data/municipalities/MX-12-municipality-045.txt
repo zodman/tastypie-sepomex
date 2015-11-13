@@ -1,0 +1,246 @@
+41000|Olinalá Centro|Colonia|Olinalá|Guerrero|Olinalá|41001|12|41001||09|045|2969|Rural|17
+41002|Texalpa|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3840|Rural|17
+41002|San Francisco|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3839|Rural|17
+41002|San Sebastián|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3841|Rural|17
+41003|San José|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3842|Rural|17
+41003|El Paraíso|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3836|Rural|17
+41004|San Isidro|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|4251|Rural|17
+41004|Unidos Por Guerrero|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|4252|Rural|17
+41004|San Diego|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3837|Rural|17
+41004|Tlacomulco|Barrio|Olinalá|Guerrero|Olinalá|41001|12|41001||02|045|3838|Rural|17
+41005|Hijiutepec|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4739|Rural|
+41005|La Libertad|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2978|Rural|
+41005|Rancho Julio Franco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4824|Rural|
+41005|Rancho Rodrigo Gonzaga|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4843|Rural|
+41005|Rancho Victorino Pantaleón|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4848|Rural|
+41005|El Alcanfor|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4720|Rural|
+41005|Olinalá Uno|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4790|Rural|
+41005|La Lobera|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4755|Rural|
+41005|Rancho Carlos Reyes (Cerro de Quiautepec)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4803|Rural|
+41005|Los Cajones|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4781|Rural|
+41005|Xochimilco|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2977|Rural|
+41005|Linda Vista|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4771|Rural|
+41005|Palito Redondo (Hijiotepec)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4791|Rural|
+41005|La Cueva del Chochosco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4748|Rural|
+41005|La Loma Larga|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4759|Rural|
+41005|Los Mangos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4784|Rural|
+41005|Rancho el Consuelo (Eliseo de los Santos)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4812|Rural|
+41005|Rancho los Dionicio (Rancho la Parota)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4832|Rural|
+41005|Rancho Pablo Martínez (Huixotitlán)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4840|Rural|
+41005|Tepexi Blanco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4877|Rural|
+41005|Rancho Escolástico Mondragón|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4817|Rural|
+41005|Tehuaxtitlán|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2970|Rural|
+41005|Ahuachichilco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4688|Rural|
+41005|El Zapote|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4737|Rural|
+41005|Los Atopules|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4780|Rural|
+41005|Los Hornos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4782|Rural|
+41006|Los Tecorrales (Rancho Viejo)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4786|Rural|
+41006|Amatlicha|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2983|Rural|
+41006|Paso de las Culebras|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4795|Rural|
+41006|Tlaltenango|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4883|Rural|
+41006|Zacango|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2975|Rural|
+41006|Loma Bonita|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4773|Rural|
+41006|Tepetitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4876|Rural|
+41007|Rancho Constantino Rodríguez (Tenantzingo)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4805|Rural|
+41007|Rancho los Rosendo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4836|Rural|
+41007|Huixcuautla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4742|Rural|
+41007|Tierra Colorada|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4881|Rural|
+41007|Zacachautipa (Chautipa)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4894|Rural|
+41007|Rancho Justino García|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4826|Rural|
+41007|Rancho Hermelindo Patrón|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4819|Rural|
+41007|Rancho Buena Vista|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4801|Rural|
+41007|Llano Grande|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4772|Rural|
+41007|Tetelcingo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4879|Rural|
+41007|Las Casitas|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4766|Rural|
+41007|Rancho Miguel Diego|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4839|Rural|
+41007|Rancho el Limón|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4814|Rural|
+41007|Vista Hermosa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4890|Rural|
+41010|Temalacacingo|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2979|Rural|
+41013|La Escalera|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4751|Rural|
+41013|Metlatijca|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4788|Rural|
+41013|Rancho Buena Vista|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4802|Rural|
+41013|Rancho Pablo Vázquez|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4841|Rural|
+41013|Colonia Lázaro Cárdenas|Colonia|Olinalá|Guerrero||41001|12|41001||09|045|4703|Rural|
+41013|Las Dos Cruces|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4767|Rural|
+41013|Lomas de Cocoyoc|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4778|Rural|
+41013|Rancho los Aguacates|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4831|Rural|
+41013|San Gabriel|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4855|Rural|
+41013|Duraznotitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4717|Rural|
+41013|El Tenanyo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4735|Rural|
+41013|La Guadalupita|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4753|Rural|
+41013|Rancho Alseseca|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4797|Rural|
+41013|San Antonio Coyahuacán|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2982|Rural|
+41013|Cerro de Ahuacatlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4695|Rural|
+41013|Loma de Mazatepec (Mazatepec)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4774|Rural|
+41013|Rancho Miguel Amaro|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4838|Rural|
+41013|San José Tecomulco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4857|Rural|
+41013|La Ciénega|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4746|Rural|
+41013|La Lobera|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4757|Rural|
+41013|Rancho los Laureles|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4834|Rural|
+41014|Teapan|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4862|Rural|
+41014|Tepozonalco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4878|Rural|
+41014|Tuxtlán (Barranca del Tigre)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4887|Rural|
+41014|Xalatzingo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4892|Rural|
+41014|Santa Cruz Lomalapa (Lomalapa)|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2980|Rural|
+41014|Cuatecomatitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4715|Rural|
+41014|Las Minas (Tlalchichiltipan)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4768|Rural|
+41014|Tecorrales|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4866|Rural|
+41014|Huizachitepec (Casas Blancas)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4743|Rural|
+41014|Chilatlajco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4699|Rural|
+41014|Colonia Benito Juárez|Colonia|Olinalá|Guerrero||41001|12|41001||09|045|4702|Rural|
+41014|Colonia San Pedro|Colonia|Olinalá|Guerrero||41001|12|41001||09|045|4705|Rural|
+41014|Nantzinyo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4789|Rural|
+41014|Shitepec|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4860|Rural|
+41014|Vista Hermosa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4891|Rural|
+41014|Campanario|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4694|Rural|
+41014|Colonia Altamirano|Colonia|Olinalá|Guerrero||41001|12|41001||09|045|4701|Rural|
+41014|Zumpango|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2986|Rural|
+41014|Paraje Chilpancingo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4793|Rural|
+41015|La Presa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4765|Rural|
+41015|San Andrés|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4852|Rural|
+41015|El Progreso (Chupandillo)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|2972|Rural|
+41015|Cuahulotitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4713|Rural|
+41015|Tetlate|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4880|Rural|
+41015|Tlaxco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4885|Rural|
+41015|El Amate del Letrero|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4721|Rural|
+41015|Rancho Llano Grande|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4830|Rural|
+41015|Tzicapotzaltzi|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4888|Rural|
+41015|Viacrucis|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4889|Rural|
+41015|Zontecomatlán|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2981|Rural|
+41015|Cuachichinolco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4712|Rural|
+41015|El Portezuelo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4730|Rural|
+41015|Chichihualcamac (Rancho los Limones)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4698|Rural|
+41015|Los Terrerillos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4787|Rural|
+41015|Sicatlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4861|Rural|
+41015|Tecusiapa (Tecuisiapan)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4868|Rural|
+41015|Tecuzijapan (Tecuisiapan)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4869|Rural|
+41015|Teohuaxtitlán (Tepehuaje)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4874|Rural|
+41015|Cozahuatitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4710|Rural|
+41015|Limontitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4770|Rural|
+41015|Rancho el Mirador|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4815|Rural|
+41015|Colonia Nazareth|Colonia|Olinalá|Guerrero||41001|12|41001||09|045|4704|Rural|
+41015|La Cumbre|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4749|Rural|
+41015|San Felipe Amatitlán (Amatitlán)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4854|Rural|
+41015|Tecolhuitzo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4865|Rural|
+41016|Mextiopam (Mextiopa)|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2973|Rural|
+41016|Axoxuca|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4692|Rural|
+41016|Dos Cruces|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4716|Rural|
+41016|Ocotitlán|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2974|Rural|
+41016|Coyomitla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4708|Rural|
+41016|Rancho Manuel González|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4837|Rural|
+41016|La Ciénega|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4745|Rural|
+41016|Loma del Pitayo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4775|Rural|
+41016|Rancho Juan Rodríguez Mancilla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4823|Rural|
+41016|Rancho el Capadero|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4811|Rural|
+41016|Rancho los Joselitos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4833|Rural|
+41017|Lomas de Tecojcoyunca|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4779|Rural|
+41017|Ahuacatlán|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2987|Rural|
+41017|San José Amoltepec (Amoltepec)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4856|Rural|
+41017|Tecojcoyunca|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4864|Rural|
+41017|Temolzingo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4871|Rural|
+41017|San Lázaro|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4858|Rural|
+41017|Tlahuancatepec|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4882|Rural|
+41017|Cuamanalpan|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4714|Rural|
+41017|Tres Luces|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4886|Rural|
+41020|Atiopan|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4691|Rural|
+41020|La Parota|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4762|Rural|
+41020|Amatitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4690|Rural|
+41020|El Capire|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4722|Rural|
+41020|Cozahuate|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4709|Rural|
+41020|El Papayo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4728|Rural|
+41020|La Pastoría|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4764|Rural|
+41020|Rancho Bacilides Carrasco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4799|Rural|
+41020|Rancho Don Albertano (Barranca de Tío Julián)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4810|Rural|
+41020|Cruz Quemada|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4711|Rural|
+41020|Rancho Zoilo Franco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4850|Rural|
+41020|Tecolapa|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2984|Rural|
+41020|Rancho Leopoldo Apresa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4829|Rural|
+41020|Rancho San Nicolás|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4846|Rural|
+41020|Tenexcalco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4873|Rural|
+41020|Zolocintla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4898|Rural|
+41020|Tepetlacingo|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2985|Rural|
+41020|Iyocingo (Ventanas Iyocingo)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|2988|Rural|
+41020|Rancho del Zapote|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4809|Rural|
+41020|Huixcolotitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4741|Rural|
+41020|La Escondida (El Bordo)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4752|Rural|
+41020|Zacamolica|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4895|Rural|
+41023|Rancho Tlaxicalteyo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4847|Rural|
+41023|Rancho Alfonso Apresa (El Alcanfor)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4796|Rural|
+41023|Rancho Daniel Reyes II|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4807|Rural|
+41023|Rancho Francisco Estrada|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4818|Rural|
+41023|Ahuitlapilco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4689|Rural|
+41023|Rancho Carmelo Alonso|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4804|Rural|
+41023|Los Mangos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4785|Rural|
+41023|Rancho Emilio Guevara (Rancho el Zopilote)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4816|Rural|
+41023|Rancho Julián Alonso|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4825|Rural|
+41023|Everardo Torres Patrón|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4738|Rural|
+41023|La Huamuchilera|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4754|Rural|
+41023|Rancho Daniel Reyes|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4806|Rural|
+41023|Rancho Leonides|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4828|Rural|
+41023|Tepeoleolco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4875|Rural|
+41024|Chichicastitlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4697|Rural|
+41024|Zompepelco|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4899|Rural|
+41024|La Encinera (Los Terreros)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4750|Rural|
+41024|Colotiopa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4706|Rural|
+41024|Rancho la Esperanza (El Crucero de Teticic)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4827|Rural|
+41024|Rancho Saúl Acevedo (El Paraje)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4845|Rural|
+41024|Zompepelco Uno (Rancho Viejo)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4900|Rural|
+41024|Barranca el Tanque|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4693|Rural|
+41024|Rancho Bonito|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4800|Rural|
+41024|Rancho los Nachitos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4835|Rural|
+41024|Loma del Zopilote|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4776|Rural|
+41024|Rancho el Coyotomate|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4813|Rural|
+41025|Palos Blancos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4792|Rural|
+41025|Agua Zarca (Zompeltzin)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4687|Rural|
+41025|El Carrizo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4723|Rural|
+41025|Teticic|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2993|Rural|
+41025|El Costeño|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4725|Rural|
+41025|La Pastoría|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4763|Rural|
+41025|Rancho de la Pila|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4808|Rural|
+41025|Tencoyahuatlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4872|Rural|
+41025|Zolapa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4897|Rural|
+41025|Tomatepec|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2991|Rural|
+41025|El Tejón|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4734|Rural|
+41025|Loma Larga (El Lambedero)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4777|Rural|
+41025|Xotla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4893|Rural|
+41025|Tecorrales de las Minas (Tecorrales)|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2989|Rural|
+41025|Chautipa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4696|Rural|
+41025|La Lobera|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4756|Rural|
+41025|Las Pilas|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4769|Rural|
+41025|Tehuixtla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4870|Rural|
+41025|El Plan|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4729|Rural|
+41026|Ciruelo Amarillo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4700|Rural|
+41026|Zacualpa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4896|Rural|
+41026|El Refugio|Pueblo|Olinalá|Guerrero||41001|12|41001||28|045|2992|Rural|
+41026|El Cuahuesquite|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4726|Rural|
+41026|El Cuajilote|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4727|Rural|
+41026|El Tamarindo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4732|Rural|
+41027|El Terrero|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4736|Rural|
+41027|Huilotlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4740|Rural|
+41027|La Montañita|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4760|Rural|
+41027|Rancho Hermelindo Patrón (El Organito)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4820|Rural|
+41027|El Reparo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4731|Rural|
+41027|Rancho Viejo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4849|Rural|
+41027|Rancho Zoquiapa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4851|Rural|
+41027|Coyú|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4707|Rural|
+41027|El Aguacate|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4718|Rural|
+41027|La Loma del Cuauayote|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4758|Rural|
+41027|Rancho Rómulo Andreu (El Totole)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4842|Rural|
+41027|La Parota|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4761|Rural|
+41027|Rancho Antonio Alonso Apresa|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4798|Rural|
+41027|Tlanitzingo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4884|Rural|
+41027|Xixila|Campamento|Olinalá|Guerrero||41001|12|41001||04|045|2990|Rural|
+41027|San Diego|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4853|Rural|
+41028|El Conhuehue|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4724|Rural|
+41028|Paraje de las Palomas|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4794|Rural|
+41028|Rancho Rogelio Andreu|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4844|Rural|
+41028|Tecoyahuatlán|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4867|Rural|
+41028|La Coronilla|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4747|Rural|
+41028|El Tecorral|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4733|Rural|
+41028|Santa Gertrudis (La Colonia)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4859|Rural|
+41028|El Ahuaje del Amate Amarillo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4719|Rural|
+41028|Tecalquillo|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4863|Rural|
+41028|La Cañada|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4744|Rural|
+41028|Los Laureles (El Cuauayote)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4783|Rural|
+41028|Rancho Huauxi (Rancho Ramiro Andreu)|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4821|Rural|
+41028|Rancho Juan de los Santos|Ranchería|Olinalá|Guerrero||41001|12|41001||29|045|4822|Rural|

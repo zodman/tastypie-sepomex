@@ -1,0 +1,38 @@
+42120|La Sierra|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5840|Urbano|
+42120|Lo de Sánchez|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5839|Urbano|
+42120|El Calvario|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5837|Urbano|
+42120|Mineral del Chico Centro|Colonia|Mineral del Chico|Hidalgo||42001|13|42001||09|038|0216|Urbano|
+42120|Longinos|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5838|Urbano|
+42122|Los Ocotes|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5843|Rural|
+42122|La Gran Campaña|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5851|Rural|
+42122|El Puente|Poblado comunal|Mineral del Chico|Hidalgo||42001|13|42001||27|038|5850|Rural|
+42122|La Presa|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|2035|Rural|
+42122|Plan Grande|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5859|Rural|
+42123|Tierras Coloradas|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5867|Rural|
+42123|Llano de los Ajos|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5855|Rural|
+42123|Loma del Maguey|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5856|Rural|
+42123|Pie de la Viga|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|0217|Rural|
+42123|San Sebastián Capulines|Pueblo|Mineral del Chico|Hidalgo||42001|13|42001||28|038|0218|Rural|
+42124|Las Piletas|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5854|Rural|
+42124|La Palma|Poblado comunal|Mineral del Chico|Hidalgo||42001|13|42001||27|038|5853|Rural|
+42124|Tepozanes|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5844|Rural|
+42124|Los Naranjos|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5857|Rural|
+42124|Cebadas|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5846|Rural|
+42124|La Laguna (Carboneras)|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5852|Rural|
+42124|La Mesa (Carboneras)|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5861|Rural|
+42124|Bandola|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5841|Rural|
+42124|Cueva Blanca (Carboneras)|Poblado comunal|Mineral del Chico|Hidalgo||42001|13|42001||27|038|5860|Rural|
+42124|Carboneras|Pueblo|Mineral del Chico|Hidalgo||42001|13|42001||28|038|0214|Rural|
+42125|Capula|Pueblo|Mineral del Chico|Hidalgo||42001|13|42001||28|038|0219|Rural|
+42125|Cerro Alto|Pueblo|Mineral del Chico|Hidalgo||42001|13|42001||28|038|5847|Rural|
+42125|El Jaspe|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5849|Rural|
+42125|Manzanas (Barrio de Manzanas)|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5858|Rural|
+42125|Santa Inés|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5865|Rural|
+42125|San Simón lo de Rojas|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5864|Rural|
+42125|San Francisco|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5863|Rural|
+42125|Cimbrones|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5848|Rural|
+42125|San Antonio el Llano|Ranchería|Mineral del Chico|Hidalgo||42001|13|42001||29|038|5862|Rural|
+42127|Benito Juárez|Poblado comunal|Mineral del Chico|Hidalgo||42001|13|42001||27|038|5845|Rural|
+42127|La Estanzuela|Pueblo|Mineral del Chico|Hidalgo||42001|13|42001||28|038|0215|Rural|
+42127|La Laguna (La Estanzuela)|Barrio|Mineral del Chico|Hidalgo||42001|13|42001||02|038|5842|Rural|
+42127|San José Capulines|Pueblo|Mineral del Chico|Hidalgo||42001|13|42001||28|038|0220|Rural|

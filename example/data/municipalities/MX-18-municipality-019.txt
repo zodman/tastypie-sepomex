@@ -1,0 +1,49 @@
+63580|La Yesca|Villa|La Yesca|Nayarit||63001|18|63001||32|019|0467|Rural|
+63582|San Juan Ixtapalapa|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1091|Rural|
+63582|San Pelayo|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1301|Rural|
+63583|Mesa de los Saucedos|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1125|Rural|
+63583|La Cofradía|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0470|Rural|
+63583|Las Higueras|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1302|Rural|
+63583|Popota|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1852|Rural|
+63583|El Izote|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0469|Rural|
+63583|Los Suspiros|Rancho|La Yesca|Nayarit||63001|18|63001||48|019|0018|Rural|
+63584|El Jirón|Poblado comunal|La Yesca|Nayarit||63001|18|63001||27|019|1197|Rural|
+63584|El Limón|Rancho|La Yesca|Nayarit||63001|18|63001||48|019|0022|Rural|
+63584|El Carrizal|Poblado comunal|La Yesca|Nayarit||63001|18|63001||27|019|1300|Rural|
+63584|Amatlán de Jora|Pueblo|La Yesca|Nayarit||63001|18|63001||28|019|0472|Rural|
+63584|Ambas Aguas|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0473|Rural|
+63584|La Ciénega|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1119|Rural|
+63584|El Pinal|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0008|Rural|
+63586|Palmillas|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0015|Rural|
+63586|La Playa|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1117|Rural|
+63586|La Piedra Picada|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0001|Rural|
+63586|El Carrizal|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0006|Rural|
+63586|La Guasimera|Poblado comunal|La Yesca|Nayarit||63001|18|63001||27|019|1207|Rural|
+63586|Guanacaste|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1120|Rural|
+63586|La Cuchilla|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1121|Rural|
+63586|La Ciénega|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0017|Rural|
+63586|La Palmita|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1174|Rural|
+63587|La Cueva Blanca|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1850|Rural|
+63587|Cortapico|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0468|Rural|
+63587|El Pinole|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1106|Rural|
+63587|Apozolco|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0471|Rural|
+63587|Los Encantos|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1851|Rural|
+63590|Puente de Camotlán|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0474|Rural|
+63590|Batallón|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0014|Rural|
+63593|El Jazmín|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0012|Rural|
+63593|Mesa del Tirador|Pueblo|La Yesca|Nayarit||63001|18|63001||28|019|0003|Rural|
+63594|La Manga|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0007|Rural|
+63594|El Trapiche|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0475|Rural|
+63595|Las Jaras|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0010|Rural|
+63595|Huajimic|Pueblo|La Yesca|Nayarit||63001|18|63001||28|019|0476|Rural|
+63595|Buenavista|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|1212|Rural|
+63596|Guadalupe Ocotán|Ejido|La Yesca|Nayarit||63001|18|63001||15|019|0002|Rural|
+63596|Ocota de la Sierra|Pueblo|La Yesca|Nayarit||63001|18|63001||28|019|0004|Rural|
+63596|El Mirador|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0013|Rural|
+63596|Tierra Amarilla|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0016|Rural|
+63596|Mesa de Chapalilla|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0005|Rural|
+63596|Nueva|Colonia|La Yesca|Nayarit||63001|18|63001||09|019|0009|Rural|
+63596|El Mezquite|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0019|Rural|
+63596|Las Palomas|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0020|Rural|
+63596|La Mesa|Rancho|La Yesca|Nayarit||63001|18|63001||48|019|0021|Rural|
+63596|Cebolletas (El Maguey)|Ranchería|La Yesca|Nayarit||63001|18|63001||29|019|0011|Rural|

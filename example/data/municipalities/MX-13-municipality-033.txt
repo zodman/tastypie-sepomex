@@ -1,0 +1,16 @@
+43190|Juárez Centro|Colonia|Juárez Hidalgo|Hidalgo||43207|13|43207||09|033|1405|Urbano|
+43191|San Lorenzo Itztacoyotla|Pueblo|Juárez Hidalgo|Hidalgo||43207|13|43207||28|033|1407|Rural|
+43191|Santa María|Pueblo|Juárez Hidalgo|Hidalgo||43207|13|43207||28|033|1408|Rural|
+43192|San Nicolás Coatzontla|Pueblo|Juárez Hidalgo|Hidalgo||43207|13|43207||28|033|1409|Rural|
+43193|Buena Vista|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4858|Urbano|
+43193|La Fuente|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4855|Urbano|
+43194|Las Carreras|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4857|Urbano|
+43194|La Laguna|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4859|Urbano|
+43194|La Cruz|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4856|Urbano|
+43194|Itzmolintla|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4854|Urbano|
+43194|Bajio|Barrio|Juárez Hidalgo|Hidalgo||43207|13|43207||02|033|4860|Urbano|
+43195|Hernández (Xochipila)|Ranchería|Juárez Hidalgo|Hidalgo||43207|13|43207||29|033|4862|Rural|
+43195|Zoquilquiza|Ranchería|Juárez Hidalgo|Hidalgo||43207|13|43207||29|033|4865|Rural|
+43196|Tlalostoteno|Ranchería|Juárez Hidalgo|Hidalgo||43207|13|43207||29|033|4863|Rural|
+43196|Tonalixco|Ranchería|Juárez Hidalgo|Hidalgo||43207|13|43207||29|033|4864|Rural|
+43197|Los Tejocotes|Ranchería|Juárez Hidalgo|Hidalgo||43207|13|43207||29|033|4861|Rural|

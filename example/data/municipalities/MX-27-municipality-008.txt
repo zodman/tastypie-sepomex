@@ -1,0 +1,242 @@
+86400|Avenida de La Juventud|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1419|Semiurbano|13
+86400|Huimanguillo|Ejido|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||15|008|1128|Semiurbano|13
+86400|Huimanguillo Centro|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|0268|Semiurbano|13
+86400|Nuevo Centro de Convivencia|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1054|Semiurbano|13
+86400|5 de Mayo|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1061|Semiurbano|13
+86400|Mastelero|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1445|Semiurbano|13
+86400|Pedro C Colorado|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1209|Semiurbano|13
+86400|Jardines de Mezcalapa|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1962|Semiurbano|13
+86400|Los Angeles|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1179|Semiurbano|13
+86400|Comisión Federal de Electricidad|Unidad habitacional|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||31|008|1417|Semiurbano|13
+86400|Los Frutales|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1963|Semiurbano|13
+86400|Guadalupe|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1123|Semiurbano|13
+86400|Pueblo Nuevo|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1416|Semiurbano|13
+86400|General Francisco Villa Poblado C 31|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1446|Semiurbano|13
+86400|Club Liberal|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1063|Semiurbano|13
+86400|La Ceiba (infonavit)|Unidad habitacional|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||31|008|1418|Semiurbano|13
+86400|Magisterial|Colonia|Huimanguillo|Tabasco|Huimanguillo|86401|27|86401||09|008|1964|Semiurbano|13
+86402|Paso y Playa|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2327|Rural|
+86402|Río Seco y Montaña 3ra Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2629|Rural|
+86402|Francisco Trujillo Gurria|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0280|Rural|
+86402|Río Seco y Montaña 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2328|Rural|
+86402|Ocuapan|Pueblo|Huimanguillo|Tabasco||86401|27|86401||28|008|0273|Rural|
+86402|Tecominoacan|Pueblo|Huimanguillo|Tabasco||86401|27|86401||28|008|0277|Rural|
+86402|Rio Seco y Montaña 2da Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0282|Rural|
+86402|Carlos A Madrazo Poblado C 41|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0283|Rural|
+86402|Monte de Oro 1a Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0272|Rural|
+86402|Mecatepec|Pueblo|Huimanguillo|Tabasco||86401|27|86401||28|008|0271|Rural|
+86403|Paso de la Mina 3ra. Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2409|Rural|
+86403|San Fernando|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0276|Rural|
+86403|El Suspiro|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2333|Rural|
+86403|C- 34 Lic. Benito Juárez García|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0285|Rural|
+86403|Los Naranjos 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0286|Rural|
+86403|Paso de La Mina 2da Sección (Barrial)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2503|Rural|
+86403|C-26 (General Pedro C. Colorado)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0287|Rural|
+86404|Arboledas|Colonia|Huimanguillo|Tabasco||86501|27|86501||09|008|1733|Urbano|
+86404|Las Galaxias|Colonia|Huimanguillo|Tabasco||86501|27|86501||09|008|1830|Urbano|
+86406|Macayo y Naranjo 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0290|Rural|
+86406|El Desecho Playa 2da Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2557|Rural|
+86406|Los Naranjos 3ra Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2583|Rural|
+86406|El Desecho 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0265|Rural|
+86406|Libertad|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0269|Rural|
+86406|Macayo y Naranjo 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2324|Rural|
+86406|El Desecho 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0264|Rural|
+86406|Limoncitos|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2326|Rural|
+86406|Los Naranjos 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0270|Rural|
+86406|Otra Banda 1ra. Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0291|Rural|
+86407|Tierra Nueva 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0278|Rural|
+86407|Laguna de los Limones|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0292|Rural|
+86407|Villa Flores 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2316|Rural|
+86407|El Puente|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0266|Rural|
+86407|Tierra Nueva 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0279|Rural|
+86407|Guiral y Gonzalez 1a Secc|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0267|Rural|
+86407|Ostiatán 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2315|Rural|
+86407|Samaria|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2506|Rural|
+86409|Otra Banda 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0274|Rural|
+86409|Otra Banda 3a Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|1760|Rural|
+86410|Ernesto Aguirre|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2331|Rural|
+86410|C-32|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2332|Rural|
+86410|Monte de Oro 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2330|Rural|
+86410|Pejelagartero|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0297|Rural|
+86410|El Puente 2a|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2329|Rural|
+86411|Pico de Oro 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0299|Rural|
+86411|Pico de Oro 3a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0301|Rural|
+86412|La Esperanza|Congregación|Huimanguillo|Tabasco||86401|27|86401||11|008|0303|Rural|
+86413|Galeana 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2384|Rural|
+86413|Luis Cabrera|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2386|Rural|
+86413|La Ceiba 2da Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2574|Rural|
+86413|La Ceiba|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0304|Rural|
+86413|La Ceiba 1ra. Sección (Ruiz Cortínes)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2385|Rural|
+86414|Cuauhtémoc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2401|Rural|
+86414|Zapotal 5ta. Sección|Pueblo|Huimanguillo|Tabasco||86401|27|86401||28|008|0002|Rural|
+86414|Palo Mulato|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2397|Rural|
+86414|Zapotal 4ta Sección (Zapotalito)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2494|Rural|
+86414|Zapotal 1ra. Sección (San Miguel)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0307|Rural|
+86414|El Palmar|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2398|Rural|
+86415|Pejelagartero 1ra. Sección (Los Pinos)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0296|Rural|
+86415|Emiliano Zapata|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2292|Rural|
+86415|Pejelagartero 1ra Sección (El Filero)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2650|Rural|
+86415|Pejelagartero 1ra. Sección (El Arroyito)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2647|Rural|
+86415|Pejelagartero 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0298|Rural|
+86415|Pejelagartero 1ra. Sección (Nuevo Progreso)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2533|Semiurbano|
+86415|Pejelagartero 1ra Sección (Chichonal)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2580|Rural|
+86415|C-25 (Isidro Cortés Rueda)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0305|Rural|
+86415|Zapotal 3ra Sección (El Corchal)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2534|Rural|
+86415|Benito Juárez|Colonia|Huimanguillo|Tabasco||86401|27|86401||09|008|2373|Semiurbano|
+86416|Zanapa 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0309|Rural|
+86417|Blasillo 3a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2375|Rural|
+86417|La Trinidad|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2378|Rural|
+86417|Benito Juárez 2da. Sección (Monte Alegre)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0001|Rural|
+86417|Blasillo 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2374|Rural|
+86417|Blasillo 4a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2376|Rural|
+86417|Blasillo 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0302|Rural|
+86418|Aquiles Serdán 1ra. Sección|Ranchería|Huimanguillo|Tabasco||86419|27|86419||29|008|2381|Rural|
+86418|El Paraíso|Ranchería|Huimanguillo|Tabasco||86419|27|86419||29|008|2383|Rural|
+86418|La Venta|Villa|Huimanguillo|Tabasco||86419|27|86419||32|008|0295|Rural|
+86418|El Emporio|Ranchería|Huimanguillo|Tabasco||86419|27|86419||29|008|2379|Rural|
+86418|Ruborosa|Colonia|Huimanguillo|Tabasco||86419|27|86419||09|008|1430|Rural|
+86418|El Piojo|Colonia|Huimanguillo|Tabasco||86419|27|86419||09|008|1431|Rural|
+86418|Aquiles Serdán 2da. Sección (Azucenita)|Ranchería|Huimanguillo|Tabasco||86419|27|86419||29|008|2380|Rural|
+86418|El Salvamento|Colonia|Huimanguillo|Tabasco||86419|27|86419||09|008|1427|Rural|
+86418|Francisco I Madero|Colonia|Huimanguillo|Tabasco||86419|27|86419||09|008|1428|Rural|
+86418|Sebastián Torres R|Colonia|Huimanguillo|Tabasco||86419|27|86419||09|008|1429|Rural|
+86418|Nueva Esperanza|Colonia|Huimanguillo|Tabasco||86419|27|86419||09|008|1432|Rural|
+86418|Industrias Quimicas|Ranchería|Huimanguillo|Tabasco||86419|27|86419||29|008|2382|Rural|
+86420|Central Fournier 1ra. Sección (El Coleto)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0311|Rural|
+86420|Francisco Rueda|Pueblo|Huimanguillo|Tabasco||86401|27|86401||28|008|0312|Rural|
+86420|3 Bocas 1ra Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0317|Rural|
+86420|El Nopalito|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2393|Rural|
+86420|La Colmena|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2390|Rural|
+86420|El Cocoite|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2391|Rural|
+86420|Hermanos Fuentes|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2389|Rural|
+86420|El Chapo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2388|Rural|
+86421|Huapacal 1a Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0313|Rural|
+86421|Monte de Oro 3a Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0315|Rural|
+86422|Ignacio Gutiérrez 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0318|Rural|
+86423|Ignacio Gutiérrez 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2402|Rural|
+86423|Huapacal 4a Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2621|Rural|
+86423|Huapacal 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2400|Rural|
+86423|Los Cocos|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2407|Rural|
+86423|Laguna del Rosario|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2508|Rural|
+86423|Zanapa 2a Secc|Estación|Huimanguillo|Tabasco||86401|27|86401||16|008|0319|Rural|
+86423|Santa Lucía|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2394|Rural|
+86423|Ignacio Gutiérrez 3a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2403|Rural|
+86423|Ignacio Gutiérrez 4a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2404|Rural|
+86424|La Mina|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2365|Rural|
+86424|Gaytan|Estación|Huimanguillo|Tabasco||86401|27|86401||16|008|0320|Rural|
+86424|Central Fournier 2da. Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2406|Rural|
+86424|San Benito|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2353|Rural|
+86424|Cañón Moctezuma|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2356|Rural|
+86424|Díez de Abril|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2352|Rural|
+86424|Morelia|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2358|Rural|
+86425|Bortigos|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2337|Rural|
+86425|Unidad Modelo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2357|Rural|
+86425|Manuel Sanchez Mármol|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2340|Rural|
+86425|Santa Cruz|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2323|Rural|
+86425|El Sacrificio|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2341|Rural|
+86426|Francisco Martinez Gaytan|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0322|Rural|
+86426|El Cairo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2295|Rural|
+86426|Corosal|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2306|Rural|
+86426|Torero|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2299|Rural|
+86426|El Bajío|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2308|Rural|
+86426|Santo Licio|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2309|Rural|
+86426|Charito|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2345|Rural|
+86426|Miguel Hidalgo y Costilla|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2301|Rural|
+86426|Don Gustavo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2297|Rural|
+86426|Benito Juárez|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2300|Rural|
+86426|Dos Hermanos|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2304|Rural|
+86426|El Torito|Colonia|Huimanguillo|Tabasco||86401|27|86401||09|008|1091|Semiurbano|
+86426|Paloma|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2298|Rural|
+86426|El Sacrificio|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2296|Rural|
+86427|Campo Real (El Recuerdo)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2342|Rural|
+86427|Loma Alta|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2348|Rural|
+86427|El Guanal|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0321|Rural|
+86427|Nuevo México|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2349|Rural|
+86427|Pedro C. Colorado|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2396|Rural|
+86427|Tito Soria (La Galaxia)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2346|Rural|
+86427|Alto del Oro|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2395|Rural|
+86427|Macavil|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2344|Rural|
+86427|Francisco I. Madero|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2410|Rural|
+86427|El Safiro|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2347|Rural|
+86427|Francisco Villa|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2350|Rural|
+86428|Río Pedregal|Colonia|Huimanguillo|Tabasco||86401|27|86401||09|008|0323|Rural|
+86430|Jose Mercedes Gamas|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0329|Rural|
+86430|San Manuel|Pueblo|Huimanguillo|Tabasco||86401|27|86401||28|008|0330|Rural|
+86430|San Manuel Tenerife|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2660|Rural|
+86430|Chicoacan|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0324|Rural|
+86430|Guadalupe Victoria|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0327|Rural|
+86430|Gilberto Flores Muñoz 1ra Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0326|Rural|
+86430|Pedregal Moctezuma 2da. Sección (Leyva)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2303|Rural|
+86430|Tierra Nueva 3a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0331|Rural|
+86430|Economía|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0325|Rural|
+86430|Pedregal 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2302|Rural|
+86430|Agrícola y Ganadera el Encomendero|Colonia|Huimanguillo|Tabasco||86401|27|86401||09|008|2544|Rural|
+86432|Paso de La Mina|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0275|Rural|
+86432|José María Pino Suárez 2da. Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0332|Rural|
+86432|Estación Zanapa|Paraje|Huimanguillo|Tabasco||86401|27|86401||45|008|0333|Rural|
+86433|Venustiano Carranza|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0334|Rural|
+86433|Tierra Nueva 4ta Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2532|Rural|
+86433|Marcelino Inorrueta de la Fuente|Colonia|Huimanguillo|Tabasco||86401|27|86401||09|008|2318|Rural|
+86433|La Lucha de Huimanguillo|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2643|Rural|
+86434|Paredón 1ra. Sección (El Porvenir)|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2312|Rural|
+86434|Ostiatán|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2314|Rural|
+86434|Paredón 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0335|Rural|
+86434|Paredón 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2313|Rural|
+86434|Las Giraldas|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2311|Rural|
+86434|Ostiatán 3a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2325|Rural|
+86434|Rafael Martinez de Escobar|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|1753|Rural|
+86434|Paredón 2da. Sección (Álvaro Obregón)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2310|Rural|
+86436|El Trébol (La Estrella)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2322|Rural|
+86436|San Antonio|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2335|Rural|
+86436|Encomendero|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0336|Rural|
+86436|Pozo Azul|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2321|Rural|
+86436|Carrizal|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2336|Rural|
+86436|El Complejo|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2598|Rural|
+86436|La Gavia|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2334|Rural|
+86437|Enrique Rodríguez Cano|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2521|Rural|
+86437|Francisco J Santamaria|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0337|Rural|
+86437|José Narciso Rovirosa|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2289|Rural|
+86438|Pedregal Moctezuma 1a Secc|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0338|Rural|
+86440|Estación Chontalpa|Villa|Huimanguillo|Tabasco||86401|27|86401||32|008|0341|Rural|
+86440|La Arena|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0342|Rural|
+86440|Villa Flores 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0343|Rural|
+86440|Alto Amacohíte 3ra. Sección (Kilómetro 32)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0339|Rural|
+86440|Caobanal 1ra. Sección (La Victoria)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0340|Rural|
+86442|Amacohite 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0344|Rural|
+86443|Caobanal 1a|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2293|Rural|
+86443|Francisco Sarabia|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2290|Rural|
+86443|Caobanal 2a|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2294|Rural|
+86443|Jose Maria Morelos y Pavón|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0345|Rural|
+86443|Gregorio Méndez|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2291|Rural|
+86444|Pedregal Moctezuma|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0346|Rural|
+86444|José María Pino Suárez|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2288|Rural|
+86444|Pedregalito|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0347|Rural|
+86444|Amacoite Abajo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2287|Rural|
+86445|Pedregal Moctezuma 2a Secc|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0348|Rural|
+86446|Villa de Guadalupe|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2280|Rural|
+86446|Francisco J. Mujica|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2282|Rural|
+86446|Chimalapa 2da. Sección|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2284|Rural|
+86446|Chimalapa 1ra. Sección|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2564|Rural|
+86446|Carlos A. Madrazo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2283|Rural|
+86446|La Candelaria|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2607|Rural|
+86446|Las Flores|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2279|Rural|
+86446|Gustavo Díaz Ordaz|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2285|Rural|
+86446|Villa Guadalupe 2a|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2281|Rural|
+86447|Mal Paso|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0349|Rural|
+86449|Malpasito|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|0350|Rural|
+86453|La Guadalupe (Cinco Mujeres)|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2371|Rural|
+86453|El Cabrito|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2405|Rural|
+86453|El Pantano|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2372|Rural|
+86454|Tierra Colorada 3a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2369|Rural|
+86454|Salvador Neme Castillo|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2537|Rural|
+86454|Roberto Madrazo Pintado|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2555|Rural|
+86454|La Florida|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2364|Rural|
+86454|Tierra Colorada 2a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2368|Rural|
+86454|Tierra Colorada 1a Secc|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2367|Rural|
+86456|Rancho Nuevo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2359|Rural|
+86456|Licenciado Antonio Zamora Arrioja|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2567|Rural|
+86456|Guarumbo|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2361|Rural|
+86456|El Alvarado|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2362|Rural|
+86456|Nuevo Progreso|Ejido|Huimanguillo|Tabasco||86401|27|86401||15|008|2531|Rural|
+86456|Paso Del Rosario|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|0352|Rural|
+86456|Las Panpas|Ranchería|Huimanguillo|Tabasco||86401|27|86401||29|008|2363|Rural|

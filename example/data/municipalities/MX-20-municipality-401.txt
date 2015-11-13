@@ -1,0 +1,90 @@
+70934|Lázaro Cárdenas|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3225|Semiurbano|
+70934|Santa Maria|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3546|Semiurbano|
+70934|Los Tamarindos|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3226|Semiurbano|
+70934|Lomas Del Puerto|Fraccionamiento|Santa María Colotepec|Oaxaca||71981|20|71981||21|401|3544|Semiurbano|
+70934|Lindavista|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|5297|Urbano|
+70934|Zona Militar|Fraccionamiento|Santa María Colotepec|Oaxaca||71981|20|71981||21|401|3224|Semiurbano|
+70934|Brisas de Zicatela|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3227|Semiurbano|
+70934|Santa Fe|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|4175|Semiurbano|
+70934|Emiliano Zapata|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3228|Semiurbano|
+70934|San Agustín|Fraccionamiento|Santa María Colotepec|Oaxaca||71981|20|71981||21|401|4176|Semiurbano|
+70934|Unidad Ecológica Punta Escondida|Fraccionamiento|Santa María Colotepec|Oaxaca||71981|20|71981||21|401|4189|Semiurbano|
+70934|Zicatela|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|5296|Urbano|
+70934|El Porvenir|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3545|Urbano|
+70934|Marinero|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|3223|Semiurbano|
+70934|Libertad|Colonia|Santa María Colotepec|Oaxaca||71981|20|71981||09|401|5295|Urbano|
+70935|San José el Quequestle|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4794|Rural|
+70935|El Bajo|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4641|Rural|
+70935|Paso Lagarto|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5122|Rural|
+70935|Cerro del Caballo|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5714|Rural|
+70935|Lagunilla|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5734|Rural|
+70935|Los Figueroa|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5736|Rural|
+70935|El Mameyal|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5722|Rural|
+70935|Barrio la Cruz|Barrio|Santa María Colotepec|Oaxaca||71981|20|71981||02|401|5712|Rural|
+70935|El Potrero|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|2527|Rural|
+70935|Paso Limón|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4862|Rural|
+70935|La Obscurana|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5026|Rural|
+70935|Piedras Negras|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5743|Rural|
+70935|Los Sarmiento|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5739|Rural|
+70935|La Nueva Esperanza|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4796|Rural|
+70935|El Tecomate|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5726|Rural|
+70936|El Espino|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5721|Rural|
+70936|Aguaje de la Danta|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5708|Rural|
+70936|Junta del Potrero|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5729|Rural|
+70936|Los Naranjos|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5737|Rural|
+70936|El Camalote|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4791|Rural|
+70936|La Guitarra|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5730|Rural|
+70936|Las Carretas|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4935|Rural|
+70936|La Toma|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5130|Rural|
+70936|Cerro de la Olla|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5713|Rural|
+70936|El Corozal|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4385|Rural|
+70936|El Salitrero|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4795|Rural|
+70936|Mata de Bule|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4941|Rural|
+70936|Corozalito|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5717|Rural|
+70936|El Columpio|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5720|Rural|
+70936|Palma Sola|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5742|Rural|
+70937|Juan Diego|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4298|Rural|
+70937|El Rosedal|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5724|Rural|
+70937|Río Valdeflores|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5748|Rural|
+70937|Los Reyes|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4950|Rural|
+70937|Arroyo Tomatal|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5711|Urbano|
+70937|Rancho Dorado|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5747|Rural|
+70937|San José el Palmar|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5749|Rural|
+70937|Tierra Blanca|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4953|Rural|
+70937|Valdeflores Segunda Sección|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5752|Rural|
+70937|El Rosedalito|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5725|Rural|
+70937|Plataforma|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5744|Rural|
+70937|Santa Elena (El Puertecito)|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4792|Rural|
+70937|Charco Seco|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4793|Rural|
+70937|Arriba|Barrio|Santa María Colotepec|Oaxaca||71981|20|71981||02|401|5294|Urbano|
+70937|Santa Maria Colotepec|Pueblo|Santa María Colotepec|Oaxaca||71981|20|71981||28|401|2526|Rural|
+70937|El Tomatal|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|2530|Rural|
+70937|Abajo|Barrio|Santa María Colotepec|Oaxaca||71981|20|71981||02|401|5293|Urbano|
+70937|Junta de Corrientes|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5728|Rural|
+70937|Valdeflores|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5751|Rural|
+70938|Arroyo del Bajo|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|4405|Rural|
+70938|Aguaje Ramírez|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5710|Rural|
+70938|El Malucano|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|2528|Rural|
+70938|Barra de Navidad|Pueblo|Santa María Colotepec|Oaxaca||71981|20|71981||28|401|4177|Semiurbano|
+70938|Las Garrochas|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4951|Rural|
+70938|Comunidad Ecológica Punta de Zicatela|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5716|Rural|
+70938|Los Vargas|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5740|Rural|
+70938|La Ceiba|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4909|Rural|
+70938|El Banco|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5718|Rural|
+70938|El Porvenir|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5723|Rural|
+70938|Aguaje de León|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5709|Rural|
+70938|Colonia Nuevo Amanecer|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5715|Rural|
+70938|Marinero|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5741|Rural|
+70938|Punta de Zicatela|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5745|Rural|
+70938|Laguna Encantada|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5733|Rural|
+70938|Ventanilla|Congregación|Santa María Colotepec|Oaxaca||71981|20|71981||11|401|2529|Rural|
+70938|Arroyo del Zapote|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|4939|Rural|
+70938|El Camarón|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5719|Rural|
+70938|El Vitonchino|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5727|Rural|
+70938|La Nopalera|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5731|Rural|
+70938|Loma Bonita|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5735|Rural|
+70938|Los Naranjos (Los Naranjos Uno)|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5738|Rural|
+70938|Totolápam|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5750|Rural|
+70938|La Barra de Colotepec|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5005|Rural|
+70938|La Quebradora (La Bomba)|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5732|Rural|
+70938|Quebrantahueso|Ranchería|Santa María Colotepec|Oaxaca||71981|20|71981||29|401|5746|Rural|

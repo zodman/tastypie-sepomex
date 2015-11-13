@@ -1,0 +1,24 @@
+92030|San Isidro|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|2083|Rural|
+92030|San Rafael|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|2090|Rural|
+92030|Ciudad Cuauhtémoc|Ciudad|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||08|133|1224|Rural|
+92030|Barrio Del Cementerio|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|5168|Rural|
+92030|Santa Elena|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|2093|Rural|
+92030|Predio La Fuente|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|5167|Rural|
+92033|Unión Popular|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|0002|Urbano|
+92033|Miguel Alemán|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|2012|Rural|
+92033|California|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|1796|Rural|
+92033|Bellas Artes|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|6529|Rural|
+92033|Margaritas|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|2006|Rural|
+92034|Bugambilias|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|0001|Rural|
+92034|Ojital|Pueblo|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||28|133|1226|Rural|
+92035|Anáhuac|Pueblo|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||28|133|1227|Rural|
+92036|Paciencia y Aguacate (Santa Fe)|Pueblo|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||28|133|1228|Rural|
+92036|La Ladrillera|Ranchería|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||29|133|7370|Rural|
+92036|Kilómetro Veintiuno|Ranchería|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||29|133|7799|Rural|
+92037|Hidalgo|Congregación|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||11|133|1229|Rural|
+92037|Lindavista|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|1971|Rural|
+92037|Mata Redonda|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|2007|Rural|
+92038|Mata de Pedernales|Ranchería|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||29|133|1230|Rural|
+92038|María Quinta de las Nieves|Ejido|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||15|133|6856|Rural|
+92039|Primero de Mayo|Pueblo|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||28|133|1231|Rural|
+92039|Bella Vista|Colonia|Pueblo Viejo|Veracruz de Ignacio de la Llave||92031|30|92031||09|133|7325|Urbano|

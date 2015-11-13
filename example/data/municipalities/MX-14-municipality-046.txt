@@ -1,0 +1,43 @@
+47120|Buenos Aires|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|1770|Rural|18
+47120|Juárez|Colonia|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||09|046|1772|Rural|18
+47120|La Manzanilla|Colonia|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||09|046|1773|Rural|18
+47120|Jalostotitlán Centro|Colonia|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||09|046|1771|Semiurbano|18
+47122|Lomas de La Cañada|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3372|Semiurbano|18
+47123|Cañada de Gómez|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3379|Semiurbano|18
+47123|Las Flores II|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3381|Semiurbano|18
+47123|Las Flores I|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3382|Semiurbano|18
+47123|El Depósito|Colonia|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||09|046|0002|Urbano|18
+47123|La Salve|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3388|Semiurbano|18
+47123|El Santuario|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3375|Semiurbano|18
+47123|El Camposanto|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3373|Semiurbano|18
+47123|La Asuncion|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3374|Semiurbano|18
+47124|Lago Del Sol|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|1774|Semiurbano|18
+47125|Las Lomas|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3392|Semiurbano|18
+47126|Los Cuervitos|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3384|Semiurbano|18
+47126|Plan de los Alvarado|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3383|Semiurbano|18
+47127|El Chubasco|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3390|Semiurbano|18
+47127|Ayuntamiento|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3391|Semiurbano|18
+47127|La Cantera|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3385|Semiurbano|18
+47127|El Sabino|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3378|Semiurbano|18
+47127|El Centinela|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3380|Semiurbano|18
+47127|Plan de La Llave|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3387|Semiurbano|18
+47127|El Cerrito|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3389|Semiurbano|18
+47127|La Pima|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3386|Semiurbano|18
+47128|Lomas Del Valle|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3376|Semiurbano|18
+47128|Solidaridad|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3369|Semiurbano|18
+47128|Lomas Del Realengo|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3393|Semiurbano|18
+47128|El Realengo|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3377|Semiurbano|18
+47129|La Providencia|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3370|Semiurbano|18
+47129|Ricardo Lara|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|1775|Semiurbano|18
+47129|Santo Toribio|Colonia|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||09|046|5315|Urbano|18
+47129|La Rinconada|Fraccionamiento|Jalostotitlán|Jalisco|Jalostotitlán|47121|14|47121||21|046|3371|Semiurbano|18
+47130|San Gaspar de los Reyes (San Gaspar)|Pueblo|Jalostotitlán|Jalisco||47121|14|47121||28|046|1779|Rural|
+47133|Loma de Alba|Ranchería|Jalostotitlán|Jalisco||47121|14|47121||29|046|4556|Rural|
+47133|Paso de la Laja|Ranchería|Jalostotitlán|Jalisco||47121|14|47121||29|046|4448|Rural|
+47133|Santa Maria de La O|Ranchería|Jalostotitlán|Jalisco||47121|14|47121||29|046|1780|Rural|
+47135|Santa Isabel|Congregación|Jalostotitlán|Jalisco||47121|14|47121||11|046|1781|Rural|
+47137|El Bueyero|Rancho|Jalostotitlán|Jalisco||47121|14|47121||48|046|0001|Rural|
+47138|Jerusalén|Ranchería|Jalostotitlán|Jalisco||47121|14|47121||29|046|1778|Semiurbano|
+47138|Santa Ana de Abajo|Congregación|Jalostotitlán|Jalisco||47121|14|47121||11|046|1777|Semiurbano|
+47138|Teocaltitán de Guadalupe|Pueblo|Jalostotitlán|Jalisco||47121|14|47121||28|046|1782|Rural|
+47139|San Nicolás de las Flores|Congregación|Jalostotitlán|Jalisco||47121|14|47121||11|046|1783|Rural|

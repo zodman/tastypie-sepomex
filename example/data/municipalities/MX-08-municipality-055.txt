@@ -1,0 +1,412 @@
+33120|Santa Cruz de Rosales Centro|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|1513|Urbano|
+33120|Acción Nacional|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|5882|Urbano|
+33120|Victor Rosales|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|3302|Rural|
+33120|Tapacolmes|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|5738|Urbano|
+33120|1ro de Mayo|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|7442|Urbano|
+33120|PRI|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|7443|Urbano|
+33120|Benito Juárez|Colonia|Rosales|Chihuahua||33001|08|33001||09|055|7444|Urbano|
+33120|Victor Rosales|Ampliación|Rosales|Chihuahua||33001|08|33001||38|055|3304|Rural|
+33123|Las Delicias|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1511|Rural|
+33123|Aguilar [Granjas Familiares]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7790|Rural|
+33123|Campamento las Vírgenes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7795|Rural|
+33123|Colonia Granjas|Colonia|Rosales|Chihuahua||33134|08|33134||09|055|7803|Rural|
+33123|Don Manuel|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7808|Rural|
+33123|El Durazno|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7825|Rural|
+33123|El Negro José|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7840|Rural|
+33123|Ex-Hacienda Casa Blanca|Hacienda|Rosales|Chihuahua||33134|08|33134||24|055|7869|Rural|
+33123|Granja Andujo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7871|Rural|
+33123|Granja de Fierro (El Delfín)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7872|Rural|
+33123|Granja el Consuelo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7875|Rural|
+33123|Granja San Carlos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7882|Rural|
+33123|Granjas el Capricho|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7884|Rural|
+33123|Guadalupe|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7887|Rural|
+33123|Ladrillera los Portillo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7919|Rural|
+33123|Las Tres P|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7927|Rural|
+33123|Las Vírgenes [Vivero Forestal]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7931|Rural|
+33123|Lobina Negra [Club de Pesca]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7933|Rural|
+33123|Los Chávez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7944|Rural|
+33123|Luz María|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7966|Rural|
+33123|Rancho Benito Juárez (BJ)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7989|Rural|
+33123|Rancho de Carrasco|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8000|Rural|
+33123|Rancho de Matamoros|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8010|Rural|
+33123|Rancho el Ocho|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8041|Rural|
+33123|Rancho los Chávez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8069|Rural|
+33123|Rancho Morales|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8089|Rural|
+33123|San Antonio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8140|Rural|
+33123|San Fermín|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8143|Rural|
+33123|El Gavilán|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7828|Rural|
+33123|El Pantano|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7847|Rural|
+33123|El Potrillo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7855|Rural|
+33123|El Recuerdo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7857|Rural|
+33123|Las Vírgenes [Club Náutico de Pesca]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7929|Rural|
+33123|Los Abuelos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7935|Rural|
+33123|Los Churumbeles|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7946|Rural|
+33123|Los Laureles|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7951|Rural|
+33123|Los Siete Hermanos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7959|Rural|
+33123|Lote Siete Fracción Ocho|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7964|Rural|
+33123|Nicolandia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7972|Rural|
+33123|Rancho Comex|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7996|Rural|
+33123|Rancho de Carrillo|Congregación|Rosales|Chihuahua||33134|08|33134||11|055|8002|Rural|
+33123|Rancho de Fernández|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8004|Rural|
+33123|Rancho de Licón|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8008|Rural|
+33123|Rancho Dos Marías|Congregación|Rosales|Chihuahua||33134|08|33134||11|055|8022|Rural|
+33123|Rancho el Naranjo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8040|Rural|
+33123|Rancho Gallegos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8045|Rural|
+33123|Rancho Marlboro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8085|Rural|
+33123|Rancho Rodríguez Mier|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8104|Rural|
+33123|Rancho Santo Niño|Congregación|Rosales|Chihuahua||33134|08|33134||11|055|8122|Rural|
+33123|Rancho Valdez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8127|Rural|
+33123|Rancho Villa|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8136|Rural|
+33123|San José|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8146|Rural|
+33123|Seis de Enero|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8168|Rural|
+33123|Tres de Enero|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8172|Rural|
+33123|Rancho Llorarás|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|0001|Rural|
+33123|El Bajo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7813|Rural|
+33123|El Milagro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7836|Rural|
+33123|El Nopal|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7842|Rural|
+33123|El Ocotillo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7844|Rural|
+33123|El Olvido|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7845|Rural|
+33123|El Paraje|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7849|Rural|
+33123|El Rinconcito|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7859|Rural|
+33123|El Tecolote|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7862|Rural|
+33123|Granja la Ilusión|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7879|Rural|
+33123|Granjas el Milagro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7885|Rural|
+33123|La Fama|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7904|Rural|
+33123|La Laborcita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7909|Rural|
+33123|Ladrillera el Ancón|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7918|Rural|
+33123|Laniga|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7920|Rural|
+33123|Los Chávez|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|7945|Rural|
+33123|Los Compadres|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7947|Rural|
+33123|Loya|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7965|Rural|
+33123|Paso de Piedra|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7976|Rural|
+33123|Rancho Cecilia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7992|Rural|
+33123|Rancho de Benavente|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7998|Rural|
+33123|Rancho de Flores|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8005|Rural|
+33123|Rancho de López|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8007|Rural|
+33123|Rancho el Esfuerzo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8033|Rural|
+33123|Rancho el Valle|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8043|Rural|
+33123|Rancho la Laguna|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8057|Rural|
+33123|Rancho las Mariposas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8066|Rural|
+33123|San José|Campamento|Rosales|Chihuahua||33134|08|33134||04|055|8149|Rural|
+33123|Santa Cecilia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8157|Rural|
+33123|Santo Niño (Aerofumigadora Santo Niño)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8165|Rural|
+33123|Velsasar Tarango|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8174|Rural|
+33123|Kilómetro Noventa y Nueve|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1520|Rural|
+33123|Benito Juárez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7793|Rural|
+33123|Cristo Rey|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7806|Rural|
+33123|Dos Marías|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7809|Rural|
+33123|Ex-Hacienda Delicias|Hacienda|Rosales|Chihuahua||33134|08|33134||24|055|7870|Rural|
+33123|La Carreta|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7896|Rural|
+33123|La Chatita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7897|Rural|
+33123|La Cruz (Rancho el Llano)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7900|Rural|
+33123|La Esmeralda|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7903|Rural|
+33123|Las Bardas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7921|Rural|
+33123|Los Aguilar|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7937|Rural|
+33123|Los Arcos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7942|Rural|
+33123|Marcelo Magallanes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7967|Rural|
+33123|Rancho Celis|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7993|Rural|
+33123|Rancho de Carrillo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8001|Rural|
+33123|Rancho de Romo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8016|Rural|
+33123|Rancho Dos Marías|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8021|Rural|
+33123|Rancho el Chícharo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8027|Rural|
+33123|Rancho el Fresno|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8034|Rural|
+33123|Rancho el Pinito|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8042|Rural|
+33123|Rancho la Noria|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8059|Rural|
+33123|Rancho los Pinos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8077|Rural|
+33123|Rancho Santa Cecilia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8115|Rural|
+33123|San José de los Coyotes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8150|Rural|
+33123|El Molino|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1509|Rural|
+33123|Rebalse de San Lucas (El Rebalse)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1521|Rural|
+33123|Casa Blanca|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7796|Rural|
+33123|Catorce de Julio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7798|Rural|
+33123|El Ancón|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7812|Rural|
+33123|El Gallo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7827|Rural|
+33123|El Milagro Dos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7837|Rural|
+33123|El Peligro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7852|Rural|
+33123|El Texano|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7864|Rural|
+33123|El Viejito|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7868|Rural|
+33123|Granja Dennys|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7873|Rural|
+33123|Granja Don Benja|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7874|Rural|
+33123|Hermanos Martha|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7889|Rural|
+33123|La Isla|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7907|Rural|
+33123|La Isla de los Chivos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7908|Rural|
+33123|La Vil Chilla|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7917|Rural|
+33123|María del Refugio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7968|Rural|
+33123|Neder|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7971|Rural|
+33123|Punta Diamante [Centro Recreativo Turístico]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7979|Rural|
+33123|Ranchito del Licenciado|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7981|Rural|
+33123|Rancho de Benavente|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|7999|Rural|
+33123|Rancho el Bordo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8026|Rural|
+33123|Rancho la Piedra|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8061|Rural|
+33123|Rancho los Flores|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8070|Rural|
+33123|Rancho los Robledo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8079|Rural|
+33123|Rancho Veintiséis de Enero|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8132|Rural|
+33123|San Andrés (Granja Galván)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8139|Rural|
+33123|San José|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|8147|Rural|
+33123|Skylandia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8169|Rural|
+33123|Tres Hermanos (Don Trini)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8173|Rural|
+33123|El Coyame|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7821|Rural|
+33123|El Mezquite|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7835|Rural|
+33123|El Paraíso|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7850|Rural|
+33123|Granja Guzmán|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7877|Rural|
+33123|Granja Hildas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7878|Rural|
+33123|Granja las Anitas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7880|Rural|
+33123|Granjas de San José|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7883|Rural|
+33123|La Cabaña|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7894|Rural|
+33123|La Cieneguita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7899|Rural|
+33123|La Hacienda [Granjas Campestre]|Hacienda|Rosales|Chihuahua||33134|08|33134||24|055|7906|Rural|
+33123|La Quinta Yirinuque|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7914|Rural|
+33123|Las Tres Lilas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7926|Rural|
+33123|Las Vírgenes [Merendero]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7930|Rural|
+33123|Los Contreras|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7948|Rural|
+33123|Los Gómez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7950|Rural|
+33123|Los Natividad|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7954|Rural|
+33123|Los Nopales|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7956|Rural|
+33123|Los Plebes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7957|Rural|
+33123|Los Vargas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7960|Rural|
+33123|Los Vergelitos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7961|Rural|
+33123|Los Viñedos de Rodríguez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7962|Rural|
+33123|Nueve Milpas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7974|Rural|
+33123|Rancho Alegre|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7985|Rural|
+33123|Rancho Cruz Márquez (Rancho la Esperanza)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7997|Rural|
+33123|Rancho de Payan Marta|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8012|Rural|
+33123|Rancho Don Tomás|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8020|Rural|
+33123|Rancho el Álamo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8023|Rural|
+33123|Rancho el Cien|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8028|Rural|
+33123|Rancho el Mezquite|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8035|Rural|
+33123|Rancho el Mirador|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8038|Rural|
+33123|Rancho José Francisco Carrillo Balderrama|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8051|Rural|
+33123|Rancho los Vega|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8080|Rural|
+33123|Rancho San Francisco (Las Lilas)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8107|Rural|
+33123|Rancho San Isidro|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|8109|Rural|
+33123|San Carlos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8141|Rural|
+33123|San Esteban|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8142|Rural|
+33123|Santa Anita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8155|Rural|
+33123|Santa Cecilia|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|8158|Rural|
+33123|Santa Martha|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8161|Rural|
+33123|Villa Santa Cruz|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8175|Rural|
+33123|La Garita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1510|Rural|
+33123|San Valentín|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1517|Rural|
+33123|Rancho de Ortiz|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1518|Rural|
+33123|Cielo Azul|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7801|Rural|
+33123|El Bajío|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7814|Rural|
+33123|El Brujo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7815|Rural|
+33123|El Corcel|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7819|Rural|
+33123|El Coyote|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7822|Rural|
+33123|El Crustáceo [Club de Pesca]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7823|Rural|
+33123|El Dólar|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7824|Rural|
+33123|El Llano|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7832|Rural|
+33123|El Pistacho|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7854|Rural|
+33123|El Vergel|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7866|Rural|
+33123|Granja el Profe|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7876|Rural|
+33123|Granja Lupita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7881|Rural|
+33123|Granjas Haciendas de Rosales|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7886|Rural|
+33123|La Fortuna|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7905|Rural|
+33123|Las Norias|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7923|Rural|
+33123|Las Vírgenes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7928|Rural|
+33123|Los Dos Puentes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7949|Rural|
+33123|Los Potrillos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7958|Rural|
+33123|Punto Alegre|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7980|Rural|
+33123|Rancho 32-33|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7982|Rural|
+33123|Rancho de Mauro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8011|Rural|
+33123|Rancho de Rigo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8013|Rural|
+33123|Rancho el Durazno|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8031|Rural|
+33123|Rancho el Mimbre|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8036|Rural|
+33123|Rancho el Mimbre|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|8037|Rural|
+33123|Rancho Escondido (La Paz)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8044|Rural|
+33123|Rancho Jurado|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8053|Rural|
+33123|Rancho la Herradura|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8054|Rural|
+33123|Rancho la Manzana|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8058|Rural|
+33123|Rancho Ramírez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8099|Rural|
+33123|Rancho San José|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8110|Rural|
+33123|San José|Congregación|Rosales|Chihuahua||33134|08|33134||11|055|8148|Rural|
+33123|San Rafael|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8153|Rural|
+33123|San Silvano|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8154|Rural|
+33123|Santa Rita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8162|Rural|
+33123|Santos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8166|Rural|
+33123|Yerbabuena|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8177|Rural|
+33123|Orinda|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1516|Rural|
+33123|Agua Nueva|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|5778|Rural|
+33123|El Manantial|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7833|Rural|
+33123|El Milagro Uno|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7838|Rural|
+33123|El Mirador|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7839|Rural|
+33123|El Nopal|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|7843|Rural|
+33123|El Pirata [Restaurante]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7853|Rural|
+33123|El Recuerdo|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|7860|Rural|
+33123|El Vertedero|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7867|Rural|
+33123|Italia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7891|Rural|
+33123|La Luz|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7910|Rural|
+33123|La Osamenta|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7911|Rural|
+33123|Las Galeras|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7922|Rural|
+33123|Lobina Negra [Club de Pesca, Caza y Tiro]|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7932|Rural|
+33123|Loma Linda|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7934|Rural|
+33123|Mi Viejo San Juan|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7970|Rural|
+33123|Pola|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7978|Rural|
+33123|Rancho de Giness|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8006|Rural|
+33123|Rancho de Martha|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8009|Rural|
+33123|Rancho de Rivera|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8014|Rural|
+33123|Rancho de Santiago|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8017|Rural|
+33123|Rancho Dolores Quintana (Rancho Nuevo)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8018|Rural|
+33123|Rancho el Alto|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8025|Rural|
+33123|Rancho San Isidro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8108|Rural|
+33123|Rancho Santa Rita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8118|Rural|
+33123|Rancho Santo Niño|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8121|Rural|
+33123|San Martín|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8151|Rural|
+33123|Santa Eduviges|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8159|Rural|
+33123|Santa Rosa|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8164|Rural|
+33124|La Tinaja|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7915|Rural|
+33124|Villalba (Estación Aforo)|Estación|Rosales|Chihuahua||33001|08|33001||16|055|8176|Rural|
+33124|El Alamillo|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7811|Rural|
+33124|Savonarola|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|8167|Rural|
+33124|El Coronel Viejo|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7820|Rural|
+33125|La Boquilla|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7893|Rural|
+33125|El Saucillo|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7861|Rural|
+33125|La Cueva|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7901|Rural|
+33125|Ojo de la Morita|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7975|Rural|
+33125|San Pedro de Conchos|Pueblo|Rosales|Chihuahua||33001|08|33001||28|055|1522|Rural|
+33125|El Llanito|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7831|Rural|
+33125|El Peñasco|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7851|Rural|
+33125|El Tule de Abajo|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7865|Rural|
+33125|San Miguel|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|8152|Rural|
+33126|Rancho Viejo|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|8133|Rural|
+33126|El Mastranzal|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7834|Rural|
+33126|El Nogal|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7841|Rural|
+33126|San Gabino (El Refugio)|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|8144|Rural|
+33126|Los Cascabeles|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7943|Rural|
+33126|Charco Hondo|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7800|Rural|
+33126|Tranquilino|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|8171|Rural|
+33126|Agua Nueva|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7789|Rural|
+33126|El Callejón|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7817|Rural|
+33126|Los Alamitos|Ranchería|Rosales|Chihuahua||33001|08|33001||29|055|7938|Rural|
+33126|Los Alamitos|Ejido|Rosales|Chihuahua||33001|08|33001||15|055|7939|Rural|
+33127|El Palacio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7846|Rural|
+33127|El Refugio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7858|Rural|
+33127|La Aduana|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7892|Rural|
+33127|Los Alegres de Teherán|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7941|Rural|
+33127|Los Villalobos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7963|Rural|
+33127|Rancho Beto Montes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7991|Rural|
+33127|Rancho Cinco Hermanos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7995|Rural|
+33127|Rancho el Dorado|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8030|Rural|
+33127|Rancho el Mirador|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8039|Rural|
+33127|Rancho Hernández|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8048|Rural|
+33127|Rancho las Nubes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8067|Rural|
+33127|Rancho los Pinabetes (Rancho San Carlos)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8076|Rural|
+33127|Rancho Lucero|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8082|Rural|
+33127|Rancho Luévano|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8084|Rural|
+33127|Rancho Reyes|Congregación|Rosales|Chihuahua||33134|08|33134||11|055|8102|Rural|
+33127|Rancho Santa Teresita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8120|Rural|
+33127|Báscula|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7794|Rural|
+33127|Colonia Eugenio Prado|Colonia|Rosales|Chihuahua||33134|08|33134||09|055|7802|Rural|
+33127|El Papalote (Santa Lucía)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7848|Rural|
+33127|La Palma|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7912|Rural|
+33127|La Trinidad|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7916|Rural|
+33127|Rancho Guadalupe Guillén|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8047|Rural|
+33127|Rancho José|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8050|Rural|
+33127|Rancho Lechuga|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8068|Rural|
+33127|Rancho Peña|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8093|Rural|
+33127|Rancho Polo Hernández (Rancho Rosa María)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8095|Rural|
+33127|Rancho Rebeca|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8100|Rural|
+33127|Rancho Rubio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8105|Rural|
+33127|Rancho Uno Más|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8126|Rural|
+33127|Rancho Valles|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8129|Rural|
+33127|Rancho Vega|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8131|Rural|
+33127|Santa Julia (Las Marraneras)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8160|Rural|
+33127|Barranco Blanco|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|1519|Rural|
+33127|Ejido Nuevo Julimes|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|7810|Rural|
+33127|El Carmen|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7818|Rural|
+33127|Nogalera del Ingeniero Soto|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7973|Rural|
+33127|Rancho Arroyo Escondido|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7987|Rural|
+33127|Rancho Beto García|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7990|Rural|
+33127|Rancho el Cuatro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8029|Rural|
+33127|Rancho José Franco|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8052|Rural|
+33127|Rancho la Herradura|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8055|Rural|
+33127|Rancho los Zapata|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8081|Rural|
+33127|Rancho Marlboro Dos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8087|Rural|
+33127|Rancho Ortíz|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8092|Rural|
+33127|Rancho Rocking|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8103|Rural|
+33127|Rancho Salomón|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8106|Rural|
+33127|Rancho San Martín|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8114|Rural|
+33127|Rancho Santa Elena|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8116|Rural|
+33127|Rancho Valles|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|8130|Rural|
+33127|San Ambrosio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8138|Rural|
+33127|San Isidro (Rancho Ruvalcaba)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8145|Rural|
+33127|Salón Actos (Ampliación Cuarenta y Siete)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|5779|Rural|
+33127|Arizona 2000|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7791|Rural|
+33127|El Cóndor|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7816|Rural|
+33127|Hacienda Bachimba|Hacienda|Rosales|Chihuahua||33134|08|33134||24|055|7888|Rural|
+33127|Los Alazanes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7940|Rural|
+33127|María Isabel (Palo Blanco)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7969|Rural|
+33127|Pedro Contreras|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7977|Rural|
+33127|Rancho Albino|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7984|Rural|
+33127|Rancho Marlboro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8086|Rural|
+33127|Rancho Márquez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8091|Rural|
+33127|Rancho R Quince|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8097|Rural|
+33127|Rancho San José|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8111|Rural|
+33127|Rancho Santa Fe|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8117|Rural|
+33127|Rancho Valencia|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8128|Rural|
+33127|Rancho Vigil (Pozo Número Uno)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8135|Rural|
+33127|Casa Blanca|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|1515|Rural|
+33127|Colonia Teófilo Borunda|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7804|Rural|
+33127|Desponchado San Carlos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7807|Rural|
+33127|El Guadalupano|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7829|Rural|
+33127|Rancho de Emilio|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8003|Rural|
+33127|Rancho el Durazno|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8032|Rural|
+33127|Rancho Goitya|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8046|Rural|
+33127|Rancho las Conchitas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8063|Rural|
+33127|Rancho los Leones|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8073|Rural|
+33127|Rancho Mendoza|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8088|Rural|
+33127|Rancho Pérez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8096|Rural|
+33127|Rancho Santa Rita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8119|Rural|
+33127|Rancho Santos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8123|Rural|
+33127|Rancho Saucito|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8124|Rural|
+33127|Santa Anita|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8156|Rural|
+33127|El Recodo|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7856|Rural|
+33127|El Tesoro|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7863|Rural|
+33127|La Cabaña|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7895|Rural|
+33127|Los Martínez (Reyes Martínez)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7952|Rural|
+33127|Rancho Bachimba|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7988|Rural|
+33127|Rancho de Roberto Soto|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8015|Rural|
+33127|Rancho los Frías|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8071|Rural|
+33127|Rancho los Laureles|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8072|Rural|
+33127|Rancho Ramón Piñón|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8098|Rural|
+33127|Rancho San Marcos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8113|Rural|
+33127|Rancho Sombrerete|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8125|Rural|
+33127|Comunidad el Mirador|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7805|Rural|
+33127|El Fundador|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7826|Rural|
+33127|El Guadalupano|Ejido|Rosales|Chihuahua||33134|08|33134||15|055|7830|Rural|
+33127|La Chivera|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7898|Rural|
+33127|La Quinta Luna|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7913|Rural|
+33127|Las Palmas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7924|Rural|
+33127|Los Acebuches|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7936|Rural|
+33127|Los Márquez (Pozo Número Nueve)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7953|Rural|
+33127|Los Nogales|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7955|Rural|
+33127|Rancho Chávez|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7994|Rural|
+33127|Rancho el Árabe|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8024|Rural|
+33127|Rancho la Ilusión|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8056|Rural|
+33127|Rancho la Trinidad|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8062|Rural|
+33127|Rancho las Dos Moras|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8064|Rural|
+33127|Rancho los Membrillos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8074|Rural|
+33127|Rancho Luisana|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8083|Rural|
+33127|Rancho Perches|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8094|Rural|
+33127|Rancho Vigil|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8134|Rural|
+33127|Rancho Vitolas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8137|Rural|
+33127|Santa Rita de Casia (Ampliación Cuarenta y Dos)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8163|Rural|
+33127|Subía|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8170|Rural|
+33127|Atotonilco|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7792|Rural|
+33127|Casa Blanca Uno|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7797|Rural|
+33127|Centauro del Norte (Peña Blanca)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7799|Rural|
+33127|HJ Tomatera|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7890|Rural|
+33127|La Daniela|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7902|Rural|
+33127|Las Parcelas (Nuevo Amanecer)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7925|Rural|
+33127|Rancho Alatorre|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7983|Rural|
+33127|Rancho Altavista (La Caseta)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|7986|Rural|
+33127|Rancho Don Alfonso|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8019|Rural|
+33127|Rancho Herrera|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8049|Rural|
+33127|Rancho la Palma|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8060|Rural|
+33127|Rancho las Lilas|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8065|Rural|
+33127|Rancho los Palacios (El Gavilán)|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8075|Rural|
+33127|Rancho los Pinos|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8078|Rural|
+33127|Rancho Morales|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8090|Rural|
+33127|Rancho Reyes|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8101|Rural|
+33127|Rancho San Juan|Ranchería|Rosales|Chihuahua||33134|08|33134||29|055|8112|Rural|
+33128|Ortíz|Pueblo|Rosales|Chihuahua||33134|08|33134||28|055|0002|Urbano|

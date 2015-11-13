@@ -1,0 +1,17 @@
+75060|Saltillo|Pueblo|Lafragua|Puebla||75041|21|75041||28|093|2050|Rural|
+75063|San Isidro|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7926|Rural|
+75063|Cuauhtémoc|Pueblo|Lafragua|Puebla||75041|21|75041||28|093|2047|Rural|
+75063|Francisco I. Madero (El Sabinal)|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|2053|Rural|
+75065|González Ortega|Pueblo|Lafragua|Puebla||75041|21|75041||28|093|2054|Rural|
+75065|Zotoltepec|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7924|Rural|
+75065|Las Pastorías Zotoltepec|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7927|Rural|
+75065|Buenos Aires (Cinco de Mayo)|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7928|Rural|
+75065|La Ermita|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7930|Rural|
+75065|Palma Sola|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7925|Rural|
+75066|Tlanalapan|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|2051|Rural|
+75066|Pocitos (San Miguel)|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|2049|Rural|
+75069|Agua de la Mina|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|2046|Rural|
+75069|Vista Hermosa|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|2052|Rural|
+75069|Loma Bonita (Santa Cruz)|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7929|Rural|
+75069|Los Capulines|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|7931|Rural|
+75069|Las Trancas (Santa Cruz)|Ranchería|Lafragua|Puebla||75041|21|75041||29|093|2055|Rural|

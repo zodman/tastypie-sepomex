@@ -1,0 +1,105 @@
+42280|Chapulhuacán|Pueblo|Chapulhuacán|Hidalgo||42281|13|42281||28|018|0353|Urbano|
+42280|Nuevo Progreso|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2824|Urbano|
+42282|Amixco|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0355|Rural|
+42282|Cahuazas (Hacienda de Cahuazas)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0356|Rural|
+42282|La Mesa|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0360|Rural|
+42282|Miahuatla|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0362|Rural|
+42282|Piedra Ancha|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2631|Rural|
+42282|Las Campanas|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5622|Rural|
+42282|Arroyo del Mamey|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5596|Rural|
+42282|El Limoncito|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5608|Rural|
+42282|Naranjos|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5625|Rural|
+42282|Zimapanito|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5637|Rural|
+42282|La Chuparrosa|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2628|Rural|
+42282|Puerto del Amolar|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2704|Rural|
+42282|El Pescado|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0358|Rural|
+42282|Chalco|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5601|Rural|
+42282|La Golondrina|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5617|Rural|
+42282|El Campanario|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0357|Rural|
+42282|La Guayaba|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0359|Rural|
+42282|El Aguacate|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5602|Rural|
+42282|Nuevo Coyolar|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5626|Rural|
+42282|Puerto del Tambor|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5628|Rural|
+42282|El Álamo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2555|Rural|
+42282|Huatepango|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2556|Rural|
+42282|Las Ciruelas|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0361|Rural|
+42282|La Escondida|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2554|Rural|
+42282|Yobicó|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5636|Rural|
+42283|Nueva Esperanza|Barrio|Chapulhuacán|Hidalgo||42281|13|42281||02|018|5590|Urbano|
+42283|Puerto de la Cruz Verde|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2633|Urbano|
+42283|Hidalgo|Barrio|Chapulhuacán|Hidalgo||42281|13|42281||02|018|5589|Urbano|
+42283|Juárez|Barrio|Chapulhuacán|Hidalgo||42281|13|42281||02|018|5588|Urbano|
+42283|Guerrero|Barrio|Chapulhuacán|Hidalgo||42281|13|42281||02|018|5591|Urbano|
+42283|Morelos|Barrio|Chapulhuacán|Hidalgo||42281|13|42281||02|018|5592|Urbano|
+42284|Puerto el Zopilote|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5629|Rural|
+42284|El Barrio (Barrio del Carmen)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0363|Rural|
+42284|La Joya del Zopilote|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5618|Rural|
+42285|La Casa Verde|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5613|Rural|
+42285|La Piedra|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0365|Rural|
+42285|La Gloria|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5616|Rural|
+42285|La Ceibita|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5615|Rural|
+42285|La Hondura|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0364|Rural|
+42285|El Naranjal|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2894|Rural|
+42285|El Algodonal|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5603|Rural|
+42285|Puerto del Caballo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5627|Rural|
+42285|El Capulín|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2634|Rural|
+42285|Buena Vista|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5598|Rural|
+42285|La Ceiba|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5614|Rural|
+42285|San Cristóbal|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5633|Rural|
+42285|El Zacatal|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2552|Rural|
+42285|Plan de Guadalupe|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2553|Rural|
+42285|El Porvenir (Colonia Solidaridad)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5610|Rural|
+42285|Las Pozas|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2825|Rural|
+42286|Ahuayo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5594|Rural|
+42286|Carrizal del Sótano|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2626|Rural|
+42286|Escuayo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5612|Rural|
+42286|El Estero|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5630|Rural|
+42286|La Loma|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2512|Rural|
+42286|La Ceiba|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2624|Rural|
+42286|El Sabino|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2627|Rural|
+42286|Los Jobos|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5624|Rural|
+42286|Tenango|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0366|Rural|
+42286|Sayula|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5634|Rural|
+42286|El Sótano|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2635|Rural|
+42286|Acuatla|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5593|Rural|
+42286|Las Minas|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2629|Rural|
+42286|Tocapa|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2630|Rural|
+42286|La Lomita|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2714|Rural|
+42286|Cerro Boludo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5600|Rural|
+42286|Tetlalpan|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|2632|Rural|
+42286|Arroyo de Acaxtla|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5595|Rural|
+42286|Carrizal de Tenango|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5599|Rural|
+42290|Palo Verde|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0369|Rural|
+42290|San Rafael|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0370|Rural|
+42290|Santa Ana de Allende|Pueblo|Chapulhuacán|Hidalgo||42281|13|42281||28|018|0371|Rural|
+42290|Neblinas|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0367|Rural|
+42290|Arriba Ojo de Agua|Barrio|Chapulhuacán|Hidalgo||42281|13|42281||02|018|5597|Rural|
+42290|La Reforma de Palo Semita|Poblado comunal|Chapulhuacán|Hidalgo||42281|13|42281||27|018|5620|Rural|
+42290|Palo Semita|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0368|Rural|
+42290|Rancho Nuevo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2551|Rural|
+42291|Ojo de Agua|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0374|Rural|
+42291|Zacate Grande|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0375|Rural|
+42291|Iglesia Vieja (Iglesia Nueva)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0373|Rural|
+42291|El Ocote|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0372|Rural|
+42294|Soledad del Coyol|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0378|Rural|
+42294|El Zacatito|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5611|Rural|
+42294|Saucillo (Saucillo Agua Nueva)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0377|Rural|
+42294|El Chinillar|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5604|Rural|
+42294|El Clarín|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5605|Rural|
+42294|Palomas|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0376|Rural|
+42295|El Coyol|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0379|Rural|
+42296|El Hualul|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5607|Rural|
+42296|Soledad del Ocote (La Loma)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5635|Rural|
+42298|El Amolar|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0381|Rural|
+42298|La Loma|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5619|Rural|
+42298|Arroyo Blanco|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0380|Rural|
+42298|Pared Gruesa (Nuevo Pared Gruesa)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0383|Rural|
+42298|Santa María de Álamos|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0385|Rural|
+42298|Rancho Nuevo (Puerto del Gallo)|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5632|Rural|
+42298|La Estancia|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|2550|Rural|
+42298|La Sierrita|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5621|Rural|
+42298|El Entronque|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5606|Rural|
+42298|Rancho Nuevo|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5631|Rural|
+42298|El Banco|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0382|Rural|
+42298|Puerto Obscuro|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|0384|Rural|
+42298|Las Carpas|Ranchería|Chapulhuacán|Hidalgo||42281|13|42281||29|018|5623|Rural|

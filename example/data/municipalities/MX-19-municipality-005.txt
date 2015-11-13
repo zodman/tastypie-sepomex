@@ -1,0 +1,23 @@
+65000|Colombia|Congregación|Anáhuac|Nuevo León||88002|19|88002||11|005|0605|Rural|
+65001|El Camarón|Ranchería|Anáhuac|Nuevo León||65031|19|65031||29|005|0608|Rural|
+65002|Rodriguez|Estación|Anáhuac|Nuevo León||65031|19|65031||16|005|0611|Rural|
+65004|Sifón Villanueva|Colonia|Anáhuac|Nuevo León||65031|19|65031||09|005|0612|Rural|
+65008|Escuela Rural Federal 14|Estación|Anáhuac|Nuevo León||65201|19|65201||16|005|0610|Rural|
+65010|Kilómetro 34|Congregación|Anáhuac|Nuevo León||65031|19|65031||11|005|0609|Rural|
+65030|Anáhuac y Rodriguez Centro|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|0606|Semiurbano|20
+65032|Revolución|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3025|Semiurbano|20
+65033|Obrera|Ampliación|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||38|005|3026|Semiurbano|20
+65033|Progreso|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3027|Semiurbano|20
+65034|Infonavit|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3022|Semiurbano|20
+65034|Lázaro Cárdenas|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3024|Semiurbano|20
+65034|Obrera|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3898|Semiurbano|20
+65034|Fomerrey|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3900|Semiurbano|20
+65034|Lomas de Anáhuac|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3899|Semiurbano|20
+65036|Granja Experimental|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3028|Semiurbano|20
+65040|Anáhuac|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3030|Semiurbano|20
+65040|Independencia|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3031|Semiurbano|20
+65042|Raul Caballero Escamilla|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3029|Semiurbano|20
+65042|Chapultepec|Colonia|Anáhuac|Nuevo León|Anáhuac|65031|19|65031||09|005|3023|Semiurbano|20
+65057|Nuevo Camarón|Ejido|Anáhuac|Nuevo León||65031|19|65031||15|005|0615|Rural|
+65059|Nuevo Anáhuac|Ejido|Anáhuac|Nuevo León||65031|19|65031||15|005|0613|Rural|
+65059|Nuevo Rodriguez|Ejido|Anáhuac|Nuevo León||65031|19|65031||15|005|0614|Rural|

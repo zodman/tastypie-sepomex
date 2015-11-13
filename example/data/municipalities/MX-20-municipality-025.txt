@@ -1,0 +1,9 @@
+70190|Guadalupe|Colonia|Chahuites|Oaxaca|Chahuites|70191|20|70191||09|025|3386|Rural|30
+70190|Jardín|Colonia|Chahuites|Oaxaca|Chahuites|70191|20|70191||09|025|3557|Rural|30
+70190|San Antonio|Colonia|Chahuites|Oaxaca|Chahuites|70191|20|70191||09|025|3385|Rural|30
+70190|San Isidro|Barrio|Chahuites|Oaxaca|Chahuites|70191|20|70191||02|025|4293|Semiurbano|30
+70190|Barrio Guachaco|Barrio|Chahuites|Oaxaca|Chahuites|70191|20|70191||02|025|4852|Urbano|30
+70190|Chahuites Centro|Colonia|Chahuites|Oaxaca|Chahuites|70191|20|70191||09|025|2010|Rural|30
+70190|Tercera Sección|Colonia|Chahuites|Oaxaca|Chahuites|70191|20|70191||09|025|4988|Urbano|30
+70195|El Porvenir|Ranchería|Chahuites|Oaxaca||70191|20|70191||29|025|0002|Rural|
+70195|El Morro|Colonia|Chahuites|Oaxaca||70191|20|70191||09|025|0001|Urbano|

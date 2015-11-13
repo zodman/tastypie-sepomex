@@ -1,0 +1,10 @@
+93000|Zozocolco de Hidalgo|Ranchería|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93401|30|93401||29|203|2140|Rural|
+93003|Acatzacan|Pueblo|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||28|203|2141|Rural|
+93004|Las Barrancas|Ranchería|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||29|203|7365|Rural|
+93005|Tahuaxni Sur|Pueblo|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||28|203|0003|Rural|
+93005|Plan de Ayala|Pueblo|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||28|203|0001|Rural|
+93010|Zozocolco de Guerrero|Ranchería|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||29|203|2142|Rural|
+93010|Buenos Aires|Pueblo|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||28|203|0002|Rural|
+93015|Anayal|Barrio|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||02|203|2143|Rural|
+93020|Tecuantepec|Ranchería|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||29|203|2144|Rural|
+93030|Colon|Ranchería|Zozocolco de Hidalgo|Veracruz de Ignacio de la Llave||93261|30|93261||29|203|2145|Rural|

@@ -1,0 +1,42 @@
+94260|Jamapa|Pueblo|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||28|090|2737|Rural|
+94263|Tropel|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6957|Rural|
+94263|El Estero Norte|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6953|Rural|
+94263|El Rincón|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6955|Rural|
+94263|Loma Chica|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6959|Rural|
+94263|El Chicle|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6954|Rural|
+94263|Loma Grande|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6958|Rural|
+94263|El Zanjon|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6960|Rural|
+94263|El Salto|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6952|Rural|
+94263|Las Puertas|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6956|Rural|
+94264|El Naranjal|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6948|Rural|
+94264|La Campana|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6950|Rural|
+94264|La Conchuda|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6951|Rural|
+94264|La Torrecilla|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6949|Rural|
+94265|El Progreso|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6943|Rural|
+94265|La Lajilla|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6947|Rural|
+94265|El Tule|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6941|Rural|
+94265|El Higueral|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6942|Rural|
+94265|El Apachital|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6944|Rural|
+94265|El Zacatal|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6945|Rural|
+94265|La Burrera|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6940|Rural|
+94265|Laguna del Toro|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6946|Rural|
+94266|Mesa Grande|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6933|Rural|
+94266|El Manila|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6937|Rural|
+94266|El Embudo|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6939|Rural|
+94266|El Yagual|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6935|Rural|
+94266|La Reforma|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6936|Rural|
+94266|La Zapilla|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6931|Rural|
+94266|La Campana (Fracción)|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6932|Rural|
+94266|Los Mateo|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6938|Rural|
+94266|El Aguacatal|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6934|Rural|
+94267|La Javilla|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6926|Rural|
+94267|Loma de Lele|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6921|Rural|
+94267|Las Iguanas|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6922|Rural|
+94267|La Chorrera|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6927|Rural|
+94267|El Cedralito|Ranchería|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||29|090|6920|Rural|
+94267|El Cuajilote|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6925|Rural|
+94267|El Piñonal|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6930|Rural|
+94267|El Jilguero|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6929|Rural|
+94267|Paso de la Cruz|Congregación|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||11|090|6923|Rural|
+94267|La Brecha|Ejido|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||15|090|6924|Rural|
+94267|La Matamba|Pueblo|Jamapa|Veracruz de Ignacio de la Llave||94272|30|94272||28|090|6928|Rural|

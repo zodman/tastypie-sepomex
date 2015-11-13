@@ -1,0 +1,188 @@
+41100|Chilapa de Álvarez Centro|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3033|Urbano|33
+41100|La Mira|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3907|Semiurbano|33
+41103|La Playita|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4459|Urbano|33
+41103|La Muralla|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4497|Urbano|33
+41103|El Calvario|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3917|Urbano|33
+41103|San Rafael|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|1633|Urbano|33
+41103|5 de Febrero|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4449|Urbano|33
+41103|Los Manantiales|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4477|Urbano|33
+41103|El Mirador I|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1262|Urbano|33
+41103|Santa Gertrudis|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3916|Urbano|33
+41103|Roca Azul|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4478|Urbano|33
+41103|P.R.D.|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4453|Urbano|33
+41103|La Capillita|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3913|Urbano|33
+41103|El Tecolote|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3918|Urbano|33
+41103|Ampliación los Pinos|Ampliación|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||38|028|4450|Urbano|33
+41103|Barrio el Calvario|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|4458|Urbano|33
+41103|Los Pinos|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1478|Urbano|33
+41104|El Zoyatal|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3908|Urbano|33
+41104|Tabachines|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4471|Urbano|33
+41104|Ángel Aguirre Rivero|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4475|Urbano|33
+41104|Jacarandas Poniente|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1344|Urbano|33
+41104|La Quinta|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1397|Urbano|33
+41104|Los Ángeles|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1469|Urbano|33
+41104|Los Álamos|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4472|Urbano|33
+41104|Los Sabinos|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4482|Urbano|33
+41104|Emperador Cuauhtémoc|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1187|Urbano|33
+41104|Las Palmas|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1429|Urbano|33
+41104|Lázaro Cárdenas|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1444|Urbano|33
+41104|Solidaridad|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1667|Urbano|33
+41104|Del PRI|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3906|Urbano|33
+41104|La Villa|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3914|Urbano|33
+41104|Popular|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1547|Urbano|33
+41104|Los Cosahuates|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4473|Urbano|33
+41104|La Purísima|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4481|Urbano|33
+41104|Jardines|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1347|Urbano|33
+41104|Progreso|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1561|Urbano|33
+41104|Ajacayan|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3919|Urbano|33
+41104|Ampliación Solidaridad|Ampliación|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||38|028|4476|Urbano|33
+41104|Los Claveles|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4479|Urbano|33
+41104|Eucaria Apreza|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1303|Urbano|33
+41104|Nuevo Amanecer|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1523|Urbano|33
+41104|Vista Hermosa|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1735|Urbano|33
+41104|Genaro Vázquez|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3927|Urbano|33
+41104|Miguel Hidalgo|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4474|Urbano|33
+41104|Corpus Crispi|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4480|Urbano|33
+41104|Lomas del Muerto|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4520|Urbano|33
+41105|Los Pinos|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4470|Urbano|33
+41105|El Jaboncillo|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1342|Urbano|33
+41105|Loma Linda|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1462|Urbano|33
+41105|Buena Vista II Sección|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4484|Urbano|33
+41105|Jacarandas Oriente|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4492|Urbano|33
+41105|Libertad|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3920|Urbano|33
+41105|Los Cedros|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4489|Urbano|33
+41105|7 de Noviembre|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4510|Urbano|33
+41105|Villas del Sol|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4508|Urbano|33
+41105|La Joya|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1376|Urbano|33
+41105|Candelaria|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4487|Urbano|33
+41105|Valle Verde|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4490|Urbano|33
+41105|Valle Dorado|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|1700|Urbano|33
+41105|Zoyatal|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4486|Urbano|33
+41105|Atenas del Sur|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4491|Urbano|33
+41105|Buena Vista|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4483|Urbano|33
+41105|Las Brisas|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4485|Urbano|33
+41106|El Ajal|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4495|Urbano|33
+41106|La Ciénega|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4463|Urbano|33
+41106|La Perla|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4469|Urbano|33
+41106|Las Amaricas|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4496|Urbano|33
+41106|Campo de Aviación|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4465|Urbano|33
+41106|Los Magueyes|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4493|Urbano|33
+41106|Emiliano Zapata|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1297|Urbano|33
+41106|Rubén Figueroa|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3909|Urbano|33
+41106|Estrella del Oriente|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4462|Urbano|33
+41106|Los Sauces|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4467|Urbano|33
+41106|Esmeralda|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1360|Urbano|33
+41106|San Carlos|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4468|Urbano|33
+41106|Diamante|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4461|Urbano|33
+41106|Los Huamuchiles|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4466|Urbano|33
+41106|Vicente Guerrero|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4494|Urbano|33
+41106|La Teja|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4464|Urbano|33
+41106|Cruz de Navarro|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4488|Urbano|33
+41107|Quovadis|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1570|Urbano|33
+41107|24 de Febrero|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4457|Urbano|33
+41107|Municipio Libre|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1507|Urbano|33
+41107|San José|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1521|Urbano|33
+41107|El Tecoatl|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4456|Urbano|33
+41107|El Pedregal I y II|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1270|Urbano|33
+41107|San Antonio|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3911|Urbano|33
+41107|Progreso II|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|3915|Urbano|33
+41107|Barrio San José|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|4454|Urbano|33
+41107|Progreso Nacional|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4455|Urbano|33
+41107|San Juan|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4522|Urbano|33
+41107|Conalep|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1247|Urbano|33
+41107|San Francisco|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|1605|Urbano|33
+41107|Zizicazapa|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4452|Urbano|33
+41107|San Juan|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3910|Urbano|33
+41107|Dulce Nombre|Barrio|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||02|028|3912|Urbano|33
+41107|Luis Donaldo Colosio|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|1479|Urbano|33
+41107|Alameda|Colonia|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||09|028|4451|Urbano|33
+41107|Vargas|Fraccionamiento|Chilapa de Álvarez|Guerrero|Chilapa de Álvarez|41101|12|41101||21|028|4460|Urbano|33
+41109|Zacazonapa|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3071|Rural|
+41110|Rancho Coaquimixco|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|4375|Rural|
+41110|Lodo Grande|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3035|Rural|
+41110|Coaquimixco|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3079|Rural|
+41110|Ayahualco|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3029|Rural|
+41110|Ahuihuiyuco|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3045|Rural|
+41110|Cuadrilla Nueva|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3072|Rural|
+41110|Tenexatlajco (Tenexatlaco)|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3082|Rural|
+41110|Xulchuchuio|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3051|Rural|
+41110|La Mohonera|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3046|Rural|
+41110|El Peral|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3080|Rural|
+41110|San Isidro|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4521|Rural|
+41110|Pantitlán|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3049|Rural|
+41110|Santa Ana|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3075|Rural|
+41110|Tepehuixco|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3076|Rural|
+41110|Tepozcuautla|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3078|Rural|
+41110|3 de Mayo|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4509|Rural|
+41110|Acatlán Centro|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|3044|Urbano|
+41113|Loma Larga|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4519|Rural|
+41113|Texcal I|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4524|Rural|
+41113|El Terreno|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4514|Rural|
+41113|Del Llano|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4516|Rural|
+41113|Texcal II|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4523|Rural|
+41113|De Tejalcingo|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4515|Rural|
+41113|Nejapa|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3037|Rural|
+41113|Coyautepec|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4511|Rural|
+41113|De Amatitlán|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4513|Rural|
+41113|La Lomita|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4518|Rural|
+41114|Zoquitipa|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3043|Rural|
+41114|Atzacoaloya|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3028|Rural|
+41114|Tlanipantla|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3041|Rural|
+41114|Macuixcatlán|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3053|Rural|
+41114|Barrio del Rosario|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4530|Urbano|
+41114|Amate Amarillo|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3026|Rural|
+41114|Santa Cruz|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3050|Rural|
+41114|Ocuituco (Acuituco)|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3058|Rural|
+41114|Lamatzintla|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3089|Rural|
+41114|San Jerónimo Palantla|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3038|Rural|
+41114|Santa Catarina|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3039|Rural|
+41114|Teomatatlán|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3059|Rural|
+41114|Xochitempa|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3064|Rural|
+41114|Zinzintitlán|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3092|Rural|
+41114|Miraflor|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|4650|Rural|
+41114|Atempa|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3027|Rural|
+41114|Tlacoaxtla|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3060|Rural|
+41114|Tepetlacingo|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3063|Rural|
+41114|Chautla (Chahutla)|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3073|Rural|
+41114|Rancho Victor Juanico|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|4374|Rural|
+41114|El Paraíso|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3052|Rural|
+41114|Trigomila|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3054|Rural|
+41114|El Refugio|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3056|Rural|
+41114|Los Amates|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3057|Rural|
+41114|El Limón|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3074|Rural|
+41114|Cuautenango|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3031|Rural|
+41115|Zizicazapa|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3065|Rural|
+41115|Colonia Costeña Uno|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|4378|Rural|
+41115|San Ángel|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3068|Rural|
+41115|Ahuexotitlán|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3081|Rural|
+41115|Colonia Agua Salada|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|4376|Rural|
+41115|Axopilco|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3084|Rural|
+41115|Ayahualulco Centro|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|3030|Urbano|
+41115|Acalco|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3061|Rural|
+41115|Tlaxinga (Catzinga)|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3086|Rural|
+41115|Costeña|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4512|Rural|
+41115|El Jagüey|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3062|Rural|
+41115|Popoyatlajco|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3085|Rural|
+41115|Vista Hermosa|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3087|Rural|
+41115|Colonia la Poyeca|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|4377|Rural|
+41115|Tlamixtlahuacan|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3040|Rural|
+41115|Tlalixtlahuacan|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3069|Rural|
+41115|4 Caminos|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|4550|Rural|
+41115|Matlala|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|4647|Rural|
+41115|Conetzingo|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3032|Rural|
+41115|Xiloxuchican|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3070|Rural|
+41115|Ajacayan|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3077|Rural|
+41115|Juan N. Álvarez|Barrio|Chilapa de Álvarez|Guerrero||41101|12|41101||02|028|4517|Rural|
+41115|Coatzingo|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|4644|Rural|
+41116|Alcozacan|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3025|Rural|
+41116|Zacapexco|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3097|Rural|
+41116|Colotepec|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3067|Rural|
+41116|Colonia Cojtenco|Colonia|Chilapa de Álvarez|Guerrero||41101|12|41101||09|028|4379|Rural|
+41116|Xolotepec|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3091|Rural|
+41116|Ahuixtla|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3093|Rural|
+41117|Amiltepec|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3094|Rural|
+41117|Mexcaltepec|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3098|Rural|
+41118|San Marcos|Ranchería|Chilapa de Álvarez|Guerrero||41101|12|41101||29|028|3100|Rural|
+41118|El Epazote|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3034|Rural|
+41118|Mexcalzingo|Pueblo|Chilapa de Álvarez|Guerrero||41101|12|41101||28|028|3036|Rural|
+41118|Acuentla|Campamento|Chilapa de Álvarez|Guerrero||41101|12|41101||04|028|3083|Rural|

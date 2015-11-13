@@ -1,0 +1,33 @@
+51980|San Pedro Guadalupe|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|6949|Rural|
+51980|La Cabecera|Barrio|Zumpahuacán|México||51981|15|51981||02|119|8208|Rural|
+51980|San Mateo|Barrio|Zumpahuacán|México||51981|15|51981||02|119|0002|Urbano|
+51980|Zumpahuacan|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1554|Rural|
+51980|San Juan|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|6948|Rural|
+51980|San Miguel|Barrio|Zumpahuacán|México||51981|15|51981||02|119|0003|Rural|
+51980|San Miguel|Barrio|Zumpahuacán|México||51981|15|51981||02|119|8147|Urbano|
+51980|La Ascención|Barrio|Zumpahuacán|México||51981|15|51981||02|119|8201|Urbano|
+51980|Santa Ana|Barrio|Zumpahuacán|México||51981|15|51981||02|119|0001|Urbano|
+51980|San Agustín|Barrio|Zumpahuacán|México||51981|15|51981||02|119|8145|Urbano|
+51984|San Nicolás Palo Dulce|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0011|Rural|
+51984|Guadalupe Ahuacatlán|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1559|Rural|
+51985|Santiaguito|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|8517|Rural|
+51985|Llano del Copal|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0012|Rural|
+51986|Santa Catarina|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|6950|Rural|
+51986|San Pablo Tejalpa|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1553|Rural|
+51986|San Miguel Atiopa|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|8146|Urbano|
+51987|San Antonio Guadalupe|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1556|Rural|
+51987|San José Tecontla|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0010|Rural|
+51988|Guadalupe Tlapizalco|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1560|Rural|
+51989|Santa Cruz los Pilares|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1561|Rural|
+51990|San Gaspar|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1552|Rural|
+51994|Santa María la Asunción|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1557|Rural|
+51994|San Mateo Despoblado|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0006|Rural|
+51995|Guadalupe Chiltamalco|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0007|Rural|
+51995|Chiapa San Isidro|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0005|Rural|
+51995|San Pedro Guadalupe (Despoblado)|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0009|Rural|
+51995|Santa Cruz Atempa|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1558|Rural|
+51995|Santa Ana Despoblado|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0008|Rural|
+51996|Ahuatzingo|Pueblo|Zumpahuacán|México||51981|15|51981||28|119|1555|Rural|
+51997|El Tamarindo|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|8298|Rural|
+51997|El Zapote|Ranchería|Zumpahuacán|México||51981|15|51981||29|119|0004|Rural|
+51997|Guadalupe Victoria|Colonia|Zumpahuacán|México||51981|15|51981||09|119|1562|Rural|

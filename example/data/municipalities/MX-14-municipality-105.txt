@@ -1,0 +1,25 @@
+47730|Tototlan Centro|Colonia|Tototlán|Jalisco|Tototlán|47731|14|47731||09|105|3334|Semiurbano|14
+47730|Lindavista|Colonia|Tototlán|Jalisco|Tototlán|47731|14|47731||09|105|3337|Semiurbano|14
+47730|San Javier|Colonia|Tototlán|Jalisco|Tototlán|47731|14|47731||09|105|3339|Semiurbano|14
+47730|Adolfo Lopez Mateos|Colonia|Tototlán|Jalisco|Tototlán|47731|14|47731||09|105|3335|Semiurbano|14
+47730|Teodocio Rodriguez Guevara|Colonia|Tototlán|Jalisco|Tototlán|47731|14|47731||09|105|3336|Semiurbano|14
+47730|Providencia|Colonia|Tototlán|Jalisco|Tototlán|47731|14|47731||09|105|3338|Semiurbano|14
+47732|Ramblas Chico|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2132|Rural|
+47733|Los Garabatos|Ejido|Tototlán|Jalisco||47731|14|47731||15|105|2133|Rural|
+47733|San Agustin|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2131|Rural|
+47734|Yerbabuena|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2135|Rural|
+47736|Nuevo Refugio de Afuera|Hacienda|Tototlán|Jalisco||47731|14|47731||24|105|2138|Rural|
+47740|Refugio de Afuera|Hacienda|Tototlán|Jalisco||47731|14|47731||24|105|2139|Rural|
+47740|San Isidro|Hacienda|Tototlán|Jalisco||47731|14|47731||24|105|2134|Rural|
+47740|Unión de Guadalupe|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2130|Rural|
+47741|La Cuesta de Ovejas|Ranchería|Tototlán|Jalisco||47751|14|47751||29|105|2136|Rural|
+47742|Palo Dulce|Ejido|Tototlán|Jalisco||47731|14|47731||15|105|2140|Rural|
+47743|La Laja de Gómez|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2137|Rural|
+47744|San Jose de los Ríos|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2144|Rural|
+47744|Las Eras|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2146|Rural|
+47746|El Dique|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2143|Rural|
+47746|Ríos de Ruiz|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2145|Rural|
+47747|Carrozas|Hacienda|Tototlán|Jalisco||47731|14|47731||24|105|2142|Rural|
+47747|El Sabino|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2147|Rural|
+47748|Coina Grande|Ranchería|Tototlán|Jalisco||47731|14|47731||29|105|2148|Rural|
+47749|San Antonio de Gómez|Hacienda|Tototlán|Jalisco||47731|14|47731||24|105|2149|Rural|

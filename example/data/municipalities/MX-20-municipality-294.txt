@@ -1,0 +1,22 @@
+68220|Barrio de Ojo de Agua de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|3565|Urbano|40
+68220|Esmeralda de la Primera Sección|Colonia|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||09|294|3427|Rural|40
+68220|Barrio de la Cantera de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|3657|Urbano|40
+68220|Barrio del Coquito de la Segunda Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5107|Urbano|40
+68220|Barrio de Guadalupe de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|3564|Urbano|40
+68220|Barrio el Llano de la Segunda Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5113|Urbano|40
+68220|Barrio de Cantarranas de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5111|Urbano|40
+68220|Centro de la Primera Sección|Colonia|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||09|294|0222|Rural|40
+68220|Centro de la Segunda Sección|Colonia|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||09|294|3560|Urbano|40
+68220|Barrio de Agua Blanca de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|3566|Urbano|40
+68220|Centro de la Tercera Sección|Colonia|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||09|294|3561|Urbano|40
+68220|La Primavera de la Segunda Sección|Colonia|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||09|294|3562|Urbano|40
+68220|Barrio el Guayabal de la Segunda Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5105|Urbano|40
+68220|Barrio de Yutetoto de la Segunda Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5106|Urbano|40
+68220|Barrio de Cañada Chisme de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5108|Urbano|40
+68220|La Cruz de la Segunda Sección|Colonia|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||09|294|3563|Urbano|40
+68220|Barrio Cristo Rey de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5110|Urbano|40
+68220|Barrio de Yuteyito de la Primera Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5109|Urbano|40
+68220|Barrio el Mezquite de la Segunda Sección|Barrio|San Pablo Huitzo|Oaxaca|San Pablo Huitzo|68221|20|68221||02|294|5112|Urbano|40
+68222|Joyas del Río Blanco|Ranchería|San Pablo Huitzo|Oaxaca||68221|20|68221||29|294|5103|Rural|
+68222|El Espinal (Piedra Moral)|Ranchería|San Pablo Huitzo|Oaxaca||68221|20|68221||29|294|5104|Rural|
+68223|Santa María Tenexpam|Pueblo|San Pablo Huitzo|Oaxaca||68221|20|68221||28|294|0223|Rural|

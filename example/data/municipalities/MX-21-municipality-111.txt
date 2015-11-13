@@ -1,0 +1,15 @@
+73020|Pantepec|Pueblo|Pantepec|Puebla||73081|21|73081||28|111|0717|Rural|
+73021|Progreso de Allende|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0718|Rural|
+73023|Las Palmas|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0721|Rural|
+73023|Cañada de Colotla|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0719|Rural|
+73023|Ejido Cañada Colotla|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0720|Rural|
+73025|El Terrero|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0723|Rural|
+73025|Buena Vista|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0722|Rural|
+73025|Ixtololoya|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0724|Rural|
+73026|El Pozo|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0725|Rural|
+73026|La Ceiba Chica|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0726|Rural|
+73027|Ignacio Zaragoza|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0728|Rural|
+73027|El Pacífico|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0727|Rural|
+73028|Agua Linda|Ranchería|Pantepec|Puebla||73081|21|73081||29|111|0729|Rural|
+73029|Mecapalapa|Pueblo|Pantepec|Puebla||73041|21|73041||28|111|0731|Rural|
+73029|Ameluca|Ranchería|Pantepec|Puebla||73041|21|73041||29|111|0730|Rural|

@@ -1,0 +1,133 @@
+43440|La Laguna|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6276|Urbano|
+43440|La Esmeralda|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6279|Urbano|
+43440|Industrial|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6277|Urbano|
+43440|Los Reyes|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6280|Urbano|
+43440|La Magdalena|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6274|Urbano|
+43440|La Cumbre de la Campana|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6275|Urbano|
+43440|Totoapan|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6278|Urbano|
+43440|Valle Verde|Colonia|San Bartolo Tutotepec|Hidalgo||43601|13|43601||09|053|6281|Urbano|
+43440|San Bartolo Tutotepec|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1637|Urbano|
+43442|Calintla|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1639|Rural|
+43442|El Zopilote|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6288|Rural|
+43442|Buena Vista|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6344|Rural|
+43442|Las Juntas|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6336|Rural|
+43443|San Miguel|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1638|Rural|
+43443|La Huahua|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6362|Rural|
+43443|El Lindero Chico|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6323|Rural|
+43443|Los Manantiales|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6339|Rural|
+43443|El Mavodo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6368|Rural|
+43443|Río Chiquito|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1641|Rural|
+43443|Media Cuesta|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|2644|Rural|
+43443|El Candeje|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6346|Rural|
+43443|El Encinal|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6360|Rural|
+43443|Santiago|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1642|Rural|
+43443|La Campana|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6345|Rural|
+43443|Piedra Ancha|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1640|Rural|
+43443|El Pedregal|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6375|Rural|
+43443|Pie del Cerro|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6376|Rural|
+43444|Chicamole|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1643|Rural|
+43444|Huasquilla|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1645|Rural|
+43444|El Hongo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6361|Rural|
+43444|La Flor de Santiago (La Flor)|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6291|Rural|
+43444|El Jovión|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6364|Rural|
+43444|Tenantitlán|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6284|Rural|
+43444|Medio Monte|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6369|Rural|
+43444|El Progreso|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1644|Rural|
+43444|El Dónimo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6359|Rural|
+43444|La Ventilla|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6331|Rural|
+43444|Piedra Blanca|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6293|Rural|
+43444|Pueblo Nuevo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6294|Rural|
+43444|El Rincón|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6295|Rural|
+43444|El Nandho|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6325|Rural|
+43444|La Mesa|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6349|Rural|
+43444|Cerro Macho|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6354|Rural|
+43444|El Mundhó|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6372|Rural|
+43445|Llano Grande|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6366|Rural|
+43445|La Loma de Cerro Verde|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6338|Rural|
+43445|La Cerca|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6347|Rural|
+43445|San Jerónimo|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1647|Rural|
+43445|El Barrio de San Mateo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6333|Rural|
+43445|El Paraíso Tierra Fuerte|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1646|Rural|
+43445|El Jicote|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6363|Rural|
+43445|Parte Baja de Anaya|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6340|Rural|
+43445|Cerro Verde|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6356|Rural|
+43446|San Mateo|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1648|Rural|
+43446|Santiaguito|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6283|Rural|
+43446|Camarones|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6334|Rural|
+43446|El Jonotal|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6335|Rural|
+43446|Piedras Negras|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6351|Rural|
+43446|El Fresno|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6290|Rural|
+43446|La Segunda Ranchería|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6297|Rural|
+43446|Diez Cerros|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6322|Rural|
+43446|El Lindero de San Mateo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6337|Rural|
+43446|Cerro Negro|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6320|Rural|
+43446|El Denxe|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6321|Rural|
+43446|Poza Larga|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6326|Rural|
+43446|San Gabriel|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6352|Rural|
+43447|Tutotepec|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1655|Rural|
+43447|El Mirador|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6300|Rural|
+43447|Monte Grande|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6370|Rural|
+43447|Xuchitlán|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1650|Rural|
+43447|La Venta|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6287|Rural|
+43447|Loma Larga|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6365|Rural|
+43447|Los Planes|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6378|Rural|
+43447|El Mahuaquite|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6367|Rural|
+43447|El Ñundo|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6374|Rural|
+43447|Tierra Fuerte|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1649|Rural|
+43447|Juntas del Río|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6380|Rural|
+43448|Salto del Agua|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6296|Rural|
+43448|El Tigrillo|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6285|Rural|
+43448|La Cumbre de Muridores|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1651|Rural|
+43448|El Banco|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6343|Rural|
+43448|Rincón de Cerro Macho|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6286|Rural|
+43448|Cueva Ahumada|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6358|Rural|
+43449|Santa Cruz|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6282|Rural|
+43449|San Juan de las Flores|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1652|Rural|
+43449|El Seis|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6298|Rural|
+43449|La Pagua|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6329|Rural|
+43449|El Naranjal|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6373|Rural|
+43449|El Mothó|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6371|Rural|
+43449|Pie del Cerro de Santa Cruz|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6377|Rural|
+43449|Los Álamos|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6342|Rural|
+43449|Agua Escondida|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6353|Rural|
+43449|El Coyul|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6357|Rural|
+43450|La Soledad|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6308|Rural|
+43450|La Sabana|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6312|Rural|
+43450|San Antonio|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6315|Rural|
+43450|San Sebastián|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1654|Rural|
+43450|El Tomate|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6309|Rural|
+43450|San Isidro|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6319|Rural|
+43450|El Hongo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6314|Rural|
+43450|Llano Seco|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6303|Rural|
+43451|Arroyo Seco|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6289|Rural|
+43451|El Copal|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1656|Rural|
+43451|Palo Gordo|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1657|Rural|
+43451|Nuevo|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6330|Rural|
+43452|El Templado|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6327|Rural|
+43452|Agua Linda (La Fábrica)|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6332|Rural|
+43452|Cerro de Buena Vista|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1658|Rural|
+43453|La Cueva|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6305|Rural|
+43453|Piedra Larga|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6311|Rural|
+43453|El Zenthe|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6302|Rural|
+43453|Agua Hedionda|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6304|Rural|
+43453|La Barranca (El Infiernillo)|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6313|Rural|
+43453|El Cojolite|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6301|Rural|
+43453|La Joya|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6299|Rural|
+43453|Agua Grande|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6341|Rural|
+43453|El Oratorio|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6292|Rural|
+43453|El Piñal|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6316|Rural|
+43454|El Xúchitl|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6310|Rural|
+43454|El Nenjo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6307|Rural|
+43455|El Nanjo|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6306|Rural|
+43455|Del Canjoy|Barrio|San Bartolo Tutotepec|Hidalgo||43601|13|43601||02|053|6350|Rural|
+43455|El Canjoy (Casas Quemadas)|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1659|Rural|
+43455|Milpa Larga|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1660|Rural|
+43455|El Caliche|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6317|Rural|
+43455|San Andrés|Pueblo|San Bartolo Tutotepec|Hidalgo||43601|13|43601||28|053|1653|Rural|
+43455|La Florida (La Canoa)|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6318|Rural|
+43455|La Loma de San Andrés|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6324|Rural|
+43456|El Popotillo Chico|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6348|Rural|
+43456|El Popotillo Grande|Poblado comunal|San Bartolo Tutotepec|Hidalgo||43601|13|43601||27|053|6379|Rural|
+43459|La Vereda|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|1661|Rural|
+43459|El Arco|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6328|Rural|
+43459|Cerro Pelón|Ranchería|San Bartolo Tutotepec|Hidalgo||43601|13|43601||29|053|6355|Rural|

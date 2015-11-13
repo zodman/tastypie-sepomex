@@ -1,0 +1,185 @@
+80320|Navolato Centro|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1578|Urbano|07
+80322|José María Martínez CTM INFONAVIT|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1593|Urbano|07
+80322|Rincón de Navolato|Fraccionamiento|Navolato|Sinaloa|Navolato|80321|25|80321||21|018|1603|Urbano|07
+80322|Antonio Yamaguchi González|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1592|Urbano|07
+80322|Los Pinos|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1597|Urbano|07
+80322|Secciones Hermanas CTM|Ampliación|Navolato|Sinaloa|Navolato|80321|25|80321||38|018|2078|Urbano|07
+80322|Pueblo Nuevo No. 1|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1586|Urbano|07
+80322|Manuel Ávila Camacho (Obrera)|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1588|Urbano|07
+80322|Secciones Hermanas CTM|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1602|Urbano|07
+80322|Nayarit|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1585|Urbano|07
+80322|Pradera Dorada|Fraccionamiento|Navolato|Sinaloa|Navolato|80321|25|80321||21|018|2188|Urbano|07
+80322|Los Alcanfores|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1587|Urbano|07
+80323|La Arrocera|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1589|Urbano|07
+80323|Chula Vista|Fraccionamiento|Navolato|Sinaloa|Navolato|80321|25|80321||21|018|1615|Urbano|07
+80324|Primavera II|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1598|Urbano|07
+80324|5 de Febrero|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1599|Urbano|07
+80324|Solidaridad|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1610|Urbano|07
+80324|Jardín|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1591|Urbano|07
+80324|Prodensa|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1611|Urbano|07
+80324|Salvador Alvarado|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1612|Urbano|07
+80324|La Villita|Fraccionamiento|Navolato|Sinaloa|Navolato|80321|25|80321||21|018|1607|Urbano|07
+80324|Las Vegas|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1613|Urbano|07
+80324|Pueblo Nuevo No. 2 (Los Cochambres)|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1584|Urbano|07
+80324|Amalia Plata|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1609|Urbano|07
+80324|Primavera I|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1600|Urbano|07
+80324|Renato Vega Alvarado|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1608|Urbano|07
+80324|Belén Torres|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|2079|Urbano|07
+80327|Heriberto Zazueta|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1590|Urbano|07
+80327|Popular|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1596|Urbano|07
+80327|La Tenería|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|2082|Urbano|07
+80327|Antonio Bonifant|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1594|Urbano|07
+80327|Los Aguilares|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1595|Urbano|07
+80327|Valle Verde|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1606|Urbano|07
+80327|Los Ángeles|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1580|Urbano|07
+80327|Calderón|Ampliación|Navolato|Sinaloa|Navolato|80321|25|80321||38|018|1614|Urbano|07
+80327|ISSSTESIN Esperanza|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1581|Urbano|07
+80327|Coca Cola INFONAVIT|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1582|Urbano|07
+80327|Alfonso G. Calderón|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1583|Urbano|07
+80327|Residencial Santa María|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1605|Urbano|07
+80327|Ejidal (Los Mangos)|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1579|Urbano|07
+80327|Embotelladoras|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|2080|Urbano|07
+80327|Albañiles|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|1601|Urbano|07
+80327|El Batey|Colonia|Navolato|Sinaloa|Navolato|80321|25|80321||09|018|2081|Urbano|07
+80330|Monte Largo|Hacienda|Navolato|Sinaloa||80321|25|80321||24|018|0270|Rural|
+80330|Casa Blanca|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2346|Rural|
+80330|Ensenada|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|2367|Rural|
+80330|Bachimeto|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0266|Rural|
+80330|Campo 5 Hermanos|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|1617|Rural|
+80330|Bachoco|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0275|Rural|
+80330|Ciudad de los Niños|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0267|Rural|
+80330|El Bledal|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0268|Rural|
+80330|El Patagón|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0269|Rural|
+80331|Las Trancas|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0273|Rural|
+80331|Baricueto 2|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0271|Rural|
+80331|La Vuelta Del Cerro|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0272|Rural|
+80332|Juan Aldama|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0276|Rural|
+80332|Los Pochotes|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0274|Rural|
+80332|5 de Mayo (Col. El Debate)|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2345|Rural|
+80333|Constituyentes de Sinaloa|Ejido|Navolato|Sinaloa||81681|25|81681||15|018|2239|Rural|
+80334|El Bolsón|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0277|Rural|
+80334|Lo de Reyes|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0278|Rural|
+80335|El Portugués|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2347|Rural|
+80335|Limoncito|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0279|Rural|
+80336|Toboloto|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2356|Rural|
+80336|La Aviación|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0280|Rural|
+80336|La Higuerita|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2339|Rural|
+80336|Monte Calvario|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2340|Rural|
+80336|Otameto|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0281|Rural|
+80336|La Vuelta|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2364|Rural|
+80336|Campillo Veronica|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2357|Rural|
+80337|La Pipima|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2349|Rural|
+80337|Villamoros|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0282|Rural|
+80338|Dautillos|Conjunto habitacional|Navolato|Sinaloa||80321|25|80321||12|018|1618|Rural|
+80338|Iraguato|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0283|Rural|
+80338|El Vergel|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|1619|Rural|
+80338|La Bandera|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2313|Rural|
+80338|Primavera|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2341|Rural|
+80338|El Tetuan Nuevo|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2348|Rural|
+80338|Lic Alfredo Valdez Montoya|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2303|Rural|
+80339|El Potrero|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0284|Rural|
+80339|Rosa Morada|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2361|Rural|
+80339|Potrero de Sataya|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0285|Rural|
+80345|Los Angeles|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0287|Rural|
+80347|Santa Fe|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|0288|Rural|
+80347|La Paloma|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|3012|Rural|
+80347|San Blas|Rancho|Navolato|Sinaloa||80321|25|80321||48|018|0001|Rural|
+80348|La Florida|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0290|Rural|
+80348|Cañada de Guamuchilito|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|2215|Rural|
+80348|Caimancito|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0289|Rural|
+80348|Campo Berlín ( Berlín)|Poblado comunal|Navolato|Sinaloa||80321|25|80321||27|018|3013|Rural|
+80349|Benito Juárez|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1677|Urbano|
+80349|Linda Vista|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1681|Urbano|
+80349|Juan S. Millán|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|3171|Urbano|
+80349|La Palma de Villa Angel Flores|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0292|Rural|
+80349|Del Parque|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1679|Urbano|
+80349|Manuel de Jesús Clouthier del Rincón|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|3151|Urbano|
+80349|Zona Centro Villa Ángel Flores (La Palma)|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0293|Urbano|
+80349|Las Palmas|Fraccionamiento|Navolato|Sinaloa||80321|25|80321||21|018|2749|Urbano|
+80349|Vicente Guerrero|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1680|Urbano|
+80349|Fidel Velázquez|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|3150|Urbano|
+80349|Campo El 17|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0291|Rural|
+80349|Nicolás Bravo|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1676|Urbano|
+80349|Fidel Gutiérrez|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1678|Urbano|
+80349|Luis Donaldo Colosio|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|3027|Urbano|
+80349|22 de Junio|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|3149|Urbano|
+80349|Matzumoto|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|3152|Urbano|
+80360|El Castillo|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0294|Rural|
+80363|Altata|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|0295|Rural|
+80365|El Pintor|Poblado comunal|Navolato|Sinaloa||80321|25|80321||27|018|3009|Rural|
+80365|Aguapepito|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0296|Rural|
+80365|El Realito|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2344|Rural|
+80365|Las Aguamitas|Poblado comunal|Navolato|Sinaloa||80321|25|80321||27|018|2371|Rural|
+80365|Laco|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|3067|Rural|
+80366|Los Molinos|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0297|Rural|
+80367|Campo Clouthier|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2337|Rural|
+80367|El Cafetal|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2358|Rural|
+80367|Campo El Trinquete|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2338|Rural|
+80367|Campo Tres Naciones|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2353|Rural|
+80367|Campo La Mula|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2362|Rural|
+80367|Campo San Luis|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2363|Rural|
+80367|Pénjamo|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|0298|Rural|
+80367|Penjamito|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2355|Rural|
+80367|Campo San José|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2359|Rural|
+80367|Campo Santa Cecilia|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2365|Rural|
+80367|Campo Victoria|Poblado comunal|Navolato|Sinaloa||80321|25|80321||27|018|2368|Rural|
+80367|Santa Alicia|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0299|Rural|
+80367|Campo Alvarez|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2351|Rural|
+80367|Alonso|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2366|Rural|
+80367|San Raúl|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2958|Rural|
+80367|El Gran Chaparral|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2343|Rural|
+80367|Las Puentes|Poblado comunal|Navolato|Sinaloa||80321|25|80321||27|018|2369|Rural|
+80368|El Contrabando (Campo Pesquero)|Poblado comunal|Navolato|Sinaloa||80321|25|80321||27|018|3010|Rural|
+80370|Manuel Avila Camacho|Colonia|Navolato|Sinaloa||80321|25|80321||09|018|1682|Rural|
+80370|Plan de Ayala (el Zanjon)|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2342|Rural|
+80370|Sataya|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0301|Rural|
+80371|La Curva 1|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|0304|Rural|
+80371|Luis G Vélez|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0308|Rural|
+80371|Campo Campaña|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0303|Rural|
+80371|Campo San Isidro|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2360|Rural|
+80371|Lo de Jesús|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0306|Rural|
+80371|Villa Morelos|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|3068|Rural|
+80371|La Michoacana|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0305|Rural|
+80371|Lo de Sauceda|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0307|Rural|
+80372|Convención de Aguascalientes|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|0310|Rural|
+80372|La Sinaloa|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0312|Rural|
+80372|Cofradia de los Rocha|Pueblo|Navolato|Sinaloa||80321|25|80321||28|018|0309|Rural|
+80372|El Melón|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|0311|Rural|
+80373|Cofradia de La Loma|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0313|Rural|
+80373|Rio Viejo|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|2352|Rural|
+80373|Campo Ochiqui|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2893|Rural|
+80373|Los Arredondos|Ranchería|Navolato|Sinaloa||80321|25|80321||29|018|0314|Rural|
+80373|Lo de Verdugo|Ejido|Navolato|Sinaloa||80321|25|80321||15|018|2350|Rural|
+80374|Balbuena|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|0302|Rural|
+80374|Yebavito|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|2370|Rural|
+80374|Bariometo|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|0316|Rural|
+80374|El Batallón|Ejido|Navolato|Sinaloa||80307|25|80307||15|018|2314|Rural|
+80374|Cofradia de San Pedro|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|0317|Rural|
+80374|Las Bebelamas de San Pedro|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|0318|Rural|
+80374|San Pedro|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|2589|Rural|
+80374|Laguna de San Pedro|Ejido|Navolato|Sinaloa||80307|25|80307||15|018|2354|Rural|
+80376|San Pedro Rosales|Ranchería|Navolato|Sinaloa||80307|25|80307||29|018|0320|Rural|
+80377|Bachigualatito|Ranchería|Navolato|Sinaloa||80001|25|80001||29|018|0322|Rural|
+80377|Bachigualatillo|Ranchería|Navolato|Sinaloa||80001|25|80001||29|018|0321|Rural|
+80378|4 de Marzo|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|1685|Urbano|24
+80378|Las Cupias|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|1688|Urbano|24
+80378|INFONAVIT ABC|Fraccionamiento|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||21|018|2677|Urbano|24
+80378|Praderas del Sol|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3003|Urbano|24
+80378|José López Portillo|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|1684|Urbano|24
+80378|Las Amapas|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3023|Urbano|24
+80378|Popular|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3024|Urbano|24
+80378|Margarita Maza de Juárez|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|1686|Urbano|24
+80378|La Primavera|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|2676|Urbano|24
+80378|Manuel Gómez Morin|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3002|Urbano|24
+80378|Perfecto Arredondo|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|2999|Urbano|24
+80378|Santa Natalia|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3025|Urbano|24
+80378|Víctor Godoy|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3026|Urbano|24
+80378|Luis Donaldo Colosio|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3076|Urbano|24
+80378|Tierra y Libertad (Las Cañitas)|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|2882|Urbano|24
+80378|Las Granjas|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3005|Urbano|24
+80378|Villa Bonita|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3048|Urbano|24
+80378|Liberación 89|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|2886|Urbano|24
+80378|Guadalupe|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3000|Urbano|24
+80378|José Vasconcelos|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3001|Urbano|24
+80378|El Tapacal|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|1683|Urbano|24
+80378|Ampliación Praderas del Sol|Colonia|Navolato|Sinaloa|Lic. Benito Juárez (Campo Gobierno)|80379|25|80379||09|018|3004|Urbano|24

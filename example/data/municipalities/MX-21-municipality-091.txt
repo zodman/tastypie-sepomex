@@ -1,0 +1,19 @@
+73200|Necaxa|Pueblo|Juan Galindo|Puebla||73201|21|73201||28|091|0868|Rural|
+73200|Nuevo Necaxa|Pueblo|Juan Galindo|Puebla||73201|21|73201||28|091|0869|Rural|
+73203|El Naranjal|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7540|Rural|
+73204|Morelos|Pueblo|Juan Galindo|Puebla||73201|21|73201||28|091|7539|Rural|
+73204|Tenango de las Flores|Pueblo|Juan Galindo|Puebla||73201|21|73201||28|091|7533|Rural|
+73205|PEMEX|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7534|Rural|
+73205|Agua Azul|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7538|Rural|
+73205|Juárez|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7536|Rural|
+73205|Hidalgo|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7537|Rural|
+73206|Los Alpes|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7535|Rural|
+73210|Nezoaya|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7525|Rural|
+73211|Necaxaltepec|Pueblo|Juan Galindo|Puebla||73201|21|73201||28|091|0871|Rural|
+73213|Dos Caminos|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7526|Rural|
+73214|La Mesa|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7528|Rural|
+73214|Loma Bonita|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7527|Rural|
+73214|Salto Chico|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7531|Rural|
+73214|El Salto|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7529|Rural|
+73214|Azteca|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7532|Rural|
+73215|Cuautlita (El Gamito)|Colonia|Juan Galindo|Puebla||73201|21|73201||09|091|7530|Rural|

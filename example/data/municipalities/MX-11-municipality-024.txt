@@ -1,0 +1,64 @@
+36890|Manuel J. Clouthier|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|5298|Rural|
+36890|2 de Febrero|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|4152|Rural|
+36890|Quinta Las Huertas|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5948|Rural|
+36890|La Aurora|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|4147|Rural|
+36890|La Quinta|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|4150|Rural|
+36890|La Amargura|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5950|Rural|
+36890|La Candelaria|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|4148|Rural|
+36890|Lázaro Cárdenas|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5947|Rural|
+36890|El Vergel|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|4149|Rural|
+36890|Pueblo Nuevo|Pueblo|Pueblo Nuevo|Guanajuato||36501|11|36501||28|024|0781|Rural|
+36890|El Sol|Colonia|Pueblo Nuevo|Guanajuato||36501|11|36501||09|024|4151|Rural|
+36890|Palo Seco|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5949|Rural|
+36893|Dos Ríos de San Antonio|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5960|Rural|
+36893|Yóstiro (Yóstiro de San Antonio)|Ejido|Pueblo Nuevo|Guanajuato||36501|11|36501||15|024|0782|Rural|
+36893|Colonia 13 de Julio|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5956|Rural|
+36893|Villa de Guadalupe|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|0788|Rural|
+36893|Granja Potosina|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5970|Rural|
+36893|Progreso de la Unión|Ejido|Pueblo Nuevo|Guanajuato||36501|11|36501||15|024|0787|Rural|
+36893|Progreso de la Unión|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5984|Rural|
+36894|Betania del Suspiro|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5953|Rural|
+36894|El Baúl|Ejido|Pueblo Nuevo|Guanajuato||36501|11|36501||15|024|5961|Rural|
+36894|Los Rayos|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5641|Rural|
+36894|Quinta San Carlos|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5986|Rural|
+36894|El Suspiro|Ejido|Pueblo Nuevo|Guanajuato||36501|11|36501||15|024|5963|Rural|
+36894|Granja Toro Pinto de los Hermanos Mozqueda|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5977|Rural|
+36894|Colonia los Rosales|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5958|Rural|
+36894|Granja Socorro|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5976|Rural|
+36894|Granja los Rosales|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5969|Rural|
+36894|Granja San Antonio|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5971|Rural|
+36894|Presa Grande|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5981|Rural|
+36894|Antonio Rodríguez Ortiz|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5951|Rural|
+36894|Cerrito del Capulín de Yóstiro|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5954|Rural|
+36894|Granja el Rosario|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5966|Rural|
+36895|Santa Eulalia|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5988|Rural|
+36895|Vista Hermosa|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5989|Rural|
+36895|Guadalupe del Monte (La Lupita)|Ejido|Pueblo Nuevo|Guanajuato||36501|11|36501||15|024|0793|Rural|
+36896|Hacienda de Alonso|Congregación|Pueblo Nuevo|Guanajuato||36501|11|36501||11|024|0790|Rural|
+36896|Apaseo el Alto|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5952|Rural|
+36896|Granja Vázquez|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5978|Rural|
+36896|San Rafael|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5987|Rural|
+36896|San José del Carmen|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|0792|Rural|
+36896|El Palmito|Ejido|Pueblo Nuevo|Guanajuato||36501|11|36501||15|024|5962|Rural|
+36896|Granja San Pablo|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5972|Rural|
+36896|Granja Santa Elena|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5975|Rural|
+36896|Presa San Joaquín|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5982|Rural|
+36896|La Soledad|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|0791|Rural|
+36896|Quinta el Carmen|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5985|Rural|
+36896|Cerritos|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5955|Rural|
+36896|Colonia San José del Carmen|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5959|Rural|
+36896|Granja los González|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5967|Rural|
+36896|Granja los Reyes|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5968|Rural|
+36896|Granja San Pedro|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5973|Rural|
+36896|Durazno de Fonseca|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|0789|Rural|
+36896|Granja el Durazno|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5965|Rural|
+36896|Granja San Rafael|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5974|Rural|
+36897|Montecillos|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|0785|Rural|
+36897|Colonia el Palomar|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5957|Rural|
+36897|Casa Blanca|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|0784|Rural|
+36897|Padres Mártires|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5980|Rural|
+36897|Colonia Progresista|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5347|Rural|
+36897|Granja Conchita|Granja|Pueblo Nuevo|Guanajuato||36501|11|36501||23|024|5964|Rural|
+36897|Progreso de Afuera|Ranchería|Pueblo Nuevo|Guanajuato||36501|11|36501||29|024|5983|Rural|
+36897|La Purísima|Poblado comunal|Pueblo Nuevo|Guanajuato||36501|11|36501||27|024|5979|Rural|
+36897|Congregación de Panales|Congregación|Pueblo Nuevo|Guanajuato||36501|11|36501||11|024|0786|Rural|

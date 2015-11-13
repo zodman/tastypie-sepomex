@@ -1,0 +1,21 @@
+90230|Sanctórum|Pueblo|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||28|020|0094|Urbano|
+90231|Francisco Villa|Pueblo|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||28|020|0095|Rural|
+90233|Juan Antonio|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0989|Rural|
+90233|San Nicolás (Farfán)|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|1000|Rural|
+90233|Celia Pérez|Pueblo|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||28|020|0986|Rural|
+90233|San Nicolás El Grande|Pueblo|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||28|020|0097|Rural|
+90233|Pachuquilla|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0998|Rural|
+90233|NCP Álvaro Obregón|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0996|Rural|
+90234|La Reforma|Pueblo|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||28|020|0099|Rural|
+90234|La Presa de Pozuelos|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0992|Rural|
+90234|San Leonardo Arroyo|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0999|Rural|
+90234|Julio Roldán|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0990|Rural|
+90234|Los Alpinos|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0995|Rural|
+90234|La Providencia|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0993|Rural|
+90234|Las Palomas|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0994|Rural|
+90234|La Ladera|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0991|Rural|
+90234|Santa Cruz|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|1001|Rural|
+90234|Contadero|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0098|Rural|
+90234|Doña Evelia (Los Alpinos)|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0987|Rural|
+90234|Guadalupe|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0997|Rural|
+90234|Esquibajas|Ranchería|Sanctórum de Lázaro Cárdenas|Tlaxcala||90201|29|90201||29|020|0988|Rural|

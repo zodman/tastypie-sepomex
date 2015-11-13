@@ -1,0 +1,44 @@
+62520|Tepoztlán Centro|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|0199|Semiurbano|
+62520|Los Reyes|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0915|Semiurbano|
+62520|El Tesoro|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1918|Urbano|
+62520|Santo Domingo|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0916|Semiurbano|
+62520|San Sebastián|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0920|Semiurbano|
+62520|Santa Cruz|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0921|Semiurbano|
+62520|San Miguel|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0918|Semiurbano|
+62520|Los Ocotes|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1920|Urbano|
+62520|Tierra Blanca|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|0913|Semiurbano|
+62520|San Pedro|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0914|Semiurbano|
+62520|La Santísima|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0917|Semiurbano|
+62520|San José|Barrio|Tepoztlán|Morelos||62521|17|62521||02|020|0919|Semiurbano|
+62523|Los Ocotes|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1272|Rural|
+62523|San Juan Tlacotenco|Pueblo|Tepoztlán|Morelos||62521|17|62521||28|020|0200|Rural|
+62523|El Parque Estación|Estación|Tepoztlán|Morelos||62521|17|62521||16|020|0201|Rural|
+62523|Mirador del Sol|Congregación|Tepoztlán|Morelos||62521|17|62521||11|020|1919|Rural|
+62524|Santo Domingo Ocotitlán|Pueblo|Tepoztlán|Morelos||62521|17|62521||28|020|0202|Rural|
+62524|Del Carmen|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1266|Rural|
+62524|Achichipico|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1271|Rural|
+62525|Ixcatepec|Pueblo|Tepoztlán|Morelos||62521|17|62521||28|020|0204|Rural|
+62525|Chisco|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1269|Rural|
+62525|El Pedregal|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1268|Rural|
+62525|Huilotepec|Pueblo|Tepoztlán|Morelos||62521|17|62521||28|020|0203|Rural|
+62525|Amatlán de Quetzalcoatl|Ranchería|Tepoztlán|Morelos||62521|17|62521||29|020|0205|Rural|
+62525|Tecmilco|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1267|Rural|
+62526|San Martín Caballero|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1270|Rural|
+62526|Santiago Tepetlapa|Pueblo|Tepoztlán|Morelos||62521|17|62521||28|020|0198|Rural|
+62526|San Andrés de La Cal|Ranchería|Tepoztlán|Morelos||62521|17|62521||29|020|0196|Rural|
+62527|Huachinantilla|Colonia|Tepoztlán|Morelos||62521|17|62521||09|020|1273|Rural|
+62527|Valle de Cuernavaca|Ejido|Tepoztlán|Morelos||62521|17|62521||15|020|0208|Rural|
+62527|Santa Catarina|Pueblo|Tepoztlán|Morelos||62521|17|62521||28|020|0197|Rural|
+62528|Benito Juárez|Colonia|Tepoztlán|Morelos||62731|17|62731||09|020|1275|Rural|
+62528|Ángel Boca Negra|Pueblo|Tepoztlán|Morelos||62731|17|62731||28|020|0207|Rural|
+62528|Obrera|Colonia|Tepoztlán|Morelos||62731|17|62731||09|020|1274|Rural|
+62529|Lomas del Pedregal|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1921|Urbano|
+62529|Loma Esmeralda|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1922|Urbano|
+62529|Santa Catarina de la Cruz|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1924|Urbano|
+62529|Loma Bonita|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1277|Semiurbano|
+62529|Rinconada de Acolapan|Unidad habitacional|Tepoztlán|Morelos||62571|17|62571||31|020|1172|Urbano|
+62529|Ampliación Los Robles|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1925|Urbano|
+62529|Tetecolala (Amp. Civac)|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1923|Urbano|
+62529|Constituyentes|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1926|Urbano|
+62529|Lomas de Acolapan|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1276|Semiurbano|
+62529|Valle Alegre|Colonia|Tepoztlán|Morelos||62571|17|62571||09|020|1927|Urbano|

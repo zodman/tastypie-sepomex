@@ -1,0 +1,21 @@
+33280|Carichi|Pueblo|Carichí|Chihuahua||31501|08|31501||28|012|1695|Rural|
+33280|Arroyito de Agua|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1694|Rural|
+33281|Tajirachic|Pueblo|Carichí|Chihuahua||31501|08|31501||28|012|1697|Rural|
+33281|Ciénega de Ojos Azules|Ejido|Carichí|Chihuahua||31501|08|31501||15|012|1696|Rural|
+33283|Barrio San Isidro|Barrio|Carichí|Chihuahua||31501|08|31501||02|012|0002|Urbano|
+33283|El Sáuz de Ojos Azules|Ejido|Carichí|Chihuahua||31501|08|31501||15|012|1698|Rural|
+33283|Buenavista|Colonia|Carichí|Chihuahua||31501|08|31501||09|012|5676|Rural|
+33284|Norogachito|Pueblo|Carichí|Chihuahua||31501|08|31501||28|012|1699|Rural|
+33285|El Álamo de Ojos Azules|Ejido|Carichí|Chihuahua||31501|08|31501||15|012|1700|Rural|
+33285|Ojos Azules|Ejido|Carichí|Chihuahua||31501|08|31501||15|012|1701|Rural|
+33286|Molinares|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1702|Rural|
+33287|Guazarachi|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1703|Rural|
+33288|San Isidro|Hacienda|Carichí|Chihuahua||31501|08|31501||24|012|1704|Rural|
+33293|Las Juntas|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|0001|Rural|
+33295|San José Bequeachi|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1705|Rural|
+33295|Tucheachi|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1706|Rural|
+33296|Guahuacherare|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1707|Rural|
+33296|Nararachi|Ejido|Carichí|Chihuahua||31501|08|31501||15|012|1708|Rural|
+33297|Tecubichi|Ranchería|Carichí|Chihuahua||31501|08|31501||29|012|1709|Rural|
+33298|Teguerichic|Pueblo|Carichí|Chihuahua||31501|08|31501||28|012|1710|Rural|
+33299|Bacabureachic|Ejido|Carichí|Chihuahua||31501|08|31501||15|012|1711|Rural|

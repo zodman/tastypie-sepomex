@@ -1,0 +1,25 @@
+62800|Tetela del Volcán|Pueblo|Tetela del Volcán|Morelos||62801|17|62801||28|022|0520|Rural|
+62802|Xochicalco|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|0522|Rural|
+62802|Tlalmimilulpan|Pueblo|Tetela del Volcán|Morelos||62801|17|62801||28|022|0521|Rural|
+62802|El Malinal|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1398|Rural|
+62803|Paluca|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1393|Rural|
+62803|Cacapola|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1395|Rural|
+62803|Tlalamayocan|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1396|Rural|
+62803|Zacapechpa-zacapezuca|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1397|Rural|
+62804|San Miguel|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1388|Rural|
+62804|El Encinal|Colonia|Tetela del Volcán|Morelos||62801|17|62801||09|022|1391|Rural|
+62804|El Capulín|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1389|Rural|
+62804|Tecla|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1392|Rural|
+62804|Lomas Lindas|Colonia|Tetela del Volcán|Morelos||62801|17|62801||09|022|1394|Rural|
+62805|Cuaucorra|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1390|Rural|
+62810|Hueyapan|Pueblo|Tetela del Volcán|Morelos||62801|17|62801||28|022|0524|Rural|
+62812|Tzitzcastla-las Flores|Colonia|Tetela del Volcán|Morelos||62801|17|62801||09|022|1378|Rural|
+62812|Yiganechxco|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1379|Rural|
+62813|El Olivar-Emiliano Zapata|Colonia|Tetela del Volcán|Morelos||62801|17|62801||09|022|1381|Rural|
+62813|El Chilar Tepeyehualco|Colonia|Tetela del Volcán|Morelos||62801|17|62801||09|022|1380|Rural|
+62814|Amialtenco|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1385|Rural|
+62814|Ahuazutlán|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1382|Rural|
+62814|Matlacotla|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1383|Rural|
+62814|El Chupamirto|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1384|Rural|
+62814|Tlalcomulco|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1386|Rural|
+62815|Las Mesas|Ranchería|Tetela del Volcán|Morelos||62801|17|62801||29|022|1387|Rural|

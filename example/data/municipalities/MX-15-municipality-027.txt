@@ -1,0 +1,9 @@
+52240|Chapultepec|Pueblo|Chapultepec|México||52241|15|52241||28|027|1893|Rural|
+52243|Del Campesino|Colonia|Chapultepec|México||52241|15|52241||09|027|7060|Semiurbano|
+52243|Las Américas|Colonia|Chapultepec|México||52241|15|52241||09|027|7059|Semiurbano|
+52244|Santa Teresa|Unidad habitacional|Chapultepec|México||52241|15|52241||31|027|7058|Urbano|
+52250|La Presa (Ejido de Chapultepec)|Colonia|Chapultepec|México||52241|15|52241||09|027|8661|Rural|
+52250|San Isidro|Colonia|Chapultepec|México||52241|15|52241||09|027|8662|Rural|
+52253|El Calvario|Colonia|Chapultepec|México||52241|15|52241||09|027|8663|Rural|
+52254|Vista Hermosa (Rancho el Huevito)|Ranchería|Chapultepec|México||52241|15|52241||29|027|8665|Rural|
+52254|Los Ciruelos  (Rancho el Iris)|Ranchería|Chapultepec|México||52241|15|52241||29|027|8664|Rural|

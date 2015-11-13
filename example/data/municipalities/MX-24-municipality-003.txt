@@ -1,0 +1,222 @@
+79760|Aquismón|Pueblo|Aquismón|San Luis Potosí||79001|24|79001||28|003|1529|Rural|
+79760|Loma Colorada|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4505|Rural|
+79760|El Choy|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4503|Rural|
+79760|Norte|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4506|Rural|
+79760|La Mora|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4504|Rural|
+79760|El Zapote|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|1530|Rural|
+79760|Nueva|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4507|Rural|
+79764|San Rafael|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1544|Rural|
+79766|Barrio el Chamal|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4518|Rural|
+79766|Barrio San José|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4523|Rural|
+79766|Barrio San Miguel|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4524|Rural|
+79766|Jomté Eureka|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4576|Rural|
+79766|Lanim|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4607|Rural|
+79766|Lázaro Castillo (La Labor del Lienzo Charro)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4610|Rural|
+79766|Manja|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4624|Rural|
+79766|Paxaljá|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1532|Rural|
+79766|Tamcuime|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1537|Rural|
+79766|Octzén|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4631|Rural|
+79766|Tan Tzajib|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4686|Rural|
+79766|Barrio de las Golondrinas|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4517|Rural|
+79766|Cuetáb|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4530|Rural|
+79766|La Laja|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4591|Rural|
+79766|El Zopope|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|2804|Rural|
+79766|Barrio el Progreso|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4519|Rural|
+79766|Barrio la Sagrada Familia|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4522|Rural|
+79766|El Mirador|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4552|Rural|
+79766|La Unión de Guadalupe|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4605|Rural|
+79766|Linjá|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4611|Rural|
+79766|Tahuilatzén|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4682|Rural|
+79766|Tamápatz|Barrio|Aquismón|San Luis Potosí||79001|24|79001||02|003|1545|Rural|
+79766|Alitzé|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4511|Rural|
+79766|Eureka|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1546|Rural|
+79766|Santa Bárbara|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1547|Rural|
+79767|San Francisco|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1549|Rural|
+79767|El Respaldo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4559|Rural|
+79767|Jagüey Prieto (El Jagüey)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4574|Rural|
+79767|Joya de las Vacas|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4577|Rural|
+79767|La Peña Blanca|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4599|Rural|
+79767|La Soledad|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4602|Rural|
+79767|San José Oija|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4672|Rural|
+79767|Tampete|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4685|Rural|
+79767|Tangojo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4688|Rural|
+79767|Múhuatl|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|2660|Rural|
+79767|El Carrizo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4539|Rural|
+79767|La Esperanza|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4586|Rural|
+79767|La Mesa|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4594|Rural|
+79767|Los Limones|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4618|Rural|
+79767|Los Lirios|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4619|Rural|
+79767|Santa Rita|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4681|Rural|
+79767|Agua Bendita|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4508|Rural|
+79767|Barrio de Jolja|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4516|Rural|
+79767|Mina de Belemont|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4627|Rural|
+79767|San Martín|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4673|Rural|
+79767|Tamcuem|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|2409|Rural|
+79767|Joya del Limón|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4579|Rural|
+79767|La Reforma|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4600|Rural|
+79767|La Yerbabuena|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4606|Rural|
+79767|Las Ánimas|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4608|Rural|
+79767|Los Vidales|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4623|Rural|
+79767|Octujub o Campeche|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4630|Rural|
+79767|Agua Amarga|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1528|Rural|
+79767|Agua Nueva|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|2413|Rural|
+79767|Alte Anam (La Banqueta)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4512|Rural|
+79767|Cueva del Tiwi (Cueva de la Gavilucha)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4531|Rural|
+79767|El Túnel|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4567|Rural|
+79767|Jactzén|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4572|Rural|
+79767|La Manteca|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4593|Rural|
+79767|Puerto del Jonote|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4639|Rural|
+79767|Puerto Tampete|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4640|Rural|
+79767|San Rafael Tampaxal|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4676|Rural|
+79767|Hoya de la Luz|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4571|Rural|
+79767|Joya del Limón (María Gregoria Bautista)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4580|Rural|
+79767|San Isidro|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4670|Rural|
+79767|Al Tzabalte|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4509|Rural|
+79767|Barrio la Cruz|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4520|Rural|
+79767|Cuache|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4529|Rural|
+79767|Jol Mom|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4575|Rural|
+79767|Joya de Papatla|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4578|Rural|
+79767|Sanjuanita|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4677|Rural|
+79767|Ulush (El Nacimiento)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4690|Rural|
+79767|Tampaxal|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1542|Rural|
+79767|Los Hornos|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|2417|Rural|
+79767|Barrio la Mina|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4521|Rural|
+79770|Arroyo Zarco|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4515|Rural|
+79770|El Sabino|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4562|Rural|
+79770|El Sauz|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4564|Rural|
+79770|Puerto de Tantzotzob|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4638|Rural|
+79770|Yerbabuena|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4691|Rural|
+79770|El Chamal|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4541|Rural|
+79770|Tanquizul|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4689|Rural|
+79770|El Corozo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4546|Rural|
+79770|El Pemoche|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4557|Rural|
+79770|Jagüey Cercado|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4573|Rural|
+79770|La Reforma|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4601|Rural|
+79770|Rancho Alegre (El Cañón)|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4644|Rural|
+79770|El Copoy|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4544|Rural|
+79770|Los Canelos|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4615|Rural|
+79770|Los Charcos|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4616|Rural|
+79770|La Paloma|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4597|Rural|
+79770|Tanchopol|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4687|Rural|
+79770|Tansosob|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1540|Rural|
+79770|La Cruz de Guadalupe|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4583|Rural|
+79770|La Mesa|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4595|Rural|
+79770|La Cuchilla|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1550|Rural|
+79770|La Cueva (El Rezago)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4584|Rural|
+79770|La Mora (El Lindero)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4596|Rural|
+79770|La Peña|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4598|Rural|
+79770|San Rafael Tamápatz|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4675|Rural|
+79773|Tanchanaco|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1539|Rural|
+79773|Puhuitzé|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4641|Rural|
+79773|La Brecha (La Brecha de Tantzotzob)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|2410|Rural|
+79773|Tampate|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1535|Rural|
+79773|Tanute|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1541|Rural|
+79773|Rancho Japazum|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4650|Rural|
+79773|Colonia el Mirador|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4527|Rural|
+79773|Oxitipa|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4632|Rural|
+79773|Rancho los Riachuelos|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4659|Rural|
+79773|El Aguacate|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4532|Rural|
+79773|El Choy|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4543|Rural|
+79773|Loma Bonita|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4612|Rural|
+79773|Mantezulel|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4625|Rural|
+79774|El Corocito|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4545|Rural|
+79774|La Caldera|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1548|Rural|
+79774|El Caracol|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4538|Rural|
+79774|El Otate|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4554|Rural|
+79774|Loma Bonita (Charco)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4613|Rural|
+79774|El Sabinal|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4561|Rural|
+79774|Oxmolón|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4633|Rural|
+79774|El Aguacate|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4533|Rural|
+79775|El Coyol|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4548|Rural|
+79775|El Progreso|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4558|Rural|
+79775|La Laguna|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4590|Rural|
+79775|Rancho Nuevo Tamalte|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4662|Rural|
+79775|Salsipuedes|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4668|Rural|
+79775|Tambaque|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4684|Rural|
+79775|El Pastor|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4556|Rural|
+79775|Pedro Castillo Sánchez (El Volantín)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4635|Rural|
+79775|Rancho el Plan de Limón|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4648|Rural|
+79775|Rancho San Jorge|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4664|Rural|
+79775|San Francisco de Asís|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4669|Rural|
+79775|Alborada Primera|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4510|Rural|
+79775|El Sacrificio|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4563|Rural|
+79775|Marcos Luis Santiago (Santa Anita)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4626|Rural|
+79775|San Pablo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4674|Rural|
+79775|Tamalte|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4683|Rural|
+79775|El Limón|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4549|Rural|
+79775|El Maguey|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4550|Rural|
+79775|Rancho Nuevo|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4661|Rural|
+79775|Santa Elena|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4679|Rural|
+79775|Arroyo Grande (El Puente)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4514|Rural|
+79775|El Chilaf|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4542|Rural|
+79775|El Rosario|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4560|Rural|
+79775|La Ilusión|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4589|Rural|
+79775|San Pedro de las Anonas|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1533|Rural|
+79775|El Centavo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4540|Rural|
+79775|El Volantín|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4568|Rural|
+79775|NCPE Santa Anita|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4629|Rural|
+79775|Santa Cruz|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1534|Rural|
+79775|Tampemoche|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1536|Rural|
+79775|Carlos Mayorga|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4526|Rural|
+79775|El Bosque|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4535|Rural|
+79775|Roberto Morales|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4667|Rural|
+79775|Santa Anita|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1554|Rural|
+79775|La Garita Tambaque|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4587|Rural|
+79775|Los Ciruelos|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4617|Rural|
+79775|Rancho las Flores|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4656|Rural|
+79775|Zanja Prieta (Los Támez)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4692|Rural|
+79776|Tanchachin|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1538|Rural|
+79776|Rancho Acuario|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4642|Rural|
+79776|Las Vegas|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4609|Rural|
+79776|El Caporal Uno|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4537|Rural|
+79776|El Manzanillo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4551|Rural|
+79776|El Caporal Dos|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4536|Rural|
+79776|Guillermo Durán|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4570|Rural|
+79776|La Unión Catorce|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4604|Rural|
+79776|San José el Viejo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4671|Rural|
+79776|Puente de Dios (Paso Alto)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4636|Rural|
+79776|Rancho las Mesas|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4657|Rural|
+79776|El Corozo|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4547|Rural|
+79776|El Naranjito (Isaías López)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4553|Rural|
+79776|Rancho las Mesas (Javier González Ramírez)|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4658|Rural|
+79776|La Morena|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|1551|Rural|
+79776|Rancho la Morena|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4655|Rural|
+79777|El Sauz (Saucito Viejo)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4566|Rural|
+79777|La Cañada (Los Corrales)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4581|Rural|
+79777|Los Otates|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4621|Rural|
+79777|Moctezuma|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4628|Rural|
+79777|Rancho San Francisco|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4663|Rural|
+79777|Coyotes (Camarones)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4528|Rural|
+79777|Rancho Agua de la Mona|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4643|Rural|
+79777|Rancho la Labor|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4653|Rural|
+79777|Rancho Santa Isabel|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4666|Rural|
+79777|Santa Anita Dos|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4678|Rural|
+79777|Santa Martha|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4680|Rural|
+79777|El Paraíso|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4555|Rural|
+79777|Los Naranjos|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4620|Rural|
+79777|Rancho San Jorge|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4665|Rural|
+79777|El Jabalí|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1552|Rural|
+79777|El Águila (Rincón del Águila)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4534|Rural|
+79777|La Escondida|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4585|Rural|
+79777|La Sonadora Uno (Maclovio Medellín)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4603|Rural|
+79777|Lorenzo Juárez Bueno|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4614|Rural|
+79777|Palo de Arco|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4634|Rural|
+79777|Rancho el Afán (La Choyosa)|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4646|Rural|
+79777|Rancho la Ilusión|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4651|Rural|
+79777|Rancho la Joya del Encino|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4652|Rural|
+79777|El Vergel|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1553|Rural|
+79777|Rancho el Milagro|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4647|Rural|
+79777|El Naranjito|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|1531|Rural|
+79777|La Ceiba (Los Corrales)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4582|Rural|
+79777|Puerto de Guaymas|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4637|Rural|
+79777|Rancho el Siete Leguas|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4649|Rural|
+79777|Rancho la Mina|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4654|Rural|
+79777|Rancho María Bonita|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4660|Rural|
+79777|Arroyo Blanco|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4513|Rural|
+79777|Camarones|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4525|Rural|
+79777|El Sauz (El Saucito)|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4565|Rural|
+79777|Gallinas [Estación Hidrométrica]|Ejido|Aquismón|San Luis Potosí||79001|24|79001||15|003|4569|Rural|
+79777|La Hierbabuena (Rancho San Antonio)|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4588|Rural|
+79777|Los Remedios|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4622|Rural|
+79777|Rancho Bertita|Ranchería|Aquismón|San Luis Potosí||79001|24|79001||29|003|4645|Rural|
+79777|La Loma|Poblado comunal|Aquismón|San Luis Potosí||79001|24|79001||27|003|4592|Rural|

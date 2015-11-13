@@ -1,0 +1,34 @@
+95840|Angel R. Cabada|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|3574|Semiurbano|50
+95842|Taide|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4905|Semiurbano|50
+95842|Peralvillo|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|0004|Rural|50
+95842|Barrio Nuevo|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4903|Semiurbano|50
+95842|El Mesón|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4904|Semiurbano|50
+95843|Luis Donaldo Colosio|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4902|Semiurbano|50
+95843|Barrio Sur|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|5348|Semiurbano|50
+95843|José López Portillo|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4536|Semiurbano|50
+95844|Lechería|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4538|Semiurbano|50
+95844|Rafael Hernández Ochoa|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4537|Semiurbano|50
+95844|Brujo|Barrio|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||02|015|5343|Semiurbano|50
+95844|Articulo 27|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave|Ángel R. Cabada|95841|30|95841||09|015|4906|Semiurbano|50
+95845|Tulapilla (Ejido Tulapilla)|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|0002|Rural|
+95845|La Alianza|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|0003|Rural|
+95845|San Rafael|Colonia|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||09|015|7839|Rural|
+95845|La Florida|Congregación|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||11|015|3577|Rural|
+95846|El Progreso Majahual|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3580|Rural|
+95846|Laguna de Majahual (Río de Cañas)|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3582|Rural|
+95846|El Panatlán|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3583|Rural|
+95846|El Porvenir|Congregación|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||11|015|3581|Rural|
+95847|Tecolapan|Congregación|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||11|015|3588|Rural|
+95847|Tula|Congregación|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||11|015|3584|Rural|
+95847|La Mojarra|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3585|Rural|
+95847|Paso del Ingenio|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3586|Rural|
+95847|Chonegal|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3587|Rural|
+95848|Ixhuapan|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3590|Rural|
+95848|El Pital|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|0001|Rural|
+95848|San Juan de los Reyes (Luis Valenzuela)|Congregación|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||11|015|3592|Rural|
+95848|Zanja Grande de Abajo|Congregación|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||11|015|7777|Rural|
+95848|El Saltillo Caracolar|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3575|Rural|
+95848|El Escobillal|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3589|Rural|
+95848|Los Lirios|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3578|Rural|
+95848|La Providencia|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3591|Rural|
+95849|La Esperanza|Ranchería|Angel R. Cabada|Veracruz de Ignacio de la Llave||95841|30|95841||29|015|3576|Rural|

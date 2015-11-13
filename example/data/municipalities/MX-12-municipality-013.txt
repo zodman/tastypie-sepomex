@@ -1,0 +1,99 @@
+41900|Azoyu Centro|Colonia|Azoyú|Guerrero|Azoyú|41901|12|41901||09|013|1155|Rural|30
+41902|Del Zorro|Barrio|Azoyú|Guerrero|Azoyú|41901|12|41901||02|013|1747|Rural|30
+41902|Tixnapa|Barrio|Azoyú|Guerrero|Azoyú|41901|12|41901||02|013|1686|Rural|30
+41903|Del Panteón|Barrio|Azoyú|Guerrero|Azoyú|41901|12|41901||02|013|1203|Rural|30
+41904|Oriente|Colonia|Azoyú|Guerrero|Azoyú|41901|12|41901||09|013|1527|Rural|30
+41904|Poniente|Barrio|Azoyú|Guerrero|Azoyú|41901|12|41901||02|013|1546|Rural|30
+41904|La Crucita|Barrio|Azoyú|Guerrero|Azoyú|41901|12|41901||02|013|1359|Rural|30
+41904|Las Ollitas|Colonia|Azoyú|Guerrero|Azoyú|41901|12|41901||09|013|1424|Rural|30
+41905|Peñas Negras|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5222|Rural|
+41905|Arcelia del Progreso|Pueblo|Azoyú|Guerrero||41901|12|41901||28|013|3535|Rural|
+41905|Zapotitlán de La Fuente (El Zapote)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|3544|Rural|
+41906|Rancho el Mesón|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4381|Rural|
+41906|Rancho Mario Bautista|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4384|Rural|
+41906|El Potrero|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5201|Rural|
+41906|La Culebra|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5209|Rural|
+41906|Las Pilitas|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5214|Rural|
+41906|Tencohuey|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5229|Rural|
+41906|Maxmandi|Ejido|Azoyú|Guerrero||41901|12|41901||15|013|3539|Rural|
+41906|Rancho Carlota Viuda de Peña|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4382|Rural|
+41906|Rancho Estrada|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4385|Rural|
+41906|Cerro Cuate|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5193|Rural|
+41906|El Tamarindo|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5203|Rural|
+41906|Rancho Cerro Cuate|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4383|Rural|
+41906|Agua Fría|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5190|Rural|
+41906|El Salto|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5202|Rural|
+41907|Quetzalapa|Pueblo|Azoyú|Guerrero||41706|12|41706||28|013|3538|Rural|
+41910|Rancho el Limón (Rancho Bautista)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4391|Rural|
+41910|Rancho Muñoz Castellanos|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4394|Rural|
+41910|Llano del Muerto (Rancho de Chema Rodríguez)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5216|Rural|
+41910|Lomas del Vidal (El Vidal)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5217|Rural|
+41910|La Pelota|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|3546|Rural|
+41910|Rancho la Antena|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4386|Rural|
+41910|Rancho Dos Potrillos (Rancho Luis Justo H.)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4389|Rural|
+41910|Rancho Eleazar Zurita|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4393|Rural|
+41910|Huerta Pablo Maceda|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5206|Rural|
+41910|Rancho el Centenario (Rancho Luis Justo)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4387|Rural|
+41910|Rancho Ángel Zurita|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4390|Rural|
+41910|El Carrizo|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|3545|Rural|
+41910|Rancho Bautista Dos (Hermanos B. Florentino)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4388|Rural|
+41910|La Mazacuata|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5211|Rural|
+41910|San Isidro el Puente (El Puente)|Congregación|Azoyú|Guerrero||41901|12|41901||11|013|3547|Rural|
+41910|Rancho Dos Laureles|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4392|Rural|
+41910|Finca los Pumas (Crucero Lomas del Vidal)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5204|Rural|
+41910|Las Palmas|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5213|Rural|
+41913|Rancho Lauro Justo (Amate Guinea)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5226|Rural|
+41913|Toxnene|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5230|Rural|
+41913|Rancho Hermanos Alvarado (Crucero de Huehuetán)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4398|Rural|
+41913|El Macahuite|Ejido|Azoyú|Guerrero||41901|12|41901||15|013|3541|Rural|
+41913|Rancho Hermenegildo Antonio Hernández|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4396|Rural|
+41913|Rancho Magdaleno Justo|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4395|Rural|
+41913|Rancho Edrey Bautista|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4397|Rural|
+41914|Rancho Gabriel Herrera|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4400|Rural|
+41914|El Capulín|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5199|Rural|
+41914|El Mango|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5200|Rural|
+41914|Rancho Muñoz|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4399|Rural|
+41914|Talapilla|Congregación|Azoyú|Guerrero||41901|12|41901||11|013|3542|Rural|
+41914|Tenango|Ejido|Azoyú|Guerrero||41901|12|41901||15|013|3537|Rural|
+41914|Rancho Celso Muñoz|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4402|Rural|
+41914|Rancho Lempira|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4401|Rural|
+41914|Aguacatillo (Rancho Maximino Muñoz)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5191|Rural|
+41915|La Bocana|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5208|Rural|
+41915|Tres Pelos|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5231|Rural|
+41915|Cola de Charco (Charco Grande)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5197|Rural|
+41915|Las Trancas|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5215|Rural|
+41915|Palo Blanco|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5221|Rural|
+41915|Rosendo Balanzar García [Rancho]|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5228|Rural|
+41915|Los Chegües|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5218|Rural|
+41915|Chalacatepec|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5194|Rural|
+41915|Playa Suave|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5224|Rural|
+41915|Zapotitán|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5233|Rural|
+41916|La Amatera|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5207|Rural|
+41916|Rancho Herrera Martínez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4403|Rural|
+41916|Los Quiterios|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5220|Rural|
+41916|Cafetal (Rancho Amado Herrera Martínez)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5192|Rural|
+41916|Huehuetán|Pueblo|Azoyú|Guerrero||41901|12|41901||28|013|3549|Rural|
+41916|Charco de Alfonso Cruz (Los Carmona la Loma)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5196|Rural|
+41916|Crucero de Huehuetán [Escuela Secundaria J. García|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5198|Rural|
+41916|Los Metates|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5219|Rural|
+41916|Rancho el Charro (Celso Alvarado Nolasco)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4404|Rural|
+41917|Villa de Cortez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5232|Rural|
+41917|Rancho Carlos Villanueva Mendoza|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4411|Rural|
+41917|Huerta Gustavo Guerrero Cortez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5205|Rural|
+41917|Rancho Manzanárez Cortez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4407|Rural|
+41917|Rancho Hermanos Cortez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4409|Rural|
+41917|Rancho Mario Navarrete|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4405|Rural|
+41917|Charco Choco (Rancho Domingo Martínez)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5195|Rural|
+41917|La Haciendita|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5210|Rural|
+41917|Adalberto Sáligan Ávila (Playa Larga)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4406|Rural|
+41917|Rancho Mariana Cortez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4413|Rural|
+41917|La Unión de los Hernández|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5212|Rural|
+41917|Banco de Oro|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|3552|Rural|
+41917|El Arenal (La Plataforma)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|3553|Rural|
+41917|Rancho los Mendoza|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4412|Rural|
+41917|Playa Larga|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5223|Rural|
+41917|Rancho Paulino Dámaso Mayo|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5227|Rural|
+41917|Rancho Isabel Rodríguez|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4408|Rural|
+41917|Rancho Maximiliano Mendoza (Rancho de Lango)|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|4410|Rural|
+41917|Rancho Bulmaro García|Ranchería|Azoyú|Guerrero||41901|12|41901||29|013|5225|Rural|
+41918|La Reforma|Campamento|Azoyú|Guerrero||41706|12|41706||04|013|3596|Rural|

@@ -1,0 +1,9 @@
+26640|Guerrero|Villa|Guerrero|Coahuila de Zaragoza||26001|05|26001||32|012|0910|Rural|
+26643|San Vicente|Ejido|Guerrero|Coahuila de Zaragoza||26001|05|26001||15|012|3180|Rural|
+26643|Agrícola el Saucito|Colonia|Guerrero|Coahuila de Zaragoza||26001|05|26001||09|012|3233|Urbano|
+26650|La Reforma|Ranchería|Guerrero|Coahuila de Zaragoza||26531|05|26531||29|012|0911|Rural|
+26650|Santa Mónica|Hacienda|Guerrero|Coahuila de Zaragoza||26531|05|26531||24|012|0912|Rural|
+26655|Agua Dulce|Ejido|Guerrero|Coahuila de Zaragoza||26531|05|26531||15|012|0913|Rural|
+26659|Guadalupe|Ejido|Guerrero|Coahuila de Zaragoza||26531|05|26531||15|012|0914|Rural|
+26660|Hacienda de Guadalupe|Hacienda|Guerrero|Coahuila de Zaragoza||26531|05|26531||24|012|0915|Rural|
+26662|San Pablo (El Rosario)|Ejido|Guerrero|Coahuila de Zaragoza||26531|05|26531||15|012|0916|Rural|

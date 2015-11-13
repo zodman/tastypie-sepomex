@@ -1,0 +1,33 @@
+60250|Paracho de Verduzco Centro|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|1727|Urbano|13
+60251|Villa Magisterial|Unidad habitacional|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||31|065|2920|Urbano|13
+60251|Balcones de Cumbuen|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2921|Urbano|13
+60251|Purepechas|Fraccionamiento|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||21|065|2922|Urbano|13
+60252|Paracho|Unidad habitacional|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||31|065|2940|Urbano|13
+60252|Los Cedros|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2939|Urbano|13
+60252|San José|Unidad habitacional|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||31|065|2941|Urbano|13
+60254|San Francisco|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2942|Urbano|13
+60255|Santa Cecilia|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2938|Urbano|13
+60256|Lázaro Cárdenas|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2935|Urbano|13
+60256|El Pino|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2937|Urbano|13
+60256|Cuauhtémoc Cárdenas|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2933|Urbano|13
+60256|Eduardo Ruiz|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2934|Urbano|13
+60256|San Juan|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2936|Urbano|13
+60257|El Arenal|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2929|Urbano|13
+60257|Villa Artesanal|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2930|Urbano|13
+60257|12 de Diciembre|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2931|Urbano|13
+60257|Patriotismo Mexicano|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2932|Urbano|13
+60258|20 de Noviembre|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2926|Urbano|13
+60258|Artesanos de la Educación|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2927|Urbano|13
+60258|2 de Septiembre|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2928|Urbano|13
+60259|Lomas del Valle|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2924|Urbano|13
+60259|Morelos|Fraccionamiento|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||21|065|2923|Urbano|13
+60259|Lindavista|Colonia|Paracho|Michoacán de Ocampo|Paracho de Verduzco|60253|16|60253||09|065|2925|Urbano|13
+60260|Pomacuarán (Pomocuarán)|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1728|Rural|
+60261|Arato|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1731|Rural|
+60262|Nurio|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1726|Urbano|
+60263|Santa María Urapicho|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1729|Rural|
+60264|Ahuirán|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1725|Rural|
+60265|Cherán Atzicuirín (Cheranástico)|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1733|Rural|
+60266|Los Reyes|Rancho|Paracho|Michoacán de Ocampo||60253|16|60253||48|065|0001|Rural|
+60266|Aranza (Arantzán)|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1730|Rural|
+60267|Quinceo|Pueblo|Paracho|Michoacán de Ocampo||60253|16|60253||28|065|1734|Urbano|

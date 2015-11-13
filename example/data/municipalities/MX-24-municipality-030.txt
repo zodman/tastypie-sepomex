@@ -1,0 +1,14 @@
+79480|San Nicolás Tolentino|Villa|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||32|030|1296|Rural|
+79482|Barranca de San Joaquín|Ranchería|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||29|030|1297|Rural|
+79483|Jagüey de San Francisco|Pueblo|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||28|030|0001|Rural|
+79483|Cañas|Congregación|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||11|030|1298|Rural|
+79484|Morenos|Ejido|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||15|030|1299|Rural|
+79484|Ojo de Agua|Ranchería|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||29|030|1300|Rural|
+79485|San José de Nogalitos|Ranchería|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||29|030|1301|Rural|
+79486|Laguna de Santo Domingo|Congregación|San Nicolás Tolentino|San Luis Potosí||79402|24|79402||11|030|1304|Rural|
+79487|Potrero de Santa Gertrudis|Congregación|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||11|030|1302|Rural|
+79488|Ignacio Allende|Congregación|San Nicolás Tolentino|San Luis Potosí||79402|24|79402||11|030|1303|Rural|
+79489|Las Golondrinas|Ranchería|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||29|030|1305|Rural|
+79490|Santa Catarina|Ejido|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||15|030|1307|Rural|
+79491|San Martín de Abajo|Ranchería|San Nicolás Tolentino|San Luis Potosí||78001|24|78001||29|030|1308|Rural|
+79493|Fracción Ocampo|Congregación|San Nicolás Tolentino|San Luis Potosí||79611|24|79611||11|030|1306|Rural|

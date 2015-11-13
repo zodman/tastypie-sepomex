@@ -1,0 +1,30 @@
+59730|Las Huertas|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0005|Urbano|
+59730|El Arco|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0002|Urbano|
+59730|Lázaro Cárdenas|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0006|Urbano|
+59730|Bellas Torres|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0001|Urbano|
+59730|Ecuandureo|Pueblo|Ecuandureo|Michoacán de Ocampo||59733|16|59733||28|030|1385|Urbano|
+59730|San Francisco|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0008|Urbano|
+59730|Guadalupe Victoria|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0003|Urbano|
+59730|La Olla|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0004|Urbano|
+59730|Lomas de Ecuandureo|Colonia|Ecuandureo|Michoacán de Ocampo||59733|16|59733||09|030|0007|Urbano|
+59732|Quiringuicharo|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1390|Urbano|
+59734|Potrero Nuevo|Rancho|Ecuandureo|Michoacán de Ocampo||59733|16|59733||48|030|0012|Rural|
+59734|La Soledad|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1392|Rural|
+59734|La Barranca|Pueblo|Ecuandureo|Michoacán de Ocampo||59733|16|59733||28|030|0010|Rural|
+59734|Rincón Grande|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1387|Rural|
+59735|Los Nogales|Rancho|Ecuandureo|Michoacán de Ocampo||59733|16|59733||48|030|0011|Rural|
+59735|Moreno de Valencia|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1394|Rural|
+59735|Moreno de Bravo|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1389|Rural|
+59735|La Cañada de Moreno|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1393|Rural|
+59735|San José Aramútaro|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|0014|Rural|
+59736|Puerta de Vargas|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|0013|Rural|
+59736|Colesio|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1395|Rural|
+59737|Las Fuentes|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1386|Rural|
+59737|Ucácuaro|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1388|Rural|
+59740|Las Torcazas|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1396|Rural|
+59744|Las Maravillas|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1397|Rural|
+59744|El Torreón|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|0009|Rural|
+59745|La Nopalera|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1399|Rural|
+59745|Las Majadas (La Florida)|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1400|Rural|
+59745|La Estancia de Gómez|Ranchería|Ecuandureo|Michoacán de Ocampo||59733|16|59733||29|030|1398|Rural|
+59746|La Sauceda|Rancho|Ecuandureo|Michoacán de Ocampo||59733|16|59733||48|030|0015|Rural|

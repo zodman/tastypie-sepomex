@@ -1,0 +1,18 @@
+68725|San Francisco|Barrio|Ixtlán de Juárez|Oaxaca||68729|20|68729||02|042|3769|Rural|
+68725|La Soledad|Barrio|Ixtlán de Juárez|Oaxaca||68729|20|68729||02|042|1116|Rural|
+68725|San Pedro|Barrio|Ixtlán de Juárez|Oaxaca||68729|20|68729||02|042|1278|Rural|
+68725|Santa María Yahuiche|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0704|Rural|
+68725|Ixtlán de Juárez|Villa|Ixtlán de Juárez|Oaxaca||68729|20|68729||32|042|0703|Rural|
+68725|La Asunción|Barrio|Ixtlán de Juárez|Oaxaca||68729|20|68729||02|042|1065|Rural|
+68726|La Josefina|Ranchería|Ixtlán de Juárez|Oaxaca||68301|20|68301||29|042|4325|Rural|
+68726|San Gaspar Yagalaxi|Pueblo|Ixtlán de Juárez|Oaxaca||68301|20|68301||28|042|0714|Rural|
+68726|La Palma|Ranchería|Ixtlán de Juárez|Oaxaca||68301|20|68301||29|042|4326|Rural|
+68727|San Juan Yogila|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0707|Rural|
+68727|Santa Cruz Yagavila|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0708|Rural|
+68727|Santo Domingo Cacalotepec|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0705|Rural|
+68727|San Juan Anyogila|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0706|Rural|
+68727|Santa Maria Zoogachi|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0709|Rural|
+68727|Santiago Teotlaxco|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0710|Rural|
+68728|La Luz|Pueblo|Ixtlán de Juárez|Oaxaca||68729|20|68729||28|042|0711|Rural|
+68728|San Miguel Tiltepec|Ranchería|Ixtlán de Juárez|Oaxaca||68729|20|68729||29|042|0712|Rural|
+68728|Santa Maria Josaa|Ranchería|Ixtlán de Juárez|Oaxaca||68729|20|68729||29|042|0713|Rural|

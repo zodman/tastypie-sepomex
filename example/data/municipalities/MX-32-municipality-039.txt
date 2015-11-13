@@ -1,0 +1,54 @@
+98400|Ignacio Allende|Colonia|Río Grande|Zacatecas||98421|32|98421||09|039|0196|Rural|
+98400|La Florida|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0197|Rural|
+98400|Los Ramirez|Pueblo|Río Grande|Zacatecas||98421|32|98421||28|039|0200|Rural|
+98400|Bajo de Moya|Poblado comunal|Río Grande|Zacatecas||98421|32|98421||27|039|1743|Rural|
+98400|Las Esperanzas|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0198|Rural|
+98400|Las Piedras|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0199|Rural|
+98400|Tierra Blanca|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0203|Rural|
+98400|Las Palomas|Colonia|Río Grande|Zacatecas||98421|32|98421||09|039|1276|Rural|
+98401|El Fuerte|Ejido|Río Grande|Zacatecas||98421|32|98421||15|039|0204|Rural|
+98403|La Luz|Colonia|Río Grande|Zacatecas||98421|32|98421||09|039|0206|Rural|
+98404|San Felipe|Ejido|Río Grande|Zacatecas||98421|32|98421||15|039|0207|Rural|
+98405|Jose Maria Morelos y Pavón|Ejido|Río Grande|Zacatecas||98421|32|98421||15|039|0208|Rural|
+98406|Loreto|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0209|Rural|
+98409|Ignacio Zaragoza|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0211|Rural|
+98410|Progreso de Alfonso Medina|Colonia|Río Grande|Zacatecas||98421|32|98421||09|039|0213|Rural|
+98413|Francisco Garcia Salinas|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0214|Rural|
+98416|Tetillas|Ranchería|Río Grande|Zacatecas||98421|32|98421||29|039|0215|Rural|
+98419|Pastelera|Ejido|Río Grande|Zacatecas||98421|32|98421||15|039|0201|Rural|
+98419|Emiliano Zapata|Ejido|Río Grande|Zacatecas||98421|32|98421||15|039|0210|Rural|
+98420|Rio Grande Centro|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0857|Semiurbano|05
+98422|Los Duraznos|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0843|Semiurbano|05
+98422|La Estrella|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0848|Semiurbano|05
+98422|Azteca|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0829|Semiurbano|05
+98422|Buenos Aires|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0830|Semiurbano|05
+98422|Tepeyac|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0831|Semiurbano|05
+98422|Ricardo Flores Magón|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0842|Semiurbano|05
+98423|SUTSEMOP|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0841|Urbano|05
+98423|La Loma|Barrio|Río Grande|Zacatecas|Río Grande|98421|32|98421||02|039|0825|Semiurbano|05
+98423|SNTE D-II-12|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0851|Urbano|05
+98423|Lic Luis Donaldo Colosio|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0850|Urbano|05
+98423|Halcones|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0826|Semiurbano|05
+98424|C. C. I.|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0852|Urbano|05
+98424|Lomas del Río|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0854|Urbano|05
+98424|Jardines Del Rio|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0832|Semiurbano|05
+98424|El Mezquital|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|1303|Semiurbano|05
+98424|CTM|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0833|Semiurbano|05
+98424|Vista Hermosa|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0834|Semiurbano|05
+98424|Potrero Loma Prieta|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|1304|Urbano|05
+98425|INFONAVIT|Unidad habitacional|Río Grande|Zacatecas|Río Grande|98421|32|98421||31|039|0002|Urbano|05
+98425|Adolfo López Mateos|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0824|Urbano|05
+98425|Del Norte|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0001|Urbano|05
+98425|La Cuesta|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0837|Semiurbano|05
+98425|Del Rosario|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0856|Semiurbano|05
+98425|Rio Agua Naval|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0839|Semiurbano|05
+98426|El Llano|Barrio|Río Grande|Zacatecas|Río Grande|98421|32|98421||02|039|0822|Semiurbano|05
+98426|Ruiz Cortines|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0838|Semiurbano|05
+98426|El Cuero|Barrio|Río Grande|Zacatecas|Río Grande|98421|32|98421||02|039|0823|Semiurbano|05
+98429|Cantarranas|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0828|Semiurbano|05
+98429|Libertad|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0845|Semiurbano|05
+98429|El Ruiseñor|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|1744|Urbano|05
+98429|Rio Grande|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0847|Semiurbano|05
+98429|La Trinidad|Colonia|Río Grande|Zacatecas|Río Grande|98421|32|98421||09|039|0827|Semiurbano|05
+98429|La Hacienda|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0844|Semiurbano|05
+98429|Álamos|Fraccionamiento|Río Grande|Zacatecas|Río Grande|98421|32|98421||21|039|0846|Semiurbano|05

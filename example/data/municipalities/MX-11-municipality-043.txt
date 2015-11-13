@@ -1,0 +1,145 @@
+37920|Ciudad Victoria|Pueblo|Victoria|Guanajuato||37901|11|37901||28|043|2204|Rural|
+37923|El Tepehuaje|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0034|Rural|
+37923|Álamos de Martínez|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2207|Rural|
+37923|El Mezquital|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0021|Rural|
+37923|Los Plátanos|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0078|Rural|
+37923|Mina del Refugio (Río Colorado)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2209|Rural|
+37923|El Clavel|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0014|Rural|
+37923|Mesa Prieta|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0084|Rural|
+37923|Palo Blanco|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0092|Rural|
+37923|Buenavista de Guadalupe|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2208|Rural|
+37923|Rancho Viejo (Espíritu Santo)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2210|Rural|
+37923|Los Colorados|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0072|Rural|
+37923|Monte Nuevo|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0089|Rural|
+37923|La Capillita|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0042|Rural|
+37923|Tres Pasos|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0120|Rural|
+37923|Agua Fría|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0002|Rural|
+37923|El Guayabo|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0016|Rural|
+37923|El Sabino|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0031|Rural|
+37923|La Dalia|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0044|Rural|
+37923|La Joya|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0050|Rural|
+37923|La Peña Azul|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0056|Rural|
+37923|La Pitahaya|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0059|Rural|
+37924|Piedra Gorda|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0099|Rural|
+37924|San Jerónimo (El Llanito)|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0116|Rural|
+37924|Las Naranjas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2212|Rural|
+37924|Derramaderos|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2205|Rural|
+37924|San Isidro de las Palmas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0115|Rural|
+37924|La Lagunita|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0001|Rural|
+37924|Pozo Hondo|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0101|Rural|
+37924|La Joya Fría|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2213|Rural|
+37924|El Obispo (San Martín del Obispo)|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0025|Rural|
+37924|Puerto de Palmas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2214|Rural|
+37924|El Jaralito|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0019|Rural|
+37924|Palo Seco|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0094|Rural|
+37925|El Gallinero|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0015|Rural|
+37925|El Huizache (Cañada de Huizaches)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0017|Rural|
+37925|Milpillas del Pito|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2225|Rural|
+37925|La Yerbabuena|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0063|Rural|
+37925|Los Nogales|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0075|Rural|
+37925|El Varal|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0035|Rural|
+37925|La Joya (Ojo de Agua)|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0051|Rural|
+37925|Las Negritas|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0067|Rural|
+37925|San Gabriel del Pito|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0114|Rural|
+37925|La Mojonera|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0054|Rural|
+37925|Las Veredas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0069|Rural|
+37925|Paso Hondo|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0097|Rural|
+37925|San Antonio de la Cueva|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0113|Rural|
+37925|El Maguey Blanco|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0020|Rural|
+37925|La Redonda|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0060|Rural|
+37925|Las Chivas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0064|Rural|
+37925|Rincón de Huizaches|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0109|Rural|
+37925|El Nogal Grande|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0024|Rural|
+37925|La Gavia (Mesa de la Gavia)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0048|Rural|
+37925|Los Corrales|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0073|Rural|
+37925|Los Nogales (Los Hartones)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0076|Rural|
+37925|Morisquilla|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0090|Rural|
+37925|Potrerillos|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0100|Rural|
+37925|Corral Viejo|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0010|Rural|
+37925|El Tanque|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0033|Rural|
+37925|La Cantera|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0041|Rural|
+37925|La Peña Colorada|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0057|Rural|
+37925|El Amole|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0011|Rural|
+37925|El Piñón|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0028|Rural|
+37925|La Ermita|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0045|Rural|
+37925|La Palma (La Melera)|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0055|Rural|
+37925|San Salvador de Ahorcados|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2202|Rural|
+37926|La Peñita|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0058|Rural|
+37926|Las Trojes|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0068|Rural|
+37926|El Refugio|Hacienda|Victoria|Guanajuato||37981|11|37981||24|043|2220|Rural|
+37926|Rincón Grande|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0111|Rural|
+37926|El Carmen|Hacienda|Victoria|Guanajuato||37981|11|37981||24|043|2219|Rural|
+37926|La Gavia Chica|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0049|Rural|
+37926|Loma de los Chilitos|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0070|Rural|
+37926|El Sauz de Arriba|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0032|Rural|
+37926|La Luz|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0053|Rural|
+37926|Peña Blanca|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0098|Rural|
+37926|Rincón del Zapote|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0110|Rural|
+37926|Malinto (San Juan Malinto)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2222|Rural|
+37926|Mesita del Tigre|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0085|Rural|
+37926|Negritas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0091|Rural|
+37926|La Esperanza|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2221|Rural|
+37926|Cerro de la Cabra|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0008|Rural|
+37926|El Pitahayo|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0029|Rural|
+37926|Puerto de Domingo|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0102|Rural|
+37926|Puerto de Galván|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0103|Rural|
+37926|Cañada de Moreno|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2217|Rural|
+37926|Capilla Blanca|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2218|Rural|
+37927|La Simona|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0061|Rural|
+37927|Panales|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0095|Rural|
+37927|San Agustín|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0112|Rural|
+37927|Cieneguilla|Congregación|Victoria|Guanajuato||37981|11|37981||11|043|2203|Rural|
+37927|Mangas Cuatas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0080|Rural|
+37927|Mesa de la Cantera|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0081|Rural|
+37927|Paso Hondo|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0096|Rural|
+37927|Tasajillo|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0118|Rural|
+37927|Cañada de Higueras|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0006|Rural|
+37927|El Milagro|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0022|Rural|
+37927|La Lagunilla|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0052|Rural|
+37927|Milpas Blancas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0086|Rural|
+37927|Puerto del Aire|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0107|Rural|
+37927|La Estancia de Abajo|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0047|Rural|
+37927|Los Parajitos|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0077|Rural|
+37927|Cerrito Colorado|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2224|Rural|
+37927|El Jabonero|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0018|Rural|
+37927|La Estancia|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0046|Rural|
+37927|Los Linderos|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0074|Rural|
+37927|Sauz de Higueras|Finca|Victoria|Guanajuato||37981|11|37981||20|043|0117|Rural|
+37927|Arroyo Hondo|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0003|Rural|
+37927|Cañada de Trancas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0007|Rural|
+37927|El Chorro|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0013|Rural|
+37927|El Quelite|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0030|Rural|
+37927|La Cañada|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0039|Rural|
+37927|Las Heladas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0065|Rural|
+37927|Puerto de Trancas|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0106|Rural|
+37927|Terrero de Cieneguilla|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0119|Rural|
+37927|Romerillos|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2216|Rural|
+37927|Sombrerete|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2223|Rural|
+37927|El Nogal Chico|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0023|Rural|
+37927|Los Aviones|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0071|Rural|
+37927|Los Tanques|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0079|Rural|
+37927|El Carrizo|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0012|Rural|
+37927|El Peltre|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0027|Rural|
+37927|Milpillas del Tepetate|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0088|Rural|
+37927|Palo Gordo|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0093|Rural|
+37927|Puerto de la Tapona (La Tapona)|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0104|Rural|
+37927|Palmillas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|2226|Rural|
+37927|Misión de Arnedo|Congregación|Victoria|Guanajuato||37981|11|37981||11|043|2228|Rural|
+37928|Los Remedios (Cerro Grande)|Congregación|Victoria|Guanajuato||37981|11|37981||11|043|2227|Rural|
+37928|La Calera|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0040|Rural|
+37928|La Sobrepiedra|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0062|Rural|
+37928|Mesa del Salto|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0083|Rural|
+37928|Corralillos|Hacienda|Victoria|Guanajuato||37981|11|37981||24|043|2215|Rural|
+37928|Entronque de Jacalasúchitl|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0036|Rural|
+37928|Tunas Blancas|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0121|Rural|
+37928|La Cebolleta|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0043|Rural|
+37928|Mesa de Ortiz|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0082|Rural|
+37928|Arroyo Seco|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0004|Rural|
+37928|Atascadero de los González|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0005|Rural|
+37928|Milpillas de Santiago|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0087|Rural|
+37928|El Ojo de Agua|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0026|Rural|
+37928|Jaboncillos|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0037|Rural|
+37928|Las Higueras (Carrizal de Higueras)|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0066|Rural|
+37928|Corral de Piedra|Poblado comunal|Victoria|Guanajuato||37981|11|37981||27|043|0009|Rural|
+37928|Jacalasúchitl|Ranchería|Victoria|Guanajuato||37981|11|37981||29|043|0038|Rural|
+37928|Puerto del Roble|Granja|Victoria|Guanajuato||37981|11|37981||23|043|0108|Rural|

@@ -1,0 +1,8 @@
+75400|Concordia de Aquiles Serdán|Pueblo|Los Reyes de Juárez|Puebla||75152|21|75152||28|118|2236|Rural|
+75400|Los Reyes de Juárez|Pueblo|Los Reyes de Juárez|Puebla||75152|21|75152||28|118|2237|Rural|
+75404|Vicente Guerrero|Ranchería|Los Reyes de Juárez|Puebla||75152|21|75152||29|118|2238|Rural|
+75410|Buenavista de Juárez|Pueblo|Los Reyes de Juárez|Puebla||75152|21|75152||28|118|2239|Rural|
+75410|San Juan Acozac|Pueblo|Los Reyes de Juárez|Puebla||75152|21|75152||28|118|2240|Rural|
+75412|El Alto|Barrio|Los Reyes de Juárez|Puebla||75152|21|75152||02|118|7258|Rural|
+75412|Santiago Acozac|Pueblo|Los Reyes de Juárez|Puebla||75152|21|75152||28|118|2241|Rural|
+75415|Benito Juárez|Pueblo|Los Reyes de Juárez|Puebla||75201|21|75201||28|118|2242|Rural|

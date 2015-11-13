@@ -1,0 +1,80 @@
+73590|Roberto Esperón|Colonia|Acateno|Puebla||73801|21|73801||09|002|7131|Rural|
+73590|Lomas de Mirador|Colonia|Acateno|Puebla||73801|21|73801||09|002|7133|Urbano|
+73590|Palo Gacho|Ranchería|Acateno|Puebla||73801|21|73801||29|002|1138|Rural|
+73590|Anáhuac|Colonia|Acateno|Puebla||73801|21|73801||09|002|7064|Rural|
+73590|San José Acateno|Pueblo|Acateno|Puebla||73801|21|73801||28|002|1139|Rural|
+73590|Niños Héroes|Colonia|Acateno|Puebla||73801|21|73801||09|002|7132|Rural|
+73590|Libertad|Colonia|Acateno|Puebla||73801|21|73801||09|002|7134|Urbano|
+73590|Copales|Ranchería|Acateno|Puebla||73801|21|73801||29|002|1137|Rural|
+73591|Jiliapan|Ranchería|Acateno|Puebla||73801|21|73801||29|002|1140|Rural|
+73592|Tierra Nueva|Ejido|Acateno|Puebla||73801|21|73801||15|002|1141|Rural|
+73593|Cerro de Palmartepec|Ranchería|Acateno|Puebla||73801|21|73801||29|002|1142|Rural|
+73593|La Cárcel|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7099|Rural|
+73593|Sotero|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7121|Rural|
+73593|La Pileta|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7070|Rural|
+73593|La Reforma|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7108|Rural|
+73593|El Fortín|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7089|Rural|
+73593|El Aguacate|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7087|Rural|
+73593|La Poderosa|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7106|Rural|
+73593|Coyoles de la Vega|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7080|Rural|
+73593|Santa Cruz Buenavista|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7119|Rural|
+73593|Tonalapa|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7123|Rural|
+73594|La Soledad|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7109|Rural|
+73594|Loma de la Cruz|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7110|Rural|
+73594|Cantarranas|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7072|Rural|
+73594|El Girasol|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7090|Rural|
+73594|El Huarache|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7091|Rural|
+73594|El Uvero|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7097|Rural|
+73594|Dos Arroyos|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7081|Rural|
+73594|Monte Limpio|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7111|Rural|
+73594|San Manuel|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7118|Rural|
+73594|Tres Marías|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7124|Rural|
+73595|El Guayabal|Ranchería|Acateno|Puebla||73801|21|73801||29|002|1145|Rural|
+73595|Palo Gacho|Ejido|Acateno|Puebla||73801|21|73801||15|002|7085|Rural|
+73595|Río Verde|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7115|Rural|
+73595|Copalillo|Ejido|Acateno|Puebla||73801|21|73801||15|002|7083|Rural|
+73595|La Higuera|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7102|Rural|
+73595|Arroyo Blanco|Ranchería|Acateno|Puebla||73801|21|73801||29|002|1144|Rural|
+73595|Arizona|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7066|Rural|
+73595|La Esperanza|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7100|Rural|
+73595|Atalpa|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7067|Rural|
+73595|Tepalcatzin|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7122|Rural|
+73595|Cerro de Acateno|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7074|Rural|
+73595|Arenales|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7065|Rural|
+73595|El Palenque|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7093|Rural|
+73595|El Reparo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7095|Rural|
+73595|Coyoles|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7079|Rural|
+73595|El Aguilar|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7086|Rural|
+73595|San José Acateno|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7117|Rural|
+73595|Ampliación Tilapa Ejido|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7063|Rural|
+73596|Coapal Chico|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7076|Rural|
+73596|La Nueva Esperanza|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7104|Rural|
+73596|Plan de María|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7113|Rural|
+73596|Zanzontla|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7129|Rural|
+73596|Zonquimixtla|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7130|Rural|
+73596|Ayoteaco|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7069|Rural|
+73596|Coapal Grande|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7077|Rural|
+73597|La Purísima|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7107|Rural|
+73597|Zanja Mala|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7128|Rural|
+73597|Buenos Aires|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7071|Rural|
+73597|Ayones|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7068|Rural|
+73597|Dos Caminos|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7082|Rural|
+73597|El Tamarindo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7096|Rural|
+73597|Tzontecomapa|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7125|Rural|
+73597|Cojolites|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7078|Rural|
+73597|La Cantina|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7098|Rural|
+73597|La Palma|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7105|Rural|
+73598|Insurgentes|Ejido|Acateno|Puebla||73801|21|73801||15|002|7084|Rural|
+73598|Nuevo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7114|Rural|
+73598|Valle de San Luis|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7126|Rural|
+73598|Saltillo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7116|Rural|
+73598|Santa Elvira|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7120|Rural|
+73598|Valsequillo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7127|Rural|
+73598|El Carmen|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7088|Rural|
+73598|Cedro Viejo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7073|Rural|
+73598|El Recuerdo (La Huastequilla)|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7094|Rural|
+73598|Chichicazapan|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7075|Rural|
+73598|La Fábrica|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7101|Rural|
+73598|El Ocotillo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7092|Rural|
+73598|La Laja|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7103|Rural|
+73598|Mundo Nuevo|Ranchería|Acateno|Puebla||73801|21|73801||29|002|7112|Rural|

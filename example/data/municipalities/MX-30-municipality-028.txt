@@ -1,0 +1,87 @@
+94285|El Terraplén|Ranchería|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||29|028|7788|Rural|03
+94285|La Pinagoga|Ranchería|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||29|028|7789|Rural|03
+94286|Casa de la Condesa de Malibrán|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave||94292|30|94292||21|028|7786|Urbano|
+94286|San José Novillero|Ejido|Boca del Río|Veracruz de Ignacio de la Llave||94292|30|94292||15|028|5708|Rural|
+94286|Quinta Al Andalus|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave||94292|30|94292||21|028|0001|Urbano|
+94286|Rivera de la Condesa|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave||94292|30|94292||21|028|5707|Urbano|
+94287|Paso Colorado|Ranchería|Boca del Río|Veracruz de Ignacio de la Llave||94292|30|94292||29|028|7790|Rural|
+94287|Rancho JF|Ranchería|Boca del Río|Veracruz de Ignacio de la Llave||94292|30|94292||29|028|7791|Rural|
+94290|La Tampiquera|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2749|Urbano|03
+94290|Camino Real|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|0663|Urbano|03
+94290|Hicacal II|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|6046|Urbano|03
+94290|Río Jamapa|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2751|Urbano|03
+94290|Pescadores|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|4303|Urbano|03
+94290|ISSSFAM Militar|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|5416|Urbano|03
+94290|El Estero|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|2753|Urbano|03
+94290|El Dorado|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|9039|Urbano|03
+94290|Ricardo Flores Magón|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2750|Urbano|03
+94290|Boca del Río Centro|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2746|Urbano|03
+94290|Costa del Sol|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2747|Urbano|03
+94290|Hicacal|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|4542|Urbano|03
+94293|Graciano Sánchez Romo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|0819|Urbano|03
+94293|INFONAVIT el Morro|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|2754|Urbano|03
+94293|San José|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|1070|Urbano|03
+94293|Lomas Del Mar|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2756|Urbano|03
+94293|Los Delfines|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2757|Urbano|03
+94293|Cordilleras|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|7255|Urbano|03
+94293|Residencial la Joya|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|7492|Urbano|03
+94293|Los Arcos|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|6044|Urbano|03
+94293|El Morro las Colonias|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|0891|Urbano|03
+94293|Playa Hermosa|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2759|Urbano|03
+94293|Gardenias|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2755|Urbano|03
+94294|Virginia|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|2766|Urbano|03
+94294|Fovissste|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|2763|Urbano|03
+94294|SUTSEM|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|4304|Urbano|03
+94294|Estatuto Juridico|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2762|Urbano|03
+94294|Galaxia|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2764|Urbano|03
+94294|Costa Verde|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2761|Urbano|03
+94294|Jardines de Virginia|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2765|Urbano|03
+94295|Casas Tamsa|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2773|Urbano|03
+94295|Remes|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2770|Urbano|03
+94295|Vista Alegre|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2774|Urbano|03
+94295|Bonos Del Ahorro Nacional|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2767|Urbano|03
+94295|Marco Antonio Muñoz|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2769|Urbano|03
+94295|Linda Vista|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2768|Urbano|03
+94295|Nueva Era|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2771|Urbano|03
+94295|Rigo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2772|Urbano|03
+94296|Manuel Nieto|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2778|Urbano|03
+94296|TAMSA|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|2780|Urbano|03
+94296|Manlio Fabio Altamirano (Lecheros)|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2777|Urbano|03
+94296|Virginia Cordero de Murillo Vidal|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2781|Urbano|03
+94296|Hípico|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|2776|Urbano|03
+94296|Revolución|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2779|Urbano|03
+94297|Las Vegas II|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|6039|Urbano|03
+94297|José López Portillo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2784|Urbano|03
+94297|Venustiano Carranza|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2788|Urbano|03
+94297|Militar|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|6045|Urbano|03
+94297|El Manantial|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|0958|Urbano|03
+94297|Ejido Primero de Mayo Norte|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2786|Urbano|03
+94297|Venustiano Carranza 3a Sección|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|6041|Urbano|03
+94297|Miguel Alemán II Ampliación|Ampliación|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||38|028|6042|Urbano|03
+94297|INFONAVIT las Vegas|Unidad habitacional|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||31|028|2785|Urbano|03
+94297|Ejido Primero de Mayo Sur|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2787|Urbano|03
+94297|9 de Marzo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|6040|Urbano|03
+94297|Miguel Alemán Valdés|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|0972|Urbano|03
+94297|8 de Marzo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|0996|Urbano|03
+94297|Fernando Gutiérrez Barrios|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2782|Urbano|03
+94297|Ugocep|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|4305|Urbano|03
+94297|Gobierno Estatal|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|6043|Urbano|03
+94297|Plan de Ayala|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|1013|Urbano|03
+94297|Dante Delgado Ranauro|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|4544|Urbano|03
+94297|Guillermo López Portillo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2783|Urbano|03
+94298|La Cuchilla|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2792|Urbano|03
+94298|Benito Juárez|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2790|Urbano|03
+94298|Lázaro Cárdenas|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2793|Urbano|03
+94298|Obrera|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2795|Urbano|03
+94298|Luis Echeverria Álvarez|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2794|Urbano|03
+94298|Ylang Ylang|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2797|Urbano|03
+94298|Playa de Oro Mocambo|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|4308|Urbano|03
+94298|Las Américas|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|5579|Urbano|03
+94298|Adalberto Tejeda|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2789|Urbano|03
+94298|Villa Rica|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|2796|Urbano|03
+94298|Joyas de Mocambo (Granjas los Pinos)|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|0851|Urbano|03
+94298|Villa Rica|Ampliación|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||38|028|4306|Urbano|03
+94299|Costa de Oro|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|2798|Urbano|03
+94299|Petrolera (Heriberto Kehoe)|Colonia|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||09|028|4545|Urbano|03
+94299|De las Américas|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|7983|Urbano|03
+94299|Jardines de Mocambo|Fraccionamiento|Boca del Río|Veracruz de Ignacio de la Llave|Boca del RÍo|94292|30|94292||21|028|2801|Urbano|03

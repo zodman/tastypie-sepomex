@@ -1,0 +1,15 @@
+99130|Jose Maria Morelos|Congregación|Sain Alto|Zacatecas||99131|32|99131||11|040|0491|Rural|
+99130|Barrancas|Ranchería|Sain Alto|Zacatecas||99131|32|99131||29|040|0490|Rural|
+99130|Rio de Medina|Congregación|Sain Alto|Zacatecas||99131|32|99131||11|040|0492|Rural|
+99130|Sain Bajo|Pueblo|Sain Alto|Zacatecas||99131|32|99131||28|040|0494|Rural|
+99130|San Antonio|Colonia|Sain Alto|Zacatecas||99131|32|99131||09|040|1651|Rural|
+99130|Sain Alto|Pueblo|Sain Alto|Zacatecas||99131|32|99131||28|040|0493|Rural|
+99132|El Cazadero|Ranchería|Sain Alto|Zacatecas||98421|32|98421||29|040|0496|Rural|
+99138|Santa Eduviges|Ranchería|Sain Alto|Zacatecas||99131|32|99131||29|040|1644|Rural|
+99138|Laguna Blanca|Ranchería|Sain Alto|Zacatecas||99131|32|99131||29|040|1643|Rural|
+99140|Cantuna|Ranchería|Sain Alto|Zacatecas||99101|32|99101||29|040|0497|Rural|
+99140|Cantuna Sur|Ranchería|Sain Alto|Zacatecas||99101|32|99101||29|040|0499|Rural|
+99140|Cantuna Norte|Ranchería|Sain Alto|Zacatecas||99101|32|99101||29|040|0498|Rural|
+99141|Luis Moya|Ranchería|Sain Alto|Zacatecas||98421|32|98421||29|040|0502|Rural|
+99141|Cañas|Ranchería|Sain Alto|Zacatecas||98421|32|98421||29|040|0500|Rural|
+99141|Emiliano Zapata|Ranchería|Sain Alto|Zacatecas||98421|32|98421||29|040|0501|Rural|

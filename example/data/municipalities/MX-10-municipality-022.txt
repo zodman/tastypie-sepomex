@@ -1,0 +1,29 @@
+34800|Villa Unión|Pueblo|Poanas|Durango||34801|10|34801||28|022|0841|Semiurbano|
+34800|El Refugio|Pueblo|Poanas|Durango||34801|10|34801||28|022|0844|Rural|
+34803|Felipe Ángeles (Salitrillo)|Ejido|Poanas|Durango||34801|10|34801||15|022|5078|Rural|
+34803|Rancho el Porvenir|Ejido|Poanas|Durango||34801|10|34801||15|022|5082|Rural|
+34803|La Noria del Ojo|Ejido|Poanas|Durango||34801|10|34801||15|022|5079|Rural|
+34803|Rancho Lerma|Ejido|Poanas|Durango||34801|10|34801||15|022|5083|Rural|
+34803|Rancho los Pérez|Ejido|Poanas|Durango||34801|10|34801||15|022|5084|Rural|
+34804|18 de Agosto|Ejido|Poanas|Durango||34801|10|34801||15|022|0856|Rural|
+34804|San Martín|Pueblo|Poanas|Durango||34801|10|34801||28|022|5085|Rural|
+34805|El Carmen|Ranchería|Poanas|Durango||34801|10|34801||29|022|5075|Rural|
+34806|Francisco Zarco|Pueblo|Poanas|Durango||34801|10|34801||28|022|0850|Rural|
+34806|Ex-hacienda el Ojo|Ranchería|Poanas|Durango||34801|10|34801||29|022|5077|Rural|
+34810|San Atenógenes (La Villita)|Villa|Poanas|Durango||34801|10|34801||32|022|0842|Rural|
+34810|Colonia División|Colonia|Poanas|Durango||34801|10|34801||09|022|5073|Rural|
+34813|Cieneguilla|Pueblo|Poanas|Durango||34801|10|34801||28|022|0851|Rural|
+34816|Narciso Mendoza|Pueblo|Poanas|Durango||34801|10|34801||28|022|0846|Rural|
+34816|Presa Francisco Villa (La Presa)|Ejido|Poanas|Durango||34801|10|34801||15|022|5081|Rural|
+34820|Damián Carmona|Ejido|Poanas|Durango||34801|10|34801||15|022|0852|Rural|
+34820|El Potosí|Pueblo|Poanas|Durango||34801|10|34801||28|022|0855|Rural|
+34820|El Ranchito|Ranchería|Poanas|Durango||34801|10|34801||29|022|5076|Rural|
+34820|Los Ángeles|Pueblo|Poanas|Durango||34801|10|34801||28|022|0853|Rural|
+34820|Estación Poanas|Estación|Poanas|Durango||34801|10|34801||16|022|0857|Rural|
+34820|Los Molinos|Ranchería|Poanas|Durango||34801|10|34801||29|022|5080|Rural|
+34823|Orizaba|Ejido|Poanas|Durango||34801|10|34801||15|022|0854|Rural|
+34825|Noria de los Pilares|Ejido|Poanas|Durango||34801|10|34801||15|022|0847|Rural|
+34826|La Joya|Pueblo|Poanas|Durango||34801|10|34801||28|022|0858|Rural|
+34830|La Ochoa|Pueblo|Poanas|Durango||34801|10|34801||28|022|0848|Rural|
+34830|Veracruz|Pueblo|Poanas|Durango||34801|10|34801||28|022|0849|Rural|
+34837|El Alamillo|Ranchería|Poanas|Durango||34801|10|34801||29|022|5074|Urbano|

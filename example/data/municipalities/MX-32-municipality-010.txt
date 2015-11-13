@@ -1,0 +1,129 @@
+99000|Fresnillo Centro|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0431|Urbano|01
+99010|Emiliano Zapata|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0433|Urbano|01
+99010|Solidaridad|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0787|Urbano|01
+99010|Lomas del Mineral|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0002|Urbano|01
+99010|Napoleón Gómez Sada|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0786|Urbano|01
+99011|Lomas de Plateros|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0434|Urbano|01
+99013|Sector Popular|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0800|Urbano|01
+99013|Plutarco Elias Calles|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0801|Urbano|01
+99014|Francisco I Madero|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1334|Urbano|01
+99014|Azteca|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0789|Urbano|01
+99014|Patria y Libertad|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0802|Urbano|01
+99014|Ampliación Azteca|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1328|Urbano|01
+99014|Lázaro Cárdenas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1348|Urbano|01
+99014|Plan de Ayala|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0803|Urbano|01
+99014|Petroleos Mexicanos|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1341|Urbano|01
+99014|Nueva Esperanza|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0790|Urbano|01
+99020|Tecnológica|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0804|Urbano|01
+99020|El Fresno|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0436|Urbano|01
+99020|Benito Juárez|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0435|Urbano|01
+99020|Magisterial|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0776|Urbano|01
+99020|Francisco Goytia INFONAVIT|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0437|Urbano|01
+99030|Industrial|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0439|Urbano|01
+99030|El Parque|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0438|Urbano|01
+99030|Las Américas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0807|Urbano|01
+99030|Buenos Aires|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1291|Urbano|01
+99030|San Miguel|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1287|Urbano|01
+99033|Ejidal 3|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1331|Urbano|01
+99034|Lienzo Charro|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0808|Urbano|01
+99034|Miguel Hidalgo|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0809|Urbano|01
+99034|La Joya|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1349|Urbano|01
+99036|Luis Donaldo Colosio|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0791|Urbano|01
+99039|Lindavista|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0440|Urbano|01
+99039|Universidad|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0001|Urbano|01
+99040|Lasalle|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0442|Urbano|01
+99040|Periodistas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0810|Urbano|01
+99040|Jose Maria Vázquez|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0441|Urbano|01
+99040|Del Policía|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0779|Urbano|01
+99049|18 de Julio Indeco|Unidad habitacional|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||31|010|0443|Urbano|01
+99050|Jesús Gonzalez Ortega|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0799|Urbano|01
+99050|Del Fresno|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0812|Urbano|01
+99050|Las Flores|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0445|Urbano|01
+99050|Obrera Norte|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0446|Urbano|01
+99054|Francisco Villa|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0447|Urbano|01
+99054|Ecología|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1330|Urbano|01
+99054|Las Haciendas|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0794|Urbano|01
+99054|Huertas de Abajo|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0784|Urbano|01
+99055|Del Sol|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0785|Urbano|01
+99056|Los Balcones|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|1347|Urbano|01
+99056|Parque Industrial Fresnillo|Zona industrial|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||37|010|0005|Urbano|01
+99056|Real de Fresnillo|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0792|Urbano|01
+99056|Arboledas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0813|Urbano|01
+99056|Felipe Angeles|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1332|Urbano|01
+99056|Villas de Plateros|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|1338|Urbano|01
+99060|Lagunilla|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0449|Urbano|01
+99070|Barrio Alto|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0451|Urbano|01
+99070|El Olivar Manuel M. Ponce|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0783|Urbano|01
+99080|Fortuna|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0814|Urbano|01
+99080|FOVISSSTE Lic. Roque Estrada|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0815|Urbano|01
+99080|Real de Minas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0816|Urbano|01
+99080|El Vergel|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|1333|Urbano|01
+99080|La Paz|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1336|Urbano|01
+99080|Esparza|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0452|Urbano|01
+99080|Lomas de La Fortuna|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0453|Urbano|01
+99084|Ejidal 4|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0777|Urbano|01
+99084|Del Valle|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0817|Urbano|01
+99084|Los Sotoles|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1345|Urbano|01
+99089|Minera|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0455|Urbano|01
+99090|Maravillas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0457|Urbano|01
+99090|Electricistas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0456|Urbano|01
+99094|Del Bosque|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1329|Urbano|01
+99094|Victoria|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|1339|Urbano|01
+99094|Muralista|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1342|Urbano|01
+99094|Magisterial|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1344|Urbano|01
+99094|Magisterio Unido|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1343|Urbano|01
+99094|Mesoamerica|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0780|Urbano|01
+99094|Providencia|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1340|Urbano|01
+99094|Los Olivos|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|1346|Urbano|01
+99094|Polvaderas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0782|Urbano|01
+99094|San Felipe|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0793|Urbano|01
+99094|Impresionistas|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|1335|Urbano|01
+99095|Villas del Campestre|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0003|Urbano|01
+99099|Venustiano Carranza|Colonia|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||09|010|0459|Urbano|01
+99099|Jesús Gonzalez Ortega|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|0458|Urbano|01
+99099|Villas Jardín|Fraccionamiento|Fresnillo|Zacatecas|Fresnillo|99001|32|99001||21|010|1337|Urbano|01
+99150|El Modelo|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0504|Rural|
+99150|Fresnillo|Estación|Fresnillo|Zacatecas||99001|32|99001||16|010|0508|Rural|
+99150|Carrillo|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0503|Rural|
+99150|Miguel Hidalgo|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0510|Rural|
+99150|El Pardillo Tercero|Colonia|Fresnillo|Zacatecas||99001|32|99001||09|010|0505|Rural|
+99150|Las Catarinas|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0509|Rural|
+99150|Santiaguillo|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0512|Rural|
+99150|Los Chilitos|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|1720|Rural|
+99150|El Pardillo Primero|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0506|Rural|
+99150|El Pardillo Segundo|Colonia|Fresnillo|Zacatecas||99001|32|99001||09|010|0507|Rural|
+99150|Purísima del Maguey|Colonia|Fresnillo|Zacatecas||99001|32|99001||09|010|0511|Rural|
+99154|Santa Ana|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|1739|Rural|
+99158|Plateros|Pueblo|Fresnillo|Zacatecas||99001|32|99001||28|010|0514|Rural|
+99159|Chichimequillas|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0515|Rural|
+99160|El Centro|Hacienda|Fresnillo|Zacatecas||99001|32|99001||24|010|0516|Rural|
+99160|Vicente Guerrero|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0519|Rural|
+99160|Vasco de Quiroga|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0004|Rural|
+99160|Francisco I Madero|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0517|Rural|
+99160|La Casita|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0518|Rural|
+99170|Jose Maria Morelos|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0521|Rural|
+99170|San Ignacio|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|1292|Rural|
+99170|Baluarte|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0520|Rural|
+99170|Montemariana (Colonia Mariana)|Pueblo|Fresnillo|Zacatecas||99001|32|99001||28|010|0522|Rural|
+99170|6 de Enero|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0524|Rural|
+99170|Rio Florido|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0523|Rural|
+99178|Plenitud|Pueblo|Fresnillo|Zacatecas||99001|32|99001||28|010|0525|Rural|
+99178|Los Álamos|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|1645|Rural|
+99178|San Vicente de Plenitud (San Vicente)|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0526|Rural|
+99179|El Salto|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0527|Rural|
+99179|El Epazote|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0820|Rural|
+99179|Tapias de Santa Cruz|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0528|Rural|
+99180|Gutiérrez|Estación|Fresnillo|Zacatecas||99001|32|99001||16|010|0529|Rural|
+99182|El Mezquite (Gumercindo Martínez Rodríguez)|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0531|Rural|
+99188|Altamira|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0532|Rural|
+99188|San Pablo de Rancho Grande|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0534|Rural|
+99188|Rancho Grande|Hacienda|Fresnillo|Zacatecas||99001|32|99001||24|010|0533|Rural|
+99189|San Jose de Lourdes|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0535|Rural|
+99190|Guadalupe de Trujillo|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0537|Rural|
+99190|Agrícola Guanajuato|Colonia|Fresnillo|Zacatecas||99001|32|99001||09|010|0536|Rural|
+99190|Matías Ramos|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0539|Rural|
+99190|San Isidro de Cabrales|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0540|Rural|
+99190|Santa Rosa|Hacienda|Fresnillo|Zacatecas||99001|32|99001||24|010|0541|Rural|
+99198|Labor de Santa Bárbara|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0542|Rural|
+99199|Trujillo|Hacienda|Fresnillo|Zacatecas||99001|32|99001||24|010|0544|Rural|
+99199|San Jose Del Rio|Ranchería|Fresnillo|Zacatecas||99001|32|99001||29|010|0543|Rural|

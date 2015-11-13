@@ -1,0 +1,35 @@
+87930|Jaumave Centro|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|0750|Rural|13
+87930|Independencia|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|2362|Rural|13
+87930|Nuevo Amanecer|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|3904|Urbano|13
+87930|Luis Donaldo Colosio|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|3863|Urbano|13
+87930|Voluntad y Trabajo|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|2361|Rural|13
+87930|Praxedis Balboa|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|2363|Rural|13
+87930|Janambres|Colonia|Jaumave|Tamaulipas|Jaumave|87931|28|87931||09|017|3611|Rural|13
+87932|San Juanito|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0752|Rural|
+87932|Gustavo Cáceres|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|3861|Rural|
+87932|Magdaleno Aguilar|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0753|Rural|
+87932|Matías Garcia|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0751|Rural|
+87932|El Sotol|Congregación|Jaumave|Tamaulipas||87931|28|87931||11|017|0749|Rural|
+87932|El Ingenio|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0748|Rural|
+87933|Conrado Castillo|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0755|Rural|
+87933|San Juan de Oriente|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0758|Rural|
+87933|Jose Maria Morelos|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0756|Rural|
+87933|La Independencia|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0757|Rural|
+87935|Avila y Urbina|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0759|Rural|
+87936|Francisco Medrano|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0761|Rural|
+87936|El Sauz|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0760|Rural|
+87936|San Antonio|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0762|Rural|
+87937|La Union|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0763|Rural|
+87937|Plan de Ayala|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0764|Rural|
+87938|El Higueron|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0765|Rural|
+87938|La Reforma|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0766|Rural|
+87939|El Carrizo|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0767|Rural|
+87940|Padrón y Juárez|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0768|Rural|
+87943|20 de Abril|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0769|Rural|
+87945|San Lorenzo (San Lorencito)|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0770|Rural|
+87946|Monterredondo|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0771|Rural|
+87947|5 de Mayo|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0772|Rural|
+87947|San Vicente|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0773|Rural|
+87949|San Francisco de Zorrilla|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0775|Rural|
+87949|Rancho Nuevo|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0774|Rural|
+87949|San Jose de Salamanca|Ejido|Jaumave|Tamaulipas||87931|28|87931||15|017|0776|Rural|

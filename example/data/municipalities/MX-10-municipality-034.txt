@@ -1,0 +1,668 @@
+34570|El Alizal (La Mesa del Alizal)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5360|Rural|
+34570|El Poleyal de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5476|Rural|
+34570|El Salto de las Cuevas de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5527|Rural|
+34570|La Balanza|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5567|Rural|
+34570|La Cebadilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5582|Rural|
+34570|La Mesa|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5640|Rural|
+34570|La Mesa del Ocote (Mesa Ancha)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5649|Rural|
+34570|La Paleta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5660|Rural|
+34570|La Soledad|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5684|Rural|
+34570|Las Joyas de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5727|Rural|
+34570|Los Oreganitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5804|Rural|
+34570|Mesa de los Becerros|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5828|Rural|
+34570|Mesa del Barro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5829|Rural|
+34570|San Ignacio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5893|Rural|
+34570|Santa Cruz|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5921|Rural|
+34570|Doloritas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5352|Rural|
+34570|El Alto del Rodeo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5363|Rural|
+34570|El Poleyal de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5477|Rural|
+34570|El Puerto de Félix|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5499|Rural|
+34570|El Ranchito de Piedras de Lumbre|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5511|Rural|
+34570|El Sudadero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5534|Rural|
+34570|La Mesa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5639|Rural|
+34570|Las Joyitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5728|Rural|
+34570|Las Mesitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5744|Rural|
+34570|Las Milpas de Enmedio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5748|Rural|
+34570|Los Tejabanes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5817|Rural|
+34570|Nombre de Dios|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5834|Rural|
+34570|Piedras de Lumbre|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5851|Rural|
+34570|San Isidro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5895|Rural|
+34570|Vallecillos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5936|Rural|
+34570|Carricitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5334|Rural|
+34570|Dolores|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5351|Rural|
+34570|El Jaquital|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5428|Rural|
+34570|El Potrero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5488|Rural|
+34570|El Puertecito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5498|Rural|
+34570|El Puerto de la Tableta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5502|Rural|
+34570|El Ranchito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5508|Rural|
+34570|La Cejita de la Joya|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5584|Rural|
+34570|Las Milpas de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5746|Rural|
+34570|Las Papas (Pinos Altos)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5754|Rural|
+34570|Ranchito Nuevo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5867|Rural|
+34570|San Cayetano|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5885|Rural|
+34570|San Cayetano de Pericos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5886|Rural|
+34570|El Alto de la Alameda|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5362|Rural|
+34570|El Capulín de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5380|Rural|
+34570|El Puerto de la Cebadilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5500|Rural|
+34570|El Ranchito (El Ranchito de Núñez)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5509|Rural|
+34570|La Ciénega|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5587|Rural|
+34570|La India|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5623|Rural|
+34570|La Joya|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5625|Rural|
+34570|La Laguna (El Catrín)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5631|Rural|
+34570|Las Milpas de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5747|Rural|
+34570|Los Llanitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5798|Rural|
+34570|Palmillas (Casas Grandes)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5840|Rural|
+34570|El Aguajito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5359|Rural|
+34570|El Llano|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5440|Rural|
+34570|La Alameda|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5566|Rural|
+34570|La Mesa del Oso|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5650|Rural|
+34570|La Trampa|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5693|Rural|
+34570|Las Águilas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5701|Rural|
+34570|Los Aguajitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5767|Rural|
+34570|Marroquín de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5824|Rural|
+34570|Mesa de la Tableta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5826|Rural|
+34570|Mesa del Refugio (El Terrero)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5832|Rural|
+34570|Ranchito Quemado|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5868|Rural|
+34570|Todos Santos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5934|Rural|
+34570|El Alto de Dolores|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5361|Rural|
+34570|El Rebaje|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5513|Rural|
+34570|El Saucito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5531|Rural|
+34570|El Sobaco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5533|Rural|
+34570|La Mesa de Rafel|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5646|Rural|
+34570|La Mesa Morena|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5654|Rural|
+34570|La Rosita Nueva|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5676|Rural|
+34570|La Tijerita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5690|Rural|
+34570|La Trampa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5692|Rural|
+34570|Los Ángeles|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5769|Rural|
+34570|Los Barandales|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5777|Rural|
+34570|Pericos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5844|Rural|
+34570|San Cesáreo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5887|Rural|
+34570|San Luisito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5911|Rural|
+34570|Santa Áqueda|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5917|Rural|
+34570|El Durazno|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0587|Rural|
+34570|Aserradero las Milpas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5321|Rural|
+34570|El Barro (Las Milpillas de Arriba)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5372|Rural|
+34570|El Caporal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5378|Rural|
+34570|El Gavilán|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5413|Rural|
+34570|La Banqueta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5568|Rural|
+34570|La Ciénega|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5588|Rural|
+34570|La Cruz|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5600|Rural|
+34570|La Mesa Ancha|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5641|Rural|
+34570|La Mesa de las Milpas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5645|Rural|
+34570|La Rosa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5673|Rural|
+34570|La Rosa|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5674|Rural|
+34570|Las Tierritas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5758|Rural|
+34570|San Rafael|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5914|Rural|
+34570|San Román|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5916|Rural|
+34570|El Durazno|Ejido|Tamazula|Durango||34581|10|34581||15|034|0001|Rural|
+34570|El Capulín de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5379|Rural|
+34570|El Perico|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5465|Rural|
+34570|El Ranchito de Dolores|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5510|Rural|
+34570|Escarbaderos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5555|Rural|
+34570|La Cruz|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5601|Rural|
+34570|La Joyita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5627|Rural|
+34570|La Mesa de Becerros (La Joya)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5644|Rural|
+34570|La Rinconada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5672|Rural|
+34570|Las Guásimas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5719|Rural|
+34570|Los Arbolitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5770|Rural|
+34573|El Arroyo del Oso|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5366|Rural|
+34573|El Ranchito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5507|Rural|
+34573|La Contrayerba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5598|Rural|
+34573|Los Aguajitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5766|Rural|
+34573|San Antonio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5879|Rural|
+34573|El Aguaje|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5356|Rural|
+34573|El Potrerito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5484|Rural|
+34573|El Puerto de la Ciénega|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5501|Rural|
+34573|La Joya de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5626|Rural|
+34573|La Mesita de Santa Ana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5657|Rural|
+34573|Las Mesas de la Concepción|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5743|Rural|
+34573|Los Desmontes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5787|Rural|
+34573|El Salto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5526|Rural|
+34573|La Cebadilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5581|Rural|
+34573|La Ciénega de la Sierra|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5590|Rural|
+34573|La Sirena|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5682|Rural|
+34573|Mesa de las Palmas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5827|Rural|
+34573|Santa Gertrudis|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5925|Rural|
+34573|El Vainillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5551|Rural|
+34573|Las Habas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5720|Rural|
+34573|Santa Rosita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5927|Rural|
+34573|Aserradero el Pinito de Osos Bravos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5320|Rural|
+34573|El Poleyal de Santa Ana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5478|Rural|
+34573|La Cebadillita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5583|Rural|
+34573|La Cruz de Santa Ana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5603|Rural|
+34573|La Haciendita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5614|Rural|
+34573|Los Aguajes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5764|Rural|
+34573|Osos Bravos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5836|Rural|
+34573|El Gatuñal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5412|Rural|
+34573|El Ranchito|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5506|Rural|
+34573|La Cañada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5577|Rural|
+34573|La Cieneguita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5597|Rural|
+34573|La Rosita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5675|Rural|
+34573|Los Inmortales|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5792|Rural|
+34573|Hacienda de Camarones|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5560|Rural|
+34573|La Ciénega|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5586|Rural|
+34573|Los Laureles|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5795|Rural|
+34573|Rancho Escondido|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5869|Rural|
+34573|Arroyo del Oso|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5316|Rural|
+34573|El Mapache|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5444|Rural|
+34573|La Acequia (Quebrada de los Lora)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5563|Rural|
+34573|Los Parajes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5807|Rural|
+34573|San Darío|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5888|Rural|
+34573|Santa Ana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5919|Rural|
+34574|San Jerónimo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0590|Rural|
+34574|El Tigre|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5546|Rural|
+34574|La Junta del Norotal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5629|Rural|
+34574|Las Vinatas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5761|Rural|
+34574|Potrero del Agua Blanca|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5860|Rural|
+34574|Portezuelo|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0589|Rural|
+34574|El Gato|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5411|Rural|
+34574|El Guayabito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5421|Rural|
+34574|El Palmarejo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5458|Rural|
+34574|Los Vasitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5822|Rural|
+34574|San Miguel|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5913|Rural|
+34574|El Becerro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5373|Rural|
+34574|El Guasimal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5418|Rural|
+34574|Las Cruces|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5711|Rural|
+34574|Las Palmas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5751|Rural|
+34574|San Luisito (Tecolotes)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5912|Rural|
+34574|El Naranjo de San Juan|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5451|Rural|
+34574|La Mesa Pinosa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5655|Rural|
+34574|Pie de la Cuesta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5846|Rural|
+34574|San Juan|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0588|Rural|
+34574|Las Cañitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5705|Rural|
+34574|El Limón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5434|Rural|
+34574|El Platanar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5474|Rural|
+34574|La Ciénega de Acatita Grande|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5589|Rural|
+34574|Los Llanos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5799|Rural|
+34574|San Antonio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5881|Rural|
+34574|San Jorge|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5898|Rural|
+34574|El Filtro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5408|Rural|
+34574|El Trompillal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5549|Rural|
+34574|Norotal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5835|Rural|
+34574|Potrerillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5858|Rural|
+34574|El Chilar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5392|Rural|
+34574|El Magisterial|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5443|Rural|
+34574|El Potrerillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5481|Rural|
+34575|El Melón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5446|Rural|
+34575|El Pueblito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5494|Rural|
+34575|Las Juntitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5737|Rural|
+34575|San Antonio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5882|Rural|
+34575|San Fernando|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5890|Rural|
+34575|La Mesa Colorada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5643|Rural|
+34575|La Sierrita del Alto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5681|Rural|
+34575|Las Palmas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5752|Rural|
+34575|Los Limones|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5797|Rural|
+34575|Peña Blanca|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5843|Rural|
+34575|Santa Fe de San Fernando|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5923|Rural|
+34575|San José de Tabahueto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5903|Rural|
+34575|Los Pinos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5809|Rural|
+34575|Quebrada Honda de San Jorge|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5865|Rural|
+34575|San Juan de las Palmas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5907|Rural|
+34575|Bastantitas de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5323|Rural|
+34575|Casas Viejas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5337|Rural|
+34575|El Ayali|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5367|Rural|
+34575|El Zalate|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5554|Rural|
+34575|Los Burros|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5779|Rural|
+34575|Los Guajolotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5791|Rural|
+34575|San Juachín|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5906|Rural|
+34575|Santa Rosa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5926|Rural|
+34575|Bastantitas de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5324|Rural|
+34575|Boca del Arroyo de San Fernando|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5327|Rural|
+34575|El Barco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5371|Rural|
+34575|El Guamuchilar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5416|Rural|
+34575|El Palmito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5459|Rural|
+34575|El Pueblo Nuevo|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5497|Rural|
+34575|La Higuerita (La Buena Vista)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5618|Rural|
+34575|Las Juntas de Tabahueto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5733|Rural|
+34575|Los Llanos de Tabahueto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5800|Rural|
+34575|El Espíritu|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5407|Rural|
+34575|El Galerón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5410|Rural|
+34575|El Portezuelo (El Limoncito)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5479|Rural|
+34575|El Salto de Tabahueto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5528|Rural|
+34575|La Palma Cuata|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5663|Rural|
+34575|La Soledad|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5683|Rural|
+34575|La Vainilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5697|Rural|
+34575|Sierrita del Cerro Solo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5928|Rural|
+34575|Agua Caliente|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5311|Rural|
+34575|Arroyo Verde (Los Toros)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5319|Rural|
+34575|Boca de Arroyo del Zapote|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5325|Rural|
+34575|Carricitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5333|Rural|
+34575|El Chonteco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5394|Rural|
+34575|Las Tahonas de San Fernando|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5757|Rural|
+34575|Zapotillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5940|Rural|
+34576|El Perú|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5464|Rural|
+34576|El Pueblito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5495|Rural|
+34576|Pie de la Cuesta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5847|Rural|
+34576|San José|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5900|Rural|
+34576|El Limón de Copalquín|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5435|Rural|
+34576|lA Casa Vieja|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5580|Rural|
+34576|Los Pinitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5808|Rural|
+34576|Los Reyes de Copalquín|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5812|Rural|
+34576|Buena Vista del Muerto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5328|Rural|
+34576|El Aguaje Copalquín|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5357|Rural|
+34576|El Limoncito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5436|Rural|
+34576|El Perote|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5466|Rural|
+34576|El Pinito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5470|Rural|
+34576|La Ventana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5698|Rural|
+34576|Los Ocotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5803|Rural|
+34576|Agua Azul|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5309|Rural|
+34576|Chihuahuilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5341|Rural|
+34576|Las Higueras|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5722|Rural|
+34576|Los Arrayanes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5774|Rural|
+34576|Los Riscos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5813|Rural|
+34576|San Alfonso|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5878|Rural|
+34576|San Antonio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5883|Rural|
+34576|El Plátano|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5475|Rural|
+34576|La Mesita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5656|Rural|
+34576|La Soledad|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5686|Rural|
+34576|Las Juntas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5730|Rural|
+34576|El Charco Verde|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5390|Rural|
+34576|El Duraznal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5402|Rural|
+34576|Salsipuedes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5877|Rural|
+34576|El Cordón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5399|Rural|
+34576|La Máquina|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5637|Rural|
+34576|La Vibora|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5699|Rural|
+34576|San Felipe|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5889|Rural|
+34576|San Gregorio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5892|Rural|
+34577|La Cañada|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5579|Rural|
+34577|Los Frailes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5788|Rural|
+34577|Vallecillos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5937|Rural|
+34577|El Zacatito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5553|Rural|
+34577|La Cañada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5578|Rural|
+34577|La Manga|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5635|Rural|
+34577|La Retumbadora|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5671|Rural|
+34577|La Trampa|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5695|Rural|
+34577|Las Banquetas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5703|Rural|
+34577|Las Cuevas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5712|Rural|
+34577|Los Bajíos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5776|Rural|
+34577|La Agua Escondida|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5564|Rural|
+34577|La Mesa del Venado|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5653|Rural|
+34577|La Trampa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5694|Rural|
+34577|Las Cuevas de Enmedio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5714|Rural|
+34577|San Rafael|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5915|Rural|
+34577|El Bajío Redondo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5369|Rural|
+34577|El Desmonte|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5401|Rural|
+34577|Guajolotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5557|Rural|
+34577|La Tableta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5688|Rural|
+34577|Mesa del Corral de Piedra|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5830|Rural|
+34577|Pitorreal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5855|Rural|
+34577|Pitorrealito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5856|Rural|
+34577|Corral de Piedra|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5348|Rural|
+34577|El Muertecito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5448|Rural|
+34577|El Salitre|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5521|Rural|
+34577|Las Cuevas de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5713|Rural|
+34577|San Juan de los Frailes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5909|Rural|
+34577|La Aguateca|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5565|Rural|
+34577|La Cumbre|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5606|Rural|
+34577|La Soledad|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5685|Rural|
+34577|Arroyo de la Cueva del Indio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5315|Rural|
+34577|Bajío la Yegua|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5322|Rural|
+34577|El Bañadero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5370|Rural|
+34577|El Pie de la Cuesta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5468|Rural|
+34577|Cueva Gacha|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5350|Rural|
+34577|El Noventa y Nueve|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5452|Rural|
+34577|El Tecuán|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5544|Rural|
+34577|Las Pilas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5755|Rural|
+34577|Los Frailitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5789|Rural|
+34580|Tamazula de Victoria (tamazula)|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0593|Rural|
+34583|Agua Caliente|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0594|Rural|
+34583|El Castillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5385|Rural|
+34583|Los Aguajitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5765|Rural|
+34583|Los Arrayanes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5773|Rural|
+34583|Los Chapotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5782|Rural|
+34583|San José del Rancho|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5905|Rural|
+34583|Chacoal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5339|Rural|
+34583|El Muerto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5449|Rural|
+34583|La Ciénega de Otates|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5593|Rural|
+34583|Las Higueritas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5723|Rural|
+34583|Palos Verdes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5842|Rural|
+34583|Potrerillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5857|Rural|
+34583|El Bledal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5374|Rural|
+34583|La Lajita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5634|Rural|
+34583|Acachuane|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0591|Rural|
+34583|Los Medios|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5801|Rural|
+34583|Topiba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5935|Rural|
+34583|Acatita Grande (Acatita)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5308|Rural|
+34583|El Otatal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5455|Rural|
+34583|El Salto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5525|Rural|
+34583|Huizolixta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0592|Rural|
+34583|Las Trancas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5760|Rural|
+34583|Los Coyotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5785|Rural|
+34583|El Carrizal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0603|Rural|
+34583|Amacuable|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5314|Rural|
+34583|El Tecomate|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5543|Rural|
+34583|La Enramada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5609|Rural|
+34583|La Junta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5628|Rural|
+34583|La Laguna|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5630|Rural|
+34583|Los Otates|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5805|Rural|
+34583|Tacuitapa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5931|Rural|
+34584|Cerro Blanco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5338|Rural|
+34584|Colutilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5346|Rural|
+34584|El Aguaje|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5355|Rural|
+34584|El Guayabito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5420|Rural|
+34584|El Potrero de Guasimillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5491|Rural|
+34584|El Potrero de la Ventana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5492|Rural|
+34584|El Sabino|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5520|Rural|
+34584|El Sobaco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5532|Rural|
+34584|La Huerta de Coluta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5621|Rural|
+34584|La Taunita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5689|Rural|
+34584|Los Vasitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5821|Rural|
+34584|Monte Largo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5833|Rural|
+34584|Otatillos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5838|Rural|
+34584|El Gachupín|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0597|Rural|
+34584|El Guamúchil|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5415|Rural|
+34584|El Palmarejo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5457|Rural|
+34584|El Pinal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5469|Rural|
+34584|El Platanar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5473|Rural|
+34584|La Boca del Arroyo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5571|Rural|
+34584|La Haciendita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5613|Rural|
+34584|Los Pantanos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5806|Rural|
+34584|Arroyo Grande de Matavacas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5318|Rural|
+34584|El Realito de la Ventana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5512|Rural|
+34584|La Palma|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5662|Rural|
+34584|Las Mesas de Coluta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5742|Rural|
+34584|El Frijolar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0596|Rural|
+34584|Coluta|Ejido|Tamazula|Durango||34581|10|34581||15|034|2201|Rural|
+34584|Casas Viejas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5336|Rural|
+34584|El Ciruelito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5396|Rural|
+34584|El Cucharo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5400|Rural|
+34584|El Ojito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5453|Rural|
+34584|El Ranchito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5505|Rural|
+34584|La Higuerita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5617|Rural|
+34584|La Palmita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5664|Rural|
+34584|Las Juntas del Santo Niño|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5734|Rural|
+34584|El Molino de la Ventana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5447|Rural|
+34584|El Potrerillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5480|Rural|
+34584|El Tápale|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5537|Rural|
+34584|La Vinatería|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5700|Rural|
+34584|Las Juntas de los Arroyos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5732|Rural|
+34584|Los Algodones|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5768|Rural|
+34584|Los Limones|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5796|Rural|
+34584|Los Pinos de Guasimillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5810|Rural|
+34584|Pie de la Cuesta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5845|Rural|
+34584|San Francisco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5891|Rural|
+34584|San José de la Bajada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5902|Rural|
+34584|El Cajón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5377|Rural|
+34584|El Carrizal de Coluta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5382|Rural|
+34584|El Melón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5445|Rural|
+34584|El Oso|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5454|Rural|
+34584|El Quemado|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5503|Rural|
+34584|Guadalupe de Urrea|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5556|Rural|
+34584|La Joya|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5624|Rural|
+34584|Los Aguacates|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5763|Rural|
+34584|San Javier|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5897|Rural|
+34584|San José de Chiqueritos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5901|Rural|
+34584|Tachichinque|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5930|Rural|
+34584|El Arrayanal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5365|Rural|
+34584|El Igualamo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5427|Rural|
+34584|El Pueblito de Aguaje|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5496|Rural|
+34584|Huejotita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5561|Rural|
+34584|Los Carrizos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5780|Rural|
+34584|Boca del Arroyo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5326|Rural|
+34584|El Recodo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5514|Rural|
+34584|Guasimillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5558|Rural|
+34584|La Dura|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5608|Rural|
+34584|Las Chicuritas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5707|Rural|
+34584|Los Arrayanes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5772|Rural|
+34584|Rancho Viejo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5872|Rural|
+34585|El Aguaje de la Tierra|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5358|Rural|
+34585|El Guayabo del Rodeo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5423|Rural|
+34585|El Toro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5547|Rural|
+34585|Las Quebradas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5756|Rural|
+34585|Los Braceros|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5778|Rural|
+34585|El Llano de Palmillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5441|Rural|
+34585|El Pando Grande|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5460|Rural|
+34585|El Taste|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5539|Rural|
+34585|La Pantera|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5665|Rural|
+34585|Los Copalitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5784|Rural|
+34585|El Remudadero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5516|Rural|
+34585|Tastito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5541|Rural|
+34585|La Reforma|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5670|Rural|
+34585|La Vainilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5696|Rural|
+34585|El Cabuchal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5376|Rural|
+34585|El Rodeo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5519|Rural|
+34585|La Mantecosa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5636|Rural|
+34585|La Mocha|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5658|Rural|
+34585|Las Guasimas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5718|Rural|
+34585|El Ranchito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5504|Rural|
+34585|La Mesa Colorada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5642|Rural|
+34585|El Tastito de Sicairos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5542|Rural|
+34585|Sahuatenipa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5876|Rural|
+34585|La Calera|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5574|Rural|
+34586|El Duraznito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5404|Rural|
+34586|La Nueva Rosita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5659|Rural|
+34586|Los Ayuches (Los Ayutes)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5775|Rural|
+34586|Aguaje Grande|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5312|Rural|
+34586|La Laguna del Carrizo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5632|Rural|
+34586|Las Cupias|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5715|Rural|
+34586|Las Papas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5753|Rural|
+34586|La Ciénega de Tosiguay|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5594|Rural|
+34586|La Cieneguita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5596|Rural|
+34586|Las Juntitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5736|Rural|
+34586|Mautal|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5825|Rural|
+34586|El Tosiguay|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5548|Rural|
+34586|La Huerta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5620|Rural|
+34586|La Sauceda|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5677|Rural|
+34586|Lo de Silva|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5762|Rural|
+34586|El Taste|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5538|Rural|
+34586|Las Trancas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5759|Rural|
+34586|Pinos Altos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5853|Rural|
+34586|San Antonio de la Cueva|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5884|Rural|
+34586|La Cruz de Ocote|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5602|Rural|
+34586|Los Tigres|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5819|Rural|
+34586|El Bajío|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5368|Rural|
+34586|El Guayabito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5419|Rural|
+34586|El Guzmán|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5425|Rural|
+34586|El Picacho|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5467|Rural|
+34586|La Ciénega del Tule|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5595|Rural|
+34586|La Mesa del Vaso|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5652|Rural|
+34587|El Guamuchilito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5417|Rural|
+34587|El Tastito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5540|Rural|
+34587|Carricitos|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5332|Rural|
+34587|Quebrada Honda|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5864|Rural|
+34587|Tapichahua|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5933|Rural|
+34587|Chacala|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0608|Rural|
+34587|El Potrerillo de Chacala|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5482|Rural|
+34587|Los Chapotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5781|Rural|
+34587|La Mesa del Rodeo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5651|Rural|
+34587|El Sauce|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5530|Rural|
+34587|Otatillos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5837|Rural|
+34587|Las Mesas de Chacala|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5741|Rural|
+34588|Chapotán|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0598|Rural|
+34588|Acatitán|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0605|Rural|
+34588|Potrero de Jala|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5859|Rural|
+34588|San Isidro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5894|Rural|
+34588|El Rincón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0599|Rural|
+34588|Coloma|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0601|Rural|
+34588|Las Higueras|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0604|Rural|
+34588|El Parralito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5463|Rural|
+34588|Colomita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0602|Rural|
+34588|El Guayabo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5422|Rural|
+34588|Palmillas|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5839|Rural|
+34588|Jala|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0606|Rural|
+34588|La Cruz|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0607|Rural|
+34588|El Remolino|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5515|Rural|
+34588|El Potrerillo de Chapotán|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5483|Rural|
+34588|Pie de la Cuesta de Palmillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5848|Rural|
+34590|Los Remedios|Pueblo|Tamazula|Durango||34581|10|34581||28|034|0610|Rural|
+34590|Santa Catarina|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0616|Rural|
+34590|El Durazno|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5405|Rural|
+34590|El Llano|Pueblo|Tamazula|Durango||34581|10|34581||28|034|5438|Rural|
+34590|La Ciénega de los Caballos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5591|Rural|
+34590|Las Juntitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5735|Rural|
+34590|Los Sauces|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5815|Rural|
+34590|San Julián|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5910|Rural|
+34590|Ciénega de los Beltranes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5343|Rural|
+34590|El Llano|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5437|Rural|
+34590|La cAMPANA|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5575|Rural|
+34590|Santa María de los Remedios|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0617|Rural|
+34590|Chinacatita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5342|Rural|
+34590|El Limón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5432|Rural|
+34590|Chapotillos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5340|Rural|
+34590|El Carricillo de los Núñez|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5381|Rural|
+34590|La Cueva del Gallo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5604|Rural|
+34590|Santa Fe|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0614|Rural|
+34590|El Carrizo de la Petaca|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5384|Rural|
+34590|Palo Dulce|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5841|Rural|
+34590|El Salto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5524|Rural|
+34590|La Belleza|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5569|Rural|
+34590|Las Mesas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5740|Rural|
+34590|San Antonio|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5880|Rural|
+34590|El Platanar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0612|Rural|
+34590|Los Reyes|Zona federal|Tamazula|Durango||34581|10|34581||34|034|0613|Rural|
+34590|Corpus|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5347|Rural|
+34590|Los Tomates|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5820|Rural|
+34590|El Zapatero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0615|Rural|
+34590|El Arado|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5364|Rural|
+34590|El Potrero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5486|Rural|
+34590|La Sidra|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5678|Rural|
+34590|Las Lajitas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5739|Rural|
+34593|El Ciruelo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5397|Rural|
+34593|Las Iglesias|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5725|Rural|
+34593|El Cedrito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5387|Rural|
+34593|El Pino|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5471|Rural|
+34593|La Guacamaya|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5612|Rural|
+34593|La Palma|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5661|Rural|
+34593|Los Arrayanes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5771|Rural|
+34593|Los Cimientos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5783|Rural|
+34593|La Toma|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5691|Rural|
+34593|Viborillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5939|Rural|
+34593|San Isidro|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0620|Rural|
+34593|El Sauce|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5529|Rural|
+34593|San Juan de los Frailes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5908|Rural|
+34593|Las Joyas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5726|Rural|
+34593|Sabanas Altas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5875|Rural|
+34593|San José de Viborillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5904|Rural|
+34593|Guayabastita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5559|Rural|
+34593|La Ciénega|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5585|Rural|
+34593|La Cofradía|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0619|Rural|
+34593|El Gorgoyón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5414|Rural|
+34593|El Potrero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5485|Rural|
+34593|Sata Gertrudis|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5924|Rural|
+34593|Tanibol|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5932|Rural|
+34593|El Ciruelito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5395|Rural|
+34593|El Platanar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5472|Rural|
+34593|Los Robles|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5814|Rural|
+34594|El Zapote|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0621|Rural|
+34594|El Duraznito|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5403|Rural|
+34594|El Embudo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5406|Rural|
+34594|La Sierrita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5679|Rural|
+34594|Río de los Barragán|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5874|Rural|
+34594|La Gloria|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5611|Rural|
+34594|Las Milpas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5745|Rural|
+34594|El Salto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5523|Rural|
+34594|Las Carreras|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5706|Rural|
+34594|El Verano|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0622|Rural|
+34594|La Piedrosa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5668|Rural|
+34594|Los Cuates|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5786|Rural|
+34594|Tabacotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5929|Rural|
+34594|La Lagunita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5633|Rural|
+34594|Pinos Altos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5852|Rural|
+34594|El Bolas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5375|Rural|
+34594|La Huerta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5619|Rural|
+34594|Las Iglesias|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5724|Rural|
+34594|Los Jacales|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5793|Rural|
+34594|El Limón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5431|Rural|
+34594|El Tachinole|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5535|Rural|
+34594|La Tableta|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5687|Rural|
+34594|Los Laureles|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5794|Rural|
+34595|La Boquilla|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5572|Rural|
+34595|La Sierrita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5680|Rural|
+34595|Rincón de los Macedo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5873|Rural|
+34595|El Saltillo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5522|Rural|
+34595|Las Haciendas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5721|Rural|
+34595|Coacoyole|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5344|Rural|
+34595|El León|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5430|Rural|
+34595|El Naranjo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5450|Rural|
+34595|Quebrada de los Sánchez|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5863|Rural|
+34595|San Javier|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5896|Rural|
+34595|El Chirimollo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5393|Rural|
+34595|La Borrega|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5573|Rural|
+34595|Las Moras|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5749|Rural|
+34595|Rancho Viejo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5871|Rural|
+34595|Vetillas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5938|Rural|
+34595|Cuesta Blanca|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5349|Rural|
+34595|La Iguana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5622|Rural|
+34595|Las Juntas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5729|Rural|
+34595|Los Tacotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5816|Rural|
+34595|Santa Ana|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5918|Rural|
+34595|Cantarranas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5330|Rural|
+34595|El Parían|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5462|Rural|
+34595|La Higuera Hueca|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5616|Rural|
+34595|Cananea|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5329|Rural|
+34595|El Chicural|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5391|Rural|
+34595|La Piedra Bola|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5667|Rural|
+34595|Quebrada de los Durán|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5862|Rural|
+34596|El Potrero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5487|Rural|
+34596|Las Palmas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5750|Rural|
+34596|El Frijolar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5409|Rural|
+34596|La Boca del Arroyo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5570|Rural|
+34596|Las Apomas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5702|Rural|
+34596|Las Calabazas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5704|Rural|
+34596|El Aguaje|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5354|Rural|
+34596|El Reparo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5517|Rural|
+34596|Las Duras|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5716|Rural|
+34596|El Cedral|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5386|Rural|
+34596|El Carrizo de Amaculí|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5383|Rural|
+34596|La Güichi|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5610|Rural|
+34596|La Mesa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5638|Rural|
+34596|Los Giotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5790|Rural|
+34596|Los Tepeguajes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5818|Rural|
+34596|Dos de Abril|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5353|Rural|
+34596|Las Coloraditas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5710|Rural|
+34596|Las Juntas de Amaculi|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5731|Rural|
+34596|Pito Real|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5854|Rural|
+34596|Pueblo Viejo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5861|Rural|
+34596|Amaculí|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0609|Rural|
+34596|Coloma|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5345|Rural|
+34596|lA Cañada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5576|Rural|
+34596|Los Velarde|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5823|Rural|
+34596|El Llano Redondo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5442|Rural|
+34596|El Tigre|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5545|Rural|
+34596|La Cueva Santa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5605|Rural|
+34596|Los Ocotes|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5802|Rural|
+34596|Santa Bárbara|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5920|Rural|
+34596|Santa Elena (La Monte)|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5922|Rural|
+34597|El Llano|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5439|Rural|
+34597|La Ciénega de los Camberos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5592|Rural|
+34597|Los Plátanos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5811|Rural|
+34597|Las Coloradas de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5709|Rural|
+34597|Casas Viejas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5335|Rural|
+34597|El Papagayo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5461|Rural|
+34597|El Tanque|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5536|Rural|
+34597|La Piedra|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5666|Rural|
+34597|El Verdú|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5552|Rural|
+34597|La Mesa del Ingeniero|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5648|Rural|
+34597|Las Coloradas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5708|Rural|
+34597|La Mesa de San José|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5647|Rural|
+34597|Piedra Gorda|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5850|Rural|
+34597|El Limón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5433|Rural|
+34597|El Potrero de Mecabresto|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5493|Rural|
+34597|San José|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5899|Rural|
+34597|El Confital|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5398|Rural|
+34597|El Igualamo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5426|Rural|
+34597|Piedra Cerrada|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5849|Rural|
+34598|Aguatita|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5313|Rural|
+34598|Carricitos|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5331|Rural|
+34598|El Potrero de Arriba|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5490|Rural|
+34598|La Presa|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5669|Rural|
+34598|La Cupía|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5607|Rural|
+34598|Mesa del Pino|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5831|Rural|
+34598|Quenibas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5866|Rural|
+34598|El Chapalote|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5388|Rural|
+34598|El Guayabón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5424|Rural|
+34598|El Rincón|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5518|Rural|
+34598|La Higuera|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5615|Rural|
+34598|Las Garrochas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5717|Rural|
+34598|Las Lajas|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5738|Rural|
+34598|Arroyo Grande|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5317|Rural|
+34598|El Tule|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5550|Rural|
+34598|Jomulco|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5562|Rural|
+34598|El Palmar|Ranchería|Tamazula|Durango||34581|10|34581||29|034|0618|Rural|
+34598|Agua Caliente|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5310|Rural|
+34598|El Palmarejo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5456|Rural|
+34598|La Cruz|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5599|Rural|
+34598|Rancho San Diego|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5870|Rural|
+34598|El Chapote|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5389|Rural|
+34598|El Judío|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5429|Rural|
+34598|El Potrero de Abajo|Ranchería|Tamazula|Durango||34581|10|34581||29|034|5489|Rural|

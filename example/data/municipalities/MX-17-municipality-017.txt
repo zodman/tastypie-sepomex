@@ -1,0 +1,57 @@
+62660|Puente de Ixtla Centro|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0338|Semiurbano|05
+62662|Morelos|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0755|Rural|05
+62662|Buenos Aires|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0756|Rural|05
+62662|Guadalupe Victoria|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0750|Semiurbano|05
+62662|Guadalupe Victoria|Ampliación|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||38|017|0753|Rural|05
+62662|Providencia|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0754|Rural|05
+62663|Valle Dorado|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|1358|Urbano|05
+62663|Cuauhtémoc|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0748|Semiurbano|05
+62663|Jardines de La Herradura|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0760|Rural|05
+62663|Loma Linda|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0758|Semiurbano|05
+62663|Benito Juárez|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0759|Semiurbano|05
+62663|Benito Juárez|Ampliación|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||38|017|1357|Urbano|05
+62663|Jardines de La Herradura|Ampliación|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||38|017|1356|Urbano|05
+62663|Gobernadores|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0765|Rural|05
+62663|10 de Mayo|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0761|Rural|05
+62664|Emiliano Zapata|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0747|Semiurbano|05
+62664|Miguel Hidalgo|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0749|Semiurbano|05
+62665|El Naranjo|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0764|Rural|05
+62665|Valle Bonito|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0763|Rural|05
+62665|El Salado|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|1355|Urbano|05
+62665|Norte|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0752|Semiurbano|05
+62665|INFONAVIT Casa Blanca|Unidad habitacional|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||31|017|0757|Rural|05
+62665|San Mateo|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0751|Semiurbano|05
+62665|24 de Febrero|Colonia|Puente de Ixtla|Morelos|Puente de Ixtla|62661|17|62661||09|017|0762|Urbano|05
+62666|Agua Salada|Ranchería|Puente de Ixtla|Morelos||62661|17|62661||29|017|1353|Urbano|
+62666|Ahuehuetzingo|Pueblo|Puente de Ixtla|Morelos||62661|17|62661||28|017|0339|Rural|
+62666|Loma Larga|Colonia|Puente de Ixtla|Morelos||62661|17|62661||09|017|1354|Urbano|
+62668|El Coco|Ranchería|Puente de Ixtla|Morelos||62661|17|62661||29|017|0341|Rural|
+62670|San José Vista Hermosa|Pueblo|Puente de Ixtla|Morelos||62781|17|62781||28|017|0344|Urbano|
+62670|Miguel de la Madrid|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1597|Rural|
+62670|Aeropuerto|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1598|Rural|
+62674|Morelos (xoxocotla)|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1348|Urbano|
+62674|Tecomulco|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1370|Urbano|
+62675|Los Sauces|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1371|Urbano|
+62676|Lomas Altas|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1352|Urbano|
+62676|Las Alas|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1351|Urbano|
+62680|Xoxocotla|Pueblo|Puente de Ixtla|Morelos||62781|17|62781||28|017|0343|Urbano|
+62683|Los Guajes|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1350|Urbano|
+62684|Techichilco|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1349|Urbano|
+62684|Hermosa|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|0345|Urbano|
+62685|Apozonalco|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1347|Urbano|
+62686|Las Flores (la Xochitl)|Colonia|Puente de Ixtla|Morelos||62781|17|62781||09|017|1346|Urbano|
+62690|Tilzapotla|Pueblo|Puente de Ixtla|Morelos||62911|17|62911||28|017|0346|Rural|
+62693|Los Ídolos|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|1364|Urbano|
+62693|Los Papayos|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1367|Urbano|
+62693|Los Pinos|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1366|Urbano|
+62693|San Pedro|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1365|Urbano|
+62694|Piedra Blanca|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1368|Urbano|
+62695|El Salto|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|1369|Urbano|
+62695|El Zapote|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|0349|Rural|
+62695|Los Amatitos|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|1363|Urbano|
+62696|Los Tanques|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1361|Urbano|
+62696|La Tigra|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|0348|Urbano|
+62696|Las Albóndigas|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1360|Urbano|
+62696|El Mango|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|1362|Urbano|
+62697|El Estudiante|Ranchería|Puente de Ixtla|Morelos||62911|17|62911||29|017|0342|Urbano|
+62697|Loma Florida|Colonia|Puente de Ixtla|Morelos||62911|17|62911||09|017|1359|Urbano|

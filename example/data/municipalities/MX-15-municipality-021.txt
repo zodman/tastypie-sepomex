@@ -1,0 +1,61 @@
+51700|Primera de San Miguel (La Punta)|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|5219|Rural|
+51700|Coatepec Harinas|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1412|Rural|
+51703|Santiaguito|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7559|Rural|
+51704|Segunda de San Miguel (El Cerrito)|Barrio|Coatepec Harinas|México||51701|15|51701||02|021|7538|Rural|
+51705|Primera de Zacanguillo (Santo Niño Doctor)|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7539|Rural|
+51713|Guadalupe|Colonia|Coatepec Harinas|México||51701|15|51701||09|021|7540|Rural|
+51714|Cuentla|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7544|Rural|
+51714|Cochisquila|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1415|Rural|
+51714|Plan de San Francisco|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6685|Rural|
+51715|Primera de Analco|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6684|Rural|
+51716|El Potrero|Colonia|Coatepec Harinas|México||51701|15|51701||09|021|1416|Rural|
+51716|Acuitlapilco|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1411|Rural|
+51720|San Martín el Salto|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7551|Rural|
+51720|Zacatones|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7553|Rural|
+51720|Loma de Acuitlapilco|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1421|Rural|
+51720|San José del Progreso (San José)|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1413|Rural|
+51720|Santo Niño|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7550|Rural|
+51723|Las Trojes|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7555|Rural|
+51723|El Telar|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1425|Rural|
+51723|La Providencia|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|0001|Rural|
+51723|Potrero Redondo|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1426|Rural|
+51723|Agua Bendita|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1431|Rural|
+51723|El Picacho|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6688|Rural|
+51723|La Conchita|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7547|Rural|
+51724|Segunda de Analco|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6682|Rural|
+51724|Segunda de Santa Ana|Barrio|Coatepec Harinas|México||51701|15|51701||02|021|7537|Rural|
+51724|Segunda de Zacanguillo|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6681|Rural|
+51724|Primera de Santa Ana|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|5220|Rural|
+51724|Primera del Monte (La Presa)|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1422|Rural|
+51724|Segunda del Monte (La Presa)|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1420|Rural|
+51725|Las Jaras|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7554|Rural|
+51726|Los Fresnos|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7558|Rural|
+51726|San Fernando|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6683|Rural|
+51726|Agua Amarga|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1423|Rural|
+51727|Piedras Anchas|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7549|Rural|
+51727|La Rosa|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7556|Rural|
+51727|Tecolotepec|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1424|Rural|
+51727|Capulín Redondo|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7542|Rural|
+51727|Teocotitla|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6680|Rural|
+51727|El Potrerito|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6687|Rural|
+51727|Huayanalco|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7545|Rural|
+51727|La Javiela|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7560|Rural|
+51730|Puerta del Carmen|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|1427|Rural|
+51730|Llano Grande|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1430|Rural|
+51733|Alta de Laja Azul|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7541|Rural|
+51733|Baja de Laja Azul|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1428|Rural|
+51733|Meyuca de Morelos|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1419|Rural|
+51734|El Reynoso|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1417|Rural|
+51734|San Luis|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1418|Rural|
+51734|El Cedrito|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1429|Rural|
+51735|La Cercada|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7546|Rural|
+51735|Adolfo López Mateos|Colonia|Coatepec Harinas|México||51701|15|51701||09|021|7543|Rural|
+51750|Las Vueltas|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1433|Rural|
+51750|Chiltepec|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1432|Rural|
+51750|La Laguna|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7557|Rural|
+51753|Monte de las Vueltas|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|6686|Rural|
+51753|La Galera|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7548|Rural|
+51754|Las Mesas|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1436|Rural|
+51754|Cruz de Piedra|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1435|Rural|
+51754|Ixtlahuaca de Villada|Pueblo|Coatepec Harinas|México||51701|15|51701||28|021|1434|Rural|
+51754|San Pedro|Ranchería|Coatepec Harinas|México||51701|15|51701||29|021|7552|Rural|

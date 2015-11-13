@@ -1,0 +1,36 @@
+12000|San Mateo|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1881|Urbano|12
+12000|La Concepción|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1877|Urbano|12
+12000|La Luz|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1878|Urbano|12
+12000|Santa Cruz|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1882|Urbano|12
+12000|Santa Martha|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1883|Urbano|12
+12000|Los Ángeles|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1879|Urbano|12
+12000|Villa Milpa Alta Centro|Colonia|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||09|009|1884|Urbano|12
+12009|Delegación Política Milpa Alta|Gran usuario|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||22|009|1886|Urbano|12
+12070|San Agustin|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1889|Urbano|12
+12080|San Agustin Ohtenco|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1890|Urbano|12
+12100|Xochitepec|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1896|Urbano|12
+12100|Tecaxtitla|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1893|Urbano|12
+12100|Xaltipac|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1895|Urbano|12
+12100|Cruztitla|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1891|Urbano|12
+12100|Tenantitla|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1894|Urbano|12
+12110|La Conchita|Colonia|Milpa Alta|Distrito Federal|Ciudad de México|13611|09|13611||09|009|2011|Urbano|12
+12110|Emiliano Zapata|Colonia|Milpa Alta|Distrito Federal|Ciudad de México|13611|09|13611||09|009|2010|Urbano|12
+12200|Panchimalco|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1899|Urbano|12
+12200|Ocotitla|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1898|Urbano|12
+12200|Tula|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1901|Urbano|12
+12200|Nochtla|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1897|Urbano|12
+12250|San Bartolomé Xicomulco|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1903|Urbano|12
+12300|San Salvador Cuauhtenco|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1904|Urbano|12
+12400|San Miguel|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1907|Urbano|12
+12400|San Juan|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1906|Urbano|12
+12400|Centro|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1905|Urbano|12
+12410|Chalmita|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|2870|Urbano|12
+12500|San Lorenzo Tlacoyucan|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1910|Urbano|12
+12600|San Jerónimo Miacatlán|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1911|Urbano|12
+12700|San Francisco Tecoxpa|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1912|Urbano|12
+12800|San Juan Tepenahuac|Pueblo|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||28|009|1913|Urbano|12
+12910|La Lupita Teticpac|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|2871|Urbano|12
+12920|San Marcos|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|1880|Urbano|12
+12930|San Miguel|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|2873|Urbano|12
+12940|San José|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|2874|Urbano|12
+12950|La Lupita Xolco|Barrio|Milpa Alta|Distrito Federal|Ciudad de México|12001|09|12001||02|009|2872|Urbano|12

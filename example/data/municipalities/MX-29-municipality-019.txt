@@ -1,0 +1,15 @@
+90700|Tepetitla de Lardizábal|Pueblo|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||28|019|0354|Urbano|
+90700|Villa Alta|Pueblo|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||28|019|0355|Rural|
+90700|Las Palomas|Residencial|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||30|019|0457|Urbano|
+90700|San Mateo Ayecac|Pueblo|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||28|019|0353|Rural|
+90700|Guadalupe Victoria|Pueblo|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||28|019|1174|Urbano|
+90703|Atalaya|Fraccionamiento|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||21|019|1009|Urbano|
+90704|Nixtlalpan|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1177|Rural|
+90704|El Cambio|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1175|Rural|
+90704|Tlalmecate|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1183|Rural|
+90705|Puerta (Cabiño)|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1179|Rural|
+90705|San Juan Molino|Exhacienda|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||18|019|1181|Rural|
+90706|Los Ameyales (La Joyita)|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1176|Rural|
+90706|San Joaquín|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1180|Rural|
+90706|Santa Rosa|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1182|Rural|
+90706|Porcícola Jalisco|Ranchería|Tepetitla de Lardizábal|Tlaxcala||90711|29|90711||29|019|1178|Rural|

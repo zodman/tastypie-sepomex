@@ -1,0 +1,701 @@
+25000|Saltillo Zona Centro|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0001|Urbano|08
+25008|Palacio de Gobierno del Estado de Coahuila|Gran usuario|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||22|030|0005|Urbano|08
+25010|Privada de San Javier|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2832|Urbano|08
+25010|Vista Hermosa|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1806|Urbano|08
+25010|Privada La Campana|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2401|Urbano|08
+25010|Las Coquetas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0007|Urbano|08
+25010|Vista Hermosa|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0009|Urbano|08
+25010|Balcones de Morelos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2697|Urbano|08
+25010|Parajes de La Sierra|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2906|Urbano|08
+25010|La Fuente|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1842|Urbano|08
+25010|Privada La Misión|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2400|Urbano|08
+25010|La Fuente 2a Ampliación|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2807|Urbano|08
+25010|Nuevo Saltillo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2830|Urbano|08
+25010|Solidaridad|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2877|Urbano|08
+25013|Ampliación Morelos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1844|Urbano|08
+25013|Villa Morelos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0051|Urbano|08
+25013|Amistad II|Parque industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||26|030|2579|Urbano|08
+25013|Valle de Morelos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2864|Urbano|08
+25013|Amistad|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1845|Urbano|08
+25013|15 de Septiembre|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0011|Urbano|08
+25013|Morelos Nueva Creación|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2578|Urbano|08
+25013|Parque Industrial Amistad|Zona industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||37|030|3198|Urbano|08
+25013|Privada Morelos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|3222|Urbano|08
+25013|Colibrí|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3269|Urbano|08
+25014|Cecilia Ocelli de Salinas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2402|Urbano|08
+25014|10 de Abril|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0013|Urbano|08
+25014|San Pedro de los Pinos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0014|Urbano|08
+25015|Nuevo Amanecer|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2403|Urbano|08
+25015|Nueva Independencia|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2563|Urbano|08
+25015|Lomas de Zapaliname|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1769|Urbano|08
+25015|Salomón Abedrop|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2404|Urbano|08
+25015|Nuevo Progreso|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2564|Urbano|08
+25015|Fundadores|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0015|Urbano|08
+25015|Lomas de San Francisco|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2562|Urbano|08
+25015|Introductores de Ganado|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2709|Urbano|08
+25015|Valle de las Aves|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1770|Urbano|08
+25015|Villa de Santiago|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1747|Urbano|08
+25015|Lomas del Pedregal|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1759|Urbano|08
+25015|Fundadores III Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3245|Urbano|08
+25016|Nuevo Mirasierra 1a Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2863|Urbano|08
+25016|Puerta del Oriente|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1841|Urbano|08
+25016|Gaspar Valdez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2582|Urbano|08
+25016|Ciudad Mirasierra 2a Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2818|Urbano|08
+25016|Nuevo Mirasierra 2da Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2866|Urbano|08
+25016|Ciudad Mirasierra|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1838|Urbano|08
+25016|Sierra Blanca|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3165|Urbano|08
+25016|Puerta del Oriente 2da Etapa|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2583|Urbano|08
+25016|Ignacio Zaragoza II Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2820|Urbano|08
+25016|Ignacio Zaragoza 1er Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0017|Urbano|08
+25016|Real del Sol|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2761|Urbano|08
+25016|Recreativo Sección 38|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2855|Urbano|08
+25016|Santa Lucia|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3218|Urbano|08
+25016|Villa del Carmen|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|3244|Urbano|08
+25016|Residencial los Rosales|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0152|Urbano|08
+25016|Privadas La Torre|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2405|Urbano|08
+25016|Francisco I. Madero Rústico|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2862|Urbano|08
+25016|Ignacio Zaragoza IVto Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2992|Urbano|08
+25016|Nuevo Mirasierra 3ra Estapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3254|Urbano|08
+25016|Colinas de Santiago|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0180|Urbano|08
+25016|Lomas del Bosque|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1839|Urbano|08
+25016|Privada los Magueyes|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2577|Urbano|08
+25016|Ignacio Zaragoza 3er Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2991|Urbano|08
+25016|Loma Linda|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2580|Urbano|08
+25016|Privadas Sierras del Oriente|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3164|Urbano|08
+25016|Misión Cerritos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3189|Urbano|08
+25017|Morelos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0018|Urbano|08
+25018|San Ignacio|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2528|Urbano|08
+25019|Conquistadores|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0020|Urbano|08
+25019|Candelarias|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2567|Urbano|08
+25019|La Nogalera|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1744|Urbano|08
+25019|Tierra y Libertad|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1760|Urbano|08
+25019|San José|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2710|Urbano|08
+25019|Las Maravillas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2873|Urbano|08
+25019|Los Lirios|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2749|Urbano|08
+25019|La Morita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1761|Urbano|08
+25019|Fundadores de La Libertad|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2831|Urbano|08
+25019|Santa María|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2856|Urbano|08
+25019|Villa Fundadores|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3173|Urbano|08
+25019|Nueva Imagen|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1762|Urbano|08
+25019|Conquistadores II|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2819|Urbano|08
+25019|Cerritos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0019|Urbano|08
+25019|Nueva Tlaxcala|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1748|Urbano|08
+25019|Rubén Jaramillo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1749|Urbano|08
+25019|Ejidal|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1771|Urbano|08
+25019|El Nogalar|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1843|Urbano|08
+25019|El Cerrito|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1746|Urbano|08
+25019|Postal Cerritos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2568|Urbano|08
+25019|Candelarias 2do Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2817|Urbano|08
+25020|Urdiñola|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0024|Urbano|08
+25020|San Esteban|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1739|Urbano|08
+25020|Valle de San Ramón|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2395|Urbano|08
+25020|San Ramón|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0023|Urbano|08
+25020|Zapaliname|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0025|Urbano|08
+25020|Provivienda|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0021|Urbano|08
+25022|Centro Metropolitano|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1794|Urbano|08
+25022|Parque las Maravillas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1795|Urbano|08
+25023|Loma Bonita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1751|Urbano|08
+25023|San Vicente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1742|Urbano|08
+25023|Valle de Santa Elena|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2585|Urbano|08
+25023|La Palma|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1740|Urbano|08
+25023|El Paraíso|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1741|Urbano|08
+25023|La Rosaleda|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3215|Urbano|08
+25023|Universidad Pueblo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0095|Urbano|08
+25023|Valle de las Palmas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2399|Urbano|08
+25023|Ampliación la Palma|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|3202|Urbano|08
+25023|Arboledas Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1750|Urbano|08
+25023|Loma Bonita 2|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2815|Urbano|08
+25030|González Cepeda|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0028|Urbano|08
+25030|Agua Azul|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0026|Urbano|08
+25030|Arcos de Belén|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0027|Urbano|08
+25030|Loma de Santa Anita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0029|Urbano|08
+25034|Magisterio Sección 38|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0030|Urbano|08
+25034|Esther Santos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2878|Urbano|08
+25034|Santa Anita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2872|Urbano|08
+25036|Huertas de Venancio|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0031|Urbano|08
+25038|San Ramón|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1743|Urbano|08
+25038|Condesa|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2799|Urbano|08
+25038|Condesa Poniente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0032|Urbano|08
+25039|Deimos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0033|Urbano|08
+25040|Balcones de Bellavista|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1755|Urbano|08
+25040|San Lorenzo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0035|Urbano|08
+25040|Barrio Santa Anita|Barrio|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||02|030|0036|Urbano|08
+25040|Ojo de Agua|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0034|Urbano|08
+25040|Viramontes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0037|Urbano|08
+25043|Héroes de Chapultepec|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0038|Urbano|08
+25044|Residencial Mirador|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0039|Urbano|08
+25045|Portal de Santiago|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2828|Urbano|08
+25045|Zapateros|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0040|Urbano|08
+25047|Álamos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2883|Urbano|08
+25047|Los Alamitos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0041|Urbano|08
+25048|Burócratas del Estado|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0042|Urbano|08
+25048|Lomas de Chapultepec|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2394|Urbano|08
+25049|Simón Bolívar|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0044|Urbano|08
+25049|Águila de Oro|Barrio|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||02|030|0087|Urbano|08
+25049|Santa María|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0043|Urbano|08
+25049|Privada Coahuila|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2875|Urbano|08
+25050|María del Carmen Cabello|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0046|Urbano|08
+25050|La Madrid|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0050|Urbano|08
+25050|Centenario|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0047|Urbano|08
+25050|Rosa María Gutiérrez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1754|Urbano|08
+25050|Benito Juárez|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2798|Urbano|08
+25050|Benito Juárez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0045|Urbano|08
+25050|Chapultepec|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0048|Urbano|08
+25055|Chapultepec 2do Sector|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0052|Urbano|08
+25056|Ciudad Sanitaria|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1785|Urbano|08
+25056|El Salvador|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1763|Urbano|08
+25056|El Salvador|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2800|Urbano|08
+25057|Parajes de Oriente|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2750|Urbano|08
+25057|Jesús Cabello|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1753|Urbano|08
+25057|La Herradura|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1804|Urbano|08
+25057|La Herradura|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2931|Urbano|08
+25057|Los Nogales II|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1807|Urbano|08
+25057|Lomas de San Javier|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1764|Urbano|08
+25057|La Herradura  III|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1752|Urbano|08
+25057|Colinas de San Francisco|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1766|Urbano|08
+25060|Bellavista|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0054|Urbano|08
+25060|La Central|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1805|Urbano|08
+25060|Bellavista Mesa de Arizpe|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2359|Urbano|08
+25060|Lázaro Cárdenas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0058|Urbano|08
+25060|Acueducto|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1801|Urbano|08
+25060|Segovia Gil|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0057|Urbano|08
+25060|Miravalle|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0061|Urbano|08
+25060|Francisco I Madero|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||31|030|0056|Urbano|08
+25060|Miravalle|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0062|Urbano|08
+25060|Los Arcos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0059|Urbano|08
+25060|Lucio Blanco|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0060|Urbano|08
+25060|San Lorenzo Oriente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0063|Urbano|08
+25065|Nueva Reforma|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2554|Urbano|08
+25065|Patria Libre|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1758|Urbano|08
+25065|15 de Abril|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0066|Urbano|08
+25065|Jesús Garcia Corona|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1756|Urbano|08
+25065|Huertas de San Lorenzo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0065|Urbano|08
+25067|Quinta Valle|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0067|Urbano|08
+25068|Quinta Esmeralda|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0068|Urbano|08
+25069|Villa Universidad|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0069|Urbano|08
+25069|Valle de Lourdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1776|Urbano|08
+25069|Las Haciendas|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1800|Urbano|08
+25070|Balcones de Landin|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1757|Urbano|08
+25070|26 de Marzo|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||31|030|0075|Urbano|08
+25070|Privada Rincón de Salazar|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3260|Urbano|08
+25070|Landín Ampliación|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0071|Urbano|08
+25070|Lomas de Landín|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2833|Urbano|08
+25070|Landin|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0072|Urbano|08
+25070|Lomas de Guadalupe|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0073|Urbano|08
+25070|Lourdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0074|Urbano|08
+25075|Ferrocarrilero 7 de Noviembre|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0076|Urbano|08
+25076|Buenos Aires|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0077|Urbano|08
+25077|Los Balcones de Buenavista|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0078|Urbano|08
+25077|Valle Alto|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1767|Urbano|08
+25078|Conjunto Deimos Lourdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0079|Urbano|08
+25080|Ing. Eulalio Gutiérrez Treviño|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0081|Urbano|08
+25080|Los Periodistas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2933|Urbano|08
+25080|Parques de La Cañada|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0083|Urbano|08
+25080|Girasol|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0082|Urbano|08
+25080|Froylán Mier Narro|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0084|Urbano|08
+25080|Los Periodistas|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2809|Urbano|08
+25083|La Angostura|Parque industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||26|030|2555|Urbano|08
+25083|El Pedregal|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2814|Urbano|08
+25083|Hacienda Real|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2880|Urbano|08
+25083|Sierras del Sur|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2560|Urbano|08
+25083|El Refugio la Soledad|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2539|Urbano|08
+25083|Amistad Alianzas|Parque industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||26|030|2934|Urbano|08
+25083|El Mimbre|Ranchería|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||29|030|2824|Urbano|08
+25083|Hacienda del Refugio|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|2542|Urbano|08
+25084|Lomas del Sur|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0002|Urbano|08
+25084|Buenavista|Ranchería|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||29|030|0085|Urbano|08
+25084|Lomas del Refugio|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2587|Urbano|08
+25084|Colinas de San Lorenzo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2861|Rural|08
+25084|La Estrella|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1796|Urbano|08
+25084|Parajes de Santa Elena|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2865|Rural|08
+25084|Valle de San Lorenzo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0086|Urbano|08
+25084|Villas la Angostura|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2927|Urbano|08
+25084|Hacienda las Isabeles|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2926|Urbano|08
+25084|La Estrella|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2932|Urbano|08
+25084|Niños Héroes|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2543|Urbano|08
+25084|Las Rosas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2748|Urbano|08
+25084|Nuevo Teresitas|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3231|Urbano|08
+25084|Unidad Habitacional Militar|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||31|030|1797|Urbano|08
+25084|Las Teresitas|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1799|Urbano|08
+25084|Parajes de Santa Elena|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|3105|Urbano|08
+25085|Guadalupe Victoria|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0088|Urbano|08
+25085|El Latifundio|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2792|Urbano|08
+25085|Guadalupe Victoria|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2804|Urbano|08
+25085|Genaro Vázquez Rojas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1778|Urbano|08
+25086|26 de Marzo 2o Sect.|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0090|Urbano|08
+25086|26 de Marzo|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0091|Urbano|08
+25086|Burócratas Municipales|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0089|Urbano|08
+25087|Girasol 2da Etapa|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0092|Urbano|08
+25088|Nueva Jerusalén|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1780|Urbano|08
+25088|23 de Noviembre|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1782|Urbano|08
+25088|Ricardo Flores Magón|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1779|Urbano|08
+25088|Agua Nueva|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1768|Urbano|08
+25088|María del Carmen Cavazos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1793|Urbano|08
+25088|Australia|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1803|Urbano|08
+25088|El Álamo II|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2551|Urbano|08
+25088|23 de Noviembre|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1783|Urbano|08
+25088|La Esperanza|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2538|Urbano|08
+25088|Nueva Jerusalén|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2811|Urbano|08
+25088|El Progreso|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1784|Urbano|08
+25088|El Progreso|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1792|Urbano|08
+25088|El Álamo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2879|Urbano|08
+25088|Mario Ortiz Rodríguez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2704|Urbano|08
+25088|El Álamo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1781|Urbano|08
+25088|12 de Octubre|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2387|Urbano|08
+25088|El Álamo III|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2552|Urbano|08
+25088|San Juanita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2549|Urbano|08
+25088|Quinta Guadalupe|Ranchería|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||29|030|2561|Urbano|08
+25090|Valle Dorado|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1775|Urbano|08
+25090|Lomas de Lourdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0093|Urbano|08
+25092|Humberto Dávila Esquivel|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||31|030|2391|Urbano|08
+25092|Lomas de Santa Cruz|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1787|Urbano|08
+25092|Las Huertas de Lourdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2708|Urbano|08
+25092|Villas de San Lorenzo|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|2545|Urbano|08
+25092|Ampliación Villas de San Lorenzo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3263|Urbano|08
+25093|Los Buitres II|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2881|Urbano|08
+25093|Los Buitres|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1777|Urbano|08
+25093|Colinas del Sur|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1789|Urbano|08
+25093|Colinas del Sur|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2860|Urbano|08
+25093|Portal del Sur|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2859|Urbano|08
+25093|10 de Mayo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1790|Urbano|08
+25093|Hacienda el Cortijo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2392|Urbano|08
+25093|Mesa de Lourdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2715|Urbano|08
+25094|Portal de las Lomas|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3228|Urbano|08
+25094|Monteverde Residencial|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0197|Urbano|08
+25096|Lomas Verdes 2a Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2821|Urbano|08
+25096|Miguel Hidalgo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0096|Urbano|08
+25096|María de León|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1772|Urbano|08
+25096|Federico Berrueto Ramón|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1786|Urbano|08
+25096|Miguel Hidalgo|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0097|Urbano|08
+25096|Federico Berrueto Ramón Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1773|Urbano|08
+25096|Lomas Verdes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2546|Urbano|08
+25096|Lomas Verdes|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2808|Urbano|08
+25096|María de León|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|3199|Urbano|08
+25097|Vicente Guerrero|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1774|Urbano|08
+25097|Vicente Guerrero|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0098|Urbano|08
+25100|Industrial Valle de Saltillo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1819|Urbano|08
+25100|La Purísima|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2566|Urbano|08
+25100|Nazario S Ortiz Garza|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0099|Urbano|08
+25100|Omega|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2565|Urbano|08
+25100|Nazario S. Ortiz Garza|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2810|Urbano|08
+25100|Hacienda San Rafael|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2348|Urbano|08
+25107|Asturias|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0100|Urbano|08
+25107|Nuevo México|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2357|Urbano|08
+25107|Valle Verde Sector II|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1818|Urbano|08
+25110|Valle de las Torres|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1811|Urbano|08
+25110|Valle de las Torres II|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2559|Urbano|08
+25110|Evaristo Arriola Pérez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1810|Urbano|08
+25110|Flora Ortega|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2376|Urbano|08
+25110|La Florencia|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2558|Urbano|08
+25110|Flora Ortega|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2802|Urbano|08
+25110|Privada Ciudad las Torres 2 Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3157|Urbano|08
+25110|El Rodeo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2536|Urbano|08
+25110|Ciudad las Torres|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0101|Urbano|08
+25110|Portales|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1809|Urbano|08
+25110|Valle Satélite|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2746|Urbano|08
+25110|Valle Azteca|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|2537|Urbano|08
+25110|Balcones de las Torres|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2711|Urbano|08
+25110|Evaristo Pérez Arreola|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2801|Urbano|08
+25110|Cd. las Torres Segundo Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2698|Urbano|08
+25113|Satélite Sur|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0102|Urbano|08
+25113|Satélite Sur 3er Sector|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2825|Urbano|08
+25113|Satélite Sur 2a Sector|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2816|Urbano|08
+25114|Parque Industrial las Torres|Parque industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||26|030|0103|Urbano|08
+25115|Saltillo 2000|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1855|Urbano|08
+25115|Satélite Norte|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0104|Urbano|08
+25115|Portal del Pedregal|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2930|Urbano|08
+25115|Satélite Norte II|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0105|Urbano|08
+25115|Portal del Quijote|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2713|Urbano|08
+25115|Portal de los Agaves|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2712|Urbano|08
+25115|San José de Flores|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|2826|Urbano|08
+25116|Valencia|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0003|Urbano|08
+25117|Santa Fe|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|3196|Urbano|08
+25120|Francisco I Madero|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0107|Urbano|08
+25120|Francisco I Madero|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|1831|Urbano|08
+25124|Rancho Flores|Rancho|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||48|030|0134|Urbano|08
+25124|Las Cumbres|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0108|Urbano|08
+25124|Ignacio Allende|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1816|Urbano|08
+25124|Rincón de San Vicente|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|2868|Urbano|08
+25125|Adolfo Lopez Mateos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1815|Urbano|08
+25125|Roma|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0109|Urbano|08
+25125|Roma|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0110|Urbano|08
+25125|Hacienda San Pablo|Hacienda|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||24|030|1813|Urbano|08
+25128|Josefa Ortiz de Domínguez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0111|Urbano|08
+25128|Puerto de Flores|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2383|Urbano|08
+25128|Josefa Ortiz de Domínguez|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2806|Urbano|08
+25128|1° de Mayo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2384|Urbano|08
+25129|Huerto de Flores|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0112|Urbano|08
+25130|Isabel Amalia de Flores Tapia|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2805|Urbano|08
+25130|Antonio Cárdenas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0114|Urbano|08
+25130|Isabel Amalia Dávila|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0116|Urbano|08
+25130|Anáhuac|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0113|Urbano|08
+25130|Juabert|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2375|Urbano|08
+25130|Anáhuac|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2796|Urbano|08
+25130|Gustavo Espinosa Mireles|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0115|Urbano|08
+25130|Gustavo Espinoza Mireles|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2803|Urbano|08
+25137|Pueblo Insurgentes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0117|Urbano|08
+25137|Hacienda La Magueyada|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||30|030|2576|Urbano|08
+25138|Emilio Carranza|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1808|Urbano|08
+25138|Valle Universidad|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|1830|Urbano|08
+25138|Valle Universidad|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2829|Urbano|08
+25138|González Norte|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0118|Urbano|08
+25138|Privada Guadalupe|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2858|Urbano|08
+25138|Cerrada Guadalupe|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2870|Urbano|08
+25140|Cerro del Pueblo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0119|Urbano|08
+25140|Ejercito Constitucionalista|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0120|Urbano|08
+25140|Independencia|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0121|Urbano|08
+25140|Las Mitras|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1814|Urbano|08
+25140|Campo Verde|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2379|Urbano|08
+25140|María Luisa|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2382|Urbano|08
+25140|Antonio Cárdenas Sur|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2550|Urbano|08
+25140|Sierras del Poniente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2353|Urbano|08
+25140|Obrera|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2380|Urbano|08
+25140|Azteca|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2797|Urbano|08
+25140|Panteones|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0122|Urbano|08
+25140|Azteca|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2355|Urbano|08
+25140|Valle de San Antonio|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2378|Urbano|08
+25146|Oscar Flores Tapia|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2812|Urbano|08
+25146|Oscar Flores Tapia|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0123|Urbano|08
+25146|Privada Francisco I. Madero|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2867|Urbano|08
+25147|Loma Alta|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0124|Urbano|08
+25150|Universo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0127|Urbano|08
+25150|Valle de las Flores Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0128|Urbano|08
+25150|Alfredo V Bonfil|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0125|Urbano|08
+25150|Mirador|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0126|Urbano|08
+25155|Los Balcones|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0129|Urbano|08
+25155|Rincón de Guadalupe|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0131|Urbano|08
+25155|Las Margaritas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2876|Urbano|08
+25155|Puerto de La Virgen|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0130|Urbano|08
+25156|Valle de las Flores Popular|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|0133|Urbano|08
+25156|Francisco Villa|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0132|Urbano|08
+25157|Valle Escondido|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0136|Urbano|08
+25157|Venustiano Carranza|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0138|Urbano|08
+25157|Los Fresnos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0135|Urbano|08
+25157|Valle Escondido Sur|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0137|Urbano|08
+25160|Zamora|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0141|Urbano|08
+25160|Del Valle|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0140|Urbano|08
+25160|Del Valle III|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2813|Urbano|08
+25160|Privada Quinta Narro|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2823|Urbano|08
+25160|Huerta los Pilares|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2741|Urbano|08
+25160|Alameda|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0139|Urbano|08
+25167|Guayulera Tierra y Esperanza|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0142|Urbano|08
+25167|Privada Coahuila y Zacatecas|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2822|Urbano|08
+25168|Privada Beta Centauro|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|0143|Urbano|08
+25169|Brisas del Valle|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0144|Urbano|08
+25169|Unidad Modelo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2575|Urbano|08
+25170|El Bosque|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0145|Urbano|08
+25170|La Peñita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0147|Urbano|08
+25170|La Minita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0146|Urbano|08
+25179|Los Cuernitos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0148|Urbano|08
+25180|Guayulera|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0150|Urbano|08
+25180|Ruiz Cortines|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0151|Urbano|08
+25180|Chamizal|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0149|Urbano|08
+25186|San Miguel|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0153|Urbano|08
+25187|Ferrocarrilero|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||31|030|0154|Urbano|08
+25188|Río Verde|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0155|Urbano|08
+25190|5 de Mayo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0157|Urbano|08
+25190|Providencia|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0159|Urbano|08
+25190|El Tanquecito|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0158|Urbano|08
+25194|Diana Laura Riojas de Colosio|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2386|Urbano|08
+25194|Ignacio Zaragoza Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0160|Urbano|08
+25194|Los Berros|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2548|Urbano|08
+25194|Julieta Pérez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2385|Urbano|08
+25194|Valle Verde|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0161|Urbano|08
+25194|Valle Verde|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||38|030|2827|Urbano|08
+25195|Patria Nueva|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0162|Urbano|08
+25196|Santa Teresa|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0163|Urbano|08
+25197|Ladrilleros|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0164|Urbano|08
+25197|La Romita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2869|Urbano|08
+25197|Roma Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0166|Urbano|08
+25197|La Esmeralda|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|1802|Urbano|08
+25197|La Joyita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|2389|Urbano|08
+25197|Los Rosarios Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0165|Urbano|08
+25197|El Morillo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||21|030|2716|Urbano|08
+25198|Los Pinos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0167|Urbano|08
+25199|San Isidro|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25001|05|25001||09|030|0168|Urbano|08
+25200|Jardines de Versalles|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1823|Urbano|08
+25200|Arboledas|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|0173|Urbano|08
+25200|Las Cabañas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1873|Urbano|08
+25200|Los Rodriguez|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0172|Urbano|08
+25200|Jardines de Versalles 2a Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2840|Urbano|08
+25200|Las Huertas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0171|Urbano|08
+25200|Villa Magna|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2363|Urbano|08
+25200|Villas del Ranchito|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2699|Urbano|08
+25203|Jacarandas Jardín|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1850|Urbano|08
+25203|Rincón de La Florida|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1860|Urbano|08
+25203|Nuestra Señora de Fátima|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2351|Urbano|08
+25203|Las Magnolias|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1828|Urbano|08
+25204|San Alberto|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|0175|Urbano|08
+25204|Los Pinos|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2849|Urbano|08
+25204|San Jerónimo|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2857|Urbano|08
+25204|Habita|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0170|Urbano|08
+25204|Los González|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0174|Urbano|08
+25204|San Patricio|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0176|Urbano|08
+25204|Los Siller|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2589|Urbano|08
+25204|San Patricio Plus|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2718|Urbano|08
+25204|San José|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2851|Urbano|08
+25204|Los Pinos|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|1846|Urbano|08
+25204|Villa Toscana|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2369|Urbano|08
+25204|Villas de San Miguel|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2370|Urbano|08
+25204|Los Pinos 1er Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2847|Urbano|08
+25204|Villas de Aranjuez|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3100|Urbano|08
+25205|Los Pinos 2do Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2848|Urbano|08
+25205|Valle Real Primer Sector|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1868|Urbano|08
+25206|Las Quintas|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2571|Urbano|08
+25206|Privada Coloniales|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2874|Urbano|08
+25206|Jardines Coloniales|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0177|Urbano|08
+25207|Rincón de Sayavedra|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2753|Urbano|08
+25207|Albatros|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|3217|Urbano|08
+25207|Los Cedros|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2371|Urbano|08
+25207|Puerta del Sol|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0179|Urbano|08
+25207|Los Algodones|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0070|Urbano|08
+25207|Country Club|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|0178|Urbano|08
+25207|Valle Hermoso|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1820|Urbano|08
+25207|Privada Albatros|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3271|Urbano|08
+25208|Campestre Capellanía|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2362|Urbano|08
+25208|Loma Blanca|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|0181|Urbano|08
+25208|Nogalar del Campestre|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1833|Urbano|08
+25209|El Campanario|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|1871|Urbano|08
+25209|Los Arrayanes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2882|Urbano|08
+25209|Los Valdez|Exhacienda|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||18|030|0182|Urbano|08
+25209|Villa San Juan|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0202|Urbano|08
+25209|Campestre la Poza|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1832|Urbano|08
+25209|Santa Rosa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3219|Urbano|08
+25209|Quinta Real|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2573|Urbano|08
+25209|Las Misiones|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2572|Urbano|08
+25210|La Noria|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2372|Urbano|08
+25210|Brisas II|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2835|Urbano|08
+25210|Las Brisas|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|1821|Urbano|08
+25210|Los Álamos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0185|Urbano|08
+25210|Valle las Palmas|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2754|Urbano|08
+25210|Rancho de Peña|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0188|Urbano|08
+25210|Nueva España|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0187|Urbano|08
+25210|Oasis|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2755|Urbano|08
+25210|Hacienda de Peña|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0183|Urbano|08
+25210|Las Brisas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0184|Urbano|08
+25210|Villa Vergel|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2570|Urbano|08
+25210|Privadas de Santiago|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2599|Urbano|08
+25210|Villa Vergel 2a Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3184|Urbano|08
+25215|Valle San Agustin|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0190|Urbano|08
+25220|Virreyes Obrera|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0193|Urbano|08
+25220|Privada España|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2839|Urbano|08
+25220|Zona Industrial|Zona industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||37|030|3197|Urbano|08
+25220|Río Bravo|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||31|030|0192|Urbano|08
+25220|Virreyes Popular|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0194|Urbano|08
+25225|Brisas Poniente|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1822|Urbano|08
+25225|Brisas Poniente|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2569|Urbano|08
+25225|Virreyes Colonial|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0195|Urbano|08
+25225|Virreyes Industrial|Zona industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||37|030|2533|Urbano|08
+25230|FOVISSSTE Virreyes|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||31|030|0199|Urbano|08
+25230|Villa Olímpica|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0198|Urbano|08
+25230|Virreyes Residencial|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0200|Urbano|08
+25238|Valle de los Virreyes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0203|Urbano|08
+25239|Cima de Virreyes|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2717|Urbano|08
+25239|Virreyes Pensiones|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0205|Urbano|08
+25240|Santiago|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0211|Urbano|08
+25240|La Salle|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0209|Urbano|08
+25240|Privadas Luxemburgo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0210|Urbano|08
+25240|Villa Olímpica Oriente|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1826|Urbano|08
+25240|Kiosco III|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2852|Urbano|08
+25240|Jardín|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0208|Urbano|08
+25240|Kiosco|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0206|Urbano|08
+25240|Kiosco 2do Sector|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2358|Urbano|08
+25240|Kiosco|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|0207|Urbano|08
+25250|Villas de San Isidro|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2374|Urbano|08
+25250|Villas de San Carlos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1825|Urbano|08
+25250|Doctores III Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2837|Urbano|08
+25250|Doctores|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|0213|Urbano|08
+25250|Los Doctores|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0212|Urbano|08
+25250|Villas de San Gabriel|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2373|Urbano|08
+25253|Lagos Continental|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0216|Urbano|08
+25253|Ciqa|Zona industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||37|030|2700|Urbano|08
+25253|Alpes Norte|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0215|Urbano|08
+25253|Los Reales|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2591|Urbano|08
+25254|San Isidro|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0219|Urbano|08
+25256|Real de Peña|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0221|Urbano|08
+25260|Universidad|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0227|Urbano|08
+25260|Universidad Norte|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2584|Urbano|08
+25260|Insurgentes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0223|Urbano|08
+25260|Jardines del Valle|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0224|Urbano|08
+25260|Los Maestros|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0225|Urbano|08
+25260|Los Maestros|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|1829|Urbano|08
+25265|República Poniente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0229|Urbano|08
+25270|Alpes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0232|Urbano|08
+25270|Los Ángeles|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0233|Urbano|08
+25270|Latinoamericana|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2596|Urbano|08
+25270|Cumbres Residencial|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2836|Urbano|08
+25270|Latinoamericana|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0231|Urbano|08
+25270|Latinoamericana Norte|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2844|Urbano|08
+25270|Cumbres|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0230|Urbano|08
+25277|Jardín Oriente|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|0235|Urbano|08
+25277|Jardín Oriente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0234|Urbano|08
+25279|Los Parques|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|0236|Urbano|08
+25280|Rancho las Varas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2574|Urbano|08
+25280|República Norte|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1827|Urbano|08
+25280|Tecnológico|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2354|Urbano|08
+25280|Guanajuato|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0238|Urbano|08
+25280|República|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0241|Urbano|08
+25280|Jardines del Lago|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0240|Urbano|08
+25280|ISSSTE|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||31|030|0239|Urbano|08
+25280|República Oriente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1875|Urbano|08
+25280|El Olmo|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0237|Urbano|08
+25284|Topo Chico|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0244|Urbano|08
+25286|Los Adobes|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2929|Urbano|08
+25286|Guanajuato Oriente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0246|Urbano|08
+25290|Las Flores II|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2843|Urbano|08
+25290|Oceania|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2850|Urbano|08
+25290|América|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2834|Urbano|08
+25290|Oceanía Boulevares|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0251|Urbano|08
+25290|Portal de Aragón|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1851|Urbano|08
+25290|Las Flores|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2350|Urbano|08
+25290|Oceanía|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0250|Urbano|08
+25290|Saltillo 400|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0252|Urbano|08
+25290|Valle de las Flores INFONAVIT|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||31|030|0253|Urbano|08
+25290|América|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0248|Urbano|08
+25290|Europa|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0249|Urbano|08
+25293|Rinconada de La Hibernia|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2368|Urbano|08
+25293|Ex-Hacienda San José de los Cerritos|Exhacienda|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||18|030|3264|Urbano|08
+25294|Terranova|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0064|Urbano|08
+25294|Santa Bárbara|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1840|Urbano|08
+25294|Villas de San Sebastián|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2751|Urbano|08
+25294|San José de los Cerritos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1861|Urbano|08
+25294|El Sáuz|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2838|Urbano|08
+25294|Terralta|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0201|Urbano|08
+25294|El Sáuz|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1834|Urbano|08
+25294|Magisterio|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2846|Urbano|08
+25294|Ex Hacienda los Cerritos|Parque industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||26|030|2853|Urbano|08
+25294|Leandro Valle|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1862|Urbano|08
+25294|Avícola|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2361|Urbano|08
+25294|Los Cerritos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2707|Urbano|08
+25294|Magisterio Sección 38|Unidad habitacional|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||31|030|0254|Urbano|08
+25294|Villas de Guadalupe|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3141|Urbano|08
+25294|Rincones de La Aurora|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2752|Urbano|08
+25294|Camino Real|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2763|Urbano|08
+25295|Villa Bonita|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2696|Urbano|08
+25295|Las Praderas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0255|Urbano|08
+25295|Residencial El Tapanco|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0004|Urbano|08
+25295|Las Margaritas|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1864|Urbano|08
+25295|La Palmilla|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2595|Urbano|08
+25295|Las Praderas III|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2845|Urbano|08
+25296|Los Geranios|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2598|Urbano|08
+25296|Bugambilias|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0258|Urbano|08
+25296|Villas de La Aurora|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0261|Urbano|08
+25296|Balcones de La Aurora|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2590|Urbano|08
+25296|Bonanza|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0257|Urbano|08
+25296|Bonanza|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|1857|Urbano|08
+25296|Cruz del Aire|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1859|Urbano|08
+25296|La Florida|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2841|Urbano|08
+25296|Nueva Aurora|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0260|Urbano|08
+25296|La Florida|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0259|Urbano|08
+25297|La Hibernia|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0262|Urbano|08
+25297|La Libertad del Puente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0263|Urbano|08
+25297|Gustavo Diaz Ordaz|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1849|Urbano|08
+25297|Privada Tulipanes|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1869|Urbano|08
+25297|Los Olivos|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|1872|Urbano|08
+25297|Tulipanes 2da Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1848|Urbano|08
+25297|Los Tulipanes|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0266|Urbano|08
+25297|La Rosa|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2349|Urbano|08
+25297|Tulipanes 4a Etapa|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2367|Urbano|08
+25297|La Rosa|Ampliación|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||38|030|2842|Urbano|08
+25297|El Baluarte|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2345|Urbano|08
+25297|El Rosario|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2530|Urbano|08
+25297|Cipreses|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0264|Urbano|08
+25297|La Fragua|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1867|Urbano|08
+25298|Universidad la Salle|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0016|Urbano|08
+25298|La Palmilla|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1847|Urbano|08
+25298|10 de Octubre|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2668|Urbano|08
+25298|La Aurora|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0267|Urbano|08
+25298|San Luis|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1854|Urbano|08
+25298|Parque Industrial Mega|Parque industrial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||26|030|2669|Urbano|08
+25298|Hacienda San Carlos|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2347|Urbano|08
+25298|Santa Cristina Oriente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2352|Urbano|08
+25298|Jardines de los Bosques|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2592|Urbano|08
+25298|Torrecillas y Ramones|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2588|Urbano|08
+25298|Portareal|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|0010|Urbano|08
+25298|San Ángel|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1836|Urbano|08
+25298|La Cieneguita|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|1853|Urbano|08
+25298|Emiliano Zapata|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1835|Urbano|08
+25298|Santa Cristina|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1837|Urbano|08
+25298|Los Molinos|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2365|Urbano|08
+25298|San José Oriente|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2594|Urbano|08
+25298|Alondra|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2854|Urbano|08
+25298|Los Manantiales|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|0268|Urbano|08
+25298|La Ciudadela|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2364|Urbano|08
+25298|Plaza|Residencial|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||30|030|2593|Urbano|08
+25298|Conejo Ixtlero|Colonia|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||09|030|2597|Urbano|08
+25298|Rosales de La Aurora|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1852|Urbano|08
+25298|Real Villas de La Aurora|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|1856|Urbano|08
+25298|El Toreo|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|2346|Urbano|08
+25298|Villas del Camino Real|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3166|Urbano|08
+25298|Puerta del Rey|Fraccionamiento|Saltillo|Coahuila de Zaragoza|Saltillo|25281|05|25281||21|030|3270|Urbano|08
+25300|El Derramadero|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0271|Rural|
+25300|De Peña|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0270|Rural|
+25300|Rancho Nuevo|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0274|Rural|
+25300|Providencia|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0273|Rural|
+25300|Hedionda Grande|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0272|Rural|
+25300|San Juan de La Vaquería|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0275|Rural|
+25301|Hedionda del Lobo|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0277|Rural|
+25301|El Clavel|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0276|Rural|
+25302|Santa Teresa de los Muchachos|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0278|Rural|
+25303|San Blas|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0280|Rural|
+25303|Chapula|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0279|Rural|
+25303|Santa Rita|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0281|Rural|
+25306|Cuauhtémoc|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0283|Rural|
+25306|La Noria|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0285|Rural|
+25306|El Recreo|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0284|Rural|
+25307|La Encantada|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0287|Rural|
+25307|La Herradura|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0289|Rural|
+25307|La Colorada|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0286|Rural|
+25307|La Encantada|Estación|Saltillo|Coahuila de Zaragoza||25001|05|25001||16|030|0288|Rural|
+25308|Santa Fe de los Linderos|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0290|Rural|
+25311|Plan de Ayala|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0295|Rural|
+25311|Cuautla|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0293|Rural|
+25311|La Majada|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0294|Rural|
+25311|Puebla|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0296|Rural|
+25313|San Francisco el Caracol|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0298|Rural|
+25313|El Sauz|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0299|Rural|
+25313|Llanos de la Unión|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0300|Rural|
+25314|El Álamo|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0301|Rural|
+25315|Rincón de los Pastores|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0304|Rural|
+25315|La Angostura|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0303|Rural|
+25319|El Refugio de las Cajas|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0306|Rural|
+25320|Agua Nueva|Estación|Saltillo|Coahuila de Zaragoza||25001|05|25001||16|030|0307|Rural|
+25320|El Jagüey de Ferniza|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0308|Rural|
+25324|Agua Nueva|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0309|Rural|
+25324|Los Ángeles|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0310|Rural|
+25325|Carneros|Estación|Saltillo|Coahuila de Zaragoza||25001|05|25001||16|030|0311|Rural|
+25326|Buñuelos|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0312|Rural|
+25327|Tanque de Emergencia|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0313|Rural|
+25328|El Cercado|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0314|Rural|
+25328|Puyas y las Hormigas (Las Hormigas)|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0315|Rural|
+25329|Las Puyas|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0316|Rural|
+25330|La India|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0318|Rural|
+25330|El Fraile|Estación|Saltillo|Coahuila de Zaragoza||25001|05|25001||16|030|0317|Rural|
+25331|Santa Anita|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0319|Rural|
+25331|Santa Victoria|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0320|Rural|
+25332|Tinajuela|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0323|Rural|
+25332|Astillero|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0321|Rural|
+25332|Palmas Altas|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0322|Rural|
+25333|Zacatera|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0324|Rural|
+25334|Benito Juárez|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0325|Rural|
+25334|El Mezquite|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0326|Rural|
+25334|Guadalupe Victoria|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0328|Rural|
+25334|El Salitre|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0327|Rural|
+25335|Gómez Farías|Congregación|Saltillo|Coahuila de Zaragoza||25001|05|25001||11|030|0329|Rural|
+25335|San Miguel (San Miguel del Banco)|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0331|Rural|
+25335|Las Mangas|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0330|Rural|
+25336|San Juan del Retiro|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0334|Rural|
+25336|San Francisco del Ejido|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0333|Rural|
+25336|Presa de los Muchachos|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0332|Rural|
+25337|El Colorado|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0335|Rural|
+25338|Punta Santa Elena|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0337|Rural|
+25338|Jazminal|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0336|Rural|
+25340|Presa de San Pedro|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0339|Rural|
+25340|La Ventura|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0338|Rural|
+25343|Encarnación de Guzmán|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0340|Rural|
+25344|San Isidro|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0341|Rural|
+25344|Santa Elena|Estación|Saltillo|Coahuila de Zaragoza||25001|05|25001||16|030|0342|Rural|
+25345|Presa de San Javier|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0343|Rural|
+25346|La Purísima|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0344|Rural|
+25347|Tanque del Cerro|Ejido|Saltillo|Coahuila de Zaragoza||25001|05|25001||15|030|0345|Rural|
+25348|El Ranchito|Ranchería|Saltillo|Coahuila de Zaragoza||25001|05|25001||29|030|0346|Rural|

@@ -1,0 +1,48 @@
+47270|Loma Linda|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|0001|Urbano|
+47270|El Arenal|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4126|Rural|
+47270|Alto|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4132|Rural|
+47270|Buenos Aires|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4124|Rural|
+47270|Las Flores|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|5271|Urbano|
+47270|Encarnación de Diaz|Ciudad|Encarnación de Díaz|Jalisco||47271|14|47271||08|035|1884|Rural|
+47270|Prados de la Estación|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|5330|Urbano|
+47270|España|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4121|Rural|
+47270|Niños Héroes|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4122|Rural|
+47270|Libertad|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|5272|Urbano|
+47270|San Pablo|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4123|Rural|
+47270|El Refugio|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|5252|Urbano|
+47270|La Noria|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|5333|Urbano|
+47270|Puente Chico|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4129|Rural|
+47270|El Rosario|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4125|Rural|
+47270|Independencia|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4127|Rural|
+47270|La Villita|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|4131|Rural|
+47272|El Mezquitito|Colonia|Encarnación de Díaz|Jalisco||47271|14|47271||09|035|0002|Urbano|
+47274|San Marcos de Arriba (San Marcos del Refugio)|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5326|Rural|
+47275|Agustin Yánez O México|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|1886|Rural|
+47275|El Tigre|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5285|Rural|
+47275|Las Pilas|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|1888|Rural|
+47275|El Salvador|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|1887|Rural|
+47275|El Jaralillo|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5234|Rural|
+47280|Arboledas de San José|Congregación|Encarnación de Díaz|Jalisco||20001|14|20001||11|035|5332|Urbano|
+47280|Bajío de San Jose|Congregación|Encarnación de Díaz|Jalisco||20001|14|20001||11|035|1889|Rural|
+47281|Rangel|Congregación|Encarnación de Díaz|Jalisco||20001|14|20001||11|035|1890|Rural|
+47282|El Tecuán|Hacienda|Encarnación de Díaz|Jalisco||20001|14|20001||24|035|1891|Rural|
+47283|El Codo|Ranchería|Encarnación de Díaz|Jalisco||20001|14|20001||29|035|5317|Rural|
+47283|Los Tajos|Poblado comunal|Encarnación de Díaz|Jalisco||20001|14|20001||27|035|5308|Rural|
+47283|Las Güeras|Congregación|Encarnación de Díaz|Jalisco||20001|14|20001||11|035|1892|Rural|
+47285|Mesón de los Sauces|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1894|Rural|
+47285|Huaracha|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|1893|Rural|
+47288|Tropezón|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|1895|Rural|
+47288|Mariquita|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5327|Rural|
+47290|San Sebastián del Álamo|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1896|Rural|
+47293|Ciénega de Mora|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1897|Rural|
+47293|Media Luna|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|1898|Rural|
+47294|La Magdalena|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5312|Rural|
+47294|Las Jaulas|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5329|Rural|
+47294|Corral de Piedra|Poblado comunal|Encarnación de Díaz|Jalisco||47271|14|47271||27|035|5284|Rural|
+47294|Caquixtle de Arriba|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1899|Rural|
+47294|Caquixtle de Abajo|Ranchería|Encarnación de Díaz|Jalisco||47271|14|47271||29|035|4890|Rural|
+47295|Castro|Estación|Encarnación de Díaz|Jalisco||47271|14|47271||16|035|1900|Rural|
+47295|Santa Bárbara|Hacienda|Encarnación de Díaz|Jalisco||47271|14|47271||24|035|1901|Rural|
+47296|Santa Maria de Abajo O Transpontina|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1902|Rural|
+47298|Santa Maria de Enmedio Estación|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1904|Rural|
+47298|Estación San Juan de los Lagos|Congregación|Encarnación de Díaz|Jalisco||47271|14|47271||11|035|1903|Rural|

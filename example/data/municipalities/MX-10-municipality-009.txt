@@ -1,0 +1,276 @@
+35400|Guanacevi|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1476|Rural|
+35410|San Antonio|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2513|Rural|
+35410|La Mesa de Coscomate|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4767|Rural|
+35410|Rancho Viejo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1492|Rural|
+35410|San Francisco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2495|Rural|
+35410|Dispensas de Abajo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2480|Rural|
+35410|San José|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2433|Rural|
+35410|La Ciéneguita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4765|Rural|
+35410|Las Pomas|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2420|Rural|
+35413|El Alto de los Lirios|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|0001|Rural|
+35413|El Bajío|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|0004|Rural|
+35413|El Aguajito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4759|Rural|
+35413|Rafael Lazos Valenzuela|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2616|Rural|
+35413|Ignacio Lazos V.|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|0002|Rural|
+35413|El Yerbanís|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|0003|Rural|
+35413|El Huachuchito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2512|Rural|
+35413|El Calvario|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2567|Rural|
+35413|Austrebertha Bustillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2614|Rural|
+35414|Bajío el Canelo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2555|Rural|
+35414|Nonalco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2553|Rural|
+35414|Aguaje Colorado (Rancho de los Viga)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2554|Rural|
+35414|La Mezcalera|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4768|Rural|
+35414|Cerro Prieto (El Cáñamo)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1486|Rural|
+35414|Bajío Redondo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2558|Rural|
+35414|El Terrero|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2500|Rural|
+35414|Arroyo del Cristal|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2510|Rural|
+35414|El Puerto Colorado|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2584|Rural|
+35414|San Francisco de los Remedios (Las Pintas)|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1487|Rural|
+35414|Bajío de los Arrieros|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2552|Rural|
+35414|La Lagunita|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2485|Rural|
+35414|Las Tapias|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2498|Rural|
+35414|Tlaxcala|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2501|Rural|
+35414|Aguaje Colorado|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2551|Rural|
+35414|Rancho de los Linos|Rancho|Guanaceví|Durango||35601|10|35601||48|009|0005|Rural|
+35414|El Tanque|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2497|Rural|
+35414|Vallecillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2509|Rural|
+35415|Agua Caliente|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2461|Rural|
+35415|Las Chinacas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2471|Rural|
+35415|El Toro de Arriba|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2613|Rural|
+35415|El Barranco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4761|Rural|
+35415|El Carrizo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2468|Rural|
+35415|El Durazno|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2481|Rural|
+35415|La Punta de la Mesa|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2511|Rural|
+35415|El Carricito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2597|Rural|
+35415|Las Maravillas (Arroyo Hondito)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2466|Rural|
+35415|El Toro de Abajo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2502|Rural|
+35416|El Pino|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2432|Rural|
+35417|San Rafael|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2494|Rural|
+35417|La Joya de Casas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2515|Rural|
+35417|El Tecolote|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2594|Rural|
+35417|La Cieneguita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2570|Rural|
+35417|Ciénega Prieta|Ejido|Guanaceví|Durango||35601|10|35601||15|009|1488|Rural|
+35417|Mesas Coloradas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2431|Rural|
+35417|La Tatema|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2499|Rural|
+35417|El Ojito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2517|Rural|
+35417|Cendradillas|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1485|Rural|
+35417|San Esteban|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2425|Rural|
+35417|El Macho|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2488|Rural|
+35417|Agua Escondida|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2462|Rural|
+35417|Arroyo del Macho|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2465|Rural|
+35417|El Remudadero|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2516|Rural|
+35417|El Terrerito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2418|Rural|
+35417|Rancho de Agustina|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2492|Rural|
+35417|Agua del Pino|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2598|Rural|
+35420|Las Joyas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2459|Rural|
+35420|San Andrés|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2424|Rural|
+35420|La Cruz|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2441|Rural|
+35420|Piloncillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2442|Rural|
+35420|La Lobera|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2487|Rural|
+35420|Los Ancones|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2443|Rural|
+35423|Los Berros|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2404|Rural|
+35423|Las Huertas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2440|Rural|
+35423|San Miguel|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2453|Rural|
+35423|San Andrés de Abajo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2591|Rural|
+35423|Ciénega de los Remedios|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1479|Rural|
+35423|El Carrizo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1480|Rural|
+35423|Agua Zarca|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2463|Rural|
+35423|Nombre de Dios|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2503|Rural|
+35423|El Potrero Viejo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2422|Rural|
+35423|El Venado|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2449|Rural|
+35424|Zape Chico|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1496|Rural|
+35425|El Zape|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1494|Rural|
+35425|Ciénega de Quelites (Quelites)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1495|Rural|
+35425|Ambrosio Reyes Rivera|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2607|Rural|
+35425|Jesús Ramos Aguirre|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2609|Rural|
+35425|La Otra Banda|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2610|Rural|
+35425|El Cuervito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2446|Rural|
+35425|Contrayerba|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2476|Rural|
+35425|Alfredo Blanco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2606|Rural|
+35426|Posta de Jihuites|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1501|Rural|
+35426|Escobar y Anexos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2412|Rural|
+35426|Palomas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4773|Rural|
+35426|Carricitos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2467|Rural|
+35427|El Ojito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2523|Rural|
+35427|Boleras|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1500|Rural|
+35427|Chupaderos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2474|Rural|
+35430|Agua Caliente|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1481|Rural|
+35430|Coscomate|Ejido|Guanaceví|Durango||35601|10|35601||15|009|1483|Rural|
+35430|Los Nopales|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1482|Rural|
+35430|Los Ídolos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2452|Rural|
+35430|La Labor de San Javier|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2414|Rural|
+35430|Arroyo del Corral|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2444|Rural|
+35430|El Cerro|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2568|Rural|
+35430|La Soledad|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2496|Rural|
+35430|El Mortero|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2457|Rural|
+35430|Los Álamos|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1484|Rural|
+35430|Arroyo Seco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2564|Rural|
+35430|Portales|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1490|Rural|
+35433|Biogame|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1498|Rural|
+35433|Biogamito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2455|Rural|
+35433|Guanillava|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2520|Rural|
+35433|Las Huertas de Morelos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2447|Rural|
+35433|La Cieneguita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2408|Rural|
+35433|José María Morelos|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1497|Rural|
+35433|San Isidro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1499|Rural|
+35433|San Mateo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2460|Rural|
+35433|Llano del Pino|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2579|Rural|
+35434|El Barro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2445|Rural|
+35434|El Chihuital|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4762|Rural|
+35434|Las Adjuntas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2396|Rural|
+35434|Agua Amarilla|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2430|Rural|
+35434|La Pitarrilla|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2491|Rural|
+35434|El Gato|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2560|Rural|
+35434|Los Desmontes|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2571|Rural|
+35434|El Cócono|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2620|Rural|
+35434|La Peña|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2456|Rural|
+35434|Las Trabas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2521|Rural|
+35434|San Javier|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2623|Rural|
+35434|Bajío del Alambre|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2399|Rural|
+35435|El Alamillo|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2397|Rural|
+35435|La Manada|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2417|Rural|
+35435|San José de la Trampa|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2426|Rural|
+35435|Chiqueros|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2472|Rural|
+35435|Talayotes|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2533|Rural|
+35435|Mesa de los Tanques|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2582|Rural|
+35435|La Osa|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2622|Rural|
+35435|Enríquez|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2411|Rural|
+35435|Laguna Seca (Las Mangas)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2429|Rural|
+35435|La Cieneguita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2475|Rural|
+35435|Los Frailes|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2519|Rural|
+35435|Cebollas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2522|Rural|
+35435|Rincón del Bajío (Rincón de Cebollas)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2529|Rural|
+35435|Arroyo del Conejo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2563|Rural|
+35435|Rancho de Peña|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2587|Rural|
+35435|Rancho Nuevo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2596|Rural|
+35435|La Joya de Ayala|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2413|Rural|
+35435|El Chorro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2473|Rural|
+35435|El Ranchito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2524|Rural|
+35435|Curva Blanca|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2605|Rural|
+35435|El Salitre|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|1493|Rural|
+35435|Bajío Redondo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2401|Rural|
+35435|Ciénega Amarilla de Arriba|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2569|Rural|
+35435|Rancho Alberto|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2586|Rural|
+35435|Ciénega Amarilla de Abajo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2406|Rural|
+35435|Cristales|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2409|Rural|
+35435|Las Cuevas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2479|Rural|
+35435|La Joya de Lascano|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2537|Rural|
+35435|El Relámpago|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2588|Rural|
+35435|El Arroyo del Alamillo (Los Lobos)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4760|Rural|
+35435|Bajío del Tapanco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4756|Rural|
+35435|San Antinio de Arriba|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4775|Rural|
+35436|Predilecta|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2527|Rural|
+35436|Los Bajíos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2574|Rural|
+35436|El Pájaro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4764|Rural|
+35436|Tapustete|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2525|Rural|
+35436|Talistipa|Congregación|Guanaceví|Durango||35601|10|35601||11|009|2601|Rural|
+35436|Cuevitas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4758|Rural|
+35436|Potrerillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2421|Rural|
+35436|Arianeña|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2528|Rural|
+35436|Alfonso Chávez|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2621|Rural|
+35436|Rosales|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2448|Rural|
+35436|Fanny|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2484|Rural|
+35436|Colonia Metalúrgica (La Planta)|Congregación|Guanaceví|Durango||35601|10|35601||11|009|2600|Rural|
+35436|Emigdio Mata Ortega|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2608|Rural|
+35436|Arroyo del Hacho (La Cruz)|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2398|Rural|
+35436|El Río Chiquihuites|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2493|Rural|
+35436|El Barradón|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2604|Rural|
+35436|La Calera|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2451|Rural|
+35436|El Ranchito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2585|Rural|
+35436|Todos Santos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2526|Rural|
+35436|El Monzón|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2530|Rural|
+35436|San Pedro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2427|Rural|
+35437|Barbacoas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2402|Rural|
+35437|El Zorrillo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2428|Rural|
+35437|Piedra Agujerada|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2434|Rural|
+35437|Potrerillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2439|Rural|
+35437|Los Lobos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2415|Rural|
+35437|Las Canoas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2405|Rural|
+35437|Salsipuedes|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2458|Rural|
+35440|Bajío de San Rafael|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2504|Rural|
+35440|Río Colorado|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2538|Rural|
+35440|La Patilla|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2546|Rural|
+35440|Joya de Las Viudas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2575|Rural|
+35440|El Olvido|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2583|Rural|
+35440|Ciénega del Conejo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4757|Rural|
+35440|Los Ingleses|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2505|Rural|
+35440|Piedra Bola|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2506|Rural|
+35440|San Francisco de los Cano|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2508|Rural|
+35440|La Mesa del Cambray|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2549|Rural|
+35440|El Berro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2556|Rural|
+35440|El Aguaje|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2561|Rural|
+35440|Arroyo de las Yeguas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2565|Rural|
+35440|Los Órganos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2450|Rural|
+35440|El Palomo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2534|Rural|
+35440|Los Árboles|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2603|Rural|
+35440|Pie de la Cuesta|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2490|Rural|
+35440|San Juan|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2535|Rural|
+35440|El Pinal|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2545|Rural|
+35440|Los Ángeles|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4770|Rural|
+35440|San Francisco|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2540|Rural|
+35440|El Durazno|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2572|Rural|
+35440|Rancho Viejo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2507|Rural|
+35440|La Canoa|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2536|Rural|
+35440|El Río|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2589|Rural|
+35440|Romerillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2590|Rural|
+35440|El Maguey|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4763|Rural|
+35440|Los Tanques|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2400|Rural|
+35440|Los Lobos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2543|Rural|
+35440|Ojo de Agua|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2547|Rural|
+35440|San Juan de Abajo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2592|Rural|
+35440|Bajío de Zenón (Bajío de Caborachi)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2619|Rural|
+35440|El Arroyo de Cuevecillas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2539|Rural|
+35440|Las Ánimas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2544|Rural|
+35440|El Águila|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2550|Rural|
+35440|Arroyo del Palomo (La Cruz)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2557|Rural|
+35440|La Rosita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2618|Rural|
+35440|La Rosa|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4769|Rural|
+35443|El Cócono|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|1491|Rural|
+35443|El Barro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2403|Rural|
+35443|Cueva de los Árabes|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2478|Rural|
+35443|Rosa Morada|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4774|Rural|
+35443|Atanacio Villanueva Talamantes|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2581|Rural|
+35443|La Lagunita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4766|Rural|
+35443|La Cumbre|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2438|Rural|
+35443|Pedernales|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2489|Rural|
+35444|Chiqueros|Ejido|Guanaceví|Durango||35601|10|35601||15|009|2410|Rural|
+35444|Vivero Forestal Llano Grande|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2595|Rural|
+35444|El Alto de La Rosilla|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2602|Rural|
+35444|El Cebollín|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2437|Rural|
+35444|Puerto de La Herradura|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2514|Rural|
+35444|La Escondida|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2483|Rural|
+35444|El Chihuistoso|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2464|Rural|
+35444|Santos Torres|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2580|Rural|
+35444|Los Ancones|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4771|Rural|
+35444|La Rosilla|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2423|Rural|
+35444|El Coyote|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2477|Rural|
+35444|El Escalón|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2573|Rural|
+35444|El Cebollín|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2469|Rural|
+35444|El Táscate|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2593|Rural|
+35444|Llano Grande|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2416|Rural|
+35445|Arroyo del Embudo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2532|Rural|
+35445|La Quebrada|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2436|Rural|
+35445|La Cieneguita|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2599|Rural|
+35445|El Cebollincito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2470|Rural|
+35445|Las Yeguas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2531|Rural|
+35445|Los Lobos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|4772|Rural|
+35445|Los Ojuelos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2419|Rural|
+35446|Ciénega de la Vaca|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2407|Rural|
+35446|El Ranchito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2454|Rural|
+35446|El Ojito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2548|Rural|
+35446|La Joya de Vallecillos|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2576|Rural|
+35446|Agua del Pino|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2482|Rural|
+35446|Bajío Largo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2566|Rural|
+35446|El Potrerito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2612|Rural|
+35446|Ventanas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2541|Rural|
+35446|El Potrillo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2542|Rural|
+35446|Nombre de Dios|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2611|Rural|
+35447|Lajas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2578|Rural|
+35447|El Coconito|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2518|Rural|
+35447|Tomás Primero Anaya|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2617|Rural|
+35447|La Joya (Ranchito de Porfirio)|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2577|Rural|
+35447|El Cedro|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2435|Rural|
+35447|Arroyo Colorado|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2562|Rural|
+35447|Arroyo de Lajas (Lajas)|Pueblo|Guanaceví|Durango||35601|10|35601||28|009|2486|Rural|
+35447|Juan Cruz Payan Olivas|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2615|Rural|
+35447|Arroyo Hondo|Ranchería|Guanaceví|Durango||35601|10|35601||29|009|2559|Rural|

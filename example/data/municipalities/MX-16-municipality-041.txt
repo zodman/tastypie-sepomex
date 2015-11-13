@@ -1,0 +1,52 @@
+61280|El Tinaco|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0005|Urbano|
+61280|Los Acebuches|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0010|Urbano|
+61280|Carlos Rojas|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0002|Urbano|
+61280|Adolfo López Mateos|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0001|Urbano|
+61280|Las Rosas|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0009|Urbano|
+61280|Los Olmos|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0012|Urbano|
+61280|Irimbo|Pueblo|Irimbo|Michoacán de Ocampo||61101|16|61101||28|041|2298|Urbano|
+61280|La Lagunita|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0008|Urbano|
+61280|Siglo XX|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0014|Urbano|
+61280|El Magisterio|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0004|Urbano|
+61280|Simón Bolívar|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0015|Urbano|
+61280|Cristo Rey|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0003|Urbano|
+61280|Guadalupe|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0006|Urbano|
+61280|Jesús Sotelo|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0007|Urbano|
+61280|Los Ailes|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0011|Urbano|
+61280|Pedro Cuini|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0013|Urbano|
+61282|Hacienda Jaripeo|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0026|Rural|
+61282|El Azafrán|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0022|Rural|
+61282|Ampliación las Joyas (Puente de Turundeo)|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0016|Rural|
+61282|Chupio|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0018|Rural|
+61282|El Salitre|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|2300|Rural|
+61282|Loma de Chupio|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|2302|Rural|
+61282|San Lorenzo Queréndaro|Pueblo|Irimbo|Michoacán de Ocampo||61101|16|61101||28|041|2303|Rural|
+61283|Tzintzingareo|Pueblo|Irimbo|Michoacán de Ocampo||61101|16|61101||28|041|2299|Urbano|
+61284|Concharrás|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0020|Rural|
+61284|Balvaneda|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0017|Rural|
+61284|Cerrito Blanco|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0041|Rural|
+61284|La Cuajada|Pueblo|Irimbo|Michoacán de Ocampo||61101|16|61101||28|041|3976|Rural|
+61285|Estación Irimbo|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0024|Rural|
+61285|San Francisco Epunguio|Pueblo|Irimbo|Michoacán de Ocampo||61101|16|61101||28|041|2304|Rural|
+61285|Cristo Rey|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0021|Rural|
+61285|El Salto|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0023|Rural|
+61285|El Obraje|Rancho|Irimbo|Michoacán de Ocampo||61101|16|61101||48|041|0040|Rural|
+61285|Los Marzos Pequeña|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0029|Rural|
+61285|El Obraje|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0030|Rural|
+61285|San Miguel el Alto|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0033|Rural|
+61285|Garambullo|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0025|Rural|
+61285|San Antonio Tarichado|Rancho|Irimbo|Michoacán de Ocampo||61101|16|61101||48|041|0037|Rural|
+61286|San Nicolás|Rancho|Irimbo|Michoacán de Ocampo||61101|16|61101||48|041|0038|Rural|
+61286|San Miguel la Virgen|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0032|Rural|
+61286|El Colorín (Seis de Junio)|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0019|Rural|
+61286|Los Cedros|Colonia|Irimbo|Michoacán de Ocampo||61101|16|61101||09|041|0042|Rural|
+61286|El Deshuesadero [La CONASUPO]|Rancho|Irimbo|Michoacán de Ocampo||61101|16|61101||48|041|0039|Rural|
+61286|San José de Magallanes|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0031|Rural|
+61287|Los Mogotes|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0034|Rural|
+61287|Los Marzos (Los Marzos Ejido)|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0035|Rural|
+61287|La Frontera|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|2305|Rural|
+61287|Las Surtadas (Las Hurtadas)|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0027|Rural|
+61287|Los Hoyos (El Tinaco)|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|0028|Rural|
+61288|San Vicente el Chico (Manzana de San Vicente)|Ranchería|Irimbo|Michoacán de Ocampo||61101|16|61101||29|041|2306|Rural|
+61288|Llano Grande|Poblado comunal|Irimbo|Michoacán de Ocampo||61101|16|61101||27|041|5553|Rural|
+61288|El Zorillo (Parícuaro Curimba)|Rancho|Irimbo|Michoacán de Ocampo||61101|16|61101||48|041|0036|Rural|

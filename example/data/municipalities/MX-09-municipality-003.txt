@@ -1,0 +1,149 @@
+04000|Villa Coyoacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0563|Urbano|04
+04009|Delegación Política Coyoacán|Gran usuario|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||22|003|0565|Urbano|04
+04010|Barrio Santa Catarina|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||02|003|0566|Urbano|04
+04020|Barrio La Concepción|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||02|003|0567|Urbano|04
+04030|Barrio San Lucas|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||02|003|0569|Urbano|04
+04040|Parque San Andrés|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0570|Urbano|04
+04100|Del Carmen|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0571|Urbano|04
+04110|Viveros de Coyoacán|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0575|Urbano|04
+04120|San Diego Churubusco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0577|Urbano|04
+04120|San Mateo|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0578|Urbano|04
+04129|Cámara Nacional de la Industria Editorial|Gran usuario|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||22|003|0579|Urbano|04
+04200|Campestre Churubusco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0580|Urbano|04
+04210|Churubusco Country Club|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0582|Urbano|04
+04230|Prado Churubusco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0584|Urbano|04
+04239|Ermita Churubusco|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0585|Urbano|04
+04240|Hermosillo|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0586|Urbano|04
+04250|Paseos de Taxqueña|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0587|Urbano|04
+04259|20 de Agosto|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0588|Urbano|04
+04260|San Francisco Culhuacán Barrio de San Juan|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||02|003|2831|Urbano|04
+04260|San Francisco Culhuacán Barrio de La Magdalena|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||02|003|2807|Urbano|04
+04260|San Francisco Culhuacán Barrio de Santa Ana|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||02|003|2808|Urbano|04
+04260|San Francisco Culhuacán Barrio de San Francisco|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||02|003|0590|Urbano|04
+04270|Santa Martha del Sur Quetzalcoatl|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0594|Urbano|04
+04280|Taxqueña|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0595|Urbano|04
+04300|Ajusco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0596|Urbano|04
+04307|Ajusco Montserrat|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0598|Urbano|04
+04309|Pedregal de Monserrat|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0599|Urbano|04
+04310|Monte de Piedad|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0600|Urbano|04
+04310|Romero de Terreros|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0601|Urbano|04
+04317|ISSSTE|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0602|Urbano|04
+04318|Barrio Oxtopulco Universidad|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||02|003|0603|Urbano|04
+04319|Fortín de Chimalistac|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0604|Urbano|04
+04319|Torres de Chimalistac|Conjunto habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||12|003|0605|Urbano|04
+04320|Pedregal de San Francisco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0608|Urbano|04
+04320|Romero de Terreros|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0609|Urbano|04
+04320|Cuadrante de San Francisco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0606|Urbano|04
+04326|Villa de San Francisco|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0610|Urbano|04
+04327|Rincón de Guanajuato|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0611|Urbano|04
+04330|Rinconada de los Reyes|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|2754|Urbano|04
+04330|Pacifico|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0615|Urbano|04
+04330|El Rosedal|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0612|Urbano|04
+04330|Barrio del Niño Jesús|Barrio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||02|003|0614|Urbano|04
+04330|Rosedal|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0616|Urbano|04
+04330|Pedregal de Coyoacán|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|2646|Urbano|04
+04330|Pueblo de los Reyes|Pueblo|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||28|003|0613|Urbano|04
+04336|Zapata|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0618|Urbano|04
+04337|Montserrat|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0619|Urbano|04
+04338|Mariana|Conjunto habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||12|003|0620|Urbano|04
+04340|Insurgentes San Ángel|Conjunto habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||12|003|0624|Urbano|04
+04340|Copilco El Bajo|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0622|Urbano|04
+04340|Copilco Universidad ISSSTE|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0623|Urbano|04
+04350|Altillo Universidad|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0626|Urbano|04
+04350|Copilco|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0627|Urbano|04
+04350|Acasulco|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0625|Urbano|04
+04350|Villas Copilco|Conjunto habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||12|003|0630|Urbano|04
+04350|Integración Latinoamericana|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0628|Urbano|04
+04359|Empleados Federales|Condominio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||10|003|0631|Urbano|04
+04360|Copilco El Alto|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0632|Urbano|04
+04360|Copilco Universidad|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0633|Urbano|04
+04368|Residencial la Cantera|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0635|Urbano|04
+04369|Pedregal de Santo Domingo|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0636|Urbano|04
+04370|Atlántida|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0637|Urbano|04
+04370|Ciudad Jardín|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0638|Urbano|04
+04370|Xotepingo 101|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0639|Urbano|04
+04380|Pueblo La Candelaria|Pueblo|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||28|003|0641|Urbano|04
+04380|El Rosario|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0640|Urbano|04
+04390|Nueva Díaz Ordaz|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0644|Urbano|04
+04390|Huayamilpas|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0643|Urbano|04
+04400|Educación|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0645|Urbano|04
+04410|Petrolera Taxqueña|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0646|Urbano|04
+04410|Tlalpan FOVISSSTE|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0648|Urbano|04
+04420|Ex-Ejido de San Francisco Culhuacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0649|Urbano|04
+04440|Culhuacán CTM Sección II|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2810|Urbano|04
+04440|Culhuacán CTM Sección I|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2811|Urbano|04
+04440|Culhuacán CTM Sección V|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0651|Urbano|04
+04450|El Centinela|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0652|Urbano|04
+04460|Avante|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0653|Urbano|04
+04470|Presidentes Ejidales 2a Sección|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2805|Urbano|04
+04470|Presidentes Ejidales 1a Sección|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0655|Urbano|04
+04480|Culhuacán CTM Sección III|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2809|Urbano|04
+04480|Culhuacán CTM Sección VI|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0657|Urbano|04
+04480|Culhuacán CTM CROC|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2812|Urbano|04
+04480|Culhuacán CTM Sección X-A|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2815|Urbano|04
+04489|Culhuacán CTM Sección VII|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0658|Urbano|04
+04490|Culhuacán CTM Canal Nacional|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2813|Urbano|04
+04490|Culhuacán CTM Sección Piloto|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0659|Urbano|04
+04500|Jardines del Pedregal de San Ángel|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0660|Urbano|04
+04510|Universidad Nacional Autónoma de México|Equipamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||17|003|2793|Urbano|04
+04513|Multifamiliar Para Maestros|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|2758|Urbano|04
+04519|La Otra Banda|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0664|Urbano|04
+04530|Insurgentes Cuicuilco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0665|Urbano|04
+04535|Torres del Maurel|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0667|Urbano|04
+04600|Pedregal de Santa Úrsula|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0669|Urbano|04
+04610|Xotepingo|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0670|Urbano|04
+04620|Pueblo de San Pablo Tepetlapa|Pueblo|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||28|003|0671|Urbano|04
+04630|Adolfo Ruiz Cortínes|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0672|Urbano|04
+04640|El Reloj|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0673|Urbano|04
+04650|Pueblo de Santa Úrsula Coapa|Pueblo|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||28|003|0676|Urbano|04
+04650|Los Fresnos|Condominio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||10|003|0675|Urbano|04
+04660|Pedregal de La Zorra|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|2686|Urbano|04
+04660|Joyas del Pedregal|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0677|Urbano|04
+04700|Villa Panamericana|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0679|Urbano|04
+04700|Pedregal de Carrasco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0678|Urbano|04
+04710|Olímpica|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0680|Urbano|04
+04718|Vistas del Maurel|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0681|Urbano|04
+04719|Villas del Pedregal|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0683|Urbano|04
+04719|Pedregal del Sur|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||21|003|0682|Urbano|04
+04720|Pedregal del Maurel|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0684|Urbano|04
+04729|Rinconada las Playas INFONAVIT|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||31|003|0685|Urbano|04
+04730|Bosques de Tetlameya|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0687|Urbano|04
+04730|Cantil del Pedregal|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0686|Urbano|04
+04738|Villas del Imán|Residencial|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||30|003|2837|Urbano|04
+04738|Modulo Social Imán|Condominio|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||10|003|0689|Urbano|04
+04739|El Caracol|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04331|09|04331||09|003|0690|Urbano|04
+04800|Los Cedros|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0692|Urbano|04
+04800|Alianza Popular Revolucionaria|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0691|Urbano|04
+04810|Prados de Coyoacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0695|Urbano|04
+04815|Emiliano Zapata|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0696|Urbano|04
+04830|Los Cipreses|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0697|Urbano|04
+04830|Los Ciruelos|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||21|003|0698|Urbano|04
+04840|Ex-Ejido de San Pablo Tepetlapa|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2806|Urbano|04
+04843|Secretaria de Marina Armada de México|Gran usuario|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||22|003|0700|Urbano|04
+04849|Sector Marina|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0701|Urbano|04
+04850|Fuentes de Coyoacán|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||21|003|2753|Urbano|04
+04870|Espartaco|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0706|Urbano|04
+04870|Los Robles|Fraccionamiento|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||21|003|0707|Urbano|04
+04890|Los Olivos|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|0710|Urbano|04
+04890|Jardines de Coyoacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0708|Urbano|04
+04890|Los Olivos|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0709|Urbano|04
+04899|El Parque de Coyoacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0711|Urbano|04
+04908|La Virgen|Unidad habitacional|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||31|003|2790|Urbano|04
+04909|Culhuacán CTM Sección IX-B|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2814|Urbano|04
+04909|Culhuacán CTM Sección VIII|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0714|Urbano|04
+04909|Culhuacán CTM Sección IX-A|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0715|Urbano|04
+04910|Carmen Serdán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0716|Urbano|04
+04918|Cafetales|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0717|Urbano|04
+04919|Emiliano Zapata Fraccionamiento Popular|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0718|Urbano|04
+04920|Los Girasoles|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0719|Urbano|04
+04929|Las Campanas|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0723|Urbano|04
+04930|Santa Cecilia|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0724|Urbano|04
+04938|Campestre Coyoacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0725|Urbano|04
+04939|Culhuacán CTM Sección X|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0726|Urbano|04
+04940|Los Sauces|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0727|Urbano|04
+04950|El Mirador|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0728|Urbano|04
+04960|Villa Quietud|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0729|Urbano|04
+04970|Haciendas de Coyoacán|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0730|Urbano|04
+04980|Ex-Hacienda Coapa|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0731|Urbano|04
+04980|Viejo Ejido de Santa Úrsula Coapa|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|2792|Urbano|04
+04980|Ex-Ejido de Santa Úrsula Coapa|Colonia|Coyoacán|Distrito Federal|Ciudad de México|04831|09|04831||09|003|0674|Urbano|04

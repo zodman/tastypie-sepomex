@@ -1,0 +1,17 @@
+55970|Morelos A|Barrio|Nopaltepec|México||55901|15|55901||02|061|7718|Rural|
+55970|Hidalgo B|Barrio|Nopaltepec|México||55901|15|55901||02|061|7717|Rural|
+55970|Morelos B|Barrio|Nopaltepec|México||55901|15|55901||02|061|7719|Rural|
+55970|Tlaxixilo|Barrio|Nopaltepec|México||55901|15|55901||02|061|7722|Rural|
+55970|Hidalgo A|Barrio|Nopaltepec|México||55901|15|55901||02|061|7716|Rural|
+55970|Vicente Guerrero|Barrio|Nopaltepec|México||55901|15|55901||02|061|7720|Rural|
+55974|Tepetzingo|Ranchería|Nopaltepec|México||55901|15|55901||29|061|4049|Rural|
+55975|Roma|Barrio|Nopaltepec|México||55901|15|55901||02|061|7723|Rural|
+55975|San Felipe Teotitlán Centro|Pueblo|Nopaltepec|México||55901|15|55901||28|061|4050|Rural|
+55975|Huilotongo|Barrio|Nopaltepec|México||55901|15|55901||02|061|7721|Rural|
+55976|San Miguel Atepoxco|Ranchería|Nopaltepec|México||55901|15|55901||29|061|6643|Rural|
+55976|San Felipe (Moratepec)|Ranchería|Nopaltepec|México||55901|15|55901||29|061|9229|Rural|
+55977|Tepatepec|Exhacienda|Nopaltepec|México||55901|15|55901||18|061|9228|Rural|
+55977|La Puerta|Exhacienda|Nopaltepec|México||55901|15|55901||18|061|9230|Rural|
+55977|Venta de Cruz|Ranchería|Nopaltepec|México||55901|15|55901||29|061|7715|Rural|
+55978|Las Ambrises|Exhacienda|Nopaltepec|México||55901|15|55901||18|061|9226|Rural|
+55978|Santa Inés Amiltepec|Exhacienda|Nopaltepec|México||55901|15|55901||18|061|9227|Rural|

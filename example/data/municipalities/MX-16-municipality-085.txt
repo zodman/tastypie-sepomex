@@ -1,0 +1,42 @@
+59750|Tangancícuaro de Arista Centro|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|1403|Urbano|14
+59750|El Refugio|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|3763|Urbano|14
+59750|Cupatziro|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|0001|Urbano|14
+59750|Santa Anita|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|0002|Urbano|14
+59750|El Cerrito|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|3956|Urbano|14
+59750|Los Fresnos|Fraccionamiento|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||21|085|3762|Urbano|14
+59750|Gutiérrez|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|3764|Urbano|14
+59750|El Pescador|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|3955|Urbano|14
+59753|Tenería|Fraccionamiento|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||21|085|2947|Urbano|14
+59753|Arboledas|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|2944|Urbano|14
+59753|Camelinas|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|2945|Urbano|14
+59753|Sagrado Corazón de Jesús|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|4082|Urbano|14
+59758|Mártires de Antorcha 2a. Sección|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|4081|Urbano|14
+59758|La Antorcha Campesina|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|2943|Urbano|14
+59759|Loma Esmeralda|Fraccionamiento|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||21|085|4083|Urbano|14
+59759|Valle Verde|Fraccionamiento|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||21|085|0003|Urbano|14
+59759|La Cantera|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|3957|Urbano|14
+59759|Loma Linda 2a Sección|Fraccionamiento|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||21|085|4080|Urbano|14
+59759|Loma Linda|Colonia|Tangancícuaro|Michoacán de Ocampo|Tangancícuaro de Arista|59751|16|59751||09|085|2946|Urbano|14
+59760|Emiliano Zapata|Colonia|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||09|085|0005|Rural|
+59760|San Antonio Ocampo|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1405|Rural|
+59762|El Canindo|Rancho|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||48|085|0004|Rural|
+59762|La Parrilla|Rancho|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||48|085|0006|Rural|
+59762|Francisco J. Mújica (La Guaracha)|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1408|Rural|
+59762|Gómez Farías|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1406|Rural|
+59763|Valle de Guadalupe|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1409|Rural|
+59764|Etúcuaro|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1410|Rural|
+59765|Noroto (Loma de Noroto)|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1411|Rural|
+59766|Buena Vista|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1412|Rural|
+59766|Tierras Blancas|Hacienda|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||24|085|1407|Rural|
+59770|Patamban|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1413|Urbano|
+59773|Tengüecho|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1414|Rural|
+59774|Los Lobos|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1415|Rural|
+59774|Guarachanillo (Guarachanillo de Arriba)|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|4084|Rural|
+59774|Sauz de Guzmán|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1416|Rural|
+59774|Aranza|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|4085|Rural|
+59775|San José de Gracia (San José Ocumicho)|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1402|Rural|
+59775|General Dámaso Cárdenas (Páramo)|Pueblo|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||28|085|1417|Rural|
+59775|Adolfo Ruiz Cortinez (Capricho)|Ranchería|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||29|085|1401|Rural|
+59776|Los Longares|Rancho|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||48|085|0008|Rural|
+59776|Las Cañas|Rancho|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||48|085|0007|Rural|
+59776|Los Paredones|Rancho|Tangancícuaro|Michoacán de Ocampo||59751|16|59751||48|085|0009|Rural|

@@ -1,0 +1,10 @@
+70130|Cuarta Sección|Colonia|Santiago Niltepec|Oaxaca||70162|20|70162||09|066|4917|Urbano|
+70130|Guadalupe|Colonia|Santiago Niltepec|Oaxaca||70162|20|70162||09|066|4980|Urbano|
+70130|Santiago Niltepec|Pueblo|Santiago Niltepec|Oaxaca||70162|20|70162||28|066|1964|Rural|
+70133|Guadalupe|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|4461|Rural|
+70133|Cazadero Abajo|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|4460|Rural|
+70133|Cazadero de Arriba|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|1963|Rural|
+70135|El Zopilote (Teotepec)|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|1966|Rural|
+70135|Las Petacas|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|4458|Rural|
+70135|El Huamul|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|4459|Rural|
+70135|Laguna de Hojas|Ranchería|Santiago Niltepec|Oaxaca||70162|20|70162||29|066|4877|Rural|

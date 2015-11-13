@@ -1,0 +1,49 @@
+69700|95 Batallón de Infantería|Unidad habitacional|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||31|469|0855|Rural|50
+69700|Lázaro Cárdenas|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1138|Rural|50
+69700|San Pedro El Bajo|Barrio|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||02|469|1280|Rural|50
+69700|Santiago Juxtlahuaca Centro|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1732|Rural|50
+69700|Aviación|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|3488|Rural|50
+69700|Progreso|Barrio|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||02|469|1757|Rural|50
+69700|Las Pilas|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|3491|Rural|50
+69700|Las Américas|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|3493|Rural|50
+69700|San Florencio|Barrio|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||02|469|1249|Rural|50
+69700|Del Maestro|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1761|Rural|50
+69700|Santa Cruz|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1764|Rural|50
+69700|Primero de Julio|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1227|Rural|50
+69700|La Esperanza|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1762|Rural|50
+69700|La Soledad|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1763|Rural|50
+69700|Santo Domingo|Barrio|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||02|469|3490|Rural|50
+69700|Santo Niño de Atocha|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1308|Rural|50
+69700|Guadalupe|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|1756|Rural|50
+69700|San Pedro El Alto|Barrio|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||02|469|3489|Rural|50
+69700|Los Pinos|Colonia|Santiago Juxtlahuaca|Oaxaca|Santiago Juxtlahuaca|69701|20|69701||09|469|3492|Rural|50
+69702|San Juan Copala|Pueblo|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||28|469|1737|Rural|
+69702|Tilapa|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1738|Rural|
+69703|Santa María Asunción|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1739|Rural|
+69704|Santa Catarina Noltepec|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1740|Rural|
+69705|Nican de La Soledad|Congregación|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||11|469|1741|Rural|
+69706|San Miguel Cuevas|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1742|Rural|
+69707|Santiago Naranjas|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1743|Rural|
+69708|Los Aguacates|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1744|Rural|
+69708|Santa Rosa Caxtlahuaca|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1736|Rural|
+69709|Unión de Cárdenas|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1745|Rural|
+69710|Zochiquilazala|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1735|Rural|
+69710|San Juan Piñas|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1733|Rural|
+69710|San Pedro Chayuco|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1746|Rural|
+69711|Cuahuatiumi|Barrio|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||02|469|1747|Rural|
+69712|Tacuya|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1748|Rural|
+69712|Yuchio|Congregación|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||11|469|1749|Rural|
+69713|Tinuma de Zaragoza|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1750|Rural|
+69714|Concepción Carrizal|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1751|Rural|
+69715|Tierra Blanca|Congregación|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||11|469|1752|Rural|
+69716|Cuyuchi|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1753|Rural|
+69717|Cruz Chiquita|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1754|Rural|
+69718|Río Metates|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1755|Rural|
+69719|San Pedro Grande|Colonia|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||09|469|1758|Rural|
+69719|Santo Domingo del Progreso|Colonia|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||09|469|1759|Rural|
+69720|Agua Fría|Congregación|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||11|469|1760|Rural|
+69724|Santa María Yucunicoco|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1766|Rural|
+69724|Buena Vista Yucunicoco|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|0002|Rural|
+69725|Río Lagarto|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1767|Rural|
+69726|Yosoyuxi Copala|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|0001|Rural|
+69729|Río Tejon|Ranchería|Santiago Juxtlahuaca|Oaxaca||69701|20|69701||29|469|1768|Rural|

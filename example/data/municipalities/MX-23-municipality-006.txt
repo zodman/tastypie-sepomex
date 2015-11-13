@@ -1,0 +1,62 @@
+77800|Sacalaca|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0320|Rural|
+77800|San Diego|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0321|Rural|
+77800|X-Cabil|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0322|Rural|
+77800|Guadalupana|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0583|Semiurbano|
+77800|Huay Max|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0318|Rural|
+77800|Sabán|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0319|Rural|
+77800|Dziuche|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0317|Rural|
+77800|Pocito|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0580|Semiurbano|
+77800|México|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0581|Semiurbano|
+77805|Bulukax|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0324|Rural|
+77805|X-Querol|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0851|Rural|
+77806|San Antonio Tuk|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0325|Rural|
+77807|La Esperanza|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0326|Rural|
+77807|Javier Rojo Gómez|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0904|Rural|
+77808|Tabasco|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0327|Rural|
+77809|San Felipe Oriente|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0328|Rural|
+77850|Sabana San Francisco|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0329|Rural|
+77858|Saczuquil|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0330|Rural|
+77859|San Felipe Segundo|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0331|Rural|
+77870|La Presumida|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0333|Rural|
+77870|Kilómetro 50|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0332|Rural|
+77870|Santa Gertrudis|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0334|Rural|
+77873|Pimienta|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0335|Rural|
+77874|El Martirio|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0336|Rural|
+77874|Kancabchén|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0003|Rural|
+77874|El Naranjal|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0337|Rural|
+77875|San Felipe Primero|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0893|Rural|
+77875|Nuevo San Marcos|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0338|Rural|
+77876|Benito Juárez|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0339|Rural|
+77876|Cafetalito|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0340|Rural|
+77878|San Isidro Poniente|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0004|Rural|
+77880|Kantemó|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0341|Rural|
+77882|Venustiano Carranza|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0342|Rural|
+77883|San Juan Oriente|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0001|Rural|
+77889|Puerto Arturo|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0343|Rural|
+77890|Santa Lucia|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0587|Semiurbano|
+77890|Primavera|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0663|Semiurbano|
+77890|Javier Rojo Gómez|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0584|Semiurbano|
+77890|José María Morelos|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0586|Semiurbano|
+77890|Vicente Guerrero|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0591|Semiurbano|
+77890|José María Morelos|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0344|Urbano|
+77890|San Juan|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0588|Semiurbano|
+77890|Mayab|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0589|Semiurbano|
+77890|Dolores|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0592|Semiurbano|
+77890|Miraflores|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0585|Semiurbano|
+77890|Guadalupe|Colonia|José María Morelos|Quintana Roo||77891|23|77891||09|006|0590|Semiurbano|
+77893|Plan de la Noria Poniente|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0346|Rural|
+77893|Nuevo Cunduacán|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0814|Rural|
+77893|Adolfo de la Huerta|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0771|Rural|
+77894|Piedras Negras|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0347|Rural|
+77895|Lázaro Cárdenas|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0350|Rural|
+77895|El Triunfo|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0349|Rural|
+77895|Adolfo López Mateos|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0348|Rural|
+77895|Mariano Matamoros|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0793|Rural|
+77895|Pozo Pirata|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0351|Rural|
+77895|Insurgentes|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0900|Rural|
+77896|Zafarrancho|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0353|Rural|
+77896|Gavilanes|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0352|Rural|
+77898|Candelaria|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0354|Rural|
+77898|San Carlos|Ranchería|José María Morelos|Quintana Roo||77891|23|77891||29|006|0002|Rural|
+77898|Othón P. Blanco|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0355|Rural|
+77899|Nueva Reforma|Pueblo|José María Morelos|Quintana Roo||77891|23|77891||28|006|0356|Rural|

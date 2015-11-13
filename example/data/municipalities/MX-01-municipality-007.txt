@@ -1,0 +1,81 @@
+20400|Rincón de Romos Centro|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0532|Semiurbano|06
+20403|Villa Seguridad|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1359|Urbano|06
+20403|Santa Elena|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0940|Semiurbano|06
+20403|Desarrollo Especial La Pedrera|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|1194|Semiurbano|06
+20403|Subdivisión La Piedrera|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|1195|Semiurbano|06
+20403|Norte|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|0939|Semiurbano|06
+20404|Embajadores|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1212|Urbano|06
+20404|Estancia de Chora|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1144|Urbano|06
+20404|José Luis Macias|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|0941|Semiurbano|06
+20404|Emperadores|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1145|Urbano|06
+20405|La Paz|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1200|Semiurbano|06
+20405|De Guadalupe|Barrio|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||02|007|0942|Semiurbano|06
+20405|El Chaveño|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0005|Urbano|06
+20406|Cerro del Gato|Ranchería|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||29|007|1206|Semiurbano|06
+20406|De Chora|Barrio|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||02|007|0943|Semiurbano|06
+20406|Rinconada Alameda|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0006|Urbano|06
+20406|Fraternidad|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1196|Semiurbano|06
+20406|Lázaro Cárdenas|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1147|Urbano|06
+20406|Rinconada de las Piedras|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|0001|Urbano|06
+20406|Santa Cruz|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0944|Semiurbano|06
+20410|Santa Anita|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0948|Semiurbano|06
+20410|El Potrero|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1146|Urbano|06
+20410|Magisterial|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0946|Semiurbano|06
+20410|La Mezquitera|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1404|Urbano|06
+20410|Independencia|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0945|Semiurbano|06
+20410|Magisterial II|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|0947|Semiurbano|06
+20414|Villas de Jesús|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1199|Semiurbano|06
+20414|Desarrollo Especial|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|1198|Semiurbano|06
+20415|San José|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0949|Semiurbano|06
+20416|Presidentes de México|Colonia|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||09|007|0950|Semiurbano|06
+20416|Solidaridad|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|0951|Semiurbano|06
+20417|Popular|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|1197|Semiurbano|06
+20417|Miguel Hidalgo|Fraccionamiento|Rincón de Romos|Aguascalientes|Rincón de Romos|20401|01|20401||21|007|0952|Semiurbano|06
+20420|El Saucillo|Ejido|Rincón de Romos|Aguascalientes||20401|01|20401||15|007|0536|Rural|
+20420|El Panal|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0540|Rural|
+20420|Potrero El Tarasco|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|1205|Rural|
+20420|La Presa|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0537|Rural|
+20420|Mar Negro|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0545|Rural|
+20420|Escaleras|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0531|Rural|
+20420|Rincón de Romos|Estación|Rincón de Romos|Aguascalientes||20401|01|20401||16|007|0549|Rural|
+20420|El Bajío|Ejido|Rincón de Romos|Aguascalientes||20401|01|20401||15|007|0539|Rural|
+20423|Candelaria|Granja|Rincón de Romos|Aguascalientes||20401|01|20401||23|007|1208|Rural|
+20423|Santa Fe|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0533|Rural|
+20423|El Muerto|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0534|Rural|
+20424|Tanque Blanco|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|1204|Rural|
+20424|California|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0548|Rural|
+20424|Puerta del Muerto (El 15)|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0547|Rural|
+20424|Yerbanis|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0550|Rural|
+20425|San Jacinto|Ejido|Rincón de Romos|Aguascalientes||20401|01|20401||15|007|0543|Rural|
+20426|San Juan de la Natura|Ejido|Rincón de Romos|Aguascalientes||20401|01|20401||15|007|0544|Rural|
+20427|El Valle de las Delicias|Colonia|Rincón de Romos|Aguascalientes||20401|01|20401||09|007|0538|Rural|
+20427|Los Morales|Colonia|Rincón de Romos|Aguascalientes||20401|01|20401||09|007|1201|Rural|
+20427|San Isidro el Labrador|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|1202|Rural|
+20427|16 de Septiembre|Colonia|Rincón de Romos|Aguascalientes||20401|01|20401||09|007|0546|Rural|
+20430|La Misión|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0553|Rural|
+20434|18 de Marzo|Colonia|Rincón de Romos|Aguascalientes||20671|01|20671||09|007|0555|Rural|
+20434|Lupita|Granja|Rincón de Romos|Aguascalientes||20671|01|20671||23|007|1211|Rural|
+20435|Las Norias|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|1210|Rural|
+20435|El Salitrillo|Colonia|Rincón de Romos|Aguascalientes||20401|01|20401||09|007|0530|Rural|
+20435|El Barzón|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|1209|Rural|
+20436|El Milagro|Colonia|Rincón de Romos|Aguascalientes||20671|01|20671||09|007|0551|Rural|
+20437|Constitución|Colonia|Rincón de Romos|Aguascalientes||20671|01|20671||09|007|0002|Urbano|
+20437|Héctor Hugo Olivares|Colonia|Rincón de Romos|Aguascalientes||20671|01|20671||09|007|0003|Urbano|
+20437|Pabellón de Hidalgo|Colonia|Rincón de Romos|Aguascalientes||20671|01|20671||09|007|0552|Rural|
+20437|Estancia de Mosqueira|Ejido|Rincón de Romos|Aguascalientes||20671|01|20671||15|007|0556|Rural|
+20437|Lindavista|Colonia|Rincón de Romos|Aguascalientes||20671|01|20671||09|007|0004|Urbano|
+20437|El Canal|Ranchería|Rincón de Romos|Aguascalientes||20671|01|20671||29|007|0557|Rural|
+20440|Morelos|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0568|Rural|
+20444|El Potrerillo|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0569|Rural|
+20444|Túnel de Potrerillo|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|1207|Rural|
+20445|Las Camas|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0567|Rural|
+20445|Peña Blanca|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0566|Rural|
+20446|La Boquilla Grande|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0564|Rural|
+20446|Los Negritos|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0562|Rural|
+20447|Mirasoles|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0561|Rural|
+20447|Rancho La Laguna de Piedra|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0560|Rural|
+20450|La Boquilla|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0565|Rural|
+20450|Fresnillo|Ejido|Rincón de Romos|Aguascalientes||20401|01|20401||15|007|0541|Rural|
+20454|El Ajiladero|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0535|Rural|
+20456|Las Rosas|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0563|Rural|
+20457|Mesa el Conejo|Ranchería|Rincón de Romos|Aguascalientes||20401|01|20401||29|007|0559|Rural|

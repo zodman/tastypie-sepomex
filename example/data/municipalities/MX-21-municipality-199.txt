@@ -1,0 +1,39 @@
+73970|San Andrés|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|1384|Rural|
+73970|San Francisco|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|1385|Rural|
+73970|Alto Lucero|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|1383|Rural|
+73970|San Isidro|Barrio|Xiutetelco|Puebla||73801|21|73801||02|199|1386|Rural|
+73970|San Juan Xiutetelco|Pueblo|Xiutetelco|Puebla||73801|21|73801||28|199|1387|Rural|
+73972|Xaltipan|Barrio|Xiutetelco|Puebla||73801|21|73801||02|199|1389|Rural|
+73973|Sección Primera Xiutetelco|Colonia|Xiutetelco|Puebla||73801|21|73801||09|199|7182|Rural|
+73974|San José|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|1390|Rural|
+73974|Sección Segunda Xiutetelco|Colonia|Xiutetelco|Puebla||73801|21|73801||09|199|7183|Rural|
+73975|Chalma|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7162|Rural|
+73975|La Cantera|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7167|Rural|
+73975|La Posta|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7171|Rural|
+73975|Chiquito|Barrio|Xiutetelco|Puebla||73801|21|73801||02|199|7160|Rural|
+73975|La Ciénega|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7168|Rural|
+73975|La Palma|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7170|Rural|
+73975|La Reforma|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7172|Rural|
+73975|La Ventana|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7173|Rural|
+73975|Tomaquilapa|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7185|Rural|
+73975|La Hacienda|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7169|Rural|
+73975|Vista Hermosa|Colonia|Xiutetelco|Puebla||73801|21|73801||09|199|7186|Rural|
+73975|El Aguaje Atoluca|Ejido|Xiutetelco|Puebla||73801|21|73801||15|199|7163|Rural|
+73976|Atecax|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|1391|Rural|
+73976|Cañada de Cozcuyucan|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7161|Rural|
+73976|La Chapas|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7174|Rural|
+73976|Nuevo|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7177|Rural|
+73976|Tical (San José)|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7184|Rural|
+73976|San José|Ejido|Xiutetelco|Puebla||73801|21|73801||15|199|7188|Rural|
+73976|Maxtaloya|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7176|Rural|
+73977|El Milagro|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7164|Rural|
+73977|Santiago|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7181|Rural|
+73977|San Salvador|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|1392|Rural|
+73978|El Progreso|Barrio|Xiutetelco|Puebla||73801|21|73801||02|199|7165|Rural|
+73978|Loma Bonita|Ranchería|Xiutetelco|Puebla||73801|21|73801||29|199|7189|Rural|
+73978|El Zapote|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7166|Rural|
+73978|San Antonio|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7179|Rural|
+73978|Xaltipan (Sección Décima)|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7187|Rural|
+73978|Linda Vista|Colonia|Xiutetelco|Puebla||73801|21|73801||09|199|7175|Rural|
+73978|San Andrés Coyotitlán|Congregación|Xiutetelco|Puebla||73801|21|73801||11|199|7178|Rural|
+73978|San Martín|Colonia|Xiutetelco|Puebla||73801|21|73801||09|199|7180|Rural|

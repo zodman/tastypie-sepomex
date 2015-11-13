@@ -1,0 +1,151 @@
+29935|Frontera Corozal|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0029|Urbano|
+29936|Nuevo Francisco León|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0009|Rural|
+29936|Ubilio García|Colonia|Ocosingo|Chiapas||29951|07|29951||09|059|0028|Rural|
+29936|Nuevo Mariscal|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0031|Rural|
+29936|La Selva (San Andrés)|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0003|Rural|
+29937|Dolores|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0030|Rural|
+29938|El Prado Pacayal|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0021|Rural|
+29939|Campo Alegre|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0011|Rural|
+29939|San Antonio las Delicias (Pamala)|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0010|Rural|
+29950|Mirador|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2057|Semiurbano|11
+29950|Loma Bonita|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2068|Semiurbano|11
+29950|El Milenio|Fraccionamiento|Ocosingo|Chiapas|Ocosingo|29951|07|29951||21|059|3720|Semiurbano|11
+29950|La Virgen|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3724|Semiurbano|11
+29950|Las Vegas|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3729|Semiurbano|11
+29950|La Ceiba|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3740|Semiurbano|11
+29950|El Bosque|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2055|Semiurbano|11
+29950|Ocosingo|Ejido|Ocosingo|Chiapas|Ocosingo|29951|07|29951||15|059|2056|Semiurbano|11
+29950|Santa Cecilia|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2059|Semiurbano|11
+29950|El Herradero|Colonia|Ocosingo|Chiapas|Ocosingo|29951|07|29951||09|059|2063|Semiurbano|11
+29950|Primero de Mayo|Fraccionamiento|Ocosingo|Chiapas|Ocosingo|29951|07|29951||21|059|0013|Urbano|11
+29950|Patria Nueva|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2058|Urbano|11
+29950|El Sauzal|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2062|Urbano|11
+29950|Ampliación Aeropuerto|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2069|Semiurbano|11
+29950|Magisterial|Colonia|Ocosingo|Chiapas|Ocosingo|29951|07|29951||09|059|2086|Semiurbano|11
+29950|Tulipanes Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2087|Urbano|11
+29950|Sibaca Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2090|Semiurbano|11
+29950|La Lomita Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2092|Semiurbano|11
+29950|Nuevo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2097|Semiurbano|11
+29950|El Carmen|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2855|Rural|11
+29950|El Deportivo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3721|Semiurbano|11
+29950|Chapultepec|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3733|Semiurbano|11
+29950|San Isidro|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3734|Semiurbano|11
+29950|Lomas Verdes|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3735|Semiurbano|11
+29950|Villa Satélite|Fraccionamiento|Ocosingo|Chiapas|Ocosingo|29951|07|29951||21|059|3751|Semiurbano|11
+29950|Santo Domingo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|0949|Semiurbano|11
+29950|Manantial|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2054|Semiurbano|11
+29950|San Antonio|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2060|Semiurbano|11
+29950|Octavio Albores|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2065|Semiurbano|11
+29950|Norte|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2071|Semiurbano|11
+29950|San Jacinto Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2088|Semiurbano|11
+29950|20 de Noviembre|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2104|Semiurbano|11
+29950|Las Palmas|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2866|Urbano|11
+29950|La Reforma|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3718|Semiurbano|11
+29950|Revolución|Colonia|Ocosingo|Chiapas|Ocosingo|29951|07|29951||09|059|3726|Semiurbano|11
+29950|La Primavera|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3731|Semiurbano|11
+29950|Slokim Chay|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3742|Urbano|11
+29950|5 de Mayo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3747|Semiurbano|11
+29950|San Jacinto Lindavista|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2061|Semiurbano|11
+29950|Bonampak|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2064|Semiurbano|11
+29950|Jerusalén|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2074|Semiurbano|11
+29950|Candelaria|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2081|Semiurbano|11
+29950|Flamboyán|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2096|Semiurbano|11
+29950|Real Lacantun|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3723|Urbano|11
+29950|Aeropuerto|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2073|Semiurbano|11
+29950|El Chorro|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2080|Urbano|11
+29950|Guadalupe|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2084|Semiurbano|11
+29950|Nuevo México|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2095|Semiurbano|11
+29950|San Caralampio|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2102|Urbano|11
+29950|Emiliano Zapata|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3728|Semiurbano|11
+29950|Maravillas|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3736|Urbano|11
+29950|Los Choferes|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3737|Semiurbano|11
+29950|Las Golondrinas|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3741|Semiurbano|11
+29950|Predio Tonina|Unidad habitacional|Ocosingo|Chiapas|Ocosingo|29951|07|29951||31|059|3745|Semiurbano|11
+29950|El Recuerdo|Ranchería|Ocosingo|Chiapas|Ocosingo|29951|07|29951||29|059|5718|Urbano|11
+29950|Ocosingo Centro|Colonia|Ocosingo|Chiapas|Ocosingo|29951|07|29951||09|059|0928|Urbano|11
+29950|Bellavista|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2066|Semiurbano|11
+29950|Jordán|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2075|Semiurbano|11
+29950|Luis Donaldo Colisio|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2078|Urbano|11
+29950|Siglo XXI|Fraccionamiento|Ocosingo|Chiapas|Ocosingo|29951|07|29951||21|059|2079|Urbano|11
+29950|Rancho Alegre Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2091|Urbano|11
+29950|Tuy Tic Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2093|Urbano|11
+29950|Lomas del Pedregal|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2099|Semiurbano|11
+29950|Bugambilia|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3719|Urbano|11
+29950|Guadalupe Pashila|Fraccionamiento|Ocosingo|Chiapas|Ocosingo|29951|07|29951||21|059|3739|Semiurbano|11
+29950|Nuevo Paraíso|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3743|Urbano|11
+29950|El Primor|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3748|Semiurbano|11
+29950|Lindavista|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2067|Semiurbano|11
+29950|Nuevo Guadalupe|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2070|Semiurbano|11
+29950|Santa Lucia|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2072|Semiurbano|11
+29950|Tonina|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2082|Semiurbano|11
+29950|San Juanito|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2083|Semiurbano|11
+29950|San José de las Flores|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2085|Semiurbano|11
+29950|San Marcos Puerto Arturo|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2089|Semiurbano|11
+29950|Lacantun|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2094|Semiurbano|11
+29950|Pequeñeces|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2098|Semiurbano|11
+29950|El Ciprés|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2864|Urbano|11
+29950|Girasoles|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2865|Urbano|11
+29950|Las Minas|Colonia|Ocosingo|Chiapas|Ocosingo|29951|07|29951||09|059|3727|Semiurbano|11
+29950|Pinos III|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3732|Urbano|11
+29950|Morelos|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3738|Urbano|11
+29950|El Rosario|Colonia|Ocosingo|Chiapas|Ocosingo|29951|07|29951||09|059|3744|Urbano|11
+29950|Santo Tómas|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3746|Semiurbano|11
+29950|Gracias a Dios|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3753|Semiurbano|11
+29950|San Sebastián|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2076|Semiurbano|11
+29950|Vistahermosa|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2100|Urbano|11
+29950|Pinos I|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2101|Urbano|11
+29950|Betania|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|2103|Semiurbano|11
+29950|Monte Albán|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3722|Urbano|11
+29950|Las Lomitas|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3725|Semiurbano|11
+29950|Pinos II|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3750|Semiurbano|11
+29950|Yaxchilán|Barrio|Ocosingo|Chiapas|Ocosingo|29951|07|29951||02|059|3752|Semiurbano|11
+29952|Ampliación Jol Tulija|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0008|Rural|
+29952|Perla de Acapulco|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0016|Rural|
+29952|El Diamante|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0004|Rural|
+29952|Miguel Hidalgo|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0006|Rural|
+29952|Nuevo Monte Líbano|Colonia|Ocosingo|Chiapas||29951|07|29951||09|059|0017|Rural|
+29952|Santo Ton|Colonia|Ocosingo|Chiapas||29951|07|29951||09|059|0019|Rural|
+29952|San Salvador|Colonia|Ocosingo|Chiapas||29951|07|29951||09|059|0024|Rural|
+29952|Santa Elena|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0948|Rural|
+29952|Villa las Rosas|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|2984|Rural|
+29952|El Jacinto|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|2985|Rural|
+29952|Guadalupe|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|2986|Rural|
+29952|El Tumbo|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0943|Rural|
+29952|Nueva Italia|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0014|Rural|
+29952|Peña Chabarico|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0032|Rural|
+29952|San José Chactajal|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0946|Rural|
+29952|Orizaba|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0953|Rural|
+29952|Naha|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0007|Rural|
+29952|Venustiano Carranza|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0022|Rural|
+29952|Lacandón|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0944|Rural|
+29952|Sibal|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0950|Rural|
+29952|El Censo|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|2931|Rural|
+29952|San Miguel El Grande|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|3072|Rural|
+29952|Cuauhtémoc|Colonia|Ocosingo|Chiapas||29951|07|29951||09|059|0002|Rural|
+29952|La Reforma|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0018|Rural|
+29952|San Antonio|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0005|Rural|
+29952|El Suspiro|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0012|Rural|
+29952|Taniperla|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0020|Rural|
+29952|San José|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0026|Rural|
+29952|Cristóbal Colon|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0941|Rural|
+29952|Damasco|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0942|Rural|
+29952|Chavarico las Palmas|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0025|Rural|
+29952|La Culebra|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|2987|Rural|
+29952|Cinco de Febrero|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0027|Rural|
+29952|Betania|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0940|Rural|
+29952|Monte Líbano|Congregación|Ocosingo|Chiapas||29951|07|29951||11|059|0945|Rural|
+29952|Lacanja|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0952|Rural|
+29952|Limonar|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|3080|Rural|
+29953|Tenango|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0929|Rural|
+29953|Abasolo|Condominio|Ocosingo|Chiapas||29951|07|29951||10|059|0934|Rural|
+29953|Cuxulja|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0935|Rural|
+29953|Sibaca|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0937|Rural|
+29953|La Virginia|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0936|Rural|
+29954|La Soledad|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0015|Rural|
+29954|Nazareth|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0931|Rural|
+29954|Suschila|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0933|Rural|
+29954|San Quintín|Hacienda|Ocosingo|Chiapas||29951|07|29951||24|059|0947|Rural|
+29954|Emiliano Zapata|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0023|Rural|
+29954|Ramón F. Balboa|Pueblo|Ocosingo|Chiapas||29951|07|29951||28|059|0001|Rural|
+29954|Palestina|Ejido|Ocosingo|Chiapas||29951|07|29951||15|059|0932|Rural|
+29954|Zapotal|Ranchería|Ocosingo|Chiapas||29951|07|29951||29|059|0951|Rural|

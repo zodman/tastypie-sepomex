@@ -1,0 +1,32 @@
+83750|Altar Centro|Colonia|Altar|Sonora||83601|26|83601||09|004|2316|Rural|
+83753|Benito Juárez|Colonia|Altar|Sonora||83601|26|83601||09|004|8610|Rural|
+83753|Buenos Aires|Colonia|Altar|Sonora||83601|26|83601||09|004|1813|Rural|
+83753|Viva|Fraccionamiento|Altar|Sonora||83601|26|83601||21|004|8615|Rural|
+83754|De Arriba|Colonia|Altar|Sonora||83601|26|83601||09|004|8612|Rural|
+83754|Las Lomas|Colonia|Altar|Sonora||83601|26|83601||09|004|1816|Rural|
+83755|La Otra Banda|Colonia|Altar|Sonora||83601|26|83601||09|004|2314|Rural|
+83756|De Abajo|Colonia|Altar|Sonora||83601|26|83601||09|004|8611|Rural|
+83756|Valle Del Sol|Colonia|Altar|Sonora||83601|26|83601||09|004|1815|Rural|
+83757|Magisterial|Colonia|Altar|Sonora||83601|26|83601||09|004|8613|Rural|
+83757|Niños Heroes|Colonia|Altar|Sonora||83601|26|83601||09|004|8614|Rural|
+83760|El Plomo|Congregación|Altar|Sonora||83601|26|83601||11|004|0395|Rural|
+83767|Bonillas|Ejido|Altar|Sonora||83601|26|83601||15|004|8619|Rural|
+83770|Los Molinos|Congregación|Altar|Sonora||83601|26|83601||11|004|0396|Rural|
+83770|Arsenio Portillo (Los Molinos)|Ejido|Altar|Sonora||83601|26|83601||15|004|8617|Rural|
+83780|Luis Sotelo Méndez|Ranchería|Altar|Sonora||83601|26|83601||29|004|8630|Rural|
+83780|El Futuro (El Establo)|Ejido|Altar|Sonora||83601|26|83601||15|004|8624|Rural|
+83784|Barcelia|Ejido|Altar|Sonora||83601|26|83601||15|004|8618|Rural|
+83785|Lorenzo León Félix (San Lorenzo)|Ejido|Altar|Sonora||83601|26|83601||15|004|8629|Rural|
+83786|Campo Anita|Ejido|Altar|Sonora||83601|26|83601||15|004|8620|Rural|
+83786|Santa María|Ranchería|Altar|Sonora||83601|26|83601||29|004|8633|Rural|
+83786|El Chivero (Los Chiveros)|Ejido|Altar|Sonora||83601|26|83601||15|004|8623|Rural|
+83790|16 de Septiembre|Ejido|Altar|Sonora||83601|26|83601||15|004|8616|Rural|
+83793|Ejido General Francisco Javier Méjica (Manjarrez)|Ejido|Altar|Sonora||83601|26|83601||15|004|8621|Rural|
+83794|Llano Blanco (Rancho Seco)|Ejido|Altar|Sonora||83601|26|83601||15|004|8628|Rural|
+83794|Llano Blanco [Subestación Eléctrica]|Ranchería|Altar|Sonora||83601|26|83601||29|004|0394|Rural|
+83794|Rancho Seco|Ejido|Altar|Sonora||83601|26|83601||15|004|8632|Rural|
+83795|María Eugenia (Los Chacuales)|Ranchería|Altar|Sonora||83601|26|83601||29|004|8631|Rural|
+83795|José Juan Cuellar (Cuauhtémoc)|Ejido|Altar|Sonora||83601|26|83601||15|004|8626|Rural|
+83796|El Alamito|Ejido|Altar|Sonora||83601|26|83601||15|004|8622|Rural|
+83797|El Labrador|Ranchería|Altar|Sonora||83601|26|83601||29|004|8625|Rural|
+83797|La Angostura|Ejido|Altar|Sonora||83601|26|83601||15|004|8627|Rural|

@@ -1,0 +1,46 @@
+58460|Francisco Villa|Colonia|Acuitzio|Michoacán de Ocampo||58461|16|58461||09|001|5570|Urbano|
+58460|Las Peñas|Colonia|Acuitzio|Michoacán de Ocampo||58461|16|58461||09|001|5571|Urbano|
+58460|Acuitzio del Canje|Colonia|Acuitzio|Michoacán de Ocampo||58461|16|58461||09|001|0539|Urbano|
+58460|Magisterio|Colonia|Acuitzio|Michoacán de Ocampo||58461|16|58461||09|001|5572|Urbano|
+58460|Ricardo Flores Magón|Colonia|Acuitzio|Michoacán de Ocampo||58461|16|58461||09|001|5573|Urbano|
+58460|Vista Bella|Fraccionamiento|Acuitzio|Michoacán de Ocampo||58461|16|58461||21|001|5574|Urbano|
+58460|Vicente Riva Palacio|Colonia|Acuitzio|Michoacán de Ocampo||58461|16|58461||09|001|0548|Urbano|
+58463|Las Juntas|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5595|Rural|
+58463|Corralo (Tirindiriz)|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5579|Rural|
+58463|La Huizata|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5589|Rural|
+58463|Tepatzicuaro|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5601|Rural|
+58463|Huajumbo|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0540|Rural|
+58463|El Auxilio (Los Tanques)|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5581|Rural|
+58463|El Paredón|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5585|Rural|
+58463|Loma del Pastor|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5596|Rural|
+58463|Rosa de Castilla|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5602|Rural|
+58464|Las Trojes (Las Trojas)|Rancho|Acuitzio|Michoacán de Ocampo||58461|16|58461||48|001|0001|Rural|
+58464|Agua Grande|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5575|Rural|
+58464|El Ciprés|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5582|Rural|
+58464|El Varal|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0542|Rural|
+58464|La Vinata|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5593|Rural|
+58464|Agua Puerca|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5576|Rural|
+58464|La Peñita|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5591|Rural|
+58464|Páramo|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5599|Rural|
+58464|El Tzintzún|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5587|Rural|
+58465|La Paloma (Ziparapio el Alto)|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5590|Rural|
+58465|Cútzaro (Cúzaro)|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0543|Rural|
+58465|Cruz Gorda|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5580|Rural|
+58465|Arroyo Hondo|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5578|Rural|
+58465|Ziparapio el Alto (Ziparapio)|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0544|Rural|
+58466|Los Aguacates|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5597|Rural|
+58466|La Campana|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5588|Rural|
+58466|Tamanguío|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5603|Rural|
+58466|San Andrés Coapa|Pueblo|Acuitzio|Michoacán de Ocampo||58461|16|58461||28|001|0546|Rural|
+58467|El Moral|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5584|Rural|
+58467|La Laja|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0547|Rural|
+58467|El Melón|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5583|Rural|
+58467|Tirípano|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5604|Rural|
+58467|Las Canoas|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5594|Rural|
+58467|Paso del Muerto|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5598|Rural|
+58467|El Terrero|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5586|Rural|
+58468|Aróstaro|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5577|Rural|
+58468|La Florida|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5600|Rural|
+58468|La Palma|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0550|Rural|
+58468|La Angostura|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|0549|Rural|
+58468|La Tinaja|Ranchería|Acuitzio|Michoacán de Ocampo||58461|16|58461||29|001|5592|Rural|

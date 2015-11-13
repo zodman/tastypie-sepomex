@@ -1,0 +1,45 @@
+43090|Xochiatipan Centro|Colonia|Xochiatipan|Hidalgo||43007|13|43007||09|078|1279|Urbano|
+43090|Tenexaco|Barrio|Xochiatipan|Hidalgo||43007|13|43007||02|078|6190|Urbano|
+43090|Tlamaya|Barrio|Xochiatipan|Hidalgo||43007|13|43007||02|078|6192|Urbano|
+43090|Arriba|Barrio|Xochiatipan|Hidalgo||43007|13|43007||02|078|6191|Urbano|
+43090|Tlazcantitla|Barrio|Xochiatipan|Hidalgo||43007|13|43007||02|078|6189|Urbano|
+43092|Nanayatla|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1280|Rural|
+43092|El Zapote|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6186|Rural|
+43092|Acanoa|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6182|Rural|
+43092|Hueyajtetl|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6183|Rural|
+43092|Zacatlán|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6187|Rural|
+43092|Atlalco|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1281|Rural|
+43092|Xilico|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6188|Rural|
+43093|Ixtakuatitla|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6185|Rural|
+43093|Xocotitla|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1282|Rural|
+43093|Acomul|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6181|Rural|
+43093|Tectzonquiliapa|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6184|Rural|
+43094|Pohuantitla|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1274|Rural|
+43094|Pocantla|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1285|Rural|
+43094|Pesmayo|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1284|Rural|
+43094|Pachiquitla|Pueblo|Xochiatipan|Hidalgo||43007|13|43007||28|078|1273|Rural|
+43095|Ocuilapa|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6177|Rural|
+43095|Santiago I|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1275|Rural|
+43095|Santiago II|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1276|Rural|
+43096|Cruzhica|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1283|Rural|
+43096|Amolo|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6169|Rural|
+43096|Tlaltecatla|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1278|Rural|
+43096|Tonalixco|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6173|Rural|
+43096|San Miguel|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6174|Rural|
+43096|Xochititla|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6176|Rural|
+43097|El Crucero|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6172|Rural|
+43097|Nuevo Acatepec (Mezcalapa)|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6179|Rural|
+43097|Ixtaczoquico|Pueblo|Xochiatipan|Hidalgo||43007|13|43007||28|078|1272|Rural|
+43097|Acatipa|Pueblo|Xochiatipan|Hidalgo||43007|13|43007||28|078|2812|Rural|
+43097|Texoloc|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1277|Rural|
+43097|Xóchitl|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6178|Rural|
+43098|Ohuatipa|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1286|Rural|
+43098|San Miguel|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6175|Rural|
+43098|Ahuatitla (Aguayo)|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6170|Rural|
+43099|La Providencia|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6171|Rural|
+43099|Nuevo Coyolar|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6180|Rural|
+43099|Tenexhueyac|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1289|Rural|
+43099|Chiapa|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1287|Rural|
+43099|Tecopia|Ranchería|Xochiatipan|Hidalgo||43007|13|43007||29|078|1288|Rural|
+43099|Atlajco|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6168|Rural|
+43099|Cocotla|Poblado comunal|Xochiatipan|Hidalgo||43007|13|43007||27|078|6167|Rural|

@@ -1,0 +1,19 @@
+71190|La Laguna|Colonia|Santa Cruz Itundujia|Oaxaca|Santa Cruz Itundujia|71102|20|71102||09|377|3598|Rural|29
+71190|Santa Cruz Itundujia Centro|Colonia|Santa Cruz Itundujia|Oaxaca|Santa Cruz Itundujia|71102|20|71102||09|377|2738|Rural|29
+71190|El Anonal|Colonia|Santa Cruz Itundujia|Oaxaca|Santa Cruz Itundujia|71102|20|71102||09|377|3384|Rural|29
+71190|Terán|Colonia|Santa Cruz Itundujia|Oaxaca|Santa Cruz Itundujia|71102|20|71102||09|377|3574|Rural|29
+71190|El Pedregal|Colonia|Santa Cruz Itundujia|Oaxaca|Santa Cruz Itundujia|71102|20|71102||09|377|3599|Rural|29
+71193|San José Zaragoza|Ranchería|Santa Cruz Itundujia|Oaxaca||71008|20|71008||29|377|2743|Rural|
+71193|Zaragoza|Ranchería|Santa Cruz Itundujia|Oaxaca||71008|20|71008||29|377|4765|Rural|
+71194|La Victoria|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|4764|Rural|
+71194|Hidalgo de La Unión|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|2741|Rural|
+71194|Primavera Morelos|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|4768|Rural|
+71194|Morelos|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|2744|Rural|
+71194|Chamizal (Buena Vista)|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|4766|Rural|
+71195|Providencia|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|4763|Rural|
+71195|Buenavista de Juárez|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|2739|Rural|
+71195|Iturbide|Pueblo|Santa Cruz Itundujia|Oaxaca||71102|20|71102||28|377|2745|Rural|
+71195|Guerrero Intundujia|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|2740|Rural|
+71196|Independencia|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|2742|Rural|
+71196|Nuevo Allende|Ranchería|Santa Cruz Itundujia|Oaxaca||71102|20|71102||29|377|2746|Rural|
+71196|El Paraíso|Ejido|Santa Cruz Itundujia|Oaxaca||71102|20|71102||15|377|4767|Rural|

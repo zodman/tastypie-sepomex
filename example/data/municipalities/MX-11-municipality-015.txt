@@ -1,0 +1,416 @@
+36000|Guanajuato Centro|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0001|Urbano|05
+36003|Alameda|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4455|Urbano|05
+36008|Presidencia Municipal|Gran usuario|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||22|015|0004|Urbano|05
+36009|Oficina Federal de Hacienda|Gran usuario|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||22|015|0005|Urbano|05
+36010|Garrapata|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7158|Urbano|05
+36010|Mellado|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0007|Urbano|05
+36010|Cata|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0006|Urbano|05
+36013|San Luisito|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7189|Urbano|05
+36013|La Gualdra|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7165|Urbano|05
+36013|Cerro de San Antonio|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7137|Urbano|05
+36014|Ex-Hacienda de Durán|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7155|Urbano|05
+36014|Nuevo|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7178|Urbano|05
+36014|Ex-Hacienda de Luna|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7156|Urbano|05
+36015|Las Huertas|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0016|Urbano|05
+36015|Cerro del Cuarto|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|5168|Urbano|05
+36015|La Calzada|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7164|Urbano|05
+36015|Las Palmas|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4429|Urbano|05
+36015|Minera|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7174|Urbano|05
+36015|Misión Del Quijote|Conjunto habitacional|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||12|015|7175|Urbano|05
+36015|Modelo|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7176|Urbano|05
+36016|Cerro de Sirena|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7139|Urbano|05
+36016|Jales de Durán|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7162|Urbano|05
+36016|Cerro del Sagrado Corazón|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7143|Urbano|05
+36020|San Javier 1|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0008|Urbano|05
+36020|San Javier 2|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0009|Urbano|05
+36020|San Matías|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0010|Urbano|05
+36023|Filtros de Valenciana|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7157|Urbano|05
+36023|Valenciana|Congregación|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||11|015|0097|Rural|05
+36023|Lomas de Valenciana|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7169|Urbano|05
+36023|Cerro del Erizo|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7140|Urbano|05
+36024|De la Cochera|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7146|Urbano|05
+36024|Cerro de la Garita|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7135|Urbano|05
+36030|Maravillas|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7172|Urbano|05
+36030|Panteón|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4428|Urbano|05
+36030|La Venada|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4430|Urbano|05
+36030|El Carrizo|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0011|Urbano|05
+36033|Del pueblito de Rocha|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7148|Urbano|05
+36033|Arroyo del Pirúl|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7127|Urbano|05
+36040|Encino|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4431|Urbano|05
+36040|La Luz|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|5070|Urbano|05
+36040|Pueblito de Rocha|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0012|Urbano|05
+36040|Santa Fe|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4436|Urbano|05
+36040|La Aldana (Ramón Rangel)|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|5521|Urbano|05
+36043|Presa de Rocha|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|5410|Urbano|05
+36044|Del Bosque|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7147|Urbano|05
+36044|Los Pinos|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7171|Urbano|05
+36044|Arroyo Aldana|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7126|Urbano|05
+36050|Noria Alta|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0013|Urbano|05
+36053|San Gabriel de Barrera|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7186|Urbano|05
+36053|San Antonio|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7185|Urbano|05
+36059|Secretaria de Educación Publica|Gran usuario|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||22|015|0014|Urbano|05
+36060|La Escalera San Javier|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0015|Urbano|05
+36060|Gavilánes|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7159|Urbano|05
+36080|Molino del Rey|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7177|Urbano|05
+36080|Loma Bonita|Fraccionamiento|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||21|015|4433|Urbano|05
+36080|Camino Real|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7130|Urbano|05
+36080|Residencial Real de San Juan|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4461|Urbano|05
+36080|Las Terrazas|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7166|Urbano|05
+36080|Cerro del Hormiguero|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7142|Urbano|05
+36080|Loma Pozuelos|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4434|Urbano|05
+36086|Municipio Libre|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0017|Urbano|05
+36089|Picachos|Residencial|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||30|015|5466|Urbano|05
+36089|Pozuelos|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7182|Urbano|05
+36089|Nuevo Guanajuato|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0020|Urbano|05
+36089|Cerro de San Miguel|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7138|Urbano|05
+36089|Cerro del Gallo|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7141|Urbano|05
+36090|Cerro de la Bolita|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7132|Urbano|05
+36090|Cerro de los Leones|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4432|Urbano|05
+36090|Zapote|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4426|Urbano|05
+36090|Pastita|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|0021|Urbano|05
+36093|Peñolera|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4435|Urbano|05
+36093|Peñafiel|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7179|Urbano|05
+36093|Cerro de Guijas|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7131|Urbano|05
+36094|El Saucillo|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7153|Urbano|05
+36094|Embajadoras|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7154|Urbano|05
+36094|Universitario|Fraccionamiento|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||21|015|4437|Urbano|05
+36094|La Bufa|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|7163|Urbano|05
+36094|Lomas de Zaragoza|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|6157|Urbano|05
+36094|Paseo de La Presa|Colonia|Guanajuato|Guanajuato|Guanajuato|36001|11|36001||09|015|4763|Urbano|05
+36220|Cañada de las Flores|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6931|Rural|
+36220|Puerto de Santa Rosa|Poblado comunal|Guanajuato|Guanajuato||36001|11|36001||27|015|4760|Rural|
+36220|El Roble|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6982|Rural|
+36220|Los Martines|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0081|Rural|
+36220|Santa Rosa de Lima|Congregación|Guanajuato|Guanajuato||36001|11|36001||11|015|0083|Rural|
+36220|La Mesa de San José|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7017|Rural|
+36220|Plan de la Mina (Alejandro Serna)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7076|Rural|
+36220|Los Reyes (Cabaña los Reyes)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7053|Rural|
+36220|San Isidro de Núñez|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7099|Rural|
+36220|Quinteros|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0082|Rural|
+36223|Cebolletas|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6939|Rural|
+36223|Villalpando|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7125|Rural|
+36223|De Enmedio|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|5522|Rural|
+36223|Mineral del Cubo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7066|Rural|
+36223|Las Antenas|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7030|Rural|
+36223|Mineral de Peregrina|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7062|Rural|
+36224|El Plan de los Galgos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6975|Rural|
+36224|Rosa de Castilla|Hacienda|Guanajuato|Guanajuato||36001|11|36001||24|015|0113|Rural|
+36224|La Ciénega|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7007|Rural|
+36225|Campuzano (Las Golondrinas)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6937|Rural|
+36225|El Chorro (San Gregorio del Chorro)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6961|Rural|
+36225|Campuzano (El Fraile)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6935|Rural|
+36225|Campuzano|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0104|Rural|
+36225|Campuzano (La Junta)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6936|Rural|
+36225|El Llano|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6968|Rural|
+36225|El Pinillo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6974|Rural|
+36225|El Chorro (Las Lagunitas)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6960|Rural|
+36225|Media Luna de Campuzano|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7055|Rural|
+36227|El Castillo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6955|Rural|
+36227|Presa de Montelongo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7080|Rural|
+36227|El Coyote|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0134|Rural|
+36227|San Nicolás (San Nicolás del Chapín)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7110|Rural|
+36227|San Pedro|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7112|Rural|
+36227|El Tejabán|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0135|Rural|
+36227|San José del Chapín|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7106|Rural|
+36227|San Pablo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7111|Rural|
+36227|Galeras|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6993|Rural|
+36227|La Media Luna|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7016|Rural|
+36228|Piedra Blanca del Rodeo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7074|Rural|
+36228|San José del Montecillo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7108|Rural|
+36228|Tacubaya|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7118|Rural|
+36228|Tacubaya (El Chirris)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7119|Rural|
+36228|San José del Rodeo|Hacienda|Guanajuato|Guanajuato||36251|11|36251||24|015|0114|Rural|
+36230|Lagunillas de la Fraternidad|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7028|Rural|
+36230|Cerro del Macho (La Cabaña)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6941|Rural|
+36230|El Puerto de Barrientos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6979|Rural|
+36230|Llanos de la Fragua|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7039|Rural|
+36230|Socavón de Burgos (La Conda)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7117|Rural|
+36230|El Castillo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6956|Rural|
+36230|Mineral de la Fragua|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7060|Rural|
+36230|Las Palomas|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7036|Rural|
+36233|Mesa de los Hernández|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0089|Rural|
+36233|Cañada de la Virgen|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6930|Rural|
+36233|La Huerta|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7013|Rural|
+36233|El Tablón|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0088|Rural|
+36233|Potrero (La Ciénega del Potrero)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7077|Rural|
+36233|El Ciprés (Tierras Coloradas)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6962|Rural|
+36233|Picones|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7073|Rural|
+36233|Rancho Viejo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7091|Rural|
+36233|Ciénega Grande|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6946|Rural|
+36233|El Varal|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6986|Rural|
+36233|Santo Domingo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7115|Rural|
+36234|El Ranchito|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6980|Rural|
+36234|Mesa de San José (La Rinconada)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7057|Rural|
+36234|Ojo de Agua de Calvillo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0090|Rural|
+36234|Calvillo|Congregación|Guanajuato|Guanajuato||36001|11|36001||11|015|0080|Rural|
+36234|Agua Buena|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6924|Rural|
+36234|Los Grullos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7048|Rural|
+36235|Peñafiel|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7072|Rural|
+36235|Hacienda de Arriba|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7000|Rural|
+36235|Los Mexicanos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7050|Rural|
+36235|Mineral de Garrapata|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7059|Rural|
+36235|Monte de San Nicolás|Ejido|Guanajuato|Guanajuato||36001|11|36001||15|015|0085|Rural|
+36235|Caleras de Corrales|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6934|Rural|
+36236|El Cedro (Mineral del Cedro)|Ejido|Guanajuato|Guanajuato||36001|11|36001||15|015|0109|Rural|
+36236|Mineral del Nayal|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7067|Rural|
+36236|La Palma|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7019|Rural|
+36236|Mineral del Carmen|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7065|Rural|
+36236|San Miguel de Cardones|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7109|Rural|
+36236|Calderones (La Peñita)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6932|Rural|
+36237|Carbonera|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6938|Rural|
+36237|Cerro de Calderones [Repetidora]|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6940|Rural|
+36237|Colonia Olimpo (Casas Blancas)|Colonia|Guanajuato|Guanajuato||36001|11|36001||09|015|6947|Rural|
+36237|Chichíndaro|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6943|Rural|
+36237|Granja San Martín (Subida a la Cuesta)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6998|Rural|
+36237|Presa de Mata|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7079|Rural|
+36237|Solano|Colonia|Guanajuato|Guanajuato||36001|11|36001||09|015|5062|Rural|
+36237|Calderones|Congregación|Guanajuato|Guanajuato||36001|11|36001||11|015|0108|Rural|
+36237|El Trompetero (Cerro del Trompetero)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6984|Rural|
+36237|Cerro del Tepozán [Retransmisora de RTG]|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6942|Rural|
+36237|Señor Vázquez|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7116|Rural|
+36237|UCEA Campus Marfil|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7123|Rural|
+36240|Los Lorenzos|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|0095|Rural|
+36240|San José de Pinos|Congregación|Guanajuato|Guanajuato||36101|11|36101||11|015|0096|Rural|
+36240|La Loma|Poblado comunal|Guanajuato|Guanajuato||36101|11|36101||27|015|4762|Rural|
+36240|Las Adjuntas de Magdalenas|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|7029|Rural|
+36240|La Palma|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|0099|Rural|
+36240|La Estancia de Comanjilla|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|0092|Rural|
+36240|El Carrizo|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|6954|Rural|
+36240|Arperos|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|0091|Rural|
+36240|Cuestecita de San Juan|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|0098|Rural|
+36240|Los Gómez (La Estancia)|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|7046|Rural|
+36240|Las Magdalenas|Ranchería|Guanajuato|Guanajuato||36101|11|36101||29|015|0100|Rural|
+36243|La Asunción|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7006|Rural|
+36243|La Flor (Las Antenas)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7009|Rural|
+36243|Las Carreras (Las Carreras del Puertecito)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7033|Rural|
+36243|Rancho Viejo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7090|Rural|
+36243|Sangre de Cristo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7114|Rural|
+36243|El Nogal (Las Palancas)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6973|Rural|
+36243|Mineral de Mexiamora|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7061|Rural|
+36243|La Güilota|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7010|Rural|
+36243|Los Jilgueros (Chupadero)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7049|Rural|
+36243|Mina Bolañitos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7058|Rural|
+36243|Ojo de Agua|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7070|Rural|
+36243|Melladito|Ejido|Guanajuato|Guanajuato||36001|11|36001||15|015|0103|Rural|
+36243|El Puertecito (El Fuertecito)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6977|Rural|
+36243|El Tiro de la Estrella|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6983|Rural|
+36243|Mineral de Santo Niño|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7064|Rural|
+36243|San José de Gracia|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7101|Rural|
+36243|Mineral de la Luz|Congregación|Guanajuato|Guanajuato||36001|11|36001||11|015|0093|Rural|
+36243|El Mogote|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6971|Rural|
+36243|Los Gasca|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7047|Rural|
+36243|Mineral de San Pedro Gilmonene|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7063|Rural|
+36243|San Ignacio de Purísima|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7098|Rural|
+36243|Tajo de Adjuntas (Rancho de San Cayetano)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7120|Rural|
+36243|Buenavista (El Roble)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6929|Rural|
+36243|Los Polvorines de la Luz (Loma de los Gasca)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7052|Rural|
+36243|Melladito (Cerrito del Zacate)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7056|Rural|
+36243|Romerillal (El Torito)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7093|Rural|
+36243|San Antonio de Ovejera|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7096|Rural|
+36244|Cimientos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0094|Rural|
+36244|El Terrero|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0086|Rural|
+36244|Rosita de San Juan (El Salvador el Capulín)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7094|Rural|
+36244|Maíz Morado|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7054|Rural|
+36245|Cueva del Cedro|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6948|Rural|
+36245|El Encinal|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6965|Rural|
+36245|San Bartolo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7097|Rural|
+36245|Calera de los Ruiz|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6933|Rural|
+36245|El Chocolate (Barrio de Guadalupe)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6959|Rural|
+36245|El Cuervito (El Cuervo)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6964|Rural|
+36245|Ciénega de Negros|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6945|Rural|
+36245|El Cuate|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6963|Rural|
+36245|El Laurel|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6966|Rural|
+36245|Cieneguita de San Bartolo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6944|Rural|
+36245|El Zorrillo|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6987|Rural|
+36245|El Aserradero|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6953|Rural|
+36245|Ojo de Agua de Medina|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7071|Rural|
+36245|Tenerías|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7122|Rural|
+36246|Doña Panchita|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6950|Rural|
+36246|El Arenal|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6952|Rural|
+36246|El Potrero|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6976|Rural|
+36246|Las Viñas (Cerro de las Antenas)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7037|Rural|
+36246|Llanos de Santa Ana|Ejido|Guanajuato|Guanajuato||36001|11|36001||15|015|0101|Rural|
+36246|Fraccionamiento Balcones de la Esperanza|Fraccionamiento|Guanajuato|Guanajuato||36001|11|36001||21|015|6991|Rural|
+36246|La Tinaja|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7027|Rural|
+36246|Presa de la Soledad|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7078|Rural|
+36246|Presa la Esperanza|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7082|Rural|
+36246|Puerto del Oro (El Orito)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7085|Rural|
+36246|La Aldana|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7005|Rural|
+36246|Lomas de Mesa Cuata (Joya del Pirul)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7043|Rural|
+36246|Real de la Esperanza|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7092|Rural|
+36246|La Higuera|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7012|Rural|
+36246|Llano Grande|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7038|Rural|
+36246|Presita del Pie (Presitas)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7083|Rural|
+36246|Santa Ana (Santana)|Ejido|Guanajuato|Guanajuato||36001|11|36001||15|015|0102|Rural|
+36246|Tejabanes del Tajo (Camino al Tajo Kilómetro Dos)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7121|Rural|
+36247|Buenavista|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|6928|Rural|
+36247|Lomas de Mesa Cuata|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7042|Rural|
+36247|Joya de Lobos (Cumbres del Guapillo)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7004|Rural|
+36247|San José del Gacho|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7107|Rural|
+36247|La Concepción|Poblado comunal|Guanajuato|Guanajuato||36001|11|36001||27|015|4761|Rural|
+36247|Mesa Cuata|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0087|Rural|
+36247|Joya de Lobos|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7003|Rural|
+36247|La Joya de Santa Lucía|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7015|Rural|
+36247|Puerto de las Jarillas (Puerto del Atajo)|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|7084|Rural|
+36247|Agua Colorada|Ranchería|Guanajuato|Guanajuato||36001|11|36001||29|015|0084|Rural|
+36250|Villas Cervantinas|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4146|Urbano|31
+36250|Marfil Centro|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|0106|Urbano|31
+36253|Águilas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5057|Rural|31
+36253|Cerro de La Coyota|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7134|Urbano|31
+36253|Pánuco|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7184|Urbano|31
+36253|Cerro Lindavista|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4139|Urbano|31
+36253|Las Bateas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5056|Urbano|31
+36253|Loma de los Santos|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4144|Urbano|31
+36253|Marfil Dorado|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7173|Urbano|31
+36253|Presa de los Santos|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4145|Urbano|31
+36253|Los Magueyes|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7170|Urbano|31
+36253|Las Palomas|Barrio|Guanajuato|Guanajuato|Marfil|36251|11|36251||02|015|4140|Urbano|31
+36254|Las Teresas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4138|Urbano|31
+36254|El Arte|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4676|Urbano|31
+36254|Ex Hacienda Santa Teresa|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|5059|Urbano|31
+36254|Real del Bosque|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5069|Urbano|31
+36254|Privada del Arte|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4675|Urbano|31
+36254|Lomas de Marfil I|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4135|Urbano|31
+36254|Biznagas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5058|Urbano|31
+36254|La Hacienda|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|5407|Urbano|31
+36254|Lomas de Marfil II|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4136|Urbano|31
+36255|Privada La Esperanza|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7183|Urbano|31
+36255|Villa Jacarandas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7193|Urbano|31
+36255|Villas Manchegas|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4143|Urbano|31
+36255|Cocaleca|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7144|Urbano|31
+36255|Burocrático|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4130|Urbano|31
+36255|Villa Las Palmas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7194|Urbano|31
+36255|Villas de Marfil|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7195|Urbano|31
+36255|Jalapa|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4141|Urbano|31
+36255|Villa Hermosa|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4458|Urbano|31
+36255|Servidor Agrario|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5060|Urbano|31
+36255|Tres Estrellas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4457|Urbano|31
+36255|Residencial Marfil|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5068|Urbano|31
+36255|Cerro de Los Tumultos|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7136|Urbano|31
+36255|Lomas de Yerbabuena|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4453|Urbano|31
+36255|De La Quinta|Barrio|Guanajuato|Guanajuato|Marfil|36251|11|36251||02|015|4142|Rural|31
+36255|El Laurel|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7150|Urbano|31
+36255|Peñitas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7180|Urbano|31
+36256|Los Alcaldes|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4131|Urbano|31
+36256|Arroyo Verde|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5061|Rural|31
+36256|El Mezquital|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7151|Urbano|31
+36256|La Sauceda|Hacienda|Guanajuato|Guanajuato|Marfil|36251|11|36251||24|015|0112|Urbano|31
+36256|Las Terrazas|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|5429|Urbano|31
+36256|Cúpulas|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4450|Rural|31
+36256|Burócrata|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7129|Urbano|31
+36256|Cerro de La Campana|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7133|Urbano|31
+36256|Mineral de La Hacienda|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4460|Urbano|31
+36257|Lomas de Cervera|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4452|Urbano|31
+36257|Mártires|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5063|Urbano|31
+36257|Cumbres de Santa Fe|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5064|Urbano|31
+36257|Insurgentes|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7161|Urbano|31
+36257|Campanario|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4449|Urbano|31
+36257|Pozo del Padre Santa Fé de Guanajuato|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7181|Urbano|31
+36257|Santa Fé SCT|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7191|Urbano|31
+36257|Balcones de Santa Fé|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7128|Urbano|31
+36257|Loma del Padre|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7167|Urbano|31
+36257|Lomas de Santa Fe II|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7168|Urbano|31
+36257|Colonia Arroyo Blanco|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7145|Urbano|31
+36257|Cervera|Ranchería|Guanajuato|Guanajuato|Marfil|36251|11|36251||29|015|0115|Urbano|31
+36257|Las Trojes|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4638|Urbano|31
+36257|Villaseca|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7196|Urbano|31
+36257|Alhóndiga|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4634|Urbano|31
+36257|Caminera|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|5067|Urbano|31
+36257|Independencia Sección Valle de Santa Fé|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7160|Urbano|31
+36257|Cúpula 1|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4451|Urbano|31
+36257|Lomas de Santa Fe|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4454|Urbano|31
+36257|Independencia|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4633|Urbano|31
+36257|Cañada de Cervera|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|5065|Urbano|31
+36258|Fraccionamiento Villas de Guanajuato|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|5066|Rural|31
+36259|Paso del Norte|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4456|Urbano|31
+36259|Manantial|Fraccionamiento|Guanajuato|Guanajuato||36251|11|36251||21|015|0002|Urbano|
+36259|Colonial Guanajuato|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4636|Urbano|31
+36259|Yerbabuena|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|4459|Urbano|31
+36259|San Isidro|Congregación|Guanajuato|Guanajuato|Marfil|36251|11|36251||11|015|7187|Urbano|31
+36259|El Pulque|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7152|Urbano|31
+36259|Arboledas|Fraccionamiento|Guanajuato|Guanajuato|Marfil|36251|11|36251||21|015|4637|Urbano|31
+36259|Nueva España|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7192|Urbano|31
+36259|El Establo|Colonia|Guanajuato|Guanajuato|Marfil|36251|11|36251||09|015|7149|Urbano|31
+36260|Santa Teresa|Hacienda|Guanajuato|Guanajuato||36251|11|36251||24|015|0117|Rural|
+36260|San José de La Luz|Congregación|Guanajuato|Guanajuato||36251|11|36251||11|015|7188|Rural|
+36263|San José de Cervera|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0116|Rural|
+36263|Santa Catarina de Cuevas (El Tinaco)|Ejido|Guanajuato|Guanajuato||36251|11|36251||15|015|0123|Rural|
+36263|Del Magisterio [Hotel]|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6949|Rural|
+36263|El Cerrito (El Cerrito de las Biznagas)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6957|Rural|
+36263|La Tabla|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7026|Rural|
+36263|Las Cañadas|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7031|Rural|
+36263|Puentecillas|Pueblo|Guanajuato|Guanajuato||36251|11|36251||28|015|0120|Rural|
+36263|El Puerto|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6978|Rural|
+36263|Fracción Cañada de Bustos (La Loma)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6989|Rural|
+36263|Los Aguilar|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7045|Rural|
+36263|Cerrito del Oro|Ejido|Guanajuato|Guanajuato||36251|11|36251||15|015|5473|Rural|
+36263|Fracción Carbonera (El Microbio)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6990|Rural|
+36263|La Rotonda|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7025|Rural|
+36263|Las Pachonas|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7035|Rural|
+36263|Placeres|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7075|Rural|
+36263|Río Grande|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7095|Rural|
+36263|San José de Tránsito (El Aguacate)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7105|Rural|
+36263|San José de Tránsito|Congregación|Guanajuato|Guanajuato||36251|11|36251||11|015|0122|Rural|
+36263|Atrás del CERESO|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6927|Rural|
+36263|La Presita|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7023|Rural|
+36263|Paso de Pirules|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0119|Rural|
+36263|El Arenal|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6951|Rural|
+36263|Lomas de Cervera|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7041|Rural|
+36263|Los Pinos|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7051|Rural|
+36263|ITESG (Tecnológico)|Equipamiento|Guanajuato|Guanajuato||36251|11|36251||17|015|7002|Rural|
+36263|El Maluco|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0118|Rural|
+36263|Cuevas (Huachimole de Cuevas)|Ejido|Guanajuato|Guanajuato||36251|11|36251||15|015|0121|Rural|
+36263|Los Agaves|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7044|Rural|
+36263|Villa Mercedes (Dinastía Elías)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7124|Rural|
+36264|La Poza (Ojo de Agua)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7020|Rural|
+36264|San Vicente de la Cruz|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7113|Rural|
+36264|Ciénega del Pedregal|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0124|Rural|
+36264|La Trinidad|Hacienda|Guanajuato|Guanajuato||36251|11|36251||24|015|0125|Rural|
+36264|Las Cunetas|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7034|Rural|
+36264|Agua Zarca|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6925|Rural|
+36264|San José de Gracia|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7100|Rural|
+36264|Los Cajones|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0131|Rural|
+36264|Las Cabañas de la Presa|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7032|Rural|
+36265|El Tropezón|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6985|Rural|
+36265|La Quebradora|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7024|Rural|
+36265|Loma de la Haciendita|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7040|Rural|
+36265|La Joya|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7014|Rural|
+36265|Nochebuena|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7068|Rural|
+36265|Haciendita de Buburrones|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7001|Rural|
+36265|San José de la Luz|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7102|Rural|
+36265|El Cerrito del Zapote|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6958|Rural|
+36265|La Colmena [Relleno Sanitario]|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7008|Rural|
+36265|Presa del Gongorrón (Cueva del Tizar)|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7081|Rural|
+36265|La Presa de Burrones|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7021|Rural|
+36266|San José de Llanos|Hacienda|Guanajuato|Guanajuato||36501|11|36501||24|015|0130|Rural|
+36267|Ex-Hacienda el Sauz|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6988|Rural|
+36267|Zangarro (Zangarro Nuevo)|Congregación|Guanajuato|Guanajuato||36251|11|36251||11|015|0128|Rural|
+36267|Venta la Purísima|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0129|Rural|
+36267|El Resbalón|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6981|Rural|
+36267|El Capulín de Bustos|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0127|Rural|
+36267|Molineros|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|0132|Rural|
+36267|El Limón|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6967|Rural|
+36267|El Milagro|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6969|Rural|
+36267|Santiaguillo|Hacienda|Guanajuato|Guanajuato||36251|11|36251||24|015|0133|Rural|
+36267|Quinta la Purísima|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7086|Rural|
+36267|La Haciendita|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7011|Rural|
+36267|La Mora|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7018|Rural|
+36267|Nuevo Santiaguillo|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|7069|Rural|
+36267|Cañada de Bustos|Hacienda|Guanajuato|Guanajuato||36251|11|36251||24|015|0126|Rural|
+36267|El Molino|Ranchería|Guanajuato|Guanajuato||36251|11|36251||29|015|6972|Rural|
+36267|La Presa de la Purísima|Hacienda|Guanajuato|Guanajuato||36251|11|36251||24|015|7022|Rural|
+36268|Los Nicolases|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|0137|Rural|
+36268|Ampliación de Guadalupe|Ampliación|Guanajuato|Guanajuato||36501|11|36501||38|015|6926|Rural|
+36268|San José de Llanos (El Zapote)|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|7103|Rural|
+36268|San José de Llanos (Faustino Miranda)|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|7104|Rural|
+36268|Granja la Paz|Granja|Guanajuato|Guanajuato||36501|11|36501||23|015|6995|Rural|
+36268|Granja San José|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|6997|Rural|
+36268|Rancho la Cañada Grande|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|7087|Rural|
+36268|Hacienda de Guadalupe|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|0136|Rural|
+36268|Rancho San Francisco|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|7089|Rural|
+36268|Rancho los Navarro (El Charco)|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|7088|Rural|
+36268|Granja la Paz|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|6994|Rural|
+36268|Cerrito Frío|Poblado comunal|Guanajuato|Guanajuato||36501|11|36501||27|015|5442|Rural|
+36268|El Mirador|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|6970|Rural|
+36268|Granja Loma Bonita|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|6996|Rural|
+36268|Granja Teresita|Ranchería|Guanajuato|Guanajuato||36501|11|36501||29|015|6999|Rural|

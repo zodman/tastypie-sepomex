@@ -1,0 +1,73 @@
+86800|Teapa Centro|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|0828|Semiurbano|09
+86801|Revolución|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1227|Semiurbano|09
+86801|Chapultepec|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|2522|Semiurbano|09
+86801|Reforma|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1160|Semiurbano|09
+86801|Las Grutas|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|2586|Urbano|09
+86801|Independencia|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1130|Semiurbano|09
+86801|La Sierra|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1161|Semiurbano|09
+86801|Joyas Del Pedregal|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|1406|Semiurbano|09
+86801|La Ceiba|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|2627|Urbano|09
+86801|Lázaro Cárdenas|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1172|Semiurbano|09
+86801|Morelia|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1407|Semiurbano|09
+86801|Florida|Colonia|Teapa|Tabasco|Teapa|86804|27|86804||09|016|1108|Semiurbano|09
+86802|Carlos Salinas de Gortari|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|1233|Semiurbano|09
+86802|Tejería|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|1251|Semiurbano|09
+86802|Chacuiba|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|1069|Semiurbano|09
+86802|Santa Cruz|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|1245|Semiurbano|09
+86802|Las Flores|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|2025|Semiurbano|09
+86802|Bosques de La Sierra|Fraccionamiento|Teapa|Tabasco|Teapa|86804|27|86804||21|016|1039|Semiurbano|09
+86805|El Guanal|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2047|Rural|
+86805|Monoshpa|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2033|Rural|
+86805|Mina y Matamoros (La Trinidad)|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0827|Rural|
+86805|Francisco Javier Mina|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0830|Rural|
+86805|San Lorenzo|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2032|Rural|
+86806|San Pablo Tamborell|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2035|Rural|
+86806|La Argentina|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0831|Rural|
+86806|Arcadio Zentella|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2034|Rural|
+86807|El Cerrito|Colonia|Teapa|Tabasco||86804|27|86804||09|016|2552|Rural|
+86807|Mariano Abasolo (Abasolito)|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0834|Rural|
+86807|Nicolás Bravo 1a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0837|Rural|
+86807|Nicolás Bravo 2a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0835|Rural|
+86807|Vicente Guerrero Lerma|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2031|Rural|
+86807|Vicente Guerrero (Nieves)|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0829|Rural|
+86807|El Azufrito|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2030|Rural|
+86808|Ignacio Allende 2a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0832|Rural|
+86810|Manuel Vuelta y Rayón 1a Sección|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0845|Rural|
+86810|José María Morelos Santa Rita|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2046|Rural|
+86812|Hermenegildo Galeana|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0840|Rural|
+86813|Ignacio Allende 3a Sección|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2028|Rural|
+86813|Concepción Puente Grande|Ejido|Teapa|Tabasco||86804|27|86804||15|016|1584|Rural|
+86813|Municipal|Colonia|Teapa|Tabasco||86804|27|86804||09|016|2029|Semiurbano|
+86813|Chapultepec|Colonia|Teapa|Tabasco||86804|27|86804||09|016|2551|Rural|
+86813|Ignacio Allende 1a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0843|Rural|
+86814|Miguel Hidalgo 2a Secc (San Joaquín)|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0854|Rural|
+86814|Los Álamos|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2038|Rural|
+86815|Miguel Hidalgo y Costilla 3a Secc (Calcinado)|Ejido|Teapa|Tabasco||86804|27|86804||15|016|0847|Rural|
+86815|Eureka y Belén|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2036|Rural|
+86820|Benito Juárez (Colorado)|Ejido|Teapa|Tabasco||86804|27|86804||15|016|1583|Rural|
+86820|Juan Aldama|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0838|Rural|
+86820|Colorado 1a Sección|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0844|Rural|
+86821|Mariano Pedrero 2a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0850|Rural|
+86823|San Juanito|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2042|Rural|
+86823|Hermenegildo Galeana 1a Secc (Mexiquito)|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0841|Rural|
+86823|El Carmen E. Pratts|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2043|Rural|
+86823|Hermenegildo Galeana|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2044|Rural|
+86823|Santa Irene Alvarado|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2045|Rural|
+86824|El Chilar|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|1579|Rural|
+86824|Andrés Quintana Roo 3a Secc|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2027|Rural|
+86824|Andres Quintana Roo 1a Secc|Ejido|Teapa|Tabasco||86804|27|86804||15|016|0842|Rural|
+86824|Mariano Pedrero 3a Secc|Ejido|Teapa|Tabasco||86804|27|86804||15|016|0851|Rural|
+86824|Andrés Quintana Roo 2a Secc|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2026|Rural|
+86826|Manuel Buelta 2a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0846|Rural|
+86826|José María Morelos 2a Secc El Limón|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0848|Rural|
+86826|Mariano Pedrero 1a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0849|Rural|
+86826|Manuel Buelta 1ra. Sección|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|2654|Rural|
+86826|Villa Verde|Fraccionamiento|Teapa|Tabasco||86804|27|86804||21|016|3049|Rural|
+86826|Francisco Sarabia|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2037|Rural|
+86826|Las Gardenias|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2039|Rural|
+86827|Ignacio Lopez Rayón 2a Sección|Ejido|Teapa|Tabasco||86804|27|86804||15|016|1582|Rural|
+86827|Juan Gómez|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2041|Rural|
+86827|Ignacio Lopez Rayón 1a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0852|Rural|
+86827|José María Morelos y Pavón|Ejido|Teapa|Tabasco||86804|27|86804||15|016|1581|Rural|
+86827|Jose Maria Morelos 1a Secc|Ranchería|Teapa|Tabasco||86804|27|86804||29|016|0853|Rural|
+86827|Las Delicias|Ejido|Teapa|Tabasco||86804|27|86804||15|016|2040|Rural|

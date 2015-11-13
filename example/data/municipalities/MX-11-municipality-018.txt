@@ -1,0 +1,56 @@
+38470|Jaral del Progreso Centro|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|2847|Urbano|35
+38473|Josefa Ortiz de Domínguez|Fraccionamiento|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||21|018|2855|Urbano|35
+38473|Mezquite Ancho|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|4246|Urbano|35
+38473|Posito Santo|Ranchería|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||29|018|0034|Urbano|35
+38474|Del Río|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|4244|Urbano|35
+38474|Hacienda del Carmen|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0029|Urbano|35
+38474|Del Valle|Ejido|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||15|018|2853|Urbano|35
+38474|Hacienda Del Rincón|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0030|Urbano|35
+38475|10 de Abril|Ejido|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||15|018|0026|Urbano|35
+38475|Emiliano Zapata|Ejido|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||15|018|2854|Urbano|35
+38476|Alqueria|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0027|Urbano|35
+38476|Mogote del Gallo|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|4245|Urbano|35
+38476|Lázaro Cárdenas|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0033|Urbano|35
+38476|Pedregal del Carmen|Fraccionamiento|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||21|018|5382|Urbano|35
+38476|Felipe Ángeles|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0028|Urbano|35
+38476|Los Pedregales|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0032|Urbano|35
+38477|Las Flores|Colonia|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||09|018|0031|Urbano|35
+38477|Presidencia Municipal|Fraccionamiento|Jaral del Progreso|Guanajuato|Jaral del Progreso|38471|11|38471||21|018|2856|Urbano|35
+38480|Victoria de Cortazar|Pueblo|Jaral del Progreso|Guanajuato||38471|11|38471||28|018|2851|Rural|
+38483|El Sabino|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0010|Rural|
+38483|San José de Ojo Zarco|Ejido|Jaral del Progreso|Guanajuato||38471|11|38471||15|018|2862|Rural|
+38483|Colonia de la Cruz|Colonia|Jaral del Progreso|Guanajuato||38471|11|38471||09|018|4242|Rural|
+38484|El Colorado|Ejido|Jaral del Progreso|Guanajuato||38471|11|38471||15|018|2860|Rural|
+38484|El Tecolote|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|2861|Rural|
+38484|Santiago Capitiro|Pueblo|Jaral del Progreso|Guanajuato||38471|11|38471||28|018|2863|Rural|
+38485|Granja Efrén Soto|Granja|Jaral del Progreso|Guanajuato||38471|11|38471||23|018|0011|Rural|
+38485|Las Islas|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0015|Rural|
+38485|Predio San José (Alfonso Ortega Nieto)|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0018|Rural|
+38485|El Armadillo|Ejido|Jaral del Progreso|Guanajuato||38471|11|38471||15|018|2865|Rural|
+38485|El Romance (Jorge Patiño)|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0009|Rural|
+38485|La Rana|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0014|Rural|
+38485|Palo Blanco|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0016|Rural|
+38485|El Paraíso|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0006|Rural|
+38485|El Romance|Hacienda|Jaral del Progreso|Guanajuato||38471|11|38471||24|018|0008|Rural|
+38486|Terrero|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0023|Rural|
+38486|Zempoala|Ejido|Jaral del Progreso|Guanajuato||38471|11|38471||15|018|2852|Rural|
+38486|El Gallero [La Ladrillera]|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0004|Rural|
+38486|Hacienda de la Bolsa|Ejido|Jaral del Progreso|Guanajuato||38471|11|38471||15|018|2848|Rural|
+38487|La Congrega|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0013|Rural|
+38487|Aarón García Tamayo (San Ramón)|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0001|Rural|
+38487|El Potrero|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0007|Rural|
+38487|El Molinito|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|2859|Rural|
+38487|Casa Nueva|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0002|Rural|
+38487|San Martín|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0021|Rural|
+38487|San Ramón|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0022|Rural|
+38487|Huérfanos|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0012|Rural|
+38487|Los Llanitos (El Ranchito)|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|2857|Rural|
+38487|El Fresno|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0003|Rural|
+38487|Tronconales|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0024|Rural|
+38487|Zoromuta|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0025|Rural|
+38487|El Molino|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0005|Rural|
+38487|Pensión Martínez [Yonkee]|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0017|Rural|
+38487|San José del Cerrito de Camargo|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|2846|Rural|
+38488|Rancho Hernández|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0019|Rural|
+38488|Providencia|Ejido|Jaral del Progreso|Guanajuato||38471|11|38471||15|018|2849|Rural|
+38488|San Antonio|Ranchería|Jaral del Progreso|Guanajuato||38471|11|38471||29|018|0020|Rural|

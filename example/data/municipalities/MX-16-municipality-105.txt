@@ -1,0 +1,25 @@
+59200|Magisterio|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0009|Urbano|
+59200|Pensadores|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0010|Urbano|
+59200|Santa María|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0014|Urbano|
+59200|Bellavista|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0001|Urbano|
+59200|La Loma|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0007|Urbano|
+59200|Lerdo Chiquito|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0008|Urbano|
+59200|Quinta Real|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0011|Urbano|
+59200|Santa Cecilia|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0013|Urbano|
+59200|El Rosario|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0003|Urbano|
+59200|San José|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0012|Urbano|
+59200|Vista Hermosa de Negrete|Pueblo|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||28|105|1102|Urbano|
+59200|Del Sol|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0002|Urbano|
+59200|Hacienda el Molino|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0005|Urbano|
+59200|Guadalupana|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0004|Urbano|
+59200|Santa Teresa|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0015|Urbano|
+59200|Linda Vista|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0017|Urbano|
+59200|La Huerta|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0006|Urbano|
+59200|Tinoco Rubí|Colonia|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||09|105|0016|Urbano|
+59203|Negrete (La Estación de Negrete)|Ranchería|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||29|105|0019|Rural|
+59204|El Alvareño|Ranchería|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||29|105|1105|Rural|
+59205|El Cuenqueño|Ranchería|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||29|105|1103|Rural|
+59205|Las Casitas|Rancho|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||48|105|0018|Rural|
+59206|Los Pilares|Ranchería|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||29|105|1101|Rural|
+59210|El Capulín|Pueblo|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||28|105|1106|Urbano|
+59220|La Angostura|Ranchería|Vista Hermosa|Michoacán de Ocampo||59202|16|59202||29|105|1108|Rural|

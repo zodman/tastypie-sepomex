@@ -1,0 +1,14 @@
+90460|La Sierra|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|0605|Rural|
+90460|San Cosme Xaloztoc|Pueblo|Xaloztoc|Tlaxcala||90461|29|90461||28|039|0244|Rural|
+90460|Santa Martha|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|0604|Rural|
+90460|Tetitla|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|0603|Rural|
+90460|San Pedro Tlacotepec|Pueblo|Xaloztoc|Tlaxcala||90461|29|90461||28|039|0245|Rural|
+90460|Guadalupe Texmolac|Pueblo|Xaloztoc|Tlaxcala||90461|29|90461||28|039|0246|Rural|
+90460|Venustiano Carranza|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|0247|Urbano|
+90463|José López Portillo|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|0880|Urbano|
+90463|El Jagüey Prieto|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|1052|Rural|
+90465|Florencia Sánchez Nava|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|1053|Rural|
+90465|Velazco|Pueblo|Xaloztoc|Tlaxcala||90461|29|90461||28|039|0249|Rural|
+90467|Santa Cruz Zacatzontetla|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|0881|Urbano|
+90470|Los Corrales|Colonia|Xaloztoc|Tlaxcala||90461|29|90461||09|039|1054|Rural|
+90470|Caballo Blanco|Ranchería|Xaloztoc|Tlaxcala||90461|29|90461||29|039|1055|Rural|

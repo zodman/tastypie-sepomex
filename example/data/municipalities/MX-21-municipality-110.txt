@@ -1,0 +1,38 @@
+75500|Palmar de Bravo|Pueblo|Palmar de Bravo|Puebla||75481|21|75481||28|110|2284|Rural|
+75500|La Purísima de Bravo|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|2283|Rural|
+75500|San José Bellavista de Victoria|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|2282|Rural|
+75505|San Miguel Xaltepec|Pueblo|Palmar de Bravo|Puebla||75481|21|75481||28|110|2286|Rural|
+75505|Jesús Nazareno|Pueblo|Palmar de Bravo|Puebla||75481|21|75481||28|110|2285|Rural|
+75505|Guadalupe (Dolores)|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7513|Rural|
+75507|Loma Bella (Loma del Pato)|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7510|Rural|
+75507|Guadalupe (El Arenal)|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7502|Rural|
+75507|San Agustín|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7506|Rural|
+75507|Santa Cruz Ocotlán|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|2288|Rural|
+75507|Las Palmas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7518|Rural|
+75508|Rincón Grande|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7508|Rural|
+75510|Cuesta Blanca|Pueblo|Palmar de Bravo|Puebla||75481|21|75481||28|110|2289|Rural|
+75512|Amozoquillo Piletas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7515|Rural|
+75512|Cuesta Chica Piletas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7519|Rural|
+75512|Encrucijada Segunda Sección|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7511|Rural|
+75512|Encrucijada Primera Sección|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|2290|Rural|
+75512|San Francisco Piletas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7517|Rural|
+75513|Contreras|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7520|Rural|
+75513|Rancho Verde|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7514|Rural|
+75514|Santa Cruz Monterrosas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7516|Rural|
+75515|Los Reyes Altamira|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|6032|Rural|
+75515|La Asunción|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7498|Rural|
+75515|La Soledad|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7504|Rural|
+75515|Cuexcomate|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7507|Rural|
+75515|San Martín|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7496|Rural|
+75515|Cuacnopalan|Pueblo|Palmar de Bravo|Puebla||75481|21|75481||28|110|2291|Rural|
+75515|Juquila|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7497|Rural|
+75515|El Arenal|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7500|Rural|
+75515|El Marqués|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7499|Rural|
+75515|Santa Isabel Sabinal|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7512|Rural|
+75515|San Isidro Monterrosas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|6033|Rural|
+75515|Ayala|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7503|Rural|
+75515|Trinidad el Arenal (La Nigua)|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|7509|Rural|
+75515|Tehuitzo|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|6034|Rural|
+75515|Los Vergeles|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7505|Rural|
+75515|Guadalupe Piletas|Ranchería|Palmar de Bravo|Puebla||75481|21|75481||29|110|2292|Rural|
+75515|San Juditas|Colonia|Palmar de Bravo|Puebla||75481|21|75481||09|110|7501|Rural|

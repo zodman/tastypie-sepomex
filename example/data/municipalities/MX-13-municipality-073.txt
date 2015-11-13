@@ -1,0 +1,91 @@
+43150|Santa Ana|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3147|Urbano|
+43150|Gómez Sada|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3145|Urbano|
+43150|Huastequita|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3151|Urbano|
+43150|Santa Cruz|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3155|Urbano|
+43150|Lindavista|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3150|Urbano|
+43150|Morelos|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3149|Urbano|
+43150|Tlanchinol Centro|Colonia|Tlanchinol|Hidalgo||43007|13|43007||09|073|1351|Urbano|
+43150|Loma Grande|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3152|Urbano|
+43150|Independencia|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3148|Urbano|
+43150|Santa Cecilia|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3154|Urbano|
+43150|Vista Hermosa|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3146|Urbano|
+43150|Nuevo|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3153|Urbano|
+43151|Chichatla|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1354|Rural|
+43151|Acahuasco|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1353|Rural|
+43153|Olotla|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1356|Rural|
+43154|Xochititla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3198|Rural|
+43154|Apantlazol|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1358|Rural|
+43154|Acuapa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1357|Rural|
+43154|Pilcuatla|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1362|Rural|
+43155|San Cristóbal|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1350|Rural|
+43155|Tochintla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3194|Rural|
+43155|Totonicapa|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1352|Rural|
+43155|Chicaco|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3162|Rural|
+43155|Comala|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3164|Rural|
+43156|Chipoco|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1359|Rural|
+43156|El Mirador (Casetas)|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3171|Rural|
+43156|Chachala|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1360|Rural|
+43156|Ixtlapala|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1361|Rural|
+43156|Quetzaltzongo|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1363|Rural|
+43156|Quimixtla (Xitlama)|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1364|Rural|
+43156|Atoscalao|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3157|Rural|
+43156|Las Puentes|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3177|Rural|
+43156|Xitlama|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1365|Rural|
+43156|Cuatlapech|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3167|Rural|
+43157|Tecontla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3186|Rural|
+43157|Peyula|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1366|Rural|
+43157|Tlahuelongo|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3192|Rural|
+43157|Toctitlán|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1367|Rural|
+43159|Tianguis|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1370|Rural|
+43159|Tolapa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3195|Rural|
+43159|El Balcón|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3170|Rural|
+43159|Cececapa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3160|Rural|
+43159|El Suspiro|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3172|Rural|
+43159|Chichiltépec|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1369|Rural|
+43159|Coamapil|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1368|Rural|
+43159|Copaltitla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3165|Rural|
+43160|Santa Martha Ula|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3184|Rural|
+43160|Cuatlapextla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3168|Rural|
+43160|Tenango|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1374|Rural|
+43160|Jalpa|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1373|Rural|
+43160|Quimixtla Hula|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3181|Rural|
+43160|Hueyapa|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1372|Rural|
+43160|Cuatlimax|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1371|Rural|
+43160|Tlacomul|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|3158|Rural|
+43160|Citlala|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3163|Rural|
+43161|Acatipa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1375|Rural|
+43161|Chalchocotipa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1376|Rural|
+43161|San José|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1377|Rural|
+43161|Nuevo|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3182|Rural|
+43162|Cuatahuatla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3166|Rural|
+43162|Tenexco|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3189|Rural|
+43162|Amoxco|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3156|Rural|
+43162|Los Pemuches|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3178|Rural|
+43162|Tamazolapa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3185|Rural|
+43162|Huitepec|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1380|Rural|
+43163|Santa María Catzotipan (Santa María Tepetzintla)|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1381|Rural|
+43163|La Quebradora|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3176|Rural|
+43163|La Montaña|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3173|Rural|
+43164|Tierra Colorada|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3191|Rural|
+43164|Cuatatlán|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1382|Rural|
+43164|Cerro Alto|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3161|Rural|
+43164|San Salvador|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1383|Rural|
+43164|Tepeyac|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3190|Rural|
+43165|La Pimienta|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3174|Rural|
+43165|Tlazolapa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3193|Rural|
+43165|Xaltipa|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3197|Rural|
+43165|San Miguel|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3183|Rural|
+43165|Pitzotla|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3180|Rural|
+43165|Tecruz|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3187|Rural|
+43165|Lontla|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1384|Rural|
+43165|La Providencia|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3175|Rural|
+43165|Moyotla|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3179|Rural|
+43165|Tenexatl|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3188|Rural|
+43165|Xala|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3196|Rural|
+43165|Tlahuelompa|Barrio|Tlanchinol|Hidalgo||43007|13|43007||02|073|1385|Rural|
+43167|Hidalgo|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1386|Rural|
+43167|Ehuatitla|Poblado comunal|Tlanchinol|Hidalgo||43007|13|43007||27|073|3169|Rural|
+43168|Temango|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1379|Rural|
+43168|Catlapani|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|3159|Rural|
+43168|Santa Lucía|Pueblo|Tlanchinol|Hidalgo||43007|13|43007||28|073|1378|Rural|
+43168|Pahuayo|Ranchería|Tlanchinol|Hidalgo||43007|13|43007||29|073|1387|Rural|

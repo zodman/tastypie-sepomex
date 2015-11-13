@@ -1,0 +1,46 @@
+95480|Guadalupe|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|0821|Rural|
+95480|El Zapote|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|5200|Rural|
+95480|Las Malvinas|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|5201|Rural|
+95480|Obrera|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|0994|Rural|
+95480|Miramar|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|0974|Rural|
+95480|Saltabarranca Centro|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|3356|Rural|
+95483|La Reforma|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6131|Rural|
+95483|El Crucero|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6132|Rural|
+95484|El Canelar|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6110|Rural|
+95484|El Remolino|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6112|Rural|
+95484|La Laja|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6111|Rural|
+95484|La Cruz|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6113|Rural|
+95485|La Piedra|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6120|Rural|
+95485|El Capulinar|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|0733|Rural|
+95485|Zamora Caleton|Ejido|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||15|139|3357|Rural|
+95485|Tres Piedras|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6121|Rural|
+95485|El Verraco|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6123|Rural|
+95485|El Cardón|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6122|Rural|
+95485|San Diego|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|1063|Rural|
+95485|El Milagro|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|0754|Rural|
+95486|La Carolina|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6130|Rural|
+95486|El Paso|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6117|Rural|
+95486|Las Blancas|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6128|Rural|
+95486|El Aguacatillo|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|5198|Rural|
+95487|El Zopilote|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6127|Rural|
+95487|El Remolino|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6125|Rural|
+95487|El Lirio|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6126|Rural|
+95487|San Ramón|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6124|Rural|
+95487|Consolación|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6129|Rural|
+95490|La Luz|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6106|Rural|
+95490|La Soledad|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6114|Rural|
+95490|El Mirador|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6116|Rural|
+95490|El Lirio|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6115|Rural|
+95493|La Margarita (La Pepetaca)|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6119|Rural|
+95493|Caro Huerta Masera|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|0672|Rural|
+95493|El Acuyal|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6118|Rural|
+95494|Rincón|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6107|Rural|
+95494|San Valentín|Colonia|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||09|139|1083|Rural|
+95494|El Uveral|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6108|Rural|
+95494|La Comex|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6109|Rural|
+95495|Cuichapa|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6101|Rural|
+95495|San Luis|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6102|Rural|
+95496|El Macuile|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6100|Rural|
+95497|La Unida|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6104|Rural|
+95497|Potrero Viejo|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6103|Rural|
+95497|Boca de La Sierra|Ranchería|Saltabarranca|Veracruz de Ignacio de la Llave||95481|30|95481||29|139|6105|Rural|

@@ -1,0 +1,84 @@
+47180|Arandas Centro|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|1795|Semiurbano|20
+47182|Rosita|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3429|Semiurbano|20
+47182|Buenaventura|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3441|Semiurbano|20
+47182|Vista Real|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3415|Semiurbano|20
+47182|Lomas Del Real|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3416|Semiurbano|20
+47182|Blanca Flor|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3446|Semiurbano|20
+47182|Colinas de San Javier|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3421|Semiurbano|20
+47182|Cerro de Mexiquito|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3422|Semiurbano|20
+47182|Vivanco|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3436|Semiurbano|20
+47182|Mexiquito|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3423|Semiurbano|20
+47182|La Peñita|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3428|Semiurbano|20
+47182|Bellavista II|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3432|Semiurbano|20
+47183|Bellavista I|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3410|Semiurbano|20
+47183|El Rosario|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3411|Semiurbano|20
+47183|Puerta Del Sol|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3413|Semiurbano|20
+47183|Santuario|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3418|Semiurbano|20
+47183|Loma Real|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3419|Semiurbano|20
+47183|Mexiquito|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3424|Semiurbano|20
+47183|Providencia|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3409|Semiurbano|20
+47183|Caja Popular|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3404|Semiurbano|20
+47183|Paso Nuevo|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3405|Semiurbano|20
+47183|Las Lomas|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3425|Semiurbano|20
+47183|Ciudad Perdida|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3406|Semiurbano|20
+47183|Los Pinos|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3412|Semiurbano|20
+47183|Lomas del Chilarejo|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3414|Semiurbano|20
+47183|De las Américas|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3426|Semiurbano|20
+47183|Peritas|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3430|Semiurbano|20
+47183|Nuevo Bellavista|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3407|Semiurbano|20
+47183|Los Tabachines|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3408|Semiurbano|20
+47183|Vallejo|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3417|Semiurbano|20
+47184|Lomas Del Carmen|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3448|Semiurbano|20
+47184|Parque de los Fresnos|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3449|Semiurbano|20
+47184|Santa Maria de Guadalupe|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3439|Semiurbano|20
+47184|El Saltillo|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3420|Semiurbano|20
+47184|Morales|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3431|Semiurbano|20
+47184|Jardines de Arandas|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3440|Semiurbano|20
+47184|Infonavit Lagunitas|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3443|Semiurbano|20
+47184|Jardines de Santa Maria|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3438|Semiurbano|20
+47184|Jardines de La Glorieta|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3445|Semiurbano|20
+47184|Lagunas|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3433|Semiurbano|20
+47184|Apacueco|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3427|Semiurbano|20
+47184|El Carmen|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3434|Semiurbano|20
+47184|Camino Real|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3435|Semiurbano|20
+47184|Club Campestre|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3444|Semiurbano|20
+47184|Parque Industrial Santa Maria|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3452|Semiurbano|20
+47185|Santa Bárbara|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3447|Semiurbano|20
+47185|Lomas Del Queretarito|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3453|Semiurbano|20
+47185|Rinconada de los Vázquez|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3454|Semiurbano|20
+47185|El Gallito|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3450|Semiurbano|20
+47185|Santa Bárbara|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3451|Semiurbano|20
+47185|Residencial Santa Rosa|Fraccionamiento|Arandas|Jalisco|Arandas|47181|14|47181||21|008|3442|Semiurbano|20
+47185|Santa Rosa|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3455|Semiurbano|20
+47185|El Socorrito|Colonia|Arandas|Jalisco|Arandas|47181|14|47181||09|008|3437|Semiurbano|20
+47186|La Garita|Rancho|Arandas|Jalisco||47181|14|47181||48|008|0001|Rural|
+47186|El Nacimiento|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1806|Rural|
+47186|San Francisco|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1797|Rural|
+47187|Los Lobos|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1804|Rural|
+47187|La Corambre|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1803|Rural|
+47187|Ojo de Agua Rincón Del Molino|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1801|Rural|
+47187|La Gloria|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1800|Rural|
+47187|El Lienzo|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1802|Rural|
+47188|La Parada|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1812|Rural|
+47188|El Carrizal de Abajo|Pueblo|Arandas|Jalisco||47181|14|47181||28|008|1807|Rural|
+47188|El Nopal|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1808|Rural|
+47188|El Tule|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1809|Rural|
+47188|La Ermita|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1810|Rural|
+47188|La Lagunilla|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1811|Rural|
+47189|Los Timones|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1796|Rural|
+47189|La Campana|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1813|Rural|
+47189|La Cieneguita|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1814|Rural|
+47189|Rosas Azules|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1815|Rural|
+47196|La Resolana|Ranchería|Arandas|Jalisco||47191|14|47191||29|008|1833|Rural|
+47196|Santa María del Valle|Pueblo|Arandas|Jalisco||47191|14|47191||28|008|1805|Rural|
+47196|La Troje|Pueblo|Arandas|Jalisco||47191|14|47191||28|008|1834|Rural|
+47196|Bajío Del Caracol|Ranchería|Arandas|Jalisco||47191|14|47191||29|008|1835|Rural|
+47196|El Zapote|Ranchería|Arandas|Jalisco||47191|14|47191||29|008|1832|Rural|
+47196|Los Agritos|Ranchería|Arandas|Jalisco||47191|14|47191||29|008|1842|Rural|
+47196|La Rana|Ranchería|Arandas|Jalisco||47191|14|47191||29|008|1841|Rural|
+47197|Manuel Martinez Valadez|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1830|Rural|
+47197|Yerbabuena|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1831|Rural|
+47197|Valle de San Antonio|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1845|Rural|
+47197|Alazanas|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|1843|Rural|
+47197|Piedra Amarilla|Ranchería|Arandas|Jalisco||47181|14|47181||29|008|0002|Rural|
+47197|Santiaguito de Velázquez|Pueblo|Arandas|Jalisco||47181|14|47181||28|008|1844|Rural|

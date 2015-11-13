@@ -1,0 +1,63 @@
+65800|Agualeguas Centro|Colonia|Agualeguas|Nuevo León||66851|19|66851||09|002|0689|Urbano|
+65800|Mira Sierra|Colonia|Agualeguas|Nuevo León||66851|19|66851||09|002|5228|Urbano|
+65800|Olivia Olvera|Colonia|Agualeguas|Nuevo León||66851|19|66851||09|002|5229|Urbano|
+65800|Profesor Jesús M Lozano Treviño|Colonia|Agualeguas|Nuevo León||66851|19|66851||09|002|5230|Urbano|
+65800|Del Norte|Colonia|Agualeguas|Nuevo León||66851|19|66851||09|002|5226|Rural|
+65800|Jardín|Colonia|Agualeguas|Nuevo León||66851|19|66851||09|002|5227|Urbano|
+65803|Los Mogotes Tres|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5205|Rural|
+65804|La Gloria|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5197|Rural|
+65805|La Retama|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5201|Rural|
+65805|Santos Valadez (Piedra Parada)|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5222|Rural|
+65806|Palo Blanco|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5210|Rural|
+65806|Puerta las Ovejas|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5212|Rural|
+65806|Los Vázquez|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5208|Rural|
+65806|El Texano|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5192|Rural|
+65807|El Recuerdo|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5190|Rural|
+65807|El Roble|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5191|Rural|
+65807|José Luis Mayo|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5193|Rural|
+65807|El Recodo|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5189|Rural|
+65807|San Cristóbal|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5217|Rural|
+65807|Tío Marío|Ranchería|Agualeguas|Nuevo León||66851|19|66851||29|002|5225|Rural|
+65807|San Vicente|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5221|Rural|
+65808|Chapa Ramos Dos|Rancho|Agualeguas|Nuevo León||66851|19|66851||48|002|5179|Rural|
+65808|Ojo de Agua|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5209|Rural|
+65810|Los Elizondo Número Uno|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5203|Rural|
+65810|El Potrero|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5187|Rural|
+65810|Los Salazar|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5207|Rural|
+65810|Rancho Nuevo|Congregación|Agualeguas|Nuevo León||66851|19|66851||11|002|0691|Rural|
+65810|El Derrame|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5184|Rural|
+65813|Dermi|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5181|Rural|
+65813|El Maguey|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5185|Rural|
+65813|Ramón Cantú|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5213|Rural|
+65813|Tres Hermanos|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5223|Rural|
+65813|Ojo de Agua|Ranchería|Agualeguas|Nuevo León||66851|19|66851||29|002|0692|Rural|
+65813|El Abuelo|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5182|Rural|
+65814|El Nogal|Congregación|Agualeguas|Nuevo León||66851|19|66851||11|002|0693|Rural|
+65814|Los Olmos|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5206|Rural|
+65815|El Prieto|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5188|Rural|
+65815|La Purísima|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5200|Rural|
+65815|Cieneguitas|Pueblo|Agualeguas|Nuevo León||66851|19|66851||28|002|0694|Rural|
+65819|Los Garza|Congregación|Agualeguas|Nuevo León||66851|19|66851||11|002|0695|Rural|
+65823|Alicia|Rancho|Agualeguas|Nuevo León||66851|19|66851||48|002|5178|Rural|
+65826|La Ponderosa|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5199|Rural|
+65826|El Papalote|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5186|Rural|
+65826|Arroyo las Alazanas (Pedrera)|Ranchería|Agualeguas|Nuevo León||66851|19|66851||29|002|5211|Rural|
+65830|La Escondida|Congregación|Agualeguas|Nuevo León||66851|19|66851||11|002|0696|Rural|
+65830|Tío Chonito|Ranchería|Agualeguas|Nuevo León||66851|19|66851||29|002|5224|Rural|
+65830|Rancho Seco|Ranchería|Agualeguas|Nuevo León||66851|19|66851||29|002|5214|Rural|
+65833|San José|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5218|Rural|
+65834|Agua Blanca|Rancho|Agualeguas|Nuevo León||66851|19|66851||48|002|5177|Rural|
+65834|San Andrés (Marín de Porras)|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5216|Rural|
+65834|El Corral|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5183|Rural|
+65835|Ciriaco González|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5180|Rural|
+65835|La Conchita|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5196|Rural|
+65835|La Pau|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5198|Rural|
+65835|Los Nogales|Congregación|Agualeguas|Nuevo León||66851|19|66851||11|002|0697|Rural|
+65836|Lagunillas|Congregación|Agualeguas|Nuevo León||66851|19|66851||11|002|0698|Rural|
+65836|Sagrado Corazón (Los Gutiérrez)|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5215|Rural|
+65836|La Barreta|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5195|Rural|
+65836|Los Martínez|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5204|Rural|
+65837|La Atravesada|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5194|Rural|
+65837|La Rosita|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5202|Rural|
+65837|San Pedro|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5219|Rural|
+65837|San Roberto|Poblado comunal|Agualeguas|Nuevo León||66851|19|66851||27|002|5220|Rural|

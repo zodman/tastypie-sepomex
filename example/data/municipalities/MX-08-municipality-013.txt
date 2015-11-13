@@ -1,0 +1,24 @@
+31850|San Antonio|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|1426|Rural|
+31850|Industrial|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|3482|Rural|
+31850|Granjas|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|3485|Rural|
+31850|Lindavista|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|1419|Rural|
+31850|Progreso|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|3483|Rural|
+31850|Los Altos|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|3486|Rural|
+31850|Cdp|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|3484|Rural|
+31850|La Esperanza|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|1413|Rural|
+31850|Casas Grandes|Pueblo|Casas Grandes|Chihuahua||31701|08|31701||28|013|0422|Rural|
+31850|San José|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|5686|Urbano|
+31851|Guadalupe Victoria|Ejido|Casas Grandes|Chihuahua||31701|08|31701||15|013|0423|Rural|
+31852|Moctezuma|Barrio|Casas Grandes|Chihuahua||31701|08|31701||02|013|0424|Rural|
+31855|Cuauhtémoc|Ranchería|Casas Grandes|Chihuahua||31701|08|31701||29|013|0427|Rural|
+31856|Anchondo|Poblado comunal|Casas Grandes|Chihuahua||31701|08|31701||27|013|0428|Rural|
+31857|Juárez|Poblado comunal|Casas Grandes|Chihuahua||31701|08|31701||27|013|0429|Rural|
+31857|San Diego|Poblado comunal|Casas Grandes|Chihuahua||31701|08|31701||27|013|0430|Rural|
+31858|Ignacio Zaragoza|Poblado comunal|Casas Grandes|Chihuahua||31701|08|31701||27|013|0431|Rural|
+31859|El Oro|Ejido|Casas Grandes|Chihuahua||31701|08|31701||15|013|0432|Rural|
+31860|Hernandez|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|0434|Rural|
+31860|Garcia|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|0433|Rural|
+31861|El Rusio|Colonia|Casas Grandes|Chihuahua||31701|08|31701||09|013|0435|Rural|
+31861|Juan Mata Ortiz|Pueblo|Casas Grandes|Chihuahua||31701|08|31701||28|013|0436|Rural|
+31862|Pacheco|Poblado comunal|Casas Grandes|Chihuahua||31701|08|31701||27|013|0437|Rural|
+31863|La Heroína|Pueblo|Casas Grandes|Chihuahua||31701|08|31701||28|013|0438|Rural|

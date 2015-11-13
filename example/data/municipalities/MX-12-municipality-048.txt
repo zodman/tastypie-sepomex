@@ -1,0 +1,64 @@
+40830|El Ocote de Cadena|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2663|Rural|
+40830|Río Chiquito|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2666|Rural|
+40830|El Parazal|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2664|Rural|
+40830|Cabritero|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2662|Rural|
+40831|San Jeronimito|Congregación|Petatlán|Guerrero||40851|12|40851||11|048|2671|Rural|
+40831|Las Peñas|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2669|Rural|
+40831|La Palma|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2668|Rural|
+40831|El Puente|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2667|Rural|
+40831|Soledad de Maciel|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2672|Rural|
+40831|Palos Blancos|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2670|Rural|
+40832|Rancho Nuevo|Campamento|Petatlán|Guerrero||40851|12|40851||04|048|2677|Rural|
+40832|Murga|Congregación|Petatlán|Guerrero||40851|12|40851||11|048|2676|Rural|
+40832|Las Salinas|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2674|Rural|
+40832|Molonga|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2675|Rural|
+40832|El Tuzal|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2673|Rural|
+40833|El Cayacal|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2680|Rural|
+40833|Arroyo Seco|Pueblo|Petatlán|Guerrero||40851|12|40851||28|048|2678|Rural|
+40833|El Calvario|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2679|Rural|
+40833|La Barrita|Campamento|Petatlán|Guerrero||40851|12|40851||04|048|2681|Rural|
+40834|Coyuquilla Sur|Pueblo|Petatlán|Guerrero||40851|12|40851||28|048|2684|Rural|
+40834|Coyuquilla Norte|Ejido|Petatlán|Guerrero||40851|12|40851||15|048|2682|Rural|
+40834|Juluchuca|Congregación|Petatlán|Guerrero||40851|12|40851||11|048|2683|Rural|
+40835|Barra de Potosí|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|4574|Rural|
+40836|La Calera|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2685|Rural|
+40836|Palanquilla|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2687|Rural|
+40836|Morelos|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2686|Rural|
+40837|El Parotal|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2688|Rural|
+40837|Las Mesas|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2689|Rural|
+40840|Mameycito|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2691|Rural|
+40841|El Mameyal|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2692|Rural|
+40843|El Camalote|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2698|Rural|
+40845|La Botella|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2693|Rural|
+40845|Los Enanos|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2694|Rural|
+40847|Camalotito|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2695|Rural|
+40849|El Arenoso|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2696|Rural|
+40849|El Sesteadero|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2697|Rural|
+40850|Petatlan Centro|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1140|Semiurbano|21
+40852|Las Flores|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1414|Semiurbano|21
+40852|Benito Juárez|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1094|Semiurbano|21
+40852|La Obrera|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3630|Semiurbano|21
+40852|Barrio Nuevo|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3631|Semiurbano|21
+40852|Nuevo|Barrio|Petatlán|Guerrero|Petatlán|40851|12|40851||02|048|1089|Semiurbano|21
+40852|Las Mesas|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1420|Semiurbano|21
+40852|Vicente Guerrero|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1714|Semiurbano|21
+40853|La Pintada|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1540|Semiurbano|21
+40853|El Cayuco|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1117|Semiurbano|21
+40853|Gustavo Diaz Ordaz|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1209|Semiurbano|21
+40853|Las Palmas|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1427|Semiurbano|21
+40853|Barrio La Hoja|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3641|Semiurbano|21
+40853|De La Hoja|Barrio|Petatlán|Guerrero|Petatlán|40851|12|40851||02|048|1198|Semiurbano|21
+40853|Deportiva|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1208|Semiurbano|21
+40854|Zona Roja|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3890|Semiurbano|21
+40854|La Esmeralda|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1298|Semiurbano|21
+40855|El Barrozal|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3648|Semiurbano|21
+40855|El Olivo|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3649|Semiurbano|21
+40855|Ejidal|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3644|Semiurbano|21
+40855|Emiliano Zapata|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1294|Semiurbano|21
+40855|Magisterial|Unidad habitacional|Petatlán|Guerrero|Petatlán|40851|12|40851||31|048|3643|Semiurbano|21
+40855|Los Pinos|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|3889|Semiurbano|21
+40855|Burócrata|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1103|Semiurbano|21
+40855|Morelos|Colonia|Petatlán|Guerrero|Petatlán|40851|12|40851||09|048|1505|Semiurbano|21
+40857|Los Mangos|Ranchería|Petatlán|Guerrero||40851|12|40851||29|048|2699|Rural|
+40859|La Chaveta|Pueblo|Petatlán|Guerrero||40851|12|40851||28|048|2700|Rural|
+40859|Potrerillos|Campamento|Petatlán|Guerrero||40851|12|40851||04|048|2701|Rural|

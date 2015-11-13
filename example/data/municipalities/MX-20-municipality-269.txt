@@ -1,0 +1,20 @@
+71140|Lázaro Cárdenas|Colonia|San Miguel el Grande|Oaxaca|San Miguel el Grande|71141|20|71141||09|269|3597|Rural|38
+71140|Álvaro Obregón|Colonia|San Miguel el Grande|Oaxaca|San Miguel el Grande|71141|20|71141||09|269|5125|Rural|38
+71140|San Miguel el Grande Centro|Colonia|San Miguel el Grande|Oaxaca|San Miguel el Grande|71141|20|71141||09|269|2702|Rural|38
+71140|Las Cruces|Colonia|San Miguel el Grande|Oaxaca|San Miguel el Grande|71141|20|71141||09|269|3429|Rural|38
+71140|Los Pinos|Colonia|San Miguel el Grande|Oaxaca|San Miguel el Grande|71141|20|71141||09|269|3430|Rural|38
+71143|Loma Nushiñuu|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5344|Rural|
+71143|Madero|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|2709|Rural|
+71143|Ignacio Zaragoza|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|2710|Rural|
+71143|Vicente Guerrero|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5124|Rural|
+71143|Benito Juárez|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|2707|Rural|
+71144|Linda Vista|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5342|Rural|
+71144|Morelos|Congregación|San Miguel el Grande|Oaxaca||71102|20|71102||11|269|2706|Rural|
+71144|Lomas de Cocoyoc|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5345|Rural|
+71144|General Lázaro Cárdenas|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5339|Rural|
+71144|Llano la Majada|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5343|Rural|
+71144|Villa Guadalupe Victoria|Pueblo|San Miguel el Grande|Oaxaca||71102|20|71102||28|269|2703|Rural|
+71145|Miguel Hidalgo|Pueblo|San Miguel el Grande|Oaxaca||71102|20|71102||28|269|2701|Rural|
+71145|Mexicalcingo|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5346|Rural|
+71145|Iturbide|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5340|Rural|
+71145|Jayucu|Ranchería|San Miguel el Grande|Oaxaca||71102|20|71102||29|269|5341|Rural|

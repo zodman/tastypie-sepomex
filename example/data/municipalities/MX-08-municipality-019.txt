@@ -1,0 +1,841 @@
+31000|Colon|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2254|Urbano|02
+31000|Sector Bolívar|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2252|Urbano|02
+31000|El Bajo|Barrio|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||02|019|2255|Urbano|02
+31000|San Pedro|Barrio|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||02|019|2250|Urbano|02
+31000|Parque Rotario|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2253|Urbano|02
+31000|Zona Centro|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2249|Urbano|02
+31008|Secretaria de Hacienda y Crédito Publico|Gran usuario|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||22|019|0004|Urbano|02
+31009|Palacio de Gobierno del Estado de Chihuahua|Gran usuario|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||22|019|0005|Urbano|02
+31020|Cuauhtémoc|Unidad habitacional|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||31|019|2272|Urbano|02
+31020|Inalámbrica|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2281|Urbano|02
+31020|Las Huertas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3858|Urbano|02
+31020|Claudia|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3870|Urbano|02
+31020|Zarco|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2279|Urbano|02
+31020|Santa Rita|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2271|Urbano|02
+31020|Rubio|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2365|Urbano|02
+31020|Jardines del Santuario|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3859|Urbano|02
+31020|Sector Salud|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2283|Urbano|02
+31020|Residencial Zarco|Residencial|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||30|019|2360|Urbano|02
+31020|Linss|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2364|Urbano|02
+31020|Cuarteles|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2358|Urbano|02
+31020|Herradura Pdu|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2363|Urbano|02
+31029|Comandancia Zona Militar|Gran usuario|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||22|019|0010|Urbano|02
+31030|Pacifico|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2448|Urbano|02
+31030|Rosario|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2466|Urbano|02
+31034|Gustavo Diaz Ordaz|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2619|Urbano|02
+31034|Francisco R Almada|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2620|Urbano|02
+31034|Reforma|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2621|Urbano|02
+31034|Ampliación Reforma|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2622|Urbano|02
+31034|Gustavo Díaz Ordaz|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|3854|Urbano|02
+31034|Ferrocarrilera|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2623|Urbano|02
+31050|Los Álamos Unidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2421|Urbano|02
+31050|Santa Rosa|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2416|Urbano|02
+31050|Rincones de Santa Rosa|Unidad habitacional|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||31|019|2420|Urbano|02
+31050|Dale|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2460|Urbano|02
+31050|Pablo Amaya Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2422|Urbano|02
+31050|Melchor Ocampo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2431|Urbano|02
+31050|Pablo Amaya Norte|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2417|Urbano|02
+31050|Bellavista|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2430|Urbano|02
+31054|Las Vencedoras|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2598|Urbano|02
+31054|San Lázaro|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2603|Urbano|02
+31054|Adelitas I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2609|Urbano|02
+31054|Villas del Sur|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2599|Urbano|02
+31054|San Agustin|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2601|Urbano|02
+31054|San Juan|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2604|Urbano|02
+31054|Unidad Proletaria|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2605|Urbano|02
+31054|San Jorge|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2602|Urbano|02
+31054|Ampliación Unidad Proletaria|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2606|Urbano|02
+31054|Cerro Grande|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2597|Urbano|02
+31054|Loma Alta|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2600|Urbano|02
+31054|Valle Escondido|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2607|Urbano|02
+31054|Villa Dolores|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2608|Urbano|02
+31060|Lealtad I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2397|Urbano|02
+31060|Madera 65|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2402|Urbano|02
+31060|Rachali|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3871|Urbano|02
+31060|San Fernando|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2399|Urbano|02
+31060|Puerta del Sol|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2400|Urbano|02
+31060|San Rafael|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2392|Urbano|02
+31060|San Miguel|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2401|Urbano|02
+31060|Barrio de Londres|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2393|Urbano|02
+31060|La Joya|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2394|Urbano|02
+31060|Toribio Ortega|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2396|Urbano|02
+31060|La Minita|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2395|Urbano|02
+31063|Chulavista I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2684|Urbano|02
+31063|Manuel Bernardo Aguirre|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2692|Urbano|02
+31063|Leandro Valle o Puerto Rico|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2702|Urbano|02
+31063|Alianza Popular|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2683|Urbano|02
+31063|Dorados de Villa|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2689|Urbano|02
+31063|Mármol I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2693|Urbano|02
+31063|Cumbres del Sur II|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2687|Urbano|02
+31063|Desarrollo Urbano|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2688|Urbano|02
+31063|Mármol Viejo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2680|Urbano|02
+31063|Nueva España II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2698|Urbano|02
+31063|15 de Enero|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2681|Urbano|02
+31063|Lázaro Cárdenas y Etapas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2690|Urbano|02
+31063|Mármol III|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2695|Urbano|02
+31063|Nueva España I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2697|Urbano|02
+31063|Las Adelitas|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2701|Urbano|02
+31063|17 de Junio|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2682|Urbano|02
+31063|Puerta Esmeralda|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|9661|Urbano|02
+31063|Chulavista II|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2685|Urbano|02
+31063|Cumbres del Sur I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2686|Urbano|02
+31063|Mármol II|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2694|Urbano|02
+31064|Felipe Ángeles|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2724|Urbano|02
+31064|Miguel Hidalgo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2727|Urbano|02
+31064|Villa Juárez (Rancheria Juárez)|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2721|Urbano|02
+31064|27 de Febrero|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2722|Urbano|02
+31064|Ampliación Ricardo Flores Magón|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2738|Urbano|02
+31064|Libertad|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2725|Urbano|02
+31064|México 91|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2726|Urbano|02
+31064|Sector Emiliano Zapata|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2740|Urbano|02
+31064|Rigoberto Quiroz|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2731|Urbano|02
+31064|Ricardo Flores Magón|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2735|Urbano|02
+31064|División del Norte Etapa I, II y III|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3098|Urbano|02
+31064|Plan de Ayala|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2729|Urbano|02
+31064|Sector Reloj|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2732|Urbano|02
+31064|Ramón Mena|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2736|Urbano|02
+31064|Misael Núñez|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2728|Urbano|02
+31064|Rigoberto Quiroz|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2730|Urbano|02
+31064|Cecyt|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2737|Urbano|02
+31065|Granjas Cerro Grande|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2746|Urbano|02
+31065|Toribio Ortega|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2747|Urbano|02
+31065|Villas de Nueva España|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3913|Urbano|02
+31065|Ladrilleros|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4051|Urbano|02
+31065|Mezquites Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4049|Urbano|02
+31065|3 de Mayo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2744|Urbano|02
+31065|Clara Córdova|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2745|Urbano|02
+31065|Casa Blanca|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2749|Urbano|02
+31065|Vistas Cerro Grande|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3914|Urbano|02
+31065|La Soledad|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4054|Urbano|02
+31065|Las Cruces|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4053|Urbano|02
+31065|San Martín|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4055|Urbano|02
+31065|Los Llanos|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2750|Urbano|02
+31065|Secretaria de La Marina|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2752|Urbano|02
+31065|Jorge Barousse|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4052|Urbano|02
+31065|Vista Hermosa|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2748|Urbano|02
+31065|Luis Donaldo Colosio|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2751|Urbano|02
+31065|Ejidal|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2753|Urbano|02
+31065|Divisadero|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4011|Urbano|02
+31065|Las Margaritas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4050|Urbano|02
+31066|Valle Dorado|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2766|Urbano|02
+31066|María Isabel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3921|Urbano|02
+31066|Las Flores|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3922|Urbano|02
+31066|Valle del Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3924|Urbano|02
+31066|Sep|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2769|Urbano|02
+31066|Las Torres|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4067|Urbano|02
+31066|11 de Febrero|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2767|Urbano|02
+31066|Ampliación Valle Dorado|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2768|Urbano|02
+31066|Unidad Deportiva Sur|Equipamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||17|019|3920|Urbano|02
+31066|Granjas Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3923|Urbano|02
+31067|Instalaciones de Pemex|Zona industrial|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||37|019|3937|Urbano|02
+31074|Avalos|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2711|Urbano|02
+31074|Lucio Cabañas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3490|Urbano|02
+31074|Primero de Mayo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2712|Urbano|02
+31074|1ro de Mayo|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|3855|Urbano|02
+31074|Robinson|Zona industrial|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||37|019|2677|Urbano|02
+31074|Crucero|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2713|Urbano|02
+31074|Americana|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3489|Urbano|02
+31074|Veteranos de la Revolución|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3908|Urbano|02
+31074|Rinconada los Nogales|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3910|Urbano|02
+31075|San Ángel|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4058|Urbano|02
+31075|Diana Laura Rojas de Colosio|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3916|Urbano|02
+31075|El Huerto|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4056|Urbano|02
+31075|Nogales|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4057|Urbano|02
+31075|Bahías|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4059|Urbano|02
+31075|Las Garzas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4062|Urbano|02
+31075|Ampliación Crucero|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2756|Urbano|02
+31075|Fundadores|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3915|Urbano|02
+31075|México|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4061|Urbano|02
+31075|Cruz del Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2757|Urbano|02
+31075|Las Margaritas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2759|Urbano|02
+31075|Morse|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2758|Urbano|02
+31075|Olímpica|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4060|Urbano|02
+31076|Centro Industrial Ladrillero Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3358|Urbano|02
+31076|Aquiles Serdán|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3491|Urbano|02
+31076|Vistas de San Guillermo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|5675|Urbano|02
+31091|Centro SCT Chihuahua|Gran usuario|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||22|019|0025|Urbano|02
+31100|Roma V|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2535|Urbano|02
+31100|Vallarta Infonavit|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3428|Urbano|02
+31100|San Agustín|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|3888|Urbano|02
+31100|Lagos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2530|Urbano|02
+31100|Lomas Vallarta|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2532|Urbano|02
+31100|Roma IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2534|Urbano|02
+31100|Militar|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2529|Urbano|02
+31100|Roma III|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2533|Urbano|02
+31100|San Ignacio|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2536|Urbano|02
+31100|San Agustin|Zona comercial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||33|019|2537|Urbano|02
+31100|Las Granjas|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2528|Urbano|02
+31100|Karike|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2531|Urbano|02
+31100|Zaragoza|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2538|Urbano|02
+31100|San Jorge|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2539|Urbano|02
+31104|Chihuahua I|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2509|Urbano|02
+31104|Esperanza|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2510|Urbano|02
+31104|Francisco I Madero|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2511|Urbano|02
+31104|Miramar|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2513|Urbano|02
+31104|Kafra|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3883|Urbano|02
+31104|El Parralense|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3886|Urbano|02
+31104|Chihuahua II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3881|Urbano|02
+31104|Privanzza San Ángel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3981|Urbano|02
+31104|Basaseachi|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2505|Urbano|02
+31104|Brisas del Real I|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2506|Urbano|02
+31104|Rincón Parralense|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2516|Urbano|02
+31104|Lagos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3884|Urbano|02
+31104|Brisas del Real II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2507|Urbano|02
+31104|Insurgentes|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2512|Urbano|02
+31104|Riso Aros (Santa Clara)|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2514|Urbano|02
+31104|Rincón de Zaragoza|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3882|Urbano|02
+31104|Rincón del Lago|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2515|Urbano|02
+31104|Roma II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2517|Urbano|02
+31104|Floresta Residencial|Residencial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||30|019|2520|Urbano|02
+31104|Abraham González|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2503|Urbano|02
+31104|Altamira|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2504|Urbano|02
+31104|Santa Bárbara|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2518|Urbano|02
+31104|Satélite|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2519|Urbano|02
+31104|San Jorge Norte|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3885|Urbano|02
+31104|Parral|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2502|Urbano|02
+31104|Cerocahui|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2508|Urbano|02
+31104|Versalles|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2521|Urbano|02
+31105|Cosmos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2488|Urbano|02
+31105|Verde|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2492|Urbano|02
+31105|Francisco I. Madero Condominios|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|3879|Urbano|02
+31105|Los Saúcos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3496|Urbano|02
+31105|Termoeléctrica Sector|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2489|Urbano|02
+31105|Adolfo Lopez Mateos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2487|Urbano|02
+31105|Zona Industrial Nombre de Dios|Zona industrial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||37|019|2486|Urbano|02
+31105|Vicente Guerrero|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2490|Urbano|02
+31105|Privanza Ángel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4038|Urbano|02
+31106|Rincón Colonial|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3877|Urbano|02
+31106|San Guillermo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2473|Urbano|02
+31106|San Vicente|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2476|Urbano|02
+31106|Continental|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2471|Urbano|02
+31106|Reforma|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2475|Urbano|02
+31106|Quintas del Río|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3876|Urbano|02
+31106|Ángeles|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2472|Urbano|02
+31106|Río Grande|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2477|Urbano|02
+31107|Los Frailes|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2545|Urbano|02
+31107|Panorámico|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2544|Urbano|02
+31107|San Pablo|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2547|Urbano|02
+31110|Paseo de las Moras|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3420|Urbano|02
+31110|Arboledas III|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3748|Urbano|02
+31110|Arboledas V|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|4045|Urbano|02
+31110|Colinas del Sol I y II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2552|Urbano|02
+31110|Los Mezquites|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2679|Urbano|02
+31110|Arboledas II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3403|Urbano|02
+31110|Saucito|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2678|Urbano|02
+31110|Arboledas I|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2550|Urbano|02
+31110|San Andrés|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2554|Urbano|02
+31110|Lomas los Frailes|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4016|Urbano|02
+31110|Arboledas IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2551|Urbano|02
+31110|Lomas del Sol II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2553|Urbano|02
+31110|Los Encinos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3417|Urbano|02
+31110|Argentina|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2555|Urbano|02
+31110|Los Encinos II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3856|Urbano|02
+31114|Colinas del Sol III|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2567|Urbano|02
+31114|Charros|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2566|Urbano|02
+31114|Complejo Industrial las Américas|Parque industrial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||26|019|2577|Urbano|02
+31114|Lomas América|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3678|Urbano|02
+31114|Brasilia|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2565|Urbano|02
+31114|Lomas del Sol I|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2564|Urbano|02
+31114|Plaza Saucito|Zona comercial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||33|019|3889|Urbano|02
+31115|Punto Alto E-2|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|1000|Urbano|02
+31115|San Francisco III|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2587|Urbano|02
+31115|Valle del Angel|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2595|Urbano|02
+31115|Cerrada del Parque|Residencial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||30|019|4044|Urbano|02
+31115|San Francisco I|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2585|Urbano|02
+31115|Valle del Ángel I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3891|Urbano|02
+31115|Rincones de San Francisco|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3894|Urbano|02
+31115|San Francisco VI|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2590|Urbano|02
+31115|Residencial Campestre San Francisco|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3424|Urbano|02
+31115|Misión del Bosque|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2594|Urbano|02
+31115|Las Misiones I, II, III y IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3890|Urbano|02
+31115|Country Club San Francisco|Residencial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||30|019|3895|Urbano|02
+31115|Villa Toscana|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3896|Urbano|02
+31115|Misión del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4113|Urbano|02
+31115|San Francisco V|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2589|Urbano|02
+31115|Jardines de San Francisco II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2593|Urbano|02
+31115|Bosques de San Francisco I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3892|Urbano|02
+31115|Cerrada la Cantera|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3893|Urbano|02
+31115|Misión del Valle II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4114|Urbano|02
+31115|Las Canteras|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|5764|Urbano|02
+31115|San Francisco II|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2586|Urbano|02
+31115|San Francisco IV|Condominio|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||10|019|2588|Urbano|02
+31115|Jardines de San Francisco I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2592|Urbano|02
+31116|Privanza Puente de Piedra|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|0007|Urbano|02
+31120|Churubusco|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2666|Urbano|02
+31120|Infonavit Nacional|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2665|Urbano|02
+31120|Lourdes|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2669|Urbano|02
+31120|Paquime|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2670|Urbano|02
+31120|Lomas Karike|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2668|Urbano|02
+31120|Laura Leticia|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2667|Urbano|02
+31120|Vallarta|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3903|Urbano|02
+31123|Rincones del Pedregal|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3907|Urbano|02
+31123|Bahia de Los Ángeles|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3904|Urbano|02
+31123|Ignacio Rodriguez|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2718|Urbano|02
+31123|Rincón Soberano|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3905|Urbano|02
+31123|Álamos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3911|Urbano|02
+31123|Diego Lucero|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2676|Urbano|02
+31123|Lomas Universidad III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2709|Urbano|02
+31123|Rinconada Universidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3425|Urbano|02
+31123|Complejo Industrial El Saucito|Parque industrial|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||26|019|2703|Urbano|02
+31123|Lomas Universidad I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2720|Urbano|02
+31123|Jardines del Saucito|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3499|Urbano|02
+31123|Barrancas|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3906|Urbano|02
+31123|Lomas Universidad II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2708|Urbano|02
+31123|Nuevo Paraíso|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2715|Urbano|02
+31123|Cumbres de San Francisco I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4048|Urbano|02
+31123|Bahías|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2706|Urbano|02
+31123|Lomas Universidad IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2710|Urbano|02
+31123|Felipe Ángeles|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2719|Urbano|02
+31124|Rinconada de La Sierra I, II, III, IV y V|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3680|Urbano|02
+31124|Riscos del Sol|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3714|Urbano|02
+31124|Loma Dorada|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3925|Urbano|02
+31124|Ignacio Allende|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2775|Urbano|02
+31124|Quintas Chihuahua|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3683|Urbano|02
+31124|Villa Dorada|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2779|Urbano|02
+31124|Nuevo Chihuahua|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3682|Urbano|02
+31124|Campo Bello Etapa I, II, III, IV, V y VI|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3723|Urbano|02
+31124|Los Claustros Universidad|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3929|Urbano|02
+31124|Loma Dorada|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2777|Urbano|02
+31124|Cumbres Universidad I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3409|Urbano|02
+31124|Jardínes Universidad II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3413|Urbano|02
+31124|Cordilleras I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3857|Urbano|02
+31124|Unidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2778|Urbano|02
+31124|Oscar Flores Sanchez|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2780|Urbano|02
+31124|Cordilleras|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3667|Urbano|02
+31124|Misiones Universidad I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3704|Urbano|02
+31124|Valle de San Lorenzo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|5700|Urbano|02
+31124|Jardines Universidad I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3414|Urbano|02
+31124|Riscos del Ángel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3794|Urbano|02
+31124|Rinconada Universidad I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3926|Urbano|02
+31124|Villas del Sol I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3927|Urbano|02
+31124|Solidaridad|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3928|Urbano|02
+31124|Constituyentes|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2776|Urbano|02
+31124|Las Lomas I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2784|Urbano|02
+31124|Cumbres Universidad II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3410|Urbano|02
+31124|Puerta del Valle I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3935|Urbano|02
+31125|Cafetales|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3404|Urbano|02
+31125|Las Delicias|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3919|Urbano|02
+31125|Deportistas|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2762|Urbano|02
+31125|México 68|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2763|Urbano|02
+31125|Ampliación Insurgentes|Ampliación|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||38|019|2764|Urbano|02
+31125|Insurgentes II|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2772|Urbano|02
+31125|Paseos de Chihuahua I y II|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2809|Urbano|02
+31125|Insurgentes I|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2771|Urbano|02
+31125|Bosques de San Pedro|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3946|Urbano|02
+31125|Real Universidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2765|Urbano|02
+31125|Rinconada de Cervantes|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3716|Urbano|02
+31125|Campus II Uach|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3917|Urbano|02
+31125|Valle de San Pedro|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4225|Urbano|02
+31125|Los Huertos|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3374|Urbano|02
+31125|Jardines del Paseo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3938|Urbano|02
+31125|Paseos del Real|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3939|Urbano|02
+31125|Ampliación Insurgentes|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|4063|Urbano|02
+31125|Los Arroyos I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3416|Urbano|02
+31125|Rincón de Los Huertos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3418|Urbano|02
+31125|Santa Teresa|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3918|Urbano|02
+31125|Felipe Ángeles|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2773|Urbano|02
+31125|Residencial Universidad|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2848|Urbano|02
+31125|Quintas de San Sebastián|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3501|Urbano|02
+31125|Deportistas|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2761|Urbano|02
+31125|Renovación|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2774|Urbano|02
+31125|Jardines de La Mancha|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3940|Urbano|02
+31126|Adriana|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2658|Urbano|02
+31126|Santa Bárbara|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2660|Urbano|02
+31126|24 de Junio|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2651|Urbano|02
+31126|Santa Rosa y Anexo|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2652|Urbano|02
+31126|Santa Monica|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2661|Urbano|02
+31126|22 de Septiembre|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3676|Urbano|02
+31126|Torres Rey|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2657|Urbano|02
+31126|Majalca|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3679|Urbano|02
+31126|Tierra y Libertad|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2650|Urbano|02
+31126|Lomas San José|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2654|Urbano|02
+31126|Santa Elena|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|0017|Urbano|02
+31126|Lomas San José|Ampliación|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||38|019|2656|Urbano|02
+31126|Casa Blanca|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3677|Urbano|02
+31126|San José y Ampliación|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2655|Urbano|02
+31126|Anexo Barbarita|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2659|Urbano|02
+31130|Las Vegas|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2642|Urbano|02
+31130|Latinoamericano|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2643|Urbano|02
+31130|Monaco|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2645|Urbano|02
+31130|Niños Héroes|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2646|Urbano|02
+31130|CTM (Ortiz)|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2639|Urbano|02
+31130|Juan Escutia|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2641|Urbano|02
+31130|Rincones de San Andrés|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2647|Urbano|02
+31130|Jardines del Norte o Mercedes|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2638|Urbano|02
+31130|Gloria|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2640|Urbano|02
+31134|La Franja|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2627|Urbano|02
+31134|Sector Independencia|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2629|Urbano|02
+31134|2 de Junio|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2630|Urbano|02
+31134|Ortiz|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3902|Urbano|02
+31134|San Patricio I y II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2628|Urbano|02
+31134|CTM|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|4041|Urbano|02
+31134|Oasis Revolución|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2625|Urbano|02
+31134|Industrias|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2626|Urbano|02
+31134|Grecia|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3901|Urbano|02
+31134|Francisco Villa (Villa Vieja y Villa Nueva)|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2633|Urbano|02
+31135|Francisco Domínguez|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2742|Urbano|02
+31135|Revolución|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2755|Urbano|02
+31135|CDP|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2741|Urbano|02
+31136|Chihuahua 2000 III Etapa|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2798|Urbano|02
+31136|Chihuahua 2000 II Etapa|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2797|Urbano|02
+31136|Alamedas|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2799|Urbano|02
+31136|Quintas Quijote I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2806|Urbano|02
+31136|Sergio de La Torre Hernandez I|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2807|Urbano|02
+31136|Chihuahua 2000 I Etapa|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2796|Urbano|02
+31136|José María Ponce de León|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2805|Urbano|02
+31136|Complejo Industrial Chihuahua|Parque industrial|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||26|019|2808|Urbano|02
+31136|Chihuahua 2094|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3703|Urbano|02
+31136|Chihuahua Siglo XXI|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3502|Urbano|02
+31137|20 Aniversario|Ampliación|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||38|019|2813|Urbano|02
+31137|Constituyentes|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2816|Urbano|02
+31137|Juan Guereca|Ampliación|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||38|019|2821|Urbano|02
+31137|Marielena Hernandez|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2830|Urbano|02
+31137|Atanacio Ortega|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2838|Urbano|02
+31137|Fuentes de Chihuahua|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2844|Urbano|02
+31137|Real de Santa Eulalia|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3481|Urbano|02
+31137|El Porvenir II|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|4083|Urbano|02
+31137|El Porvenir III|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|5758|Urbano|02
+31137|Los Arcos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2814|Urbano|02
+31137|Inti Peredo|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2818|Urbano|02
+31137|Antorcha Popular|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2839|Urbano|02
+31137|Vida Digna|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2815|Urbano|02
+31137|Francisco Ruiz Massieu|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2817|Urbano|02
+31137|Miguel Sigala|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2824|Urbano|02
+31137|Santa Cecilia|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2831|Urbano|02
+31137|Villa Bonita|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3504|Urbano|02
+31137|Puerta Real|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3944|Urbano|02
+31137|Luis Donaldo Colosio|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2836|Urbano|02
+31137|Villas del Norte|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2845|Urbano|02
+31137|Plaza los Nogales|Zona comercial|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||33|019|3943|Urbano|02
+31137|San Pedro de Jesús Maldonado|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|4070|Urbano|02
+31137|Magisterial Solidaridad|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2823|Urbano|02
+31137|Niños Héroes|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2825|Urbano|02
+31137|Los Portales|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2827|Urbano|02
+31137|Pozos del Valle|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2828|Urbano|02
+31137|Tarahumara|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2833|Urbano|02
+31137|Luis Fuentes Mares|Ampliación|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||38|019|2843|Urbano|02
+31137|Condominos Comerciales Dumas I y II|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3411|Urbano|02
+31137|Sahuaros I, II y III|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3426|Urbano|02
+31137|Colonial de Minas|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3715|Urbano|02
+31137|20 Aniversario|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2812|Urbano|02
+31137|José Vasconcelos|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2819|Urbano|02
+31137|Rodolfo Fierro|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2829|Urbano|02
+31137|Vicente Guereca|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2834|Urbano|02
+31137|Vicente Guereca|Ampliación|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||38|019|2835|Urbano|02
+31137|Luis Fuentes Mares|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2837|Urbano|02
+31137|Villa del Real I, II, III, IV y V|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2841|Urbano|02
+31137|Progreso Nacional|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2842|Urbano|02
+31137|Juan Guereca|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2820|Urbano|02
+31137|Laderas|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2822|Urbano|02
+31137|Pedro Domínguez|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2826|Urbano|02
+31137|Solidaridad Popular|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2832|Urbano|02
+31137|El Porvenir I|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2840|Urbano|02
+31140|El Vergel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|2792|Urbano|02
+31140|Integración|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2793|Urbano|02
+31140|Nuevo Horizonte|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2795|Urbano|02
+31140|Nuevo Triunfo|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2789|Urbano|02
+31140|Santo Tomas|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2791|Urbano|02
+31140|Colonia México|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|4008|Urbano|02
+31140|Las Quintas|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2790|Urbano|02
+31143|Rancho las Conchitas|Ranchería|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||29|019|3948|Urbano|02
+31143|Las Torres|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3949|Urbano|02
+31143|Rancho Las Conchitas|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|4072|Urbano|02
+31143|Roberto Orozco|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3950|Urbano|02
+31144|El Mineral I,II,III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|0009|Urbano|02
+31144|Real de Minas|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3423|Urbano|02
+31144|Del Olmo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4068|Urbano|02
+31144|Minerales I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3412|Urbano|02
+31144|Los Olivos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3745|Urbano|02
+31146|Quinta San Miguel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|0019|Urbano|02
+31146|Real de Potreros|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3776|Urbano|02
+31146|Olimpo I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3936|Urbano|02
+31146|El Mineral I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4013|Urbano|02
+31146|Atenas I, II, III, IV, V y VI|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3506|Urbano|02
+31146|Jardines del Sacramento I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3507|Urbano|02
+31146|Quintas San Antonio I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3509|Urbano|02
+31146|Los Potreros|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3508|Urbano|02
+31146|Quintas Carolinas I, II, III, IV y V|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|2785|Urbano|02
+31146|Los Potreros II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4066|Urbano|02
+31150|Imperial|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2611|Urbano|02
+31150|Los Nogales|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2613|Urbano|02
+31150|Luz María|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2615|Urbano|02
+31150|Tec. de Monterrey|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3427|Urbano|02
+31150|Pedregal del Real|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|0021|Urbano|02
+31150|Claudia|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3897|Urbano|02
+31150|Nombre de Dios|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2610|Urbano|02
+31150|Morelos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2618|Urbano|02
+31150|Los Olimpos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3510|Urbano|02
+31150|Rincón de Los Ceresos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3898|Urbano|02
+31150|San Carlos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2617|Urbano|02
+31150|Leonardo Bravo|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2612|Urbano|02
+31150|Real San Juan|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2616|Urbano|02
+31150|Sacramento I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2614|Urbano|02
+31150|Unidad Cerrada Carolina|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3899|Urbano|02
+31150|Country Álamos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3684|Urbano|02
+31150|San Cristóbal|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3900|Urbano|02
+31153|Grutas de Nombre de Dios Chihuahua|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3947|Urbano|02
+31160|Paseo de las Misiones|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3742|Urbano|02
+31160|Rincones del Picacho|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3958|Urbano|02
+31160|Bosques del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4197|Urbano|02
+31160|Puerta de Sebastián|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|5765|Urbano|02
+31160|Universidad Regional del Norte|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|3959|Urbano|02
+31160|Bosque Real|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4076|Urbano|02
+31160|Caminos del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|0001|Urbano|02
+31160|Residencial Albaterra|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|0015|Urbano|02
+31160|Provincia de Santa Clara|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3777|Urbano|02
+31160|Rinconadas del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3960|Urbano|02
+31160|Encordadas del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|4014|Urbano|02
+31170|Palma Real I, II, III, IV, VI, VIII y X|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3957|Urbano|02
+31170|Las Aldabas I a La IX|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4075|Urbano|02
+31170|Foxconn|Zona industrial|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||37|019|3956|Urbano|02
+31180|Arcángel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3952|Urbano|02
+31180|San Gabriel I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3951|Urbano|02
+31180|Villas del Rey I, II y III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3512|Urbano|02
+31183|Parque Industrial Supra|Parque industrial|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||26|019|3371|Urbano|02
+31183|Rincón de los Olivos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3743|Urbano|02
+31183|Lomas Montecarlo|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|5754|Urbano|02
+31183|Olivar de Castilla|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|5755|Urbano|02
+31183|Parque Industrial Impulso VII y VIII|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4009|Urbano|02
+31183|Parque Industrial Impulso Habitacional|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4074|Urbano|02
+31183|Campestre las Carolinas|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3405|Urbano|02
+31183|Quintas Montecarlo II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|4117|Urbano|02
+31183|Real Carolinas I, II, III y IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3681|Urbano|02
+31183|Quintas Montecarlo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3705|Urbano|02
+31183|Jardines del Sol|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3675|Urbano|02
+31183|Granjas del Valle|Granja|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||23|019|3953|Urbano|02
+31183|Villas del Rey V|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|3954|Urbano|02
+31183|Parque Industrial Impulso|Parque industrial|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||26|019|3955|Urbano|02
+31184|Agrícola Francisco Villa|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|4082|Urbano|02
+31184|Riberas del Sacramento I y II|Colonia|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||09|019|3514|Urbano|02
+31184|Vistas del Norte|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31132|08|31132||21|019|0002|Urbano|02
+31186|Centro Ladrillero Norte|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|4081|Urbano|02
+31200|Rincones de La Cima|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|2371|Urbano|02
+31200|Unidad Burócrata|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2373|Urbano|02
+31200|De La Madre (10 de Mayo)|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2369|Urbano|02
+31200|Silvino Rodriguez|Unidad habitacional|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||31|019|3515|Urbano|02
+31200|Carlos Guizar|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|2367|Urbano|02
+31200|Residencial Nieves|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2372|Urbano|02
+31200|Santo Niño|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2246|Urbano|02
+31200|Abelardo Rodriguez|Unidad habitacional|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||31|019|2247|Urbano|02
+31200|Magisterial Universidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2366|Urbano|02
+31200|Altavista|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2248|Urbano|02
+31200|Unidad Tecnológico|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2368|Urbano|02
+31203|Vicente Guerrero|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2264|Urbano|02
+31203|Parques de San Felipe|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2267|Urbano|02
+31203|Ampliación Parques de San Felipe|Ampliación|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||38|019|2268|Urbano|02
+31203|Unidad Universidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2270|Urbano|02
+31203|Adición Sur Universidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2263|Urbano|02
+31203|San Felipe III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2258|Urbano|02
+31203|San Felipe Viejo|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2269|Urbano|02
+31203|San Felipe V|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2260|Urbano|02
+31203|San Felipe I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2256|Urbano|02
+31203|Angel Trías|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2261|Urbano|02
+31203|San Felipe II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2257|Urbano|02
+31203|San Felipe IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2259|Urbano|02
+31203|Leones Universidad|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2262|Urbano|02
+31204|Emiliano Zapata|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2277|Urbano|02
+31204|El Palomar|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2276|Urbano|02
+31204|Ramón Mena|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2278|Urbano|02
+31205|Las Palmas|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2288|Urbano|02
+31205|Fuentes del Santuario|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2293|Urbano|02
+31205|Mirador|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2285|Urbano|02
+31205|Arquitos|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2289|Urbano|02
+31205|La Lomita|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2287|Urbano|02
+31205|Vista Hermosa|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2291|Urbano|02
+31205|Rinconada Taurina|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|0022|Urbano|02
+31205|Los Sicomoros|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2286|Urbano|02
+31205|Unidad Chihuahua|Unidad habitacional|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||31|019|2290|Urbano|02
+31206|Lomas del Santuario II Etapa|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2298|Urbano|02
+31206|Abraham González|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|2308|Urbano|02
+31206|Avícola II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2309|Urbano|02
+31206|Lomas del Santuario I Etapa|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2297|Urbano|02
+31206|Vista del Sol|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2301|Urbano|02
+31206|Pablo Gómez|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2313|Urbano|02
+31206|Rincones La Herradura III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2314|Urbano|02
+31206|Herradura La Salle II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2312|Urbano|02
+31206|Condominios FOVISSSTE|Condominio|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||10|019|2310|Urbano|02
+31206|Jardines del Santuario|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2300|Urbano|02
+31206|Herradura La Salle I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2311|Urbano|02
+31207|Lomas Altas I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2322|Urbano|02
+31207|Lomas Altas III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2324|Urbano|02
+31207|Las Fuentes I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2325|Urbano|02
+31207|Cerrada Vista Real|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|3653|Urbano|02
+31207|Senda Real|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|5687|Urbano|02
+31207|Cerrada Andalucia|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|5763|Urbano|02
+31207|Diamante Reliz|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3862|Urbano|02
+31207|Lomas del Rejón|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3864|Urbano|02
+31207|Lomas Altas V|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4023|Urbano|02
+31207|Puerta de Hierro I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2329|Urbano|02
+31207|Fuentes del Sol|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3861|Urbano|02
+31207|Puerta de Hierro IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4025|Urbano|02
+31207|Lomas Altas IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4032|Urbano|02
+31207|Lomas Altas II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2323|Urbano|02
+31207|Las Fuentes II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2326|Urbano|02
+31207|Las Fuentes IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2328|Urbano|02
+31207|Avícola I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2320|Urbano|02
+31207|Las Fuentes III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2327|Urbano|02
+31207|Puerta de Hierro II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2330|Urbano|02
+31207|Las Fuentes|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3860|Urbano|02
+31207|Encordada del Bosque|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3868|Urbano|02
+31207|Puerta de Hierro III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4024|Urbano|02
+31207|Verandah Residencial|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|5699|Urbano|02
+31208|Castello Residencial|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|0008|Urbano|02
+31210|Uruguay|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|3666|Urbano|02
+31210|San Felipe VI|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|4022|Urbano|02
+31210|Presidentes|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2387|Urbano|02
+31210|Recursos Hidráulicos|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2388|Urbano|02
+31210|Panamericana|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2383|Urbano|02
+31210|Progreso|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2391|Urbano|02
+31210|Rincón de San Felipe|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|4020|Urbano|02
+31210|Américas|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2384|Urbano|02
+31210|Burócrata Estatal|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2385|Urbano|02
+31210|Fidel Velázquez|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2389|Urbano|02
+31210|Americas Ampliación|Ampliación|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||38|019|4006|Urbano|02
+31213|Campestre Residencial III|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2435|Urbano|02
+31213|Club Campestre|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2438|Urbano|02
+31213|Campanario IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2442|Urbano|02
+31213|Campestre Residencial I|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2433|Urbano|02
+31213|Campanario|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2437|Urbano|02
+31213|Campanario III c|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2445|Urbano|02
+31213|Campanario III b|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2444|Urbano|02
+31213|Vistas Campestre|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2439|Urbano|02
+31213|Campanario II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2440|Urbano|02
+31213|Monte Vesubio|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3872|Urbano|02
+31213|Campestre Residencial II|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2434|Urbano|02
+31213|Campestre Residencial IV|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2436|Urbano|02
+31213|Campanario III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2441|Urbano|02
+31213|Campanario III a|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2443|Urbano|02
+31214|Montana|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2412|Urbano|02
+31214|Virreyes I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2413|Urbano|02
+31214|Quintas del Sol|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2404|Urbano|02
+31214|Argeo|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2405|Urbano|02
+31214|La Cañada|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2406|Urbano|02
+31214|Lomas La Salle II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2411|Urbano|02
+31214|Quintas del Sol III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|4047|Urbano|02
+31214|Las Águilas|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2409|Urbano|02
+31214|Lomas La Salle I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2410|Urbano|02
+31214|Virreyes II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2414|Urbano|02
+31214|Vermont|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2415|Urbano|02
+31214|Denver|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4010|Urbano|02
+31214|Quintas Campestre|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4029|Urbano|02
+31214|Quintas del Sol II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2407|Urbano|02
+31215|Haciendas III|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2428|Urbano|02
+31215|Paza Barroca|Zona comercial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||33|019|0003|Urbano|02
+31215|Hacienda Santa Fe|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2423|Urbano|02
+31215|Arcadas|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2424|Urbano|02
+31215|Los Cedros|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2425|Urbano|02
+31215|Residencial Campestre Washington|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|3406|Urbano|02
+31215|Haciendas IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2429|Urbano|02
+31215|Haciendas II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2427|Urbano|02
+31215|La Escondida|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3863|Urbano|02
+31215|Haciendas I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2426|Urbano|02
+31216|Cumbres 4a Etapa|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|3408|Urbano|02
+31216|Cerrada de Cumbres|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3874|Urbano|02
+31216|Rincón de Las Lomas II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4019|Urbano|02
+31216|Residencial Cumbre V|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|4034|Urbano|02
+31216|Lomas del Valle I y II|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|3517|Urbano|02
+31216|Cima Comercial|Zona comercial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||33|019|3873|Urbano|02
+31216|Cantera del Pedregal|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4037|Urbano|02
+31216|Pedregal del Valle|Condominio|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||10|019|0016|Urbano|02
+31216|Cumbres del Pedregal|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|3516|Urbano|02
+31216|Residencial La Cantera I, II, III, IV y V|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|3875|Urbano|02
+31216|Fuentes del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4036|Urbano|02
+31216|Residencial Cumbres III|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2464|Urbano|02
+31216|Rincón de Las Lomas I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|3498|Urbano|02
+31216|Cima de La Cantera|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|4035|Urbano|02
+31216|Plaza Hollywood|Zona comercial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||33|019|2465|Urbano|02
+31217|Residencial Cumbres I|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2457|Urbano|02
+31217|Haciendas del Valle I|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2453|Urbano|02
+31217|Monte Vesubio|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|3518|Urbano|02
+31217|Haciendas del Valle II|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2454|Urbano|02
+31217|Colinas del Valle|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2456|Urbano|02
+31217|Residencial Cumbres II|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|2458|Urbano|02
+31217|Plazas las Haciendas|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|3421|Urbano|02
+31217|Residencial Cumbre IV|Residencial|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||30|019|4033|Urbano|02
+31220|Haciendas Real|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|4178|Urbano|02
+31220|Poblado San Vicente|Pueblo|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||28|019|3340|Urbano|02
+31220|Poblado La Haciendita|Pueblo|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||28|019|3341|Urbano|02
+31220|Ejido Labor de Dolores|Ejido|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||15|019|3346|Urbano|02
+31220|Monteverde I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|0013|Urbano|02
+31220|Monteverde II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|0014|Urbano|02
+31220|Hacienda Isabella|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4015|Urbano|02
+31220|Hacienda Carlota|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4077|Urbano|02
+31220|Hacienda Camila|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||21|019|4079|Urbano|02
+31220|Poblado Labor de Terrazas o Portillo|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|3347|Urbano|02
+31223|Ejido Labor de Terrazas|Ejido|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||15|019|3344|Urbano|02
+31223|Rancho Suárez|Pueblo|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||28|019|4018|Urbano|02
+31223|Área Recreativa El Herradero|Equipamiento|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||17|019|4080|Urbano|02
+31300|Barrio del Norte|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2345|Urbano|02
+31300|San Juan Bautista|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2349|Urbano|02
+31300|El Vallecito|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2346|Urbano|02
+31300|Vistas del Sacramento|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2354|Urbano|02
+31300|Claudia|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2357|Urbano|02
+31300|Lince III|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2351|Urbano|02
+31300|San Marcos|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2356|Urbano|02
+31300|Junta de los Ríos y Etapas|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2347|Urbano|02
+31300|Junta de los Ríos "B" Ampl|Ampliación|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||38|019|2353|Urbano|02
+31300|San Francisco|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2355|Urbano|02
+31300|Rincón del Arcángel|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|3795|Urbano|02
+31300|San Cristóbal|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2348|Urbano|02
+31300|Lince I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||21|019|2350|Urbano|02
+31300|San Rene|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2352|Urbano|02
+31300|Arcadias II|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2344|Urbano|02
+31304|Hacienda de La Flor|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2232|Urbano|02
+31304|La Junta|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2234|Urbano|02
+31304|Ferrocarrilera|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2235|Urbano|02
+31304|Industrial|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2231|Urbano|02
+31304|Josefa Ortiz de Domínguez|Colonia|Chihuahua|Chihuahua|Chihuahua|31001|08|31001||09|019|2233|Urbano|02
+31310|Cerro Prieto|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2339|Urbano|02
+31310|Rodolfo Aguilar|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2341|Urbano|02
+31310|Paso del Norte|Colonia|Chihuahua|Chihuahua|Chihuahua|31102|08|31102||09|019|2340|Urbano|02
+31313|Residencial El León|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3665|Urbano|02
+31313|Rancho Guadalupe (Labor de Guadalupe)|Ranchería|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||29|019|2335|Urbano|02
+31313|Granjas Familiares Valle de Chihuahua|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2336|Urbano|02
+31313|Romanzza|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4027|Urbano|02
+31313|Colinas del León|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3664|Urbano|02
+31313|Encordada de León|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4028|Urbano|02
+31313|Praderas de León|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4115|Urbano|02
+31313|Quinta Versalles|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4116|Urbano|02
+31313|Rincones del Valle|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4084|Urbano|02
+31313|Romance|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|5751|Urbano|02
+31313|Paseo de los Leones|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|0020|Urbano|02
+31314|Las Pistas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3367|Urbano|02
+31314|Florida|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4069|Urbano|02
+31314|Lindavista|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3366|Urbano|02
+31350|Popular I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2236|Urbano|02
+31350|Benito Juárez CNOP|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2239|Urbano|02
+31350|Chihuahuense|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4021|Urbano|02
+31350|Tiradores|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2244|Urbano|02
+31350|Barrio El Bajo|Barrio|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||02|019|4031|Urbano|02
+31350|Popular II|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2237|Urbano|02
+31350|Obrera|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2242|Urbano|02
+31350|Cazadores|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2240|Urbano|02
+31350|Roma Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2243|Urbano|02
+31350|Montecarlo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2245|Urbano|02
+31350|Arquitectos|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2238|Urbano|02
+31350|Che Guevara|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2241|Urbano|02
+31370|Rubén Jaramillo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2377|Urbano|02
+31370|Independencia|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2382|Urbano|02
+31370|Plomeros|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2376|Urbano|02
+31370|Porticos de Bella Cumbre|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|5724|Urbano|02
+31370|Rubén Jaramillo|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2378|Urbano|02
+31370|Lealtad|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2374|Urbano|02
+31375|Obrera Vista Avalos|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2582|Urbano|02
+31375|24 de Febrero|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4043|Urbano|02
+31375|Manuel Buendía|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2580|Urbano|02
+31375|Palestina Concordia|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2570|Urbano|02
+31375|Antiguo Lienzo Charro|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2579|Urbano|02
+31375|Sector 3 Robinson|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2583|Urbano|02
+31375|Charreria|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4007|Urbano|02
+31375|Arturo Gamiz|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2571|Urbano|02
+31375|El Torreón|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2576|Urbano|02
+31375|2 de Octubre y Ampliación|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2578|Urbano|02
+31375|Ladrilleros|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3298|Urbano|02
+31375|Arturo Gamiz Ampliación|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4042|Urbano|02
+31375|Ampliación Arturo Gamiz|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2572|Urbano|02
+31375|Las Acacias|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2573|Urbano|02
+31375|Robinson Sector IV|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2575|Urbano|02
+31375|Robinson Residencial|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2574|Urbano|02
+31375|Melchor Ocampo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2581|Urbano|02
+31376|Santo Domingo|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3492|Urbano|02
+31376|Ejido Rancho de En Medio|Ejido|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||15|019|4012|Urbano|02
+31376|Tabalaopa|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2556|Urbano|02
+31376|Los Girasoles|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2557|Urbano|02
+31376|Antigua Hacienda Tabaloapa|Ampliación|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||38|019|2563|Urbano|02
+31376|Privada del Carruaje|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4017|Urbano|02
+31380|Los Nogales|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2704|Urbano|02
+31380|Fundadores|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3493|Urbano|02
+31384|Alamedas Rinconada Oriente|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3663|Urbano|02
+31384|Prados Sur I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|0011|Urbano|02
+31384|La Galera|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3494|Urbano|02
+31384|Parque Industrial Intermex Aeropuerto|Parque industrial|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||26|019|3662|Urbano|02
+31384|Sierra Azul|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2674|Urbano|02
+31384|Veredas del Sur|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|2675|Urbano|02
+31384|Quintas Juan Pablo|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|4005|Urbano|02
+31384|Los Naranjos|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4030|Urbano|02
+31384|Aeropuerto|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2673|Urbano|02
+31384|Acequias de Tabalaopa I y II|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3657|Urbano|02
+31384|Quintas Juan Pablo I, II, III y IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4046|Urbano|02
+31384|Viñedos California I y II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3658|Urbano|02
+31384|Rincones de Sierra Azul I, II, III y IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3661|Urbano|02
+31385|Puntas Naranjos Oriente I|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4064|Urbano|02
+31385|Praderas del Sur|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3931|Urbano|02
+31385|Jardines de Ote  Etapa I a La VIII|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3934|Urbano|02
+31385|Jardines de Oriente IX y X|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3932|Urbano|02
+31385|Sol de Oriente|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4065|Urbano|02
+31385|Tabalaopa|Ejido|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||15|019|3363|Urbano|02
+31385|Puerta Savona|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|0012|Urbano|02
+31385|Punta Oriente I, II, III, IV, V y VI|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3930|Urbano|02
+31385|Paseos del Camino Real I, II, III y IV|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|3933|Urbano|02
+31389|Aeropuerto General Roberto Fierro Villalobos|Aeropuerto|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||01|019|3360|Urbano|02
+31410|Begonias|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2304|Urbano|02
+31410|Guadalupe|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2294|Urbano|02
+31410|Campesina|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2295|Urbano|02
+31410|Campesina Nueva|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2305|Urbano|02
+31414|Ramón Reyes|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2317|Urbano|02
+31414|Esperanza|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2331|Urbano|02
+31414|Hidalgo (Morelos)|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2332|Urbano|02
+31414|Martín Lopez|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2334|Urbano|02
+31414|Alfredo Chávez|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3299|Urbano|02
+31414|Peña Blanca|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2316|Urbano|02
+31414|Morelos|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2319|Urbano|02
+31415|Campestre del Bosque|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2337|Urbano|02
+31415|Granjas Agropecuarias|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|3495|Urbano|02
+31415|Campestre las Alamedas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2338|Urbano|02
+31416|Los Pinos|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2522|Urbano|02
+31416|Universitaria Ampliación II|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2523|Urbano|02
+31416|Universitaria Bella Vista|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2526|Urbano|02
+31450|Las Animas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2548|Urbano|02
+31453|Zootecnia|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2662|Urbano|02
+31453|Granjas Universitarias|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2663|Urbano|02
+31455|Genaro Vázquez|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2635|Urbano|02
+31455|Valle de La Madrid|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2634|Urbano|02
+31456|Aire del Sur II|Fraccionamiento|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||21|019|4039|Urbano|02
+31456|Aires del Sur|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2543|Urbano|02
+31456|Las Malvinas|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2540|Urbano|02
+31456|Pavis Borunda|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2541|Urbano|02
+31460|David Alfaro Siqueiros|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2483|Urbano|02
+31460|Cerro de La Cruz|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2478|Urbano|02
+31460|Ramiro Valles|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2481|Urbano|02
+31460|PRI Municipal|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2484|Urbano|02
+31460|San Martin|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2480|Urbano|02
+31470|Unidad Cuauhtémoc|Unidad habitacional|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||31|019|2499|Urbano|02
+31470|Universitaria Ampliación I|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2500|Urbano|02
+31470|Margarita Maza de Juárez|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2495|Urbano|02
+31470|Brisas del Noroeste|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2497|Urbano|02
+31470|Burócrata Federal|Colonia|Chihuahua|Chihuahua|Chihuahua|31052|08|31052||09|019|2498|Urbano|02
+31620|El Charco|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0212|Rural|
+31620|El Sáuz|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0213|Rural|
+31620|La Casita|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0214|Rural|
+31620|Soto|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0215|Rural|
+31622|Enmedio|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0217|Rural|
+31622|Horcacitas|Estación|Chihuahua|Chihuahua||31001|08|31001||16|019|0218|Rural|
+31622|La Concordia|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0219|Rural|
+31623|Aguilares|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0220|Rural|
+31623|Meza|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0223|Rural|
+31623|El Trillo|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0221|Rural|
+31623|Guadalupe|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0222|Rural|
+31624|La Cieneguita|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0225|Rural|
+31624|El Terrero O Loma Bonita|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0224|Rural|
+31624|La Molina|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0226|Rural|
+31625|El Vallecillo|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0227|Rural|
+31625|La Haciendita|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0228|Rural|
+31625|La Noria|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0229|Rural|
+31626|Ejido Terrazas y Minas del Cobre|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0006|Rural|
+31627|El Sacramento|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0232|Rural|
+31627|Ocampo O Torreón|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0235|Rural|
+31627|Francisco I Madero O San Isidro Calabacillas|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0233|Rural|
+31627|La Soledad y Anexas|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0234|Rural|
+31627|El Jardín|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0231|Rural|
+31628|San Isidro O los Hoyos|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0240|Rural|
+31628|Cuauhtémoc|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0237|Rural|
+31628|Bellavista|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0236|Rural|
+31628|Hidalgo|Colonia|Chihuahua|Chihuahua||31001|08|31001||09|019|0238|Rural|
+31628|Nuevo Majalca|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0239|Rural|
+31630|El  Sáuz|Pueblo|Chihuahua|Chihuahua||31001|08|31001||28|019|3968|Rural|
+31630|Nuevo delicias|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0241|Rural|
+31631|La Esperanza|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0242|Rural|
+31632|Rancho Ojo Laguna|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0243|Rural|
+31633|El Faro|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0244|Rural|
+31633|Las Varas|Ranchería|Chihuahua|Chihuahua||31001|08|31001||29|019|0245|Rural|
+31633|Los Sauces|Ejido|Chihuahua|Chihuahua||31001|08|31001||15|019|0246|Rural|

@@ -1,0 +1,17 @@
+49900|Tecalitlán Centro|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3151|Semiurbano|45
+49902|Ejidal|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3870|Semiurbano|45
+49903|La Purísima|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3874|Semiurbano|45
+49903|Ed Romero|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3873|Semiurbano|45
+49903|El Porvenir|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3875|Semiurbano|45
+49903|Emiliano Zapata|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3869|Semiurbano|45
+49904|Revolución Mexicana|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3871|Semiurbano|45
+49904|Obrera Lázaro Cárdenas|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3868|Semiurbano|45
+49904|Sagrado Corazón|Colonia|Tecalitlán|Jalisco|Tecalitlán|49901|14|49901||09|087|3872|Semiurbano|45
+49910|El Casaco (Platanitos)|Rancho|Tecalitlán|Jalisco||49901|14|49901||48|087|0001|Rural|
+49910|La Purísima|Hacienda|Tecalitlán|Jalisco||49901|14|49901||24|087|3153|Rural|
+49915|La Miseria y Animas|Pueblo|Tecalitlán|Jalisco||49901|14|49901||28|087|3154|Rural|
+49920|Santiago|Hacienda|Tecalitlán|Jalisco||49901|14|49901||24|087|3155|Rural|
+49924|La Mesita|Ranchería|Tecalitlán|Jalisco||49901|14|49901||29|087|3156|Rural|
+49925|El Chayote|Ranchería|Tecalitlán|Jalisco||49901|14|49901||29|087|3157|Rural|
+49940|Ahuijullo|Pueblo|Tecalitlán|Jalisco||49901|14|49901||28|087|3158|Rural|
+49943|La Lajita|Colonia|Tecalitlán|Jalisco||49901|14|49901||09|087|4872|Rural|

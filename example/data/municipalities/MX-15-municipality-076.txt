@@ -1,0 +1,29 @@
+52100|San Mateo Atenco Centro|Colonia|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||09|076|1626|Rural|32
+52104|Cuauhtémoc|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7383|Urbano|32
+52104|Villas de Metepec San Mateo|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7385|Rural|32
+52104|El Dorado 1|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7388|Rural|32
+52104|El Dorado 2|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7389|Rural|32
+52104|Santa María|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1634|Semiurbano|32
+52104|Carlos Hank González|Unidad habitacional|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||31|076|1628|Urbano|32
+52104|La Magdalena|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1629|Semiurbano|32
+52104|San Juan|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1631|Semiurbano|32
+52104|San Miguel|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1632|Semiurbano|32
+52104|Vista Verde|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|8524|Urbano|32
+52104|San Francisco|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1630|Semiurbano|32
+52104|San Nicolás|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1633|Semiurbano|32
+52104|Santiago|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1635|Semiurbano|32
+52105|San Pedro|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1641|Semiurbano|32
+52105|La Concepción|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1639|Semiurbano|32
+52105|San Isidro|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1640|Semiurbano|32
+52105|Santa Elena|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|1642|Semiurbano|32
+52105|Buenavista|Colonia|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||09|076|1638|Urbano|32
+52105|Álvaro Obregón|Colonia|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||09|076|1637|Urbano|32
+52106|Francisco I. Madero|Colonia|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||09|076|1644|Rural|32
+52107|Olmos|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7384|Semiurbano|32
+52107|Guadalupe|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1647|Semiurbano|32
+52107|San Lucas|Barrio|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||02|076|1648|Semiurbano|32
+52107|Villas de Atenco|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|1649|Rural|32
+52107|Rinconada de San Carlos|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7387|Semiurbano|32
+52107|San Román|Fraccionamiento|San Mateo Atenco|México|San Mateo Atenco|52101|15|52101||21|076|7386|Semiurbano|32
+52110|Emiliano Zapata|Colonia|San Mateo Atenco|México||52101|15|52101||09|076|1643|Rural|
+52120|Reforma|Colonia|San Mateo Atenco|México||52101|15|52101||09|076|1646|Rural|

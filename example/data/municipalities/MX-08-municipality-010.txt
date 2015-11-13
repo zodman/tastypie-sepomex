@@ -1,0 +1,22 @@
+31880|Ricardo Flores Magón|Barrio|Buenaventura|Chihuahua||31701|08|31701||02|010|0443|Rural|
+31881|La Constitución|Pueblo|Buenaventura|Chihuahua||31892|08|31892||28|010|0444|Rural|
+31883|Lerdo de Tejada|Ranchería|Buenaventura|Chihuahua||31892|08|31892||29|010|0445|Rural|
+31884|Benito Juárez|Ejido|Buenaventura|Chihuahua||31701|08|31701||15|010|0446|Rural|
+31885|El Progreso|Pueblo|Buenaventura|Chihuahua||31892|08|31892||28|010|0447|Rural|
+31885|San Luis|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|0448|Rural|
+31890|Buenaventura|Pueblo|Buenaventura|Chihuahua||31892|08|31892||28|010|0450|Rural|
+31890|Las Flores|Barrio|Buenaventura|Chihuahua||31892|08|31892||02|010|0452|Rural|
+31890|Carvajal|Barrio|Buenaventura|Chihuahua||31892|08|31892||02|010|0451|Rural|
+31891|Rodrigo M Quevedo|Pueblo|Buenaventura|Chihuahua||31701|08|31701||28|010|0453|Rural|
+31893|Vado de Santa María|Ranchería|Buenaventura|Chihuahua||31892|08|31892||29|010|5653|Rural|
+31894|San Lorenzo|Ranchería|Buenaventura|Chihuahua||31701|08|31701||29|010|0455|Rural|
+31895|Centro|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2850|Rural|
+31896|Las Manzanas|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2852|Rural|
+31896|Carmeño|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2851|Rural|
+31897|Juan Pablo II|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2855|Rural|
+31897|Chamizal|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2856|Rural|
+31897|Villas del Sol|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2854|Rural|
+31897|Del Seguro|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2853|Rural|
+31898|El Progreso|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2857|Rural|
+31899|Guadalupano|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2858|Rural|
+31899|El Molino|Colonia|Buenaventura|Chihuahua||31892|08|31892||09|010|2859|Rural|

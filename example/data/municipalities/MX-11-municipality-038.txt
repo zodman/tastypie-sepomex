@@ -1,0 +1,48 @@
+38790|Tarandacuao Centro|Colonia|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||09|038|3179|Urbano|15
+38793|Barrio de Santiago|Barrio|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||02|038|0031|Urbano|15
+38793|Hacienda Vieja|Ranchería|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||29|038|3187|Urbano|15
+38794|Las Flores|Colonia|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||09|038|0033|Urbano|15
+38794|Guanajuatito|Colonia|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||09|038|3725|Urbano|15
+38794|El Pedregal|Colonia|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||09|038|3724|Urbano|15
+38794|Las Lomas|Colonia|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||09|038|3726|Urbano|15
+38794|El Cármen|Colonia|Tarandacuao|Guanajuato|Tarandacuao|38791|11|38791||09|038|0032|Urbano|15
+38795|El Crucero|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0005|Rural|
+38795|San Joaquín de Porto (La Posta)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0024|Rural|
+38795|Trinidad Mora Ortiz|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0030|Rural|
+38795|Sergio Alcantar|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0029|Rural|
+38795|La Virgen|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3183|Rural|
+38795|La Soledad|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3185|Rural|
+38795|La Escondida|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0012|Rural|
+38795|La Parada (La Loma del Encinal)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0013|Rural|
+38795|Rancho los Santos|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0022|Rural|
+38795|Las Cajas|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0015|Rural|
+38795|Cerrito Blanco|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0002|Rural|
+38795|Mario García|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0017|Rural|
+38796|Centude|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0001|Rural|
+38796|Saucillo Segundo|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0027|Rural|
+38796|El Jaral|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0006|Rural|
+38796|El Tocuz (San Rafael)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0007|Rural|
+38796|La Carbonera|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0011|Rural|
+38796|Puerta de Santa Lugarda|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0018|Rural|
+38796|La Purísima|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3182|Rural|
+38796|Rancho el Moral (Fernando Ríos)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0020|Rural|
+38796|San Felipe|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0023|Rural|
+38796|San Antonio|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3181|Rural|
+38796|Hacienda de la Concepción|Hacienda|Tarandacuao|Guanajuato||38791|11|38791||24|038|0009|Rural|
+38796|San José del Rodeo|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0025|Rural|
+38796|Saucillo Primero|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0026|Rural|
+38797|Serafín Hernández Pérez (Arroyo del Flaco)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0028|Rural|
+38797|Rancho Escondido|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0021|Rural|
+38797|Cerrito de Bermejo|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0003|Rural|
+38797|El Colorín|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0004|Rural|
+38797|El Guayabo (El Alacrán)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3191|Rural|
+38797|Emiliano Jiménez Hurtado|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0008|Rural|
+38797|San José de Porto (San José de Hidalgo)|Ejido|Tarandacuao|Guanajuato||38791|11|38791||15|038|3189|Rural|
+38797|Josefina Hurtado González|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0010|Rural|
+38797|Las Peñitas|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0016|Rural|
+38797|Puerta del Sol (Llano Largo)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0019|Rural|
+38797|La Mora|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3192|Rural|
+38798|Buenavista|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3186|Rural|
+38798|La Tapona (La Laguna)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|0014|Rural|
+38798|Paso de Ovejas (El Puente)|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3190|Rural|
+38798|San Juan de Dios|Ranchería|Tarandacuao|Guanajuato||38791|11|38791||29|038|3188|Rural|

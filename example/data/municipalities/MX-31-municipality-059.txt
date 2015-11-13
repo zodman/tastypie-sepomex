@@ -1,0 +1,26 @@
+97320|Vicente Guerrero|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0002|Urbano|
+97320|Ismael Garcia|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0613|Rural|
+97320|Hector Victoria|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|0976|Rural|
+97320|Ciénega 2000|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|1048|Rural|
+97320|Revolución|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0654|Rural|
+97320|Fovissste|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|1026|Rural|
+97320|F Canul Reyes|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0600|Rural|
+97320|Nueva Yucalpeten|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0642|Rural|
+97320|Las Palmas|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|1028|Rural|
+97320|Fovissste Brisas|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|1029|Rural|
+97320|Las Fuentes II|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0001|Urbano|
+97320|Francisco I. Madero|Colonia|Progreso|Yucatán||97323|31|97323||09|059|1049|Rural|
+97320|Costa Azul|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0978|Rural|
+97320|La Fuente|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|1025|Rural|
+97320|Costa Azul|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|0977|Rural|
+97320|23 de Noviembre|Unidad habitacional|Progreso|Yucatán||97323|31|97323||31|059|0979|Rural|
+97320|Juan Montalvo|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0620|Rural|
+97320|Progreso de Castro Centro|Colonia|Progreso|Yucatán||97323|31|97323||09|059|0277|Rural|
+97324|Flamboyanes|Fraccionamiento|Progreso|Yucatán||97323|31|97323||21|059|0281|Rural|
+97330|Chicxulub Puerto|Pueblo|Progreso|Yucatán||97323|31|97323||28|059|0282|Rural|
+97333|Misnebalam|Pueblo|Progreso|Yucatán||97323|31|97323||28|059|1369|Rural|
+97334|San Ignacio|Pueblo|Progreso|Yucatán||97323|31|97323||28|059|1368|Rural|
+97336|Chuburna Puerto|Pueblo|Progreso|Yucatán||97323|31|97323||28|059|0278|Rural|
+97336|Chelem|Pueblo|Progreso|Yucatán||97323|31|97323||28|059|0279|Rural|
+97336|Yucalpeten|Pueblo|Progreso|Yucatán||97323|31|97323||28|059|1370|Rural|
+97337|Muelle y Puerto de Altura|Zona federal|Progreso|Yucatán||97323|31|97323||34|059|1371|Rural|

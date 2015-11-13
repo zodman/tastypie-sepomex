@@ -1,0 +1,15 @@
+75020|Miravalles|Ranchería|Oriental|Puebla||73781|21|73781||29|108|2008|Rural|
+75020|Oriental|Pueblo|Oriental|Puebla||73781|21|73781||28|108|2009|Rural|
+75021|San Antonio Virreyes|Pueblo|Oriental|Puebla||73781|21|73781||28|108|2010|Rural|
+75023|San Antonio Virreyes|Colonia|Oriental|Puebla||73781|21|73781||09|108|8052|Rural|
+75023|Santa Cruz Magdalena|Pueblo|Oriental|Puebla||73781|21|73781||28|108|2012|Rural|
+75023|El Pedregal|Ranchería|Oriental|Puebla||73781|21|73781||29|108|8046|Rural|
+75024|Patrimonio Ejidal|Colonia|Oriental|Puebla||73781|21|73781||09|108|8045|Rural|
+75025|Amelaco|Hacienda|Oriental|Puebla||73781|21|73781||24|108|8051|Rural|
+75025|San Miguel Torija|Ranchería|Oriental|Puebla||73781|21|73781||29|108|8047|Rural|
+75026|Bosques del Paraíso|Colonia|Oriental|Puebla||73781|21|73781||09|108|8044|Rural|
+75026|Coxma (Faldas de Mazatepec)|Ranchería|Oriental|Puebla||73781|21|73781||29|108|8043|Rural|
+75029|El Puyol|Ranchería|Oriental|Puebla||73781|21|73781||29|108|8048|Rural|
+75029|San José|Colonia|Oriental|Puebla||73781|21|73781||09|108|8050|Rural|
+75029|San José Zacatepec|Hacienda|Oriental|Puebla||73781|21|73781||24|108|2013|Rural|
+75029|Jesús Carranza|Colonia|Oriental|Puebla||73781|21|73781||09|108|8049|Rural|

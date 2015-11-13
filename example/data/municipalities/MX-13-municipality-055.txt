@@ -1,0 +1,31 @@
+42620|Santiago de Anaya Centro|Colonia|Santiago de Anaya|Hidalgo||42501|13|42501||09|055|0690|Urbano|
+42621|La Blanca|Barrio|Santiago de Anaya|Hidalgo||42501|13|42501||02|055|0692|Rural|
+42621|Guerrero|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0691|Rural|
+42621|Los Cerritos|Barrio|Santiago de Anaya|Hidalgo||42501|13|42501||02|055|0693|Rural|
+42622|Jagüey|Poblado comunal|Santiago de Anaya|Hidalgo||42501|13|42501||27|055|5172|Rural|
+42622|El Sitio|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|0694|Rural|
+42622|Santa Mónica|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0695|Rural|
+42622|Xitzo|Poblado comunal|Santiago de Anaya|Hidalgo||42501|13|42501||27|055|5177|Rural|
+42622|El Contza|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5166|Rural|
+42622|Zaragoza|Barrio|Santiago de Anaya|Hidalgo||42501|13|42501||02|055|0696|Rural|
+42623|González González|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0689|Rural|
+42623|El Palmar|Barrio|Santiago de Anaya|Hidalgo||42501|13|42501||02|055|0697|Rural|
+42623|El Mezquital|Poblado comunal|Santiago de Anaya|Hidalgo||42501|13|42501||27|055|5167|Rural|
+42623|González Ortega|Poblado comunal|Santiago de Anaya|Hidalgo||42501|13|42501||27|055|5171|Rural|
+42624|Sección Norte|Colonia|Santiago de Anaya|Hidalgo||42501|13|42501||09|055|5161|Urbano|
+42625|Sección Sur|Colonia|Santiago de Anaya|Hidalgo||42501|13|42501||09|055|5160|Urbano|
+42626|El Águila|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5164|Rural|
+42627|La Corraleja|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5173|Rural|
+42627|La Loma del Conejo|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5174|Rural|
+42627|El Nopalillo|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5168|Rural|
+42627|Lomas de Guillén|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5175|Rural|
+42627|El Aguacate|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5165|Rural|
+42627|Cerro Gordo|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5162|Rural|
+42629|El Puerto|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5170|Rural|
+42629|El Porvenir|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5169|Rural|
+42629|El Encino|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0698|Rural|
+42629|Hermosillo Monte Noble|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0699|Rural|
+42629|Puerto Tavera|Ranchería|Santiago de Anaya|Hidalgo||42501|13|42501||29|055|5176|Rural|
+42630|Yolotepec|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0701|Rural|
+42630|El Mezquital|Ejido|Santiago de Anaya|Hidalgo||42501|13|42501||15|055|5163|Rural|
+42630|Patria Nueva|Pueblo|Santiago de Anaya|Hidalgo||42501|13|42501||28|055|0700|Rural|

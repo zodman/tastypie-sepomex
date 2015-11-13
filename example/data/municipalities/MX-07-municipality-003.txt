@@ -1,0 +1,220 @@
+30580|Nuevo Milenio|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3252|Urbano|
+30580|San Francisco|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3253|Urbano|
+30580|Zacualpita|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3394|Rural|
+30580|Chancala|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3251|Urbano|
+30580|Hular|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3258|Urbano|
+30580|Santa Cecilia|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3254|Urbano|
+30580|Guadalupano|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3255|Urbano|
+30580|Esquiúpula|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3257|Urbano|
+30580|Solidaridad|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3259|Urbano|
+30580|7 de Abril|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|0001|Urbano|
+30580|San Antonio|Barrio|Acapetahua|Chiapas||30581|07|30581||02|003|3256|Urbano|
+30580|Acapetahua|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1490|Rural|
+30582|Fracción Doña María|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|0004|Rural|
+30582|Once de Marzo|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|0005|Rural|
+30583|El Recuerdo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3263|Rural|
+30583|Las Dorias|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3265|Rural|
+30583|La Batalla|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3312|Rural|
+30583|El Corosal|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3318|Rural|
+30583|El Recuerdo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3333|Rural|
+30583|Esmeralda|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3367|Rural|
+30583|Soconusco|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|1498|Rural|
+30583|Jiquilpan (Estación Bonanza)|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|1500|Rural|
+30583|Ulapa|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3266|Rural|
+30583|Yoreme|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3267|Rural|
+30583|Dos Hermanos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3268|Rural|
+30583|El Texanito|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3271|Rural|
+30583|San Manuel|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3297|Rural|
+30583|Las Lomas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3300|Rural|
+30583|Vuelta Limón|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3307|Rural|
+30583|Jiquilpan (Nuevo Milenio)|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3309|Rural|
+30583|El Respingo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3314|Rural|
+30583|La Victoria|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3316|Rural|
+30583|Las Cruces|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3366|Rural|
+30583|Emilia|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3368|Rural|
+30583|San Juan|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3261|Rural|
+30583|El Manguito|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3304|Rural|
+30583|San Juan|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3305|Rural|
+30583|Nahualapa|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3311|Rural|
+30583|El Rosario|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3319|Rural|
+30583|Paloma Blanca|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3324|Rural|
+30583|El Paraíso|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3325|Rural|
+30583|Los Placeres|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3328|Rural|
+30583|El Pataste|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3299|Rural|
+30583|Los Cocos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3302|Rural|
+30583|La Pozona|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3306|Rural|
+30583|San Bernardino|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3308|Rural|
+30583|El Potrillo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3310|Rural|
+30583|San José Media Luna|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3317|Rural|
+30583|Jiquilpan (Rancho Quemado)|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1499|Rural|
+30583|Consuelo Uluapa|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1501|Rural|
+30583|El Fortín|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3296|Rural|
+30583|Tres Hermanos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3264|Rural|
+30583|El Otate|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3301|Rural|
+30583|Francisco Villa|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3303|Rural|
+30583|El Abanico|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3313|Rural|
+30583|Los Laureles (Chapala)|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3322|Rural|
+30583|Rosalinda|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3327|Rural|
+30583|El Jardín|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3332|Rural|
+30583|La Ilse|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3262|Rural|
+30583|La Primavera|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3274|Rural|
+30583|Los Cocos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3315|Rural|
+30583|Santa Lorena|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3260|Rural|
+30583|La Lagunilla|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3269|Rural|
+30583|Ayapango|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3298|Rural|
+30583|La Providencia|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3323|Rural|
+30583|La Joya|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3326|Rural|
+30584|Barrio Nuevo|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1496|Rural|
+30584|Los Cerritos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1503|Rural|
+30584|Maricarmen|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3335|Rural|
+30584|La Esmeralda|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3400|Rural|
+30584|Pampas del Silencio|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3413|Rural|
+30584|Centauro del Norte|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|0003|Rural|
+30584|San Juan Platanillo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3336|Rural|
+30584|Lupita|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3345|Rural|
+30584|El Vergel|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3393|Rural|
+30584|Relicario|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3403|Rural|
+30584|El Mangal|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3411|Rural|
+30584|Buena Vista|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3349|Rural|
+30584|San Isidro|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3377|Rural|
+30584|Santa Rosa|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3379|Rural|
+30584|El Diamante|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3396|Rural|
+30584|El Carmen|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3405|Rural|
+30584|Las Mercedes|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3408|Rural|
+30584|Sin Igual Fracción Dos (Cuarenta y Cinco)|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3412|Rural|
+30584|Papaturral|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3421|Rural|
+30584|El Porvenir|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3429|Rural|
+30584|Zacapulco|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3440|Rural|
+30584|Mariano Matamoros|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1493|Rural|
+30584|Laguna Seca|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3337|Rural|
+30584|Mactumatzá (La Granja)|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3338|Rural|
+30584|Tokio|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3341|Rural|
+30584|San Antonio|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3344|Rural|
+30584|Lupita Dos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3346|Rural|
+30584|El Rosado|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3347|Rural|
+30584|Las Morenas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3375|Rural|
+30584|Palo Blanco|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3376|Rural|
+30584|Balún Canán|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3384|Rural|
+30584|San Pedro|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3385|Rural|
+30584|Paraíso|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3392|Rural|
+30584|Las Mercedes|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3398|Rural|
+30584|José Manuel López Morales|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3404|Rural|
+30584|Guadalupe|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3417|Rural|
+30584|Las Delicias|Finca|Acapetahua|Chiapas||30581|07|30581||20|003|3439|Rural|
+30584|Las Conchas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3342|Rural|
+30584|Esther Zuno|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3402|Rural|
+30584|Rubén Jaramillo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3409|Rural|
+30584|Martín Cruz del Porte|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3415|Rural|
+30584|Las Cruces|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3420|Rural|
+30584|Las Garzas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3430|Rural|
+30584|Las Brisas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3435|Rural|
+30584|Las Vegas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3436|Rural|
+30584|Feliciana Hernández|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3441|Rural|
+30584|Colombia|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1497|Rural|
+30584|El Invierno|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3343|Rural|
+30584|Santa Elena Uno|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3378|Rural|
+30584|La Loma|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3406|Rural|
+30584|San Fernando|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3407|Rural|
+30584|Santo Domingo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3424|Rural|
+30584|Los Mangos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3426|Rural|
+30584|Río Negro|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1506|Rural|
+30584|Paso de Londres|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3339|Rural|
+30584|San Rafael|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3397|Rural|
+30584|El Desengaño|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3401|Rural|
+30584|Los Pinos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3423|Rural|
+30584|Los Cocos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3432|Rural|
+30584|El Madronal|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|1491|Rural|
+30584|La Pampita|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3334|Rural|
+30584|Guillermina Garduño|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3340|Rural|
+30584|Santa Teresita|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3348|Rural|
+30584|San Antonio|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3395|Rural|
+30584|Gilberto Santos Vera|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3399|Rural|
+30584|El Mirador|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3410|Rural|
+30584|El Almendro|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3416|Rural|
+30584|Santa Isabel|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3419|Rural|
+30584|Zacapulco la Bondad|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3422|Rural|
+30584|Chojón|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3434|Rural|
+30585|El Arenal|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|1502|Rural|
+30585|La Esperanza|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3383|Rural|
+30585|La Esperanza|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3387|Rural|
+30585|Santo Domingo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3390|Rural|
+30585|San Cayetano|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3450|Rural|
+30585|Emiliano Zapata|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3454|Rural|
+30585|Esperanza los Coquitos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3443|Rural|
+30585|Barra X Siete|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3456|Rural|
+30585|Río Arriba|Pueblo|Acapetahua|Chiapas||30581|07|30581||28|003|1494|Rural|
+30585|La Fortuna|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3388|Rural|
+30585|Las Morenas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3389|Rural|
+30585|San José|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3438|Rural|
+30585|Santa Clara|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3386|Rural|
+30585|Las Lauras|Zona federal|Acapetahua|Chiapas||30581|07|30581||34|003|3444|Rural|
+30585|Laurelar|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3445|Rural|
+30585|Los Ángeles|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3447|Rural|
+30585|Los Placeres|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3453|Rural|
+30585|Luis Espinosa|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1504|Rural|
+30585|El Paraíso|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3457|Rural|
+30585|Río Arriba (Nueva Esperanza)|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1505|Rural|
+30585|San Fernando|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3391|Rural|
+30585|La Ceiba|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3446|Rural|
+30585|Embarcadero Río Arriba|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3455|Rural|
+30585|Benito Juárez|Colonia|Acapetahua|Chiapas||30581|07|30581||09|003|0002|Rural|
+30585|La Palma|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1492|Rural|
+30585|El Progreso Uno|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3451|Rural|
+30586|15 de Abril|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3354|Rural|
+30586|Herrado|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3358|Rural|
+30586|Ignacio Allende|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3361|Rural|
+30586|Scorpio|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3362|Rural|
+30586|La Lupe|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3442|Rural|
+30586|Embarcadero las Garzas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1508|Rural|
+30586|Barra Zacapulco|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1507|Rural|
+30586|Limoncitos (San Juan de Los Lagos)|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3352|Rural|
+30586|El Progreso|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3360|Rural|
+30586|Amatillo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3359|Rural|
+30587|El Rubí|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3273|Rural|
+30587|Los Cocos|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3280|Rural|
+30587|Las Maravillas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3283|Rural|
+30587|La Fortuna|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3286|Rural|
+30587|El Huasteco|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3287|Rural|
+30587|Santa Elena (La Esperanza)|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1511|Rural|
+30587|San Francisco|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3272|Rural|
+30587|El Vergel|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3275|Rural|
+30587|Santa Teresita|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3281|Rural|
+30587|El Desengaño|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3284|Rural|
+30587|Los Nogales|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3295|Rural|
+30587|Villahermosa|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3330|Rural|
+30587|Almanazar Escobar|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3270|Rural|
+30587|Las Lomas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3278|Rural|
+30587|Las Gardenias|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3292|Rural|
+30587|Los Cascabeles|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3293|Rural|
+30587|El Diamante|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3321|Rural|
+30587|Las Delicias|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3356|Rural|
+30587|La Vainilla|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3365|Rural|
+30587|Absalón Castellanos Domínguez|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3371|Rural|
+30587|El Afortunado|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3290|Rural|
+30587|La Esperanza|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3294|Rural|
+30587|El Coco|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3320|Rural|
+30587|El Paraíso|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3331|Rural|
+30587|El Chilar|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3350|Rural|
+30587|20 de Abril|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3364|Rural|
+30587|San Esteban|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3374|Rural|
+30587|San José las Gaviotas|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3382|Rural|
+30587|Las Mercedes|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1509|Rural|
+30587|El Paraíso|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3282|Rural|
+30587|Santa Rosa|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3329|Rural|
+30587|San Juan|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3369|Rural|
+30587|San José Aguajal|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|1510|Rural|
+30587|Las Flores|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3276|Rural|
+30587|Las Flores|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3277|Rural|
+30587|El Roble|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3279|Rural|
+30587|Sin Pensar|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3288|Rural|
+30587|La Laguna|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3291|Rural|
+30587|Las Murallas|Ejido|Acapetahua|Chiapas||30581|07|30581||15|003|3351|Rural|
+30587|Ángel Matías|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3355|Rural|
+30587|Berlín|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3372|Rural|
+30587|Zacatonal|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3373|Rural|
+30587|El Regalo|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3285|Rural|
+30587|El Diamante|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3289|Rural|
+30587|Núñez|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3363|Rural|
+30587|La Alianza|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3370|Rural|
+30587|Argentina|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3380|Rural|
+30587|Solo Dios|Ranchería|Acapetahua|Chiapas||30581|07|30581||29|003|3381|Rural|

@@ -1,0 +1,47 @@
+75090|Xopanapa|Pueblo|Chichiquila|Puebla||75041|21|75041||28|050|2089|Rural|
+75090|Acatla|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2085|Rural|
+75090|Chichiquila|Pueblo|Chichiquila|Puebla||75041|21|75041||28|050|2086|Rural|
+75090|Nenehuacan|Pueblo|Chichiquila|Puebla||75041|21|75041||28|050|2088|Rural|
+75090|Huaxcaleca|Pueblo|Chichiquila|Puebla||75041|21|75041||28|050|2087|Rural|
+75092|Xochimilco|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7898|Rural|
+75092|Rinconada|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7897|Rural|
+75092|Guadalupe|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2091|Rural|
+75092|Santiago|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7902|Rural|
+75092|Comalapa|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2090|Rural|
+75092|San Luis Esperanza|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7909|Rural|
+75092|San José de las Flores|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7918|Rural|
+75092|La Providencia|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7919|Rural|
+75093|San Diego del Palmar|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7911|Rural|
+75093|Vistahermosa|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|6794|Rural|
+75093|Loma de las Flores|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7892|Rural|
+75093|Loma Bonita|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7899|Rural|
+75093|Santa Cecilia|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7891|Rural|
+75093|El Rosario|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7905|Rural|
+75093|San Juan|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7893|Rural|
+75093|Ermita|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7900|Rural|
+75093|San Antonio|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7904|Rural|
+75093|Del Carmen|Barrio|Chichiquila|Puebla||75041|21|75041||02|050|7908|Rural|
+75093|El Mirador|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7906|Rural|
+75093|Cinco de Mayo|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7907|Rural|
+75095|Pueblo Nuevo la Candelaria (El Plan)|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7895|Rural|
+75095|Xochihuixtla|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7914|Rural|
+75095|Xochimilco|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7913|Rural|
+75095|Ojo de Agua|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2092|Rural|
+75095|San José Acatla Chico|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2093|Rural|
+75096|El Triunfo|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2094|Rural|
+75096|Lancho|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7901|Rural|
+75096|Xala|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7903|Rural|
+75096|Rancho Nuevo|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2095|Rural|
+75096|San José|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7894|Rural|
+75096|Ocotitlán|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7896|Rural|
+75096|Dos Ríos|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7920|Rural|
+75097|Acalocotla|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7923|Rural|
+75097|Tepehuacan|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7916|Rural|
+75097|La Unión|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7915|Rural|
+75097|Atlaxco|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7921|Rural|
+75098|Tizapa|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2097|Rural|
+75098|Las Trincheras|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7910|Rural|
+75098|El Palmar|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7912|Rural|
+75098|San José de la Raya|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7917|Rural|
+75098|El Progreso|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|2096|Rural|
+75098|Amaxochitla|Ranchería|Chichiquila|Puebla||75041|21|75041||29|050|7922|Rural|

@@ -1,0 +1,52 @@
+87900|Las Tinajas|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2462|Rural|19
+87900|El Divisadero|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2463|Rural|19
+87900|El Jicote|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2464|Rural|19
+87900|La Pila|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2467|Rural|19
+87900|La Peñita|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2472|Rural|19
+87900|Cantaranas|Colonia|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||09|039|2009|Rural|19
+87900|Las Trojes|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2465|Rural|19
+87900|El Cardenal|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2471|Rural|19
+87900|Tula Centro|Colonia|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||09|039|0721|Rural|19
+87900|Altavista|Colonia|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||09|039|2466|Rural|19
+87900|Cerro Del Aire|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2470|Rural|19
+87900|El Mirador|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|3772|Urbano|19
+87900|La Mora|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2071|Rural|19
+87900|Independencia|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2468|Rural|19
+87900|Las Piedras|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|2469|Rural|19
+87900|La Campana|Barrio|Tula|Tamaulipas|Ciudad Tula|87901|28|87901||02|039|3771|Urbano|19
+87902|Mamaleon|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0719|Rural|
+87902|Santa Ana de Nahola|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0720|Rural|
+87902|El Boludo|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0724|Rural|
+87903|Emilio Vázquez Gómez|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0725|Rural|
+87904|Los Charcos|Congregación|Tula|Tamaulipas||87901|28|87901||11|039|0718|Rural|
+87904|Tanque Blanco|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0726|Rural|
+87904|San Juan|Pueblo|Tula|Tamaulipas||87901|28|87901||28|039|2186|Rural|
+87904|Alonso Terrones Benitez|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3063|Rural|
+87904|20 de Noviembre|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3064|Rural|
+87905|Lázaro Cárdenas|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0723|Rural|
+87906|5 de Mayo|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3066|Rural|
+87907|Francisco I Madero|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0728|Rural|
+87910|La Tapona|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0729|Rural|
+87911|San Rafael|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0731|Rural|
+87911|Salitrillo|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0730|Rural|
+87912|Ricardo Garcia|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0732|Rural|
+87913|Álvaro Obregón|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0733|Rural|
+87913|Francisco Villa|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0734|Rural|
+87913|Cerro Mocho|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3065|Rural|
+87914|Pedro Ruiz Molina|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0735|Rural|
+87915|Nicolás Medrano|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0736|Rural|
+87915|La Presa de Ramos|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3806|Rural|
+87918|Morelos|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0737|Rural|
+87920|San Jose de las Flores|Congregación|Tula|Tamaulipas||87901|28|87901||11|039|0738|Rural|
+87922|Juan Sarabia|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0739|Rural|
+87923|Emperadores Aztecas|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3885|Rural|
+87923|Nagdaleno Cedillo|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0741|Rural|
+87923|Emiliano Zapata|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0740|Rural|
+87924|Miguel Hidalgo|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0742|Rural|
+87925|Las Cruces|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0744|Rural|
+87925|Lucio Vázquez (el Charquito)|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3062|Rural|
+87925|Gallos Grandes|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0743|Rural|
+87926|Gazmones|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|3887|Rural|
+87926|Alberto Carrera Torres|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0745|Rural|
+87928|La Laguna|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0746|Rural|
+87929|La Unión|Ejido|Tula|Tamaulipas||87901|28|87901||15|039|0747|Rural|

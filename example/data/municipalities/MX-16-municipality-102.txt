@@ -1,0 +1,406 @@
+60000|Uruapan Centro|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1502|Urbano|09
+60010|28 de Octubre|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1510|Urbano|09
+60010|La Esperanza|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1508|Urbano|09
+60010|Prof. Roberto Gutiérrez|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1509|Urbano|09
+60010|Inguarabal|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4870|Urbano|09
+60010|El Paricu|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|0004|Urbano|09
+60010|El Mirador|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1505|Urbano|09
+60010|El Pinal|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1506|Urbano|09
+60013|Rubén Jaramillo|Ampliación|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||38|102|1513|Urbano|09
+60013|David Franco Rodríguez|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1511|Urbano|09
+60013|Taximacuaro|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|4891|Urbano|09
+60013|Rubén Jaramillo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1512|Urbano|09
+60013|2 de Mayo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3563|Urbano|09
+60014|Plan de Ayala|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1515|Urbano|09
+60014|Gandarillas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1514|Urbano|09
+60015|El Capulín|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3561|Urbano|09
+60015|Charanguerán|Ranchería|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||29|102|4666|Urbano|09
+60015|La Basilia|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1516|Urbano|09
+60016|La Tuna|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4874|Urbano|09
+60016|Lomas de Uruapan|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3564|Urbano|09
+60016|Rincón del Cupatitzio|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|0002|Urbano|09
+60016|Los Pinos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1517|Urbano|09
+60016|San Pedro El Alto|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1518|Urbano|09
+60017|El Parico|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4648|Urbano|09
+60017|La Peña|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4873|Urbano|09
+60017|Lomas del Rosario|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1519|Urbano|09
+60020|Lindavista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1521|Urbano|09
+60024|La Tinajas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1524|Urbano|09
+60030|Hurtado|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1527|Urbano|09
+60030|Manantiales|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1530|Urbano|09
+60030|Nuevo Santiago|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1531|Urbano|09
+60030|La Quinta|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1528|Urbano|09
+60030|Los Riyitos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1529|Urbano|09
+60030|Huertas Calvillo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1526|Urbano|09
+60030|Santiago|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1532|Urbano|09
+60033|Lomas del Rey|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4933|Urbano|09
+60040|Mártires de Uruapan|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1537|Urbano|09
+60040|San Juan Quemado|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1538|Urbano|09
+60040|Benito Juárez Grupo 2 Oeste|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1534|Urbano|09
+60040|Benito Juárez Grupo 1 Este|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1533|Urbano|09
+60040|San Miguel|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1539|Urbano|09
+60040|Buenos Aires|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1535|Urbano|09
+60040|Maria Auxiliadora|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1536|Urbano|09
+60040|San Juan Bautista|Barrio|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||02|102|3565|Urbano|09
+60044|El Tepeyac|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1540|Urbano|09
+60050|Lázaro Cárdenas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1543|Urbano|09
+60050|Francisco J. Mujica|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4863|Urbano|09
+60050|Ramon Farias|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1546|Urbano|09
+60050|Bellavista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1541|Urbano|09
+60050|Morelos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1544|Urbano|09
+60050|San Francisco|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1547|Urbano|09
+60054|Vicente Guerrero|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1551|Urbano|09
+60054|Carlos A Madrazo|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1550|Urbano|09
+60060|San Juan Evangelista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1553|Urbano|09
+60060|El Milagro|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|0001|Urbano|09
+60060|Ampliación San Juan Evangelista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4642|Urbano|09
+60063|Valle de San Pedro|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1554|Urbano|09
+60070|Cupatitzio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1557|Urbano|09
+60070|Niños Héroes|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1560|Urbano|09
+60070|Independencia|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1558|Urbano|09
+60070|Celeste Betell|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1556|Urbano|09
+60070|San Pedro|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1561|Urbano|09
+60070|La Trinidad|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1559|Urbano|09
+60070|Arenal|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1555|Urbano|09
+60073|Octaviano Alanis|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1562|Urbano|09
+60074|Jorhentpiri|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1563|Urbano|09
+60074|22 de Octubre|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1564|Urbano|09
+60080|Jardines de Cupatitzio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1567|Urbano|09
+60080|El Mogotito|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1565|Urbano|09
+60080|Purepechas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1569|Urbano|09
+60080|Huertas Del Cupatitzio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1566|Urbano|09
+60080|La Magdalena|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1568|Urbano|09
+60090|Casa Del Niño|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1571|Urbano|09
+60090|Progreso|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1581|Urbano|09
+60090|Jicalán|Ejido|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||15|102|1576|Urbano|09
+60090|San Pablo INFONAVIT|Conjunto habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||12|102|4661|Urbano|09
+60090|Gabriel Zamora|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1574|Urbano|09
+60090|Villa Hermosa|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4892|Urbano|09
+60090|Mediterránea|Conjunto habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||12|102|5544|Urbano|09
+60090|La Tamacua|Ampliación|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||38|102|1579|Urbano|09
+60090|Granjas Del Pedregal|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1575|Urbano|09
+60090|La Tamacua|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1578|Urbano|09
+60090|Valle de las Delicias|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1582|Urbano|09
+60090|Ignacio Zaragoza|Ejido|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||15|102|4869|Urbano|09
+60090|Libertadores del Sur|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4875|Urbano|09
+60090|Casa Del Niño Oriente|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1572|Urbano|09
+60090|La Pinera|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1577|Urbano|09
+60090|Melchor Ocampo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1580|Urbano|09
+60090|Las Delicias|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4643|Urbano|09
+60094|Casa Del Niño Poniente|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1583|Urbano|09
+60094|Elías Pérez Ávalos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1584|Urbano|09
+60094|Los Viñedos|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|5528|Urbano|09
+60094|Palito Verde|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1585|Urbano|09
+60095|Jardines Del Pedregal|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1587|Urbano|09
+60095|Benito Juárez Sur|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1586|Urbano|09
+60100|Popular Campestre|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1589|Urbano|09
+60105|Observatorio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1590|Urbano|09
+60110|Politécnico Don Vasco|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1594|Urbano|09
+60110|Don Vasco|Residencial|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||30|102|1595|Urbano|09
+60110|Don Vasco|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1592|Urbano|09
+60110|Granjas de Bellavista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4807|Urbano|09
+60110|Balcones Bellavista|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|4856|Urbano|09
+60110|Bellavista|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1591|Urbano|09
+60110|Lomas Del Valle|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1593|Urbano|09
+60120|El Colorin|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1598|Urbano|09
+60120|Guadalupe Victoria|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1600|Urbano|09
+60120|General Guerrero|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4865|Urbano|09
+60120|El Colorin Norte|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1599|Urbano|09
+60120|Villa Uruapan|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1601|Urbano|09
+60123|Michoacana de Occidente|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4953|Urbano|09
+60123|Lomas Del Valle Sur|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1602|Urbano|09
+60123|La Michoacana|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4872|Urbano|09
+60124|Michoacana 2a Secc|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1605|Urbano|09
+60125|San José de La Mina|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1607|Urbano|09
+60125|Rincón Griego|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3573|Urbano|09
+60125|Las Lomas|Conjunto habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||12|102|0003|Urbano|09
+60126|La Cofradía|Ranchería|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||29|102|1714|Urbano|09
+60126|Rincón del Manantial|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4658|Urbano|09
+60126|Los Tulipanes|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4879|Urbano|09
+60127|La Huerta|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4889|Urbano|09
+60127|Arboledas INFONAVIT|Conjunto habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||12|102|0961|Urbano|09
+60127|Plutarco Elías Calles|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4654|Urbano|09
+60128|Periodista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1608|Urbano|09
+60130|El Jazmín|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1611|Urbano|09
+60130|El Inguambo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1610|Urbano|09
+60130|La Mora|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1612|Urbano|09
+60130|Las Fuentes|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1613|Urbano|09
+60130|Eduardo Ruiz|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1609|Urbano|09
+60133|La Perla|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1615|Urbano|09
+60133|Bosques de Uruapan|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|0005|Urbano|09
+60133|Tabachines|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1616|Urbano|09
+60133|Arroyo Del Páramo|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1614|Urbano|09
+60133|Las Brisas|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3416|Urbano|09
+60133|Villa de La Fuente|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3415|Urbano|09
+60134|14 de Julio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1618|Urbano|09
+60134|5 de Febrero|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1619|Urbano|09
+60134|12 de Diciembre|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1620|Urbano|09
+60134|La Presa|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1621|Urbano|09
+60135|Jacarandas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4668|Urbano|09
+60135|El Saúco|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1623|Urbano|09
+60135|Uruapan Progreso|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4664|Urbano|09
+60135|Martínez Villicaña|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1625|Urbano|09
+60135|18 de Marzo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|0971|Urbano|09
+60135|Lázaro Cárdenas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1624|Urbano|09
+60135|Nuevo Paraíso|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1626|Urbano|09
+60135|Valle Dorado|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3572|Urbano|09
+60136|Morelos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4880|Urbano|09
+60136|Jardines de San Rafael|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1627|Urbano|09
+60136|Santa Catarina|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4662|Urbano|09
+60136|Las Bugambilias|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4737|Urbano|09
+60136|Villa del Sol|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1629|Urbano|09
+60136|Villas de Jaraco|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4665|Urbano|09
+60136|Las Haciendas II|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4647|Urbano|09
+60136|Sol Azteca|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1628|Urbano|09
+60136|Las Haciendas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4646|Urbano|09
+60136|Jardines de La Loma|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4672|Urbano|09
+60136|Nuevo Paricutín|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4881|Urbano|09
+60137|Leandro Valle|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1630|Urbano|09
+60137|San Rafael|Ampliación|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||38|102|1632|Urbano|09
+60137|Rancho San Rafael|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|4883|Urbano|09
+60137|San Rafael|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1631|Urbano|09
+60137|Hacienda San Rafael|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4709|Urbano|09
+60140|Cuauhtémoc|Ampliación|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||38|102|0968|Urbano|09
+60140|Cuauhtémoc|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1633|Urbano|09
+60143|Balcones INFONAVIT|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1634|Urbano|09
+60150|La Cedrera|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1636|Urbano|09
+60150|Revolución|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1638|Urbano|09
+60150|Ferrocarrilera|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1635|Urbano|09
+60153|Revolución|Ampliación|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||38|102|1645|Urbano|09
+60153|Francisco Villa|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1641|Urbano|09
+60153|7 de Mayo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1646|Urbano|09
+60153|Reforma Agraria|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1644|Urbano|09
+60153|Enrique Ramírez|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1640|Urbano|09
+60153|Primero de Mayo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1643|Urbano|09
+60153|México|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1642|Urbano|09
+60154|Progreso Social|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|5541|Urbano|09
+60154|El Chilar|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4861|Urbano|09
+60154|Tierra y Libertad|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1654|Urbano|09
+60154|Doctores|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4860|Urbano|09
+60154|Natalio Vázquez Pallarez|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1652|Urbano|09
+60154|La Esperanza|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1649|Urbano|09
+60154|Ignacio Cervantes|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4868|Urbano|09
+60154|La Cienega|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4871|Urbano|09
+60154|Los Adobes|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4877|Urbano|09
+60154|Ejercito Mexicano|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1648|Urbano|09
+60154|Sol Naciente|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1653|Urbano|09
+60154|La Guadalupana|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4644|Urbano|09
+60154|Amapolita|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1647|Urbano|09
+60154|Los Gómez|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1650|Urbano|09
+60154|Unión Mutualista de Colonos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|6283|Urbano|09
+60155|Guadalupe|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1657|Urbano|09
+60155|Ignacio López Rayón|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1658|Urbano|09
+60155|Ignacio Ramírez|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1659|Urbano|09
+60155|Rosa de Castilla INFONAVIT|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1661|Urbano|09
+60155|El Uval|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1656|Urbano|09
+60155|Valle Verde|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1662|Urbano|09
+60155|Constituyentes INFONAVIT|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1655|Urbano|09
+60156|Mario Moreno Reyes|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4651|Urbano|09
+60156|Los Laureles|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1667|Urbano|09
+60156|Electricistas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4862|Urbano|09
+60156|Fresno|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4864|Urbano|09
+60156|Los Lagos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4649|Urbano|09
+60156|Los Fresnos|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4878|Urbano|09
+60156|Sauces|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4887|Urbano|09
+60156|Frisias|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4890|Urbano|09
+60156|La Mujer Campesina|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1666|Urbano|09
+60156|Monarca|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4652|Urbano|09
+60156|19 de Marzo|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4853|Urbano|09
+60156|Santa Catarina|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4886|Urbano|09
+60156|Antorchista Campesina|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1663|Urbano|09
+60156|Movimiento Antorchista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1669|Urbano|09
+60156|La Estrella|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1665|Urbano|09
+60156|Río Volga|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3574|Urbano|09
+60156|Tejerías|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3575|Urbano|09
+60156|Genovevo Figueroa|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4866|Urbano|09
+60156|Ejidal Lázaro Cárdenas|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1664|Urbano|09
+60156|Obrera Popular|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1670|Urbano|09
+60156|Gobernadores|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4867|Urbano|09
+60157|Planetario|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4653|Urbano|09
+60157|Predio Popular La Laguna|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4656|Urbano|09
+60157|Luis Donaldo Colosio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4650|Urbano|09
+60157|Predio de Calderón|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4655|Urbano|09
+60157|San Luis II|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4660|Urbano|09
+60157|Clara Córdoba Morán|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|5533|Urbano|09
+60157|Mapeco|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1671|Urbano|09
+60157|San Francisco Uruapan|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1672|Urbano|09
+60157|Laguna del Ahogado|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4645|Urbano|09
+60157|Zapatista|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4806|Urbano|09
+60157|San Luis I|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4659|Urbano|09
+60157|Valle Real|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4820|Urbano|09
+60157|Clavellinas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4859|Urbano|09
+60160|Granja Linda|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1676|Urbano|09
+60160|Paseo Los Ángeles|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4882|Urbano|09
+60160|Miraflores|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1678|Urbano|09
+60160|FOVISSSTE Mirador|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1675|Urbano|09
+60160|San José Obrero|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1679|Urbano|09
+60160|Los Angeles|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1677|Urbano|09
+60160|Las Hadas|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|0006|Urbano|09
+60160|FOVISSSTE|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|1674|Urbano|09
+60169|Uruapan (Lic. y Gral. Ignacio López Rayón)|Aeropuerto|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||01|102|1681|Urbano|09
+60170|Diamante FOVISSSTE|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|0970|Urbano|09
+60170|Los Aguacates|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|3566|Urbano|09
+60170|La Joyita|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1684|Urbano|09
+60170|Viveros|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1687|Urbano|09
+60170|Las Primaveras|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1686|Urbano|09
+60170|Las Palomas|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1685|Urbano|09
+60173|Patria INFONAVIT|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1690|Urbano|09
+60173|Villa de La Magdalena|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1691|Urbano|09
+60173|Llanos de La Magdalena|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1688|Urbano|09
+60173|Molino Del Rey|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1689|Urbano|09
+60174|Aeropuerto INFONAVIT|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1692|Urbano|09
+60175|Rinconada del Pinar|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4885|Urbano|09
+60180|Santa Bárbara 2da Sección|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3570|Urbano|09
+60180|Emiliano Zapata|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1694|Urbano|09
+60180|La Soledad|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1696|Urbano|09
+60180|Santa Bárbara|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3418|Urbano|09
+60183|Jardines Del Bosque|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|1698|Urbano|09
+60183|Residencial Cupatitzio|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1700|Urbano|09
+60190|Granja Santa Rosa|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1702|Urbano|09
+60190|Quirindavara|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3417|Urbano|09
+60190|Paraíso|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|3567|Urbano|09
+60190|Real de Zumpimito|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4739|Urbano|09
+60190|Zumpimito|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1706|Urbano|09
+60190|Movimiento Magisterial|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1703|Urbano|09
+60190|Bosques de San Javier|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3568|Urbano|09
+60190|La Escondida INFONAVIT|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|3569|Urbano|09
+60190|Real Santa Rosa INFONAVIT|Conjunto habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||12|102|4657|Urbano|09
+60190|Central de Abastos|Zona comercial|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||33|102|4858|Urbano|09
+60190|Río Verde|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1705|Urbano|09
+60190|Santa Rosa|Ranchería|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||29|102|4663|Urbano|09
+60190|Trabajadores de La Agricultura|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4677|Urbano|09
+60190|Santa Mónica|Fraccionamiento|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||21|102|4927|Urbano|09
+60190|Alfa 1 INFONAVIT|Unidad habitacional|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||31|102|0956|Urbano|09
+60190|Paseo de La Loma|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|1704|Urbano|09
+60193|Lomas de Zumpimito 3a. Sección|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4876|Urbano|09
+60193|Ampliación Zumpimito|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4854|Urbano|09
+60194|Artículo 27|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4855|Urbano|09
+60194|Olimpia|Residencial|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||30|102|4884|Urbano|09
+60194|Campestre Zumpimito|Colonia|Uruapan|Michoacán de Ocampo|Uruapan|60053|16|60053||09|102|4857|Urbano|09
+60200|Camino Real de Zipicha|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5619|Rural|
+60200|San Pedro|Barrio|Uruapan|Michoacán de Ocampo||60053|16|60053||02|102|5519|Rural|
+60200|Nuevo Zirosto|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|1707|Rural|
+60201|Corupo|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1708|Rural|
+60202|Barrio San José|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5609|Urbano|
+60202|Barrio El Calvario|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5605|Urbano|
+60202|Barrio Santiaguito|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5610|Urbano|
+60202|Angahuan|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1709|Urbano|
+60202|Barrio San Juan|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5606|Urbano|
+60202|Barrio Guadalupe|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5607|Urbano|
+60202|Barrio La Capilla|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5608|Urbano|
+60203|Los Llanos (El Rincón)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5622|Rural|
+60203|El Arenal|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5620|Rural|
+60203|Santa Ana Zirosto|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1710|Rural|
+60203|Tzintzicátaro (El Arenal)|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5623|Rural|
+60203|El Calvario|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5621|Rural|
+60205|Huimbán|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5624|Rural|
+60206|El Durazno|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5625|Rural|
+60206|Las Cocinas|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5626|Rural|
+60207|Ismael Gómez Moreno|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5627|Rural|
+60210|La Tupacua|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5732|Urbano|
+60210|La Guadalupana|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5731|Urbano|
+60210|San Francisco|Barrio|Uruapan|Michoacán de Ocampo||60053|16|60053||02|102|5715|Urbano|
+60210|Capacuaro|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1711|Urbano|
+60211|Barrio San Sebastián|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5611|Urbano|
+60211|Barrio Guadalupe|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5613|Urbano|
+60211|Barrio San José|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5614|Urbano|
+60211|Barrio San Mateo|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5612|Urbano|
+60213|Zirapondiro|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5629|Rural|
+60215|La Tregua|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5628|Rural|
+60215|El Durazno (Rancho Alegre)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5630|Rural|
+60215|La Trinidad|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5632|Rural|
+60215|La Sierra|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5636|Rural|
+60215|Señor Pepe Laguna|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5635|Rural|
+60215|Quinta el Rosario|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5634|Rural|
+60215|Las Canoas (El Fresno)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5633|Rural|
+60215|El Capulín (CETIS Veintisiete)|Fraccionamiento|Uruapan|Michoacán de Ocampo||60053|16|60053||21|102|5631|Rural|
+60216|San José Obrero|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5638|Rural|
+60220|San Salvador|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5617|Urbano|
+60220|La Tabiquera|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5639|Urbano|
+60220|Barrio Guadalupe|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5615|Urbano|
+60220|Caltzontzin|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1713|Urbano|
+60220|Barrio San Francisco|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5616|Urbano|
+60222|Toreo el Alto|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1715|Rural|
+60223|Canoas Viejas|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5640|Rural|
+60223|Huitzicho (Huizicho)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5642|Rural|
+60223|El Sabino|Ejido|Uruapan|Michoacán de Ocampo||60053|16|60053||15|102|3627|Rural|
+60223|Las Pajas|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5644|Rural|
+60223|Toreo el Bajo|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1716|Urbano|
+60223|La Cofradía|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5643|Rural|
+60223|San Miguel|Poblado comunal|Uruapan|Michoacán de Ocampo||60053|16|60053||27|102|5641|Rural|
+60223|Plan de Tiamba|Ejido|Uruapan|Michoacán de Ocampo||60053|16|60053||15|102|5645|Rural|
+60223|Tiamba|Poblado comunal|Uruapan|Michoacán de Ocampo||60053|16|60053||27|102|5646|Rural|
+60224|El Potrerito (Vivero)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5651|Rural|
+60224|La Alberca|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5647|Rural|
+60224|La Bellota|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5648|Rural|
+60224|Villa Paraíso|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5650|Rural|
+60224|Predio Cerro Colorado (Rancho Soñado)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5649|Rural|
+60225|La Providencia (La Lagunita)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5654|Rural|
+60225|La Cortina|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5653|Rural|
+60225|La Aurora|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5652|Rural|
+60226|Cario|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5655|Rural|
+60226|San José del Puerto|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5661|Rural|
+60226|El Ucas (El Hucas)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5656|Rural|
+60226|Mata de Plátano|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5660|Rural|
+60226|La Huizachera|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5657|Rural|
+60226|La Joya de los Chivos|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5658|Rural|
+60226|Los Tanques (El Túnel)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5659|Rural|
+60227|Lázaro Cárdenas|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5662|Rural|
+60227|San Marcos|Ejido|Uruapan|Michoacán de Ocampo||60053|16|60053||15|102|5666|Rural|
+60227|Mesa Cristóbal|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5665|Rural|
+60227|Mesa el Sorumutal (Joya de la Guerra)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5663|Rural|
+60227|Mesón de la Guerra|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5664|Rural|
+60230|Loma Bonita|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5672|Rural|
+60230|Jucutacato|Ejido|Uruapan|Michoacán de Ocampo||60053|16|60053||15|102|1718|Rural|
+60230|Mesa de la Guerra (San Manuel)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5674|Rural|
+60230|Dalid|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5669|Rural|
+60230|Cutzato (Cuisato)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|1717|Rural|
+60230|La Joya|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5670|Rural|
+60230|Mesa Caripán|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5673|Rural|
+60230|Camino a Cutzato|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5667|Rural|
+60230|Cuesta del Molino (La Charanda)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5668|Rural|
+60230|La Joya (Joya de Caripán)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5671|Rural|
+60233|Rincón de las Águilas|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5637|Rural|
+60233|Tanaxuri (Tanachuri)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|4667|Rural|
+60233|Paso de Tierra Caliente (Kilómetro 7.5)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5675|Rural|
+60234|El Calvario|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5677|Rural|
+60234|Las Yeguas|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5680|Rural|
+60234|Chimilpa (El Zapote)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5676|Rural|
+60234|El Madroño|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5678|Rural|
+60234|La Rosa de San Juan (El Palmito)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5679|Rural|
+60234|San Jorge|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5681|Rural|
+60234|San Martín Buenos Aires (Piedra Partida)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5682|Rural|
+60235|La Higuera|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5690|Rural|
+60235|La Soledad|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5691|Rural|
+60235|Rancho Viejo|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5696|Rural|
+60235|San Pedro Jucutácato (Crucero a Matanguarán)|Poblado comunal|Uruapan|Michoacán de Ocampo||60053|16|60053||27|102|5698|Rural|
+60235|Mata de Plátano (Los Cuadros)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5694|Rural|
+60235|La Loma|Colonia|Uruapan|Michoacán de Ocampo||60053|16|60053||09|102|5730|Rural|
+60235|Tiracaticho|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5699|Rural|
+60235|Chicharrón (El Tule)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5684|Rural|
+60235|Lagunillas (Las Carmelitas)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5693|Rural|
+60235|Zumpimito (La Planta)|Campamento|Uruapan|Michoacán de Ocampo||60053|16|60053||04|102|5683|Rural|
+60235|El Catorce|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5686|Rural|
+60235|La Unión|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5692|Rural|
+60235|Tzaráracua|Ejido|Uruapan|Michoacán de Ocampo||60053|16|60053||15|102|5700|Rural|
+60235|El Manguito|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5688|Rural|
+60235|El Arroyo Colorado|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|1719|Rural|
+60235|Copitiro (La Carmina)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5685|Rural|
+60235|El Durazno|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5687|Rural|
+60235|Jaramillo|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5689|Rural|
+60235|Matanguarán (San José del Valle)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5695|Rural|
+60235|San Martín (Chabela)|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5697|Rural|
+60236|Belén|Fraccionamiento|Uruapan|Michoacán de Ocampo||60053|16|60053||21|102|5701|Rural|
+60236|La Caratacua|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5704|Rural|
+60236|La Codorniz|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5705|Rural|
+60236|El Fresno|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5702|Rural|
+60236|Orapóndiro|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5707|Rural|
+60236|El Molinito|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5703|Rural|
+60236|Los Cerritos|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5706|Rural|
+60237|La Paja|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5711|Rural|
+60237|Las Ánimas|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5713|Rural|
+60237|La Lobera|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5710|Rural|
+60237|Jicalán Viejo (La Laguna)|Poblado comunal|Uruapan|Michoacán de Ocampo||60053|16|60053||27|102|5709|Rural|
+60237|La Plaza|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5712|Rural|
+60237|Betania|Ranchería|Uruapan|Michoacán de Ocampo||60053|16|60053||29|102|5708|Rural|
+60237|Nuevo San Martín (Piedra Partida)|Pueblo|Uruapan|Michoacán de Ocampo||60053|16|60053||28|102|5714|Rural|

@@ -1,0 +1,74 @@
+55870|El Calvario|Ejido|Acolman|México||55871|15|55871||15|002|3992|Rural|
+55870|Los Pinos|Unidad habitacional|Acolman|México||55871|15|55871||31|002|7782|Rural|
+55870|La Virgen|Unidad habitacional|Acolman|México||55871|15|55871||31|002|8244|Urbano|
+55870|San Agustín Acolman de Nezahualcoyotl|Colonia|Acolman|México||55871|15|55871||09|002|3991|Rural|
+55870|Tenango|Pueblo|Acolman|México||55871|15|55871||28|002|3993|Rural|
+55873|Santa María y Potreritos (La Represa)|Ejido|Acolman|México||55871|15|55871||15|002|8954|Urbano|
+55874|Granjas Familiares Acolman|Pueblo|Acolman|México||55871|15|55871||28|002|3995|Rural|
+55874|Lomas de Santa Catarina|Colonia|Acolman|México||55871|15|55871||09|002|7768|Rural|
+55875|Emiliano Zapata|Pueblo|Acolman|México||55871|15|55871||28|002|3996|Rural|
+55875|Santa Catarina|Pueblo|Acolman|México||55871|15|55871||28|002|3997|Rural|
+55875|La Gitana|Unidad habitacional|Acolman|México||55871|15|55871||31|002|7779|Rural|
+55876|Ampliación Santa Catarina|Colonia|Acolman|México||55871|15|55871||09|002|8916|Rural|
+55877|Besana de Santa Catarina y Tepango|Colonia|Acolman|México||55871|15|55871||09|002|8917|Rural|
+55878|Santa María Acolman|Pueblo|Acolman|México||55871|15|55871||28|002|3998|Rural|
+55878|San Bartolo el Chico|Colonia|Acolman|México||55871|15|55871||09|002|7761|Rural|
+55880|San Juanico|Pueblo|Acolman|México||55871|15|55871||28|002|3999|Rural|
+55880|Los Reyes|Colonia|Acolman|México||55871|15|55871||09|002|8243|Rural|
+55880|San Bartolo|Pueblo|Acolman|México||55871|15|55871||28|002|4000|Rural|
+55880|San José|Colonia|Acolman|México||55871|15|55871||09|002|7775|Rural|
+55882|Lázaro Cárdenas|Colonia|Acolman|México||55871|15|55871||09|002|4001|Rural|
+55882|Radiofaro Totolcingo|Colonia|Acolman|México||55871|15|55871||09|002|4003|Rural|
+55882|Ampliación los Angeles|Colonia|Acolman|México||55871|15|55871||09|002|5342|Rural|
+55882|Paraje el Faro|Colonia|Acolman|México||55871|15|55871||09|002|7771|Rural|
+55882|Los Angeles|Colonia|Acolman|México||55871|15|55871||09|002|4002|Rural|
+55882|Ampliación Lázaro Cárdenas|Colonia|Acolman|México||55871|15|55871||09|002|0075|Rural|
+55883|Las Brisas|Colonia|Acolman|México||55871|15|55871||09|002|7773|Rural|
+55883|Geovillas de Terranova 2a Sección|Fraccionamiento|Acolman|México||55871|15|55871||21|002|8224|Urbano|
+55883|Real del Valle 1a Seccion|Fraccionamiento|Acolman|México||55871|15|55871||21|002|6691|Urbano|
+55883|Laguna de Chiconautla|Colonia|Acolman|México||55871|15|55871||09|002|7774|Rural|
+55883|Geovillas de Terranova 1a Sección|Fraccionamiento|Acolman|México||55871|15|55871||21|002|5638|Rural|
+55883|Real del Valle 2a Sección|Fraccionamiento|Acolman|México||55871|15|55871||21|002|8225|Urbano|
+55884|Anáhuac 1a Secc|Colonia|Acolman|México||55871|15|55871||09|002|4004|Rural|
+55884|El Olivo|Colonia|Acolman|México||55871|15|55871||09|002|7776|Rural|
+55884|San Miguel Totolcingo|Pueblo|Acolman|México||55871|15|55871||28|002|4008|Rural|
+55884|Las Cazuelas|Colonia|Acolman|México||55871|15|55871||09|002|8237|Urbano|
+55884|Santa Cruz|Colonia|Acolman|México||55871|15|55871||09|002|7769|Rural|
+55884|La Cazuela Tepexpan (Santa María Magdalena)|Ejido|Acolman|México||55871|15|55871||15|002|8919|Rural|
+55884|Plan de Guadalupe|Colonia|Acolman|México||55871|15|55871||09|002|7772|Rural|
+55884|Anáhuac 2a Secc|Colonia|Acolman|México||55871|15|55871||09|002|4005|Rural|
+55884|La Era|Colonia|Acolman|México||55871|15|55871||09|002|7770|Rural|
+55884|Totolzingo|Ejido|Acolman|México||55871|15|55871||15|002|8957|Urbano|
+55885|El Potrero|Colonia|Acolman|México||55871|15|55871||09|002|4007|Rural|
+55885|Tepexpan|Pueblo|Acolman|México||55871|15|55871||28|002|4009|Rural|
+55885|Chimalpa|Colonia|Acolman|México||55871|15|55871||09|002|5343|Rural|
+55885|STUNAM|Fraccionamiento|Acolman|México||55871|15|55871||21|002|7777|Urbano|
+55885|La Lagunilla|Unidad habitacional|Acolman|México||55871|15|55871||31|002|7780|Rural|
+55885|Misión San Agustín|Conjunto habitacional|Acolman|México||55871|15|55871||12|002|8630|Urbano|
+55885|San Luis Grande|Ejido|Acolman|México||55871|15|55871||15|002|8956|Urbano|
+55885|San Martín (ESTUNAM)|Unidad habitacional|Acolman|México||55871|15|55871||31|002|7781|Rural|
+55885|La Lola|Unidad habitacional|Acolman|México||55871|15|55871||31|002|7778|Urbano|
+55885|Los Reyes|Barrio|Acolman|México||55871|15|55871||02|002|8239|Urbano|
+55886|Santa María de Guadalupe|Colonia|Acolman|México||55871|15|55871||09|002|7767|Rural|
+55886|Tetexcala|Colonia|Acolman|México||55871|15|55871||09|002|7766|Rural|
+55886|Loma Bonita|Colonia|Acolman|México||55871|15|55871||09|002|8057|Urbano|
+55886|Cuanalan|Pueblo|Acolman|México||55871|15|55871||28|002|4010|Rural|
+55886|Benito Juárez|Colonia|Acolman|México||55871|15|55871||09|002|4006|Rural|
+55887|San Marcos Nepantla|Pueblo|Acolman|México||55871|15|55871||28|002|4011|Rural|
+55888|Guerrero|Colonia|Acolman|México||55871|15|55871||09|002|6585|Urbano|
+55888|Prados San Juan|Colonia|Acolman|México||55871|15|55871||09|002|6744|Rural|
+55888|Pirules|Colonia|Acolman|México||55871|15|55871||09|002|6584|Urbano|
+55890|San Mateo Chipiltepec|Pueblo|Acolman|México||55871|15|55871||28|002|4013|Rural|
+55890|Ampliación San Mateo Chipiltepec|Colonia|Acolman|México||55871|15|55871||09|002|4012|Rural|
+55890|Ahuaxtla|Colonia|Acolman|México||55871|15|55871||09|002|8915|Rural|
+55890|Loma Linda|Colonia|Acolman|México||55871|15|55871||09|002|7764|Rural|
+55890|Pilares|Colonia|Acolman|México||55871|15|55871||09|002|8226|Urbano|
+55893|San Mateo (Pasando la Vía)|Ejido|Acolman|México||55871|15|55871||15|002|8955|Urbano|
+55894|El Ranchito|Colonia|Acolman|México||55871|15|55871||09|002|7765|Rural|
+55894|San Pedro Tepetitlán|Pueblo|Acolman|México||55871|15|55871||28|002|4014|Urbano|
+55895|San Miguel Xometla|Pueblo|Acolman|México||55871|15|55871||28|002|4016|Rural|
+55895|La Concepción|Colonia|Acolman|México||55871|15|55871||09|002|5344|Rural|
+55895|San Lucas Tepango|Pueblo|Acolman|México||55871|15|55871||28|002|4015|Rural|
+55895|Quinta las Flores|Colonia|Acolman|México||55871|15|55871||09|002|7762|Rural|
+55895|1ro de Octubre|Colonia|Acolman|México||55871|15|55871||09|002|7763|Rural|
+55899|San Francisco Zacango|Pueblo|Acolman|México||55871|15|55871||28|002|4018|Rural|

@@ -1,0 +1,45 @@
+59250|Yurecuaro Centro|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|1122|Urbano|18
+59253|Chapín|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3038|Urbano|18
+59253|Buena Huerta|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3039|Urbano|18
+59253|Magisterio|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3040|Urbano|18
+59253|J. Carrillo|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3037|Urbano|18
+59254|Guamúchil Grande|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3036|Urbano|18
+59254|1 de Mayo|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3034|Urbano|18
+59254|Huerta Seca|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3035|Urbano|18
+59256|1 de Marzo|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3030|Urbano|18
+59256|Gabriel Ramos Millán|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3041|Urbano|18
+59256|Simón Bolívar|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3042|Urbano|18
+59256|La Estación|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3028|Urbano|18
+59256|Los Llanos|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3032|Urbano|18
+59256|Jacarandas|Fraccionamiento|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||21|106|3031|Urbano|18
+59256|Mora|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3027|Urbano|18
+59256|Luis Donaldo Colosio|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3029|Urbano|18
+59256|5 de Febrero|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3033|Urbano|18
+59257|La Longaniza|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3023|Urbano|18
+59257|Granjas Modernas|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3043|Urbano|18
+59257|La Loma|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3022|Urbano|18
+59257|Loma Bonita|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3021|Urbano|18
+59257|Vista Alegre|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3026|Urbano|18
+59257|Natalio Vázquez Pallares|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3025|Urbano|18
+59257|Industrial|Colonia|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||09|106|3024|Urbano|18
+59258|Villas de Yurécuaro|Fraccionamiento|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||21|106|4923|Urbano|18
+59258|Pueblo Nuevo|Fraccionamiento|Yurécuaro|Michoacán de Ocampo|Yurécuaro|59251|16|59251||21|106|3020|Urbano|18
+59262|El Camiche|Congregación|Yurécuaro|Michoacán de Ocampo||59251|16|59251||11|106|1115|Rural|
+59262|Mirandillas|Congregación|Yurécuaro|Michoacán de Ocampo||59251|16|59251||11|106|1120|Rural|
+59263|La Joya|Congregación|Yurécuaro|Michoacán de Ocampo||59251|16|59251||11|106|1119|Rural|
+59264|El Refugio|Congregación|Yurécuaro|Michoacán de Ocampo||59251|16|59251||11|106|1116|Rural|
+59264|Munguía|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4105|Rural|
+59264|San Antonio|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4099|Rural|
+59264|Cerro Colorado|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4100|Rural|
+59265|El Cerro Blanco|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4102|Rural|
+59265|Santa Cecilia|Rancho|Yurécuaro|Michoacán de Ocampo||59251|16|59251||48|106|0005|Rural|
+59265|Monteleón|Congregación|Yurécuaro|Michoacán de Ocampo||59251|16|59251||11|106|1121|Rural|
+59266|El Chamizal|Rancho|Yurécuaro|Michoacán de Ocampo||59251|16|59251||48|106|0002|Rural|
+59266|El Libramiento (El Crucero)|Rancho|Yurécuaro|Michoacán de Ocampo||59251|16|59251||48|106|0003|Rural|
+59266|El Marqueño|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4101|Rural|
+59266|Emiliano Zapata|Colonia|Yurécuaro|Michoacán de Ocampo||59251|16|59251||09|106|1118|Rural|
+59267|El Tequesquite|Congregación|Yurécuaro|Michoacán de Ocampo||59251|16|59251||11|106|1117|Rural|
+59267|Ejido de la Manga|Rancho|Yurécuaro|Michoacán de Ocampo||59251|16|59251||48|106|0001|Rural|
+59267|Puente Alto (Santa Anita)|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4103|Rural|
+59267|El Sabino|Pueblo|Yurécuaro|Michoacán de Ocampo||59251|16|59251||28|106|4104|Rural|
+59267|La Güeyera (El Sabinito)|Rancho|Yurécuaro|Michoacán de Ocampo||59251|16|59251||48|106|0004|Rural|

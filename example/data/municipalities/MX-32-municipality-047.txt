@@ -1,0 +1,9 @@
+99800|El Agave|Colonia|Teúl de González Ortega|Zacatecas||99801|32|99801||09|047|1313|Rural|
+99800|Genaro Borrego|Colonia|Teúl de González Ortega|Zacatecas||99801|32|99801||09|047|1314|Rural|
+99800|Los Maestros|Colonia|Teúl de González Ortega|Zacatecas||99801|32|99801||09|047|1315|Rural|
+99800|La Esperanza|Colonia|Teúl de González Ortega|Zacatecas||99801|32|99801||09|047|1312|Rural|
+99800|Teul de Gonzalez Ortega|Villa|Teúl de González Ortega|Zacatecas||99801|32|99801||32|047|0707|Rural|
+99800|Vallarta|Colonia|Teúl de González Ortega|Zacatecas||99801|32|99801||09|047|1316|Rural|
+99806|Alamitos|Ejido|Teúl de González Ortega|Zacatecas||99801|32|99801||15|047|0710|Rural|
+99810|Milpillas de Allende|Ranchería|Teúl de González Ortega|Zacatecas||99801|32|99801||29|047|0711|Rural|
+99814|Huitzila|Pueblo|Teúl de González Ortega|Zacatecas||99801|32|99801||28|047|0712|Rural|

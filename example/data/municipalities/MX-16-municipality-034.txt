@@ -1,0 +1,406 @@
+61100|El Pirul|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4842|Urbano|03
+61100|Ciudad Hidalgo Centro|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2124|Urbano|03
+61100|Rinconada de Pirules|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3842|Urbano|03
+61105|San Francisco Ojo de Agua|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3237|Urbano|03
+61110|Los Reyes|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2127|Urbano|03
+61110|Ojos de Agua|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2128|Urbano|03
+61110|Vista Hermosa|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3248|Urbano|03
+61110|Lindavista|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2126|Urbano|03
+61110|Arcoiris|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3829|Urbano|03
+61112|El Roble|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3203|Urbano|03
+61112|Las Flores|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3222|Urbano|03
+61112|Linares|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4154|Urbano|03
+61113|El Chirimoyo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2129|Urbano|03
+61113|Rancho de Ponce|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2130|Urbano|03
+61113|Colonia Unida|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2131|Urbano|03
+61113|Cristo Rey|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3193|Urbano|03
+61113|Ojos de Agua|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4919|Urbano|03
+61113|Santuario Monarca|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3239|Urbano|03
+61114|La Palma|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2132|Urbano|03
+61115|Las Fuentes|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2133|Urbano|03
+61115|Villas del Manantial|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4153|Urbano|03
+61116|Perseverancia Ecológica|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3230|Urbano|03
+61116|Barranca Seca|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3188|Urbano|03
+61120|La Mangana|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2135|Urbano|03
+61120|Los Manantiales|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3226|Urbano|03
+61120|Talismán II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4845|Urbano|03
+61120|Bellavista|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2134|Urbano|03
+61120|Los Pirules|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2136|Urbano|03
+61120|Talismán I|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3240|Urbano|03
+61120|Prol. de Reforma|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3232|Urbano|03
+61120|Oasis|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3200|Urbano|03
+61125|San Antonio de las Palmas I|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3251|Urbano|03
+61125|El Arenal|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3252|Urbano|03
+61125|Rancho de Ponce|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4920|Urbano|03
+61125|Plan de Ayala|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2137|Urbano|03
+61125|Las Rosas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3223|Urbano|03
+61128|La Perla|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2139|Urbano|03
+61128|San Antonio de las Palmas II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3428|Urbano|03
+61128|3 de Mayo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4156|Urbano|03
+61128|Rancho de Corros|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4844|Urbano|03
+61128|Independencia (Zapote)|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2138|Urbano|03
+61128|Los Corros|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3830|Urbano|03
+61129|San Antonio de Las Palmas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2140|Urbano|03
+61130|Contreras|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2141|Urbano|03
+61133|Alborada Socialista|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3185|Urbano|03
+61134|Los Gigantes|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2142|Urbano|03
+61134|Rincón de Dolores|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3553|Urbano|03
+61134|Valle del Rincón|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4152|Urbano|03
+61134|Morelos Intenciones de La Nación|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2143|Urbano|03
+61134|Morelos Intenciones de La Nación II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4843|Urbano|03
+61135|El Fresno II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|0001|Urbano|03
+61135|El Campestre|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3196|Urbano|03
+61135|La Esperanza|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3215|Urbano|03
+61136|Las Américas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2145|Urbano|03
+61136|Los Sauces|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2146|Urbano|03
+61137|La Ciénega|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3214|Urbano|03
+61137|La Villa|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3220|Urbano|03
+61137|Los Fresnos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2147|Urbano|03
+61137|Otilio Montaño|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2148|Urbano|03
+61137|Insurgentes|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3208|Urbano|03
+61139|Aurora|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2149|Urbano|03
+61140|La Morita|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2150|Urbano|03
+61143|Los Pinos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2153|Urbano|03
+61149|Niños Héroes|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2155|Urbano|03
+61149|La Estación|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2154|Urbano|03
+61150|Valle del Jaral|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3245|Urbano|03
+61150|Mariano Matamoros|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2157|Urbano|03
+61150|Puerta del Sol|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3233|Urbano|03
+61150|San Isidro|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3238|Urbano|03
+61150|Lázaro Cárdenas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2156|Urbano|03
+61150|Vasco de Quiroga|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2158|Urbano|03
+61150|Santa Rosa|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4155|Urbano|03
+61153|La Antena|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3212|Urbano|03
+61153|Lomas del Jaral III|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4159|Urbano|03
+61153|Lomas del Jaral|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4157|Urbano|03
+61153|Aquiles Córdova|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4160|Urbano|03
+61153|El Jaral|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2159|Urbano|03
+61153|Lomas del Jaral II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4158|Urbano|03
+61153|La Palma|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4918|Urbano|03
+61154|Tiro al Blanco|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2161|Urbano|03
+61154|Villa Hidalgo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3246|Urbano|03
+61154|Francisco Villa III|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3206|Urbano|03
+61154|Francisco Villa|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2160|Urbano|03
+61155|Reforma|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2164|Urbano|03
+61155|Cedritos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3192|Urbano|03
+61155|El Naranjo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4161|Urbano|03
+61155|La Loma de José Álvarez|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4162|Urbano|03
+61155|Fresno II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2163|Urbano|03
+61155|San Miguel|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2165|Urbano|03
+61155|Tejocotes Dulces|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3241|Urbano|03
+61155|Juan Pablo II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3835|Urbano|03
+61155|Perseverancia Ecológica|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3840|Urbano|03
+61155|El Fresno 2da. Etapa|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4841|Urbano|03
+61155|Fresno I|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2162|Urbano|03
+61155|Rancho San Joaquín|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3234|Urbano|03
+61155|Valle de Guadalupe|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3847|Urbano|03
+61155|Progreso|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3231|Urbano|03
+61156|El Porvenir|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2166|Urbano|03
+61160|La Regadera|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2167|Urbano|03
+61164|El Potrero|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4178|Urbano|03
+61165|Bosque de La Virgen|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3189|Urbano|03
+61165|Presa La Virgen|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3229|Urbano|03
+61165|Ampliación El Molino|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3199|Urbano|03
+61165|Ampliación Fábrica La Virgen|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3205|Urbano|03
+61165|La Ale|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3211|Urbano|03
+61165|Fábrica La Virgen|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4847|Urbano|03
+61166|La Presa|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4173|Urbano|03
+61166|El Bosque|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2168|Urbano|03
+61166|Rosa de Castilla|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2170|Urbano|03
+61166|Arboledas del Río|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3186|Urbano|03
+61166|El Calicanto|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3195|Urbano|03
+61166|La Tenería|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2169|Urbano|03
+61167|El Pilón|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4171|Urbano|03
+61168|Eréndira|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2171|Urbano|03
+61169|Cuauhtémoc Sur|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3194|Urbano|03
+61169|Perales y Ailitos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3235|Urbano|03
+61169|Río Chiquito|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2172|Urbano|03
+61169|Balcones del Sur|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3187|Urbano|03
+61169|El Rosario|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4174|Urbano|03
+61170|Tlaximaloyan|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3243|Urbano|03
+61170|Francisco Dávalos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3833|Urbano|03
+61170|Patriotismo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3839|Urbano|03
+61170|Lienzo Charro|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2173|Urbano|03
+61170|San Francisco|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3236|Urbano|03
+61170|Llanos del Ejido|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2174|Urbano|03
+61173|Tepetates|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3242|Urbano|03
+61173|Lomas del Hidalgo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2175|Urbano|03
+61173|Tizates|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2176|Urbano|03
+61173|El Mirador de Dolores|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3198|Urbano|03
+61174|El Mirador|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3197|Urbano|03
+61174|La Loma|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3253|Urbano|03
+61174|San Carlos|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4172|Urbano|03
+61174|Barranquitas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4175|Urbano|03
+61174|Loma de Enmedio|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3224|Urbano|03
+61177|Los Pinitos de Taximaroa|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4177|Urbano|03
+61180|Santa María|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2179|Urbano|03
+61180|Rinconada|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3219|Urbano|03
+61180|Monte Bello|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2178|Urbano|03
+61180|Monte Bello II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3228|Urbano|03
+61182|El Moral I|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2180|Urbano|03
+61182|La Virgen|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2182|Urbano|03
+61182|El Moral II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2181|Urbano|03
+61183|Camino Nuevo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3191|Urbano|03
+61183|José María Morelos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3209|Urbano|03
+61183|Puertas del Oriente|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4170|Urbano|03
+61190|La Joya|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3216|Urbano|03
+61190|La Magdalena|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3836|Urbano|03
+61190|San Lázaro|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3844|Urbano|03
+61190|Cuitzillos|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2183|Urbano|03
+61190|Tierras Coloradas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2186|Urbano|03
+61190|Kitzia|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3210|Urbano|03
+61190|Los Ángeles|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3837|Urbano|03
+61190|San Lázaro II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3845|Urbano|03
+61190|Loma Linda|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2185|Urbano|03
+61190|La Puerta|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2184|Urbano|03
+61190|Vista Bella|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3247|Urbano|03
+61190|El Trébol|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3832|Urbano|03
+61190|San Pablo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3846|Urbano|03
+61190|La Libertad|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3217|Urbano|03
+61190|Puerta del Sol|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3831|Urbano|03
+61190|López Rayón|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3225|Urbano|03
+61192|Tierras Coloradas II|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4846|Urbano|03
+61192|Camelinas|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3190|Urbano|03
+61192|Villa Etelvina|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4176|Urbano|03
+61192|Emiliano Zapata|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3204|Urbano|03
+61192|Los Viveros|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3249|Urbano|03
+61192|Luis Donaldo Colosio|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3838|Urbano|03
+61194|El Paraíso|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3201|Urbano|03
+61194|La Antorcha Campesina|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4169|Urbano|03
+61194|Agua Quemada|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4167|Urbano|03
+61194|La Cascada|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4168|Urbano|03
+61194|Jardines de Hidalgo|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2187|Urbano|03
+61194|Taxi Maroa 400|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|3427|Urbano|03
+61194|Bugambilias|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4163|Urbano|03
+61195|Valle de Hidalgo|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4166|Urbano|03
+61195|La Pradera|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|2188|Urbano|03
+61195|Las Margaritas|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|4165|Urbano|03
+61196|Presa de Chávez|Fraccionamiento|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||21|034|3218|Urbano|03
+61196|Camino Real|Colonia|Hidalgo|Michoacán de Ocampo|Ciudad Hidalgo|61101|16|61101||09|034|4164|Urbano|03
+61200|Barranca Honda (Paso Hondo)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0026|Rural|
+61200|Rincón de Cedeños (Rincón de Dolores)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2192|Rural|
+61200|Los Tizates (Llano de la Tecata)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0113|Rural|
+61201|San Bartolo Cuitareo|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2195|Urbano|
+61201|5 de Mayo|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0008|Urbano|
+61203|Grandemira|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0068|Rural|
+61203|La Huerta|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0075|Rural|
+61203|Las Galeras|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0096|Rural|
+61203|El Cortijo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0046|Rural|
+61203|El Nogal|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0056|Rural|
+61203|Las Grutas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2197|Rural|
+61203|El Chaparro|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|2189|Rural|
+61203|Benito Juárez|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2193|Rural|
+61203|Las Caleras|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2196|Rural|
+61203|Puerto de Cuitareo (Puerto del Sagrado Corazón)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2198|Rural|
+61203|Huaniqueo|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2190|Rural|
+61203|La Mina Vieja|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0079|Rural|
+61203|Rancho Grande|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0138|Rural|
+61204|La Resinera|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0163|Rural|
+61204|El Potrero de la Virgen|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0059|Rural|
+61204|Loma Seca|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0105|Rural|
+61204|La Ciénega|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0072|Rural|
+61204|Plan de Santa Rosa (Plan de Huaniqueo)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0131|Rural|
+61204|Camino al Potrero|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0028|Rural|
+61204|Magallanes (Los Pinos)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0114|Rural|
+61204|Santa Rosa|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0149|Rural|
+61204|El Mirador (Llano del Ejido)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2199|Rural|
+61204|El Convento (El Encuentro)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0044|Rural|
+61204|La Mesa|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0077|Rural|
+61204|Solache|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2200|Rural|
+61205|La Alborada (El Pavo)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0033|Rural|
+61205|El Pavo (Ojo de Agua)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0057|Rural|
+61205|Tembendado (Temendao)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0152|Rural|
+61205|Ecológica Asociación de Lucha Social (Lucha Social|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0167|Rural|
+61206|El Pitorreal (Cerro Prieto)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0058|Rural|
+61206|Agua del Pino|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2205|Rural|
+61206|Rincón de Arriba (Janamoro)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0139|Rural|
+61206|Manzana de Alcalá (Janamoro)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0116|Rural|
+61206|Héroes de Reforma|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0165|Rural|
+61206|Camino a los Pozos|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0160|Rural|
+61206|Rincón de Escobedo (Janamoro)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2203|Rural|
+61207|El Jaral (Janamoro)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0050|Rural|
+61207|Joyas de Birruete (Janamoro)|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2204|Rural|
+61210|La Teja|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2206|Rural|
+61210|La Cuadrilla (Los Capulines)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2210|Rural|
+61210|Arroyo Zarco|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0025|Rural|
+61210|Casa Blanca|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0030|Rural|
+61210|San Pedro Jácuaro (Las Joyas)|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2208|Rural|
+61210|Ejido Rincón de Rubios (Rancho Ruiz)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0037|Rural|
+61210|Tierras Coloradas (San Pedro)|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|0153|Rural|
+61211|Piedra Azul|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0013|Urbano|
+61211|El Sol|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0014|Urbano|
+61211|20 de Noviembre|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0012|Urbano|
+61211|La Cruz|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0016|Urbano|
+61211|Paraíso|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0018|Urbano|
+61211|El Valle|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0015|Urbano|
+61211|San Matías Grande|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2212|Urbano|
+61211|La Puente|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0017|Urbano|
+61211|Teocalli|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0019|Urbano|
+61213|Rincón de Rubios (Ejidos)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2214|Rural|
+61213|San Isidro Alta Huerta|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2209|Rural|
+61213|Estanco de San Matías|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0066|Rural|
+61214|Mesa de Guadalupe (La Noria)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2211|Rural|
+61214|Rosa del Maíz|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0142|Rural|
+61214|Casas Pintas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2215|Rural|
+61215|Mesa de Nazario (Los Pozos)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0119|Rural|
+61215|El Muerto|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0055|Rural|
+61215|Los Pozos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2207|Rural|
+61215|La Verónica|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0162|Rural|
+61215|El Capulín|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0040|Rural|
+61215|Piedra del Molino|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0161|Rural|
+61215|Colonias Unidas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0164|Rural|
+61216|Palomas San Isidro|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0123|Rural|
+61216|Tacario|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2216|Rural|
+61216|Palomillas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0124|Rural|
+61217|Laguna Larga|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0088|Rural|
+61217|Agua Fría (Pízcuaro)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0024|Rural|
+61217|Los Ajolotes|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0107|Rural|
+61217|Los Baños de San Pedro (Eréndira)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0108|Rural|
+61217|Los Tejamaniles (Rancho Viejo)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0112|Rural|
+61220|El Charco|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0043|Rural|
+61220|Huajúmbaro|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2217|Rural|
+61220|Rincón del Escobal (La Bóveda)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0141|Rural|
+61220|La Venta de San Andrés|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2218|Rural|
+61222|Mesa de Mil Cumbres|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0118|Rural|
+61222|Mil Cumbres|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0120|Rural|
+61222|La Mina|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2221|Rural|
+61222|La Parada (Desviación a Huajúmbaro)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0083|Rural|
+61222|Rincón de Pitahayas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0140|Rural|
+61222|Arroyo Atascoso|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0159|Rural|
+61222|El Pedregal|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2220|Rural|
+61222|Arroyo Largo|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2219|Rural|
+61222|Pino Gordo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0130|Rural|
+61223|Puerto de Pucuato (La Cooperativa)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2222|Rural|
+61224|Lázaro Cárdenas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0103|Rural|
+61224|Rancho Alegre|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0137|Rural|
+61224|Los Manantiales [Parque]|Equipamiento|Hidalgo|Michoacán de Ocampo||61101|16|61101||17|034|0166|Rural|
+61224|Cruz de Caminos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2223|Rural|
+61224|San Jerónimo (Rincón de San Jerónimo)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0067|Rural|
+61224|Rincón de San Jerónimo (El Encuentro)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2224|Rural|
+61224|Las Pilas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0099|Rural|
+61225|San José Irapeo (La Casa del Padre)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2227|Rural|
+61225|El Porvenir|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2225|Rural|
+61225|San Jerónimo|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2226|Rural|
+61225|San Lucas Huarirapeo (La Mesa de San Lucas)|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|2228|Rural|
+61226|Cuchipitio Palos Secos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2229|Rural|
+61226|San Nicolás Cuchipitio|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0147|Rural|
+61227|El Carrizo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0041|Rural|
+61227|Cieneguillas|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2230|Rural|
+61227|El Tren|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0064|Rural|
+61227|Peñuelas (El Tren Peñuelas)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0127|Rural|
+61228|Agua Blanca|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0022|Rural|
+61228|Huindo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0070|Rural|
+61230|El Caracol|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2231|Rural|
+61230|Pucuato|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2232|Rural|
+61230|La Palma|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0081|Rural|
+61230|El Capulín|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0039|Rural|
+61230|Jaritas de Pucuato|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0071|Rural|
+61230|El Molcajete|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0054|Rural|
+61230|San Isidro|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0144|Rural|
+61230|Monte Oscuro (Monte Obscuro)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2245|Rural|
+61231|San José|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0010|Urbano|
+61231|Buenavista|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0009|Urbano|
+61231|San Miguel|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0011|Urbano|
+61231|San Antonio Villalongín|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2236|Urbano|
+61233|Guayabitos|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0069|Rural|
+61233|Las Esperanzas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0092|Rural|
+61233|Saucedo|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2239|Rural|
+61233|El Copal|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0045|Rural|
+61233|San Rafael|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0148|Rural|
+61233|Santa Ana|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2238|Rural|
+61233|Loma de en Medio|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0104|Rural|
+61235|Agua Bendita|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0021|Rural|
+61235|El Huarache|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0049|Rural|
+61235|Río Hondo|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2235|Rural|
+61235|El Salitre|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2240|Rural|
+61235|El Triguito|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0065|Rural|
+61235|Los Patios|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0111|Rural|
+61235|Barranca el Laurelito|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0157|Rural|
+61235|Puente de Tierra|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2237|Rural|
+61235|La Zarza|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0087|Rural|
+61235|Las Presitas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0101|Rural|
+61235|Agua Escondida|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0023|Rural|
+61235|El Garrapato|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0047|Rural|
+61236|Puerto Ventero|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0136|Rural|
+61236|San Juan de Dios Jauja|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0146|Rural|
+61236|Cusio|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0155|Rural|
+61236|Las Frutas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0095|Rural|
+61236|El Astillero (Astilleros)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2242|Rural|
+61236|Charapio|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0032|Rural|
+61236|La Palma|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0082|Rural|
+61236|Serrano|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0150|Rural|
+61237|Palomas (Cerro del Gallo)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0122|Rural|
+61237|Las Pitayas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2243|Rural|
+61237|Las Palomas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2244|Rural|
+61237|Las Pitayas Dos|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0100|Rural|
+61237|Tierras Coloradas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2233|Rural|
+61240|El Retranque (La Presa de Pucuato)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0061|Rural|
+61240|José María Morelos (Ziripeo)|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2246|Rural|
+61240|El Castillo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0042|Rural|
+61241|Agostitlán|Pueblo|Hidalgo|Michoacán de Ocampo||61101|16|61101||28|034|2247|Urbano|
+61241|Los Pinos|Fraccionamiento|Hidalgo|Michoacán de Ocampo||61101|16|61101||21|034|0007|Urbano|
+61241|El Zacatonal|Fraccionamiento|Hidalgo|Michoacán de Ocampo||61101|16|61101||21|034|0004|Urbano|
+61241|Loma Bonita|Fraccionamiento|Hidalgo|Michoacán de Ocampo||61101|16|61101||21|034|0006|Urbano|
+61241|La Huerta|Fraccionamiento|Hidalgo|Michoacán de Ocampo||61101|16|61101||21|034|0005|Urbano|
+61241|El Plan|Colonia|Hidalgo|Michoacán de Ocampo||61101|16|61101||09|034|0003|Urbano|
+61241|El Bosque|Fraccionamiento|Hidalgo|Michoacán de Ocampo||61101|16|61101||21|034|0002|Urbano|
+61243|Los Cedritos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0109|Rural|
+61243|La Mesa|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0078|Rural|
+61243|La Ortiga|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0080|Rural|
+61243|Dotación la Granja (Los Capulines)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0036|Rural|
+61243|La Granja (Puerto la Granja)|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2213|Rural|
+61243|Cuitzillos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0035|Rural|
+61243|Las Trojas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0102|Rural|
+61243|Mata Venado|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0117|Rural|
+61243|Buenavista|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0027|Rural|
+61243|Puente las Gallinas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0134|Rural|
+61244|Cerro del Macho|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0031|Rural|
+61244|Mata de Pinos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0034|Rural|
+61244|Puente de Vacas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0132|Rural|
+61244|Llano de Agostitlán|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2248|Rural|
+61244|El Bayo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0038|Rural|
+61244|Ojo de Agua del Encino|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0121|Rural|
+61244|Majadas Viejas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0115|Rural|
+61244|Puente del Encino|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0133|Rural|
+61244|La Libertad (Las Tablas)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0076|Rural|
+61244|Los Mamullos|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0110|Rural|
+61244|Mata de Pinos|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2250|Rural|
+61244|El Tepetate|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0063|Rural|
+61244|Las Capillas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0090|Rural|
+61245|La Conguera|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0073|Rural|
+61245|Las Espinas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0093|Rural|
+61245|San José [La Fábrica]|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0145|Rural|
+61245|El Salitre|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0156|Rural|
+61245|El Tejocote Redondo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0062|Rural|
+61245|Carindapaz|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0029|Rural|
+61245|El Garrapato|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0048|Rural|
+61245|Piedra Parada|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0129|Rural|
+61245|La Toma|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2241|Rural|
+61246|Agua Azul|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0020|Rural|
+61246|Las Joyas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0097|Rural|
+61246|Puerto Coyote|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0135|Rural|
+61246|La Pitahaya|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0084|Rural|
+61246|Las Joyitas|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|0098|Rural|
+61246|El Malacate|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0052|Rural|
+61246|El Mamuyo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0053|Rural|
+61246|Barcino|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0158|Rural|
+61247|La Yerbabuena|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0086|Rural|
+61247|Las Canoyitas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0089|Rural|
+61247|Las Cuevas|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0091|Rural|
+61247|El Llano (Llano Blanco)|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0051|Rural|
+61247|Plan Seco|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2251|Rural|
+61247|Palos Secos|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0125|Rural|
+61247|Siempreviva|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0151|Rural|
+61247|Peña del Agua|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0126|Rural|
+61247|Los Fresnos|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2249|Rural|
+61247|Encino Copudo|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0154|Rural|
+61247|El Retaje|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0060|Rural|
+61247|La Tecata|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0085|Rural|
+61247|Cerro Azul|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2234|Rural|
+61247|La Fragua|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0074|Rural|
+61248|El Agostaderito|Ejido|Hidalgo|Michoacán de Ocampo||61101|16|61101||15|034|2252|Rural|
+61248|Piedra Gorda|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0128|Rural|
+61248|Las Espinas de la Unión|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0094|Rural|
+61248|El Señaladero|Ranchería|Hidalgo|Michoacán de Ocampo||61101|16|61101||29|034|2253|Rural|
+61248|Sabaneta|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0143|Rural|
+61248|Los Adobes|Rancho|Hidalgo|Michoacán de Ocampo||61101|16|61101||48|034|0106|Rural|

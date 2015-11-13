@@ -1,0 +1,16 @@
+67050|China|Villa|China|Nuevo León||67051|19|67051||32|013|1506|Rural|
+67050|Valles de Cadereyta|Fraccionamiento|China|Nuevo León||67051|19|67051||21|013|5144|Urbano|
+67050|La Laguna|Colonia|China|Nuevo León||67051|19|67051||09|013|0002|Rural|
+67050|Valle de San Felipe|Colonia|China|Nuevo León||67051|19|67051||09|013|5796|Urbano|
+67050|El Maestro|Colonia|China|Nuevo León||67051|19|67051||09|013|5795|Rural|
+67052|Santa Mónica|Ranchería|China|Nuevo León||67501|19|67501||29|013|1508|Rural|
+67053|San Isidro|Colonia|China|Nuevo León||67051|19|67051||09|013|5107|Urbano|
+67055|Revolución|Colonia|China|Nuevo León||67051|19|67051||09|013|5108|Urbano|
+67060|La Barranca|Congregación|China|Nuevo León||67501|19|67501||11|013|1510|Rural|
+67066|El Cuchillo|Rancho|China|Nuevo León||67501|19|67501||48|013|0001|Rural|
+67066|Paso de La Loma|Ranchería|China|Nuevo León||67501|19|67501||29|013|1509|Rural|
+67087|San Juanito|Ranchería|China|Nuevo León||67051|19|67051||29|013|4873|Rural|
+67093|San Fernando|Ranchería|China|Nuevo León||67051|19|67051||29|013|4852|Rural|
+67093|San Pablo|Ranchería|China|Nuevo León||67051|19|67051||29|013|5847|Rural|
+67097|La Barreta|Ranchería|China|Nuevo León||67501|19|67501||29|013|1511|Rural|
+67099|Dr. Ignacio Morones Prieto|Colonia|China|Nuevo León||67501|19|67501||09|013|1512|Rural|

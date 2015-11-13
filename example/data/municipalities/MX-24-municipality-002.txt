@@ -1,0 +1,60 @@
+79360|Alaquines|Pueblo|Alaquines|San Luis Potosí||79381|24|79381||28|002|1244|Urbano|
+79363|De Guadalupe|Colonia|Alaquines|San Luis Potosí||79381|24|79381||09|002|2978|Urbano|
+79364|San Antonio|Barrio|Alaquines|San Luis Potosí||79381|24|79381||02|002|2814|Urbano|
+79365|De San José|Colonia|Alaquines|San Luis Potosí||79381|24|79381||09|002|0002|Urbano|
+79366|De La Luz|Colonia|Alaquines|San Luis Potosí||79381|24|79381||09|002|0001|Urbano|
+79370|San José de Palmas|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|1250|Rural|
+79370|Río Abajo|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0042|Rural|
+79370|El Álamo|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0010|Rural|
+79370|La Cieneguita|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0021|Rural|
+79370|El Salitrillo (Juan Olvera)|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0017|Rural|
+79373|La Casa de la Piedra|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0020|Rural|
+79373|Agua de San Juan (Joya Alegre)|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0003|Rural|
+79373|San Antonio de las Tortugas|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0044|Rural|
+79373|Los Palos Prietos|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0030|Rural|
+79373|Cerro Grande|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0007|Rural|
+79373|El Callejón de la Luz|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0011|Rural|
+79373|La Puente|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0023|Rural|
+79373|Nogales|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0034|Rural|
+79373|Ojo de Agua|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0036|Rural|
+79373|Puerto del Tigre|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0039|Rural|
+79374|Rancho Nuevo|Poblado comunal|Alaquines|San Luis Potosí||79381|24|79381||27|002|2813|Rural|
+79374|Morales|Rancho|Alaquines|San Luis Potosí||79381|24|79381||48|002|2816|Rural|
+79374|El Tejocote|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0018|Rural|
+79374|Paso de Mendiolas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0038|Rural|
+79374|Rincón Grande|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0041|Rural|
+79374|La Cañada|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|1246|Rural|
+79374|Las Puertas Cuatas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0028|Rural|
+79374|Rancho de Pro|Poblado comunal|Alaquines|San Luis Potosí||79381|24|79381||27|002|2815|Rural|
+79374|La Máscara|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0022|Rural|
+79374|Nueva Reforma|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0035|Rural|
+79374|Maldonado|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|1248|Rural|
+79374|Las Peñitas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0027|Rural|
+79374|El Nacimiento de la Peña|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0014|Rural|
+79374|El Sabino|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|1245|Rural|
+79374|Colonia Indígena (Pascual Osorio Ortega)|Colonia|Alaquines|San Luis Potosí||79381|24|79381||09|002|2945|Rural|
+79375|Los Pocitos (Los Pozos)|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0031|Rural|
+79375|Pasito de San Francisco|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|1247|Rural|
+79375|El Quebrantadero|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0016|Rural|
+79375|Las Crucitas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0025|Rural|
+79375|Cañón de Guerrero|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0006|Rural|
+79375|El Infiernito|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0012|Rural|
+79375|San José del Corito|Pueblo|Alaquines|San Luis Potosí||79381|24|79381||28|002|0045|Rural|
+79375|El Llanito|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0013|Rural|
+79375|El Pelillo|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0015|Rural|
+79375|Palo Hueco|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0037|Rural|
+79375|El Abra|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0009|Rural|
+79375|Olla del Durazno (Joya del Durazno)|Poblado comunal|Alaquines|San Luis Potosí||79381|24|79381||27|002|2700|Rural|
+79375|Agua Nueva|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0004|Rural|
+79375|Las Huertas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0026|Rural|
+79375|Mesas del Durazno|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0033|Rural|
+79376|Crucero del Llano|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0008|Rural|
+79376|Cañaditas|Pueblo|Alaquines|San Luis Potosí||79381|24|79381||28|002|0005|Rural|
+79376|Mesa de San Francisco (Mesa de San José)|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0032|Rural|
+79376|San Antonio|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0043|Rural|
+79376|Huerta de la Redonda|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0019|Rural|
+79376|La Sepultura|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0024|Rural|
+79376|Las Tuzas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0029|Rural|
+79376|Rancho San Blas|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|0040|Rural|
+79376|Martínez|Ejido|Alaquines|San Luis Potosí||79381|24|79381||15|002|1249|Rural|
+79377|Tanque el Granadillo|Ranchería|Alaquines|San Luis Potosí||79381|24|79381||29|002|0046|Rural|

@@ -1,0 +1,15 @@
+71355|Niños Heroes|Colonia|Ayoquezco de Aldama|Oaxaca||71201|20|71201||09|398|0013|Urbano|
+71355|Ayoquezco de Aldama|Pueblo|Ayoquezco de Aldama|Oaxaca||71201|20|71201||28|398|2840|Urbano|
+71355|De Abajo|Barrio|Ayoquezco de Aldama|Oaxaca||71201|20|71201||02|398|0011|Urbano|
+71355|Coyote|Colonia|Ayoquezco de Aldama|Oaxaca||71201|20|71201||09|398|0010|Urbano|
+71355|De Arriba|Colonia|Ayoquezco de Aldama|Oaxaca||71201|20|71201||09|398|0012|Urbano|
+71357|Llusgue|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0006|Rural|
+71357|Loma Colorada|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0007|Rural|
+71357|Guevara|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0004|Rural|
+71359|El Coyote|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0002|Rural|
+71359|Santa Inés|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0009|Rural|
+71359|Llano del Calicanto (Arroyo Gueguana)|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0005|Rural|
+71359|Lucino Ortega|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0008|Rural|
+71359|Guegovela|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|2842|Rural|
+71359|Corral de Piedras|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0001|Rural|
+71359|El Llano|Ranchería|Ayoquezco de Aldama|Oaxaca||71201|20|71201||29|398|0003|Rural|

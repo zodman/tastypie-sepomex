@@ -1,0 +1,39 @@
+52440|Santa Mónica|Barrio|Malinalco|México||52441|15|52441||02|052|8236|Rural|
+52440|San Juan|Colonia|Malinalco|México||52441|15|52441||09|052|8203|Rural|
+52440|Malinalco|Pueblo|Malinalco|México||52441|15|52441||28|052|1947|Rural|
+52440|Campos San Martín|Ranchería|Malinalco|México||52441|15|52441||29|052|7439|Rural|
+52443|San Nicolás|Pueblo|Malinalco|México||52441|15|52441||28|052|1948|Rural|
+52443|San Sebástian|Ranchería|Malinalco|México||52441|15|52441||29|052|6748|Rural|
+52443|Jesús María|Ranchería|Malinalco|México||52441|15|52441||29|052|6747|Rural|
+52444|San Simón el Alto|Pueblo|Malinalco|México||52441|15|52441||28|052|1949|Rural|
+52460|Chalma|Pueblo|Malinalco|México||52441|15|52441||28|052|1953|Rural|
+52460|Tepolula|Ranchería|Malinalco|México||52441|15|52441||29|052|7433|Rural|
+52460|San Isidro|Ranchería|Malinalco|México||52441|15|52441||29|052|7435|Rural|
+52463|Palmar de Guadalupe|Pueblo|Malinalco|México||52441|15|52441||28|052|1960|Rural|
+52463|El Zapote|Ranchería|Malinalco|México||52441|15|52441||29|052|7443|Rural|
+52463|Pachuquilla|Pueblo|Malinalco|México||52441|15|52441||28|052|1954|Rural|
+52464|La Loma|Ranchería|Malinalco|México||52441|15|52441||29|052|7436|Rural|
+52464|Puente Caporal|Pueblo|Malinalco|México||52441|15|52441||28|052|1955|Rural|
+52464|El Puentecito|Pueblo|Malinalco|México||52441|15|52441||28|052|1959|Rural|
+52464|La Ladrillera|Pueblo|Malinalco|México||52441|15|52441||28|052|1951|Rural|
+52465|Jalmolonga|Pueblo|Malinalco|México||52441|15|52441||28|052|1952|Rural|
+52465|Amate Amarillo|Pueblo|Malinalco|México||52441|15|52441||28|052|1956|Rural|
+52465|La Loma del Coporo|Ranchería|Malinalco|México||52441|15|52441||29|052|7438|Rural|
+52465|La Huerta|Ranchería|Malinalco|México||52441|15|52441||29|052|7437|Rural|
+52466|La Joya Redonda|Ranchería|Malinalco|México||52441|15|52441||29|052|7444|Rural|
+52466|Monte Grande|Pueblo|Malinalco|México||52441|15|52441||28|052|1957|Rural|
+52467|Planta Alameda|Pueblo|Malinalco|México||52441|15|52441||28|052|1958|Rural|
+52467|Tepehuajes|Ranchería|Malinalco|México||52441|15|52441||29|052|7445|Rural|
+52467|Palo Dulce|Ranchería|Malinalco|México||52441|15|52441||29|052|7447|Rural|
+52470|Noxtepec de Zaragoza|Pueblo|Malinalco|México||52441|15|52441||28|052|1961|Rural|
+52470|Santa María Xoquiac|Pueblo|Malinalco|México||52441|15|52441||28|052|1964|Rural|
+52473|Chichicasco el Viejo|Ranchería|Malinalco|México||52441|15|52441||29|052|7446|Rural|
+52473|El Platanar|Pueblo|Malinalco|México||52441|15|52441||28|052|1963|Rural|
+52473|San Pedro Chichicasco|Pueblo|Malinalco|México||52441|15|52441||28|052|1962|Rural|
+52476|Juárez|Colonia|Malinalco|México||52441|15|52441||09|052|1965|Rural|
+52477|Guadalupe Victoria|Ranchería|Malinalco|México||52441|15|52441||29|052|7441|Rural|
+52477|La Angostura|Ranchería|Malinalco|México||52441|15|52441||29|052|7440|Rural|
+52477|San Andrés Nicolás Bravo|Pueblo|Malinalco|México||52441|15|52441||28|052|1968|Rural|
+52477|Hidalgo|Colonia|Malinalco|México||52441|15|52441||09|052|1967|Rural|
+52477|Emiliano Zapata|Ranchería|Malinalco|México||52441|15|52441||29|052|7442|Rural|
+52477|Aldama|Pueblo|Malinalco|México||52441|15|52441||28|052|1966|Rural|

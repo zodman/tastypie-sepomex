@@ -1,0 +1,85 @@
+40930|Benito Juárez|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1096|Semiurbano|07
+40930|Lomas del Sur|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1465|Semiurbano|07
+40930|Acapulquito|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1057|Semiurbano|07
+40930|El Parazal|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1269|Semiurbano|07
+40930|Francisco Villa|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1314|Semiurbano|07
+40930|La Villita|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1407|Semiurbano|07
+40930|Manuel Téllez|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1484|Semiurbano|07
+40930|Insurgentes Morelos|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1337|Semiurbano|07
+40930|Silvestre Mariscal|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1487|Semiurbano|07
+40930|Santa Dorotea|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1649|Semiurbano|07
+40930|Sonora|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1668|Semiurbano|07
+40930|Antonio Campos|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1072|Semiurbano|07
+40930|El Chico|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1250|Semiurbano|07
+40930|Juan N Alvarez|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1352|Semiurbano|07
+40930|La Mártires|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1382|Semiurbano|07
+40930|Las Palmeras|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1430|Semiurbano|07
+40930|Loma Bonita|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1458|Semiurbano|07
+40930|18 de Mayo|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1211|Semiurbano|07
+40930|La Florida|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1364|Semiurbano|07
+40930|Moderna|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1500|Semiurbano|07
+40930|Vicente Guerrero|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1716|Semiurbano|07
+40930|Atoyac de Alvarez Centro|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1145|Semiurbano|07
+40930|La Pindecua|Colonia|Atoyac de Álvarez|Guerrero|Atoyac de Álvarez|40931|12|40931||09|011|1389|Semiurbano|07
+40932|Corral Falso|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2841|Rural|
+40932|Boca de Arroyo|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2840|Rural|
+40932|El Ciruelar|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2842|Rural|
+40933|El Humo|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2843|Rural|
+40933|La y|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2844|Rural|
+40934|La Vainilla|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2847|Rural|
+40934|Plan de los Molinos|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2848|Rural|
+40934|Alcholoa|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2845|Rural|
+40934|Ixtla|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2846|Rural|
+40935|Cacalutla|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2849|Rural|
+40935|Poza Honda|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2852|Rural|
+40935|El Quemado|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2851|Rural|
+40935|Cerro Prieto|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2850|Rural|
+40936|El Huicón|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2854|Rural|
+40936|Zacualpan|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2855|Rural|
+40936|Cuauhtémoc|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2853|Rural|
+40937|La Zuzuca|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2856|Rural|
+40937|Las Parotas|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2839|Rural|
+40937|El Ticui|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2838|Rural|
+40937|Lázaro Cárdenas|Colonia|Atoyac de Álvarez|Guerrero||40931|12|40931||09|011|4237|Rural|
+40938|Miranda Fonseca|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2857|Rural|
+40939|Buenos Aires Colonia|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2858|Rural|
+40940|Los Valles|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2859|Rural|
+40941|El Salto Chiquito|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2861|Rural|
+40941|El Salto|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2860|Rural|
+40941|Mexcaltepec|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2862|Rural|
+40942|San Andrés de La Cruz|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2863|Rural|
+40943|Santiago de La Unión|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2869|Rural|
+40943|Las Trincheras|Congregación|Atoyac de Álvarez|Guerrero||40931|12|40931||11|011|2866|Rural|
+40943|El Cucuyachi|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2865|Rural|
+40943|Llanos de Santiago|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2867|Rural|
+40943|El Achotal|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2864|Rural|
+40943|Río Santiago|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2868|Rural|
+40943|San Martín de las Flores|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2837|Rural|
+40944|San Francisco del Tibor|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2871|Rural|
+40944|La Remonta|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2870|Rural|
+40947|Caña de Agua|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2873|Rural|
+40949|Vicente Guerrero|Colonia|Atoyac de Álvarez|Guerrero||40931|12|40931||09|011|2874|Rural|
+40950|Pie de La Cuesta|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2875|Rural|
+40951|Río del Bálsamo|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2877|Rural|
+40951|La Gloria|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2876|Rural|
+40951|Santo Domingo|Congregación|Atoyac de Álvarez|Guerrero||40931|12|40931||11|011|2878|Rural|
+40952|Rincón de las Parotas|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2880|Rural|
+40952|El Cacao|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2879|Rural|
+40953|La Cebada|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2881|Rural|
+40953|San Juan de las Flores|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2883|Rural|
+40953|Río Chiquito|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2882|Rural|
+40954|El Camarón|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2884|Rural|
+40955|Agua Fría|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2885|Rural|
+40955|El Escorpión|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2886|Rural|
+40956|La Pintada|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2889|Rural|
+40956|Puerto Gallo|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2892|Rural|
+40956|El Edén|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2887|Rural|
+40956|Los Piloncillos|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2890|Rural|
+40956|Nueva Delhi|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2891|Rural|
+40956|El Paraíso|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2888|Rural|
+40957|La Soledad|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2894|Rural|
+40957|Puente de los Lugardo|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2895|Rural|
+40957|Puente del Rey|Ranchería|Atoyac de Álvarez|Guerrero||40931|12|40931||29|011|2896|Rural|
+40957|El Porvenir|Campamento|Atoyac de Álvarez|Guerrero||40931|12|40931||04|011|2893|Rural|
+40957|San Vicente de Benítez|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2897|Rural|
+40958|San Vicente de Jesús|Pueblo|Atoyac de Álvarez|Guerrero||40931|12|40931||28|011|2898|Rural|

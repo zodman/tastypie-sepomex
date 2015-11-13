@@ -1,0 +1,26 @@
+39230|San Miguel|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0374|Rural|
+39230|Cuaxtlahuacán|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0372|Rural|
+39230|Cenobio Mendoza|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4624|Urbano|
+39230|Rodeo|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4622|Urbano|
+39230|Coatomatitlán|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0371|Rural|
+39230|La Villita|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4621|Urbano|
+39230|San Miguelito|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4619|Urbano|
+39230|Tres Cruces|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4625|Urbano|
+39230|El Cohuilote|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4626|Urbano|
+39230|Mochitlán|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0373|Urbano|
+39230|San Pedro|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4620|Urbano|
+39230|San Juan|Colonia|Mochitlán|Guerrero||39001|12|39001||09|044|4623|Urbano|
+39232|Monte Alegre|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0375|Rural|
+39233|El Rincón de Tlapacholapa|Ranchería|Mochitlán|Guerrero||39001|12|39001||29|044|0377|Rural|
+39233|Tlapacholapa|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0378|Rural|
+39233|El Naranjo|Ranchería|Mochitlán|Guerrero||39001|12|39001||29|044|0376|Rural|
+39234|Tlacotepec|Ranchería|Mochitlán|Guerrero||39001|12|39001||29|044|0379|Rural|
+39235|Chacotla|Campamento|Mochitlán|Guerrero||39001|12|39001||04|044|0381|Rural|
+39235|El Salado|Campamento|Mochitlán|Guerrero||39001|12|39001||04|044|0382|Rural|
+39236|San Roque|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0383|Rural|
+39237|La Vieja|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0384|Rural|
+39237|Zacaxtlahuacan|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0385|Rural|
+39240|Zintlanapa|Ranchería|Mochitlán|Guerrero||39001|12|39001||29|044|0386|Rural|
+39241|Lagunillas|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0387|Rural|
+39249|Calpantepec|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0388|Rural|
+39249|Rancho Viejo|Pueblo|Mochitlán|Guerrero||39001|12|39001||28|044|0389|Rural|

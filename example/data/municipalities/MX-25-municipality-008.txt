@@ -1,0 +1,69 @@
+82700|La Cruz Centro|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1216|Semiurbano|17
+82702|Arroyitos|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1816|Semiurbano|17
+82703|Macías|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|3081|Urbano|17
+82703|Las Brisas|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|2943|Urbano|17
+82703|Los Claveles|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|3053|Urbano|17
+82703|Santa Cruz|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|1820|Semiurbano|17
+82703|Colinas Del Rio|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1815|Semiurbano|17
+82703|Los Árboles|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|3132|Urbano|17
+82703|Nuevo Amanecer|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|3028|Urbano|17
+82704|Pedregal|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1810|Semiurbano|17
+82704|Loma Linda|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1811|Semiurbano|17
+82705|Ejidal|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1818|Semiurbano|17
+82706|Margarita|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1819|Semiurbano|17
+82706|Victor Manuel Quintero|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1817|Semiurbano|17
+82706|Palos Blancos|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1813|Semiurbano|17
+82707|Miramar|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1812|Semiurbano|17
+82708|Montebello|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|2698|Semiurbano|17
+82708|Guadalupe Victoria|Colonia|Elota|Sinaloa|La Cruz|82701|25|82701||09|008|1814|Semiurbano|17
+82708|Vicente Escobar|Fraccionamiento|Elota|Sinaloa|La Cruz|82701|25|82701||21|008|2985|Urbano|17
+82710|Ibonia|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2990|Rural|
+82713|El Sabinal|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2991|Rural|
+82720|Zoquititan|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|1218|Rural|
+82721|Conitaca|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|1219|Rural|
+82721|Salto Chico|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1220|Rural|
+82723|Chirimole|Pueblo|Elota|Sinaloa||80701|25|80701||28|008|2977|Rural|
+82724|Japuino|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2894|Rural|
+82725|Nuevo Salto Grande|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1221|Rural|
+82728|Elota|Ciudad|Elota|Sinaloa||82701|25|82701||08|008|1222|Rural|
+82730|El Espinal|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1223|Rural|
+82730|San José de Conitaca (Nuevo Conitaca)|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2538|Rural|
+82739|El Aguaje|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1224|Rural|
+82740|Potrerillos Del Norte|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1225|Rural|
+82741|Alta Rosa (Pípila II)|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|1226|Rural|
+82743|Vida Campesina|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1227|Rural|
+82745|Higuera de Culiacancito|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1228|Rural|
+82747|El Carrizo|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1229|Rural|
+82747|Emiliano Zapata|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1230|Rural|
+82757|Las Tinas|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1231|Rural|
+82758|El Bolillo|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2539|Rural|
+82758|Casas Viejas|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1232|Rural|
+82760|Agua Nueva|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1233|Rural|
+82763|Ensenada|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1234|Rural|
+82764|Casas Grandes|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1235|Rural|
+82766|Pueblo Nuevo|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|1236|Rural|
+82770|Tanques|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1237|Rural|
+82773|Campo Cachanilla|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2541|Rural|
+82773|Boscoso|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1238|Rural|
+82773|Culiacán (Culiacancito)|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2540|Rural|
+82775|Campo Santa Lucía II|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2543|Rural|
+82775|Campo San Juan|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2542|Rural|
+82776|Campo Cinco (La Retama)|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2544|Rural|
+82777|Los Caimanes|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1239|Rural|
+82777|Caimanes II|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2545|Rural|
+82777|Campo Caimanes II|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2546|Rural|
+82780|Celestino Gazca Villaseñor|Ejido|Elota|Sinaloa||82701|25|82701||15|008|1240|Rural|
+82786|Campo Los Naranjos|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2548|Rural|
+82786|Campo Bellavista|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2547|Rural|
+82787|Ceuta|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1241|Rural|
+82787|Empaque Tarriba|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2549|Rural|
+82788|El Roble|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1242|Rural|
+82790|Tayoltita|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2551|Rural|
+82790|Campo Tayoltita|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2550|Rural|
+82790|Saladito|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1243|Rural|
+82790|Campo Tayoltita II|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2552|Rural|
+82790|Píder (Los Arroyitos)|Pueblo|Elota|Sinaloa||82701|25|82701||28|008|2553|Rural|
+82791|Loma Del Tecuyo|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1244|Rural|
+82792|Tecuyo|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1245|Rural|
+82793|El Salado|Ranchería|Elota|Sinaloa||82701|25|82701||29|008|1246|Rural|
+82797|Rosendo Nieblas|Ejido|Elota|Sinaloa||82701|25|82701||15|008|2701|Rural|

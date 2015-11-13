@@ -1,0 +1,142 @@
+83360|San Miguel de Horcasitas|Pueblo|San Miguel de Horcasitas|Sonora||83002|26|83002||28|056|0220|Rural|
+83363|La Chepa (Rancho Leonardito)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6050|Rural|
+83363|La Mancha|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6056|Rural|
+83363|Santa Teresa|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6127|Rural|
+83363|Chupisonora|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6016|Rural|
+83363|El Chinalito|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6022|Rural|
+83363|Pepón (Las Minitas)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6090|Rural|
+83363|Punta de Agua Uno|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6095|Rural|
+83363|Guadalupe|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6041|Rural|
+83363|El Flojo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6025|Rural|
+83363|La Providencia|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6059|Rural|
+83363|El Tigre|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6034|Rural|
+83363|San Benito|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6109|Rural|
+83363|El Gato|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6026|Rural|
+83363|El Veranito|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6036|Rural|
+83364|El Molino de Arriba|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6029|Rural|
+83364|El Molino de Abajo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6028|Rural|
+83364|Santa Rita|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6125|Rural|
+83364|La Carrizosa|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6048|Rural|
+83364|La Casa Colorada|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6049|Rural|
+83364|San Justino|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6118|Rural|
+83364|Los Seris|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6082|Rural|
+83364|Rancho Vacajuzary|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6107|Rural|
+83364|El Carricito|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6020|Rural|
+83364|Las Limas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6071|Rural|
+83364|La Bajada|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6045|Rural|
+83364|Rancho Agua Salada|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6097|Rural|
+83364|Santa María del Pópulo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6123|Rural|
+83364|El Llano|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6027|Rural|
+83364|El Tren|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6035|Rural|
+83364|Rancho Arbiseña|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6099|Rural|
+83365|Los Cuates|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6077|Rural|
+83365|Rancho Santiago Y|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6106|Rural|
+83365|Campo San José|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6011|Rural|
+83365|San Martín de Porres|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6119|Rural|
+83365|Juan Peralta|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6043|Rural|
+83365|San Juan de los Lagos|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6116|Rural|
+83365|La Gloria|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6054|Rural|
+83365|Campo del Rosario|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6006|Rural|
+83365|El Padre|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6031|Rural|
+83365|San Diego|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6111|Rural|
+83365|Ranchito del Río Bonito|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6096|Rural|
+83366|Campo el Beny|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6007|Rural|
+83366|Campo Número Dos|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6010|Rural|
+83366|Santa Rita (Campo Número Tres)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6126|Rural|
+83366|La Curva|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6051|Rural|
+83366|Grupo Serrano|Granja|San Miguel de Horcasitas|Sonora||83002|26|83002||23|056|6040|Rural|
+83366|Los Vergeles|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6084|Rural|
+83366|San José del Porvenir|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6115|Rural|
+83366|Serrano|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6128|Rural|
+83366|Los Cuates|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6076|Rural|
+83366|Placar|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6091|Rural|
+83366|Sagrado Corazón de Jesús|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6108|Rural|
+83366|Santa Rita|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6124|Rural|
+83366|Don Chayo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6018|Rural|
+83366|La Virgen|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6066|Rural|
+83366|Campo San Martín|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6012|Rural|
+83366|Las Mesteñas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6073|Rural|
+83366|Campo Miguel Campillo|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6009|Rural|
+83366|El Cuatro|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6024|Rural|
+83366|Noria Verde|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6086|Rural|
+83366|San Nicolás|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6120|Rural|
+83367|Pozo Manuel|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6093|Rural|
+83367|El Paraíso|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6032|Rural|
+83367|Rancho de Alejo Lugo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6101|Rural|
+83367|Rancho San Antonio|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6105|Rural|
+83367|Las Playitas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6074|Rural|
+83370|Cerro Colorado|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6014|Rural|
+83370|Cano Sainz (El Rastro)|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6013|Rural|
+83370|San Francisco|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6112|Rural|
+83370|El Cajón|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6019|Rural|
+83370|La Galera|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6053|Rural|
+83370|Los Diques|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6078|Rural|
+83370|El Nogalito|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6030|Rural|
+83370|Los Robles|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6081|Rural|
+83370|Los Ángeles (La Fábrica de los Ángeles)s|Congregación|San Miguel de Horcasitas|Sonora||83002|26|83002||11|056|0221|Rural|
+83370|La Tembladera de Arriba|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6064|Rural|
+83370|La Cañada|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6046|Rural|
+83370|La Cañada de San Miguel|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6047|Rural|
+83373|Aguariel|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6004|Rural|
+83373|El Coyote (Rancho Grande)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6023|Rural|
+83373|Rancho Guadalupe|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6104|Rural|
+83373|San Carlos (La Carbonera)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6110|Rural|
+83373|San Isidro|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6113|Rural|
+83373|Codorachi|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6017|Rural|
+83373|El Carrizo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6021|Rural|
+83373|La Quinta|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6060|Rural|
+83373|Rancho Arturo García|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6100|Rural|
+83374|La Luna (Viñedos San Martín)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6055|Rural|
+83374|La Salada de Arriba (SAHOP)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6062|Rural|
+83374|La Pinacata (San Francisco) [Porcícola]|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6058|Rural|
+83374|Viñedo Pesqueira|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6138|Rural|
+83374|El Tecolote|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6033|Rural|
+83374|La Aduana|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6044|Rural|
+83374|Pozo Enrique|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6092|Rural|
+83374|Granja Avícola Pesqueira|Granja|San Miguel de Horcasitas|Sonora||83002|26|83002||23|056|6039|Rural|
+83374|Viñedo el Beny|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6132|Rural|
+83374|La Salada de Abajo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6061|Rural|
+83374|Viñedo la Tracalita|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6137|Rural|
+83375|La Tarahumara|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6063|Rural|
+83375|Ladrillera Cubillas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6067|Rural|
+83375|Ladrillera Rodríguez|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6068|Rural|
+83375|Campo CESUES|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6005|Rural|
+83375|Frigoríficos Pesqueira Sonhofrut|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6038|Rural|
+83375|Las Mercedes [Agropecuaria]|Granja|San Miguel de Horcasitas|Sonora||83002|26|83002||23|056|6072|Rural|
+83375|María de Lourdes|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6085|Rural|
+83375|Viñedo el Manto|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6133|Rural|
+83375|Viñedo Escondido|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6135|Rural|
+83375|Fer-Ver de los Molinas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6037|Rural|
+83375|Las Bateas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6069|Rural|
+83375|Las Bateas (Las Bateas de Arriba)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6070|Rural|
+83375|Los Gordos|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6079|Rural|
+83375|Nuñez (Campo Nuñez)|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6087|Rural|
+83376|Viña el Sol|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6131|Rural|
+83376|Rancho de Baldomero Robles|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6102|Rural|
+83376|Rancho FIGVAL|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6103|Rural|
+83376|Santa Elena (La Providencia)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6122|Rural|
+83376|El Torreón|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|4403|Rural|
+83376|Agrícola el Bacame|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6003|Rural|
+83376|Hipódromo los Mezquites|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6042|Rural|
+83376|Los Hoyos|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6080|Rural|
+83376|Los Tres García [Ganadera]|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6083|Rural|
+83376|San Jerónimo|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6114|Rural|
+83376|Tierras Nuevas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6130|Rural|
+83376|Campito San Alberto|Rancho|San Miguel de Horcasitas|Sonora||83002|26|83002||48|056|0001|Rural|
+83376|Los Cochitos|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6075|Rural|
+83376|Predio Dos Pozos|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6094|Rural|
+83376|Rancho Aldana|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6098|Rural|
+83376|San Judas|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6117|Rural|
+83376|Santa Alejandrina|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6121|Rural|
+83376|La Escondida|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6052|Rural|
+83376|La Vinorama|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6065|Rural|
+83376|Viñedo la Mesa|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6136|Rural|
+83376|Cerro Pelón|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6015|Rural|
+83376|La Perla|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6057|Rural|
+83376|Pedro Moreno (Predio Mata de Carrizo)|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6089|Rural|
+83376|Sociedad Bracamonte Amarilla|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6129|Rural|
+83376|Pueblo Nuevo|Congregación|San Miguel de Horcasitas|Sonora||83002|26|83002||11|056|0222|Rural|
+83376|Campo Jorge Ortega|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6008|Rural|
+83376|Parronales Porfín|Ranchería|San Miguel de Horcasitas|Sonora||83002|26|83002||29|056|6088|Rural|
+83376|Viñedo el Porvenir|Ejido|San Miguel de Horcasitas|Sonora||83002|26|83002||15|056|6134|Rural|
+83377|Pesqueira|Zona federal|San Miguel de Horcasitas|Sonora||83002|26|83002||34|056|0223|Rural|

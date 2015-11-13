@@ -1,0 +1,46 @@
+97390|Brisas de Umán|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0002|Urbano|
+97390|Mejorada|Colonia|Umán|Yucatán||97391|31|97391||09|101|0631|Semiurbano|
+97390|San Cosme|Colonia|Umán|Yucatán||97391|31|97391||09|101|0665|Rural|
+97390|Dubical|Colonia|Umán|Yucatán||97391|31|97391||09|101|0987|Rural|
+97390|Jardines de Umán|Colonia|Umán|Yucatán||97391|31|97391||09|101|1799|Urbano|
+97390|El Oasis|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0004|Urbano|
+97390|Camino Real|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0005|Urbano|
+97390|Guadalupe|Colonia|Umán|Yucatán||97391|31|97391||09|101|0611|Semiurbano|
+97390|Acim II|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|1776|Urbano|
+97390|Ciudad Industrial|Ampliación|Umán|Yucatán||97391|31|97391||38|101|0581|Semiurbano|
+97390|San Lorenzo|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0678|Semiurbano|
+97390|Acim I|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0553|Urbano|
+97390|San Salvador|Colonia|Umán|Yucatán||97391|31|97391||09|101|0684|Rural|
+97390|Cepeda Peraza|Colonia|Umán|Yucatán||97391|31|97391||09|101|0983|Semiurbano|
+97390|Santana|Colonia|Umán|Yucatán||97391|31|97391||09|101|0694|Semiurbano|
+97390|Soledad|Colonia|Umán|Yucatán||97391|31|97391||09|101|0698|Rural|
+97390|Candelaria|Colonia|Umán|Yucatán||97391|31|97391||09|101|0986|Semiurbano|
+97390|Bosques de Uman|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|1710|Semiurbano|
+97390|San Carlos Umán|Colonia|Umán|Yucatán||97391|31|97391||09|101|1795|Urbano|
+97390|Ceibo|Colonia|Umán|Yucatán||97391|31|97391||09|101|0571|Semiurbano|
+97390|San Francisco|Colonia|Umán|Yucatán||97391|31|97391||09|101|0667|Semiurbano|
+97390|Miguel Hidalgo|Colonia|Umán|Yucatán||97391|31|97391||09|101|0989|Semiurbano|
+97390|Los Arcos II|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|1754|Urbano|
+97390|Centro Umán|Colonia|Umán|Yucatán||97391|31|97391||09|101|0312|Urbano|
+97390|San Lázaro|Colonia|Umán|Yucatán||97391|31|97391||09|101|0984|Semiurbano|
+97390|Las Perlas de Umán|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0003|Urbano|
+97390|Santa Elena|Colonia|Umán|Yucatán||97391|31|97391||09|101|0988|Semiurbano|
+97392|Itzincab|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0314|Rural|
+97392|Piedra de Agua|Fraccionamiento|Umán|Yucatán||97391|31|97391||21|101|0001|Urbano|
+97393|Dzibikak|Pueblo|Umán|Yucatán||97391|31|97391||28|101|0726|Rural|
+97393|Oxcum|Pueblo|Umán|Yucatán||97391|31|97391||28|101|0311|Rural|
+97394|Ticimul|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1645|Rural|
+97394|Tebec|Pueblo|Umán|Yucatán||97391|31|97391||28|101|0316|Rural|
+97394|Xtepen|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1648|Rural|
+97394|Petecbiltun|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1647|Rural|
+97395|Hotzuc|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1649|Rural|
+97396|Yaxcopoil|Hacienda|Umán|Yucatán||97391|31|97391||24|101|0313|Rural|
+97396|Dzich|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1653|Rural|
+97396|Sahcaba|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1650|Rural|
+97396|Xtohil|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1651|Rural|
+97396|Sambula|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1652|Rural|
+97396|San Antonio Mulix|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1654|Rural|
+97397|Bolon|Pueblo|Umán|Yucatán||97391|31|97391||28|101|0310|Rural|
+97397|Poxila|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1646|Rural|
+97397|Oxholon|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1643|Rural|
+97397|San Antonio Chun|Pueblo|Umán|Yucatán||97391|31|97391||28|101|1644|Rural|

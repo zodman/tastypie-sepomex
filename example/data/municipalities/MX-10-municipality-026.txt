@@ -1,0 +1,557 @@
+34670|La Tableta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4230|Rural|
+34670|Rancho Viejo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4362|Rural|
+34670|Huahuapan|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0740|Rural|
+34670|Sapiorís|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0741|Rural|
+34670|La Canal de la Borrega|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0745|Rural|
+34670|Piedras de Lumbre|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4352|Rural|
+34670|San Ignacio de Enmidio|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4371|Rural|
+34670|San Juan|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4383|Rural|
+34670|Toluanda|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4410|Rural|
+34670|Cuevecillas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0760|Rural|
+34670|El Huehuento|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4038|Rural|
+34670|El Pajonal|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4062|Rural|
+34670|San Miguel de Cruces|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0736|Rural|
+34670|El Bañadero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3996|Rural|
+34670|San Ignacio de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4369|Rural|
+34670|Yerbaníz|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4419|Rural|
+34670|Atoyaderos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3954|Rural|
+34670|Cuevecillas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3982|Rural|
+34670|La Mora|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4206|Rural|
+34670|San José|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4377|Rural|
+34670|Coscomates|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3976|Rural|
+34670|Duranguito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3983|Rural|
+34670|El Carmen|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4004|Rural|
+34670|La Borcelana|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4145|Rural|
+34670|Morillitos|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4336|Rural|
+34673|La Aduana|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4137|Rural|
+34673|La Flor|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4169|Rural|
+34673|Marungo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4333|Rural|
+34673|Santa Anna|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4395|Rural|
+34673|El Rincón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4100|Rural|
+34673|La Mesa del León|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4198|Rural|
+34673|El Cebo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4009|Rural|
+34673|El Cócono|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4019|Rural|
+34673|El Perón (El Arroyito de La Cueva)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4070|Rural|
+34673|El Pilar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4071|Rural|
+34673|Rancho Viejo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4361|Rural|
+34673|La Cebadilla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4151|Rural|
+34673|San Rafael de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4391|Rural|
+34673|Cruces|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3980|Rural|
+34673|El Saltito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4109|Rural|
+34673|La Alisosa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4138|Rural|
+34673|Los Ojitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4322|Rural|
+34673|El Becerro|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3997|Rural|
+34673|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4092|Rural|
+34673|Los Parajes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4323|Rural|
+34673|San Rafael de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4392|Rural|
+34673|Comunidad de La Trinidad|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3974|Rural|
+34673|El Arroyito Colorado|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3990|Rural|
+34673|Los Manzanos (Rancho Viejo)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4313|Rural|
+34673|Nogales|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4341|Rural|
+34674|El Chicural|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0763|Rural|
+34674|El Llano|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4050|Rural|
+34674|El Madroño|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4053|Rural|
+34674|La Guajolota|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4176|Rural|
+34674|Gavilanes|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0747|Rural|
+34674|Las Moras|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4264|Rural|
+34674|Los Amoles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4283|Rural|
+34674|Bainorito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4986|Rural|
+34674|El Duraznito del Oro|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4027|Rural|
+34674|El Rancho de Marcos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4097|Rural|
+34674|El Manzanillo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4057|Rural|
+34674|La Tableta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4229|Rural|
+34674|La Vega de Marines|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4237|Rural|
+34674|Los Cardos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4293|Rural|
+34674|Tranquitas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4411|Rural|
+34674|Las Tinajas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4271|Rural|
+34674|Los Tanques|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4331|Rural|
+34674|El Limoncito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4048|Rural|
+34674|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4089|Rural|
+34674|El Rincón del Pueblo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4103|Rural|
+34674|El Roble|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4105|Rural|
+34674|Las Cebollas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0771|Rural|
+34674|El Limoncito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4046|Rural|
+34674|El Pueblo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4078|Rural|
+34674|El Pueblo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4079|Rural|
+34674|Las Orejas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4265|Rural|
+34674|Los Ojitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4319|Rural|
+34674|Temehuaya|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4406|Rural|
+34674|Huachichiles|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0748|Rural|
+34674|Corral de Piedra|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3975|Rural|
+34674|El Astillero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3994|Rural|
+34674|El Desecho|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4025|Rural|
+34674|Santa Rosa del Oro (La Tapona)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4398|Rural|
+34675|La Trinidad|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0737|Rural|
+34675|El Broto|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3998|Rural|
+34675|El Cascajal|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4007|Rural|
+34675|Espadañal de San Jerónimo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4129|Rural|
+34675|La Estación|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4168|Rural|
+34675|La Presa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4218|Rural|
+34675|Los Carditos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4292|Rural|
+34675|El Aviadero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4989|Rural|
+34675|Santa Rita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0751|Rural|
+34675|Guarisamey|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4131|Rural|
+34675|La Gloria|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4175|Rural|
+34675|La Vinata|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4239|Rural|
+34675|La Vinata|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4240|Rural|
+34675|El Comisario|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4020|Rural|
+34675|El Puerto|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4081|Rural|
+34675|Las Seguidillas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4269|Rural|
+34675|Muleros|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4337|Rural|
+34675|Puentecillas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0746|Rural|
+34675|Las Huertas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0749|Rural|
+34675|El Huizachal|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4040|Rural|
+34675|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4094|Rural|
+34675|La Mesa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4195|Rural|
+34675|Las Adjuntas del Río|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4248|Rural|
+34675|Memelujo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4334|Rural|
+34675|San Rafael|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4390|Rural|
+34675|Yamoriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4418|Rural|
+34675|Cerro Blanco|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3969|Rural|
+34675|El Ciruelo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4017|Rural|
+34675|El Llanito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4049|Rural|
+34675|La Palma|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4210|Rural|
+34675|La Quebrada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4223|Rural|
+34675|Apolonio Madriles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4275|Rural|
+34675|Santa Ana|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4394|Rural|
+34675|La Canoa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4147|Rural|
+34675|La Joya|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4183|Rural|
+34675|La Puntecilla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4220|Rural|
+34675|Los Robles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4329|Rural|
+34675|Pericos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4347|Rural|
+34675|Carboneras|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0766|Rural|
+34675|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4090|Rural|
+34675|La Lajita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4190|Rural|
+34675|La Zorra|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4244|Rural|
+34675|San Ignacio de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4370|Rural|
+34675|San Jerónimo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4374|Rural|
+34675|San Pablo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4386|Rural|
+34675|El Gallo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4029|Rural|
+34675|El Granizo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4033|Rural|
+34675|El Muerto|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0767|Rural|
+34675|Agua Caliente|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3947|Rural|
+34675|Carpintería|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3967|Rural|
+34675|El Álamito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3987|Rural|
+34675|El Ancón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3988|Rural|
+34675|Jacales|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4136|Rural|
+34675|La Lajita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4189|Rural|
+34676|Los Laureles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4308|Rural|
+34676|El Trigo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4118|Rural|
+34676|Las Güeras|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4258|Rural|
+34676|El Maguey|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4055|Rural|
+34676|La Vega|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4236|Rural|
+34676|La Traspana|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4234|Rural|
+34676|Coyotes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3977|Rural|
+34676|La Ciudad|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4157|Rural|
+34676|San Rafael|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4388|Rural|
+34676|El Chorro|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4015|Rural|
+34676|La Anqueta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4140|Rural|
+34676|El Remudadero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4099|Rural|
+34676|Las Lagunas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4260|Rural|
+34677|La Bolsa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0744|Rural|
+34677|La Mona|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4204|Rural|
+34677|Feliciano Meléndez|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4276|Rural|
+34677|Los Lobos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4309|Rural|
+34677|Calerita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3962|Rural|
+34677|Las Cebollas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4253|Rural|
+34677|Las Delicias|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4255|Rural|
+34677|Las Lagunitas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4261|Rural|
+34677|Las Truchas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4272|Rural|
+34677|San Francisco de los Lobos|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4367|Rural|
+34677|La Manga de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0757|Rural|
+34677|El Cuadro|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4024|Rural|
+34677|El Quemado|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4084|Rural|
+34677|Huachimetas de Arriba|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4133|Rural|
+34677|La Cañita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4148|Rural|
+34677|La Ramada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4226|Rural|
+34677|Los Estanques (Silviano Soto)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4303|Rural|
+34677|San Blas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4365|Rural|
+34677|La Pinaloza|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4217|Rural|
+34677|La Vinata|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4241|Rural|
+34677|San Antonio de las Truchas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0743|Rural|
+34677|El Granizo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4034|Rural|
+34677|El Sacrificio|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4108|Rural|
+34677|La Cueva|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4160|Rural|
+34677|La Labor|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4186|Rural|
+34677|La Quebrada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4224|Rural|
+34677|Huachimetas de Abajo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4132|Rural|
+34677|La Manga de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4193|Rural|
+34677|Los Estanques|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4302|Rural|
+34677|El Palmito|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4066|Rural|
+34677|La Joya|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4184|Rural|
+34677|Parajes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4345|Rural|
+34677|El Granizo de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4035|Rural|
+34677|El Rayo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4098|Rural|
+34677|San Miguelito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4385|Rural|
+34677|Los Caliches|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4289|Rural|
+34680|Vencedores|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0739|Rural|
+34680|El Gato|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4031|Rural|
+34680|Los Duraznitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4299|Rural|
+34680|Cruces|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3979|Rural|
+34680|El Cócono|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4018|Rural|
+34680|La Angostura|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4139|Rural|
+34680|Los Altares|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4282|Rural|
+34680|Los Estanques|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4301|Rural|
+34680|Las Flores|Ranchería|San Dimas|Durango||34691|10|34691||29|026|2253|Rural|
+34680|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4091|Rural|
+34680|La Hedionda|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4180|Rural|
+34680|La Mesa de los Caballos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4197|Rural|
+34680|La Obscuridad|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4208|Rural|
+34680|Cibeles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3972|Rural|
+34680|El Purgatorio|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4083|Rural|
+34680|La Flor (Sanjoncito)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4170|Rural|
+34680|La Pasadita|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4212|Rural|
+34680|Los Alamillos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4278|Rural|
+34680|San Juan de Agua Blanca (Las Paridas)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4384|Rural|
+34680|La Medalla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4194|Rural|
+34680|Los Frailecitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4304|Rural|
+34680|Agua Blanca|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0735|Rural|
+34680|La Mesa del Madroño|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4199|Rural|
+34680|San Ignacio de la Guitarra|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4372|Rural|
+34680|El Encinito (La Lajita)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4028|Rural|
+34680|El Tecolote|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4116|Rural|
+34680|El Yaqui|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4123|Rural|
+34680|La Aplastada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4141|Rural|
+34680|La Cumbre|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4162|Rural|
+34680|Crucero a Las Flores|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3978|Rural|
+34680|El Madroñito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4052|Rural|
+34680|El Saltito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4110|Rural|
+34680|La Bolsa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4143|Rural|
+34680|Palos Caídos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4344|Rural|
+34683|Bajío Seco|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3956|Rural|
+34683|Los Macías|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4311|Rural|
+34683|El Coyote de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4022|Rural|
+34683|El Ojito del Lobo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4061|Rural|
+34683|El Ranchito de Cornelio|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4095|Rural|
+34683|San Isidro de las Lomas (La Cueva Agujerada)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4373|Rural|
+34683|San José de la Puentecilla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4378|Rural|
+34683|Satolitos de la Puerta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4402|Rural|
+34683|La Bellota|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4992|Rural|
+34683|La Guitarrita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4178|Rural|
+34683|La Laguna del Tular|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4188|Rural|
+34683|La Quebradita de Galindo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4225|Rural|
+34683|Los Aguajitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4277|Rural|
+34683|Rancho Viejo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4360|Rural|
+34683|Veracruz de la Sierra (El Pueblo)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0756|Rural|
+34683|Los Alamillos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|2200|Rural|
+34683|Arroyo el Saucillal (Rancho Tomas)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3953|Rural|
+34683|Metatitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4996|Rural|
+34683|El Sobaco|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4111|Rural|
+34683|El Tule|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4120|Rural|
+34683|El Vetarrón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4122|Rural|
+34683|La Flor del Campo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4171|Rural|
+34683|Las Flores|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4257|Rural|
+34683|Los Fresnos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4305|Rural|
+34683|Sotolitos de Carrasco|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4401|Rural|
+34683|Unión Modelo (El Pueblito)|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4413|Rural|
+34683|El Arroyo del Saucillal|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3992|Rural|
+34683|El Coyote de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4023|Rural|
+34683|Los Bueyes de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4288|Rural|
+34683|Peñuelas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4346|Rural|
+34683|El Alacrán|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3985|Rural|
+34683|El Maguey de La Calavera|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4056|Rural|
+34683|La Ciénega|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4156|Rural|
+34683|La Gatuñenta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4174|Rural|
+34683|Los Charcos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4296|Rural|
+34683|Los Macías de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4312|Rural|
+34683|Potrerillos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4353|Rural|
+34683|Cuatro Caminos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3981|Rural|
+34683|Potreros de Bueyes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4287|Rural|
+34683|San José del Olvido|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4382|Rural|
+34684|El Barroco|Ejido|San Dimas|Durango||34691|10|34691||15|026|2233|Rural|
+34684|Rancho Solo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4359|Rural|
+34684|Tinajuelas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4409|Rural|
+34684|Santa Lucía|Ejido|San Dimas|Durango||34691|10|34691||15|026|2203|Rural|
+34684|Las Güeritas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|2234|Rural|
+34684|Los Charcos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4295|Rural|
+34684|Los Pavos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4326|Rural|
+34684|Agua Caliente|Ejido|San Dimas|Durango||34691|10|34691||15|026|2230|Rural|
+34684|La Frontera|Ejido|San Dimas|Durango||34691|10|34691||15|026|2231|Rural|
+34684|Canta Ranas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3964|Rural|
+34684|El Chino|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4011|Rural|
+34684|La Esperanza|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4166|Rural|
+34684|Los Eslabones|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4300|Rural|
+34684|Los Laureles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4307|Rural|
+34684|La Quinta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0759|Rural|
+34684|La Plazuela|Ejido|San Dimas|Durango||34691|10|34691||15|026|2235|Rural|
+34684|Chavarría de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3971|Rural|
+34684|San Pedro|Ejido|San Dimas|Durango||34691|10|34691||15|026|2232|Rural|
+34684|El Rosillo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4106|Rural|
+34684|Los Sótanos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4330|Rural|
+34684|Río de Miravalles|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0754|Rural|
+34684|Agua Caliente de Arriba|Ejido|San Dimas|Durango||34691|10|34691||15|026|2229|Rural|
+34684|El Oso|Ranchería|San Dimas|Durango||34691|10|34691||29|026|2236|Rural|
+34684|Chavarría de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3970|Rural|
+34684|Las Vueltas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4274|Rural|
+34684|Doce de Mayo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0758|Rural|
+34684|Agua Tibia|Ejido|San Dimas|Durango||34691|10|34691||15|026|2237|Rural|
+34684|La Ciénega|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4154|Rural|
+34685|La Moneda|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4205|Rural|
+34685|La Osa|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4209|Rural|
+34685|Los Canelos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4290|Rural|
+34685|Los Canelos de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4291|Rural|
+34685|La Crucita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4159|Rural|
+34685|Las Águilas de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4250|Rural|
+34685|Puerta Chiquita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4355|Rural|
+34685|Tambores de Abajo (Las Vegas)|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0761|Rural|
+34685|El Manzano|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4058|Rural|
+34685|Laguna del Refugio|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4246|Rural|
+34685|Los Alazanes Dos (El Quelite)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4280|Rural|
+34685|La Joya Alegre|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4185|Rural|
+34685|La Tasajera|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4231|Rural|
+34685|San Antonio de la Cruz|Ranchería|San Dimas|Durango||34691|10|34691||29|026|2241|Rural|
+34685|La Paloma|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4211|Rural|
+34685|La Peña|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4214|Rural|
+34685|Las Águilas de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4249|Rural|
+34685|Los Alazanes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4279|Rural|
+34685|Los Alegres|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4281|Rural|
+34685|Río Escondido|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4363|Rural|
+34685|San Bartolo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4364|Rural|
+34685|Calaveras|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3961|Rural|
+34685|Los Ojitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4321|Rural|
+34685|San José de Miravalles (El Baluarte)|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0752|Rural|
+34685|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4093|Rural|
+34685|Vázquez|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4416|Rural|
+34685|La Lobera|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4191|Rural|
+34685|Los Lobos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4310|Rural|
+34685|Los Obscuros|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4317|Rural|
+34685|Rancho de Cuca|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4357|Rural|
+34685|San José de Miravalles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4380|Rural|
+34685|Tambores de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4404|Rural|
+34686|Las Adjuntas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4247|Rural|
+34686|El Tazcate|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4115|Rural|
+34686|La Boquilla de San Luis|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4144|Rural|
+34686|La Cabra|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4146|Rural|
+34686|La Cueva de La Tierra|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4161|Rural|
+34686|San Vicente|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4393|Rural|
+34686|Bajío Largo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3955|Rural|
+34686|La Florida|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4172|Rural|
+34686|Las Pintas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4266|Rural|
+34686|San José|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4376|Rural|
+34686|Santa Rita|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4396|Rural|
+34686|El Trigo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4119|Rural|
+34686|Las Flechas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4256|Rural|
+34686|Piedra Rajada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4351|Rural|
+34686|El Jaral|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4042|Rural|
+34686|La Cartera (Los Olvidados)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4149|Rural|
+34686|La Silla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4227|Rural|
+34686|Canoas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3963|Rural|
+34686|El Aseteado|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3993|Rural|
+34686|Puerto de Flechas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4356|Rural|
+34686|El Madroño|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4054|Rural|
+34686|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4085|Rural|
+34686|El Rusio|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4107|Rural|
+34686|El Yesquero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4124|Rural|
+34687|El Casco|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4008|Rural|
+34687|El Tascatito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4113|Rural|
+34687|La Joya|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4182|Rural|
+34687|Las Meladas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4262|Rural|
+34687|La Bandera|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4142|Rural|
+34687|Ciénega de la Providencia|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3973|Rural|
+34687|El Cerro Colorado|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4010|Rural|
+34687|La Cebadilla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4150|Rural|
+34687|El Campo Amoroso|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4001|Rural|
+34687|La Escondida|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4165|Rural|
+34687|La Guitarra|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4177|Rural|
+34687|Los Obscuros de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4318|Rural|
+34687|Rancho Nuevo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4358|Rural|
+34687|Santa Rosa|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4397|Rural|
+34687|El Jaralito de Abajo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4043|Rural|
+34687|San Vicente|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0738|Rural|
+34687|Rancho Nuevo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0753|Rural|
+34687|El Jaralito de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4044|Rural|
+34687|Las Rosillas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4268|Rural|
+34687|El Lucero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4051|Rural|
+34687|San Ignacio|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4368|Rural|
+34690|El Pitayo|Colonia|San Dimas|Durango||34691|10|34691||09|026|6057|Urbano|
+34690|La Plazuela|Colonia|San Dimas|Durango||34691|10|34691||09|026|6063|Urbano|
+34690|Obrera|Colonia|San Dimas|Durango||34691|10|34691||09|026|6066|Urbano|
+34690|El Hospital|Colonia|San Dimas|Durango||34691|10|34691||09|026|6056|Urbano|
+34690|La Curva|Colonia|San Dimas|Durango||34691|10|34691||09|026|6061|Urbano|
+34690|Los Fresnos|Colonia|San Dimas|Durango||34691|10|34691||09|026|6064|Urbano|
+34690|Buenavista|Colonia|San Dimas|Durango||34691|10|34691||09|026|6053|Urbano|
+34690|El Reventón|Colonia|San Dimas|Durango||34691|10|34691||09|026|6058|Urbano|
+34690|Piaxtla|Colonia|San Dimas|Durango||34691|10|34691||09|026|6067|Urbano|
+34690|Servicoy|Colonia|San Dimas|Durango||34691|10|34691||09|026|6068|Urbano|
+34690|Americana|Colonia|San Dimas|Durango||34691|10|34691||09|026|6052|Urbano|
+34690|Nuevo Zocabon|Colonia|San Dimas|Durango||34691|10|34691||09|026|6065|Urbano|
+34690|Duranguito|Colonia|San Dimas|Durango||34691|10|34691||09|026|6054|Urbano|
+34690|El Arenal|Colonia|San Dimas|Durango||34691|10|34691||09|026|6055|Urbano|
+34690|El Toril|Colonia|San Dimas|Durango||34691|10|34691||09|026|6059|Urbano|
+34690|Tayoltita Centro|Colonia|San Dimas|Durango||34691|10|34691||09|026|0765|Urbano|
+34690|El Tunel|Colonia|San Dimas|Durango||34691|10|34691||09|026|6060|Urbano|
+34690|La Juárez|Colonia|San Dimas|Durango||34691|10|34691||09|026|6062|Urbano|
+34693|San Dimas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0768|Rural|
+34693|Arroyo del Oro|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3952|Rural|
+34693|Carboneras (Santa Rosa de los Alvarados)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3965|Rural|
+34693|Las Palmas|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0750|Rural|
+34693|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4086|Rural|
+34693|La Piedra Amolar|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4215|Rural|
+34693|Los Parajes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4324|Rural|
+34693|Tapacoya|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4405|Rural|
+34693|Carboneritas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3966|Rural|
+34693|El Ciruelito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4016|Rural|
+34693|Los Negritos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4316|Rural|
+34693|Los Potreros|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4328|Rural|
+34693|Servicoy|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4400|Rural|
+34693|Cinco Señores|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4987|Rural|
+34693|Cupías|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4988|Rural|
+34693|El Tastito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4114|Rural|
+34693|Guamúchil|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4130|Rural|
+34693|La Soledad|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4228|Rural|
+34693|Valderrama|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4414|Rural|
+34693|El Toril|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4991|Rural|
+34693|La Espinaloza|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4994|Rural|
+34693|General Rafael Buelna (Socavón)|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0769|Rural|
+34693|Ceniceros|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3968|Rural|
+34693|El Capulín|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4002|Rural|
+34693|El Pilar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4072|Rural|
+34693|La Puerta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4219|Rural|
+34693|Noche Buena|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4340|Rural|
+34693|Palo Prieto|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4343|Rural|
+34693|El Venadillo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4121|Rural|
+34693|Los Chapotes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4294|Rural|
+34693|Pueblo Nuevo|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4354|Rural|
+34693|Santo Niño|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4399|Rural|
+34693|El Limoncito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4047|Rural|
+34693|El Pinto|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4073|Rural|
+34693|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4087|Rural|
+34693|La Tecolota|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4232|Rural|
+34693|El Apomito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3989|Rural|
+34693|El Arroyo de Tejas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3991|Rural|
+34693|El Chirimoyo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4013|Rural|
+34693|La Curva|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4163|Rural|
+34693|La Yerbabuena|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4243|Rural|
+34693|Los Cimientos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4297|Rural|
+34694|El Polillar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4075|Rural|
+34694|Las Mesas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4263|Rural|
+34694|Las Tahonitas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4270|Rural|
+34694|San Pedro de Villa Corona|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4387|Rural|
+34694|La Esmeralda (El Alacrán)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3986|Rural|
+34694|El Hundido|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4041|Rural|
+34694|El Tepozán|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4117|Rural|
+34694|El Zapote|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4127|Rural|
+34694|La Valenciana|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4235|Rural|
+34694|San Francisco|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0772|Rural|
+34694|Mala Noche|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0776|Rural|
+34694|El Limón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4045|Rural|
+34694|El Muerto|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4059|Rural|
+34694|El Zapote|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4126|Rural|
+34694|La Mesa del Ojito|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4200|Rural|
+34694|Las Camichinas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4252|Rural|
+34694|El Paso|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4068|Rural|
+34694|La Cofradía|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4158|Rural|
+34694|La Pinaloza|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4216|Rural|
+34694|La Quebrada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4222|Rural|
+34694|El Limoncito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0001|Rural|
+34694|Agua Zarca|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3948|Rural|
+34694|El Potrero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4077|Rural|
+34694|El Zapote (Los Chapotes)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4128|Rural|
+34694|La Huerta|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4181|Rural|
+34694|Las Joyas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4259|Rural|
+34694|San José de las Causas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4379|Rural|
+34694|Buenavista|Pueblo|San Dimas|Durango||34691|10|34691||28|026|3959|Rural|
+34694|La Tijera|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4233|Rural|
+34694|Las Ranas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4267|Rural|
+34694|Las Vegas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4273|Rural|
+34694|Los Plátanos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4327|Rural|
+34694|San Rafael|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4389|Rural|
+34694|El Gavilán|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4032|Rural|
+34694|El Carrizo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4006|Rural|
+34694|El Chirimoyo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4014|Rural|
+34694|El Palmar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4064|Rural|
+34694|La Ciénega|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4155|Rural|
+34694|La Desmontada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4164|Rural|
+34694|Sutiga|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4403|Rural|
+34695|El Bajío|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3995|Rural|
+34695|El Puente|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4080|Rural|
+34695|La Pedregoza|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4213|Rural|
+34695|Cieneguita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0762|Rural|
+34695|La Laguna del Progreso|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4187|Rural|
+34695|San Luis de Villa Corona|Villa|San Dimas|Durango||34691|10|34691||32|026|0773|Rural|
+34695|El Palmar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4063|Rural|
+34695|El Puerto de la Travesía|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4082|Rural|
+34695|Los Ojitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4320|Rural|
+34695|Los Toriles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4332|Rural|
+34695|Piedra Cargada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4349|Rural|
+34695|El Platanar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4074|Rural|
+34695|El Río de San Luis (El Riyito)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4104|Rural|
+34695|La Lobera|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4192|Rural|
+34695|La Zorra|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4245|Rural|
+34695|Temporales|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4407|Rural|
+34695|San Manuel de Villa Corona|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0774|Rural|
+34695|La Vinata|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4242|Rural|
+34695|El Yerbaniz|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0755|Rural|
+34695|El Zanjón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4125|Rural|
+34695|Tranquitas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4412|Rural|
+34696|El Palmarito|Pueblo|San Dimas|Durango||34691|10|34691||28|026|0775|Rural|
+34696|El Camarón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4000|Rural|
+34696|El Pandito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4067|Rural|
+34696|Piedra Gorda|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4350|Rural|
+34696|La Choza|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4153|Rural|
+34696|Borbollones|Pueblo|San Dimas|Durango||34691|10|34691||28|026|3958|Rural|
+34696|El Gato|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4030|Rural|
+34696|San José del Favor|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4381|Rural|
+34696|Arroyo del Agua|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3951|Rural|
+34696|Cacaxtles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3960|Rural|
+34696|El  Ojito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4060|Rural|
+34696|Los Guindos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4306|Rural|
+34696|Neveros|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4339|Rural|
+34696|El Rancho|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4096|Rural|
+34696|Varones|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4415|Rural|
+34696|El Caracol|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4003|Rural|
+34696|El Rincón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4101|Rural|
+34696|El Tablón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4112|Rural|
+34696|La Nopalera|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4207|Rural|
+34696|El Saucito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0778|Rural|
+34696|El Paso del Arroyo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4069|Rural|
+34696|El Potrero|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4076|Rural|
+34696|Los Parajes del Faisán|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4325|Rural|
+34696|Tepalcates|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4408|Rural|
+34696|Villa Corona (Ventanas)|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4417|Rural|
+34697|La Mesa de los Negros|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0779|Rural|
+34697|Agua Zarca de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3950|Rural|
+34697|Belenes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3957|Rural|
+34697|La Mesa Pinaloza|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4201|Rural|
+34697|Los Baños|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4286|Rural|
+34697|El Corpo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4021|Rural|
+34697|Los Monos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4314|Rural|
+34697|Los Naranjitos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4315|Rural|
+34697|El Guayabo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4990|Rural|
+34697|El Hachazo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4037|Rural|
+34697|El Ranchito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4088|Rural|
+34697|Los Ángeles|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4284|Rural|
+34697|San Cristóbal|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4366|Rural|
+34697|La Cobriza|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4993|Rural|
+34697|Revolcaderos|Pueblo|San Dimas|Durango||34691|10|34691||28|026|2243|Rural|
+34697|El Aguacate|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3984|Rural|
+34697|El Cajón|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3999|Rural|
+34697|El Carrizo|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4005|Rural|
+34697|El Chiquerito|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4012|Rural|
+34697|El Palmillar|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4065|Rural|
+34697|El Rincón de Tierra Blanca|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4102|Rural|
+34697|Los Desmontes|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4298|Rural|
+34697|El Guamúchil|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4036|Rural|
+34697|La Mesa Verde|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4202|Rural|
+34697|San José|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4375|Rural|
+34697|Los Pinos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4995|Rural|
+34697|Agua Zarca|Ranchería|San Dimas|Durango||34691|10|34691||29|026|3949|Rural|
+34697|El Huizachal|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4039|Rural|
+34697|La Fraguita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4173|Rural|
+34697|La Mesita|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4203|Rural|
+34697|La Ventana|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4238|Rural|
+34697|Las Aguilillas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4251|Rural|
+34697|Los Ángeles de Arriba|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4285|Rural|
+34697|El Duraznito|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4026|Rural|
+34697|La Haciendita|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4179|Rural|
+34697|La Mesa de la Cobriza|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4196|Rural|
+34697|Picachos|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4348|Rural|
+34697|El Faisán|Ranchería|San Dimas|Durango||34691|10|34691||29|026|0777|Rural|
+34697|Huachochi|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4134|Rural|
+34697|Huízar|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4135|Rural|
+34697|La Ceja Amarilla|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4152|Rural|
+34697|La Quebrada|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4221|Rural|
+34697|Las Cuevas|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4254|Rural|
+34697|Mesa Verde|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4335|Rural|
+34697|Navarrete|Pueblo|San Dimas|Durango||34691|10|34691||28|026|4338|Rural|
+34697|Ojo de Agua|Ranchería|San Dimas|Durango||34691|10|34691||29|026|4342|Rural|

@@ -1,0 +1,416 @@
+81200|Primer Cuadro (Centro)|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0676|Urbano|01
+81210|Miguel Hidalgo|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0680|Urbano|01
+81215|Las Fuentes 2000|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2401|Urbano|01
+81215|ISSSTESIN|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0681|Urbano|01
+81216|Gaviotas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1999|Urbano|01
+81216|Benito Juárez|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0682|Urbano|01
+81216|Reyes Guerrero|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1571|Urbano|01
+81216|Las Malvinas|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1997|Urbano|01
+81216|Bugambilias|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1998|Urbano|01
+81217|Narciso Mendoza|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0683|Urbano|01
+81218|Prof. Conrado Espinoza|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0684|Urbano|01
+81220|Jiquilpan|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0686|Urbano|01
+81220|Sector Fátima|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0685|Urbano|01
+81220|Jordan|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1565|Urbano|01
+81223|Las Fuentes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0688|Urbano|01
+81223|Deportivo y Rincón|Residencial|Ahome|Sinaloa|Los Mochis|81201|25|81201||30|001|1570|Urbano|01
+81224|Juan Cota|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0689|Urbano|01
+81225|Ávila Corona|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0690|Urbano|01
+81225|Sanchez Ruiz|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1569|Urbano|01
+81226|Jardines de Fátima|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0691|Urbano|01
+81227|Fovissste|Unidad habitacional|Ahome|Sinaloa|Los Mochis|81201|25|81201||31|001|0692|Urbano|01
+81228|Residencial Campestre|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2005|Urbano|01
+81228|Macapule Infonavit|Unidad habitacional|Ahome|Sinaloa|Los Mochis|81201|25|81201||31|001|0694|Urbano|01
+81228|Bosques Del Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2145|Urbano|01
+81228|Privada Toscana|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2936|Urbano|01
+81228|Daniel Biul Ruelas|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2939|Urbano|01
+81228|Privada Palladio|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0003|Urbano|01
+81228|Viñedos Residencial|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2310|Urbano|01
+81229|Jiquilpan|Ejido|Ahome|Sinaloa|Los Mochis|81201|25|81201||15|001|1568|Urbano|01
+81229|Fuentes Del Bosque|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2004|Urbano|01
+81229|Tepeka|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1575|Urbano|01
+81229|Diamantes 2a Sección|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2402|Urbano|01
+81229|Palos Verdes Infonavit|Unidad habitacional|Ahome|Sinaloa|Los Mochis|81201|25|81201||31|001|0695|Urbano|01
+81229|Residencial Diamante|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1996|Urbano|01
+81230|Libertad|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0697|Urbano|01
+81230|Jardín|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0696|Urbano|01
+81230|Ruben Jaramillo|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0698|Urbano|01
+81233|Flor de las Arboledas|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1499|Urbano|01
+81233|México|Ejido|Ahome|Sinaloa|Los Mochis|81201|25|81201||15|001|0699|Rural|01
+81233|Nuevo Horizonte|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2143|Urbano|01
+81233|Los Sabinos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2393|Urbano|01
+81233|Luis Donaldo Colosio|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1564|Urbano|01
+81233|FOVISSSTE 3|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2399|Urbano|01
+81233|Residencial Palmira|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2517|Urbano|01
+81233|Valle Cañaveral|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2144|Urbano|01
+81233|Providencia|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1926|Urbano|01
+81234|El Chamizal|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0700|Urbano|01
+81234|Del Real|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0701|Urbano|01
+81234|Valle Bonito|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1925|Urbano|01
+81234|Bosques del Pedregal|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2865|Urbano|01
+81234|Santa Fe|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1924|Urbano|01
+81234|75 (Heriberto Valdez Romero)|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1500|Urbano|01
+81234|Carolina Residencial|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2864|Urbano|01
+81235|San Francisco|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0702|Urbano|01
+81236|Alfonso G Calderón|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0703|Urbano|01
+81236|10 de Mayo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1510|Urbano|01
+81237|Estrella|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0705|Urbano|01
+81238|28 de Junio|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0707|Urbano|01
+81238|Adolfo Lopez Mateos|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0706|Urbano|01
+81240|Julia Viuda de Ríos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1518|Urbano|01
+81240|Mario Avilez|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1521|Urbano|01
+81240|Popular Blanca Gastelum|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1519|Urbano|01
+81240|Dolores Castro|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1524|Urbano|01
+81240|Alma Guadalupe Estrada|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1523|Urbano|01
+81240|Valentín Gutiérrez|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1514|Urbano|01
+81240|Alfredo Salazar|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1522|Urbano|01
+81240|Las Torres|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2394|Urbano|01
+81240|Jordan Jiquilpan|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1502|Urbano|01
+81240|Toledo Ceballos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2866|Urbano|01
+81240|Scally|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0710|Urbano|01
+81240|Germán Arroyo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1526|Urbano|01
+81240|Ernesto Hays Borbo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2403|Urbano|01
+81240|Mayra H Pamplona|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1525|Urbano|01
+81240|Ibarra|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1517|Urbano|01
+81240|Zaky Muez|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1520|Urbano|01
+81245|Grijalva|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2397|Urbano|01
+81245|Jordan Madero|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1515|Urbano|01
+81245|Jardines Del Valle|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0712|Urbano|01
+81245|Jardines Del Sol|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1504|Urbano|01
+81245|Deportivo Country Club|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1535|Urbano|01
+81245|Gastelum|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1516|Urbano|01
+81245|Ofelia Duarte|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1527|Urbano|01
+81247|Islas Residenciales|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1528|Urbano|01
+81247|Bachomo Infonavit|Unidad habitacional|Ahome|Sinaloa|Los Mochis|81201|25|81201||31|001|0714|Urbano|01
+81247|Los Pinos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0717|Urbano|01
+81247|Los Sauces|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1928|Urbano|01
+81248|Residencial del Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2862|Urbano|01
+81248|Álamo|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0001|Urbano|01
+81248|Cuauhtémoc|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0718|Urbano|01
+81248|Monferrat|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2405|Urbano|01
+81248|Álamos II|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2926|Urbano|01
+81248|Los Olivos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1529|Urbano|01
+81248|Del Carmen|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2404|Urbano|01
+81248|Primavera|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1530|Urbano|01
+81248|Real del Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2863|Urbano|01
+81248|Álamos I|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2925|Urbano|01
+81248|Álamos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0720|Urbano|01
+81248|Jardines del Bosque|Residencial|Ahome|Sinaloa|Los Mochis|81201|25|81201||30|001|1501|Urbano|01
+81248|Monico Soto|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1531|Urbano|01
+81248|Bosque del Real|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2898|Urbano|01
+81248|Jardines del Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0719|Urbano|01
+81248|U.A.S. Álamos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2928|Urbano|01
+81249|Jardines de Zacatecas|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2003|Urbano|01
+81249|Teresita|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0724|Urbano|01
+81249|Lastras Altamirano|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0721|Urbano|01
+81249|Residencial Del Valle|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0723|Urbano|01
+81249|Villas del Sol|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3008|Urbano|01
+81249|INFONAVIT Mochicahui II|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1923|Urbano|01
+81249|Las Palmas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0722|Urbano|01
+81249|Progresivo San Rafael|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1509|Urbano|01
+81249|Menonitas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1567|Urbano|01
+81250|La Cuchilla|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0725|Urbano|01
+81254|Loma Dorada|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1574|Urbano|01
+81254|Mallorca|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2867|Urbano|01
+81254|Versalles Residencial|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2877|Urbano|01
+81254|Los Mochis|Parque industrial|Ahome|Sinaloa|Los Mochis|81201|25|81201||26|001|2930|Urbano|01
+81254|La Memoria|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2002|Urbano|01
+81254|Centro Plaza Mochis|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1573|Urbano|01
+81254|Monte Carlo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3089|Urbano|01
+81255|Zona Industrial|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0726|Urbano|01
+81256|Parque Industrial Ecológico|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1572|Urbano|01
+81256|Central de Abastos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1511|Urbano|01
+81256|Villa Huites|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1922|Urbano|01
+81256|ing. Heriberto Valdez Romero|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0727|Urbano|01
+81256|INFONAVIT Mochicahui|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2933|Urbano|01
+81256|FOVISSSTE Tabachines IV|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2398|Urbano|01
+81256|Lázaro Cárdenas|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0728|Urbano|01
+81256|Bellavista|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1920|Urbano|01
+81256|Jiquilpan 2|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2400|Urbano|01
+81257|Tabachines|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0729|Urbano|01
+81257|Villa Owen|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2195|Urbano|01
+81257|Roberto Perez Jacobo|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1507|Urbano|01
+81259|Del Parque|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0730|Urbano|01
+81260|Rosendo G Castro|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0732|Urbano|01
+81260|Valle Verde|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2945|Urbano|01
+81260|Hacienda Santa Clara|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0011|Urbano|01
+81260|Alejandro Peña|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0731|Urbano|01
+81260|Las Mañanitas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2515|Urbano|01
+81260|Realito|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1556|Urbano|01
+81260|La Esperanza|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1557|Urbano|01
+81263|Las Glorias|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2396|Urbano|01
+81263|Prados del Valle|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2519|Urbano|01
+81263|Residencial Aurora|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2931|Urbano|01
+81263|Santa Rosa|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2521|Urbano|01
+81263|Santa Lourdes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2420|Urbano|01
+81265|Residencial Ahome 2000|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2407|Urbano|01
+81265|Ferrocarril|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0733|Urbano|01
+81270|Residencial Platino|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2001|Urbano|01
+81270|Campanario|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2137|Urbano|01
+81270|Jardines de Guadalupe|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1505|Urbano|01
+81270|Villa de Cortes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1542|Urbano|01
+81270|Terranova|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1544|Urbano|01
+81270|Paseo de las Aves|Residencial|Ahome|Sinaloa|Los Mochis|81201|25|81201||30|001|2147|Urbano|01
+81270|San Fernando|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1545|Urbano|01
+81270|Gabriel Leyva|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0734|Urbano|01
+81270|Margarita|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0735|Urbano|01
+81270|Villas Monterrey|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1921|Urbano|01
+81270|Las Huertas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2927|Urbano|01
+81270|Los Naranjos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2000|Urbano|01
+81270|Las Quintas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2858|Urbano|01
+81270|Conquistadores|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1546|Urbano|01
+81270|Las Huertas II|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2408|Urbano|01
+81270|Salvador Esquer Apodaca|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2520|Urbano|01
+81271|Tulipanes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0010|Urbano|01
+81271|Sierra Bonita|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1548|Urbano|01
+81271|Azucena|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1576|Urbano|01
+81271|Residencial Paseo Alameda|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2007|Urbano|01
+81271|Portal de Hierro|Residencial|Ahome|Sinaloa|Los Mochis|81201|25|81201||30|001|2675|Urbano|01
+81271|Las Villas Residencial|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2857|Urbano|01
+81271|12 de Octubre|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0736|Urbano|01
+81271|Santa Teresa|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1577|Urbano|01
+81271|Zafiro|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2134|Urbano|01
+81271|Quinta Real|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3030|Urbano|01
+81271|Villa de Cortez|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2944|Urbano|01
+81271|San Fernando|Ampliación|Ahome|Sinaloa|Los Mochis|81201|25|81201||38|001|1547|Urbano|01
+81271|Santa Cecilia|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1549|Urbano|01
+81271|Santa Bárbara|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2136|Urbano|01
+81271|Paseo Alameda|Residencial|Ahome|Sinaloa|Los Mochis|81201|25|81201||30|001|2304|Urbano|01
+81271|Real del Valle|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0002|Urbano|01
+81271|Álamos Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2006|Urbano|01
+81277|Las Haciendas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2409|Urbano|01
+81277|Haciendas Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0004|Urbano|01
+81277|Hacienda Arroyo Pioneros|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2861|Urbano|01
+81277|Hacienda del Arroyo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1927|Urbano|01
+81277|Palmera Residencial|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2255|Urbano|01
+81277|Las Delicias|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0737|Urbano|01
+81278|Owen|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1558|Urbano|01
+81278|Cedros|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1562|Urbano|01
+81278|Santa Alicia|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1561|Urbano|01
+81278|Alcázar del Country|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0009|Urbano|01
+81278|Santa María|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1560|Urbano|01
+81278|San Isidro|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2860|Urbano|01
+81278|Santa Catalina|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2851|Urbano|01
+81278|Valle de la Rosa|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0005|Urbano|01
+81278|Los Virreyes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2248|Urbano|01
+81278|La Esmeralda|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2410|Urbano|01
+81278|Colon|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1563|Urbano|01
+81278|Francisco Villa|Ejido|Ahome|Sinaloa|Los Mochis|81201|25|81201||15|001|0738|Rural|01
+81278|Valle del Rey|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2937|Urbano|01
+81278|San José|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1559|Urbano|01
+81278|El Dorado|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2135|Urbano|01
+81278|Urbi Villa del Rey|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3056|Urbano|01
+81280|Obrera|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1503|Urbano|01
+81280|Sinaloa|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1534|Urbano|01
+81280|Bienestar|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0740|Urbano|01
+81280|Independencia|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1532|Urbano|01
+81280|Anáhuac|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0739|Urbano|01
+81280|Vivienda Popular|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1533|Urbano|01
+81280|Insurgentes Obrera|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0741|Urbano|01
+81285|La Joya|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2247|Urbano|01
+81285|Prados del Sur|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2518|Urbano|01
+81285|Antonio Toledo Corro|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0742|Urbano|01
+81285|Raul Romanillo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1508|Urbano|01
+81285|STASE Los Álamos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1512|Urbano|01
+81285|La Florida|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2322|Urbano|01
+81285|Residencial Mar de Cortés|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2392|Urbano|01
+81285|STASE IV|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3080|Urbano|01
+81285|Francisco Labastida Ochoa|Ampliación|Ahome|Sinaloa|Los Mochis|81201|25|81201||38|001|1541|Urbano|01
+81285|Las Isabeles|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2395|Urbano|01
+81285|Tulipanes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2411|Urbano|01
+81285|Universitario|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2412|Urbano|01
+81289|Americana|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2419|Urbano|01
+81289|La Herradura|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|0743|Urbano|01
+81289|Parque Sinaloa|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1536|Urbano|01
+81290|Burócrata|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0744|Urbano|01
+81290|Lopez Portillo|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1538|Urbano|01
+81290|Morelos|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|0745|Urbano|01
+81290|Ampliación Burócrata|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|2971|Urbano|01
+81293|Las Nubes|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2413|Urbano|01
+81293|Mediterráneo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2269|Urbano|01
+81293|Villa Centenario|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2855|Urbano|01
+81293|Montebello|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2938|Urbano|01
+81293|Privanzas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2978|Urbano|01
+81293|Real de Villa|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2414|Urbano|01
+81293|Villa de Santiago|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2935|Urbano|01
+81293|Pradera de Villa|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1543|Urbano|01
+81293|Las Misiones|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2256|Urbano|01
+81293|Jardines de Villa|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2934|Urbano|01
+81294|Almendras|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1553|Urbano|01
+81294|Lázaro Cárdenas Del Rio|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2139|Urbano|01
+81294|Las Flores|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2270|Semiurbano|01
+81294|Las Cerezas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2853|Urbano|01
+81294|Niños Héroes|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|3014|Urbano|01
+81294|Jardines de Morelos|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1551|Urbano|01
+81294|Ampliación Nuevo Siglo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2415|Urbano|01
+81294|Primavera CTELL 11|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2852|Urbano|01
+81294|Jardines de Primavera|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2929|Urbano|01
+81294|Nueva Revolución|Colonia|Ahome|Sinaloa|Los Mochis|81201|25|81201||09|001|1552|Urbano|01
+81294|Catarinas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2140|Urbano|01
+81294|Los Laureles|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1539|Urbano|01
+81294|Siglo XXI|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1550|Urbano|01
+81294|Camelias|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2417|Urbano|01
+81294|La Cantera|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3017|Urbano|01
+81294|Prado Bonito|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1513|Urbano|01
+81294|Nuevo Siglo|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2141|Urbano|01
+81294|Prados III|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2416|Urbano|01
+81295|Las Praderas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2138|Urbano|01
+81295|Los Girasoles|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1554|Urbano|01
+81295|Los Ángeles|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2856|Urbano|01
+81295|Santa Luz|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2854|Urbano|01
+81295|Los Portales|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|3015|Urbano|01
+81295|Morelos CTM|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2391|Urbano|01
+81295|Las Cañas|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|1555|Urbano|01
+81295|Morelos CTM 2|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2418|Urbano|01
+81295|San Francisco|Fraccionamiento|Ahome|Sinaloa|Los Mochis|81201|25|81201||21|001|2932|Urbano|01
+81300|Campo Gastelum|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2554|Rural|
+81300|Tozalibampo|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2559|Rural|
+81300|Tabelojeca|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2560|Rural|
+81300|Huatabampito|Pueblo|Ahome|Sinaloa||81313|25|81313||28|001|0747|Rural|
+81300|Mayocoba|Ranchería|Ahome|Sinaloa||81313|25|81313||29|001|0749|Rural|
+81303|Agua Nueva|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2300|Rural|
+81304|San Miguel Zapotitlan|Pueblo|Ahome|Sinaloa||81301|25|81301||28|001|0783|Rural|
+81304|Bajada de San Miguel|Ejido|Ahome|Sinaloa||81301|25|81301||15|001|2557|Rural|
+81304|Nuevo San Miguel|Ejido|Ahome|Sinaloa||81301|25|81301||15|001|2423|Rural|
+81304|Bacaporobampo|Ejido|Ahome|Sinaloa||81301|25|81301||15|001|2555|Rural|
+81304|Club de Leones|Colonia|Ahome|Sinaloa||81301|25|81301||09|001|2056|Rural|
+81304|Sector Juricahui|Colonia|Ahome|Sinaloa||81301|25|81301||09|001|2057|Rural|
+81304|Vallejo (Porvenir Vallejo)|Ejido|Ahome|Sinaloa||81301|25|81301||15|001|2666|Rural|
+81304|Paroscahui|Colonia|Ahome|Sinaloa||81301|25|81301||09|001|2058|Rural|
+81304|Choacahui|Ejido|Ahome|Sinaloa||81301|25|81301||15|001|2556|Rural|
+81304|Las Calaveras|Ejido|Ahome|Sinaloa||81301|25|81301||15|001|2558|Rural|
+81305|Los Goros|Pueblo|Ahome|Sinaloa||81201|25|81201||28|001|0782|Rural|
+81305|Flor Azul|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0785|Rural|
+81305|Gabriel Leyva Solano|Pueblo|Ahome|Sinaloa||81201|25|81201||28|001|0786|Rural|
+81306|Bagojo del Río (Bombas Aguilas)|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2561|Rural|
+81306|Goros 2|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|0752|Rural|
+81306|Cachoana|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2574|Rural|
+81306|El Porvenir|Pueblo|Ahome|Sinaloa||81313|25|81313||28|001|0756|Rural|
+81307|Zapotillo 1|Ranchería|Ahome|Sinaloa||81313|25|81313||29|001|0753|Rural|
+81307|Macapule|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2562|Rural|
+81307|Águila Azteca|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|0754|Rural|
+81308|Bolsa de Tosalibampo 1|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0784|Rural|
+81310|Emiliano Zapata|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0751|Urbano|
+81310|Cuchilla de Cachoana|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2657|Urbano|
+81310|Bagojo Colectivo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0750|Urbano|
+81311|ing. Heriberto Valdez Romero|Ranchería|Ahome|Sinaloa||81313|25|81313||29|001|0758|Rural|
+81311|Los Suárez|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|0748|Rural|
+81311|El Guayabo|Pueblo|Ahome|Sinaloa||81313|25|81313||28|001|0757|Rural|
+81312|Cohuibampo|Ranchería|Ahome|Sinaloa||81313|25|81313||29|001|0759|Rural|
+81315|Ahome Centro|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1763|Rural|09
+81316|Melchor Ocampo|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1758|Rural|09
+81316|Benito Juárez|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1762|Rural|09
+81316|Guadalupe|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|2040|Rural|09
+81316|San Antonio|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|2896|Rural|09
+81316|Las Bombitas|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1755|Urbano|09
+81316|Inzunza|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1756|Rural|09
+81317|Morelos|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1759|Rural|09
+81318|Individual Ahome|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1757|Rural|09
+81318|Hidráulica|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|1760|Rural|09
+81318|Ahome Independencia|Ejido|Ahome|Sinaloa|Ahome|81313|25|81313||15|001|1761|Rural|09
+81318|Ahome Independiente|Colonia|Ahome|Sinaloa|Ahome|81313|25|81313||09|001|2039|Rural|09
+81320|Antonio Toledo Corro|Colonia|Ahome|Sinaloa||81342|25|81342||09|001|1735|Rural|
+81324|La Despensa|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0773|Rural|
+81325|El Refugio|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0778|Rural|
+81326|Huacaporito|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0776|Rural|
+81326|San Pablo|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0777|Rural|
+81330|Nueva|Colonia|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||09|001|1771|Rural|10
+81330|Hidráulica|Colonia|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||09|001|1767|Rural|10
+81330|Francisco Ceballos|Fraccionamiento|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||21|001|1770|Rural|10
+81330|San Lorenzo Nuevo|Ejido|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||15|001|1765|Rural|10
+81330|Higueras de Zaragoza Centro|Colonia|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||09|001|1764|Rural|10
+81330|Buenavista|Colonia|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||09|001|1769|Rural|10
+81330|Magisterial|Colonia|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||09|001|1766|Rural|10
+81330|Ejidal|Colonia|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||09|001|1768|Rural|10
+81330|San Isidro (san Francisco de Hullaya)|Ejido|Ahome|Sinaloa|Higuera de Zaragoza|81331|25|81331||15|001|2244|Rural|10
+81334|Bolsa de Tozalibampo Dos|Ejido|Ahome|Sinaloa||81331|25|81331||15|001|2564|Rural|
+81334|Jitzamuri|Poblado comunal|Ahome|Sinaloa||81331|25|81331||27|001|2563|Rural|
+81334|Las Lajitas|Ejido|Ahome|Sinaloa||81331|25|81331||15|001|2233|Rural|
+81335|Los Algodones|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0779|Rural|
+81335|San Lorenzo Viejo|Ingenio|Ahome|Sinaloa||81201|25|81201||25|001|0774|Rural|
+81336|San José de Ahome|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|0781|Rural|
+81337|El Aguajito|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0780|Rural|
+81340|Poblado 5|Pueblo|Ahome|Sinaloa||81201|25|81201||28|001|0769|Rural|
+81340|Chihuahuita|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0770|Rural|
+81340|Poblado 6 (Los Natoches)|Pueblo|Ahome|Sinaloa||81201|25|81201||28|001|0771|Rural|
+81341|Gral. Guillermo Chavez Talamantes|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0765|Rural|
+81341|Niños Héroes de Chapultepec|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0766|Rural|
+81341|Mártires de Sinaloa|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0764|Rural|
+81343|Revolución Mexicana|Ejido|Ahome|Sinaloa||81342|25|81342||15|001|2424|Rural|
+81343|Venustiano Carranza|Ejido|Ahome|Sinaloa||81342|25|81342||15|001|2565|Rural|
+81343|Gustavo Diaz Ordaz|Villa|Ahome|Sinaloa||81342|25|81342||32|001|0761|Rural|
+81345|Emigdio Ruiz|Ejido|Ahome|Sinaloa||81342|25|81342||15|001|2667|Rural|
+81346|Alfonso G. Calderón (Poblado Siete)|Pueblo|Ahome|Sinaloa||81342|25|81342||28|001|0008|Urbano|
+81349|Sinaloa de Leyva|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0767|Rural|
+81349|Bacorehuis|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0762|Rural|
+81349|Dolores Hidalgo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0763|Rural|
+81350|Las Grullas Margen Derecho|Ranchería|Ahome|Sinaloa||81313|25|81313||29|001|0788|Rural|
+81350|El Colorado|Conjunto habitacional|Ahome|Sinaloa||81313|25|81313||12|001|0789|Rural|
+81350|El Alhuate|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|2232|Rural|
+81350|Las Grullas Margen Izquierdo|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|0792|Rural|
+81351|La Florida|Ranchería|Ahome|Sinaloa||81313|25|81313||29|001|0790|Rural|
+81351|El Bule|Ejido|Ahome|Sinaloa||81313|25|81313||15|001|0791|Rural|
+81360|Cereso Nuevo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2656|Rural|
+81360|18 de Marzo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0794|Rural|
+81360|Felipe Angeles|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0795|Rural|
+81360|Cerrillos (campo 35)|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2301|Rural|
+81361|5 de Mayo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0803|Rural|
+81361|Compuertas O 21 de Septiembre|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0793|Rural|
+81361|Campo La Arrocera|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0804|Rural|
+81361|Rosendo G Castro|Pueblo|Ahome|Sinaloa||81201|25|81201||28|001|0801|Rural|
+81363|20 de Noviembre Nuevo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2946|Rural|
+81363|Los Mochis|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0796|Rural|
+81363|20 de Noviembre Viejo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0800|Rural|
+81364|Ricardo Flores Magón|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0799|Rural|
+81367|Santa Bárbara (Cabaihunaca)|Fraccionamiento|Ahome|Sinaloa||81201|25|81201||21|001|3055|Rural|
+81367|Plan de San Luis|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0802|Rural|
+81367|Louisiana|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0797|Rural|
+81367|Albergue Louisiana|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2658|Rural|
+81369|Los Mochis (Los Mochis)|Aeropuerto|Ahome|Sinaloa||81201|25|81201||01|001|0805|Rural|
+81370|Topolobampo|Puerto|Ahome|Sinaloa|Topolobampo|81371|25|81371||40|001|3182|Urbano|23
+81370|Topolobampo Centro|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|0806|Rural|23
+81372|Kilómetro 23|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1890|Rural|23
+81372|Pestalozzi|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1891|Rural|23
+81372|Sindicatura|Barrio|Ahome|Sinaloa|Topolobampo|81371|25|81371||02|001|1895|Rural|23
+81372|Varadero 1|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1892|Rural|23
+81372|Estación 1|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1884|Rural|23
+81372|San José 2|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1888|Rural|23
+81372|San José 1|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1887|Rural|23
+81372|Varadero 2|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1893|Rural|23
+81372|Plaza|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1879|Rural|23
+81372|Aduana|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1885|Rural|23
+81372|El Pedregal|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1889|Rural|23
+81372|Capilla San José|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1886|Rural|23
+81373|Pérgola 2|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1900|Rural|23
+81373|Barrio Estándar|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1905|Rural|23
+81373|Telmex|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1906|Rural|23
+81373|Los Conchos|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1897|Rural|23
+81373|Secretaria de Marina Bajos|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1908|Rural|23
+81373|Iglesia de Guadalupe|Barrio|Ahome|Sinaloa|Topolobampo|81371|25|81371||02|001|3016|Urbano|23
+81373|Banamex|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1880|Rural|23
+81373|Pérgola 1|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1899|Rural|23
+81373|Sindicato|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1904|Rural|23
+81373|Secretaria de Marina|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1903|Rural|23
+81373|Pesquera|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1907|Rural|23
+81373|Seguro Social|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1881|Rural|23
+81373|Mendez|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1902|Rural|23
+81373|Providencia|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1901|Rural|23
+81374|La Guasima|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1896|Rural|23
+81374|CET Mar|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1883|Rural|23
+81375|INFONAVIT La Curva|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1909|Urbano|23
+81375|24 de Febrero|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1911|Rural|23
+81375|Cartolandia|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1910|Rural|23
+81375|Estación 2|Colonia|Ahome|Sinaloa|Topolobampo|81371|25|81371||09|001|1882|Rural|23
+81376|Ohuira|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0808|Rural|
+81377|Paredones|Poblado comunal|Ahome|Sinaloa||81371|25|81371||27|001|2566|Rural|
+81378|Bachomobampo 1|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0809|Rural|
+81378|Bachomobampo 2|Ranchería|Ahome|Sinaloa||81201|25|81201||29|001|0810|Rural|
+81379|Benito Juárez|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|3011|Rural|
+81379|9 de Diciembre|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0807|Rural|
+81379|Plan de Ayala (Campo Cinco)|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|2425|Rural|
+81379|Plan de Guadalupe|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0811|Rural|
+81383|Los Batequis|Rancho|Ahome|Sinaloa||81111|25|81111||48|001|0006|Rural|
+81384|Primero de Mayo|Ejido|Ahome|Sinaloa||81201|25|81201||15|001|0813|Rural|
+81386|El Estero|Ejido|Ahome|Sinaloa||81111|25|81111||15|001|2659|Rural|
+81390|Lázaro Cárdenas (Muellecito)|Poblado comunal|Ahome|Sinaloa||81371|25|81371||27|001|2567|Rural|
+81393|Carrizo Grande|Ranchería|Ahome|Sinaloa||81371|25|81371||29|001|0007|Rural|

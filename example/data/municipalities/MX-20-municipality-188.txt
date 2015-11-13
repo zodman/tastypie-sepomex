@@ -1,0 +1,9 @@
+71720|Chico|Barrio|San Juan Colorado|Oaxaca||71601|20|71601||02|188|0002|Rural|
+71720|Gigante|Colonia|San Juan Colorado|Oaxaca||71601|20|71601||09|188|0001|Rural|
+71720|Santa María Nutio|Pueblo|San Juan Colorado|Oaxaca||71601|20|71601||28|188|3088|Rural|
+71720|San Juan Colorado|Pueblo|San Juan Colorado|Oaxaca||71601|20|71601||28|188|3087|Rural|
+71720|Nuevo Progreso|Ranchería|San Juan Colorado|Oaxaca||71601|20|71601||29|188|3086|Rural|
+71721|San Pedro Siniyubi|Ranchería|San Juan Colorado|Oaxaca||71601|20|71601||29|188|3090|Rural|
+71721|El Terrero|Ranchería|San Juan Colorado|Oaxaca||71601|20|71601||29|188|3089|Rural|
+71722|Peña Negra|Ranchería|San Juan Colorado|Oaxaca||71601|20|71601||29|188|3091|Rural|
+71724|Agua Fría|Congregación|San Juan Colorado|Oaxaca||71601|20|71601||11|188|4532|Rural|

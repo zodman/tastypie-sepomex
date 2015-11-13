@@ -1,0 +1,32 @@
+91670|El Tamarindo|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4599|Rural|44
+91670|Nueva|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4596|Rural|44
+91670|Ejidal|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4598|Rural|44
+91670|San Jose|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4600|Rural|44
+91670|La Joya|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4601|Rural|44
+91670|Paso de Ovejas Centro|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4603|Rural|44
+91670|El Calvario|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4602|Rural|44
+91670|Centro América|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4604|Rural|44
+91670|Guadalupana|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|5379|Rural|44
+91670|Lomas Verdes|Colonia|Paso de Ovejas|Veracruz de Ignacio de la Llave|Paso de Ovejas|91671|30|91671||09|126|4597|Rural|44
+91672|La Ceiba|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0468|Rural|
+91672|Salmoral Parte del Sur|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0002|Rural|
+91672|Mata Grande|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0001|Rural|
+91673|El Hatito|Ranchería|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||29|126|0473|Rural|
+91673|Carretas|Ranchería|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||29|126|7784|Rural|
+91674|Cerro de Guzmán|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0472|Rural|
+91674|Tolome|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0474|Rural|
+91674|Loma Del Nanche|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0476|Rural|
+91674|Puente de Jula|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0475|Rural|
+91674|Las Trancas|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|7321|Rural|
+91674|Plan de Manantial|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|7324|Rural|
+91674|Pozo Mata Ramírez|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|7323|Rural|
+91675|Bandera de Juárez|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0471|Rural|
+91675|Loma Fina|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|0920|Rural|
+91675|Tierra Colorada|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|1127|Rural|
+91675|El Tejon|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|0776|Rural|
+91675|Palmaritos|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|7322|Rural|
+91676|Patancan|Congregación|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||11|126|1004|Rural|
+91676|Rancho Nuevo O Coatepec|Ranchería|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||29|126|0477|Rural|
+91677|Acazonica|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0465|Rural|
+91677|Angostillo|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0466|Rural|
+91677|Cantarranas|Pueblo|Paso de Ovejas|Veracruz de Ignacio de la Llave||91671|30|91671||28|126|0467|Rural|

@@ -1,0 +1,77 @@
+90500|Huamantla Centro|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|0260|Urbano|04
+90502|Del Dulce Nombre|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|1060|Urbano|04
+90502|Santa Cruz|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0466|Urbano|04
+90502|El Calvario|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0464|Urbano|04
+90502|El Encanto|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|1007|Urbano|04
+90502|De Jesús|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|1061|Urbano|04
+90502|La Santísima|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0468|Urbano|04
+90503|Cuamanco|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0677|Urbano|04
+90503|La Giralda|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0458|Urbano|04
+90503|Santa Ana|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0676|Urbano|04
+90503|El Cornejal|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|1199|Urbano|04
+90503|Villa de las Flores|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0678|Urbano|04
+90503|San Carlos|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0463|Urbano|04
+90505|San Antonio|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0469|Urbano|04
+90505|Santa Maria Yancuitlalpan|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0473|Urbano|04
+90505|Jardines de San Manuel|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|1063|Urbano|04
+90505|San Francisco Yancuitlalpan|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0269|Urbano|04
+90505|San José|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0270|Rural|04
+90505|La Preciosa|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0267|Rural|04
+90505|San Miguel|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|1062|Urbano|04
+90506|Nuevos Horizontes|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|0272|Rural|04
+90506|Emiliano Zapata|Colonia|Huamantla|Tlaxcala|Huamantla|90501|29|90501||09|013|0273|Rural|04
+90506|Ignacio Zaragoza|Unidad habitacional|Huamantla|Tlaxcala|Huamantla|90501|29|90501||31|013|0271|Rural|04
+90506|Tierra y Libertad|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0679|Urbano|04
+90506|Viva|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0462|Urbano|04
+90506|La Estación|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0461|Urbano|04
+90507|Unión y Progreso|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0471|Urbano|04
+90507|San Lucas|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0276|Rural|04
+90507|San Francisco|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0470|Urbano|04
+90507|San Francisquito|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0681|Urbano|04
+90508|Los Volcanes II|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0659|Urbano|04
+90508|La Palma|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0001|Urbano|04
+90508|INFONAVIT 15 de Agosto|Unidad habitacional|Huamantla|Tlaxcala|Huamantla|90501|29|90501||31|013|0277|Urbano|04
+90508|Los Volcanes|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0662|Urbano|04
+90508|Arboledas|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0680|Urbano|04
+90508|El Jagüey|Unidad habitacional|Huamantla|Tlaxcala|Huamantla|90501|29|90501||31|013|0688|Urbano|04
+90508|La Cañada|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0459|Urbano|04
+90508|San Sebastián|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0278|Urbano|04
+90508|Juárez|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0460|Urbano|04
+90508|La Esmeralda|Fraccionamiento|Huamantla|Tlaxcala|Huamantla|90501|29|90501||21|013|0675|Urbano|04
+90508|Santa Anita|Barrio|Huamantla|Tlaxcala|Huamantla|90501|29|90501||02|013|0279|Urbano|04
+90510|Los Pilares|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0261|Rural|
+90510|Ignacio Zaragoza|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0262|Rural|
+90513|El Carmen Xalpatlahuaya|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0280|Rural|
+90513|Hermenegildo Galeana|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0259|Rural|
+90513|N.C.P. San Diego Xalpatlahuaya|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0671|Rural|
+90514|La Lima|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0803|Rural|
+90514|Francisco I. Madero la Mesa|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0667|Rural|
+90514|Benito Juárez|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0264|Rural|
+90514|El Molino|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0801|Rural|
+90514|De Torres|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0802|Rural|
+90514|Francisco I. Madero Tecoac|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0668|Rural|
+90514|Francisco Villa Tecoac|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0673|Rural|
+90515|San José Xicohtencatl|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0674|Rural|
+90515|N.C.P. José María Morelos|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0805|Rural|
+90515|Ampliación Felipe Carrillo Puerto|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0779|Rural|
+90515|Los Alamos|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0778|Rural|
+90515|El Valle|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0672|Rural|
+90520|Lázaro Cárdenas|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0281|Rural|
+90520|San Francisco Tecoac|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0263|Rural|
+90520|San Francisco Notario|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0664|Rural|
+90525|Lic. Mauro Angulo|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0665|Rural|
+90525|Chapultepec|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0282|Rural|
+90525|N.C.P. San José Teacalco|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0806|Rural|
+90526|General Francisco Villa|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0283|Rural|
+90526|San Martín Notario|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0284|Rural|
+90526|San Juan|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0669|Rural|
+90526|Agrícola San Martín Notario|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0804|Rural|
+90526|Acasillados San Martin Notario|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0670|Rural|
+90527|Cuauhtémoc|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0285|Rural|
+90530|De la Cruz|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|1065|Urbano|
+90530|San Miguel Baez|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0472|Urbano|
+90530|De Jesús|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0287|Urbano|
+90530|José María Morelos|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0286|Rural|
+90534|Mariano Matamoros|Pueblo|Huamantla|Tlaxcala||90501|29|90501||28|013|0288|Rural|
+90534|Altamira de Guadalupe|Colonia|Huamantla|Tlaxcala||90501|29|90501||09|013|0663|Rural|
+90535|La Cruz|Ranchería|Huamantla|Tlaxcala||90501|29|90501||29|013|0289|Rural|

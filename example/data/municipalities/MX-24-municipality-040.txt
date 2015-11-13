@@ -1,0 +1,45 @@
+79200|Tamuin Centro|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1790|Semiurbano|11
+79202|El Campo|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1794|Semiurbano|11
+79202|Victor Manuel Santos|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1792|Semiurbano|11
+79202|Morelos|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1793|Semiurbano|11
+79203|Salvador Nava Martínez|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1795|Semiurbano|11
+79203|El Mirasol|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1797|Semiurbano|11
+79203|Las Brisas|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1796|Semiurbano|11
+79204|Quinta Dulce|Fraccionamiento|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||21|040|1789|Semiurbano|11
+79204|Los Pericos|Fraccionamiento|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||21|040|1798|Semiurbano|11
+79205|Magisterial|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1784|Semiurbano|11
+79205|Las Norias|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1786|Semiurbano|11
+79205|Hidalgo|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1788|Semiurbano|11
+79205|Lindavista|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1791|Semiurbano|11
+79206|Ricardo Flores Magón|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1785|Semiurbano|11
+79206|Juárez|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1783|Semiurbano|11
+79206|Media Luna|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1787|Semiurbano|11
+79206|Tanmoachan|Unidad habitacional|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||31|040|2268|Urbano|11
+79207|Nuevo Tamuin|Fraccionamiento|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||21|040|1780|Semiurbano|11
+79207|Pueblo Nuevo|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1779|Semiurbano|11
+79208|Las Gaviotas|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1782|Semiurbano|11
+79208|Colosio|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1777|Semiurbano|11
+79208|Valle Alto|Fraccionamiento|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||21|040|1781|Semiurbano|11
+79208|Del Bosque|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|2680|Urbano|11
+79208|Vista Alegre|Colonia|Tamuín|San Luis Potosí|Tamuin|79201|24|79201||09|040|1778|Semiurbano|11
+79210|Estación Tamuín|Paraje|Tamuín|San Luis Potosí||79201|24|79201||45|040|1131|Rural|
+79212|Santa Elena|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|1133|Rural|
+79213|El Peñasco|Ranchería|Tamuín|San Luis Potosí||79201|24|79201||29|040|2546|Rural|
+79214|Santa Martha|Ranchería|Tamuín|San Luis Potosí||79201|24|79201||29|040|1132|Rural|
+79215|Nuevo Aquismón|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2531|Rural|
+79216|La Ceiba|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2982|Rural|
+79217|Luis Donaldo Colosio|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2727|Rural|
+79218|Velazco|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2532|Rural|
+79219|Tamuín (Tamuín)|Aeropuerto|Tamuín|San Luis Potosí||79201|24|79201||01|040|1130|Rural|
+79220|Las Palmas|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|1134|Rural|
+79220|El Palmar|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|1135|Rural|
+79224|Nuevo Tampaón|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2534|Rural|
+79224|El Porvenir|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|0001|Urbano|
+79225|El Centinela|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2529|Rural|
+79225|San José del Limón|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|1129|Rural|
+79225|Los Huastecos|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2533|Rural|
+79225|Manuel Ávila Camacho|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2557|Rural|
+79226|Nuevo Ahuacatitla|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2530|Rural|
+79227|Nueva Primavera|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|2669|Rural|
+79228|La Fortaleza|Ejido|Tamuín|San Luis Potosí||79201|24|79201||15|040|1137|Rural|
+79228|Antiguo Tamuin|Pueblo|Tamuín|San Luis Potosí||79201|24|79201||28|040|1136|Rural|

@@ -1,0 +1,334 @@
+84200|Centro|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0685|Urbano|02
+84210|Ferrocarril|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0687|Urbano|02
+84210|Sector Industrial|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1728|Urbano|02
+84213|Paseos del Parque|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3362|Urbano|02
+84213|Coronado|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3328|Urbano|02
+84220|Militar|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0688|Urbano|02
+84230|Obrera|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0689|Urbano|02
+84230|Ibarrola|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1748|Urbano|02
+84230|Loma Linda|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3052|Urbano|02
+84230|Lomas del Sol|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1744|Urbano|02
+84230|Cueva de los Leones|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1746|Urbano|02
+84230|El Alamito INFONAVIT|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1743|Urbano|02
+84230|Valle Bonito|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|1745|Urbano|02
+84230|Praderas|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|2085|Urbano|02
+84230|Deportiva|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1740|Urbano|02
+84230|Cerrada San Ángel|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|2084|Urbano|02
+84230|FOVISSSTE|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3222|Urbano|02
+84240|Jesús García|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0690|Urbano|02
+84240|Unidad Deportiva|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0691|Urbano|02
+84250|Nueva|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0692|Urbano|02
+84259|Ladrillera|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1724|Urbano|02
+84259|Solidaridad|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1730|Urbano|02
+84259|Ladrillera II|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1729|Urbano|02
+84259|Ladrillera III|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3049|Urbano|02
+84259|Tres Caminos|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1727|Urbano|02
+84259|Ejidal|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0693|Urbano|02
+84260|Vallarta|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0694|Urbano|02
+84260|Esperanza|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1737|Urbano|02
+84267|Instituto Tecnológico|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1735|Urbano|02
+84267|Armando López Nogales|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1741|Urbano|02
+84267|Vildosola|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0695|Urbano|02
+84269|Zona Industrial|Parque industrial|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||26|002|3050|Urbano|02
+84269|INFONAVIT Industrial|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3207|Urbano|02
+84269|Beltrones|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1733|Urbano|02
+84269|Parcela 54|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|3051|Urbano|02
+84269|Bicentenario|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0001|Urbano|02
+84269|Buenos Aires|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1742|Urbano|02
+84269|Las Colinas|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|2277|Urbano|02
+84269|Querobabi|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|2278|Urbano|02
+84269|Aribabi|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|2279|Urbano|02
+84269|Ejidal II|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1734|Urbano|02
+84269|INFONAVIT Industrial|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1726|Urbano|02
+84269|Vecinos Unidos|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|2276|Urbano|02
+84269|Pueblo Nuevo|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1731|Urbano|02
+84269|Magisterial|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1732|Urbano|02
+84270|Sal Si Puedes|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1736|Urbano|02
+84270|Acapulco|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0698|Urbano|02
+84270|Burócrata|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1738|Urbano|02
+84270|Luis Donaldo Colosio|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0699|Urbano|02
+84270|Los Cipreses|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|2086|Urbano|02
+84279|Valles Duarte|Fraccionamiento|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||21|002|1739|Urbano|02
+84279|Plaza Bachicuy|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|1747|Urbano|02
+84279|Nuevo Progreso|Colonia|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||09|002|0700|Urbano|02
+84279|Parque Industrial del Río|Parque industrial|Agua Prieta|Sonora|Agua Prieta|84201|26|84201||26|002|1749|Urbano|02
+84300|La Cabellera|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8272|Rural|
+84300|La Esperanza|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8276|Rural|
+84300|La Tinaja|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8293|Rural|
+84300|El Álamo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8185|Rural|
+84300|El Rincón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8224|Rural|
+84300|La Pitahaya|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8287|Rural|
+84300|Los Azogues|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8320|Rural|
+84300|Colonia Morelos|Colonia|Agua Prieta|Sonora||84201|26|84201||09|002|0701|Rural|
+84300|La Tinaja|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8292|Rural|
+84300|Los Pinos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8333|Rural|
+84300|Salsipuedes|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8399|Rural|
+84300|Molino Quemado|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8351|Rural|
+84300|El Fresno|Colonia|Agua Prieta|Sonora||84201|26|84201||09|002|8199|Rural|
+84300|La Cabellera|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8271|Rural|
+84300|Los Aguajes|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8314|Rural|
+84300|Rancho Nuevo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8384|Rural|
+84300|El Mezquitalito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8203|Rural|
+84303|Adolfo Ortíz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8147|Rural|
+84303|El Alamito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8184|Rural|
+84303|El Oso|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8209|Rural|
+84303|Guillermo Pereyda|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8249|Rural|
+84303|Jorge Leyva Iribe|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8260|Rural|
+84303|La Herradura|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8278|Rural|
+84303|La Manga|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8282|Rural|
+84303|Las Caballerizas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8304|Rural|
+84303|Las Isabeles|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8308|Rural|
+84303|Laura Viuda de Ángulo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8311|Rural|
+84303|Los Pirules|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8334|Rural|
+84303|Manuel Valdez Valdez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8340|Rural|
+84303|Martín Rivera Ojeda|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8345|Rural|
+84303|Olivares Martínez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8354|Rural|
+84303|Paseo el Greco|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8358|Rural|
+84303|Pedro Cruz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8359|Rural|
+84303|Rancho Bacaparra|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8375|Rural|
+84303|Rancho de Toño|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8378|Rural|
+84303|Rancho Pericles|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8388|Rural|
+84303|Represo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8392|Rural|
+84303|Tres en Uno (Las Palapas)|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8412|Rural|
+84303|David Muñoz Orona|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8181|Rural|
+84303|El Ranchito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8222|Rural|
+84303|Jaime Acedo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8254|Rural|
+84303|Javier Espinoza|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8255|Rural|
+84303|La Ladrillera|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8280|Rural|
+84303|Pablo Gracia Tena|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8356|Rural|
+84303|Petra de Ozorni|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8361|Rural|
+84303|Ramón Tapia|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8373|Rural|
+84303|Rancho San Benito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8389|Rural|
+84303|Cayo Méndez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8170|Rural|
+84303|Chacahuala|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8173|Rural|
+84303|Chávez Ochoa|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8174|Rural|
+84303|Cornelio Preciado (Kilómetro Seis)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8177|Rural|
+84303|El Cémaro|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8194|Rural|
+84303|El Fresnal|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8198|Rural|
+84303|El Potrerón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8219|Rural|
+84303|GM|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8247|Rural|
+84303|Herlinda Celaya Ibarra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8250|Rural|
+84303|José Ramón Grijalva Jiménez (Kilómetro Cinco)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8265|Rural|
+84303|Rancho Bacaparra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8374|Rural|
+84303|Rancho Nuevo (El Nogal)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8386|Rural|
+84303|Rancho Nuevo el Cachetón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8387|Rural|
+84303|San Pedro|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8408|Rural|
+84303|Abel Acosta Anaya|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8145|Rural|
+84303|Altagracia Betancurt Solís|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8152|Rural|
+84303|Antonio Cuadras|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8155|Rural|
+84303|Arnulfo Robles Bustamante|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8157|Rural|
+84303|Carlos de la Madrid|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8168|Rural|
+84303|Fernando Ramírez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8241|Rural|
+84303|La Marrana (Corrales la Marrana)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8283|Rural|
+84303|Los Álamos (Corrales Gómez)|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8317|Rural|
+84303|Los Fresnales|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8327|Rural|
+84303|Los Pinitos (Evaristo Molina Olivas)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8332|Rural|
+84303|Mario Ruiz Madrid|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8342|Rural|
+84303|Quinta Chilla (Quinta Chía)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8367|Rural|
+84303|Rancho Kilómetro Nueve|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8383|Rural|
+84303|Ricardo Dórame Madrid (Kilómetro Trece)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8394|Rural|
+84303|Carlos Villagómez Aldai|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8169|Rural|
+84303|El Trece|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8231|Rural|
+84303|Ernesto Gracia Tena|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8237|Rural|
+84303|Juan Félix Mejía|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8267|Rural|
+84303|Justina Ruiz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8270|Rural|
+84303|Nicolás González|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8353|Rural|
+84303|Pedro Duarte Contreras|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8360|Rural|
+84303|Rafael Contreras Lizárraga|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8369|Rural|
+84303|Ramón Álvarez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8370|Rural|
+84303|Ramón Sosa|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8372|Rural|
+84303|Rancho Francisco Montoya|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8379|Rural|
+84303|Rancho Katib|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8382|Rural|
+84303|Rodimiro Álvarez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8397|Rural|
+84303|Albergue Divina Providencia|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8148|Rural|
+84303|Ángel Alonso|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8153|Rural|
+84303|Blas Domínguez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8163|Rural|
+84303|Centro de Readaptación Social (CERESO)|Zona federal|Agua Prieta|Sonora||84201|26|84201||34|002|8172|Rural|
+84303|El Pitahayo (Roberto Fu)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8214|Rural|
+84303|Fundación Brazos de Amor|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8245|Rural|
+84303|Gilberto Chávez Romero|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8246|Rural|
+84303|Guillermo Carrillo González|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8248|Rural|
+84303|Jesús Terán Morales|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8258|Rural|
+84303|José Manuel Flores Moreno|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8264|Rural|
+84303|Ricardo Cornídez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8393|Rural|
+84303|Alberto Gracía Grijalva|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8149|Rural|
+84303|Antonio Coronado Díaz (Kilómetro Siete)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8154|Rural|
+84303|Francisco Ramírez González|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8244|Rural|
+84303|José Gámez Ledesma|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8263|Rural|
+84303|Julia León Molina|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8268|Rural|
+84303|Los Cémaros|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8321|Rural|
+84303|Manuel Ortega Silveira|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8339|Rural|
+84303|Unión Ganadera|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8413|Rural|
+84303|Vicente Licea Márquez|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8414|Rural|
+84303|Alfonso García Romo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8150|Rural|
+84303|Alfredo Díaz Soto|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8151|Rural|
+84303|Candelaria Chávez de Robinson|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8166|Rural|
+84303|Capri|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8167|Rural|
+84303|El Álamo (Enrique Traín)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8187|Rural|
+84303|El Palo Verde|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8210|Rural|
+84303|José Rivera Ojeda|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8266|Rural|
+84303|Julia León Molina|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8269|Rural|
+84303|Licenciado Anselmo Murillo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8312|Rural|
+84303|Los Janitos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8329|Rural|
+84303|Manuel Flores|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8337|Rural|
+84303|Manuel Ortega Morales|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8338|Rural|
+84303|Raúl Ortega Morales|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8368|Rural|
+84303|Rubén de la Cruz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8398|Rural|
+84303|Santa Cruz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8410|Rural|
+84304|José Antonio|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8262|Rural|
+84304|La Gloria|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8277|Rural|
+84304|La Traila|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8294|Rural|
+84304|Marcelo Rascón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8341|Rural|
+84304|Roberto López (La Virgen)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8395|Rural|
+84304|Yolanda Renoba Ibarra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8416|Rural|
+84304|El Azufre|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8191|Rural|
+84304|El Cumarito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8196|Rural|
+84304|El Nogalito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8206|Rural|
+84304|Francisco Adarga Yáñez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8242|Rural|
+84304|Jesús Moreno|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8257|Rural|
+84304|Jorge Nicolás Barra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8261|Rural|
+84304|Martín Jáquez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8343|Rural|
+84304|Roberto Salcido|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8396|Rural|
+84304|Taller Dávila|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8411|Rural|
+84304|Armando Gámez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8156|Rural|
+84304|El Alamito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8183|Rural|
+84304|El Camionero [Restaurante]|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8192|Rural|
+84304|El Sapo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8227|Rural|
+84304|Felizardo Moreno|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8239|Rural|
+84304|Ignacio Anguiano|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8252|Rural|
+84304|La Codorniz (Fitosanitaria) [Restaurante]|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8274|Rural|
+84304|La Pila|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8285|Rural|
+84304|La Victoria|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8295|Rural|
+84304|Lalo Leyva|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8298|Rural|
+84304|Loreto Sanez Quiroz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8313|Rural|
+84304|Plaza Ortiz|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8364|Rural|
+84304|Benito Gámez Nuñez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8162|Rural|
+84304|Crimilda Gómez Montaño|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8179|Rural|
+84304|El Mezquite|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8204|Rural|
+84304|Javier García|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8256|Rural|
+84304|Miguel Ángel Bermudes|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8348|Rural|
+84304|Miguel Ángel Márquez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8349|Rural|
+84304|San Francisco|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8405|Rural|
+84304|Benito Domínguez Ballesteros|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8161|Rural|
+84304|Fernando Félix (Rancho GF)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8240|Rural|
+84304|Laser Night Club|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8310|Rural|
+84304|Los Alamitos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8315|Rural|
+84304|Campo Verde|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8165|Rural|
+84304|Club de Tiro el Bajío|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8175|Rural|
+84304|Iberogas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8251|Rural|
+84304|Israel Monge|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8253|Rural|
+84304|Las Eloísas (El Papalote)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8307|Rural|
+84304|Luis Cortés|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8335|Rural|
+84304|San Antonio|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8401|Rural|
+84304|Buena Vista|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8164|Rural|
+84304|El Álamo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8186|Rural|
+84304|El Sauce|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8228|Rural|
+84304|Joaquín Zamudio Ramírez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8259|Rural|
+84304|La Criba|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8275|Rural|
+84304|La Piedra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8284|Rural|
+84304|La Puerta Negra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8288|Rural|
+84304|Monte Calvario|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8352|Rural|
+84304|Oscar Villanueva Pérez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8355|Rural|
+84304|Corralón Federal|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8178|Rural|
+84304|Francisco Ramírez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8243|Rural|
+84304|La Rancheta del Alamito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8289|Rural|
+84304|Las Cenizas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8305|Rural|
+84304|Los Altos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8319|Rural|
+84304|Manuel Caperón Pedregón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8336|Rural|
+84304|Matías Pérez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8346|Rural|
+84304|Piedra Bola|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8362|Rural|
+84304|Yunque Antonio Hernández|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8417|Rural|
+84305|Avitia|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8159|Rural|
+84305|Mina Santa Mónica (Mina de Sílica)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8350|Rural|
+84305|Cabullona|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|0703|Rural|
+84305|Las Peñas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8309|Rural|
+84305|Las Abejas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8299|Rural|
+84305|El Papalote|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8211|Rural|
+84305|El Porvenir|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8215|Rural|
+84305|El Veinticinco|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8233|Rural|
+84305|Rancho San Juan|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8390|Rural|
+84305|Rancho Casa de Piedra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8376|Rural|
+84305|El Porvenir (Munguía)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8216|Rural|
+84305|El Santo Niño|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8226|Rural|
+84306|Colonia Seca|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8176|Rural|
+84306|La Junta de los Ríos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8279|Rural|
+84306|Ramón Oquita Montenegro (La Cieneguita)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8371|Rural|
+84306|San Francisco|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8404|Rural|
+84306|Los Chinos|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|0704|Rural|
+84306|Cuchuverachi|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8180|Rural|
+84306|Enrique Amador Camacho|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8235|Rural|
+84306|Los Álamos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8316|Rural|
+84306|Las Águilas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8300|Rural|
+84306|San Antonio|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8400|Rural|
+84306|La Ciénega|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8273|Rural|
+84306|Las Agujas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8301|Rural|
+84306|Los Chinos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8322|Rural|
+84306|San Isidro (El Bacatete)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8406|Rural|
+84306|El Rusbayo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|0705|Rural|
+84306|La Sota|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8290|Rural|
+84306|Rancho Seco|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8391|Rural|
+84307|El Ojito|Congregación|Agua Prieta|Sonora||84201|26|84201||11|002|0707|Rural|
+84307|Agua Blanca|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|0706|Rural|
+84307|El Alisal|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8188|Rural|
+84307|El Pozo (San Juan)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8221|Rural|
+84307|Los Chirriones|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8323|Rural|
+84307|San Martín|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8407|Rural|
+84307|El Alamito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8182|Rural|
+84307|El Mojón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8205|Rural|
+84307|El Alisal|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8189|Rural|
+84307|Los Almireces|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8318|Rural|
+84307|Los Jabalíes|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8328|Rural|
+84307|El Pozo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8220|Rural|
+84307|La Malia|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8281|Rural|
+84307|La Pistola|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8286|Rural|
+84310|Rancho Gallardo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8380|Rural|
+84310|Las Anitas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8302|Rural|
+84310|El Ojito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8208|Rural|
+84310|Mesa de la Víbora|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8347|Rural|
+84310|18 de Agosto (Corral de Palos)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8144|Rural|
+84310|El Gis (El Fist)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8200|Rural|
+84310|San Bernardino|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8402|Rural|
+84313|Adán Zorilla|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8146|Rural|
+84313|Puerta Blanca|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8365|Rural|
+84313|El Diablo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8197|Rural|
+84313|Enrique Amador Camacho (El Cajón Bonito)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8236|Rural|
+84313|El Potrero Seco|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8218|Rural|
+84313|Atilano Barrón|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8158|Rural|
+84313|Martín Padilla|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8344|Rural|
+84313|Victoriano Enríquez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8415|Rural|
+84313|Celedonio Martínez|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8171|Rural|
+84313|La Vinata|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8296|Rural|
+84314|El Pinito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8213|Rural|
+84314|Puerto San Luis (Restaurante)|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8366|Rural|
+84314|El Nogalito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8207|Rural|
+84314|La Virgen|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8297|Rural|
+84314|Las Barras|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8303|Rural|
+84314|Estación Cuarentenaria|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8238|Rural|
+84314|Las Chimeneas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8306|Rural|
+84314|Los Ojos Calientes|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8330|Rural|
+84314|Rancho Nuevo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8385|Rural|
+84314|El Lobo|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8202|Rural|
+84314|El Valle|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8232|Rural|
+84315|Los Embudos|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8324|Rural|
+84315|Santa Cecilia|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8409|Rural|
+84315|El Represito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8223|Rural|
+84315|Los Embudos|Poblado comunal|Agua Prieta|Sonora||84201|26|84201||27|002|8326|Rural|
+84315|El Capadero|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8193|Rural|
+84315|El Tapila|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8229|Rural|
+84315|Los Embudos|Ranchería|Agua Prieta|Sonora||84201|26|84201||29|002|8325|Rural|
+84315|El Hucaral|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8201|Rural|
+84315|La Sota|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8291|Rural|
+84316|El Sale|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8225|Rural|
+84316|Pitaycachi|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8363|Rural|
+84316|El Potrero de la Sierra|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8217|Rural|
+84316|Los Paredones|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8331|Rural|
+84316|El Papalote Mocho|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8212|Rural|
+84316|San Fernando|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8403|Rural|
+84316|Rancho de las Borregas|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8377|Rural|
+84317|Bella Vista|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8160|Rural|
+84317|Pan Duro|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8357|Rural|
+84317|El Tigrito|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8230|Rural|
+84317|El Zumbido|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8234|Rural|
+84317|El Cemento|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8195|Rural|
+84317|Rancho Grande|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8381|Rural|
+84317|El Apache|Ejido|Agua Prieta|Sonora||84201|26|84201||15|002|8190|Rural|

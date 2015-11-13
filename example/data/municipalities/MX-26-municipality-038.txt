@@ -1,0 +1,16 @@
+84560|Moctezuma|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0754|Rural|
+84563|Samuel Ocaña|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0012|Urbano|
+84563|Coplamar|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0003|Urbano|
+84563|La Loma|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0007|Urbano|
+84564|Esperanza|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0005|Rural|
+84564|San Martín|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0013|Urbano|
+84564|La Joya|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0006|Urbano|
+84565|La Pila|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0008|Urbano|
+84565|El Parian|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0004|Urbano|
+84566|Las Liebre|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0009|Urbano|
+84566|Lomas del Pedregal|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0010|Urbano|
+84567|Reforma|Colonia|Moctezuma|Sonora||84561|26|84561||09|038|0011|Urbano|
+84573|Nícora|Ranchería|Moctezuma|Sonora||84561|26|84561||29|038|0001|Rural|
+84573|San Patricio la Mesa (La Mesa)|Congregación|Moctezuma|Sonora||84561|26|84561||11|038|0757|Rural|
+84575|El Llano|Ranchería|Moctezuma|Sonora||84561|26|84561||29|038|0002|Rural|
+84576|San Clemente de Terapa|Congregación|Moctezuma|Sonora||84561|26|84561||11|038|0758|Rural|

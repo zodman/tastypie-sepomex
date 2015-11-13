@@ -1,0 +1,43 @@
+58970|12 de diciembre|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0001|Urbano|
+58970|Lázaro Cárdenas|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0005|Urbano|
+58970|Indaparapeo|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0932|Urbano|
+58970|El Castillo|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0002|Urbano|
+58970|Independencia|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0003|Urbano|
+58970|La Paz|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0004|Urbano|
+58970|Miguel Hidalgo|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0006|Urbano|
+58972|San Lucas Pío|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0933|Urbano|
+58973|Las Cruces|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0935|Rural|
+58973|El Zurumutal|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0016|Rural|
+58973|Las Estacas|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0023|Rural|
+58973|Tinguaraques|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0031|Rural|
+58973|El Fresno|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0014|Rural|
+58973|La Soledad|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0021|Rural|
+58973|Las Peras|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0936|Rural|
+58974|Curimeo|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0013|Rural|
+58974|Jorio|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0017|Rural|
+58974|La Yerbabuena|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0022|Rural|
+58974|La Arpita|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0018|Rural|
+58974|Las Pitahayas|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0024|Rural|
+58974|Los Cimientos|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0025|Rural|
+58974|Las Huertas|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0937|Rural|
+58975|Cañada del Agua|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0938|Rural|
+58975|Guadalupe|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0009|Rural|
+58976|Pueblo Nuevo|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0940|Rural|
+58976|Potrero la Mesa|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0028|Rural|
+58976|Puente Roble|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0029|Rural|
+58976|El Moral|Rancho|Indaparapeo|Michoacán de Ocampo||58971|16|58971||48|040|0033|Rural|
+58976|Los Juncos|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0026|Rural|
+58976|Los Naranjos|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0939|Rural|
+58976|El Zapote|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0011|Rural|
+58977|La Cruz (Loma de la Cruz)|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0019|Rural|
+58977|Plan de la Salud|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0027|Rural|
+58977|Zacapendo|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0032|Rural|
+58977|La Herradura|Colonia|Indaparapeo|Michoacán de Ocampo||58971|16|58971||09|040|0020|Rural|
+58977|Estación de Quirio (Quirio)|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0941|Rural|
+58978|Benito Juárez (Chapitiro)|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0008|Rural|
+58978|Triunfo (La Tepacua)|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0010|Rural|
+58978|San Francisco|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0012|Rural|
+58978|El Sabino|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0015|Rural|
+58978|San José|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0030|Rural|
+58978|Plan de las Palmas|Pueblo|Indaparapeo|Michoacán de Ocampo||58971|16|58971||28|040|0942|Rural|
+58978|Chapitiro (Rancho Grano de Oro)|Ranchería|Indaparapeo|Michoacán de Ocampo||58971|16|58971||29|040|0007|Rural|

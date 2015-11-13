@@ -1,0 +1,704 @@
+97000|La Quinta|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0894|Urbano|01
+97000|Privada Del Maestro|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0904|Urbano|01
+97000|Privada Garcia Gineres C - 29|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0905|Urbano|01
+97000|Jardines de San Sebastian|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|1855|Urbano|01
+97000|Los Cocos|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0896|Urbano|01
+97000|Merida Centro|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0001|Urbano|01
+97003|Los Reyes|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0796|Urbano|01
+97050|Yucatan|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0011|Urbano|01
+97050|Alcalá Martín|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0010|Urbano|01
+97050|Conjunto Residencial Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0889|Urbano|01
+97059|Señorial|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0012|Urbano|01
+97060|Carrillo Ancona|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0013|Urbano|01
+97068|Itzaes|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0014|Urbano|01
+97069|Inalámbrica|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0015|Urbano|01
+97070|Garcia Gineres|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0017|Urbano|01
+97070|El Pedregal|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0595|Urbano|01
+97070|Dolores Patron|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0016|Urbano|01
+97080|La Huerta|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0020|Urbano|01
+97088|Santa Cecilia|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0021|Urbano|01
+97089|Cupules|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0022|Urbano|01
+97098|Lourdes|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0025|Urbano|01
+97099|Waspa|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0026|Urbano|01
+97100|Itzimna|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0029|Urbano|01
+97100|Itzimna|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0027|Urbano|01
+97100|Itzimna 2|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0784|Urbano|01
+97100|Rinconada Itzmina|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1837|Urbano|01
+97107|Manola|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0030|Urbano|01
+97108|Las Arboledas|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0031|Urbano|01
+97109|Jesús Carranza|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0033|Urbano|01
+97109|Ferrocarrileros|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0032|Urbano|01
+97110|Unidad Revolución|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|0034|Urbano|01
+97110|Unidad Habitacional Revolución I (Cordemex)|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|1843|Urbano|01
+97113|Xaman-Tan|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1884|Urbano|01
+97113|San Antonio|Residencial|Mérida|Yucatán|Mérida|97101|31|97101||30|050|1033|Urbano|01
+97113|Montebello II|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0293|Urbano|01
+97113|Montebello|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0037|Urbano|01
+97113|Sol Campestre|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0038|Urbano|01
+97113|Gran Royal Altabrisa|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1748|Urbano|01
+97114|Monte Alban|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0039|Urbano|01
+97114|Residencial Sol Campestre|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0814|Urbano|01
+97114|Privada Monterreal Plus|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0849|Urbano|01
+97115|Ampliación Cordemex|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|1809|Urbano|01
+97115|Ampliación Revolución|Colonia|Mérida|Yucatán|Mérida|97111|31|97111||09|050|1866|Urbano|01
+97115|Montes de Ame|Colonia|Mérida|Yucatán|Mérida|97111|31|97111||09|050|0041|Urbano|01
+97115|Cordemex|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|0776|Urbano|01
+97115|Residencial San Angelo|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|1885|Urbano|01
+97115|Revolución|Ampliación|Mérida|Yucatán|Mérida|97111|31|97111||38|050|0655|Urbano|01
+97115|Hacienda Dzodzil|Colonia|Mérida|Yucatán|Mérida|97111|31|97111||09|050|0040|Urbano|01
+97115|Gonzalo Guerrero|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|0045|Urbano|01
+97115|Royal del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|1753|Urbano|01
+97115|Residencial Montejo Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97111|31|97111||21|050|1863|Urbano|01
+97116|San Antonio Cucul|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0042|Urbano|01
+97116|Privada San Antonio Cucul|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1833|Urbano|01
+97117|Xaman-Kab|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1883|Urbano|01
+97117|San Ramon Norte|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0043|Urbano|01
+97117|San Ramon Norte I|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0853|Urbano|01
+97117|San Ramon Sur|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0044|Urbano|01
+97117|Villareal|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1882|Urbano|01
+97118|Plan de Ayala|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0046|Urbano|01
+97118|Plan de Ayala|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0647|Urbano|01
+97118|Villas Del Sol|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0047|Urbano|01
+97118|Ampliación Plan de Ayala (Villas del Sol)|Ampliación|Mérida|Yucatán|Mérida|97201|31|97201||38|050|1719|Urbano|01
+97119|Benito Juárez Nte|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0048|Urbano|01
+97119|Villas La Hacienda|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0049|Urbano|01
+97119|Gonzalo Guerrero|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1819|Urbano|01
+97119|Villas del Rey|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1861|Urbano|01
+97120|Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0051|Urbano|01
+97120|Ampliación del Norte (1a. Ampliación)|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1810|Urbano|01
+97120|Campestre|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0050|Urbano|01
+97120|Tecnológico|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0054|Urbano|01
+97121|Centro Sct Yucatán|Gran usuario|Mérida|Yucatán|Mérida|97141|31|97141||22|050|0052|Urbano|01
+97125|México|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0053|Urbano|01
+97125|Privada Nuevo México|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1831|Urbano|01
+97127|Buenavista|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0055|Urbano|01
+97127|Montejo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0056|Urbano|01
+97128|Privada Mediterráneo|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1829|Urbano|01
+97128|Residencial Colonia México|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1836|Urbano|01
+97128|Privada Real México|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1044|Urbano|01
+97128|México Norte|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0057|Urbano|01
+97129|Emiliano Zapata Nte|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0058|Urbano|01
+97130|Privada Maya|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1035|Urbano|01
+97130|Torremolinos|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0036|Urbano|01
+97130|San Carlos|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0060|Urbano|01
+97130|Missan II|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0288|Urbano|01
+97130|Montecarlo|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0635|Urbano|01
+97130|Privada Vista Alegre|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0852|Urbano|01
+97130|Montecarlo Norte|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1034|Urbano|01
+97130|Altabrisa|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1043|Urbano|01
+97130|Vista Alegre|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0061|Urbano|01
+97130|Santa Rita Cholul|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1877|Urbano|01
+97130|San Remo|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1731|Urbano|01
+97130|Vista Alegre|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0918|Urbano|01
+97130|Residencial Palmerales de Altabrisa|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0193|Urbano|01
+97130|Vista Alegre Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0919|Urbano|01
+97130|Diaz Ordaz|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0059|Urbano|01
+97130|Cumbres de Altabrisa|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|1805|Urbano|01
+97133|Camara de Comercio Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0769|Urbano|01
+97133|Los Palmares de Altabrisa|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1796|Urbano|01
+97133|Montevideo|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0064|Urbano|01
+97133|Monterreal|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0636|Urbano|01
+97133|Montecristo|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0062|Urbano|01
+97133|Residencial Camara de Comercio Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0065|Urbano|01
+97134|Privada Villa Cholul|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|1783|Urbano|01
+97134|Paraíso Maya|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0105|Urbano|01
+97134|Jose Maria Iturralde|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0619|Urbano|01
+97134|Maya|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0067|Urbano|01
+97135|Jardines de Mérida|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0068|Urbano|01
+97136|Felipe Carrillo Puerto Nte|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0069|Urbano|01
+97137|México Oriente|Colonia|Mérida|Yucatán|Mérida|97101|31|97101||09|050|0070|Urbano|01
+97138|La Florida|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0072|Urbano|01
+97138|Los Pinos|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0073|Urbano|01
+97138|Santa Maria|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0755|Urbano|01
+97138|Jardines de Vista Alegre|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0618|Urbano|01
+97138|Jardines del Noreste|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0007|Urbano|01
+97138|Residencial Del Arco|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0071|Urbano|01
+97138|San Pedro Cholul|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0683|Urbano|01
+97138|El Arco|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0778|Urbano|01
+97138|Jardines de Vista Alegre II|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0788|Urbano|01
+97138|Jardines Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0074|Urbano|01
+97138|Los Pinos|Ampliación|Mérida|Yucatán|Mérida|97141|31|97141||38|050|0628|Urbano|01
+97138|Vista Alegre Lotificacion|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0836|Urbano|01
+97138|Los Álamos|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0066|Urbano|01
+97138|Pinos Norte II|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|1010|Urbano|01
+97138|Residencial Bancarios|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0650|Urbano|01
+97139|Mail Express|Gran usuario|Mérida|Yucatán|Mérida|97101|31|97101||22|050|0629|Urbano|01
+97139|San Antonio Cinta II|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0816|Urbano|01
+97139|San Antonio Cinta III|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0817|Urbano|01
+97139|Jardines Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0184|Urbano|01
+97139|San Antonio Cinta|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0076|Urbano|01
+97139|Prado Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97101|31|97101||21|050|0075|Urbano|01
+97140|San Luis|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0079|Urbano|01
+97140|San Miguel|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0080|Urbano|01
+97140|Lopez Mateos|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0077|Urbano|01
+97140|San Luis|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0913|Urbano|01
+97142|Antonia Jimenez Trava|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0764|Urbano|01
+97142|Unidad Habitacional CTM|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|1724|Urbano|01
+97142|San Vicente Oriente|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|1876|Urbano|01
+97142|Polígono CTM|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0648|Urbano|01
+97142|Antonia Jimenez Trava II|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|1814|Urbano|01
+97143|San Vicente|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0165|Urbano|01
+97143|Leandro Valle|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0895|Urbano|01
+97143|Polígono 108|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0082|Urbano|01
+97143|La Isla|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0790|Urbano|01
+97143|Vicente Guerrero|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0083|Urbano|01
+97143|Itzimna 108|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0783|Urbano|01
+97143|Boulevares de Oriente|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|1769|Urbano|01
+97143|Luis Donaldo Colosio|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0856|Urbano|01
+97143|Bulevares de Oriente|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0768|Urbano|01
+97143|Confederación de Trabajadores Del Estado de Yucatán|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0857|Urbano|01
+97143|Brisas Del Bosque|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|1008|Urbano|01
+97144|Las Brisas Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0086|Urbano|01
+97144|Ampliación las Brisas|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0887|Urbano|01
+97144|Emiliano Zapata Ote|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0084|Urbano|01
+97144|Las Brisas|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0085|Urbano|01
+97145|Las Palmas|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0087|Urbano|01
+97145|Nueva Alemán Etapa III Pet-kanche|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0089|Urbano|01
+97145|San Juan Grande|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0091|Urbano|01
+97145|Petkanche|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0802|Urbano|01
+97145|Pet-kanche|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0090|Urbano|01
+97145|Nueva Alemán|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0800|Urbano|01
+97145|Los Álamos Alemán|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0088|Urbano|01
+97145|Noria II|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|1865|Urbano|01
+97146|Las Flores|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0792|Urbano|01
+97146|Nueva Alemán|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0092|Urbano|01
+97147|San Nicolás Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0680|Urbano|01
+97147|Nuevo Yucatán|Fraccionamiento|Mérida|Yucatán|Mérida|97141|31|97141||21|050|0093|Urbano|01
+97147|San Nicolás|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0094|Urbano|01
+97148|Miguel Alemán|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0095|Urbano|01
+97149|San Esteban|Ampliación|Mérida|Yucatán|Mérida|97141|31|97141||38|050|0858|Urbano|01
+97149|San Esteban|Colonia|Mérida|Yucatán|Mérida|97141|31|97141||09|050|0096|Urbano|01
+97150|Trava Quintero|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0106|Urbano|01
+97150|Industrial|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0097|Urbano|01
+97155|Fenix|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0098|Urbano|01
+97155|Lourdes Industrial|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0099|Urbano|01
+97155|Villa Fontana|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0711|Urbano|01
+97156|Los Reyes|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0100|Urbano|01
+97157|Nueva Mayapan|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0102|Urbano|01
+97157|Lázaro Cárdenas Ote|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0101|Urbano|01
+97158|Chuminopolis|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0103|Urbano|01
+97159|Lotificacion las Brisas|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0837|Urbano|01
+97159|Máximo Ancona|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0078|Urbano|01
+97159|Manuel Avila Camacho|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0107|Urbano|01
+97159|Mayapan|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0108|Urbano|01
+97159|Nueva Pacabtun|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0109|Urbano|01
+97159|Nueva Mayapan|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0733|Urbano|01
+97160|Pacabtun|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0111|Urbano|01
+97160|Manuel Avila Camacho|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0797|Urbano|01
+97160|Del Parque|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0110|Urbano|01
+97160|Privada Del Autotransporte CTM|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0847|Urbano|01
+97165|Melchor Ocampo|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0112|Rural|01
+97165|Melchor Ocampo II|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|1825|Urbano|01
+97166|Salvador Alvarado Oriente|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0114|Urbano|01
+97166|Fidel Velázquez|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0113|Urbano|01
+97166|Fidel Velázquez 2a Etapa|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0781|Urbano|01
+97167|Bosques de Oriente|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0888|Urbano|01
+97167|Privada Emilio Portes Gil|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|1871|Urbano|01
+97167|Emilio Portes Gil|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0116|Urbano|01
+97168|Jardines de Miraflores|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0117|Urbano|01
+97168|Madrid|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0023|Urbano|01
+97168|Del Carmen|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0104|Urbano|01
+97168|Cortes Sarmiento|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0115|Urbano|01
+97168|Cerillera|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0771|Urbano|01
+97169|Esperanza|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0118|Urbano|01
+97169|Wallis|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0119|Urbano|01
+97170|Nueva Chichen-itza|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0121|Urbano|01
+97170|Chichen-itza|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0120|Urbano|01
+97173|San Jose Vergel|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0126|Urbano|01
+97173|Real San José|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0283|Urbano|01
+97173|Vergel III|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0124|Urbano|01
+97173|Vergel II|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0123|Urbano|01
+97173|Vergel IV|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0125|Urbano|01
+97173|Misne III|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|1893|Urbano|01
+97173|Vergel I|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0122|Urbano|01
+97174|Azcorra II|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0559|Urbano|01
+97174|Villas La Macarena|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0127|Urbano|01
+97174|Morelos Oriente|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0128|Urbano|01
+97175|Amalia Solorzano|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0129|Urbano|01
+97176|Unidad Habitacional Ricardo Flores Magón|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0132|Urbano|01
+97176|San Pablo Oriente|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|0682|Urbano|01
+97176|Paseos Del Vergel|Colonia|Mérida|Yucatán|Mérida|97161|31|97161||09|050|1006|Urbano|01
+97176|Aquaparque|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|1779|Urbano|01
+97176|Hacienda el Vergel|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|1767|Urbano|01
+97176|Vergel 65|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0859|Urbano|01
+97176|Misné II|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0278|Urbano|01
+97176|San Antonio Kaua|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0911|Urbano|01
+97177|Azcorra|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0133|Urbano|01
+97178|Benito Juárez Ote|Fraccionamiento|Mérida|Yucatán|Mérida|97161|31|97161||21|050|0134|Urbano|01
+97179|Miraflores|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0136|Urbano|01
+97179|Privada Miraflores|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|1830|Urbano|01
+97180|Vicente Solis|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0137|Urbano|01
+97189|San Jose|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0140|Urbano|01
+97189|Canto|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0139|Urbano|01
+97190|Morelos|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0141|Urbano|01
+97190|Morelos Issste Fovissste|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0142|Urbano|01
+97195|Nueva Kukulkan|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0144|Urbano|01
+97195|Jardines de San Antonio Kaua|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0143|Urbano|01
+97195|Miraflores II|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0901|Urbano|01
+97195|San Antonio Kaua|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0145|Urbano|01
+97195|San Antonio Kaua I|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0912|Urbano|01
+97195|San Antonio Kaua II|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0660|Urbano|01
+97196|Militar|Unidad habitacional|Mérida|Yucatán|Mérida|97002|31|97002||31|050|0860|Urbano|01
+97196|Salvador Alvarado Sur II|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|1838|Urbano|01
+97196|Ampliación Salvador Alvarado Sur|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|1846|Urbano|01
+97196|Salvador Alvarado Sur|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0146|Urbano|01
+97196|San Antonio Del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0659|Urbano|01
+97197|Granjas|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0147|Urbano|01
+97198|Ampliación Granjas|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0151|Urbano|01
+97198|Reparto Granjas|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0804|Urbano|01
+97198|Kukulcan|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|1822|Urbano|01
+97199|Maria Luisa|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0149|Urbano|01
+97203|Almendros|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0867|Urbano|01
+97203|Magnolias|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0874|Urbano|01
+97203|Privada Palma Corozal|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1768|Urbano|01
+97203|Terranova|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0701|Urbano|01
+97203|Privada Villa Palma Real|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0710|Urbano|01
+97203|Villas las Palmas|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0713|Urbano|01
+97203|Chuburna de Hidalgo V|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0833|Urbano|01
+97203|Lotificacion Chuburna de Hidalgo I|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0843|Urbano|01
+97203|Mérida|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0865|Urbano|01
+97203|Aurea Residencial|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0281|Urbano|01
+97203|Cocoteros|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0582|Urbano|01
+97203|Villas Del Prado|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0712|Urbano|01
+97203|Privada Chuburna de Hidalgo (II)|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0844|Urbano|01
+97203|Nueva San Jose Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0873|Urbano|01
+97203|Rincón Colonial|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0910|Urbano|01
+97203|Francisco de Montejo II|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1818|Urbano|01
+97203|Francisco de Montejo III|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1849|Urbano|01
+97203|Francisco de Montejo V|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1851|Urbano|01
+97203|Arcos del Sol|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0230|Urbano|01
+97203|Del Bosque|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0589|Urbano|01
+97203|San Francisco Chuburna II|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0669|Urbano|01
+97203|Lotificacion Chuburna de Hidalgo II|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0897|Urbano|01
+97203|La Castellana|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1706|Urbano|01
+97203|Cordeleros de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0152|Urbano|01
+97203|El Conquistador|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0594|Urbano|01
+97203|Chuburna de Hidalgo III|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0831|Urbano|01
+97203|Privada Chuburna Plus|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0846|Urbano|01
+97203|Privada las Palmas|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0848|Urbano|01
+97203|Arboledas Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1815|Urbano|01
+97203|Platino|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1859|Urbano|01
+97203|San Pedro Uxmal|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0154|Urbano|01
+97203|San Pablo|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0681|Urbano|01
+97203|Francisco de Montejo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0872|Urbano|01
+97203|Las Haciendas III|Residencial|Mérida|Yucatán|Mérida|97201|31|97201||30|050|1045|Urbano|01
+97203|Ampliación Francisco de Montejo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1811|Urbano|01
+97203|Nuevo San José|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1860|Urbano|01
+97203|Arekas|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0557|Urbano|01
+97203|Camara de La Construcción|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0568|Urbano|01
+97203|Vista Alegre de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0715|Urbano|01
+97203|Chuburna de Hidalgo IV|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0832|Urbano|01
+97203|Industrias No Contaminantes|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0892|Semiurbano|01
+97203|Francisco de Montejo IV|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1850|Urbano|01
+97203|El Prado|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0153|Urbano|01
+97203|Tulias de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0220|Urbano|01
+97203|Brisas de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0567|Urbano|01
+97203|Puesta del Sol|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1024|Urbano|01
+97204|Xcumpich|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0155|Urbano|01
+97204|Residencial Piedrasul|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0286|Urbano|01
+97204|Revolución|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1881|Urbano|01
+97204|Residencial Galerias|Residencial|Mérida|Yucatán|Mérida|97201|31|97201||30|050|1757|Urbano|01
+97204|Vía Montejo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0277|Urbano|01
+97205|San Ángel|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0658|Urbano|01
+97205|Tabachines|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0823|Urbano|01
+97205|Privada las Flores|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0871|Urbano|01
+97205|Chuburna de Hidalgo|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0150|Urbano|01
+97205|El Cortijo I|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0157|Urbano|01
+97205|Paseo de Montejo|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0161|Urbano|01
+97205|Chuburna Inn|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0587|Urbano|01
+97205|Floresta|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0864|Urbano|01
+97205|Juan B Sosa|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0159|Urbano|01
+97205|Privada Pedregal II|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0906|Urbano|01
+97205|El Cortijo II|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0158|Urbano|01
+97205|Villa Carmencita|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0709|Urbano|01
+97205|Bugambilias|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0156|Urbano|01
+97205|Boulevares de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0566|Urbano|01
+97205|Loma Bonita|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1857|Urbano|01
+97205|El Campanario|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0592|Urbano|01
+97205|Privada Cortijo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0862|Urbano|01
+97205|San Luis Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0866|Urbano|01
+97205|Pinzon|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0869|Urbano|01
+97205|Privada Arboledas|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1808|Urbano|01
+97205|Residencial Hacienda Real|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0028|Urbano|01
+97205|Loma Bonita Xcumpich|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0160|Urbano|01
+97205|Privada Campestre Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1828|Urbano|01
+97205|Las Hadas|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0305|Urbano|01
+97205|Privada Chuburna de Hidalgo I|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0903|Urbano|01
+97205|Privada Turquesa|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1872|Urbano|01
+97206|San Vicente Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0754|Urbano|01
+97206|Villas Chuburna IV|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0828|Urbano|01
+97206|Yaxche|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0920|Urbano|01
+97206|San Jose I|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0671|Urbano|01
+97206|San Jose II|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0672|Urbano|01
+97206|Paraíso|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0850|Urbano|01
+97206|Privada San Jose|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0883|Urbano|01
+97206|Privada San Ángel Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1832|Urbano|01
+97206|Mérida (Elefante Grande)|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0735|Urbano|01
+97206|Las Dalias II y III|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0791|Urbano|01
+97206|Lotificacion San Vicente Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0835|Urbano|01
+97206|Privada La Hacienda|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1037|Urbano|01
+97206|San Francisco I|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0668|Urbano|01
+97206|Residencial Turquesa|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1736|Urbano|01
+97206|El Rosario|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0162|Urbano|01
+97206|Residencial La Noria|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0163|Urbano|01
+97206|Las Dalias|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0870|Urbano|01
+97206|Privada Cipreses|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0882|Urbano|01
+97206|San Francisco Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0164|Urbano|01
+97207|Villas de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0167|Urbano|01
+97207|Callejones de Chuburna|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0166|Urbano|01
+97208|El Cedral|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0593|Urbano|01
+97208|Felipe Carrillo Puerto|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0736|Urbano|01
+97208|60 Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0861|Urbano|01
+97208|Resid. Las Quintas (Chuburna)|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1835|Urbano|01
+97208|Chuburna de Hidalgo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0777|Urbano|01
+97208|Residencial Atlantis|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0280|Urbano|01
+97208|Malaga|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0900|Urbano|01
+97208|Rinconada de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0169|Urbano|01
+97208|Privada Chuburna de Hidalgo|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|1880|Urbano|01
+97208|Malaga|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0168|Urbano|01
+97209|Privada San Jorge (Chuburna)|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|1834|Urbano|01
+97209|Jardines de Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0170|Urbano|01
+97210|Pedregales de Tanlum|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0172|Urbano|01
+97210|Joaquín Ceballos Mimenza|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0171|Urbano|01
+97210|Tanlum|Colonia|Mérida|Yucatán|Mérida|97201|31|97201||09|050|0018|Urbano|01
+97215|Águilas Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0760|Urbano|01
+97215|Colonial Chuburna|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0584|Urbano|01
+97215|Colonial Buenavista|Fraccionamiento|Mérida|Yucatán|Mérida|97201|31|97201||21|050|0174|Urbano|01
+97217|Fovissste|Unidad habitacional|Mérida|Yucatán|Mérida|97212|31|97212||31|050|0176|Urbano|01
+97217|Residencial Pensiones III|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0810|Urbano|01
+97217|Residencial Pensiones VI|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0813|Urbano|01
+97217|Residencial Pensiones I y II|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0177|Urbano|01
+97217|Residencial Pensiones V|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0812|Urbano|01
+97217|Francisco El Porvenir|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0605|Urbano|01
+97217|Residencial Pensiones III (1)|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0838|Urbano|01
+97217|Residencial Pensiones IV|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0811|Urbano|01
+97217|Residencial Pensiones III (II)|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0839|Urbano|01
+97217|Pensiones Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1869|Urbano|01
+97218|Conjunto los Naranjos|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0774|Urbano|01
+97218|Roma|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0179|Urbano|01
+97218|San Damián|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0180|Urbano|01
+97218|Residencial Roma|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0653|Urbano|01
+97218|Privada San Damián|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0845|Urbano|01
+97218|San Isidro|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0748|Urbano|01
+97218|Lotificacion San Damián|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0834|Urbano|01
+97219|Residencial Pensiones VII|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|1005|Urbano|01
+97219|Pensiones|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1709|Urbano|01
+97219|San Damiancito|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0190|Urbano|01
+97219|Lotificacion San Damiancito I|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0898|Urbano|01
+97219|Unidad Habitacional Mérida Issste|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0916|Urbano|01
+97219|Limones|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0187|Urbano|01
+97219|Residencial Del Bosque Chenku|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0189|Urbano|01
+97219|Amapola|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0737|Urbano|01
+97219|Pedregal Lindavista|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0875|Urbano|01
+97219|Ampliación Lindavista (Elefante Chico)|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1812|Urbano|01
+97219|Lindavista II|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0795|Urbano|01
+97219|Hidráulica|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0183|Urbano|01
+97219|Privada Pensiones|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0188|Urbano|01
+97219|Residencial Del Norte|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0652|Urbano|01
+97219|Jardines de Lindavista|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0893|Urbano|01
+97219|Quinta Versalles|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0909|Urbano|01
+97219|Ampliación Pedregales de Lindavista|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1870|Urbano|01
+97219|Lindavista|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0186|Urbano|01
+97219|Jardines de Pensiones|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0617|Urbano|01
+97219|Lotificacion San Damiancito II|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0899|Urbano|01
+97219|Paseos de Pensiones|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|1042|Urbano|01
+97219|Chenku|Residencial|Mérida|Yucatán|Mérida|97212|31|97212||30|050|0181|Urbano|01
+97219|Lázaro Cárdenas|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0185|Urbano|01
+97219|Paseos de Chenku|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1868|Urbano|01
+97219|Francisco Villa|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0182|Urbano|01
+97220|Nueva Hidalgo|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0191|Urbano|01
+97220|Miguel Hidalgo|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0199|Urbano|01
+97220|Atlante|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0885|Urbano|01
+97220|La Vaca Feliz|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0197|Urbano|01
+97220|Zona Dorada|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0718|Urbano|01
+97220|Atlántida|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0884|Urbano|01
+97225|Privada San Pedro|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1887|Urbano|01
+97225|Paseo de las Fuentes|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0192|Urbano|01
+97226|El Porvenir|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0194|Urbano|01
+97227|Jacinto Canek|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0195|Urbano|01
+97227|Las Vigas|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0196|Urbano|01
+97229|Zona Dorada II|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0922|Urbano|01
+97229|Villa Zona Dorada|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1778|Urbano|01
+97229|Luis Echeverría Alvarez|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0198|Urbano|01
+97229|15 de Mayo|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0200|Urbano|01
+97229|Xcom|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|0202|Urbano|01
+97229|Hacienda Inn|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|1853|Urbano|01
+97229|Hacienda San Antonio|Fraccionamiento|Mérida|Yucatán|Mérida|97212|31|97212||21|050|0201|Urbano|01
+97229|Ampliación Roma (Luis Echeverría)|Colonia|Mérida|Yucatán|Mérida|97212|31|97212||09|050|1845|Urbano|01
+97230|Armando Avila Gurrutia|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0558|Urbano|01
+97230|Bojorquez|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0203|Urbano|01
+97237|Central de Abasto|Zona comercial|Mérida|Yucatán|Mérida|97221|31|97221||33|050|0876|Urbano|01
+97238|Nora Quintana|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0204|Urbano|01
+97238|Brisas del Poniente (Yucalpeten)|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1816|Urbano|01
+97238|Jardines de Yucalpeten|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1886|Urbano|01
+97238|Villas de Yacalpeten|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0917|Urbano|01
+97238|Yucalpeten|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0205|Urbano|01
+97238|Residencial Casa Blanca|Residencial|Mérida|Yucatán|Mérida|97221|31|97221||30|050|1788|Urbano|01
+97239|Yucalpeten Secc Florida|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0206|Urbano|01
+97240|Francisco I Madero|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0207|Urbano|01
+97245|Xoclan Santos|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0758|Urbano|01
+97245|Lopez Portillo|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0210|Urbano|01
+97245|Xoclan Canto|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0756|Urbano|01
+97246|Xoclan Xbech|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0218|Urbano|01
+97246|Mulsay Solidaridad|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0799|Urbano|01
+97246|Bosques de Yucalpeten|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0878|Urbano|01
+97246|Ampliación Juan Pablo II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0886|Urbano|01
+97246|Xoclan|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0217|Urbano|01
+97246|Juan Pablo II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0621|Urbano|01
+97246|Xoclan Rejas|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1004|Urbano|01
+97246|Los Ángeles|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1782|Urbano|01
+97246|Jardines de Nueva Mulsay|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0212|Urbano|01
+97246|La Reja|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0213|Urbano|01
+97246|Mulsay de La Magdalena|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0215|Urbano|01
+97246|Xoclan Carmelitas|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0757|Urbano|01
+97246|Paseos de Opichen|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1725|Urbano|01
+97246|Angeles II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1804|Urbano|01
+97246|Mulsay Polígono|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0902|Urbano|01
+97246|Villas de Tixcacal|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1734|Urbano|01
+97246|Bosques Del Poniente|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0211|Urbano|01
+97246|Bosques de Mulsay|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0765|Urbano|01
+97246|Juan Pablo II Secc. Mérida 2000|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0006|Urbano|01
+97246|Mulsay|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0214|Urbano|01
+97246|Granja Fruticola Susula|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0782|Urbano|01
+97246|San Jose Xoclan|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0216|Urbano|01
+97246|Juan Pablo II Cardenales|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0284|Urbano|01
+97246|México Poniente|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0632|Urbano|01
+97246|Hacienda Mulsay|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0880|Urbano|01
+97246|Anexo Juan Pablo II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1813|Urbano|01
+97247|San Cayetano|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0664|Urbano|01
+97247|San Lorenzo|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0219|Semiurbano|01
+97249|Nueva Mulsay I|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0740|Urbano|01
+97249|Tixcacal Opichen|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1021|Urbano|01
+97249|Villa Magna|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1022|Urbano|01
+97249|Jardines de Nueva Mulsay III|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1821|Urbano|01
+97249|Nueva Reforma Agraria|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1020|Urbano|01
+97249|Tulipanes Opichen|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1742|Urbano|01
+97249|Diamante Paseos de Opichen|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1889|Urbano|01
+97249|Mulsay|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0221|Urbano|01
+97249|Nueva Mulsay|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0222|Urbano|01
+97249|Jardines de Nueva Mulsay II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0785|Urbano|01
+97249|Cinturón Verde|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1023|Urbano|01
+97249|Ampliación Tixcacal Opichen|Ampliación|Mérida|Yucatán|Mérida|97221|31|97221||38|050|1701|Urbano|01
+97249|Girasoles de Opichen|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1852|Urbano|01
+97249|Residencial Valparaiso|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1874|Urbano|01
+97249|Pedregales de Nueva Mulsay Etapa|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0742|Urbano|01
+97249|Xoclan Susula (El Convento)|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1752|Urbano|01
+97249|Plantel México|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0741|Urbano|01
+97249|Xoclan Susula|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0759|Urbano|01
+97249|Hacienda Opichen|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1854|Urbano|01
+97249|Villa Magna II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1061|Urbano|01
+97249|Hacienda Opichen|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1803|Urbano|01
+97249|Núcleo Mulsay|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1826|Urbano|01
+97250|Nueva Sambula|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0223|Urbano|01
+97250|Sambula|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1772|Urbano|01
+97255|El Roble|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0224|Urbano|01
+97255|Santa Bárbara|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0914|Urbano|01
+97255|Manuel Crescencio Rejon|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0225|Urbano|01
+97255|Roble II|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1713|Urbano|01
+97255|Bicentenario|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0003|Urbano|01
+97255|Roble Agrícola III|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1797|Urbano|01
+97256|Graciano Ricalde|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0227|Urbano|01
+97256|Álvaro Torres|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0226|Urbano|01
+97256|Renacimiento I|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1792|Urbano|01
+97256|Libertad III|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1823|Urbano|01
+97256|Villas Mérida|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0714|Urbano|01
+97256|Industrial Bridec|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1820|Urbano|01
+97256|Libertad II|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0228|Urbano|01
+97256|Renacimiento II|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0924|Urbano|01
+97256|Pino Suárez|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0923|Urbano|01
+97256|Residencial Nicte|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1873|Urbano|01
+97256|Lol-Be|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1824|Urbano|01
+97258|Salvador Alvarado|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0229|Urbano|01
+97259|Itzaez|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0209|Urbano|01
+97260|Circuito Colonias|Conjunto habitacional|Mérida|Yucatán|Mérida|97002|31|97002||12|050|1848|Urbano|01
+97260|Villa de la Obrera II|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0301|Urbano|01
+97260|Villas del Mayab|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0309|Urbano|01
+97260|Villa Moderna|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|1879|Urbano|01
+97260|Obrera|Colonia|Mérida|Yucatán|Mérida|97002|31|97002||09|050|0231|Urbano|01
+97260|Nueva Obrera|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|1032|Urbano|01
+97267|Manzana 115|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0233|Urbano|01
+97268|Delio Moreno Canton|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0234|Urbano|01
+97268|Quinta Valencia|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0803|Urbano|01
+97269|Santa Maria de Guadalupe|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0236|Urbano|01
+97269|Las Palmeras II|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1743|Urbano|01
+97269|Meliton Salazar|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0235|Urbano|01
+97270|Dolores Otero|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0237|Urbano|01
+97277|Mercedes Barrera|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0238|Urbano|01
+97278|Bosques Del Pedregal|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1036|Urbano|01
+97278|Castilla Camara|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0239|Urbano|01
+97279|Quinta Santa Rosa|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0908|Urbano|01
+97279|Santa Rosa|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0240|Urbano|01
+97280|Santa Rita|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0279|Urbano|01
+97280|5 Colonias|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0241|Urbano|01
+97284|Lindavista|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0794|Urbano|01
+97284|Lomas Del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97002|31|97002||21|050|0242|Urbano|01
+97285|Villas Del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0829|Urbano|01
+97285|San Carlos Del Sur|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0881|Urbano|01
+97285|Álamos del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1759|Urbano|01
+97285|Bellavista|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0063|Urbano|01
+97285|Serapio Rendón|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0243|Urbano|01
+97285|San José Tzal|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0292|Urbano|01
+97285|Serapio Rendón III|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0822|Urbano|01
+97285|Villa Magna del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1031|Urbano|01
+97285|Jardines del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1705|Urbano|01
+97285|Villa Bonita|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0296|Urbano|01
+97285|Lotificacion Serapio Rendón 1|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0840|Urbano|01
+97285|Serapio Rendón II|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1842|Urbano|01
+97285|Plan de Ayala Sur III|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|1827|Urbano|01
+97285|Las Nubes|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1856|Urbano|01
+97285|San Carlos Del Sur II|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0818|Urbano|01
+97285|Palmas del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1867|Urbano|01
+97285|Plan de Ayala Sur|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0743|Urbano|01
+97286|Las Brisas Del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0244|Urbano|01
+97287|Del Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0245|Urbano|01
+97288|Ampliación Ciudad Industrial|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1844|Urbano|01
+97288|Ciudad Industrial|Zona industrial|Mérida|Yucatán|Mérida|97221|31|97221||37|050|0246|Urbano|01
+97289|San Nicolás Del Sur|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0248|Urbano|01
+97289|La Hacienda|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0247|Urbano|01
+97289|La Hacienda|Ampliación|Mérida|Yucatán|Mérida|97261|31|97261||38|050|0622|Urbano|01
+97290|Nueva San Jose Tecoh|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0641|Urbano|01
+97290|San Antonio Xluch II|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0746|Urbano|01
+97290|San Luis Sur|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1735|Urbano|01
+97290|La Guadalupana|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|1761|Urbano|01
+97290|San Antonio Xluch|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0249|Urbano|01
+97295|Santa Cruz|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|1899|Urbano|01
+97295|Mérida (Lic. Manuel Crescencio Rejon)|Aeropuerto|Mérida|Yucatán|Mérida|97221|31|97221||01|050|0251|Urbano|01
+97295|El Roble Agrícola|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1878|Urbano|01
+97295|San Marcos|Fraccionamiento|Mérida|Yucatán|Mérida|97221|31|97221||21|050|0298|Urbano|01
+97296|San Marcos Nocoh|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|0252|Urbano|01
+97296|San Marcos Nocoh II|Colonia|Mérida|Yucatán|Mérida|97221|31|97221||09|050|1841|Urbano|01
+97297|Emiliano Zapata Sur|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0253|Urbano|01
+97297|Emiliano Zapata Sur II|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0890|Urbano|01
+97297|Metropolitana|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|1862|Urbano|01
+97297|San Antonio Xluch III|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|1875|Urbano|01
+97297|Villas Quetzal|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0024|Urbano|01
+97297|Emiliano Zapata Sur III|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|1817|Urbano|01
+97297|San Luis Sur|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|1840|Rural|01
+97298|Zazil - Ha II|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0921|Urbano|01
+97298|Brisas de San José|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|1847|Urbano|01
+97298|Zacilha|Fraccionamiento|Mérida|Yucatán|Mérida|97261|31|97261||21|050|0254|Urbano|01
+97298|San Jose Tecoh Sur|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0749|Urbano|01
+97298|Privada Zuzil - Ha|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0907|Urbano|01
+97299|San Antonio Tecoh|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0255|Urbano|01
+97299|San Jose Tecoh|Colonia|Mérida|Yucatán|Mérida|97261|31|97261||09|050|0256|Urbano|01
+97300|Ejido de Chuburna|Ejido|Mérida|Yucatán||97201|31|97201||15|050|1704|Rural|
+97302|Sierra Papacal|Pueblo|Mérida|Yucatán||97111|31|97111||28|050|0270|Urbano|
+97302|Piedra Antigua|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|0291|Urbano|
+97302|San Antonio Residencial|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|0308|Urbano|
+97302|Las Fincas|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|1755|Rural|
+97302|Palmequén|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|0294|Urbano|
+97302|Xotik|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|0297|Urbano|
+97302|Residencial Xcanatún|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|0148|Urbano|
+97302|Royal del Parque|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|0208|Urbano|
+97302|Dzidzilché|Hacienda|Mérida|Yucatán||97111|31|97111||24|050|0269|Rural|
+97302|Los Tamarindos|Colonia|Mérida|Yucatán||97111|31|97111||09|050|0035|Urbano|
+97302|Xcanatún|Hacienda|Mérida|Yucatán||97111|31|97111||24|050|0268|Urbano|
+97302|Dzityá|Pueblo|Mérida|Yucatán||97111|31|97111||28|050|0590|Urbano|
+97302|Club de Golf La Ceiba|Colonia|Mérida|Yucatán||97111|31|97111||09|050|1007|Rural|
+97302|Las Américas|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|1041|Urbano|
+97302|Real Montejo|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|1056|Urbano|
+97302|Residencial del Mayab|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|1729|Rural|
+97302|Núcleo Sodzil|Colonia|Mérida|Yucatán||97111|31|97111||09|050|1864|Urbano|
+97302|Sac-Nicté|Pueblo|Mérida|Yucatán||97111|31|97111||28|050|0722|Urbano|
+97302|Temozon Norte|Pueblo|Mérida|Yucatán||97111|31|97111||28|050|0730|Urbano|
+97302|Komchén|Pueblo|Mérida|Yucatán||97111|31|97111||28|050|0262|Urbano|
+97302|Las Américas II|Fraccionamiento|Mérida|Yucatán||97111|31|97111||21|050|1802|Urbano|
+97302|Chablekal|Pueblo|Mérida|Yucatán||97111|31|97111||28|050|0258|Rural|
+97303|Cheumán|Pueblo|Mérida|Yucatán||97002|31|97002||28|050|1272|Rural|
+97303|Kikteil|Pueblo|Mérida|Yucatán||97002|31|97002||28|050|1269|Rural|
+97303|Cosgaya|Hacienda|Mérida|Yucatán||97002|31|97002||24|050|0271|Rural|
+97303|Noc Ac|Pueblo|Mérida|Yucatán||97002|31|97002||28|050|1270|Rural|
+97304|Xcunyá|Hacienda|Mérida|Yucatán||97002|31|97002||24|050|0272|Rural|
+97304|Tamanché|Pueblo|Mérida|Yucatán||97002|31|97002||28|050|1268|Rural|
+97305|Granjas Cholul|Colonia|Mérida|Yucatán||97101|31|97101||09|050|0306|Urbano|
+97305|Jalapa|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|1722|Urbano|
+97305|Bogdan|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0175|Urbano|
+97305|Cholul|Pueblo|Mérida|Yucatán||97101|31|97101||28|050|0273|Rural|
+97305|Altavista|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0299|Urbano|
+97305|Paraíso las Margaritas|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|1052|Semiurbano|
+97305|Las Margaritas de Cholul|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|1053|Semiurbano|
+97305|Santa Gertrudis Copo|Ranchería|Mérida|Yucatán||97101|31|97101||29|050|1030|Semiurbano|
+97305|Algarrobos Desarrollo Residencial|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|1051|Semiurbano|
+97305|Parque Central|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0276|Urbano|
+97305|Cholul|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0303|Urbano|
+97305|Residencial Campestre Viladiu|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0135|Urbano|
+97305|San Luis Cholul|Colonia|Mérida|Yucatán||97101|31|97101||09|050|0178|Urbano|
+97305|Sian Kaan|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0285|Urbano|
+97305|Residencial Anturio|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0295|Urbano|
+97305|Cocoyoles|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|1703|Semiurbano|
+97305|Dzibilchaltún|Pueblo|Mérida|Yucatán||97101|31|97101||28|050|1271|Rural|
+97305|Gran San Pedro Cholul|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0138|Urbano|
+97305|Villas Cholul|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0173|Urbano|
+97306|Chichi Suárez|Pueblo|Mérida|Yucatán||97141|31|97141||28|050|0259|Rural|
+97306|Sitpach|Pueblo|Mérida|Yucatán||97141|31|97141||28|050|0265|Rural|
+97306|Villas de Oriente|Fraccionamiento|Mérida|Yucatán||97141|31|97141||21|050|1039|Semiurbano|
+97306|Los Héroes|Fraccionamiento|Mérida|Yucatán||97141|31|97141||21|050|1806|Urbano|
+97306|Santa María Chí|Pueblo|Mérida|Yucatán||97141|31|97141||28|050|0720|Rural|
+97306|Chichi Díaz|Fraccionamiento|Mérida|Yucatán||97141|31|97141||21|050|1057|Rural|
+97307|La Rejoyada|Condominio|Mérida|Yucatán||97111|31|97111||10|050|0004|Rural|
+97308|Yucatán Country Club|Fraccionamiento|Mérida|Yucatán||97101|31|97101||21|050|0250|Rural|
+97308|Santa María Yaxché|Rancho|Mérida|Yucatán||97101|31|97101||48|050|0232|Rural|
+97309|Cordemex|Zona industrial|Mérida|Yucatán||97201|31|97201||37|050|0274|Urbano|
+97309|Yaxché Casares|Ranchería|Mérida|Yucatán||97201|31|97201||29|050|0307|Rural|
+97310|Oncán|Hacienda|Mérida|Yucatán||97111|31|97111||24|050|0275|Urbano|
+97312|Tixcacal|Pueblo|Mérida|Yucatán||97221|31|97221||28|050|0724|Rural|
+97312|Los Faisanes de Tixcacal|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0019|Rural|
+97312|Chalmuch|Pueblo|Mérida|Yucatán||97221|31|97221||28|050|0725|Rural|
+97314|La Perla Ciudad Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0302|Urbano|
+97314|Los Almendros|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1711|Rural|
+97314|Arboleda|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1716|Rural|
+97314|Jardines del Caucel II|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1733|Rural|
+97314|Las Torres II|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1756|Urbano|
+97314|Balcones II|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0002|Urbano|
+97314|La Ceiba|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0289|Urbano|
+97314|Sasula|Pueblo|Mérida|Yucatán||97221|31|97221||28|050|0723|Rural|
+97314|Las Torres I|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1718|Rural|
+97314|La Herradura II|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1728|Rural|
+97314|La Herradura III|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1749|Urbano|
+97314|Terranova Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1750|Urbano|
+97314|La Herradura IV|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1789|Urbano|
+97314|Caucel|Pueblo|Mérida|Yucatán||97221|31|97221||28|050|0257|Rural|
+97314|Sol Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1050|Rural|
+97314|Los Balcones|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1702|Rural|
+97314|Pedregales de Ciudad Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1727|Rural|
+97314|Ciricotes de Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1771|Urbano|
+97314|Los Cocos de Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1790|Urbano|
+97314|Villa Jardín|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0287|Urbano|
+97314|Jardines de Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1060|Rural|
+97314|Paseos de Opichen la Joya|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1741|Urbano|
+97314|Hacienda Caucel|Hacienda|Mérida|Yucatán||97221|31|97221||24|050|1746|Urbano|
+97314|Centenario Cámara de Comercio Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1773|Urbano|
+97314|Sol Caucel III|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1894|Urbano|
+97314|Ciudad Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1895|Urbano|
+97314|Horizontes de Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1058|Rural|
+97314|Susulá|Pueblo|Mérida|Yucatán||97221|31|97221||28|050|1273|Rural|
+97314|Boulevares|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1715|Rural|
+97314|Gran Santa Fe|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1730|Rural|
+97314|Jardines de Poniente|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1762|Rural|
+97314|Rinconada de Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1770|Urbano|
+97314|Caucel II|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0005|Urbano|
+97314|Hogares Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0131|Urbano|
+97314|Cerradas de la Herradura|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|0282|Urbano|
+97314|Villas de Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1714|Rural|
+97314|Las Torres III|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1721|Rural|
+97314|Las Torres|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1738|Rural|
+97314|Viva Caucel|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1745|Urbano|
+97314|La Herradura|Fraccionamiento|Mérida|Yucatán||97221|31|97221||21|050|1059|Rural|
+97315|Dzununcan|Fraccionamiento|Mérida|Yucatán||97261|31|97261||21|050|0300|Rural|
+97315|Texán Cámara|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0721|Rural|
+97315|La Guadalupana|Fraccionamiento|Mérida|Yucatán||97261|31|97261||21|050|1046|Urbano|
+97315|Molas|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0263|Rural|
+97315|San José Tzal|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0264|Rural|
+97315|Hunxectamán|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0304|Rural|
+97315|San Pedro Chimay|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0719|Rural|
+97315|Tahdzibichén|Hacienda|Mérida|Yucatán||97261|31|97261||24|050|0266|Rural|
+97315|Petac|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|1276|Rural|
+97315|Nuevo San José Tecoh|Fraccionamiento|Mérida|Yucatán||97261|31|97261||21|050|1047|Urbano|
+97315|Nuevo San José Tecoh III|Fraccionamiento|Mérida|Yucatán||97261|31|97261||21|050|0130|Urbano|
+97315|San Antonio Tzacalá|Hacienda|Mérida|Yucatán||97261|31|97261||24|050|0267|Rural|
+97315|Santa Cruz Palomeque|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0731|Rural|
+97315|Dzununcán|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0261|Rural|
+97315|Xmatkuil|Colonia|Mérida|Yucatán||97261|31|97261||09|050|0925|Rural|
+97316|San Ignacio Tesip|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|1274|Rural|
+97316|Yaxnic|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|1275|Rural|
+97316|Dzoyaxché|Pueblo|Mérida|Yucatán||97261|31|97261||28|050|0290|Rural|

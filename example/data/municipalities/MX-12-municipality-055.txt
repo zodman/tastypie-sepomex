@@ -1,0 +1,124 @@
+40200|Taxco de Alarcón Centro|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1949|Urbano|04
+40210|La Cantera|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4070|Urbano|04
+40210|Villas Marbel|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1951|Urbano|04
+40210|Lomas de Taxco|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4577|Urbano|04
+40210|Potrero|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4069|Urbano|04
+40211|Ruffo Figueroa|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1952|Urbano|04
+40212|Casayas|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1116|Urbano|04
+40212|Casayas|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4072|Urbano|04
+40213|Martelas|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4071|Urbano|04
+40214|El Espejo|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4575|Urbano|04
+40214|El Arenal|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4576|Urbano|04
+40220|Los Pocitos|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1548|Urbano|04
+40220|El Mineros|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4067|Urbano|04
+40220|El Chorrillo|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1953|Urbano|04
+40220|Agua Blanca|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4066|Urbano|04
+40220|Los Jales|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1954|Urbano|04
+40221|Los Adobes|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1955|Urbano|04
+40222|La Mulata|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1956|Urbano|04
+40223|La Florida|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4068|Urbano|04
+40223|Cantarranas|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1957|Urbano|04
+40224|Las Zarzas|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4578|Urbano|04
+40225|Península Ahuacatitlán|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1958|Urbano|04
+40226|Los Cardenistas|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4579|Urbano|04
+40227|La Indita|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4581|Urbano|04
+40230|Vicente Guerrero|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1961|Urbano|04
+40230|Chavarrieta|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1959|Urbano|04
+40230|La Misión|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1960|Urbano|04
+40230|De La Garita|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4580|Urbano|04
+40230|El Minero|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4314|Urbano|04
+40233|De Fundiciones|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4582|Urbano|04
+40238|La Vista|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1962|Urbano|04
+40239|Reforma|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1963|Urbano|04
+40240|Exconvento|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1964|Urbano|04
+40240|Sierra Alta|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1965|Urbano|04
+40250|Zacatillo|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1739|Urbano|04
+40250|Guadalupe|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1966|Urbano|04
+40250|Ojeda|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1967|Urbano|04
+40250|Atache|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1076|Urbano|04
+40250|El Mezquite|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1492|Urbano|04
+40250|Huixteco|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1328|Urbano|04
+40250|20 de Noviembre|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1702|Urbano|04
+40252|Izotes|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1341|Urbano|04
+40252|Panorámica|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1968|Urbano|04
+40253|Casahuates|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1969|Urbano|04
+40253|Del Sauce|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1205|Urbano|04
+40254|El Mirador|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4583|Urbano|04
+40260|La Veracruz|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1971|Urbano|04
+40260|La Mora|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1970|Urbano|04
+40265|Cereso Taxco|Gran usuario|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||22|055|1972|Urbano|04
+40270|Cena Obscura|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1119|Urbano|04
+40270|Loma Larga|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1973|Urbano|04
+40270|Huiyatengo|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1329|Urbano|04
+40272|El Gigante|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4064|Urbano|04
+40272|Arroyo|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1074|Urbano|04
+40273|Los Pocitos|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4063|Urbano|04
+40273|Emiliano Zapata|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1290|Urbano|04
+40273|FOVISSSTE|Unidad habitacional|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||31|055|4062|Urbano|04
+40273|Zacazontla|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1740|Urbano|04
+40273|Del PRI|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|4584|Urbano|04
+40274|Montaña de Plata Infonavit|Unidad habitacional|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||31|055|1502|Urbano|04
+40274|Infonavit|Unidad habitacional|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||31|055|4065|Urbano|04
+40275|C. N. O. P|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1168|Urbano|04
+40275|Santito|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1653|Urbano|04
+40280|Barrio Piedra Ancha|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1539|Urbano|04
+40280|Panteón|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1976|Urbano|04
+40280|Bermeja|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1975|Urbano|04
+40280|Barrio Constitución|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1173|Urbano|04
+40283|Barrio de los Tajos|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|4562|Urbano|04
+40289|Barrio San Miguel|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1978|Urbano|04
+40290|Pedro Martín|Barrio|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||02|055|1979|Urbano|04
+40293|Capilintla|Colonia|Taxco de Alarcón|Guerrero|Taxco de Alarcón|40201|12|40201||09|055|1114|Urbano|04
+40300|Huajojutla|Ranchería|Taxco de Alarcón|Guerrero||40201|12|40201||29|055|1980|Rural|
+40300|Landa|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1981|Rural|
+40301|Acamixtla|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1982|Rural|
+40301|Zacatecolotla|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1983|Rural|
+40302|San José El Potrero|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|1986|Rural|
+40302|Axixintla|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1984|Rural|
+40302|San Miguel Acuitlapan|Barrio|Taxco de Alarcón|Guerrero||40201|12|40201||02|055|1987|Urbano|
+40302|Casino de La Unión|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1985|Rural|
+40303|Texcaltitla|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|1990|Rural|
+40303|San Francisco Acuitlapan|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1988|Rural|
+40303|Teacalco|Ranchería|Taxco de Alarcón|Guerrero||40201|12|40201||29|055|1989|Rural|
+40305|El Cedrito|Colonia|Taxco de Alarcón|Guerrero||40201|12|40201||09|055|4242|Urbano|
+40305|El Crucero|Barrio|Taxco de Alarcón|Guerrero||40201|12|40201||02|055|4243|Urbano|
+40305|Tehuilotepec|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1991|Rural|
+40306|San Juan Naranjas|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1992|Rural|
+40307|Tenango del Paraíso|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|1993|Rural|
+40310|Huixtac|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|1995|Rural|
+40310|San Miguel Guerrero|Ranchería|Taxco de Alarcón|Guerrero||40001|12|40001||29|055|1996|Rural|
+40310|El Ojo de Agua|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|1994|Rural|
+40311|Temaxcalapa|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|1997|Rural|
+40312|Zapoapa|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|1998|Rural|
+40314|El Fraile|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2000|Rural|
+40314|Santa Rosa|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2002|Rural|
+40314|Dolores|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|1999|Rural|
+40314|Las Joyas del Progreso|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2001|Rural|
+40315|Paintla|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2005|Rural|
+40315|Atzala|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2003|Rural|
+40315|San Esteban|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2006|Rural|
+40315|Chichila|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2004|Rural|
+40316|San Felipe Chichila|Ranchería|Taxco de Alarcón|Guerrero||40201|12|40201||29|055|2008|Rural|
+40316|San Pedro Chichila|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2009|Rural|
+40316|Cacalotenango|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2007|Rural|
+40318|El Aguacate|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2010|Rural|
+40318|San Juan Tenería|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2011|Rural|
+40318|Santo Domingo|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2012|Rural|
+40319|Huitzotitla|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2013|Rural|
+40319|Los Membrillos|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2014|Rural|
+40319|San José del Monte|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2015|Rural|
+40320|San Lucas Tlamacazapa|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2017|Rural|
+40320|San Juan Tlamacazapa|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2016|Rural|
+40320|Santiago Tlamacazapa|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2018|Rural|
+40321|Tecalpulco|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2021|Rural|
+40321|Santiago Temixco|Pueblo|Taxco de Alarcón|Guerrero||40201|12|40201||28|055|2020|Rural|
+40322|Huahuaxtla|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2022|Rural|
+40322|Totoapa|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2025|Rural|
+40322|Icatepec|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2023|Rural|
+40322|San Juan Unión|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2024|Rural|
+40323|Taxco Viejo|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2026|Rural|
+40325|Tecuiciapa|Congregación|Taxco de Alarcón|Guerrero||40001|12|40001||11|055|2027|Rural|
+40325|Puente Campuzano|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2019|Rural|
+40326|Mexcaltepec|Pueblo|Taxco de Alarcón|Guerrero||40001|12|40001||28|055|2028|Rural|
+40327|Hueymatla|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2029|Rural|
+40329|Juliantla|Campamento|Taxco de Alarcón|Guerrero||40201|12|40201||04|055|2030|Rural|

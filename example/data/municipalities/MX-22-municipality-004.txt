@@ -1,0 +1,245 @@
+76500|Centro|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|0478|Urbano|
+76503|Los Llanitos|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1041|Urbano|
+76503|El Paraíso|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1042|Urbano|
+76504|Fuentes y Pueblo Nuevo|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1343|Urbano|
+76504|La Meseta|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1497|Urbano|
+76504|Las Fuentes|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1040|Urbano|
+76505|Magisterial|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|2191|Urbano|
+76505|San Gaspar|Fraccionamiento|Cadereyta de Montes|Querétaro||76511|22|76511||21|004|2431|Urbano|
+76505|El Refugio|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1038|Urbano|
+76505|San Diego|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1344|Urbano|
+76505|La Magdalena|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|0481|Urbano|
+76506|La Fuente|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1037|Urbano|
+76506|San Gaspar|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|0487|Urbano|
+76506|El Demiño|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1498|Urbano|
+76510|El Rincón|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0485|Rural|
+76510|Santo Domingo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2930|Rural|
+76510|Santa Bárbara|Poblado comunal|Cadereyta de Montes|Querétaro||76511|22|76511||27|004|0490|Rural|
+76510|Guadalupe|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2216|Rural|
+76510|Yonthé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2231|Rural|
+76510|La Mesa Providencia|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2873|Rural|
+76513|Villa Guerrero|Poblado comunal|Cadereyta de Montes|Querétaro||76511|22|76511||27|004|0491|Rural|
+76513|El Organal|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2969|Rural|
+76513|El Ranchito (Mintehé)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2970|Rural|
+76513|La Luz|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2985|Rural|
+76513|Llano Blanco|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|1496|Rural|
+76513|El Magueyal|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2987|Rural|
+76513|Mintehé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2939|Rural|
+76513|Los Maqueda|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2177|Rural|
+76513|El Ranchito|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2872|Rural|
+76513|Los Espinos|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2906|Rural|
+76514|Villa Nueva|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0495|Rural|
+76515|Boxasní|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0492|Rural|
+76515|Alto|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|3008|Rural|
+76515|CTM|Unidad habitacional|Cadereyta de Montes|Querétaro||76511|22|76511||31|004|2942|Rural|
+76515|Los Sánchez (La Concepción)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3005|Rural|
+76515|Puerto de la Concepción|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0494|Rural|
+76515|Los Silvestres (La Concepción)|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|3004|Rural|
+76516|Puerto del Chiquihuite|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|1499|Rural|
+76516|El Yaqui (Los Rojas)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2986|Rural|
+76516|Arroyo de Zituní|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|1500|Rural|
+76516|Las Fuentes (La Peña)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2960|Rural|
+76516|San Antonio|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2983|Rural|
+76516|Los Barrones (La Concepción)|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|3007|Rural|
+76516|Bordo de Santo Niño|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2965|Rural|
+76516|Los Vázquez|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|0482|Urbano|
+76516|Zituní|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0486|Rural|
+76516|Los Ríos|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2931|Rural|
+76516|Los MartÍnez|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2940|Rural|
+76516|Las Maravillas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2958|Rural|
+76517|La Puerta de San Pedro|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2957|Rural|
+76517|Las Cenizas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2984|Rural|
+76517|Llanitos de Santa Bárbara|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2874|Rural|
+76517|San Martín Florida|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0489|Rural|
+76517|El Sauz|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2897|Rural|
+76520|Higuerillas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0503|Rural|
+76520|Las Peñitas (El Cuervo)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2989|Rural|
+76523|Las Milpitas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2992|Rural|
+76523|El Agua Salada|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3010|Rural|
+76523|Adjuntas de Rancho Quemado|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3011|Rural|
+76523|La Pastilla|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2938|Rural|
+76523|Mesa del Castillo (La Fajilla)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2445|Rural|
+76523|Corral de Encino|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2981|Rural|
+76523|La Tinaja|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0505|Rural|
+76523|El Tepozán|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2926|Rural|
+76523|Quemado|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2933|Rural|
+76523|El Banco|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0504|Rural|
+76523|La Culata|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2325|Rural|
+76523|Tierra Colorada|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2444|Rural|
+76523|Tuna Manza|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2974|Rural|
+76525|El Carricillo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2908|Rural|
+76525|San Juan de la Rosa|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0488|Rural|
+76525|Atarjeas las Ánimas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2967|Rural|
+76525|Los Remedios|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2514|Rural|
+76525|La Rinconada|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2919|Rural|
+76525|La Estancia (El Establo)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2961|Rural|
+76525|Los Mateos|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2993|Rural|
+76526|Pueblo Nuevo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0483|Rural|
+76526|Vizarrón de Montes|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|0497|Rural|
+76526|Las Norias Derramadero|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2990|Rural|
+76526|Arcia|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2443|Rural|
+76526|La Florida|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0480|Rural|
+76526|La Loma (Corral Blanco)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2943|Rural|
+76526|Los González|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3006|Rural|
+76526|Jabalí|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0479|Rural|
+76526|Corral Blanco|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0484|Rural|
+76526|El Banco (Cara de Palo)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2916|Rural|
+76526|El Cercado (Palmarcito)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3020|Rural|
+76526|La Haciendita|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2448|Rural|
+76526|El Venado|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2446|Rural|
+76526|El Púlpito|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2935|Rural|
+76526|Las Ánimas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3009|Rural|
+76527|Puerto del Zenthé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2977|Rural|
+76527|Los Juárez|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0506|Rural|
+76527|La Adarga|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2895|Rural|
+76527|Las Viguitas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2922|Rural|
+76528|Loma de Guadalupe|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0507|Rural|
+76528|Mesa del Niño|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2447|Rural|
+76528|Agua Fría|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2890|Rural|
+76528|Curva de la Doctorcilla|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3016|Rural|
+76528|Sierra Alta (El Fiscal)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3018|Rural|
+76528|El Limón|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2892|Rural|
+76528|Puerto Verde|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2976|Rural|
+76528|Santa María de Gracia|Poblado comunal|Cadereyta de Montes|Querétaro||76511|22|76511||27|004|0508|Rural|
+76528|La Carbonera|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2885|Rural|
+76528|Puerto de la Ventana|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3015|Rural|
+76528|San José del Catiteo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2975|Rural|
+76528|El Poblano (El Pacífico)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2893|Rural|
+76528|De Canohitas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3017|Rural|
+76529|El Doctor|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0509|Rural|
+76529|Cruz de Encino|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2896|Rural|
+76529|El Suspiro|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2157|Rural|
+76529|Los Hernández|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2449|Rural|
+76529|El Sarro|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2928|Rural|
+76529|Cerro Blanco Sección Dos|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2964|Rural|
+76529|El Membrillo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0510|Rural|
+76529|La Venta|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2923|Rural|
+76529|La Lagunita|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2877|Rural|
+76529|El Socavón|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2927|Rural|
+76529|Apartaderito|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2888|Rural|
+76529|Cerro Blanco|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2894|Rural|
+76530|San Javier|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0512|Rural|
+76530|Los Amolitos|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2889|Rural|
+76530|Agua de Chivo (Los Luna)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2946|Rural|
+76534|Chavarrías|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0513|Rural|
+76534|El Huizache|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2905|Rural|
+76534|El Zothí (La Calera)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3014|Rural|
+76534|Tierras Coloradas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2441|Rural|
+76534|El Hortelano|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2878|Rural|
+76534|Los Arteaga|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2887|Rural|
+76534|El Torno|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2951|Rural|
+76534|Puerto el Atajo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2956|Rural|
+76534|Maconí|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|0511|Rural|
+76534|El Espolón (La Cabeza del Viborón)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2980|Rural|
+76534|La Luz (Carrizalito)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2876|Rural|
+76534|El Divino Pastor|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2880|Rural|
+76534|Banthí|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2913|Rural|
+76534|Rancho Viejo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2932|Rural|
+76534|Las Joyas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2945|Rural|
+76534|Puerto Torres|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3013|Rural|
+76534|Guadalupe|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3021|Rural|
+76534|Cerro Colorado|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2883|Rural|
+76534|La Honda (San Nicolás)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2921|Rural|
+76534|La Esperanza|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0496|Rural|
+76534|La Mesa|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3022|Rural|
+76534|La Laja|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0525|Rural|
+76534|Altamira|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2505|Rural|
+76534|La Calera (Los Guerreros)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2891|Rural|
+76534|La Blanca|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2915|Rural|
+76534|El Pinalito|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2918|Rural|
+76534|Los Piñones|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2937|Rural|
+76534|Pie del Cerro|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2959|Rural|
+76535|Ocotitlán|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0501|Rural|
+76535|Casas Viejas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3001|Rural|
+76535|El Aguacate|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0514|Rural|
+76535|El Devisadero|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2515|Rural|
+76535|El Naranjo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2901|Rural|
+76535|Escalerillas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2998|Rural|
+76535|Camarones|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0502|Rural|
+76535|Loma Ancha (La Maroma)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2978|Rural|
+76535|Loma Larga (La Maroma)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2994|Rural|
+76535|Puerto de la Luz|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0498|Rural|
+76535|Las Joyas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2917|Rural|
+76535|Loma de San Pedro|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2941|Rural|
+76535|Vega de Ramírez|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2914|Rural|
+76536|El Soyatal|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0516|Rural|
+76536|Sombrerete|Poblado comunal|Cadereyta de Montes|Querétaro||76511|22|76511||27|004|0515|Rural|
+76536|Puerto de Charco Frío|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0518|Rural|
+76536|Las Aguas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2904|Rural|
+76536|De Guadalupe (Charco Frío)|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|2886|Rural|
+76536|De Santiago (Charco Frío)|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|2882|Rural|
+76536|Mesa de San Ramón|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2948|Rural|
+76537|Carricillo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2884|Rural|
+76537|Santa Inés|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3023|Rural|
+76537|Los Barrones|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3003|Rural|
+76537|Santa Mónica|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2947|Rural|
+76537|Nuevo Rancho Sombrerete (La Garita)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2997|Rural|
+76537|Nuevo Sombrerete|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2934|Rural|
+76537|Puerto del Salitre|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0517|Rural|
+76537|Los Tepetates|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2952|Rural|
+76537|Nuevo Sombrerete (Las Carreras)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3002|Rural|
+76538|Los Martínez|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|2190|Rural|
+76538|La Mora|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2513|Rural|
+76538|Las Huertas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2955|Rural|
+76538|El Chinillal|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2962|Rural|
+76538|La Veracruz|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0519|Rural|
+76538|Los Lirios|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2512|Rural|
+76538|El Timbre|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2924|Rural|
+76538|Pie de la Loma|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2988|Rural|
+76538|Misión de Maconí|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2991|Rural|
+76538|Santo Tomás|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2929|Rural|
+76538|La Sábila (El Durazno)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2954|Rural|
+76539|San José Tepozán|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2248|Rural|
+76539|San Juan de Enramadas|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2879|Rural|
+76539|Adjuntitas Dos|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2900|Rural|
+76539|Cerro Boludo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0528|Rural|
+76539|Rancho Nuevo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0520|Rural|
+76539|Adjuntitas Uno|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2968|Rural|
+76539|La Mojonera|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2920|Rural|
+76540|De las Cruces|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|2869|Urbano|
+76540|El Palmar (Santa María del Palmar)|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|0521|Urbano|
+76540|De los Sánchez|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|2870|Urbano|
+76540|Los Martínez|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|2871|Urbano|
+76543|San Rafael Dethiga|Barrio|Cadereyta de Montes|Querétaro||76511|22|76511||02|004|0524|Rural|
+76543|Boyé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0523|Rural|
+76544|Barranca del Sordo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2899|Rural|
+76544|San Antonio de la Cañada|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|1167|Rural|
+76544|Valle el Solís|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2953|Rural|
+76544|Cerro Prieto|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0522|Rural|
+76544|El Ranchito|Poblado comunal|Cadereyta de Montes|Querétaro||76511|22|76511||27|004|2201|Rural|
+76544|Las Cruces (Familia Cruz Martínez)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2949|Rural|
+76544|Los Badillo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2966|Rural|
+76544|La Presa Vieja|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2944|Rural|
+76545|Las Cuevas|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|2999|Rural|
+76545|Vista Hermosa|Colonia|Cadereyta de Montes|Querétaro||76511|22|76511||09|004|2192|Rural|
+76545|El Chivo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3000|Rural|
+76545|Bella Vista del Río|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|0527|Rural|
+76545|El Yeso|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2982|Rural|
+76546|El Plan|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2902|Rural|
+76546|Maquiladora Zimapán|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|2972|Rural|
+76546|El Arbolito|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|2898|Rural|
+76546|La Lajita|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|2996|Rural|
+76546|Mesa de León|Pueblo|Cadereyta de Montes|Querétaro||76511|22|76511||28|004|1301|Rural|
+76547|La Loma Bonita|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2995|Rural|
+76547|Xodhé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2911|Rural|
+76547|La Hacienda (El Organal)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2979|Rural|
+76547|La Presa (La Nueva Presita)|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3024|Rural|
+76547|Taxhidó|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2909|Rural|
+76547|Tzibantzá|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2910|Rural|
+76547|La Mina|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2971|Rural|
+76547|Cerrito Colorado|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2973|Rural|
+76547|Xidhí|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3012|Rural|
+76547|Tziquia|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0530|Rural|
+76547|El Charco|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2907|Rural|
+76547|El Terrero|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2925|Rural|
+76548|Boyecito|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2912|Rural|
+76548|Yexthó|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2950|Rural|
+76548|Portezuelo|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0532|Rural|
+76548|Los Llanitos de Pathé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2875|Rural|
+76548|El Chilar|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2881|Rural|
+76548|La Puerta|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2936|Rural|
+76548|Domuhí|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|3019|Rural|
+76548|Pathé|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|0531|Rural|
+76548|Río Grande|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2903|Rural|
+76548|El Charcón|Ranchería|Cadereyta de Montes|Querétaro||76511|22|76511||29|004|2963|Rural|
+76548|La Nopalera|Poblado comunal|Cadereyta de Montes|Querétaro||76511|22|76511||27|004|2217|Rural|

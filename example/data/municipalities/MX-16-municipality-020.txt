@@ -1,0 +1,30 @@
+58840|El Calvario|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6400|Urbano|27
+58840|Leandro Valle|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6406|Urbano|27
+58840|Cuitzeo del Porvenir|Villa|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||32|020|0811|Urbano|27
+58840|La Concepción|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6404|Urbano|27
+58840|Los Granados|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6407|Urbano|27
+58840|El Embarcadero|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6401|Urbano|27
+58840|Genovebo Figueroa|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6402|Urbano|27
+58840|Luis Donaldo Colosio|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6408|Urbano|27
+58840|De Los Cerritos|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6399|Urbano|27
+58840|La Cantera|Colonia|Cuitzeo|Michoacán de Ocampo|Cuitzeo del Porvenir|58841|16|58841||09|020|6403|Urbano|27
+58842|La Noria|Colonia|Cuitzeo|Michoacán de Ocampo||58841|16|58841||09|020|6405|Urbano|
+58842|San Agustín del Pulque|Pueblo|Cuitzeo|Michoacán de Ocampo||58841|16|58841||28|020|0814|Urbano|
+58843|San Juan Benito Juárez (San Juan Tararameo)|Pueblo|Cuitzeo|Michoacán de Ocampo||58841|16|58841||28|020|0815|Rural|
+58843|La Palma|Poblado comunal|Cuitzeo|Michoacán de Ocampo||58841|16|58841||27|020|6413|Rural|
+58845|Mariano Escobedo|Villa|Cuitzeo|Michoacán de Ocampo||58841|16|58841||32|020|0813|Urbano|
+58846|San Jacinto (La Loma)|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|6414|Rural|
+58846|El Cerrito|Rancho|Cuitzeo|Michoacán de Ocampo||58841|16|58841||48|020|0001|Rural|
+58850|Jeruco|Pueblo|Cuitzeo|Michoacán de Ocampo||58841|16|58841||28|020|0817|Rural|
+58850|Guanguillo (Ejido Cuitzeo)|Rancho|Cuitzeo|Michoacán de Ocampo||58841|16|58841||48|020|0002|Rural|
+58850|Doctor Miguel Silva (San Guillermo)|Pueblo|Cuitzeo|Michoacán de Ocampo||58841|16|58841||28|020|0818|Rural|
+58853|Chupícuaro|Colonia|Cuitzeo|Michoacán de Ocampo||58841|16|58841||09|020|0812|Rural|
+58853|Epifanio C. Pérez (San Miguel)|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|6412|Rural|
+58853|Callejón de la Higuera (La Casa Blanca)|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|6409|Rural|
+58854|Cuaracurio|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|0810|Rural|
+58854|Colonia Chupícuaro|Poblado comunal|Cuitzeo|Michoacán de Ocampo||58841|16|58841||27|020|6410|Rural|
+58855|Puerta del Salto (La Puerta)|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|0821|Rural|
+58855|Cuamio|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|0819|Rural|
+58855|La Cinta|Pueblo|Cuitzeo|Michoacán de Ocampo||58841|16|58841||28|020|0820|Rural|
+58855|Colonia de Rancho Seco (El Cerrito)|Colonia|Cuitzeo|Michoacán de Ocampo||58841|16|58841||09|020|6411|Rural|
+58855|Rancho Seco|Ranchería|Cuitzeo|Michoacán de Ocampo||58841|16|58841||29|020|0822|Rural|

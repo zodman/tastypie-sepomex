@@ -1,0 +1,418 @@
+37700|San Miguel de Allende Centro|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1911|Urbano|02
+37710|Guadalupe|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1913|Urbano|02
+37712|Insurgentes|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1914|Urbano|02
+37713|Lomas de San José|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5051|Urbano|02
+37713|Miguel Hidalgo|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1916|Urbano|02
+37713|Lomas de San Miguel|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5046|Urbano|02
+37715|Aurora|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1917|Urbano|02
+37716|Allende Infonavit|Unidad habitacional|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||31|003|1918|Urbano|02
+37717|San Ricardo|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5045|Urbano|02
+37717|Mexiquito|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1919|Urbano|02
+37717|Villa Antigua|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5044|Urbano|02
+37717|Manjares de Mexiquito|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5037|Urbano|02
+37717|Guadalupe Mexiquito|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5053|Urbano|02
+37718|Desarrollo Las Ventanas|Club de golf|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||39|003|5052|Urbano|02
+37720|Balcones|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1920|Urbano|02
+37720|Rinconada de Los Balcones|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5027|Urbano|02
+37720|La Colina|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5028|Urbano|02
+37720|Pajaros de Cante|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5030|Urbano|02
+37725|Los Garambullos|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5033|Urbano|02
+37725|El Obraje|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1921|Urbano|02
+37727|Nuevo San Miguel|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5034|Urbano|02
+37727|Montes de Loreto|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5035|Urbano|02
+37727|Santa Cecilia|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5036|Urbano|02
+37727|San Luis Rey|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1922|Urbano|02
+37728|Francisco Villa|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1923|Urbano|02
+37728|La Lomita|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|3462|Urbano|02
+37729|Azteca|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1924|Urbano|02
+37730|Barrio San Juan de Dios|Barrio|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||02|003|7426|Urbano|02
+37730|San Rafael Insurgentes|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1925|Urbano|02
+37732|El Oasis|Residencial|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||30|003|7428|Urbano|02
+37732|Independencia|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1927|Urbano|02
+37733|San Felipe Neri|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1928|Urbano|02
+37733|Potreritos de San José|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5017|Urbano|02
+37734|Villa Carmelitas|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5016|Urbano|02
+37734|Las Fuentes|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5015|Urbano|02
+37734|Santa Julia|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1929|Urbano|02
+37735|Bellavista|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1930|Urbano|02
+37736|Lindavista|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|3676|Urbano|02
+37736|Héroes|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5018|Urbano|02
+37736|Olimpo|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1931|Urbano|02
+37736|Progreso|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5007|Urbano|02
+37737|Providencia|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1932|Urbano|02
+37738|San Martín|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5014|Urbano|02
+37738|Ejido de Tirado|Ejido|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||15|003|7427|Urbano|02
+37738|Santa Cruz de La Paz|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5050|Urbano|02
+37738|Las Alamedas|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5049|Urbano|02
+37738|Luis Donaldo Colosio|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5013|Urbano|02
+37738|Los Alambres|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5047|Urbano|02
+37738|Adolfo López Mateos|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5048|Urbano|02
+37740|Arcos de San Miguel|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1933|Urbano|02
+37740|Barrio El Tecolote|Barrio|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||02|003|7425|Urbano|02
+37745|Insurgentes|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|1934|Urbano|02
+37745|Jardines|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|3460|Urbano|02
+37745|Los Santos|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|4681|Urbano|02
+37745|Jardines II|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5038|Urbano|02
+37745|San Virgilio|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5041|Urbano|02
+37745|Jardines del Bosque|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5039|Urbano|02
+37745|Los Adobes|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5043|Urbano|02
+37745|La Luciérnaga|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5040|Urbano|02
+37746|Izcuinapan|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|3464|Urbano|02
+37746|Arboledas|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|3463|Urbano|02
+37746|La Luz Infonavit|Unidad habitacional|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||31|003|1935|Urbano|02
+37747|La Luz|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1936|Urbano|02
+37748|Las Capillas 1ra. Sección|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5055|Urbano|02
+37748|Palmita de Landeta|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|3465|Urbano|02
+37748|Pegaso|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5029|Urbano|02
+37748|Ignacio Ramirez|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1937|Urbano|02
+37748|Las Capillas 2a. Sección|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|7431|Urbano|02
+37748|El Deportivo|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5031|Urbano|02
+37749|Oficinas Gubernamentales|Equipamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||17|003|5147|Urbano|02
+37749|Zirándaro|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|0006|Urbano|02
+37750|La Aldea|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|3461|Urbano|02
+37750|San Antonio|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1938|Urbano|02
+37753|Los Mezquites|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5019|Urbano|02
+37753|Las Cuevitas|Barrio|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||02|003|5020|Urbano|02
+37754|Real de La Huerta|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5054|Urbano|02
+37754|Villas de San Miguel|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|7435|Urbano|02
+37754|Villas de Allende|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5011|Urbano|02
+37755|INFONAVIT Malanquin|Unidad habitacional|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||31|003|1939|Urbano|02
+37755|Peña de la Cruz (Ejido San Miguel Viejo)|Ranchería|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||29|003|2132|Urbano|02
+37755|Bellavista|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5012|Urbano|02
+37755|Misión de La Estación|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5008|Urbano|02
+37755|Las Brisas|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5009|Urbano|02
+37756|Colinas de San Miguel|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5010|Urbano|02
+37759|Estación del Ferrocarril|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1940|Urbano|02
+37759|San Javier|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|7433|Urbano|02
+37760|Allende|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1941|Urbano|02
+37765|La Lejona|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1942|Urbano|02
+37765|Nuevo Pantoja [Zona Ecológica]|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|7432|Urbano|02
+37766|Paseo Real|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|0002|Urbano|02
+37766|El Secreto|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|0003|Urbano|02
+37766|Rincón del Cielo|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5026|Urbano|02
+37766|El Encanto|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5025|Urbano|02
+37769|Caracol|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1944|Urbano|02
+37770|Guadiana|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1945|Urbano|02
+37773|Villas del Parque|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|5021|Urbano|02
+37774|La Palmita|Barrio|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||02|003|5024|Urbano|02
+37774|El Paraiso|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|7429|Urbano|02
+37775|Valle del Maíz|Barrio|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||02|003|5023|Urbano|02
+37776|San Miguel (Club Colonial)|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|7434|Urbano|02
+37776|San Miguel Tres Cruces|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5032|Urbano|02
+37777|Ojo de Agua|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|5022|Urbano|02
+37790|Villa de los Frailes|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1946|Urbano|02
+37793|La Parroquía|Fraccionamiento|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||21|003|7430|Urbano|02
+37795|El Mirador|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1947|Urbano|02
+37796|La Cañadita|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1948|Urbano|02
+37797|Malaquin La Mesa|Colonia|San Miguel de Allende|Guanajuato|San miguel de Allende|37701|11|37701||09|003|1949|Urbano|02
+37880|Los Rodriguez|Congregación|San Miguel de Allende|Guanajuato||37701|11|37701||11|003|2074|Rural|
+37883|El Girasol|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7247|Rural|
+37883|Montecillo de Guzmán|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7339|Rural|
+37883|Ojo de Agua|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7345|Rural|
+37883|Los Órganos|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2091|Rural|
+37883|La Providencia|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2142|Rural|
+37883|Biznaga de Cerro Grande|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7203|Rural|
+37883|El Toreador|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7267|Rural|
+37883|San Francisco del Fraile|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7378|Rural|
+37883|Don Raúl (Rancho Cardenal)|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7234|Rural|
+37883|La Mesita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7301|Rural|
+37883|Presa de Manantiales|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7357|Rural|
+37883|La Candelaria|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7287|Rural|
+37883|Oreadero|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7346|Rural|
+37883|San José de Allende|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7385|Rural|
+37883|La Talega|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2084|Rural|
+37883|Palo Blanco|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2112|Rural|
+37883|La Loma|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7296|Rural|
+37883|Ninguno [Jardín Botánico]|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7342|Rural|
+37883|Cañada de las Flores|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7209|Rural|
+37883|Ex-Hacienda Marroquín de Arriba|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2086|Rural|
+37883|Los Galvanes|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2114|Rural|
+37883|La Cantera|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7288|Rural|
+37883|San José de la Amistad|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7388|Rural|
+37883|San José de la Cruz|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7389|Rural|
+37884|Don Chepe|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7231|Rural|
+37884|El Huizachal|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7248|Rural|
+37884|La Aurora|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7284|Rural|
+37884|La Esquina|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7290|Rural|
+37884|Loma de la Purísima|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7322|Rural|
+37884|Los Guerrero|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7329|Rural|
+37884|Santa Teresita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7409|Rural|
+37884|Manantiales|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7337|Rural|
+37884|Tres Palmas|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7418|Rural|
+37884|San Antonio del Plan|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2077|Rural|
+37884|El Cerrito de los Chávez|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|4817|Rural|
+37884|Cobra|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7223|Rural|
+37884|Corralejo de Abajo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7226|Rural|
+37884|Feliz|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7275|Rural|
+37884|San José de Gracia (Palo Dulce)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7387|Rural|
+37884|San Lucas|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7397|Rural|
+37884|Corralejo de Arriba|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2089|Rural|
+37884|La Ponderosa|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7308|Rural|
+37884|Pinalillo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7352|Rural|
+37884|San Joaquín|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7384|Rural|
+37884|La Venturina|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7315|Rural|
+37884|Cabrera|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7207|Rural|
+37884|El Mezquite|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7254|Rural|
+37884|San José del Llano|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7391|Rural|
+37885|Cruz del Mezquital (Santa Elena de la Cruz)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7227|Rural|
+37885|Cuatro Esquinas|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7228|Rural|
+37885|San Juan Juvenal|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7395|Rural|
+37885|San Rafael Chico|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7406|Rural|
+37885|San Antonio del Varal|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2093|Rural|
+37885|Castaño de Arriba|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7215|Rural|
+37885|El Carmen|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7239|Rural|
+37885|Palmita de Landeta|Colonia|San Miguel de Allende|Guanajuato||37701|11|37701||09|003|7348|Rural|
+37885|San Damián|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2129|Rural|
+37885|Montecillo de la Milpa|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2131|Rural|
+37885|Las Cruces|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7317|Rural|
+37885|Presa Allende|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7355|Rural|
+37885|La Minita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7303|Rural|
+37885|La Luz de San Miguelito (Los Urbina)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7299|Rural|
+37885|Peña Blanca|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7350|Rural|
+37885|San José de la Palma|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7390|Rural|
+37885|El Fraile|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2072|Rural|
+37885|Don Bosco|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7230|Rural|
+37885|Guadalupe (Guadalupe Bárcenas)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7279|Rural|
+37885|La Puerta|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7310|Rural|
+37885|Estancia de San Antonio|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2073|Rural|
+37885|Bonito|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7205|Rural|
+37885|Castaño de Abajo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7214|Rural|
+37885|Rancho los Labradores|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7362|Rural|
+37885|San Antonio (Adolfo Guillén)|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7373|Rural|
+37885|El Carmen|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2071|Rural|
+37885|Providencia de Sosnabar (El Bandolón)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7360|Rural|
+37885|San Antonio de Cruces|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7374|Rural|
+37885|San Francisco Javier de los Tovares|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7379|Rural|
+37885|San Juan del Carmen (La Mojonera)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7394|Rural|
+37886|Don Juan Xido de Abajo (Cabras de Begoña)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7233|Rural|
+37886|Lagunilla|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2110|Rural|
+37886|Cerro Grande|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7219|Rural|
+37886|Salitrillo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7369|Rural|
+37886|Tanque Blanco|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7413|Rural|
+37886|Alcocer|Exhacienda|San Miguel de Allende|Guanajuato||37701|11|37701||18|003|2100|Rural|
+37886|Puente del Carmen|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2106|Rural|
+37886|Calderón|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2141|Rural|
+37886|Providencia de los Urbina|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7359|Rural|
+37886|Pozo de Balderas|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2083|Rural|
+37886|La Campana|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2105|Rural|
+37886|Cerrito de la Luz|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7216|Rural|
+37886|San José del Membrillo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7392|Rural|
+37886|El Saltito|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7259|Rural|
+37886|Providencia de Alcocer (La Mal Contenta)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|5042|Urbano|
+37886|Cerro de las Tres Cruces|Colonia|San Miguel de Allende|Guanajuato||37701|11|37701||09|003|7217|Rural|
+37886|La Purísima|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7311|Rural|
+37886|Estancia de Canal|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7272|Rural|
+37886|Guadalupe de Canal|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7280|Rural|
+37886|Cañajo|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2102|Rural|
+37886|Doña Juana|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2103|Rural|
+37886|Elvira|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7270|Rural|
+37887|Palo Colorado|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2087|Rural|
+37887|Fajardo de Bocas|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2104|Rural|
+37887|El Capulín|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7238|Rural|
+37887|El Centenario|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7240|Rural|
+37887|Guadalupe de Támbula|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2096|Rural|
+37887|Puerto de Nieto|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|2075|Rural|
+37887|La Palmita|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2109|Rural|
+37887|El Gavilán|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7246|Rural|
+37887|El Tejón (Soledad Puente del Carmen)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7264|Rural|
+37887|Poblado de Don Diego|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7353|Rural|
+37887|Puerta del Aire|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7361|Rural|
+37887|Bocas|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|2101|Rural|
+37887|El Membrillo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7253|Rural|
+37887|Fajardo de Támbula|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7274|Rural|
+37887|Tetillas|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|0004|Rural|
+37887|Charco de Sierra|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2107|Rural|
+37887|Lira de Bocas|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2111|Rural|
+37887|El Pedregudo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7256|Rural|
+37887|El Tigre|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7266|Rural|
+37887|La Esquina|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7289|Rural|
+37887|San Martín de la Petaca|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7400|Rural|
+37887|Arquitos|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7199|Rural|
+37887|Cerro del Agua|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7218|Rural|
+37887|La Joyita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7294|Rural|
+37887|La Loma|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7295|Rural|
+37887|Jalpa|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|2108|Rural|
+37887|Cuatro Hermanos|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7229|Rural|
+37887|La Noria|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7304|Rural|
+37887|La Tinaja de los Rodríguez|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7314|Rural|
+37887|San Juan|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7393|Rural|
+37887|Biznaga de Jaral|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7204|Rural|
+37887|El Kiwi|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7250|Rural|
+37888|Corral de Piedras de Arriba|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2070|Rural|
+37888|San Cristóbal|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2078|Rural|
+37888|El Águila|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7235|Rural|
+37888|El Huizachal|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7249|Rural|
+37888|San Francisco|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7377|Rural|
+37888|La Calera|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7285|Rural|
+37888|Moral de Puerto de Nieto|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7341|Rural|
+37888|San José de Viborillas|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2094|Rural|
+37888|Moral de Puerto de Sosa|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2095|Rural|
+37888|Guanajuatito|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2097|Rural|
+37888|Clavellinas (Clavellinas Coyotes)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7222|Rural|
+37888|Marroquín de Abajo|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2085|Rural|
+37888|San Antonio de la Joya|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2128|Rural|
+37888|Loma de Cabras|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|4814|Rural|
+37888|El Puertecito|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7257|Rural|
+37888|Granja Cerritos|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7278|Rural|
+37888|Cerritos|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2069|Rural|
+37888|Puerto de Sosa|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|2088|Rural|
+37888|Cañada de Santas Marías|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7210|Rural|
+37888|El Tepehuaje|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7265|Rural|
+37888|Palma Gorda|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7347|Rural|
+37888|San Antonio de las Cuevitas|Colonia|San Miguel de Allende|Guanajuato||37701|11|37701||09|003|7376|Rural|
+37888|Laguna Escondida|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2090|Rural|
+37888|La Providencia|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7309|Rural|
+37888|El Colorado|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7241|Rural|
+37888|El Salto|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7260|Rural|
+37890|El Salto|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7261|Rural|
+37890|Rancho Nuevo de Galvanes|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7364|Rural|
+37890|La Medina|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7300|Rural|
+37890|La Palma|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7305|Rural|
+37890|Los Guías|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7330|Rural|
+37890|Pozos de Liceas|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7354|Rural|
+37890|La Cuadrilla|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2113|Rural|
+37890|La Luz|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7298|Rural|
+37890|Loma de Cocinas (San Andrés)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7321|Rural|
+37890|El Coyote|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7243|Rural|
+37890|El Lindero|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7252|Rural|
+37890|Las Trojes de Belén|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7318|Rural|
+37890|Los Charcos|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7327|Rural|
+37890|El Ocote|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7255|Rural|
+37890|Los González|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7328|Rural|
+37890|Rancho Viejo|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|2076|Rural|
+37890|Jesús María la Petaca|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2079|Rural|
+37890|La Palmilla|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2080|Rural|
+37890|Los Juárez|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2082|Rural|
+37890|Tierra Blanca de Arriba|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2115|Rural|
+37890|Capilla Blanca|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7212|Rural|
+37890|Los Barrones|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7326|Rural|
+37890|Rincón de Canal|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7368|Rural|
+37890|San Martín del Paredón|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7401|Rural|
+37890|Bordo Colorado|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7206|Rural|
+37890|Las Cañas|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2081|Rural|
+37890|La Perla de Chipilo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7307|Rural|
+37893|Ampliación Cieneguita|Ampliación|San Miguel de Allende|Guanajuato||37701|11|37701||38|003|7198|Rural|
+37893|Nombre de Dios|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2121|Rural|
+37893|La Cieneguita|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2130|Rural|
+37893|Bandita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7201|Rural|
+37893|La Vivienda de Arriba|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7316|Rural|
+37893|Los Ricos de Abajo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7334|Rural|
+37893|Los Torres|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7336|Rural|
+37893|Rancho Nuevo Villa de Guadalupe|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7367|Rural|
+37893|Temaxcalli|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7414|Rural|
+37893|Juan González|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2118|Rural|
+37893|La Cruz del Palmar|Pueblo|San Miguel de Allende|Guanajuato||37701|11|37701||28|003|2119|Rural|
+37893|Escondido (Codornices)|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7271|Rural|
+37893|Ex-Hacienda la Cieneguita|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|7273|Rural|
+37893|Oaxaca|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7343|Rural|
+37893|Ojo de Agua|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7344|Rural|
+37893|San Isidro de Bandita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7380|Rural|
+37893|Polo Habitacional La Esmeralda|Fraccionamiento|San Miguel de Allende|Guanajuato||37701|11|37701||21|003|0001|Rural|
+37893|Nigromante|Fraccionamiento|San Miguel de Allende|Guanajuato||37701|11|37701||21|003|1926|Urbano|
+37893|Corralejo de Abajo|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2117|Rural|
+37893|San Miguelito Dos|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2122|Rural|
+37893|Venancio Espinoza (El Cortijo)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7419|Rural|
+37893|Santuario de Atotonilco|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2124|Rural|
+37893|El Espejo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7245|Rural|
+37893|Lindero Taboada|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7319|Rural|
+37893|Rancho Nuevo (Rancho Nuevo de Banda)|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7363|Rural|
+37893|Residencial La Vista|Fraccionamiento|San Miguel de Allende|Guanajuato||37701|11|37701||21|003|0005|Rural|
+37893|Capadero (San Isidro Capadero)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7211|Rural|
+37893|Cinco Señores|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7221|Rural|
+37893|El Cortijo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7242|Rural|
+37893|Banda|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2116|Rural|
+37893|Tierra Blanca de Abajo|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2123|Rural|
+37893|Hacienda Taboada [Hotel]|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7282|Rural|
+37893|Presita de Santa Rosa|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7358|Rural|
+37893|Artesano (La Luz)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7200|Rural|
+37893|La Calera|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7286|Rural|
+37893|La Minita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7302|Rural|
+37893|Montecillo de Nieto|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7340|Rural|
+37893|Xote|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7424|Rural|
+37894|Ciénega de Juan Ruiz|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2126|Rural|
+37894|Tenampa (Guadianilla)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7415|Rural|
+37894|San Antonio de las Cruces (La Troja)|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7375|Rural|
+37895|San Francisco|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|4815|Rural|
+37895|La Palmita Dos|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7306|Rural|
+37895|Pedregal de Jericó|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2092|Rural|
+37895|Don Francisco|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|2127|Rural|
+37895|Los Toriles|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7335|Rural|
+37895|Cañada de García|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2125|Rural|
+37895|El Cañón|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7237|Rural|
+37895|La Luz|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7297|Rural|
+37895|La Tinaja|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7313|Rural|
+37895|El Saucillo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7262|Rural|
+37895|San Marcos de Begoña|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2143|Rural|
+37896|San Isidro de la Cañada de la Virgen|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7382|Rural|
+37896|El Embargo (El Nuevo Cimatario)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7244|Rural|
+37896|San Isidro de Ensaye (La Cuevita)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7381|Rural|
+37896|Agua Salada|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7197|Rural|
+37896|Viejo Cimatario|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7420|Rural|
+37896|El Venadero|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7268|Rural|
+37896|Charco Azul|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7220|Rural|
+37896|Maravillas|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7338|Rural|
+37896|San José de Corralejo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7386|Rural|
+37897|El Salitre|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2135|Rural|
+37897|Los Martínez|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7332|Rural|
+37897|Santas Marías|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2099|Rural|
+37897|Guerrero|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2133|Rural|
+37897|Lomas de Xido|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7325|Rural|
+37897|Los López|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7331|Rural|
+37897|Peñón de los Baños|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7351|Rural|
+37897|San Martín|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7399|Rural|
+37897|Vivienda de Abajo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7421|Rural|
+37897|La Esquina|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7291|Rural|
+37897|Lomas de San José|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7324|Rural|
+37897|San Miguel Viejo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7402|Rural|
+37897|San Rafael|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7405|Rural|
+37897|Santa Teresita de Don Diego|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7410|Rural|
+37897|Tlaxcalilla|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7416|Rural|
+37897|Xido|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7423|Rural|
+37897|La Vivienda de Tierra Blanca|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2120|Rural|
+37897|Fraccionamiento Otomíes|Fraccionamiento|San Miguel de Allende|Guanajuato||37701|11|37701||21|003|7277|Rural|
+37897|Loma Blanca de Tirado|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7320|Rural|
+37897|Loma de Tirado|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7323|Rural|
+37897|San Antonio|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7372|Rural|
+37897|San Miguelito|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7403|Rural|
+37897|Pantoja|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7349|Rural|
+37897|San Antonio|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7371|Rural|
+37897|San Rafael|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7404|Rural|
+37897|Santa Elena de la Cruz (San José de Laguna)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7408|Rural|
+37897|Flores de Begoña|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7276|Rural|
+37897|Guadianilla|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7281|Rural|
+37897|La Huertita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7293|Rural|
+37897|Vivienda de Abajo Urbana|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7422|Rural|
+37897|El Capaderillo|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|4816|Rural|
+37897|Colonia Esperanza|Colonia|San Miguel de Allende|Guanajuato||37701|11|37701||09|003|7224|Rural|
+37897|Don Juan|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7232|Rural|
+37897|El Vergel de los Laureles|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7269|Rural|
+37897|La Aurora|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7283|Rural|
+37897|La Romita|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7312|Rural|
+37897|Rancho Nuevo de Guerrero|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7365|Rural|
+37897|Tres Marías|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7417|Rural|
+37897|Rancho Nuevo Tlascalilla|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2134|Rural|
+37897|Casa de San Miguel|Hacienda|San Miguel de Allende|Guanajuato||37701|11|37701||24|003|7213|Rural|
+37897|Rancho Nuevo de la Rosa|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7366|Rural|
+37897|San Marquitos|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7398|Rural|
+37897|San Ramón [Balneario]|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|7407|Rural|
+37898|El Puerto de Calderón|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7258|Rural|
+37898|San Agustín del Bordito|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7370|Rural|
+37898|San Jerónimo de la Playa|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7383|Rural|
+37898|La Angostura|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2139|Rural|
+37898|Luz de Jacales (Guadalupe de la Luz)|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|4813|Rural|
+37898|Agustín González|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2136|Rural|
+37898|Corral de Piedras de Abajo|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7225|Rural|
+37898|El Batán|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7236|Rural|
+37898|Presa de la Estancia|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7356|Rural|
+37898|San Julián de Landeta|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7396|Rural|
+37898|Los Tovares|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2140|Rural|
+37898|Begoña de Progreso|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7202|Rural|
+37898|Cañada de la Virgen|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7208|Rural|
+37898|El Lindero|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7251|Rural|
+37898|Soria|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7411|Rural|
+37898|Sosnabar|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7412|Rural|
+37898|Alonso Yánez|Ranchería|San Miguel de Allende|Guanajuato||37701|11|37701||29|003|2137|Rural|
+37898|Boca de la Cañada|Ejido|San Miguel de Allende|Guanajuato||37701|11|37701||15|003|2138|Rural|
+37898|El Shotolar|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7263|Rural|
+37898|La Huerta|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7292|Rural|
+37898|Los Reyes (La Vivienda)|Poblado comunal|San Miguel de Allende|Guanajuato||37701|11|37701||27|003|7333|Rural|

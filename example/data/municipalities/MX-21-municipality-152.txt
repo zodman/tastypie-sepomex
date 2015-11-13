@@ -1,0 +1,17 @@
+75140|Cruz Verde|Colonia|Soltepec|Puebla||75161|21|75161||09|152|7045|Rural|
+75140|San Antonio Xicotenco|Pueblo|Soltepec|Puebla||75161|21|75161||28|152|2126|Rural|
+75140|Cuauhtémoc|Pueblo|Soltepec|Puebla||75161|21|75161||28|152|2124|Rural|
+75140|San Lorenzo Zacatuitla|Pueblo|Soltepec|Puebla||75161|21|75161||28|152|2128|Rural|
+75140|Linda Vista|Colonia|Soltepec|Puebla||75161|21|75161||09|152|2130|Rural|
+75140|San Hipólito Soltepec|Pueblo|Soltepec|Puebla||75161|21|75161||28|152|2127|Rural|
+75140|Progreso|Colonia|Soltepec|Puebla||75161|21|75161||09|152|7046|Rural|
+75142|Ex-Hacienda San Cristóbal la Trampa|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|7049|Rural|
+75142|Dr. Serrano|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|2132|Rural|
+75143|Lucía|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|7051|Rural|
+75144|Lázaro Cárdenas|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|7050|Rural|
+75145|La Ermita|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|2133|Rural|
+75145|Libertad Álvaro Obregón|Pueblo|Soltepec|Puebla||75161|21|75161||28|152|2125|Rural|
+75147|Alta Luz|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|7047|Rural|
+75147|Vista Hermosa|Pueblo|Soltepec|Puebla||75161|21|75161||28|152|2131|Rural|
+75147|San Mateo Soltepec|Ranchería|Soltepec|Puebla||75161|21|75161||29|152|2129|Rural|
+75148|Benito Juárez|Colonia|Soltepec|Puebla||75161|21|75161||09|152|7048|Rural|

@@ -1,0 +1,28 @@
+87230|Villa de Güémez|Pueblo|Güémez|Tamaulipas||87001|28|87001||28|013|0228|Rural|
+87232|Ricardo Flores Magón (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0229|Rural|
+87233|Constitución Del 17 (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3038|Rural|
+87235|La Esperanza (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3037|Rural|
+87235|San Jose de las Flores (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0231|Rural|
+87235|San Cayetano (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0230|Rural|
+87236|Ciudad Victoria (General Pedro J Méndez)|Aeropuerto|Güémez|Tamaulipas||87001|28|87001||01|013|0232|Rural|
+87237|Subida Alta (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3039|Rural|
+87237|San Juana (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0233|Rural|
+87238|Luz Del Campesino (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0234|Rural|
+87238|Acatlán (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3040|Rural|
+87238|Miraflores (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0235|Rural|
+87239|La Parrita (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3041|Rural|
+87239|La Diana (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0236|Rural|
+87240|El Carmen (Ejido)|Hacienda|Güémez|Tamaulipas||87001|28|87001||24|013|0237|Rural|
+87240|Guadalupe Victoria|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0239|Rural|
+87240|Graciano Sanchez (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0238|Rural|
+87244|Santa Rosa (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0240|Rural|
+87245|El Roble (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3036|Rural|
+87245|El Alamito (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0241|Rural|
+87245|El Olmo (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0242|Rural|
+87247|El Arco (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0243|Rural|
+87247|Santa Gertrudis (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3075|Rural|
+87248|Las Crucitas (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0244|Rural|
+87248|El Porvenir (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3042|Rural|
+87248|La Presita (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|3043|Rural|
+87249|Plan de Ayala (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0246|Rural|
+87249|Cerrito Nuevo (Ejido)|Ejido|Güémez|Tamaulipas||87001|28|87001||15|013|0245|Rural|

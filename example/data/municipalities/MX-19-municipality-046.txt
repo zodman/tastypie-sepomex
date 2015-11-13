@@ -1,0 +1,403 @@
+66400|San Nicolás de los Garza Centro|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1080|Urbano|09
+66409|Secretaria de Hacienda y Crédito Publico 141|Gran usuario|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||22|046|1081|Urbano|09
+66410|Nicolás Bravo Sect 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0592|Urbano|09
+66410|Ignacio Ramirez|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1084|Urbano|09
+66410|Constituyentes Del 17|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1083|Urbano|09
+66410|Miraflores Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1087|Urbano|09
+66410|La Enramada|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4865|Urbano|09
+66410|Miraflores Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0589|Urbano|09
+66410|Privada Sendero Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4694|Urbano|09
+66410|Las Alamedas|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1085|Urbano|09
+66410|México Lindo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1086|Urbano|09
+66410|Benito Juárez|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1082|Urbano|09
+66410|Nicolás Bravo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1088|Urbano|09
+66410|Miraflores Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0590|Urbano|09
+66412|Centro de Desarrollo Comunitario CEDECO|Gran usuario|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||22|046|1090|Urbano|09
+66413|Bosques del Roble Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4712|Urbano|09
+66413|Bosques Del Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1091|Urbano|09
+66413|El Naranjal|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1092|Urbano|09
+66413|Huertas de San Bartolo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1093|Urbano|09
+66413|San Isidro|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1095|Urbano|09
+66413|San Bartolo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1094|Urbano|09
+66413|Rincón del Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4305|Urbano|09
+66414|Jardines de San Nicolás|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1097|Urbano|09
+66414|Residencial San Nicolás|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1099|Urbano|09
+66414|El Fundador|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1096|Urbano|09
+66414|Residencial El Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1098|Urbano|09
+66414|Roble San Nicolás Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0595|Urbano|09
+66414|Roble San Nicolás|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1100|Urbano|09
+66414|Roble San Nicolás Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0593|Urbano|09
+66414|Roble San Nicolás Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0594|Urbano|09
+66415|Héroes de México|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1101|Urbano|09
+66415|Héroes de México Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4720|Urbano|09
+66415|Héroes de México Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4719|Urbano|09
+66415|Fomerrey 4 Mujeres Ilustres|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|5126|Urbano|09
+66415|Villa Luz|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|5164|Urbano|09
+66417|Anáhuac Sendero|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3721|Urbano|09
+66417|Valle de Las Alamedas|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4721|Urbano|09
+66417|Hacienda del Roble Sector 2|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|4716|Urbano|09
+66417|Hacienda El Roble|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1102|Urbano|09
+66417|Villas Del Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1106|Urbano|09
+66417|Valle Del Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1105|Urbano|09
+66417|La Nogalera Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4717|Urbano|09
+66417|Residencial los Nogales|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1104|Urbano|09
+66417|La Nogalera|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1103|Urbano|09
+66417|Portal del Roble|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3369|Urbano|09
+66417|La Nogalera Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4718|Urbano|09
+66418|Viejo Roble Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4713|Urbano|09
+66418|Viejo Roble Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4714|Urbano|09
+66418|Centenario II|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1107|Urbano|09
+66418|Valle Dorado|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1108|Urbano|09
+66418|Valle Sol|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1109|Urbano|09
+66418|Residencial Roble Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4715|Urbano|09
+66418|Viejo Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1110|Urbano|09
+66420|Residencial Periférico Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4732|Urbano|09
+66420|Las Villas|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1112|Urbano|09
+66420|Villa Universidad|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1114|Urbano|09
+66420|Iturbide Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4704|Urbano|09
+66420|Iturbide Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4705|Urbano|09
+66420|Cerradas Del Roble|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3339|Urbano|09
+66420|Villazul|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1115|Urbano|09
+66420|Residencial Periférico|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1113|Urbano|09
+66420|Iturbide|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1111|Urbano|09
+66420|Residencial Periférico Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4708|Urbano|09
+66422|El Mirador de San Nicolás (fomerrey 129)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1117|Urbano|09
+66422|Rincón de Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1119|Urbano|09
+66422|Residencial Anáhuac Zona Norte|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4730|Urbano|09
+66422|Villas de Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1120|Urbano|09
+66422|Villas Anáhuac Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4695|Urbano|09
+66422|Hacienda de Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4700|Urbano|09
+66422|Paraíso de Anáhuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|0002|Urbano|09
+66422|Balcones de Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1116|Urbano|09
+66422|Reserva de Anahuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|4001|Urbano|09
+66423|Nuevo Periférico Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4706|Urbano|09
+66423|Nuevo Periférico Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4707|Urbano|09
+66423|Nuevo Periférico Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1121|Urbano|09
+66424|Periférico Norte|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1122|Urbano|09
+66425|Barragán|Parque industrial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||26|046|1125|Urbano|09
+66425|Getsemani|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1124|Urbano|09
+66425|Stiva|Parque industrial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||26|046|3139|Urbano|09
+66425|Estación Ramon Treviño|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1123|Urbano|09
+66425|Tabachines|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1126|Urbano|09
+66425|Privada Residencia Hacienda Anáhuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3960|Urbano|09
+66425|Colinas de Anahuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|4002|Urbano|09
+66427|Villarreal|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1127|Urbano|09
+66427|Villa Real Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4701|Urbano|09
+66428|Las Misiones|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1128|Urbano|09
+66428|Casa Bella Sector 2 2a Etapa|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4747|Urbano|09
+66428|Casa Bella Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1129|Urbano|09
+66428|Casa Bella Sector 2 1a Etapa|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4702|Urbano|09
+66428|Privada Casa Bella|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|3358|Urbano|09
+66428|Casa Bella Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4703|Urbano|09
+66430|San Antonio|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1138|Urbano|09
+66430|El Refugio Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1132|Urbano|09
+66430|Los Álamos|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1135|Urbano|09
+66430|Betel|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1130|Urbano|09
+66430|Congregación Mariano Escobedo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1137|Urbano|09
+66430|Santa Maria|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1139|Urbano|09
+66430|Portal Del Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|3370|Urbano|09
+66430|Rincón de los Álamos|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3787|Urbano|09
+66430|La Gloria|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1134|Urbano|09
+66430|San Ignacio|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|0004|Urbano|09
+66430|Los Nogales|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1136|Urbano|09
+66430|Miraflores Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0591|Urbano|09
+66430|Francisco Villa|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1133|Urbano|09
+66430|El Refugio Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1131|Urbano|09
+66434|Rivera San Nicolás|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1141|Urbano|09
+66435|Rincón de los Cedros|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1142|Urbano|09
+66436|Las Nuevas Puente|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1143|Urbano|09
+66436|Praderas de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1144|Urbano|09
+66437|Vicente Guerrero (fomerrey 46)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1150|Urbano|09
+66437|Poblado de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4758|Urbano|09
+66437|Valle de San Carlos|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1148|Urbano|09
+66437|Los Nogales|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||31|046|1146|Urbano|09
+66437|Villas Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1151|Urbano|09
+66438|Valle de Santo Domingo Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4723|Urbano|09
+66438|Valle de Santo Domingo 1er Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1153|Urbano|09
+66438|Valle de Las Flores Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4722|Urbano|09
+66438|Villas de Santo Domingo Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4724|Urbano|09
+66438|Valle de las Flores|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1152|Urbano|09
+66440|Nuevo Mezquital|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1158|Urbano|09
+66440|Los Morales Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4781|Urbano|09
+66440|Los Morales|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1156|Urbano|09
+66440|Unidad Laboral 1er. Sector|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1160|Urbano|09
+66440|Los Nogales (Fomerrey 44)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1157|Urbano|09
+66440|Ciudad Mezquital|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1154|Urbano|09
+66440|Torres de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1159|Urbano|09
+66440|Unidad Laboral Sector 2|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|4770|Urbano|09
+66443|Sin Nombre|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4833|Urbano|09
+66444|Pedregal de Santo Domingo Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4766|Urbano|09
+66444|Pedregal de Santo Domingo Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4767|Urbano|09
+66444|Paseo de Los Andes Sector 2 Sección A y B|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4768|Urbano|09
+66444|Pedregal de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1165|Urbano|09
+66444|Paseo de los Andes Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1164|Urbano|09
+66444|Paseo de Los Andes Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4769|Urbano|09
+66444|Carmen Romano de Lopez Portillo (fomerrey 27)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1161|Urbano|09
+66444|Fuentes de Anáhuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1163|Urbano|09
+66444|Prados de Santo Domingo Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1166|Urbano|09
+66444|Privada Santo Domingo|Condominio|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||10|046|1167|Urbano|09
+66444|Estación Lagrange|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4818|Urbano|09
+66445|Los Parques|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1170|Urbano|09
+66445|Jardines Del Mezquital|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1169|Urbano|09
+66445|Valle del Mezquital (Fomerrey 30)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1168|Urbano|09
+66446|Paseo San Nicolás|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1172|Urbano|09
+66446|Real Anáhuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1174|Urbano|09
+66446|Anáhuac la Escondida|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|4349|Urbano|09
+66446|Balcones de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1171|Urbano|09
+66446|Paseo  San Nicolás|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1173|Urbano|09
+66447|Santo Domingo (Fom. 34)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1176|Urbano|09
+66448|Los Naranjos Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0585|Urbano|09
+66448|Industrial los Parques|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|3432|Urbano|09
+66448|Los Naranjos Sect 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0587|Urbano|09
+66448|Los Naranjos Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0586|Urbano|09
+66448|Los Naranjos Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1178|Urbano|09
+66448|Residencial Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1179|Urbano|09
+66448|Arboledas de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1177|Urbano|09
+66449|Unidad Habitacional Torres de Santo Domingo|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|5079|Urbano|09
+66449|Parques de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|3252|Urbano|09
+66449|Residencial Santo Domingo Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4782|Urbano|09
+66449|Fomerrey 119|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1185|Urbano|09
+66449|Colonial|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1182|Urbano|09
+66449|Aquiles Serdán (fom. 33)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1180|Urbano|09
+66449|Arboledas Del Mezquital|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1181|Urbano|09
+66449|Fomerrey 118|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1184|Urbano|09
+66449|Hacienda de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1186|Urbano|09
+66450|Pedregal de Anáhuac 1 Sector|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3879|Urbano|09
+66450|El Roble Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4731|Urbano|09
+66450|Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1187|Urbano|09
+66450|El Roble|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1190|Urbano|09
+66450|Valle de Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1192|Urbano|09
+66450|Prival de Anahuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3962|Urbano|09
+66450|Avita Anahuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|4101|Urbano|09
+66450|Cuauhtémoc|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1188|Urbano|09
+66450|Chapultepec|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1189|Urbano|09
+66450|Lomas del Roble Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1191|Urbano|09
+66450|Cuauhtémoc Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4746|Urbano|09
+66450|Viejo Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4693|Urbano|09
+66450|Lomas del Roble Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4729|Urbano|09
+66450|Cuauhtémoc Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4745|Urbano|09
+66450|Pedregal de Anáhuac 2 Sector|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|3880|Urbano|09
+66452|Hojalata y Lamina Sa|Gran usuario|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||22|046|1194|Urbano|09
+66455|Ciudad Universitaria|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|3343|Urbano|09
+66456|Potrero Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1197|Urbano|09
+66456|Villa las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|3132|Urbano|09
+66456|Parque Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1196|Urbano|09
+66456|Potrero de Anáhuac Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4743|Urbano|09
+66456|Potrero de Anáhuac Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4744|Urbano|09
+66456|Ancestra|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|5851|Urbano|09
+66457|Residencial Anáhuac|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4725|Urbano|09
+66458|Roble Norte|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1199|Urbano|09
+66459|Royal|Residencial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||30|046|1202|Urbano|09
+66459|La Joroba|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1200|Urbano|09
+66459|Nuevo Laredo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1201|Urbano|09
+66460|Jardín de las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1205|Urbano|09
+66460|Las Puentes Sector 3|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1208|Urbano|09
+66460|Las Puentes Sector 5|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1210|Urbano|09
+66460|Rincón de los Andes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1223|Urbano|09
+66460|Villa las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1225|Urbano|09
+66460|Las Puentes Sector 12|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1217|Urbano|09
+66460|Las Puentes Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1206|Urbano|09
+66460|Las Puentes Sector 6|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1211|Urbano|09
+66460|Las Puentes Sector 11|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1216|Urbano|09
+66460|Las Puentes Sector 4|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1209|Urbano|09
+66460|Las Puentes Sector 10|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1215|Urbano|09
+66460|Las Puentes Sector 14|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1218|Urbano|09
+66460|Paseo de las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1220|Urbano|09
+66460|Las Puentes Sector 2|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1207|Urbano|09
+66460|Las Puentes Sector 7|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1212|Urbano|09
+66460|Las Puentes Sector 15|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1219|Urbano|09
+66460|Residencial las Puentes Sector 1 Sección A|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1221|Urbano|09
+66460|Valle de las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1224|Urbano|09
+66460|Año de Juárez (fomerrey 86)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1203|Urbano|09
+66460|Las Puentes Sector 8|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1213|Urbano|09
+66460|Las Puentes Sector 9|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1214|Urbano|09
+66460|Rincón de las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1222|Urbano|09
+66463|Bosques de Anáhuac|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1227|Urbano|09
+66463|Jardines de Anáhuac Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1228|Urbano|09
+66463|Jardines de Anáhuac Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|0580|Urbano|09
+66463|Jardines de Anáhuac Sector 3|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1229|Urbano|09
+66464|Residencial Nova|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1230|Urbano|09
+66464|Residencial Nova Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4741|Urbano|09
+66464|Residencial Nova Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4742|Urbano|09
+66465|Colonial las Puentes|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||21|046|1232|Urbano|09
+66465|Hacienda las Puentes|Hacienda|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||24|046|1233|Urbano|09
+66465|Riveras de Las Puentes Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4709|Urbano|09
+66465|Quinta las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|3151|Urbano|09
+66465|Residencial Las Palmas Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4710|Urbano|09
+66465|Riveras de las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1235|Urbano|09
+66465|Arboledas de San Jorge|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1231|Urbano|09
+66465|Residencial Las Palmas Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1234|Urbano|09
+66465|Residencial Las Palmas Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4711|Urbano|09
+66466|Balcones de las Puentes|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1236|Urbano|09
+66467|Residencial Las Puentes Sector 1 Sección B|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4734|Urbano|09
+66467|Residencial Las Puentes Sector 4 Sección B|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4739|Urbano|09
+66467|Residencial Las Puentes Sector 5 Sección B|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4740|Urbano|09
+66467|Residencial Las Puentes Sector 1 Sección C|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4735|Urbano|09
+66467|Residencial Las Puentes Sector 3 Sección B|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4738|Urbano|09
+66467|Residencial Las Puentes Sector 2 Sección A|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4736|Urbano|09
+66467|Residencial Las Puentes Sector 2 Sección B|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|4737|Urbano|09
+66468|Jardines de Santo Domingo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1237|Urbano|09
+66469|Julio Camelo Treviño|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1238|Urbano|09
+66469|Las Esperanzas|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1239|Urbano|09
+66469|Villa Esperanza|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1240|Urbano|09
+66470|Rincón Del Oriente|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1249|Urbano|09
+66470|Tacuba|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1250|Urbano|09
+66470|Villas de Oriente Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1251|Urbano|09
+66470|Costa del Sol Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4761|Urbano|09
+66470|Del Vidrio Oriente Sect 4|Ampliación|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||38|046|0568|Urbano|09
+66470|Andalucía|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1241|Urbano|09
+66470|Del Vidrio Oriente Sect 3|Ampliación|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||38|046|1243|Urbano|09
+66470|Villas de Oriente Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4759|Urbano|09
+66470|Los Laureles|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1245|Urbano|09
+66470|San Benito Del Lago|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|3689|Urbano|09
+66470|Del Lago Sect 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0567|Urbano|09
+66470|Paseo de los Angeles|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1247|Urbano|09
+66470|Residencial los Morales|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|3631|Urbano|09
+66470|Costa del Sol 1er Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1242|Urbano|09
+66470|Miguel Aleman|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1246|Urbano|09
+66470|Alcatraces Residencial|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|4937|Urbano|09
+66470|Del Vidrio Oriente Sect 5|Ampliación|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||38|046|0569|Urbano|09
+66470|Residencial Paseo de los Angeles|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1248|Urbano|09
+66470|Industrias Del Vidrio Oriente|Ampliación|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||38|046|1244|Urbano|09
+66470|Villa Luis|Residencial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||30|046|3320|Urbano|09
+66470|Villas de Oriente Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4760|Urbano|09
+66473|La Talaverna|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1255|Urbano|09
+66473|Villas de San Miguel|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4733|Urbano|09
+66473|Blas Chumacero CTM|Conjunto habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||12|046|1253|Urbano|09
+66473|Los Cipreses|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1257|Urbano|09
+66473|Parque La Talaverna|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1258|Urbano|09
+66473|La Talaverna CROC|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1256|Urbano|09
+66473|Bosques de Lindavista|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1254|Urbano|09
+66473|Los Olivos|Residencial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||30|046|3227|Urbano|09
+66473|Bosques de Lindavista Sector Diamante|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|4010|Urbano|09
+66473|Blas Chumacero 2 Sector|Conjunto habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||12|046|4776|Urbano|09
+66473|Bosques de Lindavista 2 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4777|Urbano|09
+66474|Cipreses Residencial 5 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4749|Urbano|09
+66474|Cipreses Residencial 3 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4779|Urbano|09
+66474|Cipreses Residencial 4 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4780|Urbano|09
+66474|Cipreses Residencial 2 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4778|Urbano|09
+66475|Los Ángeles Sector 8|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1263|Urbano|09
+66475|Villas de Casa Blanca Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4757|Urbano|09
+66475|Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1259|Urbano|09
+66475|Villas de Casa Blanca Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4748|Urbano|09
+66475|Jardines de Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1261|Urbano|09
+66475|Jardines de Casa Blanca Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4756|Urbano|09
+66475|Los Ángeles Sector 7|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1262|Urbano|09
+66475|San Ángel Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1264|Urbano|09
+66475|Villas de Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1265|Urbano|09
+66476|Ideal Minera|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1267|Urbano|09
+66476|La Estancia Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4763|Urbano|09
+66476|La Estancia Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4762|Urbano|09
+66476|Los Reales Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4765|Urbano|09
+66476|La Estancia Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1268|Urbano|09
+66476|Los Reales Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1269|Urbano|09
+66476|Ciudad Minera|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1266|Urbano|09
+66476|La Estancia Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4764|Urbano|09
+66477|Del Lago Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1270|Urbano|09
+66477|Hacienda las Fuentes|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|3926|Urbano|09
+66477|Residencial Santa Fé|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|0005|Urbano|09
+66477|Hacienda los Angeles|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1271|Urbano|09
+66477|La Fe|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1272|Urbano|09
+66478|Los Ángeles Sector 5|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1277|Urbano|09
+66478|Rincón de Casa Blanca 1er Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1283|Urbano|09
+66478|Cerradas de Casa Blanca|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|0003|Urbano|09
+66478|Residencial los Angeles Sect 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1279|Urbano|09
+66478|Residencial San Cristóbal Sector 1|Residencial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||30|046|1282|Urbano|09
+66478|Los Ángeles Sector 4|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1276|Urbano|09
+66478|Misión de San Cristóbal|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1278|Urbano|09
+66478|Los Pinos|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1281|Urbano|09
+66478|Misión de Casa Blanca 2do Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|3687|Urbano|09
+66478|Palmas Diamante|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|3688|Urbano|09
+66478|Arboledas de San Cristóbal|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4755|Urbano|09
+66478|Rincón de los Ángeles|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|5102|Urbano|09
+66478|Fresnos del Lago|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1275|Urbano|09
+66478|Privadas de Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|3685|Urbano|09
+66478|Residencial los Angeles Sect 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1280|Urbano|09
+66478|Los Ángeles Sector 3|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1273|Urbano|09
+66478|Valle Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1284|Urbano|09
+66478|Villas San Cristóbal 1er Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1285|Rural|09
+66478|Residencial San Cristóbal Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4783|Urbano|09
+66478|Quinta Montecarlo|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|5098|Urbano|09
+66478|Misión de Casa Blanca|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|3686|Urbano|09
+66478|Rincón de Casa Blanca Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4754|Urbano|09
+66478|Villas de San Cristóbal Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4750|Urbano|09
+66478|Residencial San Cristóbal Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4751|Urbano|09
+66479|Margarita Salazar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1286|Urbano|09
+66480|Garza Cantu|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1294|Urbano|09
+66480|Jose Lopez Portillo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1295|Urbano|09
+66480|Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1296|Urbano|09
+66480|Prados Del Nogalar (fomerrey 11)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1297|Urbano|09
+66480|Residencial Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1298|Urbano|09
+66480|Valle de las Granjas (fomerrey 13)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1300|Urbano|09
+66480|Bosques del Nogalar 2 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4771|Urbano|09
+66480|Deportivo Lagrange|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1289|Urbano|09
+66480|Futuro Nogalar Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0573|Urbano|09
+66480|Azteca Fomerrey 11|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1287|Urbano|09
+66480|Valle Azteca (fomerrey 12)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1299|Urbano|09
+66480|Valle Del Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1301|Urbano|09
+66480|Bosques Del Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1288|Urbano|09
+66480|Diaz Ordaz|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1290|Urbano|09
+66480|INFONAVIT Conductores|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|3433|Urbano|09
+66482|Mercado de Abastos Estrella|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1303|Urbano|09
+66482|Predio Aldape|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1304|Urbano|09
+66484|Antiguo Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1305|Urbano|09
+66484|Industrial Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1307|Urbano|09
+66484|Futuro Nogalar Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66451|19|66451||09|046|1306|Urbano|09
+66485|Rincón Del Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1310|Urbano|09
+66485|Bosques de Santo Domingo (fomerrey 92)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1308|Urbano|09
+66486|Hacienda Nogalar|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4691|Urbano|09
+66486|Jardines Del Nogalar (fomerrey 28)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1315|Urbano|09
+66486|Salvador Allende|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1318|Urbano|09
+66486|La Morena (fomerrey 65)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1316|Urbano|09
+66486|4 de Octubre Fomerrey 72|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1311|Urbano|09
+66486|Privada Nogalar|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|3722|Urbano|09
+66486|Nogalar Infonavit|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1317|Urbano|09
+66488|El Agarron|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1319|Urbano|09
+66488|Luis M Farias|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1321|Urbano|09
+66488|Floridos Bosques Del Nogalar (fomerrey 90)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1320|Urbano|09
+66488|27 de Julio|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1322|Urbano|09
+66489|Lagos de Chapultepec (fomerrey 69)|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1324|Urbano|09
+66490|Constituyentes de Queretaro Sector 2|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1328|Urbano|09
+66490|Colonial Lagrange|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1326|Urbano|09
+66490|Francisco Garza Sada|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1335|Urbano|09
+66490|Nuevo Mundo|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1337|Urbano|09
+66490|Constituyentes de Queretaro Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1327|Urbano|09
+66490|Antiguo Corral de Piedra 1er Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1333|Urbano|09
+66490|Industrias del Vidrio Amp. Oriente Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0577|Urbano|09
+66490|Antiguo Corral de Piedra 2 Sector|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4772|Urbano|09
+66490|Residencial Rivera Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4775|Urbano|09
+66490|Del Vidrio|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1334|Urbano|09
+66490|Industrias del Vidrio Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1336|Urbano|09
+66490|Peña Guerra|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1338|Urbano|09
+66490|Ciudad Ideal Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4774|Urbano|09
+66490|Industrias del Vidrio Ampliación Norte Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4787|Urbano|09
+66490|INFONAVIT Valle de Lagrange|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0007|Urbano|09
+66490|Constituyentes de Queretaro Sector 3|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1329|Urbano|09
+66490|Constituyentes de Queretaro Sector 4|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1330|Urbano|09
+66490|Constituyentes de Queretaro Sector 6|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1332|Urbano|09
+66490|Residencial Riviera Sector 1|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|1339|Urbano|09
+66490|Industrias del Vidrio Ampliación Norte Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4788|Urbano|09
+66490|Constituyentes de Queretaro Sector 5|Unidad habitacional|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||31|046|1331|Urbano|09
+66490|Industrias del Vidrio Ampliación Norte Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4785|Urbano|09
+66490|Ciudad Ideal|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1325|Urbano|09
+66490|Ciudad Ideal Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4773|Urbano|09
+66490|Industrias del Vidrio Ampliación Norte Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4786|Urbano|09
+66492|Del Vidrio|Ampliación|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||38|046|1341|Urbano|09
+66492|Industrias Del Vidrio|Ampliación|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||38|046|1342|Urbano|09
+66493|Conductores Monterrey Sa|Gran usuario|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||22|046|1343|Urbano|09
+66494|Central de Carga|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1344|Urbano|09
+66495|Hacienda los Morales Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1345|Urbano|09
+66496|Alejandría|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|0006|Urbano|09
+66496|Industrias del Vidrio Amp. Oriente Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0578|Urbano|09
+66496|Industrias del Vidrio Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0579|Urbano|09
+66496|Fidel Velázquez Sánchez Sector 1|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1346|Urbano|09
+66496|Hacienda los Morales Sector 3|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0575|Urbano|09
+66496|Fidel Velázquez Sect 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0572|Urbano|09
+66496|Hacienda los Morales Sector 4|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0576|Urbano|09
+66496|Valle de los Morales|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1347|Urbano|09
+66496|Vivenza|Fraccionamiento|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||21|046|0001|Urbano|09
+66496|Hacienda los Morales Sector 2|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|0574|Urbano|09
+66496|Industrias del Vidrio Ampliación Oriente Sector 5|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|4784|Urbano|09
+66499|Residencial San Felipe|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1350|Urbano|09
+66499|Hacienda Lagrange|Colonia|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||09|046|1348|Urbano|09
+66499|Los Mezquites|Residencial|San Nicolás de los Garza|Nuevo León|San Nicolás de los Garza|66491|19|66491||30|046|1349|Urbano|09

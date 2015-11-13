@@ -1,0 +1,95 @@
+85300|Empalme Centro|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1190|Semiurbano|05
+85310|Pitic|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1193|Semiurbano|05
+85310|Pesqueira|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1192|Semiurbano|05
+85319|Rony Camacho|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1194|Semiurbano|05
+85319|Ronaldo Camacho|Ampliación|Empalme|Sonora|Empalme|85301|26|85301||38|025|2003|Semiurbano|05
+85320|Bellavista|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1195|Semiurbano|05
+85330|Moderna|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1196|Semiurbano|05
+85338|Juárez|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1197|Semiurbano|05
+85339|Moderna Norte|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1198|Semiurbano|05
+85340|Luis Donaldo Colosio|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|0001|Urbano|05
+85340|Gobernación|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1199|Semiurbano|05
+85340|Sector Poniente Km. 2|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1200|Semiurbano|05
+85343|Campo Venecia|Equipamiento|Empalme|Sonora|Empalme|85301|26|85301||17|025|0003|Urbano|05
+85344|Recicladora T.O.M.|Equipamiento|Empalme|Sonora|Empalme|85301|26|85301||17|025|0004|Urbano|05
+85347|Ignacio Chavez|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|2001|Semiurbano|05
+85349|Sector Oriente Km. 2|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1201|Semiurbano|05
+85350|Oriente|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1202|Semiurbano|05
+85360|Ortiz Rubio|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1203|Semiurbano|05
+85370|Libertad|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1204|Semiurbano|05
+85380|Libertad|Fraccionamiento|Empalme|Sonora|Empalme|85301|26|85301||21|025|1205|Semiurbano|05
+85385|Guadalupe|Fraccionamiento|Empalme|Sonora|Empalme|85301|26|85301||21|025|1999|Semiurbano|05
+85385|Los Portales|Fraccionamiento|Empalme|Sonora|Empalme|85301|26|85301||21|025|0046|Urbano|05
+85385|Villa Dorada|Fraccionamiento|Empalme|Sonora|Empalme|85301|26|85301||21|025|1997|Semiurbano|05
+85386|Bahía Del Sol Infonavit|Unidad habitacional|Empalme|Sonora|Empalme|85301|26|85301||31|025|1207|Semiurbano|05
+85387|Procesos del Mar|Equipamiento|Empalme|Sonora|Empalme|85301|26|85301||17|025|0005|Urbano|05
+85387|Nueva Infonavit|Unidad habitacional|Empalme|Sonora|Empalme|85301|26|85301||31|025|1208|Semiurbano|05
+85388|Guadalupe|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1209|Semiurbano|05
+85388|7 de Enero|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1987|Semiurbano|05
+85388|Infonavit Guadalupe|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|0002|Urbano|05
+85388|Nuevo Empalme|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1996|Semiurbano|05
+85389|Parque Industrial|Parque industrial|Empalme|Sonora|Empalme|85301|26|85301||26|025|1210|Semiurbano|05
+85390|Jordan|Ampliación|Empalme|Sonora|Empalme|85301|26|85301||38|025|2002|Semiurbano|05
+85390|Jordan|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1211|Semiurbano|05
+85397|Sahuaral|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1212|Semiurbano|05
+85398|Club Residencial Jacarandas|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1213|Semiurbano|05
+85398|Lindavista|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|2000|Semiurbano|05
+85398|Palmares|Fraccionamiento|Empalme|Sonora|Empalme|85301|26|85301||21|025|1998|Semiurbano|05
+85399|Ladrillera|Colonia|Empalme|Sonora|Empalme|85301|26|85301||09|025|1214|Semiurbano|05
+85520|La Candelaria|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0019|Rural|
+85520|La Piedrera|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0024|Rural|
+85520|Niño San Humberto [Casa Hogar]|Ejido|Empalme|Sonora||85301|26|85301||15|025|0031|Rural|
+85520|Cochórit|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0011|Rural|
+85520|Abelardo Galáz Preciado|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0006|Rural|
+85523|El Bateve Número Uno|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0014|Rural|
+85523|Empalme el Águila|Ejido|Empalme|Sonora||85301|26|85301||15|025|0016|Rural|
+85523|San Isidro Barcenas|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0038|Rural|
+85523|El Bateve|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0013|Rural|
+85523|Silvia Orduño|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0042|Rural|
+85523|La Aguilita|Ejido|Empalme|Sonora||85301|26|85301||15|025|0018|Rural|
+85523|La Escondida (Agua Caliente)|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0022|Rural|
+85524|Santa Cruz|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0041|Rural|
+85524|Margarita (Agrícola Omega)|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0029|Rural|
+85524|Sociedad Igualitaria|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0043|Rural|
+85524|San Pablo Dos|Ejido|Empalme|Sonora||85301|26|85301||15|025|0039|Rural|
+85524|La Casita de Campo|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0020|Rural|
+85524|Sociedad Rubén Jaramillo (Campo Guaymas)|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0044|Rural|
+85524|San Fernando de Guaymas|Ejido|Empalme|Sonora||85301|26|85301||15|025|1319|Rural|
+85524|Cruz de Piedra|Congregación|Empalme|Sonora||85301|26|85301||11|025|1318|Rural|
+85525|Roncalli|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0035|Rural|
+85525|San Enrique|Ejido|Empalme|Sonora||85301|26|85301||15|025|2929|Rural|
+85525|Los Chiltepines (San Juan)|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0026|Rural|
+85525|Los Venados|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0028|Rural|
+85525|Los Hoyos [Centro de Transferencia de Embriones]|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0027|Rural|
+85525|Juan Rodríguez|Ejido|Empalme|Sonora||85301|26|85301||15|025|2930|Rural|
+85525|San Andrés|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0037|Rural|
+85526|San Antonio|Ranchería|Empalme|Sonora||85301|26|85301||29|025|1332|Rural|
+85527|Playa del Sol|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0032|Rural|
+85530|Complementación Ejido Baca Calderón|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0012|Rural|
+85530|Gaferza|Congregación|Empalme|Sonora||85301|26|85301||11|025|1322|Rural|
+85530|Buffalo Packing (Gringo Cebollero)|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0009|Rural|
+85530|Zaragoza (Santa Amelia)|Congregación|Empalme|Sonora||85301|26|85301||11|025|1324|Rural|
+85533|El Porvenir|Ranchería|Empalme|Sonora||85301|26|85301||29|025|1320|Rural|
+85533|Úrsulo Galván|Ejido|Empalme|Sonora||85301|26|85301||15|025|1328|Rural|
+85533|Mi Patria es Primero|Ejido|Empalme|Sonora||85301|26|85301||15|025|1323|Rural|
+85533|Fátima|Ejido|Empalme|Sonora||85301|26|85301||15|025|1327|Rural|
+85533|La Palma|Pueblo|Empalme|Sonora||85301|26|85301||28|025|1321|Rural|
+85534|Pozo Nueve|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0033|Rural|
+85534|Ruiz|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0036|Rural|
+85534|Maytorena|Estación|Empalme|Sonora||85301|26|85301||16|025|1331|Rural|
+85534|Establo Fátima (Agroindustrial Vilo)|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0017|Rural|
+85535|Aeródromo San Martín|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0007|Rural|
+85535|Santa María de Guaymas|Ejido|Empalme|Sonora||85301|26|85301||15|025|1333|Rural|
+85535|Pueblo Nuevo|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0034|Rural|
+85535|Cincuenta y Dos|Ejido|Empalme|Sonora||85301|26|85301||15|025|0010|Rural|
+85535|Santa Anita|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0040|Rural|
+85535|Las Tortolitas|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0025|Rural|
+85535|José María Morelos y Pavón (La Atravezada)|Pueblo|Empalme|Sonora||85301|26|85301||28|025|1325|Rural|
+85536|Narciso Mendoza|Ejido|Empalme|Sonora||85301|26|85301||15|025|0030|Rural|
+85536|Antonio Rosales|Ejido|Empalme|Sonora||85301|26|85301||15|025|1329|Rural|
+85536|Avestruces del Noroeste|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0008|Rural|
+85536|La Choya Dos|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0021|Rural|
+85537|Vicente Guerrero|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0045|Rural|
+85537|Junelancahui (El Mezquite)|Ejido|Empalme|Sonora||85301|26|85301||15|025|1330|Rural|
+85537|La Florida|Ranchería|Empalme|Sonora||85301|26|85301||29|025|0023|Rural|
+85537|El Mezquite (Terreno de Junelancahui)|Ejido|Empalme|Sonora||85301|26|85301||15|025|0015|Rural|

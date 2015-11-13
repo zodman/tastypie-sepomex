@@ -1,0 +1,41 @@
+43080|Tlamaya|Barrio|Yahualica|Hidalgo||43007|13|43007||02|080|5694|Urbano|
+43080|Santa Teresa|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1255|Urbano|
+43080|Calvario|Barrio|Yahualica|Hidalgo||43007|13|43007||02|080|5693|Urbano|
+43080|Yahualica Centro|Colonia|Yahualica|Hidalgo||43007|13|43007||09|080|1258|Urbano|
+43080|Limontitla|Barrio|Yahualica|Hidalgo||43007|13|43007||02|080|5692|Urbano|
+43080|5 de Mayo|Barrio|Yahualica|Hidalgo||43007|13|43007||02|080|5695|Urbano|
+43084|Zacayahual|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1265|Rural|
+43084|El Paraje|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5700|Rural|
+43084|Xocotitla|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5711|Rural|
+43084|Oxeloco|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5706|Rural|
+43084|Atlalco|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1261|Rural|
+43084|Mangocuatitla|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5704|Rural|
+43084|Chiatitla|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1262|Rural|
+43084|Tetla|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1264|Rural|
+43084|Tenexapa|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5709|Rural|
+43084|Tepehixpa|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1263|Rural|
+43084|Atlajco|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5697|Rural|
+43084|Xóchitl|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5710|Rural|
+43084|Tamalcuatitla|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1260|Rural|
+43085|Tecacalax|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5707|Rural|
+43085|Tenamaxtepec|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5708|Rural|
+43085|El Arenal|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1266|Rural|
+43085|Zapotitla|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5712|Rural|
+43085|Crisolco|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5699|Rural|
+43085|Chompeletla|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5698|Rural|
+43086|Mecatlán|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1254|Rural|
+43086|Huitznopala|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5703|Rural|
+43086|Olma|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5705|Rural|
+43086|Xoxolpa|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1257|Rural|
+43086|Huexoapa|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5701|Rural|
+43086|Aguacatitla|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1253|Rural|
+43086|Zoquitipán|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|1259|Rural|
+43086|Los Naranjos|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1267|Rural|
+43086|Pepeyocatitla|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1268|Rural|
+43087|Tlalchiyahualica|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1256|Rural|
+43087|Acalamatitla|Poblado comunal|Yahualica|Hidalgo||43007|13|43007||27|080|5696|Rural|
+43087|Mesa Larga|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1270|Rural|
+43087|Hueyactétl|Pueblo|Yahualica|Hidalgo||43007|13|43007||28|080|1269|Rural|
+43089|Tepetitla|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|1271|Rural|
+43089|Cuacalixpa|Barrio|Yahualica|Hidalgo||43007|13|43007||02|080|2907|Urbano|
+43089|Hueyapa|Ranchería|Yahualica|Hidalgo||43007|13|43007||29|080|5702|Rural|

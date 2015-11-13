@@ -1,0 +1,19 @@
+75680|San Lucas|Barrio|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||02|177|2376|Rural|
+75680|Tlacotepec de Benito Juárez|Pueblo|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||28|177|2378|Rural|
+75680|Tepazolco|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2377|Rural|
+75680|San José|Barrio|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||02|177|2375|Rural|
+75681|José Huerta|Pueblo|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||28|177|2379|Rural|
+75681|Tlacuitlapan|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2381|Rural|
+75681|Tecaltzingo|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2380|Rural|
+75685|San José Buenavista|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2384|Rural|
+75685|San José Tlacuitlapan|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2385|Rural|
+75685|Pazoltepec|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2383|Rural|
+75685|San Marcos Tlacoyalco|Pueblo|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||28|177|2386|Rural|
+75686|San Martín Esperilla|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2387|Rural|
+75687|La Columna|Barrio|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||02|177|2389|Rural|
+75689|San Lucas Viejo|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2392|Rural|
+75689|Pericotepec|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2391|Rural|
+75689|Tepetlacolco|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2395|Rural|
+75689|Santa María la Alta|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2393|Rural|
+75689|Santo Nombre|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2394|Rural|
+75689|Guadalupe Victoria|Ranchería|Tlacotepec de Benito Juárez|Puebla||75682|21|75682||29|177|2390|Rural|

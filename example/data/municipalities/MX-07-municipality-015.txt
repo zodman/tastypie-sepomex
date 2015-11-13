@@ -1,0 +1,32 @@
+30890|Guadalupe|Barrio|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||02|015|2192|Semiurbano|16
+30890|Rosario Ixtal|Barrio|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||02|015|0001|Urbano|16
+30890|Santa Lucía|Colonia|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||09|015|0003|Rural|16
+30890|FOVISSSTE Cacahoatán|Fraccionamiento|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||21|015|0002|Semiurbano|16
+30890|Álvaro Obregón|Barrio|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||02|015|2193|Semiurbano|16
+30890|Emiliano Zapata|Barrio|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||02|015|2190|Semiurbano|16
+30890|Cacahoatán Centro|Colonia|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||09|015|1879|Semiurbano|16
+30890|Miguel Hidalgo|Barrio|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||02|015|2191|Semiurbano|16
+30890|Anáhuac|Barrio|Cacahoatán|Chiapas|Cacahoatán|30891|07|30891||02|015|2194|Semiurbano|16
+30892|Faja de Oro|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1883|Rural|
+30892|Puente Colorado|Ranchería|Cacahoatán|Chiapas||30701|07|30701||29|015|5820|Rural|
+30892|2 de Mayo|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1889|Rural|
+30893|El Progreso|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1891|Rural|
+30893|El Águila|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1880|Rural|
+30893|Salvador Urbina|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1886|Rural|
+30893|Benito Juárez|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1890|Rural|
+30893|Unión Roja|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1887|Rural|
+30893|Agustin de Iturbide|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1877|Rural|
+30894|Alpujarras|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1892|Rural|
+30894|El Platanar|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1882|Rural|
+30895|El Carmen|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1881|Rural|
+30895|Mixcum|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1885|Rural|
+30895|Guatimoc|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1884|Rural|
+30895|Nueva Alianza|Ranchería|Cacahoatán|Chiapas||30701|07|30701||29|015|5821|Rural|
+30895|Ahuacatlán|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1878|Rural|
+30895|Alianza|Finca|Cacahoatán|Chiapas||30701|07|30701||20|015|1893|Rural|
+30895|Santa María La Vega|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1894|Rural|
+30895|San Joaquín|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|5782|Rural|
+30896|Azteca|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1895|Rural|
+30897|Agua Caliente|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1896|Rural|
+30897|Camambre|Ranchería|Cacahoatán|Chiapas||30701|07|30701||29|015|1897|Rural|
+30898|Toquian Guarumo|Ejido|Cacahoatán|Chiapas||30701|07|30701||15|015|1898|Rural|

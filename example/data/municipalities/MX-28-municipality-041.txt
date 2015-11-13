@@ -1,0 +1,389 @@
+87000|Ciudad Victoria Centro|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0001|Urbano|11
+87000|Los Fresnos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2914|Urbano|11
+87010|Transito|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0008|Urbano|11
+87010|José López Portillo|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0007|Urbano|11
+87010|Enrique Cárdenas Gonzalez|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0006|Urbano|11
+87014|Emilio Caballero|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0010|Urbano|11
+87014|77 Batallón de Infantería|Zona militar|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||47|041|0012|Urbano|11
+87014|Luis Donaldo Colosio|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2107|Urbano|11
+87014|Gral. Lucio Blanco|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0011|Urbano|11
+87014|El Mirador|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0009|Urbano|11
+87015|Estrella|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0013|Urbano|11
+87015|Privada San Ignacio|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3265|Urbano|11
+87015|Las Enfermeras|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3175|Urbano|11
+87016|La Sierra|Conjunto habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||12|041|3403|Urbano|11
+87016|Vamos Tamaulipas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3404|Urbano|11
+87016|Cañón de La Peregrina|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3365|Urbano|11
+87016|Sierra Vista|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3834|Urbano|11
+87018|Praderas de  Victoria|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0019|Urbano|11
+87018|Colinas Del Valle|Conjunto habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||12|041|0015|Urbano|11
+87018|Industrial|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0017|Urbano|11
+87018|Lomas de Calamaco|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2906|Urbano|11
+87018|Colinas San Roberto|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3274|Urbano|11
+87018|La Libertad II|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2918|Urbano|11
+87018|Framboyanes|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0016|Urbano|11
+87018|Las Montañas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3214|Urbano|11
+87018|Agua Fria II|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3289|Urbano|11
+87018|Valle Esmeralda|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3209|Urbano|11
+87018|Agua Fria I|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3290|Urbano|11
+87019|La Presita|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2917|Urbano|11
+87019|Burócratas Municipales II|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0020|Urbano|11
+87019|La Libertad|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0022|Urbano|11
+87019|Monte Alto|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3174|Urbano|11
+87019|Rincón del Valle|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3621|Urbano|11
+87019|Villas del Pedregal|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3763|Urbano|11
+87019|Rincón del Valle Elite|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3857|Urbano|11
+87020|Norberto Treviño Zapata|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0025|Urbano|11
+87020|Valle Escondido|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0029|Urbano|11
+87020|Del Norte|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0024|Urbano|11
+87020|Valle de Aguayo|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0028|Urbano|11
+87020|Adolfo Lopez Mateos|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0023|Urbano|11
+87023|Residencial Santa María|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3396|Urbano|11
+87023|Campestre Janambres|Residencial|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||30|041|3276|Urbano|11
+87023|Haciendas del Colibrí|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3272|Urbano|11
+87023|Puerta de Hierro|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3293|Urbano|11
+87023|San Gabriel|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3397|Urbano|11
+87023|Residencial los Agaves|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3925|Urbano|11
+87023|Agropecuario los Olivos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3726|Urbano|11
+87023|Lilia Zozaya|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3926|Urbano|11
+87024|Revolución Verde|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0037|Urbano|11
+87024|Santa María|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2915|Urbano|11
+87024|Bosques del Sur Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3278|Urbano|11
+87024|Burócratas Municipales|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0031|Urbano|11
+87024|Mariano Matamoros|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0035|Urbano|11
+87024|Nueva Aurora|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3651|Urbano|11
+87024|Las Alamedas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3410|Urbano|11
+87024|Pedregal Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3411|Urbano|11
+87024|ITACE|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0034|Urbano|11
+87024|Teocaltiche|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0038|Urbano|11
+87024|Santa Fe|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3277|Urbano|11
+87024|Privanzas II|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3794|Urbano|11
+87024|Bosque Real|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0080|Urbano|11
+87024|San Alberto|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3408|Urbano|11
+87024|Azteca|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|0030|Urbano|11
+87024|Ignacio Zaragoza|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0033|Urbano|11
+87024|Granjas Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2049|Urbano|11
+87024|Vista Azul|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2907|Urbano|11
+87024|Valle Oriente|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3269|Urbano|11
+87024|Doctores|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0032|Urbano|11
+87024|Poza Madre|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0036|Urbano|11
+87024|Privada San Miguel|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3279|Urbano|11
+87024|Los Encinos Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3288|Urbano|11
+87025|Adolfo Lopez Mateos (Ampliación)|Ampliación|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||38|041|0039|Urbano|11
+87025|Ingeniero Agrónomo Carlos Anzures|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0040|Urbano|11
+87025|Residencial Cabañas de Victoria|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0046|Urbano|11
+87025|Montes Altos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3271|Urbano|11
+87025|Del Sol|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0043|Urbano|11
+87025|Del Valle|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0044|Urbano|11
+87025|Vista Verde|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0047|Urbano|11
+87025|Ampliación Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3413|Urbano|11
+87025|Las Alazanas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2957|Urbano|11
+87025|Bosques Campestre Condominio|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3171|Urbano|11
+87025|Haciendas del Sol|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3791|Urbano|11
+87025|La Florida|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2913|Urbano|11
+87025|Bugambilias|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|0042|Urbano|11
+87025|Las Huertas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0045|Urbano|11
+87025|Siglo XXI|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3172|Urbano|11
+87025|Residencial la Misión|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3769|Urbano|11
+87025|Aries|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0041|Urbano|11
+87025|Privada Bilbao|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3257|Urbano|11
+87026|Privada Canteras|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3256|Urbano|11
+87026|Magisterial|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0048|Urbano|11
+87027|Las Américas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0049|Urbano|11
+87027|Petroleros|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0052|Urbano|11
+87027|Arboledas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0050|Urbano|11
+87027|Villa Jardín|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0053|Urbano|11
+87027|Privadas de la Salle|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3792|Urbano|11
+87027|Favisa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0051|Urbano|11
+87027|Villarreal|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0054|Urbano|11
+87027|Monte Alto|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3207|Urbano|11
+87027|San Ángel|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3173|Urbano|11
+87028|Club Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0056|Urbano|11
+87028|Los Cristales|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3284|Urbano|11
+87028|Santa Barbara|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3399|Urbano|11
+87028|Residencial los Naranjos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0058|Urbano|11
+87028|Royal Country|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3270|Urbano|11
+87028|Misión San Agustín|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3273|Urbano|11
+87028|Villa Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3412|Urbano|11
+87028|INFONAVIT Jardín|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0057|Urbano|11
+87028|Benito Juárez|Ejido|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||15|041|0055|Urbano|11
+87028|Los Laureles|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3263|Urbano|11
+87028|Santa Laura|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3398|Urbano|11
+87029|Residencial Campestre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0059|Urbano|11
+87029|Privanzas I|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3220|Urbano|11
+87029|Las Villas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3358|Urbano|11
+87030|Héroe de Nacozari|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0062|Urbano|11
+87030|Mira Sierra|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3164|Urbano|11
+87030|Colinas Del Mirador|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0061|Urbano|11
+87030|Junta Local de Caminos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0069|Urbano|11
+87030|Privadas del Nogalar|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3275|Urbano|11
+87030|Banrural|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0060|Urbano|11
+87030|Imperial|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0063|Urbano|11
+87030|Conjunto Habitacional Panorama|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|2956|Urbano|11
+87030|FSTSE|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2045|Urbano|11
+87030|INFONAVIT Miguel Alemán|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2955|Urbano|11
+87030|Ampliación Miguel Alemán|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0026|Urbano|11
+87030|Lázaro Cárdenas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0065|Urbano|11
+87030|Los Ébanos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0066|Urbano|11
+87030|Villa Alpina|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2905|Urbano|11
+87030|Cumbres|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3218|Urbano|11
+87030|Miguel Alemán|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0067|Urbano|11
+87030|Nuevo Santander|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0077|Urbano|11
+87030|La Cima|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3163|Urbano|11
+87030|Jardín Norte|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0064|Urbano|11
+87030|Sierra Ventana|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0068|Urbano|11
+87030|Mi Ranchito|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2960|Urbano|11
+87030|La Sierra|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3793|Urbano|11
+87032|Ferrocarriles Nacionales de México|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0070|Urbano|11
+87033|La Escondida|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0071|Urbano|11
+87037|Lomas de Santander|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2954|Urbano|11
+87037|Sierra Madre|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0074|Urbano|11
+87037|Upycet|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0076|Urbano|11
+87037|Nuevo Amanecer|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0072|Urbano|11
+87037|Tecnológico|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0075|Urbano|11
+87037|Sierra Madre Del Sol|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2953|Urbano|11
+87037|Residencial los Alpes|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3268|Urbano|11
+87037|Fuego Nuevo|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2811|Urbano|11
+87037|Paraíso|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0073|Urbano|11
+87037|Colinas Del Parque|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3162|Urbano|11
+87039|Nuevo Santander|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2934|Urbano|11
+87040|Ascensión Gómez|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0079|Urbano|11
+87040|Del Periodista|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0082|Urbano|11
+87040|Aldama Infonavit|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|0078|Urbano|11
+87040|San Jose|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0083|Urbano|11
+87040|Los Arcos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0081|Urbano|11
+87040|Viviendas Populares|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0084|Urbano|11
+87043|Pietrasanta|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3928|Urbano|11
+87048|Fovissste|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|3230|Urbano|11
+87048|Pedro José Méndez|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0087|Urbano|11
+87048|INFONAVIT Jesús Elías Piña|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0027|Urbano|11
+87049|Oralia Guerra de Villarreal|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0095|Urbano|11
+87049|Conjunto Habitacional Paseo de las Américas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2961|Urbano|11
+87049|Hacienda Del Bosque|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0089|Urbano|11
+87049|Santa Martha|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2911|Urbano|11
+87049|Burócratas Estatales II|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0088|Urbano|11
+87049|Jardines de La Hacienda|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0090|Urbano|11
+87049|Las Misiones|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0092|Urbano|11
+87049|Las Torres|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0093|Urbano|11
+87049|Militar|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|0097|Urbano|11
+87049|Fidel Velázquez Sanchez Infonavit|Conjunto habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||12|041|2908|Urbano|11
+87049|Naciones Unidas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2962|Urbano|11
+87049|Santo Tomás|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0004|Urbano|11
+87049|México|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0094|Urbano|11
+87049|San Luisito|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0096|Urbano|11
+87049|SUTSPET|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2167|Urbano|11
+87049|Lázaro Cárdenas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3776|Urbano|11
+87049|Las Adelitas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0091|Urbano|11
+87049|Los Angeles|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2951|Urbano|11
+87049|Los Almendros|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3208|Urbano|11
+87049|Conjunto Habitacional Los Mezquites|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3282|Urbano|11
+87050|Quinta Laura|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0099|Urbano|11
+87050|San Francisco|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0101|Urbano|11
+87050|Sierra Gorda|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0102|Urbano|11
+87050|Morelos|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0098|Urbano|11
+87050|Residencial las Palmas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0100|Urbano|11
+87058|Conjunto Habitacional Residencial Selectas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3414|Urbano|11
+87058|Del Norte|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0103|Urbano|11
+87058|Jacarandas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2950|Urbano|11
+87059|Hogares Modernos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0106|Urbano|11
+87060|Tamatán|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0109|Urbano|11
+87060|Sector la Huerta|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3373|Urbano|11
+87060|Estudiantil|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0107|Urbano|11
+87060|Tomás Yarrington|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3165|Urbano|11
+87060|Luis Echeverría Álvarez|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0108|Urbano|11
+87060|Rosalinda Guerrero|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3369|Urbano|11
+87070|Zozaya|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0112|Urbano|11
+87070|San Marcos|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0116|Urbano|11
+87070|7 de Noviembre|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0117|Urbano|11
+87070|Del Maestro|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0110|Urbano|11
+87070|Jardines de Tamatán|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3364|Urbano|11
+87070|Rincón de Tamatán|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2945|Urbano|11
+87070|Villas del Prado|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3789|Urbano|11
+87070|Cofrades|Conjunto habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||12|041|0114|Urbano|11
+87070|Puerta Del Sol|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2946|Urbano|11
+87070|La Gloria|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0113|Urbano|11
+87070|Luis Quintero Guzmán|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0115|Urbano|11
+87070|Camino Real A Tula|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0118|Urbano|11
+87070|Américo Villareal Guerra|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|1998|Urbano|11
+87070|Conjunto Habitacional Villas de Guadalupe|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2944|Urbano|11
+87070|Puerta Cofrades|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3166|Urbano|11
+87070|Puerta de Tamatán|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3280|Urbano|11
+87071|Enrique Lara|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2922|Urbano|11
+87076|Simón Torres|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0121|Urbano|11
+87076|La Esperanza|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2066|Urbano|11
+87076|Alberto Carrera Torres|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0120|Urbano|11
+87078|Camino Vecinal la Garra|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0125|Urbano|11
+87078|Álvaro Obregón|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0127|Urbano|11
+87078|Luis Echevarria Alvarez|Unidad habitacional|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||31|041|2943|Urbano|11
+87078|Del Maestro Eta|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3374|Urbano|11
+87078|Vergel de la Sierra|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3855|Urbano|11
+87078|Cuauhtémoc|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2014|Urbano|11
+87078|El Tamatán|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3375|Urbano|11
+87078|Las Flores|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0126|Urbano|11
+87078|Campestre La Sierra|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3217|Urbano|11
+87078|Rincón de la Sierra|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3281|Urbano|11
+87078|Altavista|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0122|Urbano|11
+87078|América de Juárez|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0124|Urbano|11
+87078|Vista Hermosa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2942|Urbano|11
+87080|16 de Septiembre|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0129|Urbano|11
+87080|Trabajadores|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0134|Urbano|11
+87080|José de Escandón|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0132|Urbano|11
+87080|Emiliano Zapata|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2026|Urbano|11
+87080|Ayuntamiento 1ra Etapa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2910|Urbano|11
+87080|Emilio Portes Gil|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0130|Urbano|11
+87080|Buenavista|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0128|Urbano|11
+87080|Independencia|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0131|Urbano|11
+87083|Parque Bicentenario|Equipamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||17|041|3779|Urbano|11
+87084|Residencial Santa Regina|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3909|Urbano|11
+87084|Los Álamos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3908|Urbano|11
+87084|La Rioja|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3910|Urbano|11
+87085|Pepenadores|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0135|Urbano|11
+87085|Ayuntamiento II Etapa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3390|Urbano|11
+87086|Valle Dorado|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0003|Urbano|11
+87086|Ampliación Playas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3415|Urbano|11
+87086|Liberal|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0137|Urbano|11
+87086|Matías Hinojosa Silva|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2938|Urbano|11
+87086|Vicente Guerrero|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0138|Urbano|11
+87086|Pajaritos|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3283|Urbano|11
+87086|Azteca|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2937|Urbano|11
+87087|Sagitario|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2154|Urbano|11
+87087|Nuevas Playas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0139|Urbano|11
+87087|Satélite|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0141|Urbano|11
+87089|Ampliación Nuevo Amanecer|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3393|Urbano|11
+87089|Magdaleno Aguilar|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0146|Urbano|11
+87089|Valle del Magisterio|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3219|Urbano|11
+87089|Barrio de Pajaritos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3287|Urbano|11
+87089|La Corregidora|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0143|Urbano|11
+87089|Reforma|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0149|Urbano|11
+87089|Hacienda del Nogal|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0002|Urbano|11
+87089|Nueva Era|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0148|Urbano|11
+87089|Insurgentes|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2055|Urbano|11
+87089|Guadalupe Victoria|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0144|Urbano|11
+87089|La Paz|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0145|Urbano|11
+87089|Manuel Cavazos Lerma|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2933|Urbano|11
+87089|Niños Héroes|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0147|Urbano|11
+87089|Solidaridad Voluntad y Trabajo|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0150|Urbano|11
+87089|Canaco|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3170|Urbano|11
+87089|Unidad Sindical|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2935|Urbano|11
+87090|Victoria|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0157|Urbano|11
+87090|Miguel Hidalgo|Ejido|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||15|041|0154|Urbano|11
+87090|Benito Juárez|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0152|Urbano|11
+87090|Tamaulipas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0153|Urbano|11
+87090|Obrera|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0155|Urbano|11
+87093|Benito Juárez III|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3392|Urbano|11
+87093|Benito Juárez II|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3391|Urbano|11
+87099|Comercial 2000|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0158|Urbano|11
+87100|Guadalupe Mainero|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0159|Urbano|11
+87102|Las Playas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0161|Urbano|11
+87110|Burócratas Estatales|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0162|Urbano|11
+87120|Hacienda Del Santuario|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0164|Urbano|11
+87120|Pedro Sosa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0165|Urbano|11
+87120|La Esperanza|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3167|Urbano|11
+87120|Fraternidad|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3215|Urbano|11
+87120|Balcones del Valle|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3380|Urbano|11
+87120|El Palmar|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0163|Urbano|11
+87130|Las Palomas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0168|Urbano|11
+87130|Sierra|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0169|Urbano|11
+87130|Loma Bonita|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3259|Urbano|11
+87130|Loma Linda|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3168|Urbano|11
+87130|Los Prados|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3267|Urbano|11
+87130|Auténticas Playas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3389|Urbano|11
+87130|Vista Hermosa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0170|Urbano|11
+87130|Francisco Villa|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2931|Urbano|11
+87130|Paseo de los Olmos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3795|Urbano|11
+87130|Integración Familiar|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3169|Urbano|11
+87130|Viento Huasteco|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3216|Urbano|11
+87130|Horacio Terán|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0167|Urbano|11
+87130|Paseo de los Olivos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3261|Urbano|11
+87130|Las Fuentes|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3285|Urbano|11
+87130|Chapultepec|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0166|Urbano|11
+87133|Promotora de Educación Superior de Tamaulipas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3384|Urbano|11
+87133|El Mezquite|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3292|Urbano|11
+87133|Camino Nuevo|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3386|Urbano|11
+87134|Altavista|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3875|Urbano|11
+87134|Diana Laura|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2020|Urbano|11
+87134|Servidor Público|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2930|Urbano|11
+87134|Primavera|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0174|Urbano|11
+87134|Luisa Montemayor|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3213|Urbano|11
+87134|Riveras del Río|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3291|Urbano|11
+87134|Moderna|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0172|Urbano|11
+87134|Las Huertas del Río|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|0171|Urbano|11
+87134|Linda Vista|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2087|Urbano|11
+87134|Bella Vista|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3266|Urbano|11
+87134|Unidos Avanzamos|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3767|Urbano|11
+87135|Gloria Oriente|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0175|Urbano|11
+87135|Rincón de las Montañas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|2928|Urbano|11
+87136|Huertas San Javier|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3382|Urbano|11
+87136|Pedro José Méndez II|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3383|Urbano|11
+87136|Noria de los Ángeles|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3766|Urbano|11
+87137|Parque Industrial Nuevo Santander|Zona industrial|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||37|041|3387|Urbano|11
+87137|Loma Dorada|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3388|Urbano|11
+87137|Marte R. Gómez|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3894|Urbano|11
+87138|Parque Científico y Tecnológico de Tamaulipas|Equipamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||17|041|3778|Urbano|11
+87140|Simon Bolívar|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2927|Urbano|11
+87140|Evelin|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3210|Urbano|11
+87140|Las Palmas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0177|Urbano|11
+87140|Los Pinos|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0178|Urbano|11
+87149|Centro Universitario|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0179|Urbano|11
+87150|San Marcos|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0182|Urbano|11
+87150|Veteranos de la Revolución|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0184|Urbano|11
+87150|Altas Cumbres|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0180|Urbano|11
+87150|Francisco I Madero|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0181|Urbano|11
+87156|San Marcos 2|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0185|Urbano|11
+87160|Bertha del Avellano|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0176|Urbano|11
+87160|Unidad Modelo|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0188|Urbano|11
+87160|Gutiérrez de Lara|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3378|Urbano|11
+87160|Gutiérrez de Lara|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0186|Urbano|11
+87160|Casas Blancas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0187|Urbano|11
+87163|Barrio del Bosque|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3258|Urbano|11
+87170|Manuel A. Ravize|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0190|Urbano|11
+87170|Amalia G de Castillo Ledon|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0189|Urbano|11
+87173|Poder Popular|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|3921|Urbano|11
+87180|SAHOP|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0191|Urbano|11
+87180|Esfuerzo Popular|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2031|Urbano|11
+87180|Nuevo Tamaulipas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|2921|Urbano|11
+87180|Constituyentes|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3211|Urbano|11
+87180|Ignacio Allende|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0193|Urbano|11
+87180|Loma Alta|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0195|Urbano|11
+87180|12 de Septiembre|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0192|Urbano|11
+87180|Pedro Sosa (Ampliación)|Ampliación|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||38|041|0196|Urbano|11
+87180|Las Brisas|Colonia|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||09|041|0194|Urbano|11
+87183|Misión del Palmar|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3876|Urbano|11
+87183|Residencial la Quinta|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3286|Urbano|11
+87183|Rinconadas las Haciendas|Fraccionamiento|Victoria|Tamaulipas|Ciudad Victoria|87001|28|87001||21|041|3381|Urbano|11
+87260|Balconcitos|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3206|Urbano|
+87260|La Libertad (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0254|Rural|
+87260|Vamos Tamaulipas|Colonia|Victoria|Tamaulipas||87001|28|87001||09|041|3058|Rural|
+87260|Ejido la Misión (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0255|Rural|
+87260|Caballeros (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0253|Rural|
+87260|Alto de Estación Caballeros|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0252|Rural|
+87261|Estación Carbonero|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0256|Rural|
+87262|La Peñita (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0257|Rural|
+87262|Juan Rincón (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3053|Rural|
+87262|Otilio Montaño (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0258|Rural|
+87262|Los Anacuas (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3045|Rural|
+87262|El Rocio (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3054|Rural|
+87263|Nogales (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0261|Rural|
+87263|Emilio Portes Gil (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0259|Rural|
+87263|La Boca (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0260|Rural|
+87265|Mariposas y Mahuiras (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3047|Rural|
+87265|Rancho Nuevo (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0262|Rural|
+87266|Alianza de Caballeros (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0263|Rural|
+87267|El Refugio (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0264|Rural|
+87270|2 de Octubre (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3044|Rural|
+87270|Loma Alta (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0265|Rural|
+87270|Lomas de Guadalupe|Fraccionamiento|Victoria|Tamaulipas||87001|28|87001||21|041|3057|Rural|
+87273|Manuel Avila Camacho (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3051|Rural|
+87273|San Juan y El Ranchito (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0266|Rural|
+87273|Santa Clara (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3052|Rural|
+87273|El Olmo (Rancho Nuevo del Castillo)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3059|Rural|
+87273|Santa Rosa|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3856|Rural|
+87274|Santa Ana (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3048|Rural|
+87274|Santa Librada (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0267|Rural|
+87277|El Olivo (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0269|Rural|
+87277|21 de Mayo (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3046|Rural|
+87277|Sierra Bonita|Fraccionamiento|Victoria|Tamaulipas||87001|28|87001||21|041|3788|Rural|
+87277|18 de Marzo (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3050|Rural|
+87278|La Presa (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0270|Rural|
+87279|Aquiles Serdán (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|0271|Rural|
+87279|Tierra Nueva (Ejido)|Ejido|Victoria|Tamaulipas||87001|28|87001||15|041|3049|Rural|

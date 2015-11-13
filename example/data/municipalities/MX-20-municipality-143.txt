@@ -1,0 +1,8 @@
+70175|San Francisco Ixhuatán Centro|Colonia|San Francisco Ixhuatán|Oaxaca|San Francisco Ixhuatán|70176|20|70176||09|143|1999|Rural|53
+70175|Lázaro Cárdenas|Colonia|San Francisco Ixhuatán|Oaxaca|San Francisco Ixhuatán|70176|20|70176||09|143|3505|Rural|53
+70177|Río Viejo|Ranchería|San Francisco Ixhuatán|Oaxaca||70176|20|70176||29|143|4850|Rural|
+70177|Chahuites las Conchas|Congregación|San Francisco Ixhuatán|Oaxaca||70176|20|70176||11|143|2000|Rural|
+70177|Chahuites Amatitan|Ranchería|San Francisco Ixhuatán|Oaxaca||70176|20|70176||29|143|2001|Rural|
+70178|Cerritos|Ranchería|San Francisco Ixhuatán|Oaxaca||70176|20|70176||29|143|2002|Rural|
+70178|Las Palmas|Ranchería|San Francisco Ixhuatán|Oaxaca||70176|20|70176||29|143|4890|Rural|
+70178|Cachimbo|Ranchería|San Francisco Ixhuatán|Oaxaca||70176|20|70176||29|143|4509|Rural|

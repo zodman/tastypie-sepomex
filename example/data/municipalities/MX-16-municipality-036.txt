@@ -1,0 +1,17 @@
+58820|La Nopalera|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|0004|Urbano|
+58820|Agua Caliente [Antigüo Balneario]|Equipamiento|Huandacareo|Michoacán de Ocampo||58821|16|58821||17|036|0008|Urbano|
+58820|Bella Vista|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|5563|Urbano|
+58820|Cuauhtémoc|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|0002|Urbano|
+58820|Salvador Urrutia|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|0006|Urbano|
+58820|Vistabella|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|0007|Urbano|
+58820|Huandacareo|Pueblo|Huandacareo|Michoacán de Ocampo||58821|16|58821||28|036|0801|Urbano|
+58820|La Noria|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|0005|Urbano|
+58820|Chapultepec|Colonia|Huandacareo|Michoacán de Ocampo||58821|16|58821||09|036|0001|Urbano|
+58820|El Verde|Fraccionamiento|Huandacareo|Michoacán de Ocampo||58821|16|58821||21|036|0003|Urbano|
+58825|San Cristóbal|Ranchería|Huandacareo|Michoacán de Ocampo||58821|16|58821||29|036|0804|Rural|
+58827|La Granja|Rancho|Huandacareo|Michoacán de Ocampo||58821|16|58821||48|036|0009|Rural|
+58827|La Estancia|Ranchería|Huandacareo|Michoacán de Ocampo||58821|16|58821||29|036|0805|Rural|
+58830|Capacho|Pueblo|Huandacareo|Michoacán de Ocampo||58821|16|58821||28|036|0806|Rural|
+58830|San José Cuaro|Ranchería|Huandacareo|Michoacán de Ocampo||58821|16|58821||29|036|0807|Rural|
+58833|Tupátaro|Ranchería|Huandacareo|Michoacán de Ocampo||58821|16|58821||29|036|0809|Rural|
+58833|Tupatarillo|Ranchería|Huandacareo|Michoacán de Ocampo||58821|16|58821||29|036|0808|Rural|

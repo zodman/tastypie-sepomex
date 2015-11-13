@@ -1,0 +1,126 @@
+51500|Amatepec|Pueblo|Amatepec|México|Amatepec|51501|15|51501||28|008|1241|Rural|24
+51510|Rincón de la Cofradía|Pueblo|Amatepec|México||51501|15|51501||28|008|1250|Rural|
+51510|El Aguacate (El Aguacate San Martín)|Ranchería|Amatepec|México||51501|15|51501||29|008|7637|Rural|
+51510|San Martín|Pueblo|Amatepec|México||51501|15|51501||28|008|1251|Rural|
+51513|Cerro de Tlacotepec (Tlacotepec)|Pueblo|Amatepec|México||51501|15|51501||28|008|1256|Rural|
+51513|Coyol de San Simón|Ranchería|Amatepec|México||51501|15|51501||29|008|7659|Rural|
+51513|Corral de Piedra|Pueblo|Amatepec|México||51501|15|51501||28|008|1254|Rural|
+51513|Encinal Verde|Ranchería|Amatepec|México||51501|15|51501||29|008|7660|Rural|
+51513|Salitre de López|Ranchería|Amatepec|México||51501|15|51501||29|008|7636|Rural|
+51513|Rincón de San Simón|Ranchería|Amatepec|México||51501|15|51501||29|008|0015|Rural|
+51513|Chapuluapan|Ranchería|Amatepec|México||51501|15|51501||29|008|0004|Rural|
+51514|El Malpaso|Pueblo|Amatepec|México||51501|15|51501||28|008|1266|Rural|
+51514|Los Guajes|Pueblo|Amatepec|México||51501|15|51501||28|008|1249|Rural|
+51514|El Mango Piedras Anchas|Ranchería|Amatepec|México||51501|15|51501||29|008|7658|Rural|
+51514|Coahuilotes (Los Coahuilotes)|Pueblo|Amatepec|México||51501|15|51501||28|008|1265|Rural|
+51514|Güijas Blancas|Ranchería|Amatepec|México||51501|15|51501||29|008|7656|Rural|
+51514|San Miguel (San Miguel Zinacausto)|Pueblo|Amatepec|México||51501|15|51501||28|008|1261|Rural|
+51514|Cerro de Santiago|Ranchería|Amatepec|México||51501|15|51501||29|008|7640|Rural|
+51515|Joya de la Venta|Ranchería|Amatepec|México||51501|15|51501||29|008|7657|Rural|
+51515|El Puerto|Ranchería|Amatepec|México||51501|15|51501||29|008|7655|Rural|
+51515|El Veladero|Pueblo|Amatepec|México||51501|15|51501||28|008|1248|Rural|
+51515|La Mora|Ranchería|Amatepec|México||51501|15|51501||29|008|7641|Rural|
+51516|Puente Viejo|Ranchería|Amatepec|México||51501|15|51501||29|008|6635|Rural|
+51516|El Monteal (Barranca Papaloapan)|Pueblo|Amatepec|México||51501|15|51501||28|008|1252|Rural|
+51516|El Panteón de San Felipe de Jesús|Ranchería|Amatepec|México||51501|15|51501||29|008|0008|Rural|
+51516|La Carrera|Ranchería|Amatepec|México||51501|15|51501||29|008|0010|Rural|
+51516|Los Encinos|Ranchería|Amatepec|México||51501|15|51501||29|008|0011|Rural|
+51516|San Felipe de Jesús|Pueblo|Amatepec|México||51501|15|51501||28|008|1255|Rural|
+51517|Tepehuajes Uno (Tepehuajes de Arriba)|Pueblo|Amatepec|México||51501|15|51501||28|008|1257|Rural|
+51517|La Parota (La Parota Tepehuajes)|Ranchería|Amatepec|México||51501|15|51501||29|008|7654|Rural|
+51517|El Llano|Ranchería|Amatepec|México||51501|15|51501||29|008|7652|Rural|
+51517|Los Timbres|Ranchería|Amatepec|México||51501|15|51501||29|008|0012|Rural|
+51517|Las Joyas|Pueblo|Amatepec|México||51501|15|51501||28|008|1253|Rural|
+51517|San Simón (San Simón Zozocoltepec)|Pueblo|Amatepec|México||51501|15|51501||28|008|1245|Rural|
+51517|Tepehuajes (Tepehuajes de Abajo)|Ranchería|Amatepec|México||51501|15|51501||29|008|7653|Rural|
+51523|San Marcos|Ranchería|Amatepec|México||51501|15|51501||29|008|7631|Rural|
+51523|Cerro de las Ánimas-El Manguito|Ranchería|Amatepec|México||51501|15|51501||29|008|7611|Rural|
+51523|Cerro de las Ánimas (El Cerro de las Ánimas)|Pueblo|Amatepec|México||51501|15|51501||28|008|1283|Rural|
+51523|El Sitio|Pueblo|Amatepec|México||51501|15|51501||28|008|1284|Rural|
+51523|Pueblo Nuevo (San Lucas Pueblo Nuevo)|Pueblo|Amatepec|México||51501|15|51501||28|008|1285|Rural|
+51524|Tepehuastitlán|Ranchería|Amatepec|México||51501|15|51501||29|008|7632|Rural|
+51525|Dolores (Hacienda Dolores)|Pueblo|Amatepec|México||51501|15|51501||28|008|1259|Rural|
+51525|Palmarillos|Ranchería|Amatepec|México||51501|15|51501||29|008|0013|Rural|
+51525|El Rancho|Pueblo|Amatepec|México||51501|15|51501||28|008|1262|Rural|
+51525|Aguacatitlán (La Carreta)|Pueblo|Amatepec|México||51501|15|51501||28|008|1258|Rural|
+51525|Charco Hondo (El Tlacuache)|Ranchería|Amatepec|México||51501|15|51501||29|008|7634|Rural|
+51525|Salitre Palmarillos|Pueblo|Amatepec|México||51501|15|51501||28|008|1275|Rural|
+51526|Ayuquila|Pueblo|Amatepec|México||51501|15|51501||28|008|1274|Rural|
+51526|La Chupa Rosa|Ranchería|Amatepec|México||51501|15|51501||29|008|7624|Rural|
+51526|Los Órganos|Ranchería|Amatepec|México||51501|15|51501||29|008|7627|Rural|
+51526|Barranca de Esmeraldas ( La Güila )|Ranchería|Amatepec|México||51501|15|51501||29|008|9550|Rural|
+51526|San Francisco de los Pinzanes|Pueblo|Amatepec|México||51501|15|51501||28|008|1277|Rural|
+51526|Rincón de Esmeraldas|Pueblo|Amatepec|México||51501|15|51501||28|008|1271|Rural|
+51526|Las Latas (Ayuquila)|Pueblo|Amatepec|México||51501|15|51501||28|008|1276|Rural|
+51526|Los Sabinos|Ranchería|Amatepec|México||51501|15|51501||29|008|7626|Rural|
+51526|El Fresno|Pueblo|Amatepec|México||51501|15|51501||28|008|1263|Rural|
+51526|Las Pailas|Ranchería|Amatepec|México||51501|15|51501||29|008|7628|Rural|
+51526|La Rayuela|Ranchería|Amatepec|México||51501|15|51501||29|008|7629|Rural|
+51527|Los Timbres|Pueblo|Amatepec|México||51501|15|51501||28|008|1244|Rural|
+51527|La Cofradía|Pueblo|Amatepec|México||51501|15|51501||28|008|1247|Rural|
+51527|Santiago|Pueblo|Amatepec|México||51501|15|51501||28|008|1264|Rural|
+51527|Cuadrilla Nueva|Ranchería|Amatepec|México||51501|15|51501||29|008|7643|Rural|
+51527|Cuadrilla del Naranjo (Rincón del Naranjo)|Ranchería|Amatepec|México||51501|15|51501||29|008|0006|Rural|
+51527|El Zapote|Ranchería|Amatepec|México||51501|15|51501||29|008|0009|Rural|
+51527|Puente del Rodeo|Ranchería|Amatepec|México||51501|15|51501||29|008|0014|Rural|
+51527|Escuela Vieja|Ranchería|Amatepec|México||51501|15|51501||29|008|7639|Rural|
+51527|Barranca del Mamey|Ranchería|Amatepec|México||51501|15|51501||29|008|0003|Rural|
+51527|El Ortigo|Ranchería|Amatepec|México||51501|15|51501||29|008|7635|Rural|
+51527|Crucero Cerro del Campo|Ranchería|Amatepec|México||51501|15|51501||29|008|0005|Rural|
+51527|Cuadrilla Nueva (La Presa)|Ranchería|Amatepec|México||51501|15|51501||29|008|0007|Rural|
+51527|Peña del Cuervo|Ranchería|Amatepec|México||51501|15|51501||29|008|7638|Rural|
+51527|Cerro del Campo|Pueblo|Amatepec|México||51501|15|51501||28|008|1260|Rural|
+51527|Barrio de la Uva|Ranchería|Amatepec|México||51501|15|51501||29|008|7644|Rural|
+51527|El Mamey|Pueblo|Amatepec|México||51501|15|51501||28|008|1242|Rural|
+51527|Acatempan|Ranchería|Amatepec|México||51501|15|51501||29|008|7642|Rural|
+51530|El Pantalón|Ranchería|Amatepec|México||51501|15|51501||29|008|7617|Rural|
+51530|Aviación (Campo de Aviación)|Colonia|Amatepec|México||51501|15|51501||09|008|5216|Rural|
+51530|El Conejo (Conejo Viejo)|Colonia|Amatepec|México||51501|15|51501||09|008|5215|Rural|
+51530|Palmar Chico|Pueblo|Amatepec|México||51501|15|51501||28|008|1267|Rural|
+51530|Del Carmen|Colonia|Amatepec|México||51501|15|51501||09|008|5213|Rural|
+51530|La Chaqueta|Ranchería|Amatepec|México||51501|15|51501||29|008|7616|Rural|
+51530|Salitre Santa Bárbara (Santa Bárbara)|Pueblo|Amatepec|México||51501|15|51501||28|008|1268|Rural|
+51533|Cristo Rey (Guacamayas)|Ranchería|Amatepec|México||51501|15|51501||29|008|7623|Rural|
+51533|El Coyol|Ranchería|Amatepec|México||51501|15|51501||29|008|7621|Rural|
+51533|Los Ajoques|Ranchería|Amatepec|México||51501|15|51501||29|008|0002|Rural|
+51533|El Tlapanco|Pueblo|Amatepec|México||51501|15|51501||28|008|1286|Rural|
+51533|Meyuca|Ranchería|Amatepec|México||51501|15|51501||29|008|7619|Rural|
+51533|San Juan Tizapán (La Haciendita)|Ranchería|Amatepec|México||51501|15|51501||29|008|7622|Rural|
+51533|Cerro del Coyol|Ranchería|Amatepec|México||51501|15|51501||29|008|7620|Rural|
+51534|El Cirian|Ranchería|Amatepec|México||51501|15|51501||29|008|7609|Rural|
+51534|Las Ceibas|Ranchería|Amatepec|México||51501|15|51501||29|008|7606|Rural|
+51534|Pinzanes Matuz|Ranchería|Amatepec|México||51501|15|51501||29|008|7608|Rural|
+51534|Matuz Puerto del Rodeo|Pueblo|Amatepec|México||51501|15|51501||28|008|1273|Rural|
+51534|Potrerillos (Potrerillos Matuz)|Ranchería|Amatepec|México||51501|15|51501||29|008|7607|Rural|
+51534|La Palma|Colonia|Amatepec|México||51501|15|51501||09|008|5214|Rural|
+51535|Guayabillos|Ranchería|Amatepec|México||51501|15|51501||29|008|9002|Rural|
+51535|Cuadrilla de López|Pueblo|Amatepec|México||51501|15|51501||28|008|1272|Rural|
+51535|El Tamarindo|Colonia|Amatepec|México||51501|15|51501||09|008|5210|Rural|
+51535|El Convento|Ranchería|Amatepec|México||51501|15|51501||29|008|7625|Rural|
+51536|Buenavista|Ranchería|Amatepec|México||51501|15|51501||29|008|7618|Rural|
+51536|Corral Viejo|Ranchería|Amatepec|México||51501|15|51501||29|008|7603|Rural|
+51536|Mango Matuz|Ranchería|Amatepec|México||51501|15|51501||29|008|7605|Rural|
+51536|San Antonio Matuz|Pueblo|Amatepec|México||51501|15|51501||28|008|1278|Rural|
+51536|Santa Bárbara|Ranchería|Amatepec|México||51501|15|51501||29|008|7604|Rural|
+51537|Cincuenta Arrobas|Pueblo|Amatepec|México||51501|15|51501||28|008|1280|Rural|
+51537|El Arrayán|Ranchería|Amatepec|México||51501|15|51501||29|008|7612|Rural|
+51537|Barranca de Gallegos|Ranchería|Amatepec|México||51501|15|51501||29|008|9549|Rural|
+51537|El Zapote Cincuenta Arrobas (El Zapote)|Ranchería|Amatepec|México||51501|15|51501||29|008|7614|Rural|
+51537|San José (San José del Palmar)|Ranchería|Amatepec|México||51501|15|51501||29|008|7615|Rural|
+51537|Huixtitla|Pueblo|Amatepec|México||51501|15|51501||28|008|1270|Rural|
+51537|La Cacanicua|Ranchería|Amatepec|México||51501|15|51501||29|008|7610|Rural|
+51537|Amadores (Los Amador)|Pueblo|Amatepec|México||51501|15|51501||28|008|1279|Rural|
+51537|Quimichatenco (Barranca de Quimichatenco)|Pueblo|Amatepec|México||51501|15|51501||28|008|1282|Rural|
+51537|El Zapote (El Zapote López)|Ranchería|Amatepec|México||51501|15|51501||29|008|7613|Rural|
+51540|Platanal|Ranchería|Amatepec|México||51501|15|51501||29|008|7645|Rural|
+51540|Tierra Azul|Ranchería|Amatepec|México||51501|15|51501||29|008|0016|Rural|
+51540|Puerto de la Uva|Ranchería|Amatepec|México||51501|15|51501||29|008|8188|Rural|
+51540|El Pino|Ranchería|Amatepec|México||51501|15|51501||29|008|0001|Rural|
+51540|Los Colorines|Ranchería|Amatepec|México||51501|15|51501||29|008|7646|Rural|
+51540|El Paraje|Ranchería|Amatepec|México||51501|15|51501||29|008|8264|Rural|
+51543|El Consuelo|Ranchería|Amatepec|México||51501|15|51501||29|008|7648|Rural|
+51543|El Rodeo|Ranchería|Amatepec|México||51501|15|51501||29|008|7650|Rural|
+51543|Tlalchichilpan|Ranchería|Amatepec|México||51501|15|51501||29|008|7649|Rural|
+51543|La Goleta|Pueblo|Amatepec|México||51501|15|51501||28|008|1243|Rural|
+51543|Los Espinos|Ranchería|Amatepec|México||51501|15|51501||29|008|7647|Rural|
+51544|Zacatones|Ranchería|Amatepec|México||51501|15|51501||29|008|7651|Rural|

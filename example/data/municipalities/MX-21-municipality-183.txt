@@ -1,0 +1,41 @@
+73220|Hidalgo|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|0874|Rural|
+73220|Tlaltepango|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0875|Rural|
+73220|Chicahuaxtla|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0873|Rural|
+73220|Xochinanacatlán|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0878|Rural|
+73220|Tlaola|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0876|Rural|
+73220|Xaltepuxtla|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0877|Rural|
+73222|Caxapotla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7553|Rural|
+73222|Amacugtla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7543|Rural|
+73223|Nixcugtla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7559|Rural|
+73224|Ayahualco|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|7562|Rural|
+73224|Tlaticoxca|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7557|Rural|
+73225|Coligque|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7551|Rural|
+73225|Coxolitla|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|7550|Rural|
+73226|Tlacocugtla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7546|Rural|
+73226|Santa Cruz|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7556|Rural|
+73226|Amanalco|Colonia|Tlaola|Puebla||73201|21|73201||09|183|6993|Urbano|
+73226|Nuevo Hidalgo|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|7548|Rural|
+73226|Tlapitzalapa|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|0879|Rural|
+73226|Tlapehuala|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7563|Rural|
+73226|Cocolongo|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7552|Urbano|
+73227|Cugtzonticpa|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0880|Rural|
+73228|Yetla|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0881|Rural|
+73228|Tlaltentiloya|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|6545|Rural|
+73230|Tlatlapanala|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0882|Rural|
+73232|Nexapa Ahila|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7541|Rural|
+73233|Atitlalaya|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7542|Rural|
+73233|La Gallera|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7549|Rural|
+73233|Capultitla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7554|Rural|
+73233|Atenco|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7561|Rural|
+73233|Ocoxocotla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7564|Rural|
+73233|Salazar Herrera|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7558|Rural|
+73233|La Herradura|Colonia|Tlaola|Puebla||73201|21|73201||09|183|7560|Rural|
+73234|Cocolixtla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7545|Rural|
+73234|San José|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7547|Rural|
+73234|Atequexquitla|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7555|Rural|
+73234|Huixtla|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0883|Rural|
+73235|Cuamila|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0884|Rural|
+73235|Plan de Cuamila|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|7566|Rural|
+73236|San Isidro Acatlán|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7565|Rural|
+73236|Tlatzohuiloya|Ranchería|Tlaola|Puebla||73201|21|73201||29|183|7544|Rural|
+73237|Tzitzicazapa|Pueblo|Tlaola|Puebla||73201|21|73201||28|183|0885|Rural|

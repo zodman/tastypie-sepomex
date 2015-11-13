@@ -1,0 +1,51 @@
+97970|Padre Eterno|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0993|Rural|
+97970|Sam Jacinto|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0997|Rural|
+97970|Ermita|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0999|Rural|
+97970|Esperanza|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0599|Rural|
+97970|Francisco I Madero|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0607|Rural|
+97970|Cifres|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0579|Rural|
+97970|Tekax de Álvaro Obregón|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0546|Rural|
+97970|Chunchucun|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0995|Rural|
+97970|Chobenche|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0996|Rural|
+97970|Modulo Social 1|Fraccionamiento|Tekax|Yucatán||97972|31|97972||21|079|1766|Rural|
+97970|Los Cedros|Fraccionamiento|Tekax|Yucatán||97972|31|97972||21|079|0001|Urbano|
+97970|Benito Juárez|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0565|Rural|
+97970|Yocchenkax|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0994|Rural|
+97970|San Ignacio|Colonia|Tekax|Yucatán||97972|31|97972||09|079|0998|Rural|
+97970|Fovissste|Unidad habitacional|Tekax|Yucatán||97972|31|97972||31|079|1000|Rural|
+97973|Xaya|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0548|Rural|
+97973|Tixcuytun|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1433|Rural|
+97973|Kinil|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0545|Rural|
+97973|Penkuyut|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0549|Rural|
+97974|U.A. Cepeda Peraza|Ejido|Tekax|Yucatán||97972|31|97972||15|079|1436|Rural|
+97974|Ticum|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0547|Rural|
+97975|San Marcos|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1439|Rural|
+97975|Kantemo|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1438|Rural|
+97976|Nohcacab|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1437|Rural|
+97977|Kancab|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0544|Rural|
+97977|Canek|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1434|Rural|
+97977|Chacmultun|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1435|Rural|
+97980|San Pedro Zula|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1443|Rural|
+97980|San Agustín (Salvador Alvarado)|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1440|Rural|
+97980|San Martín Hili|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1446|Rural|
+97980|Dzinup|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1449|Rural|
+97980|Benito Juárez|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0551|Rural|
+97983|Popola Nuevo|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1444|Rural|
+97983|San Isidro Yaxche|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1447|Rural|
+97983|Santa Cruz Cutza|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1451|Rural|
+97983|Chan Dzinup|Ranchería|Tekax|Yucatán||97972|31|97972||29|079|0002|Rural|
+97983|Pocoboh|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1445|Rural|
+97983|Mac-Yan (San Isidro Mac-Yan)|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1452|Rural|
+97983|San Salvador|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1450|Rural|
+97984|San Pedro|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1442|Rural|
+97984|San Gaspar|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1441|Rural|
+97984|San Diego Buenavista|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1448|Rural|
+97984|Becanchen|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|0543|Rural|
+97985|Nohalal|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1456|Rural|
+97986|Xquiritz|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1459|Rural|
+97987|San Felipe|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1453|Rural|
+97987|San Juan Tekax|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1458|Rural|
+97987|San Rufino|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1455|Rural|
+97987|Mesatunich|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1454|Rural|
+97987|San Pedro Xtokil|Pueblo|Tekax|Yucatán||97972|31|97972||28|079|1457|Rural|
+97989|Sudzal Chico|Ranchería|Tekax|Yucatán||97972|31|97972||29|079|0003|Rural|

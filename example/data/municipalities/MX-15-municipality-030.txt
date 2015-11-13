@@ -1,0 +1,10 @@
+56270|San Miguel|Barrio|Chiconcuac|México|Chiconcuac|56271|15|56271||02|030|4197|Urbano|36
+56270|Emiliano Zapata|Colonia|Chiconcuac|México|Chiconcuac|56271|15|56271||09|030|5363|Urbano|36
+56270|Santa María|Colonia|Chiconcuac|México|Chiconcuac|56271|15|56271||09|030|5379|Rural|36
+56270|San Pedro|Barrio|Chiconcuac|México|Chiconcuac|56271|15|56271||02|030|5364|Semiurbano|36
+56270|San Diego|Barrio|Chiconcuac|México|Chiconcuac|56271|15|56271||02|030|5327|Urbano|36
+56272|San Pablito Calmimilolco|Pueblo|Chiconcuac|México||56271|15|56271||28|030|4198|Urbano|
+56273|El Araujo|Colonia|Chiconcuac|México||56271|15|56271||09|030|8995|Urbano|
+56273|Las Joyas|Colonia|Chiconcuac|México||56271|15|56271||09|030|7591|Rural|
+56274|El Mamut|Colonia|Chiconcuac|México||56271|15|56271||09|030|7592|Rural|
+56280|San Cristóbal|Ejido|Chiconcuac|México||56271|15|56271||15|030|8996|Rural|

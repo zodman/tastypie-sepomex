@@ -1,0 +1,55 @@
+63440|El Arrayán|Congregación|Tecuala|Nayarit||63451|18|63451||11|016|0281|Rural|
+63440|Guamuchilito|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0014|Rural|
+63440|Las Anonas|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0309|Rural|
+63443|Antonio R. Laureles|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0280|Rural|
+63444|Los Morillos|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0303|Rural|
+63445|El Limón|Pueblo|Tecuala|Nayarit||63451|18|63451||28|016|0295|Rural|
+63445|Los Esteros|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0300|Rural|
+63446|Milpas Viejas|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0296|Rural|
+63446|El Pato|Colonia|Tecuala|Nayarit||63451|18|63451||09|016|0001|Urbano|
+63446|El Filo|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0283|Rural|
+63446|El Pozole|Colonia|Tecuala|Nayarit||63451|18|63451||09|016|0002|Urbano|
+63446|San Felipe Aztatán|Pueblo|Tecuala|Nayarit||63451|18|63451||28|016|0299|Urbano|
+63447|La Presa|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0297|Rural|
+63449|La Magdalena|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0015|Rural|
+63449|Las Lumbres|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0308|Rural|
+63449|Palo Blanco|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0311|Rural|
+63449|Cuastecomate (Los Tecomates)|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0310|Rural|
+63450|Mancillas|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0011|Urbano|05
+63450|Tecuala Centro|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0787|Urbano|05
+63453|Del Río|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0004|Urbano|05
+63453|Las Brisas|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0999|Urbano|05
+63453|La Loma|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0008|Urbano|05
+63453|El Tacote|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0005|Urbano|05
+63453|Libertad|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|1030|Urbano|05
+63454|Pueblo Nuevo|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|1029|Urbano|05
+63454|Juan Escutia|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0788|Urbano|05
+63455|Luis Donaldo Colosio|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0010|Urbano|05
+63455|El Tinaco|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0006|Urbano|05
+63455|Los Camichines|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0009|Urbano|05
+63455|Revolución|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|1033|Urbano|05
+63455|Amado Nervo|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|1031|Urbano|05
+63455|CNOP PRI|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|1032|Urbano|05
+63455|Vicente Guerrero|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0790|Urbano|05
+63455|La Bomba|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0007|Urbano|05
+63455|Prolongación Galeana|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|1028|Urbano|05
+63455|Chino|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0003|Urbano|05
+63455|Patria Nueva|Colonia|Tecuala|Nayarit|Tecuala|63451|18|63451||09|016|0789|Urbano|05
+63456|Camalotita|Pueblo|Tecuala|Nayarit||63451|18|63451||28|016|0291|Rural|
+63457|Agua Verde (El Salto)|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0279|Rural|
+63458|Huajuquilla|Congregación|Tecuala|Nayarit||63451|18|63451||11|016|0298|Rural|
+63458|Pajaritos|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0286|Rural|
+63458|Los Remos|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0293|Rural|
+63459|Atotonilco|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0282|Rural|
+63460|Quimichis|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0302|Urbano|
+63463|Río Viejo|Pueblo|Tecuala|Nayarit||63451|18|63451||28|016|0288|Rural|
+63463|Chocota|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0306|Rural|
+63463|Paso Hondo|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0287|Rural|
+63464|El Tecomate|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0013|Rural|
+63464|El Roblito|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0284|Rural|
+63464|Arenitas|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0012|Rural|
+63466|La Puntilla|Ranchería|Tecuala|Nayarit||63451|18|63451||29|016|0016|Rural|
+63466|Novillero|Pueblo|Tecuala|Nayarit||63451|18|63451||28|016|0285|Rural|
+63466|Playa Novillero|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0305|Rural|
+63466|San Cayetano|Ejido|Tecuala|Nayarit||63451|18|63451||15|016|0289|Rural|
+63470|Tierra Generosa|Ejido|Tecuala|Nayarit||63431|18|63431||15|016|0307|Rural|

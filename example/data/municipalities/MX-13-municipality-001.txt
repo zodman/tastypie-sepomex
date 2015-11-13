@@ -1,0 +1,52 @@
+43540|Almoloya|Pueblo|Acatlán|Hidalgo||43601|13|43601||28|001|1716|Rural|
+43540|Acatlán Centro|Colonia|Acatlán|Hidalgo||43601|13|43601||09|001|1715|Urbano|
+43542|Metepec Primero|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1717|Rural|
+43542|Metepec Segundo|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4125|Rural|
+43543|Vicente Guerrero|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1719|Rural|
+43543|Las Palmas|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4120|Rural|
+43543|Los Migueles|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4123|Rural|
+43543|Guadalupe|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4128|Rural|
+43543|Zupitlán (Los Pocitos)|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4133|Rural|
+43543|Colonia 28 de Mayo (Santa Rosa)|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1718|Rural|
+43544|Totoapita la Herradura|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4132|Rural|
+43544|El Transformador|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4134|Rural|
+43544|Encinillos|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1720|Rural|
+43544|Totoapita Canutillo|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4131|Rural|
+43545|El Veladero|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1721|Rural|
+43545|Barrio el Yolo|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1722|Rural|
+43545|Majadillas (La Venta)|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4124|Rural|
+43545|Ampliación Hueyotlipa|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4100|Rural|
+43545|La Peñuela|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1724|Rural|
+43545|El Fortín|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4109|Rural|
+43545|San Antonio la Palma|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4129|Rural|
+43545|Hueyotlipa|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1723|Rural|
+43545|La Unión|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4118|Rural|
+43546|El Sabino (La Barranca)|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4113|Rural|
+43546|El Chilar (La Barranca)|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1725|Rural|
+43546|San Bartolo|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1726|Rural|
+43546|La Chamusquina|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4115|Rural|
+43546|La Palma|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4117|Rural|
+43546|Loma Larga|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1728|Rural|
+43546|San Pablo|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4130|Rural|
+43546|Buena Vista|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4101|Rural|
+43546|La Calera (Los Baños)|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4114|Rural|
+43546|La Luz|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4116|Rural|
+43546|Piedra Larga|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4126|Rural|
+43547|El Milagro San Simón|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4111|Rural|
+43547|El Rosario|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4112|Rural|
+43547|Alcholoya (El Salto de Alcholoya)|Pueblo|Acatlán|Hidalgo||43601|13|43601||28|001|1727|Rural|
+43547|El Huizache y la Paloma|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4110|Rural|
+43550|San Dionisio|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1729|Rural|
+43553|Chauténco|Colonia|Acatlán|Hidalgo||43601|13|43601||09|001|4105|Rural|
+43553|Benito Juárez|Colonia|Acatlán|Hidalgo||43601|13|43601||09|001|4104|Rural|
+43553|Alicia|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4127|Rural|
+43553|Agustín Olvera|Colonia|Acatlán|Hidalgo||43601|13|43601||09|001|4103|Rural|
+43554|Loma Chica|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4121|Rural|
+43554|Lagunicatlán|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4119|Rural|
+43558|Los Arcos|Poblado comunal|Acatlán|Hidalgo||43601|13|43601||27|001|4122|Rural|
+43558|Totoapa el Grande|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1730|Rural|
+43558|Echeverría|Colonia|Acatlán|Hidalgo||43601|13|43601||09|001|4106|Rural|
+43558|Cerro de Aguatepec|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|4102|Rural|
+43558|Alcholoya (Colonia del Cerro de Aguatepec)|Ejido|Acatlán|Hidalgo||43601|13|43601||15|001|4108|Rural|
+43558|Ernesto Zedillo|Colonia|Acatlán|Hidalgo||43601|13|43601||09|001|4107|Rural|
+43559|Mixquiapan|Ranchería|Acatlán|Hidalgo||43601|13|43601||29|001|1731|Rural|

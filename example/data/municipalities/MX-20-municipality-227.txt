@@ -1,0 +1,33 @@
+68263|Juquilita|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5816|Urbano|
+68263|La Era|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5823|Urbano|
+68263|San Isidro (Colonia San Isidro)|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5836|Urbano|
+68263|La Gloria|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5820|Urbano|
+68263|La Mojonera|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5821|Urbano|
+68263|La Soledad|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5822|Urbano|
+68263|Paraje los Pintos|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5840|Rural|
+68263|Paraje Hacienda Vieja|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5815|Urbano|
+68263|Riveras del Arenal|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5818|Urbano|
+68263|Barrio Bajo|Barrio|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||02|227|5825|Urbano|
+68263|San Antonio|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5826|Urbano|
+68263|Loma Rigues|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5841|Rural|
+68263|San Lorenzo Cacaotepec|Pueblo|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||28|227|0258|Rural|
+68263|Barrio Alto|Barrio|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||02|227|5824|Urbano|
+68263|La Joya|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5817|Urbano|
+68263|El Arenal|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5819|Urbano|
+68264|El Chapulín|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5833|Rural|
+68264|Paraje San Nicolás|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5839|Rural|
+68264|El Manantial|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5829|Urbano|
+68264|Rancho el Ensueño|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5832|Rural|
+68264|Rancho las Tareas|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5831|Rural|
+68264|Santa Ana|Fraccionamiento|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||21|227|5828|Urbano|
+68264|Paraje la Soledad|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|5830|Urbano|
+68264|Loma Cuache|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5837|Rural|
+68264|Paraje el Zapotal|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5838|Rural|
+68264|Guadalupe Hidalgo|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|0257|Rural|
+68264|Andrés Henestrosa|Fraccionamiento|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||21|227|4234|Urbano|
+68264|San Luis|Fraccionamiento|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||21|227|5827|Urbano|
+68264|7 de Marzo|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|0001|Urbano|
+68264|Santiago Etla|Pueblo|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||28|227|0259|Urbano|
+68264|La Espinera|Colonia|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||09|227|4233|Urbano|
+68264|El Pastón|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5834|Rural|
+68264|El Trapiche|Ranchería|San Lorenzo Cacaotepec|Oaxaca||68202|20|68202||29|227|5835|Rural|

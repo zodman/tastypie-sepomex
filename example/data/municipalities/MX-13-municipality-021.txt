@@ -1,0 +1,19 @@
+43960|Emiliano Zapata Centro|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|1988|Urbano|
+43961|Malpais|Ejido|Emiliano Zapata|Hidalgo||43992|13|43992||15|021|1989|Rural|
+43961|Ex-hacienda San Lorenzo|Estación|Emiliano Zapata|Hidalgo||43992|13|43992||16|021|1990|Rural|
+43961|Santa Bárbara|Ejido|Emiliano Zapata|Hidalgo||43992|13|43992||15|021|1991|Rural|
+43961|Santa Clara|Hacienda|Emiliano Zapata|Hidalgo||43992|13|43992||24|021|1992|Rural|
+43963|Ramos Millán|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3849|Urbano|
+43963|Jardines|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3850|Urbano|
+43963|Santa Cruz|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3851|Urbano|
+43963|Los Reyes|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3852|Urbano|
+43964|Ampliación Loma Bonita|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3855|Urbano|
+43964|Chamizal|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3853|Urbano|
+43964|Loma Bonita|Colonia|Emiliano Zapata|Hidalgo||43992|13|43992||09|021|3854|Urbano|
+43965|Las Vegas|Ranchería|Emiliano Zapata|Hidalgo||43992|13|43992||29|021|3860|Rural|
+43966|Santa Cruz|Ranchería|Emiliano Zapata|Hidalgo||43992|13|43992||29|021|3861|Rural|
+43966|Tortolitas|Ranchería|Emiliano Zapata|Hidalgo||43992|13|43992||29|021|3862|Rural|
+43966|El Durazno|Ranchería|Emiliano Zapata|Hidalgo||43992|13|43992||29|021|3856|Rural|
+43967|José María Morelos (San José)|Poblado comunal|Emiliano Zapata|Hidalgo||43992|13|43992||27|021|3858|Rural|
+43967|La Palma|Ranchería|Emiliano Zapata|Hidalgo||43992|13|43992||29|021|3859|Rural|
+43968|Santa Clara|Hacienda|Emiliano Zapata|Hidalgo||43992|13|43992||24|021|3857|Rural|

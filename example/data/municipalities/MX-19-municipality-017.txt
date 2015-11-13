@@ -1,0 +1,99 @@
+67850|Jose Salazar Reyna|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3256|Rural|
+67850|Galeana|Ciudad|Galeana|Nuevo León||67851|19|67851||08|017|2219|Rural|
+67850|Barrio de Jalisco|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2214|Rural|
+67850|Labradores|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3258|Rural|
+67850|Jalisco|Barrio|Galeana|Nuevo León||67851|19|67851||02|017|2220|Rural|
+67850|El Chamizal|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3262|Rural|
+67850|El Cristal|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2215|Rural|
+67850|Laguna de Labradores|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2221|Rural|
+67850|Santa Rita|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2222|Rural|
+67850|Del Maestro 2o Sector|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3254|Rural|
+67850|El Potosí|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2216|Rural|
+67850|El Potrero Prieto de Arriba|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2218|Rural|
+67850|Sócrates Rizo|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3253|Rural|
+67850|Mariano Escobedo|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3255|Rural|
+67850|El Mirador|Colonia|Galeana|Nuevo León||67851|19|67851||09|017|3257|Rural|
+67850|El Potrero Prieto de Abajo|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2217|Rural|
+67853|El Peñuelo|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2226|Rural|
+67853|San Antonio de Gonzalez|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2227|Rural|
+67853|San Isidro de Berlanga|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2228|Rural|
+67853|San Juan de Dios|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2229|Rural|
+67853|El Barrocito|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2224|Rural|
+67853|El Canelito|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2225|Rural|
+67854|El Carmen|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2230|Rural|
+67854|Puerto Pastores|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|5147|Rural|
+67855|Los Magueyes|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2232|Rural|
+67855|San Roberto|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2233|Rural|
+67855|Santo Domingo|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2234|Rural|
+67855|La Primavera|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2231|Rural|
+67856|Santa Cruz de Sauces|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2239|Rural|
+67856|Los Nogales|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2237|Rural|
+67856|San Francisco de los Blancos|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2238|Rural|
+67856|El Derramadero|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2236|Rural|
+67856|18 de Marzo|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2235|Rural|
+67857|El Orito|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2240|Rural|
+67857|Los Llanitos|Pueblo|Galeana|Nuevo León||67851|19|67851||28|017|2241|Rural|
+67857|San Jose de La Hoya|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2242|Rural|
+67857|San Lucas|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2243|Rural|
+67858|Los Mimbres|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2244|Rural|
+67858|San Francisco Javier|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2245|Rural|
+67858|San Ildefonso|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2246|Rural|
+67858|San Juan de Mimbres|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2247|Rural|
+67860|La Lagunita|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2254|Rural|
+67860|Puerto México|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2257|Rural|
+67860|El Herial|Pueblo|Galeana|Nuevo León||67851|19|67851||28|017|2250|Rural|
+67860|La Providencia|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2255|Rural|
+67860|San Juan Del Prado|Pueblo|Galeana|Nuevo León||67851|19|67851||28|017|2258|Rural|
+67860|La Esperanza|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2253|Rural|
+67860|Ciénega Del Toro|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2248|Rural|
+67860|La Casita|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2252|Rural|
+67860|Navidad|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2256|Rural|
+67860|El Cuije|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2249|Rural|
+67860|El Prado|Pueblo|Galeana|Nuevo León||67851|19|67851||28|017|2251|Rural|
+67860|Santa Cruz Ciénega Del Toro|Pueblo|Galeana|Nuevo León||67851|19|67851||28|017|2259|Rural|
+67863|Hediondilla|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2260|Rural|
+67863|La Carbonera|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2261|Rural|
+67863|Las Delicias|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2262|Rural|
+67864|La Trinidad|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2264|Rural|
+67864|San Joaquín|Pueblo|Galeana|Nuevo León||67851|19|67851||28|017|2266|Rural|
+67864|Los Adobes|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2265|Rural|
+67864|Santa Maria de Ramos|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2267|Rural|
+67864|La Paz|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2263|Rural|
+67865|Boca Del Refugio|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2268|Rural|
+67865|San Rafael|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2269|Rural|
+67866|Tanquecillos|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2272|Rural|
+67866|San Pablo|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2270|Rural|
+67866|Santa Maria Del Socorro|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2271|Rural|
+67867|Estados Unidos|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2273|Rural|
+67867|San Jose de La Martha|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2274|Rural|
+67867|Santa Clara de Ciénega|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2275|Rural|
+67868|El Castillo|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2276|Rural|
+67870|San Jose de Raíces|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2281|Rural|
+67870|El Tepozan|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2277|Rural|
+67870|La Leona|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2278|Rural|
+67870|Presita de Berlanga|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2279|Rural|
+67870|San Jose de Raíces 2|Congregación|Galeana|Nuevo León||67851|19|67851||11|017|2282|Rural|
+67870|San Pablo de Raíces|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2283|Rural|
+67870|San Jorge|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2280|Rural|
+67872|San Francisco de Berlanga|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2285|Rural|
+67872|Las Margaritas|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2284|Rural|
+67873|Calabacillas|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2286|Rural|
+67873|San Ignacio de Texas|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2287|Rural|
+67874|El Refugio de los Ibarra|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2288|Rural|
+67874|Jesús Maria de Aguirre|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2289|Rural|
+67874|San Antonio Del Salero|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2290|Rural|
+67875|Texas|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2294|Rural|
+67875|Pablillo|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2292|Rural|
+67875|Joyas de Agua Fría|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2291|Rural|
+67875|Rio de San Jose|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2293|Rural|
+67876|San Jose de Gonzalez|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2295|Rural|
+67876|San Pablo de Mitras|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2296|Rural|
+67877|La Nueva Primavera|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2297|Rural|
+67877|Tokio|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2298|Rural|
+67878|La Poza|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2300|Rural|
+67878|Minas de San Jose|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2301|Rural|
+67878|Santa Fe|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2305|Rural|
+67878|Santa Clara de Gonzalez|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2304|Rural|
+67878|San Marcos|Ranchería|Galeana|Nuevo León||67851|19|67851||29|017|2302|Rural|
+67878|El Palmito|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2299|Rural|
+67878|San Pablo de Tranquitas|Ejido|Galeana|Nuevo León||67851|19|67851||15|017|2303|Rural|

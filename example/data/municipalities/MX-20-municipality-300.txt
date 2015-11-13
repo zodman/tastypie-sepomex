@@ -1,0 +1,7 @@
+71070|La Guadalupe|Pueblo|San Pedro Amuzgos|Oaxaca||71611|20|71611||28|300|2645|Rural|
+71070|Amuzgos|Pueblo|San Pedro Amuzgos|Oaxaca||71611|20|71611||28|300|2644|Rural|
+71070|San Pedro Amuzgos|Pueblo|San Pedro Amuzgos|Oaxaca||71611|20|71611||28|300|2646|Rural|
+71076|San Martín|Ranchería|San Pedro Amuzgos|Oaxaca||71611|20|71611||29|300|0001|Rural|
+71076|San Pedro Apóstol|Ranchería|San Pedro Amuzgos|Oaxaca||71611|20|71611||29|300|0002|Rural|
+71076|San Juan|Ranchería|San Pedro Amuzgos|Oaxaca||71611|20|71611||29|300|2647|Rural|
+71077|San Nicolás|Ranchería|San Pedro Amuzgos|Oaxaca||71611|20|71611||29|300|2648|Rural|

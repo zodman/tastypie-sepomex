@@ -1,0 +1,139 @@
+71410|La Purísima|Barrio|Villa Sola de Vega|Oaxaca|Villa Sola de Vega|71411|20|71411||02|277|3368|Rural|22
+71410|1RA|Barrio|Villa Sola de Vega|Oaxaca|Villa Sola de Vega|71411|20|71411||02|277|0115|Urbano|22
+71410|2DA|Barrio|Villa Sola de Vega|Oaxaca|Villa Sola de Vega|71411|20|71411||02|277|0116|Urbano|22
+71410|Villa Sola de Vega Centro|Colonia|Villa Sola de Vega|Oaxaca|Villa Sola de Vega|71411|20|71411||09|277|2872|Rural|22
+71413|La Colorada (Tierra Colorada)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0040|Rural|
+71413|Agua Fría|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0002|Rural|
+71413|Segunda Sección Barrio Arriba|Barrio|Villa Sola de Vega|Oaxaca||71411|20|71411||02|277|0080|Rural|
+71413|San Antonio|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0073|Rural|
+71413|La Yerba Santa|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0103|Rural|
+71413|Chinigue Segunda Sección (La Quebradora)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0007|Rural|
+71413|Yenetzala|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0083|Rural|
+71413|El Banco|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0010|Rural|
+71413|El Obispo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0020|Rural|
+71414|Barranca Grande|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0005|Rural|
+71414|Guillaya (Arroyo de Guillaya)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0033|Rural|
+71414|San José Obrero Paso Ancho|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0075|Rural|
+71414|Las Casitas|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0055|Rural|
+71414|Arroyo de la Rosa (El Aguacate)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0003|Rural|
+71414|El Portillo (Tierra Blanca)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0023|Rural|
+71414|Tierra Blanca|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0081|Rural|
+71414|El Pericón|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0094|Rural|
+71414|Arroyo del Pajarito|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0004|Rural|
+71414|Las Peñas|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0059|Rural|
+71414|Los Órganos|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0063|Rural|
+71414|El Encino (Portillo del Encino)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0091|Rural|
+71414|El Madrón|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0092|Rural|
+71414|Rancho Viejo Sola|Pueblo|Villa Sola de Vega|Oaxaca||71411|20|71411||28|277|2869|Rural|
+71414|El Remolino|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0026|Rural|
+71414|Portillo del Abre|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0067|Rural|
+71414|Zacamatle|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0089|Rural|
+71414|San Agustín|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0072|Rural|
+71414|Santa Inés|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0078|Rural|
+71414|Yigüiche|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0085|Rural|
+71414|La Loma de los Ingenieros|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0102|Rural|
+71415|La Chinea|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0037|Rural|
+71415|El Pescador|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0021|Rural|
+71415|Nopalosho|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0108|Rural|
+71415|El Eslabón|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0015|Rural|
+71415|La Colorada|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0098|Rural|
+71415|El Encino (San Agustín)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0014|Rural|
+71415|Huizache|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0034|Rural|
+71415|La Yerba Buena|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0052|Rural|
+71415|Yerba Buenita|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0084|Rural|
+71415|Piedra Blanca|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0109|Rural|
+71416|El Huazán|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0017|Rural|
+71416|Las Peñas|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0058|Rural|
+71416|La Gloria|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0101|Rural|
+71416|Potrero|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|2879|Rural|
+71416|La Soledad|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0049|Rural|
+71416|Candelaria la Estancia|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|4589|Rural|
+71416|Potrerillo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|4591|Rural|
+71416|El Sitio|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0030|Rural|
+71416|La Yerba Santa|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0053|Rural|
+71416|Portillo de Guajes (La Curva)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0066|Rural|
+71416|Sabinos|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0071|Rural|
+71416|El Cocoyul|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0012|Rural|
+71416|Santa Ana|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|4932|Rural|
+71416|Piedra Blanca|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0110|Rural|
+71417|La Cañada|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0035|Rural|
+71417|La Laguna (La Otra Laguna)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0045|Rural|
+71417|El Sauz|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0029|Rural|
+71417|Xigueto|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0082|Rural|
+71417|La Cueva|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0099|Rural|
+71417|Yogorente|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0087|Rural|
+71417|Los Pinos|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0106|Rural|
+71417|Guichila (Portillo los Anonos)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0032|Rural|
+71417|El Garabato|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0016|Rural|
+71417|Rancho del Cura|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0068|Rural|
+71417|Laguna Seca|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0054|Rural|
+71417|Yogolana|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0086|Rural|
+71417|Yoleré|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0114|Rural|
+71417|El Común|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|4594|Rural|
+71417|La Labor (Gulera)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0044|Rural|
+71417|Los Morales|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0065|Rural|
+71417|Santa Inés Sola|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0079|Rural|
+71417|Israel Figueroa|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0096|Rural|
+71417|La Cumbre (La Torre)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0100|Rural|
+71417|Barrio de Santa Anita (Sección Tercera)|Barrio|Villa Sola de Vega|Oaxaca||71411|20|71411||02|277|3352|Rural|
+71417|Gulera|Ejido|Villa Sola de Vega|Oaxaca||71411|20|71411||15|277|4590|Rural|
+71418|Desviación de la Siempre Viva|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0008|Rural|
+71418|La Ciénega (La Ciénega del Rancho)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0039|Rural|
+71418|La Siempre Viva|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0047|Rural|
+71418|Yoganita|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|2876|Rural|
+71418|Nachihuí|Pueblo|Villa Sola de Vega|Oaxaca||71411|20|71411||28|277|2877|Rural|
+71418|San Sebastián de las Grutas|Pueblo|Villa Sola de Vega|Oaxaca||71411|20|71411||28|277|2870|Rural|
+71418|San Antonio (Llano de Velásquez)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0074|Rural|
+71420|San Cristóbal|Pueblo|Villa Sola de Vega|Oaxaca||71411|20|71411||28|277|2880|Rural|
+71420|El Carrizal|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|4595|Rural|
+71420|La Soledad|Barrio|Villa Sola de Vega|Oaxaca||71411|20|71411||02|277|3353|Rural|
+71420|Los Limones|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0064|Rural|
+71420|Chichicastle|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0006|Rural|
+71420|Los Pitayos|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0107|Rural|
+71420|Rancho de Vacas|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0111|Rural|
+71423|La Cumbrita|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0042|Rural|
+71423|San Isidro Ojo de Agua|Pueblo|Villa Sola de Vega|Oaxaca||71411|20|71411||28|277|2873|Rural|
+71423|Lazo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0061|Rural|
+71424|La Chicueca|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0036|Rural|
+71424|Santos Reyes Sola|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|4982|Rural|
+71424|El Rincón|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0027|Rural|
+71424|Zeta|Ejido|Villa Sola de Vega|Oaxaca||71411|20|71411||15|277|4650|Rural|
+71424|La Ciénega|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0038|Rural|
+71424|Golina|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0095|Rural|
+71424|La V|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0051|Rural|
+71424|El Pocito|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0022|Rural|
+71424|San Juan Bautista|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|2878|Rural|
+71425|La Chihuana|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0097|Rural|
+71425|La Cucaracha|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0041|Rural|
+71425|El Anís|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0009|Rural|
+71425|El Mangalito|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0018|Rural|
+71425|Guayabo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0031|Rural|
+71425|Santa Catarina la Cañada|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0077|Rural|
+71425|El Sargento|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0028|Rural|
+71425|Agua del Sabino|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0001|Rural|
+71427|El Nido|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0019|Rural|
+71427|El Mirador|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0093|Rural|
+71427|Río Víbora|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0113|Rural|
+71427|La Unión|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0050|Rural|
+71427|San Juan Viejo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0076|Rural|
+71427|Río Húmedo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0112|Rural|
+71427|La Labor|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0043|Rural|
+71427|Las Juntas (El Puente)|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0057|Rural|
+71427|Llano Monte|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0062|Rural|
+71427|El Duraznillo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0013|Rural|
+71427|Loma de Ocote|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0105|Rural|
+71427|San Felipe Zapotitlán|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|2874|Rural|
+71427|Las Cuevas|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0056|Rural|
+71427|Yuchía|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0088|Rural|
+71427|El Campanario|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0090|Rural|
+71427|Llano Mazorca|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0104|Rural|
+71427|El Cocoyuche|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0011|Rural|
+71427|El Porvenir|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0024|Rural|
+71427|El Progreso|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0025|Rural|
+71427|Río Espejo|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0069|Rural|
+71427|Río Manteca|Ejido|Villa Sola de Vega|Oaxaca||71411|20|71411||15|277|4592|Rural|
+71427|San Juan Elotepec|Ejido|Villa Sola de Vega|Oaxaca||71411|20|71411||15|277|4593|Rural|
+71427|La Nopalera|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0046|Rural|
+71427|La Singuera|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0048|Rural|
+71427|Las Trancas|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0060|Rural|
+71427|Río Peña|Ranchería|Villa Sola de Vega|Oaxaca||71411|20|71411||29|277|0070|Rural|

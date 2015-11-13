@@ -1,0 +1,78 @@
+78980|Armadillo de los Infante|Pueblo|Armadillo de los Infante|San Luis Potosí||78001|24|78001||28|004|0838|Rural|
+78983|La Escondida|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4394|Rural|
+78983|El Tanquecito|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4389|Rural|
+78983|Los Troncos|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4409|Rural|
+78983|El Ranchito de los Guzmán|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0842|Rural|
+78983|Palomas (El Valle de Palomas)|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0843|Rural|
+78983|Los Charcos|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4406|Rural|
+78983|Tinajillas|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4434|Rural|
+78983|Contrayerba|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0840|Rural|
+78983|Loma Alta|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4404|Rural|
+78983|El Aguaje de los Castillos|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|0839|Rural|
+78983|San Elías|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0841|Rural|
+78984|Salazar (El Gringo)|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4424|Rural|
+78984|San Antonio de Eguía|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4425|Rural|
+78984|La Chicharra|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4392|Rural|
+78984|Tlaxcalilla|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4435|Rural|
+78984|El Sauz|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4388|Rural|
+78984|Rancho los Tomates|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4419|Rural|
+78985|Llano de los Patiño|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4402|Rural|
+78986|El Salto del Agua|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4387|Rural|
+78986|La Cardona|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4391|Rural|
+78986|Rancho Nuevo del Tízar|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4422|Rural|
+78986|El Bolillo|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4379|Rural|
+78986|Las Víboras|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4401|Rural|
+78986|Los Mireles|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4407|Rural|
+78986|Mezquitalillo|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0846|Rural|
+78986|San José de Magaña|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4429|Rural|
+78986|La Haciendita de Usquiano|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4395|Rural|
+78986|La Palmita|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4398|Rural|
+78987|Piedra Agujereada|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4414|Rural|
+78987|Tortugas|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4437|Rural|
+78987|Puerto de Chagoya|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4417|Rural|
+78987|Corral de Piedra|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4377|Rural|
+78987|El Alguacil|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4378|Rural|
+78987|La Mesa del Refugio|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4397|Rural|
+78987|Tanque de las Manzanas|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4433|Rural|
+78987|Los Ángeles|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4405|Rural|
+78987|El Pato|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4385|Rural|
+78987|San Cayetano|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4426|Rural|
+78987|El Chital (Manzanillas)|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4382|Rural|
+78987|Campamento el Chital|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4375|Rural|
+78987|Lagunita de San Juan|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4400|Rural|
+78987|Picacho de los Dolores|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4413|Rural|
+78987|Rancho el Chital (La Carbonera)|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4418|Rural|
+78987|Torres Corzo|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4436|Rural|
+78987|San José de Barbosa|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4428|Rural|
+78990|Rancho Nuevo de la Cruz|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4420|Rural|
+78990|Temascal|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0848|Rural|
+78990|Cerro Grande|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0849|Rural|
+78993|Santa Lucía|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4432|Rural|
+78993|La Concordia|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|0850|Rural|
+78993|Pozo del Carmen [COPLAMAR]|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4415|Rural|
+78994|Paradita del Refugio|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|0851|Rural|
+78994|El Durazno|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4384|Rural|
+78995|Paso del Águila|Pueblo|Armadillo de los Infante|San Luis Potosí||78001|24|78001||28|004|0844|Rural|
+78995|Arroyo Hondo|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4372|Rural|
+78995|Puerta del Refugio|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4416|Rural|
+78995|Paso del Águila [COPLAMAR]|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4412|Rural|
+78995|Pozo del Carmen|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|0847|Rural|
+78995|El Salitre|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4386|Rural|
+78995|El Caracol|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4381|Rural|
+78996|Hacienda Parada de Luna|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4390|Rural|
+78996|Los Tanquitos|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4408|Rural|
+78996|Nogalitos de la Cruz|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4410|Rural|
+78996|Parada de San Rafael|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4411|Rural|
+78997|Barranquita de San Rafael|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4374|Rural|
+78997|El Desestrés|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4383|Rural|
+78997|El Capulín|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4380|Rural|
+78997|San Rafael|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4431|Rural|
+78997|La Huerta de Manzano|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4396|Rural|
+78997|Laguna de San Isidro|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4399|Rural|
+78997|Llano de los Saldaña|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4403|Rural|
+78997|La Ciénaga|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4393|Rural|
+78997|Rancho Nuevo de los Nájera|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4421|Rural|
+78997|San José de Álvarez|Ejido|Armadillo de los Infante|San Luis Potosí||78001|24|78001||15|004|4427|Rural|
+78997|Cieneguilla|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4376|Rural|
+78997|San Miguel|Poblado comunal|Armadillo de los Infante|San Luis Potosí||78001|24|78001||27|004|4430|Rural|
+78997|Barranca de San Isidro|Ranchería|Armadillo de los Infante|San Luis Potosí||78001|24|78001||29|004|4373|Rural|

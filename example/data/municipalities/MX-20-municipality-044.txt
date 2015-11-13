@@ -1,0 +1,69 @@
+68400|Las Delicias|Barrio|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||02|044|3658|Semiurbano|07
+68400|El Mirador|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0302|Rural|07
+68400|Loma Bonita Centro|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0303|Semiurbano|07
+68400|Obispo|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0304|Semiurbano|07
+68400|Barrio La Escobeta|Barrio|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||02|044|4846|Rural|07
+68402|Frumencio Pulido Mina|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0307|Semiurbano|07
+68402|México|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0312|Semiurbano|07
+68402|Las Flores|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|4992|Urbano|07
+68402|Josefa Ortiz de Dominguez 3a Sección|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3558|Semiurbano|07
+68402|Josefa Ortiz de Dominguez 2a Secc|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0311|Semiurbano|07
+68402|Obrera|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0313|Semiurbano|07
+68402|Independencia|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3416|Semiurbano|07
+68402|Guadalupe Victoria|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0308|Rural|07
+68402|Josefa Ortiz de Dominguez 1a Secc|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0310|Semiurbano|07
+68402|El Conejo|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3837|Semiurbano|07
+68402|Emiliano Zapata|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0306|Semiurbano|07
+68402|Zacatixpan|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3916|Semiurbano|07
+68402|Ignacio Zaragoza|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0309|Semiurbano|07
+68402|27 de Febrero|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3869|Semiurbano|07
+68402|Tierra Alta|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3917|Semiurbano|07
+68403|Derechos Humanos|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3418|Semiurbano|07
+68403|El Triunfo|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3926|Semiurbano|07
+68403|Mixtan|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0317|Rural|07
+68403|Infonavit El Refugio|Unidad habitacional|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||31|044|3867|Semiurbano|07
+68403|Libertad|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3419|Semiurbano|07
+68403|Paraíso Zacatal|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0320|Rural|07
+68403|Infonavit|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3417|Semiurbano|07
+68403|Ampliación México|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0316|Urbano|07
+68403|Niños Héroes|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0318|Semiurbano|07
+68403|Reforma|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0321|Semiurbano|07
+68403|Arroyo Metate|Ejido|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||15|044|0314|Rural|07
+68403|Oaxaca|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0319|Semiurbano|07
+68403|Militar 28 E|Unidad habitacional|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||31|044|3927|Semiurbano|07
+68404|Miguel Hidalgo|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0326|Semiurbano|07
+68404|San Pedro|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0328|Semiurbano|07
+68404|Vicente Guerrero|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3868|Semiurbano|07
+68404|Odilón Mina|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0327|Semiurbano|07
+68404|Santa Sofía Monte Rosa|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3933|Semiurbano|07
+68404|Floresta|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0323|Semiurbano|07
+68404|Juan Lopez Cruz|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0324|Semiurbano|07
+68404|La Soledad|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0325|Rural|07
+68404|La Entrada de las Varas|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|4445|Urbano|07
+68404|Arroyo La Palma|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3929|Semiurbano|07
+68404|Santa Sofía Loma Bonita|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3931|Semiurbano|07
+68404|Benito Juárez|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0322|Semiurbano|07
+68404|Félix Gayot|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3420|Semiurbano|07
+68404|Articulo 65 Ley de La ref. Agraria|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3934|Semiurbano|07
+68404|Santa Sofía Rio Playa|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3932|Semiurbano|07
+68405|San Antonio|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0334|Semiurbano|07
+68405|San Benito de Encinal|Pueblo|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||28|044|0335|Rural|07
+68405|Oaxaqueños Ilustres|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0332|Semiurbano|07
+68405|Guadalupe Hinojosa de Murat|Unidad habitacional|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||31|044|3870|Urbano|07
+68405|20 de Noviembre|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3923|Semiurbano|07
+68405|El Sacrificio|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3921|Semiurbano|07
+68405|10 de Abril|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3924|Semiurbano|07
+68405|Arboledas|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0329|Semiurbano|07
+68405|Del Sol|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0330|Semiurbano|07
+68405|Francisco Villa|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3922|Semiurbano|07
+68405|Ejidal|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0331|Semiurbano|07
+68405|26 de Mayo|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|0336|Semiurbano|07
+68405|Oaxaqueños Ilustres|Ampliación|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||38|044|0333|Semiurbano|07
+68405|Agrícola Hermanos Gutiérrez|Colonia|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||09|044|3925|Semiurbano|07
+68405|Mulato Viejo|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3930|Semiurbano|07
+68406|El Roble|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0339|Rural|07
+68406|La Esperanza Agua Pescadito|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|3919|Semiurbano|07
+68406|La Capilla|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0001|Rural|07
+68406|Desparramadero|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0337|Rural|07
+68406|San Felipe|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0341|Rural|07
+68406|Jobal Nuevo|Ranchería|Loma Bonita|Oaxaca|Loma Bonita|68401|20|68401||29|044|0338|Rural|07

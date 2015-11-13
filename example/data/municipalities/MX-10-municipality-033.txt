@@ -1,0 +1,42 @@
+34900|Suchil Centro|Colonia|Súchil|Durango||34901|10|34901||09|033|0903|Urbano|
+34903|Francisco Villa|Colonia|Súchil|Durango||34901|10|34901||09|033|5213|Urbano|
+34903|Los Lavaderos|Colonia|Súchil|Durango||34901|10|34901||09|033|5216|Urbano|
+34904|Francisco I. Madero|Colonia|Súchil|Durango||34901|10|34901||09|033|5212|Urbano|
+34905|La Tijera|Colonia|Súchil|Durango||34901|10|34901||09|033|5214|Urbano|
+34905|Santa Cruz|Ranchería|Súchil|Durango||34901|10|34901||29|033|0909|Urbano|
+34906|El Mezquite|Colonia|Súchil|Durango||34901|10|34901||09|033|5209|Urbano|
+34906|Emiliano Zapata|Colonia|Súchil|Durango||34901|10|34901||09|033|5211|Urbano|
+34907|Lindavista|Colonia|Súchil|Durango||34901|10|34901||09|033|5215|Urbano|
+34907|El Pilancon|Colonia|Súchil|Durango||34901|10|34901||09|033|5210|Urbano|
+34910|Nuevo Montero|Ranchería|Súchil|Durango||34901|10|34901||29|033|5202|Rural|
+34913|San Martín de Camellones|Ranchería|Súchil|Durango||34901|10|34901||29|033|5207|Rural|
+34913|Berlín|Ranchería|Súchil|Durango||34901|10|34901||29|033|5184|Rural|
+34913|Alejandro|Ejido|Súchil|Durango||34901|10|34901||15|033|0907|Rural|
+34913|Hacienda El Mortero|Hacienda|Súchil|Durango||34901|10|34901||24|033|0908|Rural|
+34913|San Luis|Ranchería|Súchil|Durango||34901|10|34901||29|033|5206|Rural|
+34915|Potrerillo (El Resbalón)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5203|Rural|
+34917|La Soledad|Ejido|Súchil|Durango||34901|10|34901||15|033|0905|Rural|
+34917|San Miguel de la Michilía|Ranchería|Súchil|Durango||34901|10|34901||29|033|0906|Rural|
+34920|San Juan de Michis|Hacienda|Súchil|Durango||34901|10|34901||24|033|0910|Rural|
+34920|Los Corrales|Ranchería|Súchil|Durango||34901|10|34901||29|033|5196|Rural|
+34923|La Puerta de Temazcal|Ranchería|Súchil|Durango||34901|10|34901||29|033|5191|Rural|
+34923|Rancho de la Peña|Ranchería|Súchil|Durango||34901|10|34901||29|033|5205|Rural|
+34926|Emiliano Zapata (Los Coconos)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5190|Rural|
+34926|NCP San Francisco Javier (Los Ojitos)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5201|Rural|
+34926|Santa Adriana (El Jabalí)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5208|Rural|
+34927|Corralitos|Ranchería|Súchil|Durango||34901|10|34901||29|033|5185|Rural|
+34927|El Madrugador|Ranchería|Súchil|Durango||34901|10|34901||29|033|5187|Rural|
+34930|Los Charcos|Ranchería|Súchil|Durango||34901|10|34901||29|033|5195|Rural|
+34930|El Temazcal|Ranchería|Súchil|Durango||34901|10|34901||29|033|5189|Rural|
+34933|Las Margaritas|Ranchería|Súchil|Durango||34901|10|34901||29|033|0912|Rural|
+34933|Luis Echeverria (La Quemada)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5197|Rural|
+34934|Mesa el Cardo Santo|Ranchería|Súchil|Durango||34901|10|34901||29|033|5200|Rural|
+34934|Los Bajíos|Ranchería|Súchil|Durango||34901|10|34901||29|033|5193|Rural|
+34934|Puerta de Guanajuato|Ranchería|Súchil|Durango||34901|10|34901||29|033|5204|Rural|
+34934|Los Aguajitos|Ranchería|Súchil|Durango||34901|10|34901||29|033|5192|Rural|
+34935|Mesa de San Antonio (El Llano)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5198|Rural|
+34935|El Salvaje|Ranchería|Súchil|Durango||34901|10|34901||29|033|5188|Rural|
+34935|Los Bordos (El Atole)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5194|Rural|
+34936|El Alemán (El Alemán Nuevo)|Ranchería|Súchil|Durango||34901|10|34901||29|033|5186|Rural|
+34936|Mesa Tabasco|Ranchería|Súchil|Durango||34901|10|34901||29|033|5199|Rural|
+34937|Alemán (Alemán Viejo)|Ranchería|Súchil|Durango||34901|10|34901||29|033|0911|Rural|

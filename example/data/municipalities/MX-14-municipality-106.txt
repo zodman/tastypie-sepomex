@@ -1,0 +1,11 @@
+48770|Tuxcacuesco|Pueblo|Tuxcacuesco|Jalisco||48761|14|48761||28|106|2692|Rural|
+48775|Chachahuatlan|Hacienda|Tuxcacuesco|Jalisco||48761|14|48761||24|106|2693|Rural|
+48777|Camichin|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2694|Rural|
+48778|Zenzontla|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2695|Rural|
+48780|Los Gonzalez|Congregación|Tuxcacuesco|Jalisco||48761|14|48761||11|106|2696|Rural|
+48785|El Platanar|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2697|Rural|
+48786|San Miguel|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2698|Rural|
+48788|Apulco|Congregación|Tuxcacuesco|Jalisco||48761|14|48761||11|106|2699|Rural|
+48790|El Temascal|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2700|Rural|
+48795|El Palmar de los Camberos|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2701|Rural|
+48799|El Carrizal|Ranchería|Tuxcacuesco|Jalisco||48761|14|48761||29|106|2702|Rural|

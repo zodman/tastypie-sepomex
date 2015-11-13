@@ -1,0 +1,111 @@
+63726|El Guamúchil|Ranchería|Bahía de Banderas|Nayarit||63733|18|63733||29|020|0004|Rural|
+63726|Villas Colibrí|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|0005|Rural|
+63728|San Quintín|Ranchería|Bahía de Banderas|Nayarit||63733|18|63733||29|020|0003|Rural|
+63728|San Ignacio|Ranchería|Bahía de Banderas|Nayarit||63733|18|63733||29|020|0002|Rural|
+63729|San Francisco|Ranchería|Bahía de Banderas|Nayarit||63721|18|63721||29|020|0596|Rural|
+63729|Lo de Marcos|Colonia|Bahía de Banderas|Nayarit||63721|18|63721||09|020|0585|Rural|
+63730|Valle de Banderas|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|0588|Urbano|
+63730|Santa Rosa Tapachula|Poblado comunal|Bahía de Banderas|Nayarit||63731|18|63731||27|020|1034|Rural|
+63730|El Mirador|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1051|Rural|
+63730|Las Hachas|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|0023|Urbano|
+63730|San Juan de Abajo|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|0586|Rural|
+63730|Ramón Larios|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1052|Rural|
+63730|Tabacalera|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1205|Urbano|
+63732|Residencial Los Mangos|Fraccionamiento|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||21|020|0018|Urbano|12
+63732|Miguel Alemán|Barrio|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||02|020|0854|Rural|12
+63732|Lomas Huanacaxtle|Barrio|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||02|020|0846|Rural|12
+63732|Playas del Pacifico|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0847|Rural|12
+63732|Paraíso del Indio|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0852|Rural|12
+63732|Buenos Aires|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0855|Rural|12
+63732|Los Cocos|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0857|Rural|12
+63732|Las Palmas|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0858|Rural|12
+63732|La Unidad|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0853|Rural|12
+63732|Loma Bonita|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0848|Rural|12
+63732|Tule Dorado|Barrio|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||02|020|0856|Rural|12
+63732|Estadio|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0983|Rural|12
+63732|Terralta|Fraccionamiento|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||21|020|1128|Urbano|12
+63732|Brisas|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0590|Rural|12
+63732|Bucerías Centro|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0591|Rural|12
+63732|Playas de Huanacaxtle|Fraccionamiento|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||21|020|0595|Rural|12
+63732|Flamingos|Fraccionamiento|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||21|020|0020|Urbano|12
+63732|Vista Bahía|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0849|Rural|12
+63732|Paraíso|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0851|Rural|12
+63732|Los Arboles|Fraccionamiento|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||21|020|1100|Urbano|12
+63732|Palma Residencial|Fraccionamiento|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||21|020|0019|Urbano|12
+63732|Dorada|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0592|Rural|12
+63732|Tintoc|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0982|Rural|12
+63732|Francisco Javier Ovando|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|0850|Rural|12
+63732|La Primavera|Colonia|Bahía de Banderas|Nayarit|Bucerías|63733|18|63733||09|020|1192|Urbano|12
+63734|Monte Calvario|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|1179|Urbano|
+63734|Sayulita|Pueblo|Bahía de Banderas|Nayarit||63733|18|63733||28|020|0597|Rural|
+63734|Higuera Blanca|Ejido|Bahía de Banderas|Nayarit||63733|18|63733||15|020|0600|Rural|
+63734|Punta de Mita|Ranchería|Bahía de Banderas|Nayarit||63733|18|63733||29|020|0601|Rural|
+63734|Cruz de Huanacaxtle|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|0599|Urbano|
+63734|José Chávez|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|1160|Rural|
+63734|Nueva Era|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|1164|Urbano|
+63734|Corral del Risco (Punta de Mita)|Pueblo|Bahía de Banderas|Nayarit||63733|18|63733||28|020|0593|Rural|
+63735|Mezcalitos|Poblado comunal|Bahía de Banderas|Nayarit||63733|18|63733||27|020|1194|Rural|
+63735|San Clemente de Lima|Rancho|Bahía de Banderas|Nayarit||63733|18|63733||48|020|0001|Rural|
+63735|Villas Green Canal|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|0014|Urbano|
+63735|Deportiva|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|0008|Urbano|
+63735|Paraíso Vallarta|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|0009|Rural|
+63735|Real Nuevo Vallarta|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|0010|Rural|
+63735|Lomas del Sol|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|0012|Urbano|
+63735|Rincón del Cielo|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1080|Rural|
+63735|Valle Dorado|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1039|Rural|
+63735|13 de Septiembre|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|1083|Rural|
+63735|Las Jarretaderas|Ejido|Bahía de Banderas|Nayarit||63733|18|63733||15|020|0603|Rural|
+63735|Náutico Turístico|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1104|Rural|
+63735|La Lomita|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|0011|Rural|
+63735|Nuevo Vallarta|Ejido|Bahía de Banderas|Nayarit||63733|18|63733||15|020|0594|Semiurbano|
+63735|Villa Esmeralda|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1118|Rural|
+63735|San Isidro|Colonia|Bahía de Banderas|Nayarit||63733|18|63733||09|020|1177|Urbano|
+63735|Costa Coral|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1038|Rural|
+63735|Altavela|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1206|Urbano|
+63735|Virreyes Vallarta|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1219|Rural|
+63735|Mezcales|Pueblo|Bahía de Banderas|Nayarit||63733|18|63733||28|020|0608|Rural|
+63735|Las Ceibas|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1048|Rural|
+63735|Los Encantos|Fraccionamiento|Bahía de Banderas|Nayarit||63733|18|63733||21|020|1193|Urbano|
+63736|El Colomo|Ejido|Bahía de Banderas|Nayarit||63731|18|63731||15|020|0604|Rural|
+63737|Lázaro Cárdenas|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|0006|Urbano|
+63737|Los Ángeles|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0016|Urbano|
+63737|Villas de San Vicente|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0017|Urbano|
+63737|Tulipanes|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0022|Urbano|
+63737|La Entrada|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1087|Rural|
+63737|Jardines El Porvenir|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1101|Rural|
+63737|Palma Real|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1122|Rural|
+63737|Bahía de Banderas|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1208|Urbano|
+63737|Haciendas de San Vicente|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1086|Rural|
+63737|San Vicente del Mar|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1102|Rural|
+63737|Villas de La Bahía|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1110|Rural|
+63737|INFONAVIT San José|Unidad habitacional|Bahía de Banderas|Nayarit||63731|18|63731||31|020|1182|Urbano|
+63737|Valle Marlín|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0007|Urbano|
+63737|Ex-Hacienda San Ángel|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0025|Urbano|
+63737|San José del Valle|Pueblo|Bahía de Banderas|Nayarit||63731|18|63731||28|020|0598|Rural|
+63737|Jardines del Sol|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1054|Rural|
+63737|La Primavera|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1088|Rural|
+63737|San Vicente|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0015|Urbano|
+63737|Jardines de San José|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1053|Rural|
+63737|El Manglar|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1145|Rural|
+63737|La Nueva Aurora|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1201|Urbano|
+63737|Villas Miramar|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0013|Urbano|
+63737|Los Palmares San Vicente|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|0024|Urbano|
+63737|Las Flores|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1210|Urbano|
+63737|Valle de San José|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1035|Rural|
+63737|Del Rastro|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1109|Rural|
+63737|La Misión|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1195|Urbano|
+63737|Azul Turquesa|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1849|Urbano|
+63737|San Vicente|Ejido|Bahía de Banderas|Nayarit||63731|18|63731||15|020|0605|Rural|
+63737|Santa Fe|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1036|Rural|
+63737|Diana Laura|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1111|Rural|
+63738|Valle de las Magnolias|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1037|Rural|
+63738|Concepción de Valle|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1209|Rural|
+63738|Los Mangos|Fraccionamiento|Bahía de Banderas|Nayarit||63731|18|63731||21|020|1180|Rural|
+63738|Aguamilpa|Ranchería|Bahía de Banderas|Nayarit||63731|18|63731||29|020|0606|Rural|
+63738|El Porvenir|Ejido|Bahía de Banderas|Nayarit||63731|18|63731||15|020|0607|Rural|
+63738|La Tercera Edad|Colonia|Bahía de Banderas|Nayarit||63731|18|63731||09|020|1126|Rural|
+63738|Tapachula del Valle|Ranchería|Bahía de Banderas|Nayarit||63731|18|63731||29|020|0602|Rural|
+63739|El Carrizo|Ranchería|Bahía de Banderas|Nayarit||63731|18|63731||29|020|0021|Rural|
+63739|Fortuna de Vallejo (La Gloria)|Ranchería|Bahía de Banderas|Nayarit||63731|18|63731||29|020|0610|Rural|
+63739|Los Sauces|Ranchería|Bahía de Banderas|Nayarit||63731|18|63731||29|020|0611|Rural|
+63739|El Coatante|Ranchería|Bahía de Banderas|Nayarit||63731|18|63731||29|020|0609|Rural|

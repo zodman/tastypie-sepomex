@@ -1,0 +1,35 @@
+90280|La Villa|Colonia|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||09|021|0865|Rural|
+90280|Francisco Villa|Barrio|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||02|021|0600|Rural|
+90280|Niños Héroes de Chapultepec|Fraccionamiento|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||21|021|0002|Urbano|
+90280|Chapultepec|Barrio|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||02|021|0599|Rural|
+90280|INFONAVIT Mineros|Unidad habitacional|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||31|021|0602|Urbano|
+90280|Domingo Arenas|Colonia|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||09|021|0131|Rural|
+90280|Obregón|Barrio|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||02|021|0601|Rural|
+90280|Loreto|Fraccionamiento|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||21|021|0817|Rural|
+90280|Loma Bonita|Colonia|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||09|021|0777|Rural|
+90283|Los Delgadillo|Ejido|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||15|021|0005|Rural|
+90283|Amaxac|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0003|Rural|
+90283|Adrián Hernández|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0007|Rural|
+90283|Salima (La Candelaria)|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0004|Rural|
+90283|Santos Lozano|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0006|Rural|
+90284|Ixtafiayuca|Hacienda|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||24|021|0008|Rural|
+90284|Francisco I. Madero|Pueblo|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||28|021|0130|Rural|
+90284|Entronque Nanacamilpa|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0132|Rural|
+90284|Domingo Arenas|Pueblo|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||28|021|0023|Rural|
+90285|Los Manueles|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0011|Rural|
+90285|Media Caballería|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0014|Rural|
+90285|Las Bugambilias|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0013|Rural|
+90285|Mifive|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0009|Rural|
+90285|La Unión|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0012|Rural|
+90285|Los Rosales|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0010|Rural|
+90286|Manuel Estrada|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0016|Rural|
+90286|San Cayetano|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0017|Rural|
+90286|Tepuente|Colonia|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||09|021|1008|Rural|
+90286|Constantino Zavala|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0015|Rural|
+90287|Ramón Contreras|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0020|Rural|
+90287|Agua Escondida|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0019|Rural|
+90287|El Carmen|Ranchería|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||29|021|0018|Rural|
+90288|San Isidro|Ejido|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||15|021|0022|Rural|
+90288|San Felipe Hidalgo|Pueblo|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||28|021|0134|Rural|
+90288|Jagüey Seco|Ejido|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||15|021|0021|Rural|
+90288|Miguel Lira y Ortega|Pueblo|Nanacamilpa de Mariano Arista|Tlaxcala||90201|29|90201||28|021|0133|Rural|

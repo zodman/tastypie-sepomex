@@ -1,0 +1,110 @@
+89400|Ciudad Madero Centro|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1663|Urbano|03
+89410|Unidad Nacional|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1666|Urbano|03
+89415|Villa Verde|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1667|Urbano|03
+89415|Balconcitos|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3436|Urbano|03
+89416|Asunción Ávalos|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1668|Urbano|03
+89416|Jacarandas|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1669|Urbano|03
+89417|Estadio|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1670|Urbano|03
+89420|Las Américas|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1671|Urbano|03
+89420|Monteverde|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1672|Urbano|03
+89430|Lázaro Cárdenas|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1674|Urbano|03
+89430|Felipe Carrillo Puerto|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1673|Urbano|03
+89440|Los Mangos|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1676|Urbano|03
+89440|Jardín 20 de Noviembre|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1675|Urbano|03
+89450|1° de Mayo|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1677|Urbano|03
+89460|Loma del Gallo|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1678|Urbano|03
+89460|Ricardo Flores Magón|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1679|Urbano|03
+89464|Quetzalcóatl|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1680|Urbano|03
+89470|Esfuerzo Nacional|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1681|Urbano|03
+89470|Frente Democrático|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1682|Urbano|03
+89470|Tampico Nuevo|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1683|Urbano|03
+89479|Monterrey|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1684|Urbano|03
+89480|Francisco I Madero|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1685|Urbano|03
+89480|San Juan Bosco|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1687|Urbano|03
+89480|Las Conchitas|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1686|Urbano|03
+89490|Árbol Grande|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1688|Urbano|03
+89490|Obrera|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1689|Urbano|03
+89496|Las Arboledas|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1690|Urbano|03
+89497|Árbol Grande Ex-refinería|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1691|Urbano|03
+89500|Candelario Garza|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1692|Urbano|03
+89505|Candelario Garza Ampliación|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1693|Urbano|03
+89506|Villas del Mar|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3662|Urbano|03
+89506|Tercer Milenio|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3442|Urbano|03
+89506|Las Dunas|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3443|Urbano|03
+89506|Integración Familiar|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3439|Urbano|03
+89506|Lienzo Charro|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1695|Urbano|03
+89506|SAHOP|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1697|Urbano|03
+89506|Rincón Colonial|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3441|Urbano|03
+89506|Puerto Alegre|Unidad habitacional|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||31|009|2498|Urbano|03
+89506|Insurgentes|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3663|Urbano|03
+89506|Miramapolis|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1696|Urbano|03
+89506|Joyas de Miramapolis|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3444|Urbano|03
+89510|Palmas I|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3658|Urbano|03
+89510|Heriberto Kehoe|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1698|Urbano|03
+89510|Ignacio Zaragoza|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1700|Urbano|03
+89510|Las Flores|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1701|Urbano|03
+89510|Ampliación Unidad Nacional|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1703|Urbano|03
+89510|Vista Bella|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3665|Urbano|03
+89510|Palmas II|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|0001|Urbano|03
+89510|Lago Azul|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3431|Urbano|03
+89512|La Joya|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|2497|Urbano|03
+89512|16 de Septiembre|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1705|Urbano|03
+89513|Los Pinos|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1708|Urbano|03
+89514|Satélite|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|2499|Urbano|03
+89514|Residencial la Antigua|Condominio|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||10|009|3667|Urbano|03
+89514|Residencial del Parque|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1709|Urbano|03
+89514|Jesús Luna Luna|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1711|Urbano|03
+89515|El Palmar|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1714|Urbano|03
+89515|18 de Marzo|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3430|Urbano|03
+89515|Castores|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1716|Urbano|03
+89515|Los Sauces|Unidad habitacional|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||31|009|3433|Urbano|03
+89515|Carlos Jiménez Macías|Unidad habitacional|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||31|009|1713|Urbano|03
+89515|Los Cedros|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1717|Urbano|03
+89515|Villas del Mar|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1719|Urbano|03
+89515|Los Framboyanes|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3432|Urbano|03
+89515|Manuel R Díaz|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1718|Urbano|03
+89515|Naval Militar las Chacas|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1715|Urbano|03
+89517|Emiliano Zapata|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1721|Urbano|03
+89518|Revolución Verde|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1723|Urbano|03
+89519|Los Naranjos|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3428|Urbano|03
+89519|Adriana González Hernández|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3426|Urbano|03
+89519|Simón Rivera|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1725|Urbano|03
+89519|15 de Mayo|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1724|Urbano|03
+89519|Los Fresnos|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|2900|Urbano|03
+89519|Sector Vista Hermosa|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3427|Urbano|03
+89520|Francisco Villa|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1728|Urbano|03
+89520|Héroe de Nacozari|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1729|Urbano|03
+89520|Adolfo López Mateos|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1726|Urbano|03
+89520|Fidel Velázquez|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1727|Urbano|03
+89530|Del Bosque|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1730|Urbano|03
+89540|Emilio Carranza|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1733|Urbano|03
+89540|Hermenegildo Galeana|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1734|Urbano|03
+89540|Miramar|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1736|Urbano|03
+89540|La Barra|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1735|Urbano|03
+89540|ISSSFAM|Unidad habitacional|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||31|009|2500|Urbano|03
+89550|Del Maestro|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1741|Urbano|03
+89550|Del Valle|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1739|Urbano|03
+89550|Girasoles|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|2901|Urbano|03
+89550|Benito Juárez Norte|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1738|Urbano|03
+89550|Emiliano Zapata Sur|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1740|Urbano|03
+89553|Camichines|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|1742|Urbano|03
+89554|Nueva Cecilia|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1743|Urbano|03
+89555|FOVISSSTE Lucio Blanco|Unidad habitacional|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||31|009|1744|Urbano|03
+89555|Los Robles|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1745|Urbano|03
+89555|Manuel Cavazos Lerma|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1746|Urbano|03
+89555|Polvorín|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|3159|Urbano|03
+89555|Santa Úrsula|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|3437|Urbano|03
+89555|Las Brisas|Fraccionamiento|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||21|009|2501|Urbano|03
+89556|Delfino Reséndiz|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1747|Urbano|03
+89556|Victoria|Unidad habitacional|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||31|009|3158|Urbano|03
+89560|Hipódromo|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1748|Urbano|03
+89560|López Portillo|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1749|Urbano|03
+89566|El Llano|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1750|Urbano|03
+89567|La Loma|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1751|Urbano|03
+89570|Hidalgo Oriente|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1752|Urbano|03
+89570|Hidalgo Poniente|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1753|Urbano|03
+89580|Vicente Guerrero|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1755|Urbano|03
+89580|Benito Juárez|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1754|Urbano|03
+89590|Talleres|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1757|Urbano|03
+89590|Tinaco|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1758|Urbano|03
+89590|Ferrocarrilera|Colonia|Ciudad Madero|Tamaulipas|Ciudad Madero|89401|28|89401||09|009|1756|Urbano|03

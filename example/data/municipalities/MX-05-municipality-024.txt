@@ -1,0 +1,126 @@
+27980|Estrella|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1597|Semiurbano|05
+27980|Parras 85 (Y Griega)|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1600|Urbano|05
+27980|Parras de La Fuente Centro|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1599|Semiurbano|05
+27980|Márquez de Aguayo|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1598|Semiurbano|05
+27983|Lázaro Cárdenas|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2262|Semiurbano|05
+27983|Barrio del Sombreretillo|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2961|Urbano|05
+27983|Barrio Tacubaya|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1603|Semiurbano|05
+27983|Rincón del Refugio|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2428|Semiurbano|05
+27983|Barrio Santo Niño|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1602|Semiurbano|05
+27984|Ojo de Agua|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1605|Semiurbano|05
+27984|Saltillo 400|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1606|Semiurbano|05
+27984|Agua de los Padres|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1604|Semiurbano|05
+27984|PRI 92|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2263|Semiurbano|05
+27984|Sol Azteca|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2427|Semiurbano|05
+27984|El Mirador|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2958|Urbano|05
+27984|Del Sol|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2264|Semiurbano|05
+27985|Viñedos del Márquez|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2957|Urbano|05
+27985|Hacienda los Viñedos|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2425|Semiurbano|05
+27985|Miramar|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1610|Semiurbano|05
+27985|CIPSA|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1607|Semiurbano|05
+27985|Nuevo Sol|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2426|Semiurbano|05
+27985|Esmeralda|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2959|Urbano|05
+27985|Ciudadela|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1608|Semiurbano|05
+27985|Viñedos 2|Fraccionamiento|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||21|024|2790|Urbano|05
+27986|Barrio de La Ermita de Guadalupe|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2969|Urbano|05
+27986|Barrio de La Loma|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2965|Urbano|05
+27986|Santa María|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2970|Urbano|05
+27986|San Antonio|Fraccionamiento|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||21|024|2972|Urbano|05
+27986|Elíseo Mendoza Berrueto|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1611|Semiurbano|05
+27986|Las Tres Lomas|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2964|Urbano|05
+27986|Barrio del Santuario|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2966|Urbano|05
+27986|3 Lomas|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1613|Semiurbano|05
+27986|Barrio Macuyu|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2967|Urbano|05
+27986|Barrio de La Tequila|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2968|Urbano|05
+27986|Loma de San Isidro|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1612|Semiurbano|05
+27987|Los Ángeles|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2261|Semiurbano|05
+27987|Del Marquez|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2304|Semiurbano|05
+27987|INFONAVIT|Unidad habitacional|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||31|024|1616|Semiurbano|05
+27987|Nogalar|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2260|Semiurbano|05
+27987|Quintas del Valle|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2360|Semiurbano|05
+27987|Federico Cárdenas|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1614|Semiurbano|05
+27987|Independencia|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1615|Semiurbano|05
+27987|Parras|Ejido|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||15|024|2971|Rural|05
+27987|Rogelio Montemayor|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|0001|Urbano|05
+27987|Vidriera|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1617|Semiurbano|05
+27988|Jardines del Márquez|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1621|Semiurbano|05
+27988|Hacienda del Rosario|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1620|Semiurbano|05
+27988|Los Arcos|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2960|Urbano|05
+27988|Antigua Guayulera|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1618|Semiurbano|05
+27988|Burócratas|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1619|Semiurbano|05
+27989|Las Palmeras|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2259|Semiurbano|05
+27989|Barrio del Perico|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2430|Semiurbano|05
+27989|Luz Rodriguez de las Fuentes|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1625|Semiurbano|05
+27989|Palmeras|Ejido|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||15|024|2962|Rural|05
+27989|Emiliano Zapata|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1623|Semiurbano|05
+27989|Valle de Parras|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1626|Semiurbano|05
+27989|Los Barrios|Fraccionamiento|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||21|024|2963|Urbano|05
+27989|Barrio del Refugio|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2305|Semiurbano|05
+27989|Guillermo Urbina|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2431|Semiurbano|05
+27989|José G Madero|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1624|Semiurbano|05
+27989|Barrio del Refugio|Barrio|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||02|024|2258|Semiurbano|05
+27989|El Vergel|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|1622|Semiurbano|05
+27989|Rincón del Montero|Colonia|Parras|Coahuila de Zaragoza|Parras de la Fuente|27981|05|27981||09|024|2411|Semiurbano|05
+27990|San Rafael de los Milagros|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1637|Rural|
+27990|El Mimbre|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1630|Rural|
+27990|El Sacramento (Sacramento de la Jarosa)|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1633|Rural|
+27990|Santa María|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1638|Rural|
+27990|Boquillas del Refugio|Congregación|Parras|Coahuila de Zaragoza||27981|05|27981||11|024|1627|Rural|
+27990|Candelaria y La Luz|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1628|Rural|
+27990|Madero|Estación|Parras|Coahuila de Zaragoza||27981|05|27981||16|024|1632|Rural|
+27990|San José de Mahoma|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1635|Rural|
+27990|28 de Agosto|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1640|Rural|
+27990|El Sol|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1631|Rural|
+27990|San José de Paila|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1636|Rural|
+27990|Talía|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1639|Rural|
+27990|Cuatro de Marzo|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1629|Rural|
+27990|San Isidro|Congregación|Parras|Coahuila de Zaragoza||27981|05|27981||11|024|1634|Rural|
+27991|Notillas|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1644|Rural|
+27991|Garambullo|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1641|Rural|
+27991|Las Ánimas|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1643|Rural|
+27991|San José de la Unión|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1645|Rural|
+27991|Jalapa|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1642|Rural|
+27992|El Cinco (5 de Mayo)|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1646|Rural|
+27992|La Candelaria de los Yeguales|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1648|Rural|
+27992|El Amparo (La Peña)|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1647|Rural|
+27992|Menchanca|Estación|Parras|Coahuila de Zaragoza||27981|05|27981||16|024|1650|Rural|
+27992|San Francisco del Barrial|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1652|Rural|
+27992|San Rafael de los Yeguales|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1653|Rural|
+27992|La Constancia|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1649|Rural|
+27992|Sabanilla Dos (Sabanilla del Tapón)|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1651|Rural|
+27992|El 7 de Enero (El Mezquite)|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1654|Rural|
+27992|Tanque Nuevo|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1655|Rural|
+27993|San Carlos|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1663|Rural|
+27993|San Francisco del Progreso|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1664|Rural|
+27993|San Lorenzo|Hacienda|Parras|Coahuila de Zaragoza||27981|05|27981||24|024|1665|Rural|
+27993|San Rafael de la Hedionda|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1666|Rural|
+27993|El Capulín|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1659|Rural|
+27993|El Durazno|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1660|Rural|
+27993|Cadillal|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1656|Rural|
+27993|Cerro Colorado|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1657|Rural|
+27993|Gabinete|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1661|Rural|
+27993|Cruz Verde|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1658|Rural|
+27993|Parras|Ciudad|Parras|Coahuila de Zaragoza||27981|05|27981||08|024|1662|Rural|
+27993|Santa Isabel de las Flores|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1667|Rural|
+27994|San Miguel|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1673|Rural|
+27994|La Presa|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1670|Rural|
+27994|Los Hoyos (El Potrero)|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1671|Rural|
+27994|San José de Patagalana|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1672|Rural|
+27994|Abrevadero|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1668|Rural|
+27994|Huariche|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1669|Rural|
+27994|6 de Enero|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1674|Rural|
+27995|Santa Cecilia (La Cecilia)|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1676|Rural|
+27995|Presa de San Antonio|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1675|Rural|
+27995|Seguín|Pueblo|Parras|Coahuila de Zaragoza||27981|05|27981||28|024|1677|Rural|
+27996|El Mesteño|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1680|Rural|
+27996|La Vega|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|0002|Rural|
+27996|Piedra Blanca|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1683|Rural|
+27996|Cacama|Estación|Parras|Coahuila de Zaragoza||27981|05|27981||16|024|1678|Rural|
+27996|Loma Bonita (La Vega)|Ranchería|Parras|Coahuila de Zaragoza||27981|05|27981||29|024|1681|Rural|
+27996|Trincheras|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1684|Rural|
+27996|Ciénega del Carmen|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1679|Rural|
+27996|Palo Alto (El Carrizal)|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1682|Rural|
+27997|Estanque de León|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1685|Rural|
+27997|20 de Noviembre|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1688|Rural|
+27997|San Antonio del Cable|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1687|Rural|
+27997|Lucio Blanco|Ejido|Parras|Coahuila de Zaragoza||27981|05|27981||15|024|1686|Rural|

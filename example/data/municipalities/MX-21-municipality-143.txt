@@ -1,0 +1,25 @@
+74130|San Salvador el Verde|Villa|San Salvador el Verde|Puebla||74001|21|74001||32|143|1486|Rural|
+74133|Acamique|Colonia|San Salvador el Verde|Puebla||74001|21|74001||09|143|7780|Rural|
+74133|San José Acuicuilco (El Retiro)|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7782|Rural|
+74133|Tlacotepec de José Manzo|Pueblo|San Salvador el Verde|Puebla||74001|21|74001||28|143|1488|Rural|
+74133|El Potrero|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7779|Rural|
+74133|Tierra Bendita|Colonia|San Salvador el Verde|Puebla||74001|21|74001||09|143|7781|Rural|
+74134|San Simón Atzitzintla|Pueblo|San Salvador el Verde|Puebla||74001|21|74001||28|143|1487|Rural|
+74135|San Lucas el Grande|Pueblo|San Salvador el Verde|Puebla||74001|21|74001||28|143|1489|Rural|
+74136|San Antonio Chautla|Exhacienda|San Salvador el Verde|Puebla||74001|21|74001||18|143|7778|Rural|
+74136|La Calera|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7777|Rural|
+74136|Zopilocalco|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7793|Rural|
+74137|Los Japoneses|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7784|Rural|
+74137|Guadalupe la Encinera|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7787|Rural|
+74137|El Calvario|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7783|Rural|
+74137|Analco de Ponciano Arriaga (Santa Cruz Analco)|Pueblo|San Salvador el Verde|Puebla||74001|21|74001||28|143|1490|Rural|
+74137|Los Ramírez|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7786|Rural|
+74137|San Gregorio Aztotoacan|Pueblo|San Salvador el Verde|Puebla||74001|21|74001||28|143|1485|Rural|
+74137|La Ladrillera|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7792|Rural|
+74137|Alegre|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7785|Rural|
+74138|San Andrés Hueyacatitla|Pueblo|San Salvador el Verde|Puebla||74001|21|74001||28|143|1484|Rural|
+74139|Bañuelos|Colonia|San Salvador el Verde|Puebla||74001|21|74001||09|143|7789|Rural|
+74139|La Anguiona|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7790|Rural|
+74139|San Pedro Malinaltepec|Colonia|San Salvador el Verde|Puebla||74001|21|74001||09|143|7791|Rural|
+74139|Tlamaya|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7794|Rural|
+74139|San Miguel Contla|Ranchería|San Salvador el Verde|Puebla||74001|21|74001||29|143|7788|Rural|

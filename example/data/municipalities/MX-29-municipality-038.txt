@@ -1,0 +1,26 @@
+90490|San Pablo|Fraccionamiento|Tzompantepec|Tlaxcala||90301|29|90301||21|038|0866|Rural|
+90490|Doña María|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1236|Rural|
+90490|Jean Charlot II|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|0623|Rural|
+90490|La Estrella|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1233|Rural|
+90490|Loma Dorada|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1234|Rural|
+90490|Los Girasoles|Fraccionamiento|Tzompantepec|Tlaxcala||90301|29|90301||21|038|0867|Rural|
+90490|San Salvador Tzompantepec|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|0253|Rural|
+90490|Zauhtla|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1231|Rural|
+90490|Jean Charlot I|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1239|Rural|
+90490|Meyalco|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1232|Rural|
+90490|Jean Charlot III|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1240|Rural|
+90490|San Juan|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1238|Rural|
+90490|19 de Noviembre|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1235|Rural|
+90490|San Andrés|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1237|Rural|
+90490|Tepozotenco|Colonia|Tzompantepec|Tlaxcala||90301|29|90301||09|038|1241|Rural|
+90491|San Andrés Ahuashuatepec|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|0255|Rural|
+90493|Andrés Vigueras Carbajal|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|1224|Rural|
+90493|Mazapa (Rancho los Juanes)|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|1225|Rural|
+90493|Cruztitla (Coyoeca)|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|1227|Rural|
+90493|Fernando Armenta Ramos|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|1222|Rural|
+90493|San Juan Quetzalcoapan|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|0257|Rural|
+90493|El Llano|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|1226|Rural|
+90494|La Providencia las Huertas|Ranchería|Tzompantepec|Tlaxcala||90301|29|90301||29|038|1228|Rural|
+90494|San Mateo Inophil|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|0258|Rural|
+90494|Amoltepec|Ranchería|Tzompantepec|Tlaxcala||90301|29|90301||29|038|1229|Rural|
+90494|Xaltianquisco|Pueblo|Tzompantepec|Tlaxcala||90301|29|90301||28|038|1230|Rural|

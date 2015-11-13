@@ -1,0 +1,178 @@
+68300|Tuxtepec Centro|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0279|Urbano|04
+68310|Santa Fe|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0283|Urbano|04
+68310|Emiliano Zapata|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3738|Urbano|04
+68310|La Piragua|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0299|Urbano|04
+68310|El Reencuentro|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4005|Urbano|04
+68310|El Reposo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0284|Urbano|04
+68310|Maria Luisa|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0282|Urbano|04
+68313|Lázaro Cárdenas|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0287|Urbano|04
+68313|Hidalgo|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|1042|Urbano|04
+68314|Exnormal|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0298|Urbano|04
+68314|Santa Clara|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0300|Urbano|04
+68314|Eladio Ramírez|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3721|Urbano|04
+68320|La Esperanza|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4009|Urbano|04
+68320|Nueva Antequera|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3706|Urbano|04
+68320|La Esperanza|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1081|Urbano|04
+68320|El Rosario|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3705|Urbano|04
+68320|La Nueva Esperanza|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4010|Urbano|04
+68322|Los Manguitos|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3704|Urbano|04
+68323|Francisco I Madero|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0301|Urbano|04
+68323|Silverio La Arrocera|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3681|Urbano|04
+68323|Nueva Esperanza|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3702|Urbano|04
+68323|Ampliación Guadalupe|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4008|Urbano|04
+68323|La Guadalupe|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3708|Urbano|04
+68323|La Ceiba|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3716|Urbano|04
+68323|El Desengaño|Ejido|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||15|184|4029|Urbano|04
+68323|Leonides de Asís|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3714|Urbano|04
+68324|Las Limas|Ejido|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||15|184|0415|Urbano|04
+68324|La Ortega|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3709|Urbano|04
+68325|La Fe|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3743|Urbano|04
+68325|Infonavit Benito Juárez|Unidad habitacional|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||31|184|3710|Urbano|04
+68325|San Francisco las Limas|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3749|Urbano|04
+68325|Manantiales|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3747|Urbano|04
+68325|Riveras del Atoyac|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4022|Urbano|04
+68325|Lomas Altas de Tuxtepec|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4017|Urbano|04
+68325|El Esfuerzo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3720|Urbano|04
+68325|Vista Hermosa|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3748|Urbano|04
+68325|Mata de Caña|Ejido|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||15|184|4013|Urbano|04
+68326|El Jimbal|Ejido|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||15|184|4033|Urbano|04
+68326|Modelo|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4020|Urbano|04
+68330|Los Cobos|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0297|Urbano|04
+68330|San Antonio el Encinal|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0418|Urbano|04
+68330|Compañía Cervecera del Trópico|Zona industrial|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||37|184|5756|Urbano|04
+68330|23 de Noviembre|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1342|Urbano|04
+68330|Santa Cruz|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3678|Urbano|04
+68330|Casa de Funcionarios del Ingenio|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3680|Urbano|04
+68330|Compañía Cervecera|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3687|Urbano|04
+68333|Sección Nacaste|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4012|Urbano|04
+68333|Las Margaritas|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4023|Urbano|04
+68333|Sección Manguitos|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4011|Urbano|04
+68333|Talleres|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3677|Urbano|04
+68333|El Trópico|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1001|Urbano|04
+68333|Del Carmen|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0296|Urbano|04
+68333|Las Palmas del Ingenio|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|1133|Urbano|04
+68334|Insurgentes|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1049|Urbano|04
+68334|La Victoria|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4014|Urbano|04
+68334|La Florida|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4015|Urbano|04
+68334|La Moderna|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1103|Urbano|04
+68334|Sección la Mediana|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1100|Urbano|04
+68334|Guadalupe Hinojose de Murat|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3686|Urbano|04
+68335|Papaloapan|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4018|Urbano|04
+68335|12 de Julio|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3682|Urbano|04
+68335|Adolfo Lopez Mateos 1|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0292|Urbano|04
+68335|El Mirador|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3724|Urbano|04
+68335|Lomas del Ingenio|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4024|Urbano|04
+68335|Santa Ana|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4025|Urbano|04
+68335|Linda Vista|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0001|Urbano|04
+68336|La Soledad|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3679|Urbano|04
+68336|Sebastopol|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3688|Urbano|04
+68336|Obrera Benito Juárez|Ejido|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||15|184|0427|Urbano|04
+68336|Residencial Sebastopol|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3675|Urbano|04
+68336|Los Pinos|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3676|Urbano|04
+68337|Sumatra|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3683|Urbano|04
+68337|Rosario Ibarra de Piedra|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4028|Urbano|04
+68340|Amigos Charros|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0289|Urbano|04
+68340|Jardines del Arroyo|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|1058|Urbano|04
+68340|La Rosalía|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1305|Urbano|04
+68340|Bella Vista|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0884|Urbano|04
+68340|La Lorena|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1155|Urbano|04
+68340|El Castillo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0294|Urbano|04
+68345|Reacomodo Playa de Mono|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1220|Urbano|04
+68345|Adolfo Lopez Mateos II|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3592|Urbano|04
+68345|Tuxtepec|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3711|Urbano|04
+68347|Los Mangos (Nueva Era)|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3700|Urbano|04
+68347|Granada|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3731|Urbano|04
+68347|Rufino Tamayo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3699|Urbano|04
+68347|El Pedregal|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1213|Urbano|04
+68347|El Rubí|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3698|Urbano|04
+68347|San Nicolás Del Bari|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3701|Urbano|04
+68350|Fovissste las Palmas|Unidad habitacional|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||31|184|3696|Urbano|04
+68350|Alianza Obrera|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3744|Urbano|04
+68350|Lomas Del Bosque|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3722|Urbano|04
+68350|La Arboleda|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3733|Urbano|04
+68350|Loma Alta|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4030|Urbano|04
+68350|El Bosque|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3697|Urbano|04
+68350|Nueva Florencia|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3713|Urbano|04
+68353|Siglo XXI|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3712|Urbano|04
+68353|La Fortaleza|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3746|Urbano|04
+68360|INFONAVIT El Nanche|Conjunto habitacional|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||12|184|3729|Urbano|04
+68360|El Progreso|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3693|Urbano|04
+68360|San Antonio|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3715|Urbano|04
+68360|Sergio Mendez Arceo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3735|Urbano|04
+68360|Lomas Verdes|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3737|Urbano|04
+68360|El Sureste 1a Etapa|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3692|Urbano|04
+68360|2 de Abril|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3689|Urbano|04
+68363|El Sureste 2a Etapa|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3691|Urbano|04
+68363|El Edén|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3694|Urbano|04
+68364|Martha Luz|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3695|Urbano|04
+68364|Lomas San Juan|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3684|Urbano|04
+68364|El Escobillal|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3751|Urbano|04
+68364|Los Laureles|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3742|Urbano|04
+68365|Roberto Colorado|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4026|Urbano|04
+68365|Luis Donaldo Colosio|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4027|Urbano|04
+68370|Los Ángeles|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0285|Urbano|04
+68370|FOVISSSTE Costa Verde|Unidad habitacional|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||31|184|0286|Urbano|04
+68370|INFONAVIT Jorge L. Tamayo|Unidad habitacional|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||31|184|3690|Urbano|04
+68370|Maria Eugenia|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0290|Urbano|04
+68370|Costa Verde|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|0281|Urbano|04
+68373|Grajales|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0288|Urbano|04
+68373|Las Flores|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0291|Urbano|04
+68373|Oaxaca|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|1203|Urbano|04
+68373|La Lomería|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4894|Urbano|04
+68373|5 de Mayo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|0293|Urbano|04
+68373|Ruiz Fernandez|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3741|Urbano|04
+68374|INFONAVIT El Paraíso|Conjunto habitacional|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||12|184|0986|Urbano|04
+68374|18 de Marzo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3719|Urbano|04
+68375|El Diamante|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3717|Urbano|04
+68375|El Trigal|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|3718|Urbano|04
+68375|Tuxtepec Dorado|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4007|Urbano|04
+68375|El Trigal|Ampliación|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||38|184|3739|Urbano|04
+68375|Residencial del Sur|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4019|Urbano|04
+68375|El Santuario|Fraccionamiento|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||21|184|4021|Urbano|04
+68375|5 de Febrero|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4032|Urbano|04
+68376|Mundo Nuevo|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|4031|Urbano|04
+68376|Bugambilias|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3725|Urbano|04
+68376|Victor Bravo Ahuja|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3723|Urbano|04
+68376|La Unión|Colonia|San Juan Bautista Tuxtepec|Oaxaca|San Juan Bautista Tuxtepec|68301|20|68301||09|184|3734|Urbano|04
+68440|Ignacio Zaragoza|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4372|Rural|
+68440|Santa Catarina|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0405|Rural|
+68440|Santa Rosa|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0406|Rural|
+68440|Pueblo Nuevo Papaloapan|Colonia|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||09|184|0404|Rural|
+68440|Santa Teresa|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0419|Rural|
+68440|Palmilla|Ranchería|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||29|184|4866|Rural|
+68440|Papaloapan|Congregación|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||11|184|0402|Rural|
+68440|Agua Fría|Colonia|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||09|184|0403|Rural|
+68442|El Porvenir|Finca|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||20|184|0408|Rural|
+68442|San Isidro las Piñas|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0410|Rural|
+68442|Buenavista Gallardo|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0407|Rural|
+68442|San Francisco Salsipuedes|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0409|Rural|
+68443|Camarón Salsipuedes|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4529|Rural|
+68443|Tecoteno el Tular|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4374|Rural|
+68443|Buenos Aires el Apompo|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4531|Rural|
+68443|Zacate Colorado|Ranchería|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||29|184|0002|Rural|
+68443|Rancho Nuevo Jonotal|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4530|Rural|
+68443|El Yagual|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0412|Rural|
+68444|San Rafael|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0424|Rural|
+68444|Santa Úrsula|Ranchería|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||29|184|4868|Rural|
+68444|Camelia Roja|Pueblo|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||28|184|0420|Rural|
+68444|Macín Chico|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0422|Rural|
+68444|Paso Canoa|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0423|Rural|
+68444|La Mina|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4647|Rural|
+68444|La Esmalta|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0421|Rural|
+68445|La Reforma|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0426|Rural|
+68445|San Silverio el Cedral|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0428|Rural|
+68446|El Cedral|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0430|Rural|
+68446|San Bartolo|Congregación|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||11|184|0431|Rural|
+68446|Guadalupe|Colonia|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||09|184|4762|Urbano|
+68446|Arroyo Limón|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0429|Rural|
+68447|El Paraíso Zacatal|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|4528|Rural|
+68447|Rodeo Arroyo Pepesca|Ranchería|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||29|184|0436|Rural|
+68447|Bethania|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0432|Rural|
+68447|Fuente Misteriosa|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0434|Rural|
+68447|San Miguel Obispo|Pueblo|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||28|184|0437|Rural|
+68447|Camalotal|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0433|Rural|
+68447|Ojo de Agua|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0435|Rural|
+68447|Santa Maria Obispo|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0438|Rural|
+68448|Benito Juárez|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0439|Rural|
+68449|La Carlota|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0440|Rural|
+68449|San Felipe de La Peña|Ejido|San Juan Bautista Tuxtepec|Oaxaca||68301|20|68301||15|184|0441|Rural|

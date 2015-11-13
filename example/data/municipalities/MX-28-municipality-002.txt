@@ -1,0 +1,29 @@
+89670|Arboledas|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2001|Rural|
+89670|Luis Caballero|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2106|Rural|
+89670|Aldama|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|1796|Rural|
+89670|Nuevo Tamaulipas|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|3805|Urbano|
+89670|La Azufrosa (El Higuerón)|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1798|Rural|
+89670|Constitución|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2013|Rural|
+89670|Los Pinos|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2104|Rural|
+89670|Francisco I Madero|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1797|Rural|
+89670|Del Bosque|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2017|Rural|
+89670|Rio Verde|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2152|Rural|
+89670|Matamoros|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2113|Rural|
+89670|Mariano Matamoros|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2504|Rural|
+89670|Brownsville|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2007|Rural|
+89670|Revolución Verde|Colonia|Aldama|Tamaulipas||89671|28|89671||09|002|2150|Rural|
+89672|Las Flores 1|Ranchería|Aldama|Tamaulipas||89671|28|89671||29|002|1800|Rural|
+89672|Moron|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1801|Rural|
+89673|El Carrizal 2|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1803|Rural|
+89673|Higinio Tanguma|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1804|Rural|
+89673|Alberto Carrera Torres|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1802|Rural|
+89674|Revolución|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|3630|Rural|
+89674|Rancho de Piedra|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1805|Rural|
+89675|Santa María|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|3893|Rural|
+89675|Real Viejo|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|3632|Rural|
+89676|El Pichijumo|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|3727|Rural|
+89677|Las Yucas|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1806|Rural|
+89677|La Cabecera|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|3920|Rural|
+89678|Nuevo Progreso|Ranchería|Aldama|Tamaulipas||89671|28|89671||29|002|1807|Rural|
+89679|El Vidal|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1808|Rural|
+89679|Las Alazanas|Ejido|Aldama|Tamaulipas||89671|28|89671||15|002|1809|Rural|

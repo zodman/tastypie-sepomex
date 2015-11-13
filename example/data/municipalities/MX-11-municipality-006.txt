@@ -1,0 +1,37 @@
+37940|Atarjea|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2259|Rural|
+37940|De La Mesa|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6018|Rural|
+37943|Salitrillo|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6015|Rural|
+37943|Cerro Prieto|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2261|Rural|
+37943|El Banco|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|5992|Rural|
+37943|El Charco|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|5994|Rural|
+37944|El Durazno|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|5996|Rural|
+37944|El Mezquital|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|5997|Rural|
+37945|La Joya|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2262|Rural|
+37945|El Ángel|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|5990|Rural|
+37945|La Lagunita|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6005|Rural|
+37945|San Antón|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6016|Rural|
+37945|El Piñonal|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6000|Rural|
+37945|Puerto de la Joya|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6013|Rural|
+37945|San Juan de Dios|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6017|Rural|
+37946|Álamos|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2264|Rural|
+37946|Puerto la Escondida|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6014|Rural|
+37946|Llanitos A|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6007|Rural|
+37946|Morisquillas|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6009|Rural|
+37946|Palo Verde|Granja|Atarjea|Guanajuato||37981|11|37981||23|006|6010|Rural|
+37946|El Pelón|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|5998|Rural|
+37946|Mangas Cuatas|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2263|Rural|
+37947|La Tapona|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2265|Rural|
+37947|El Sauz|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6001|Rural|
+37947|El Torbellino (Puerto del Torbellino)|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6002|Rural|
+37947|Los Llanitos|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6008|Rural|
+37947|Aldama (Xoconoxtle)|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2266|Rural|
+37947|El Cantón|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|5993|Rural|
+37947|La Luz|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|6006|Rural|
+37947|Piedra Gorda|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6011|Rural|
+37947|El Apartadero|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|5991|Rural|
+37947|Pinalito de la Gloria|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6012|Rural|
+37947|Ex-Hacienda de Charcas|Hacienda|Atarjea|Guanajuato||37981|11|37981||24|006|6004|Rural|
+37947|El Chilarito|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|5995|Rural|
+37948|El Toro|Poblado comunal|Atarjea|Guanajuato||37981|11|37981||27|006|6003|Rural|
+37948|El Carricillo|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|2260|Rural|
+37948|El Pilón|Ranchería|Atarjea|Guanajuato||37981|11|37981||29|006|5999|Rural|

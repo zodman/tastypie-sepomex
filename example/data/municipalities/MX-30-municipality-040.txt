@@ -1,0 +1,36 @@
+93160|Escolin de Olarte|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|5131|Urbano|49
+93160|Coatzintla Centro|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|2184|Urbano|49
+93162|Los Naranjos|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4909|Urbano|49
+93162|14 de Marzo|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4914|Urbano|49
+93162|Cerro del Tepeyac|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|5965|Urbano|49
+93162|López Mateos|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|4908|Urbano|49
+93162|Los Angeles|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4913|Urbano|49
+93163|Tajin|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4915|Urbano|49
+93163|Jardines de Coatzintla|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4916|Urbano|49
+93163|Infonavit Camioneros|Unidad habitacional|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||31|040|1797|Urbano|49
+93163|Olmeca|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4917|Urbano|49
+93164|Ampliación Morelos|Ampliación|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||38|040|6660|Urbano|49
+93164|Faja de Oro|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|5686|Urbano|49
+93164|Kawatzin Valencia|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|4911|Urbano|49
+93164|José María Morelos y Pavón|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|2024|Urbano|49
+93164|Veracruz|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|5687|Urbano|49
+93164|5 de Febrero|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|6661|Urbano|49
+93165|Antonio M. Quirasco 2a Sección|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|5652|Urbano|49
+93165|Azteca|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|4907|Urbano|49
+93165|De Xico|Barrio|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||02|040|1783|Urbano|49
+93166|Adolfo Ruíz Cortines|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|1759|Urbano|49
+93166|Antonio M. Quirasco|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|1768|Urbano|49
+93166|San Rafael|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|5964|Urbano|49
+93167|Las Palmas|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||21|040|0001|Rural|49
+93169|Luis Donaldo Colosio|Colonia|Coatzintla|Veracruz de Ignacio de la Llave|Coatzintla|93261|30|93261||09|040|4910|Urbano|49
+93170|Guadalupe Victoria|Ranchería|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||29|040|2189|Rural|
+93170|La Laguna|Congregación|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||11|040|2188|Rural|
+93172|La Laja|Ranchería|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||29|040|5651|Urbano|
+93172|Corralillos|Congregación|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||11|040|2185|Rural|
+93173|Arroyo Florido|Ejido|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||15|040|2193|Rural|
+93173|San Fernando|Ejido|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||15|040|2192|Rural|
+93174|Geovillas del Real|Fraccionamiento|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||21|040|7851|Rural|
+93174|El Chote|Poblado comunal|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||27|040|7946|Rural|
+93175|Manuel María Contreras|Congregación|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||11|040|2190|Rural|
+93175|Palma Sola|Ejido|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||15|040|2187|Rural|
+93176|El Vizcaíno|Ejido|Coatzintla|Veracruz de Ignacio de la Llave||93261|30|93261||15|040|2191|Rural|

@@ -1,0 +1,15 @@
+69010|Chazumba|Pueblo|Santiago Chazumba|Oaxaca||69018|20|69018||28|459|1412|Rural|
+69010|Cerro Colorado|Colonia|Santiago Chazumba|Oaxaca||69018|20|69018||09|459|0908|Rural|
+69010|Las Águilas|Colonia|Santiago Chazumba|Oaxaca||69018|20|69018||09|459|1124|Rural|
+69010|Lázaro Cárdenas|Colonia|Santiago Chazumba|Oaxaca||69018|20|69018||09|459|1137|Rural|
+69010|Santiago Chazumba|Pueblo|Santiago Chazumba|Oaxaca||69018|20|69018||28|459|1413|Rural|
+69011|Santo Domingo Tianguistengo|Ranchería|Santiago Chazumba|Oaxaca||69018|20|69018||29|459|1414|Rural|
+69012|San Jose Chichihualtepec|Ranchería|Santiago Chazumba|Oaxaca||69018|20|69018||29|459|1417|Rural|
+69013|Trinidad Huastepec|Pueblo|Santiago Chazumba|Oaxaca||69001|20|69001||28|459|1418|Rural|
+69014|Acaquizapan|Pueblo|Santiago Chazumba|Oaxaca||69001|20|69001||28|459|1419|Rural|
+69015|Maninaltepec|Pueblo|Santiago Chazumba|Oaxaca||69001|20|69001||28|459|1420|Rural|
+69015|San Juan Nochixtlan|Ranchería|Santiago Chazumba|Oaxaca||69001|20|69001||29|459|1421|Rural|
+69016|San Sebastián Frontera|Ranchería|Santiago Chazumba|Oaxaca||69018|20|69018||29|459|1423|Rural|
+69016|Olleras|Ranchería|Santiago Chazumba|Oaxaca||69018|20|69018||29|459|1422|Rural|
+69017|Lunatitlan Del Progreso|Ranchería|Santiago Chazumba|Oaxaca||69018|20|69018||29|459|1425|Rural|
+69017|El Higo|Ranchería|Santiago Chazumba|Oaxaca||69018|20|69018||29|459|1424|Rural|

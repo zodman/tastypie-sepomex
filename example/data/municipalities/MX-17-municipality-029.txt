@@ -1,0 +1,128 @@
+62730|Centro|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0387|Urbano|
+62732|Ignacio Zaragoza|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1828|Semiurbano|
+62732|Lomas del Potrero|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1829|Semiurbano|
+62732|La Morena|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1869|Semiurbano|
+62732|Laureles|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1876|Semiurbano|
+62732|Benito Juárez|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0853|Semiurbano|
+62732|Conjunto Villareal I, II, III, y IV|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1855|Semiurbano|
+62732|Viyautepec 1a Sección|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1861|Semiurbano|
+62732|El Rocio|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1867|Semiurbano|
+62732|La Gema|Unidad habitacional|Yautepec|Morelos||62731|17|62731||31|029|1868|Semiurbano|
+62732|Amates|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1878|Semiurbano|
+62732|Mi Pueblito|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1879|Semiurbano|
+62732|Santiago|Barrio|Yautepec|Morelos||62731|17|62731||02|029|0854|Semiurbano|
+62732|Ignacio Manuel Altamirano|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0864|Semiurbano|
+62732|Jacarandas|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1851|Semiurbano|
+62732|La Selva|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1857|Semiurbano|
+62732|Los Mangos|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1858|Urbano|
+62732|Residencial Yautepec|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1877|Semiurbano|
+62732|Felipe Neri|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0851|Semiurbano|
+62732|Tabachines|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1835|Semiurbano|
+62732|Villas Jazmín I y II|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1843|Semiurbano|
+62732|Rincón de los Ciruelos|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1850|Urbano|
+62732|Conjunto Valle Verde|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1863|Semiurbano|
+62732|Las Zamoras|Unidad habitacional|Yautepec|Morelos||62731|17|62731||31|029|1864|Semiurbano|
+62732|Tlacaelel|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1865|Semiurbano|
+62732|Beit Mellat|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1866|Semiurbano|
+62732|Conjunto Tepetlixpa|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1872|Semiurbano|
+62732|Viyautepec 2a Sección|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1862|Semiurbano|
+62732|Ixtlahuacan|Barrio|Yautepec|Morelos||62731|17|62731||02|029|0383|Semiurbano|
+62732|Jacarandas|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0860|Semiurbano|
+62732|Apanquetzalco|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1830|Semiurbano|
+62732|Conjunto Jacarandas I y II|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1853|Semiurbano|
+62732|Vicente Estrada Cajigal|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0862|Semiurbano|
+62732|13 de Septiembre|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0865|Semiurbano|
+62732|Las Quintas|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1852|Semiurbano|
+62732|Los Naranjos|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1856|Urbano|
+62732|La Antigua|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1870|Urbano|
+62733|San Juan|Barrio|Yautepec|Morelos||62731|17|62731||02|029|0868|Semiurbano|
+62733|San Juanito|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1833|Semiurbano|
+62733|Lomas del Real|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1834|Semiurbano|
+62733|Los Limones|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1845|Semiurbano|
+62733|5 de Mayo|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0379|Semiurbano|
+62733|Luis Echeverría|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0849|Semiurbano|
+62733|Cuauhtémoc|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1827|Semiurbano|
+62733|Alfredo Bonfil|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0856|Semiurbano|
+62733|Jovito Serrano|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1836|Semiurbano|
+62733|Residencial Cañaveral|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1846|Semiurbano|
+62733|Residencial Llano Grande|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1847|Semiurbano|
+62733|24 de Febrero|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0386|Semiurbano|
+62733|Buenavista|Barrio|Yautepec|Morelos||62731|17|62731||02|029|0850|Urbano|
+62733|Emiliano Zapata|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0852|Semiurbano|
+62733|Otilio Montaño|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0857|Semiurbano|
+62733|Paraíso|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0861|Semiurbano|
+62733|Residencial Maravillas I|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1849|Semiurbano|
+62733|El Rocio|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0381|Semiurbano|
+62733|Rancho Nuevo|Barrio|Yautepec|Morelos||62731|17|62731||02|029|0385|Urbano|
+62733|Huizachera|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1831|Semiurbano|
+62733|La Ceiba|Unidad habitacional|Yautepec|Morelos||62731|17|62731||31|029|1860|Semiurbano|
+62733|Paracas|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1832|Semiurbano|
+62733|Villas del Paraíso|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1844|Semiurbano|
+62733|Residencial del Bosque|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1848|Semiurbano|
+62733|Jazmín Yautepec I y II|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1854|Semiurbano|
+62733|Atlihuayan|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0377|Semiurbano|
+62733|Yautli|Unidad habitacional|Yautepec|Morelos||62731|17|62731||31|029|1859|Semiurbano|
+62735|La Joya|Colonia|Yautepec|Morelos||62571|17|62571||09|029|0384|Urbano|
+62735|Amador Salazar|Pueblo|Yautepec|Morelos||62571|17|62571||28|029|0392|Semiurbano|
+62735|Álvaro Leonel|Colonia|Yautepec|Morelos||62571|17|62571||09|029|0829|Urbano|
+62735|Tetillas|Ampliación|Yautepec|Morelos||62571|17|62571||38|029|0397|Semiurbano|
+62736|Cocoyoc|Pueblo|Yautepec|Morelos||62734|17|62734||28|029|0398|Rural|
+62736|Francisco Villa|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0871|Rural|
+62736|Tehuixtlera|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0872|Rural|
+62736|Coaxiolotera|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1892|Rural|
+62736|Cuauhtémoc|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0380|Rural|
+62736|Emiliano Zapata|Ampliación|Yautepec|Morelos||62734|17|62734||38|029|1890|Rural|
+62736|Viveros de Cocoyoc|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0967|Rural|
+62736|Alejandra|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0873|Rural|
+62736|Vicente Guerrero|Ampliación|Yautepec|Morelos||62734|17|62734||38|029|1887|Rural|
+62736|El Potrero|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1896|Rural|
+62736|Vicente Guerrero|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0870|Rural|
+62736|Lucio Blanco|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0968|Rural|
+62736|El Partidor|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1891|Rural|
+62737|Santa Lucía|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1840|Rural|
+62737|Itzamatitlán|Pueblo|Yautepec|Morelos||62731|17|62731||28|029|0382|Rural|
+62737|Lázaro Cárdenas|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0406|Rural|
+62737|San Carlos|Unidad habitacional|Yautepec|Morelos||62731|17|62731||31|029|0869|Rural|
+62737|El Caracol Campo Chiquito|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0399|Rural|
+62737|Oacalco|Pueblo|Yautepec|Morelos||62731|17|62731||28|029|0407|Rural|
+62737|La Nopalera|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0389|Semiurbano|
+62737|El Zarco|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1838|Rural|
+62737|Francisco I Madero|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1839|Rural|
+62737|El Michate|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1842|Rural|
+62737|Los Arcos|Pueblo|Yautepec|Morelos||62731|17|62731||28|029|0400|Rural|
+62737|Ignacio Bastida|Pueblo|Yautepec|Morelos||62731|17|62731||28|029|0405|Rural|
+62737|Flores Magón|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1841|Rural|
+62738|Vergeles de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0950|Semiurbano|
+62738|Casahuates|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1886|Semiurbano|
+62738|Emiliano Zapata (Palo Mocho)|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0955|Semiurbano|
+62738|José Ortiz (San Martín)|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0401|Rural|
+62738|Oaxtepec Centro|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0403|Semiurbano|
+62738|Santa Rosa|Ampliación|Yautepec|Morelos||62734|17|62734||38|029|1884|Semiurbano|
+62738|Amates de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0942|Semiurbano|
+62738|Pedregal de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0943|Semiurbano|
+62738|Lomas de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0952|Semiurbano|
+62738|Centro Vacacional Oaxtepec|Gran usuario|Yautepec|Morelos||62734|17|62734||22|029|0953|Semiurbano|
+62738|Ampliación el Capulín|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0954|Semiurbano|
+62738|Los Ojos de Huilican|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1882|Semiurbano|
+62738|Santa Rosa|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0874|Semiurbano|
+62738|Real de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0944|Semiurbano|
+62738|Altos de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0951|Semiurbano|
+62738|Ejidal Tezoquipa|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1883|Semiurbano|
+62738|Los Limones|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1888|Semiurbano|
+62738|El Potrero|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1889|Semiurbano|
+62738|Huertos de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0940|Semiurbano|
+62738|Corral Grande|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0956|Semiurbano|
+62738|Colinas de Oaxtepec|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0941|Semiurbano|
+62738|Jacarandas|Fraccionamiento|Yautepec|Morelos||62734|17|62734||21|029|0947|Semiurbano|
+62738|El Capulín|Colonia|Yautepec|Morelos||62734|17|62734||09|029|0949|Semiurbano|
+62738|Curva Melón Zacate|Colonia|Yautepec|Morelos||62734|17|62734||09|029|1885|Semiurbano|
+62739|Miguel Hidalgo|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0391|Semiurbano|
+62739|Diego Ruiz|Colonia|Yautepec|Morelos||62731|17|62731||09|029|0393|Semiurbano|
+62739|San Isidro|Pueblo|Yautepec|Morelos||62731|17|62731||28|029|0394|Semiurbano|
+62739|Ramírez|Unidad habitacional|Yautepec|Morelos||62731|17|62731||31|029|1873|Semiurbano|
+62739|San Pablo|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1875|Semiurbano|
+62739|Valle Encantado|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1881|Semiurbano|
+62739|Huertos del Mirador|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1880|Semiurbano|
+62739|Caudillo del Sur|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1837|Semiurbano|
+62739|Joya de las Víboras|Colonia|Yautepec|Morelos||62731|17|62731||09|029|1871|Semiurbano|
+62739|Rincón del Río|Fraccionamiento|Yautepec|Morelos||62731|17|62731||21|029|1874|Semiurbano|

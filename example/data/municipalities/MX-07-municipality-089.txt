@@ -1,0 +1,663 @@
+30700|Tapachula Centro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1623|Urbano|03
+30705|16 de Septiembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1626|Urbano|03
+30709|Tapachula (Tapachula)|Aeropuerto|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||01|089|1627|Urbano|03
+30710|5 de Febrero|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1629|Urbano|03
+30710|Campestre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2497|Urbano|03
+30710|Perla del Soconusco|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|6719|Urbano|03
+30710|Burocrática|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1628|Urbano|03
+30716|12 de Diciembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1630|Urbano|03
+30718|Revolucionaria Campesina|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1632|Urbano|03
+30719|9 de Junio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7314|Urbano|03
+30719|Monte del Paraíso|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5611|Urbano|03
+30719|Villa Izapa|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4468|Urbano|03
+30719|3 Cruces|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4561|Urbano|03
+30719|Brisas del Texcuyuapan|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5612|Urbano|03
+30719|La Ceiba|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7315|Urbano|03
+30720|Lomas de Chiapas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2499|Urbano|03
+30720|Progreso|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4475|Urbano|03
+30720|Lomas del Tacana|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1635|Urbano|03
+30720|San Jerónimo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2677|Urbano|03
+30720|Progreso II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4476|Urbano|03
+30720|Jardines del Tacana|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1634|Urbano|03
+30720|San Román|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2672|Urbano|03
+30720|Loma Bonita|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4480|Urbano|03
+30723|Luis Donaldo Colosio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4469|Urbano|03
+30723|La Unión|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4473|Urbano|03
+30723|San Luis|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4471|Urbano|03
+30723|Rosalveli|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4474|Urbano|03
+30723|San Luis II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5613|Urbano|03
+30723|12 de Octubre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5614|Urbano|03
+30723|Montenegro|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|1777|Rural|03
+30723|Cantón Montenegro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4470|Urbano|03
+30723|Alianza Campesina|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4472|Urbano|03
+30724|San Marcos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4477|Urbano|03
+30725|Loma Bonita|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1637|Urbano|03
+30725|Lomas del Soconusco|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1638|Urbano|03
+30726|Átomo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1639|Urbano|03
+30729|Real Izapa|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|6718|Urbano|03
+30729|Las Galaxias|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1643|Urbano|03
+30729|Juan Escutia|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|7316|Urbano|03
+30729|Colinas del Rey|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2495|Urbano|03
+30730|Las Américas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1644|Urbano|03
+30730|La Ceiba|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|3042|Urbano|03
+30730|Primero de Mayo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1645|Urbano|03
+30730|Costa del Sol|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|6724|Urbano|03
+30730|Coatancito|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4570|Urbano|03
+30730|Xochimilco|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1647|Urbano|03
+30734|Toluquita|Poblado comunal|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||27|089|7058|Rural|03
+30734|Unidad 2000|Ejido|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||15|089|7055|Rural|03
+30734|Nueva Galicia|Finca|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||20|089|7057|Rural|03
+30734|Veintiuno de Marzo (Manuel Lazos)|Ejido|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||15|089|7061|Rural|03
+30734|El Tesoro (El Cantón)|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7056|Rural|03
+30734|Beneficio Torreón|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7060|Rural|03
+30734|8 de Diciembre|Ejido|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||15|089|7063|Rural|03
+30734|Montaña el Chaparrón|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7059|Rural|03
+30734|El Tesoro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7062|Rural|03
+30735|Santa Catarina|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7066|Rural|03
+30735|Las Delicias|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4456|Urbano|03
+30735|El Vegel|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4455|Urbano|03
+30735|Primavera|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7064|Rural|03
+30735|Trinidad|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7065|Rural|03
+30736|Manga de Clavo|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7067|Rural|03
+30737|Villa Petrolera|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|7317|Urbano|03
+30737|Xochimilco Infonavit|Unidad habitacional|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||31|089|1653|Urbano|03
+30737|Gravera|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5610|Urbano|03
+30738|Electricista|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7318|Urbano|03
+30738|Los Ángeles|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4466|Urbano|03
+30738|La Fe|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4462|Urbano|03
+30738|Los Jazmines|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|6727|Urbano|03
+30738|Jardines de Chiapas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5607|Urbano|03
+30738|Valle Hermoso|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7068|Urbano|03
+30738|15 de Abril|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5609|Urbano|03
+30738|La Nueva Esperanza|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7069|Urbano|03
+30738|Huerto de Janeiro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2488|Urbano|03
+30738|24 de Diciembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2491|Urbano|03
+30738|Alianza 6 de Abril|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5608|Urbano|03
+30739|El Girasol I|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7319|Urbano|03
+30739|El Rinconcito|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1656|Urbano|03
+30739|Santa Cecilia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2494|Urbano|03
+30740|Coapantes|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|0001|Urbano|03
+30740|Francisco Villa|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1657|Urbano|03
+30740|Lomas de Sayula|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1658|Urbano|03
+30740|La Noria|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|3250|Urbano|03
+30740|Monroy|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1659|Urbano|03
+30740|Las Mil Garzas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7320|Urbano|03
+30740|El Encanto|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4481|Urbano|03
+30740|Belén|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2592|Urbano|03
+30745|Farallón|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|0006|Urbano|03
+30745|Bonanza|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1661|Urbano|03
+30745|El Tesoro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4487|Urbano|03
+30745|Cuscuzate|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4484|Urbano|03
+30745|Perla Norte|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4486|Urbano|03
+30745|Lomas de San Ángel|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5615|Urbano|03
+30747|La Herradura|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|6721|Urbano|03
+30747|Lázaro Cárdenas del Río|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4482|Urbano|03
+30747|Campestre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7321|Urbano|03
+30747|Boulevard del Bosque|Residencial|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||30|089|1662|Urbano|03
+30747|San Juan de los Lagos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2498|Urbano|03
+30747|Villa Campestre|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|7322|Urbano|03
+30748|13 de Febrero|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1664|Urbano|03
+30749|Barrio Nuevo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1665|Urbano|03
+30749|Las Gardenias|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4463|Urbano|03
+30749|Girasol|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4464|Urbano|03
+30750|Democrática Magisterial|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|3041|Urbano|03
+30750|San Juan|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1668|Urbano|03
+30750|El Porvenir|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1666|Urbano|03
+30750|Insurgentes|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1667|Urbano|03
+30755|La Cima|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|0003|Urbano|03
+30755|Lumijá|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|0002|Urbano|03
+30755|18 de Octubre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1669|Urbano|03
+30757|Lomas del Bosque|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4558|Urbano|03
+30757|5a Vista Real|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4457|Urbano|03
+30757|Maratea|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4458|Urbano|03
+30757|Loma Linda|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1671|Urbano|03
+30757|El Refugio|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7070|Rural|03
+30760|Vista Hermosa|Residencial|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||30|089|1676|Urbano|03
+30760|Cuauhtémoc|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1672|Urbano|03
+30760|San Caralampio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1674|Urbano|03
+30763|Pedregal Sur Pte|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4554|Urbano|03
+30763|5a San Ramón|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4552|Urbano|03
+30763|Los Limoncitos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4567|Urbano|03
+30763|Granjas el Paraíso|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4556|Urbano|03
+30763|J. E. Peztalozzi|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4557|Urbano|03
+30763|El Confiti|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1747|Urbano|03
+30766|Santa Elena|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|3045|Urbano|03
+30766|Juárez|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|3046|Urbano|03
+30766|San Agustin|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1681|Urbano|03
+30766|Nueva 18 de Octubre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1680|Urbano|03
+30766|Campestre Independencia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|3043|Urbano|03
+30767|Framboyanes Infonavit|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1683|Urbano|03
+30767|Democracia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1682|Urbano|03
+30768|Cinco Hermanos|Ranchería|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||29|089|7071|Rural|03
+30768|El Paraíso|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1684|Urbano|03
+30768|Lomas de Tapachula|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1686|Urbano|03
+30768|El Rosario|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1685|Urbano|03
+30769|Obrera|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1687|Urbano|03
+30770|Jardines del Cahuacan|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4485|Urbano|03
+30770|Magisterial|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1689|Urbano|03
+30770|Del Maestro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5719|Urbano|03
+30770|Guadalupe|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1688|Urbano|03
+30770|Militar|Residencial|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||30|089|1691|Urbano|03
+30778|Quinta San Antonio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1694|Urbano|03
+30779|FOVISSSTE|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1695|Urbano|03
+30780|Seminarista|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1699|Urbano|03
+30780|Bosques las Palomas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2486|Urbano|03
+30780|El Sol|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4572|Urbano|03
+30780|Fuerza y Progreso|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2490|Urbano|03
+30780|Unión Proletariados Emiliano Zapata|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4506|Urbano|03
+30780|El Silencio II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4492|Urbano|03
+30780|Esperanza 2000|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4496|Urbano|03
+30780|Los Laureles|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1698|Urbano|03
+30780|6 de Enero|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2669|Urbano|03
+30780|Calpan|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2673|Urbano|03
+30780|Fovi Banamex|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4491|Urbano|03
+30780|5a San Enrique|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5720|Urbano|03
+30780|El Silencio I|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1696|Urbano|03
+30780|Hierbabuena|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5784|Urbano|03
+30783|La Floresta II|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4499|Urbano|03
+30783|5 de Abril|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4502|Urbano|03
+30783|La Joya I|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5619|Urbano|03
+30783|Esquipulas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4497|Urbano|03
+30783|La Cañada|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|0007|Urbano|03
+30783|Los Amores|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4504|Urbano|03
+30783|La Joya II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4505|Urbano|03
+30783|La Floresta I|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4498|Urbano|03
+30783|Santa Cruz Hidalgo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4501|Urbano|03
+30783|Carmen la Joya|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4500|Urbano|03
+30783|Las Carmelitas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5620|Urbano|03
+30784|Juan Sabines Guerrero|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5847|Urbano|03
+30784|Los Llanes|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4511|Urbano|03
+30784|Santa Rosa|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4512|Urbano|03
+30784|El Diamante|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5622|Urbano|03
+30784|Las Gardenias|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7323|Urbano|03
+30784|La Gloria|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1750|Urbano|03
+30784|Rincón La Joya|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|0008|Urbano|03
+30784|Salinas de Gortari|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4508|Urbano|03
+30784|E Paraje|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4513|Urbano|03
+30784|28 de Octubre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5623|Urbano|03
+30784|San Antonio|Barrio|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||02|089|7340|Rural|03
+30784|Octavio Paz|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4509|Urbano|03
+30784|Los Palacios|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4510|Urbano|03
+30784|Santa Rosa la Joya|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5621|Urbano|03
+30784|Los Palacios II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5647|Urbano|03
+30785|Las Rosas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5627|Urbano|03
+30785|La Arbolada|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|7072|Urbano|03
+30785|Las Flores|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7075|Urbano|03
+30785|San Antonio de Los Milagros|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4514|Urbano|03
+30785|Monte Olivos|Poblado comunal|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||27|089|7076|Rural|03
+30785|18 de Marzo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2408|Urbano|03
+30785|Rincón del Bosque|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2670|Urbano|03
+30785|Arboledas|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4520|Urbano|03
+30785|Pajarillos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5626|Urbano|03
+30785|Las Palmeras|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1700|Urbano|03
+30785|La Ceiba|Poblado comunal|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||27|089|7077|Rural|03
+30785|Guadalupe 12 de Diciembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4519|Urbano|03
+30785|Santa Cecilia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5625|Urbano|03
+30785|Belén II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5629|Urbano|03
+30785|Guadalupe Palmeras|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7073|Urbano|03
+30785|Unión Popular|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7341|Urbano|03
+30786|Nuevo Mundo San Antonio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1731|Urbano|03
+30786|Granja la Joya|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1703|Urbano|03
+30786|El Paraíso|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4573|Urbano|03
+30786|Indeco Cebadilla|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1702|Urbano|03
+30786|Nuevo Mundo 3|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1706|Urbano|03
+30786|María Eugenia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2398|Urbano|03
+30786|San Antonio Cebadilla|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4515|Urbano|03
+30786|Pedregal San Antonio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4516|Urbano|03
+30786|Pintoresco|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2415|Urbano|03
+30786|Universo|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4507|Urbano|03
+30786|La Perla|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2418|Urbano|03
+30786|Villa Dorada|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2414|Urbano|03
+30786|Nuevo Mundo 1|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1704|Urbano|03
+30786|Nuevo Mundo 2|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1705|Urbano|03
+30787|La Esmeralda|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2492|Urbano|03
+30787|Azteca|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1707|Urbano|03
+30788|Santa Clara|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1709|Urbano|03
+30788|13 de Septiembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2502|Urbano|03
+30788|Buena Vista|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2674|Urbano|03
+30788|Santa Clara II|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|6728|Urbano|03
+30788|Éxtasis|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1708|Urbano|03
+30788|Los Reyes|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2675|Urbano|03
+30788|Las Torres|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5618|Urbano|03
+30788|San Francisco|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5617|Urbano|03
+30788|Santa Clara|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1710|Urbano|03
+30789|Venustiano Carranza|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2487|Urbano|03
+30789|Santa María la Ribera|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4490|Urbano|03
+30789|Brisas del Cahuacan|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4488|Urbano|03
+30789|San Antonio Cahoacan|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1711|Urbano|03
+30790|Nueva España|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1720|Urbano|03
+30790|Pacifico|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1722|Urbano|03
+30790|José Marti|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5616|Urbano|03
+30790|2 Islas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1714|Urbano|03
+30790|11 de Septiembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1721|Urbano|03
+30790|Damigas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2402|Urbano|03
+30790|Joaquín del Pino|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1717|Urbano|03
+30790|Flor Blanca|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2400|Urbano|03
+30790|Reforma|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1723|Urbano|03
+30790|El Carmen Maravillas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4517|Urbano|03
+30790|Flores de Tapachula|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4569|Urbano|03
+30790|Belisario Domínguez|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2406|Urbano|03
+30790|Benito Juárez|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1712|Urbano|03
+30790|Calcaneo Beltrán|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1713|Urbano|03
+30790|Fray Matías de Córdova|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4518|Urbano|03
+30790|Hermosa Provincia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4528|Urbano|03
+30790|San Sebastián|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1724|Urbano|03
+30792|Las Palmas|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2403|Urbano|03
+30793|Doroteo Arango|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1725|Urbano|03
+30793|Texcuyuapan|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2401|Urbano|03
+30793|Santa Barbara del Bosque|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4568|Urbano|03
+30793|2 de Marzo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4493|Urbano|03
+30793|Texcuyuapan II|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4495|Urbano|03
+30793|Los Pinos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4494|Urbano|03
+30794|La Española|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2411|Urbano|03
+30794|Santa Cruz Aguinal|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2416|Urbano|03
+30794|San José El Edén|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1728|Urbano|03
+30794|Morelos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1727|Urbano|03
+30794|20 de Noviembre|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2413|Urbano|03
+30794|San Miguel|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2412|Urbano|03
+30795|Teofilo Acebo|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1733|Urbano|03
+30795|Esquipulas II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5624|Urbano|03
+30795|Los Limones|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|0009|Urbano|03
+30795|Villa las Flores II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4574|Urbano|03
+30795|Emiliano Zapata|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1730|Urbano|03
+30795|Los Amates|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2404|Urbano|03
+30795|Los Claveles|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5724|Urbano|03
+30795|Villa las Flores|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1734|Urbano|03
+30795|Pedregal San Ángel|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4571|Urbano|03
+30795|Pobres Unidos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1732|Urbano|03
+30796|Valle Verde|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4548|Urbano|03
+30796|Rosas de Tacana|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4549|Urbano|03
+30796|INFONAVIT las Vegas|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4551|Urbano|03
+30796|Los Cedros 1a Etapa|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|5872|Urbano|03
+30796|Libertad|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1736|Urbano|03
+30796|Nueva Jerusalem|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4545|Urbano|03
+30796|Rinconada del Carmen|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|5652|Urbano|03
+30796|Primavera|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4546|Urbano|03
+30796|Antorcha Vivah|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4547|Urbano|03
+30796|Los Ruiseñores|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4550|Urbano|03
+30796|Maya Sol|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5628|Urbano|03
+30796|Montebello|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5722|Urbano|03
+30797|Ecológico las Hortensias|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2597|Urbano|03
+30797|Teófilo Acebo II|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4524|Urbano|03
+30797|Valle Dorado|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2600|Urbano|03
+30797|Los Tulipanes|Residencial|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||30|089|2598|Urbano|03
+30797|El Suspiro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4525|Urbano|03
+30797|Procasa|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4527|Urbano|03
+30797|Teófilo Acebo I|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|7074|Urbano|03
+30797|Universitario|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2599|Urbano|03
+30797|Santa Lucía|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4522|Urbano|03
+30797|Los Cocos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4523|Urbano|03
+30797|Cantarranas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1742|Urbano|03
+30797|Didier Fuente Villa|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4529|Urbano|03
+30798|Costa Verde|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|0005|Urbano|03
+30798|Raymundo Enríquez|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1799|Urbano|03
+30798|La Antorcha|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2594|Urbano|03
+30798|Buenos Aires|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4530|Urbano|03
+30798|Antiguo Aeropuerto|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4531|Urbano|03
+30798|Los Cafetales|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4534|Urbano|03
+30798|Unidad y Fuerza|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4537|Urbano|03
+30798|Vida Mejor|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4564|Urbano|03
+30798|Olimpia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4532|Urbano|03
+30798|Residencial las Vegas|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|0004|Urbano|03
+30798|San Isidro|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2407|Urbano|03
+30798|La Victoria|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|5598|Urbano|03
+30798|Bienestar Social|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2409|Urbano|03
+30798|Ojo de Agua|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4563|Urbano|03
+30798|Jubileo 2000|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5553|Urbano|03
+30798|Elektra|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|5723|Urbano|03
+30798|Solidaridad las Vegas|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|1745|Urbano|03
+30798|Llano de La Lima|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1798|Urbano|03
+30798|Los Pinos|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4565|Urbano|03
+30798|El Arenal|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2410|Urbano|03
+30798|Infonavit Solidaridad 2000|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2489|Urbano|03
+30798|Jaime Sabines Gutiérrez|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|5509|Urbano|03
+30799|Aviación|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4541|Urbano|03
+30799|San Jorge|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4543|Urbano|03
+30799|Adolfo Zamora|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|5630|Urbano|03
+30799|El Confite|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1748|Urbano|03
+30799|Hortalizas Japonesas|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|1749|Urbano|03
+30799|Palmeiras|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4538|Urbano|03
+30799|Nuevo Milenio|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4539|Urbano|03
+30799|La Soledad|Poblado comunal|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||27|089|7078|Rural|03
+30799|La Sierra|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|4544|Urbano|03
+30799|El Carmen FONHAPO|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2671|Urbano|03
+30799|Los Lirios|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4540|Urbano|03
+30799|Vida Mejor II|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|6726|Urbano|03
+30799|Francisco Sarabia|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2667|Urbano|03
+30799|Infonavit El Carmen|Fraccionamiento|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||21|089|2493|Urbano|03
+30799|La Popular 2|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|2665|Urbano|03
+30799|Los Sauces|Colonia|Tapachula|Chiapas|Tapachula de Córdova y Ordóñez|30701|07|30701||09|089|4542|Urbano|03
+30800|Cantón Génova|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7083|Rural|
+30800|La Estrella|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7087|Rural|
+30800|Los Hermanitos (La Realidad)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7091|Rural|
+30800|Las Maravillas|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1752|Rural|
+30800|Zaragoza|Congregación|Tapachula|Chiapas||30701|07|30701||11|089|1753|Rural|
+30800|El Retorno|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7080|Rural|
+30800|Irlanda|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7084|Rural|
+30800|Génova|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7093|Rural|
+30800|La Perla|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7085|Rural|
+30800|Cantón Sinaí|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7082|Rural|
+30800|Morelia|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7086|Rural|
+30800|Hamburgo|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7092|Rural|
+30800|Nueva Alemania|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1767|Rural|
+30800|Nueva Reforma|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7079|Rural|
+30800|La Cabaña|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7081|Rural|
+30800|Cuilco|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7088|Rural|
+30800|San Juan|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7089|Rural|
+30800|El Emporio Naranjo|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7090|Rural|
+30802|Manacal|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1756|Rural|
+30802|Chespal Nuevo|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|1755|Rural|
+30802|El Manacal|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7094|Rural|
+30802|El Refugio|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|1764|Rural|
+30803|Buenavista|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7096|Rural|
+30803|El Recuerdo (El Vado)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7095|Rural|
+30803|Reforma (San Antonio)|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7097|Rural|
+30803|La Chiripa|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7102|Rural|
+30803|El Naranjo|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1794|Rural|
+30803|Rancho Alegre|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7099|Rural|
+30803|Paraíso|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7100|Rural|
+30803|Cantón Alta Vista|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|5559|Rural|
+30803|El Chorro|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7098|Rural|
+30803|Flor el Naranjo (Honduras)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7101|Rural|
+30804|Piedra de la Cuesta|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7106|Rural|
+30804|La Providencia|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7105|Rural|
+30804|Villa Flor|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1758|Rural|
+30804|Santa Rosalía|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7103|Rural|
+30804|Bojoncito|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7104|Rural|
+30805|Pavencul|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1761|Rural|
+30805|Barrio Bijahual|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|5651|Rural|
+30805|Carrizal|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|7117|Rural|
+30805|Barrio Nuevo|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7118|Rural|
+30805|Toquián Chiquito|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7124|Rural|
+30805|Soledad y Progreso|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7108|Rural|
+30805|Buenavista (Tochmay)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7121|Rural|
+30805|El Manguito|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7109|Rural|
+30805|Naranjo Reforma|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7111|Rural|
+30805|Vega de Malacate|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7120|Rural|
+30805|El Pinal|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|7122|Rural|
+30805|Cueva|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|7119|Rural|
+30805|Vega de los Molinos|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7123|Rural|
+30805|Chespal Viejo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7125|Rural|
+30805|Toquian Grande|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1763|Rural|
+30805|San Cristóbal|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7112|Rural|
+30805|Consejo Agrario Mexicano|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7113|Rural|
+30805|Toscanis|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7116|Rural|
+30805|La Cascada|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7126|Rural|
+30805|Chanjalé y Salchiji|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7110|Rural|
+30805|Plan Chanjalé|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7114|Rural|
+30805|San Vicente|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7115|Rural|
+30805|Chanjale Salchiji|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|5643|Rural|
+30805|Frontera 20 de Octubre|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|7107|Rural|
+30806|Mexiquito|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1766|Rural|
+30806|San Antonio|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7128|Rural|
+30806|Santa Fé Chinince|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7132|Rural|
+30806|Fracción San Juan Chicharras|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7134|Rural|
+30806|El Final|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7131|Rural|
+30806|Guadalupe Zaju|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7133|Rural|
+30806|Argovia|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1759|Rural|
+30806|Casco de San Nicolás|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7130|Rural|
+30806|Nueva Esperanza|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7138|Rural|
+30806|Toquian Chiquito|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1762|Rural|
+30806|Villahermosa|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|5827|Rural|
+30806|Perú París|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7135|Rural|
+30806|Benito Juárez|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7136|Rural|
+30806|Campo Mexiquito|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7127|Rural|
+30806|Violetas|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7129|Rural|
+30806|Emiliano Zapata|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7137|Rural|
+30807|Las Chicharras|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1772|Rural|
+30807|San Antonio Chicharras|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1754|Rural|
+30807|La Joya|Hacienda|Tapachula|Chiapas||30701|07|30701||24|089|1765|Rural|
+30807|Guanajuato|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7142|Rural|
+30807|San Antonio|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7143|Rural|
+30807|San Juan Chicharras|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1757|Rural|
+30807|La Patria|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|5646|Rural|
+30807|Chicharras|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7141|Rural|
+30807|Santa Teresa|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7139|Rural|
+30807|Mario Suoza|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7144|Rural|
+30807|26 de Octubre|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1769|Rural|
+30807|Fracción Santa Elena|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7140|Rural|
+30808|Cantón Villaflor|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7147|Rural|
+30808|Cantón Tiro Seguro|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7148|Rural|
+30808|Cantón las Delicias|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7145|Rural|
+30808|Cantón Montebello|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7146|Rural|
+30808|San Enrique|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7150|Rural|
+30808|Cantón San Luis|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7152|Rural|
+30808|Cantón las Cruces|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7151|Rural|
+30809|La Lucha|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7153|Rural|
+30809|Fracción Zaragoza|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7149|Rural|
+30809|El Triunfo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7154|Rural|
+30810|Victoria|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|7159|Rural|
+30810|Malpaso|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7155|Rural|
+30810|Central Hidroeléctrica Cecilio del Valle|Equipamiento|Tapachula|Chiapas||30701|07|30701||17|089|7158|Rural|
+30810|Las Delicias|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7160|Rural|
+30810|Palestina (1ra. Fracción)|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7157|Rural|
+30810|La Providencia|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7156|Rural|
+30812|La Soledad|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7161|Rural|
+30812|Zapopan|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7162|Rural|
+30812|Santa Elena|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1768|Rural|
+30812|Hermosillo|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|6722|Rural|
+30812|Unión Mexicana (Unión Independencia)|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7163|Rural|
+30812|Independencia|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1776|Rural|
+30812|Cantón San Felipe|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|5655|Rural|
+30812|Cantón Mexiquito|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7167|Rural|
+30812|San Francisco|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1779|Rural|
+30812|Zaragoza|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7168|Rural|
+30812|El Edén|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1775|Rural|
+30812|Fracción Santa Rita|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7164|Rural|
+30812|El Limón|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7166|Rural|
+30812|La Paz|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7165|Rural|
+30813|El Porvenir|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1773|Rural|
+30813|Unión Mexicana|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1791|Rural|
+30814|Simón Bolivar|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7169|Rural|
+30814|Veracruz|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7172|Rural|
+30814|San José Reforma|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7173|Rural|
+30814|Fracción el Porvenir (El Guineo)|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7175|Rural|
+30814|Yolanda|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7170|Rural|
+30814|Santa Rosa|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7171|Rural|
+30814|El Caucho|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1782|Rural|
+30814|El Rincón|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1783|Rural|
+30814|Altamira|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|5846|Rural|
+30814|El Edén|Congregación|Tapachula|Chiapas||30701|07|30701||11|089|7174|Rural|
+30815|Progreso Pumpuapa|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7177|Rural|
+30815|Nueva Granada|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1778|Rural|
+30815|20 de Noviembre|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1780|Rural|
+30815|Santa Rita|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1801|Rural|
+30815|Santa María (Cantón)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7176|Rural|
+30815|Santa Rita Dos|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7179|Rural|
+30815|Santa María|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7178|Rural|
+30816|San Agustín Jitotol|Colonia|Tapachula|Chiapas||30891|07|30891||09|089|6723|Rural|
+30816|San Gallén (San Ramón)|Ranchería|Tapachula|Chiapas||30891|07|30891||29|089|7182|Rural|
+30816|Carrillo Puerto Norte|Finca|Tapachula|Chiapas||30891|07|30891||20|089|7184|Rural|
+30816|Carrillo Puerto Sur|Finca|Tapachula|Chiapas||30891|07|30891||20|089|7183|Rural|
+30816|Hermosillo|Poblado comunal|Tapachula|Chiapas||30891|07|30891||27|089|7185|Rural|
+30816|El Triunfo|Ranchería|Tapachula|Chiapas||30891|07|30891||29|089|7186|Rural|
+30816|Astillero|Poblado comunal|Tapachula|Chiapas||30891|07|30891||27|089|7180|Rural|
+30816|Los Ángeles|Poblado comunal|Tapachula|Chiapas||30891|07|30891||27|089|7181|Rural|
+30816|Cantón El Chaparrón|Ranchería|Tapachula|Chiapas||30891|07|30891||29|089|2911|Rural|
+30816|Felipe Carrillo Puerto|Ranchería|Tapachula|Chiapas||30891|07|30891||29|089|1784|Rural|
+30817|La Fortuna Alta|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7189|Rural|
+30817|Quince de Febrero|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7193|Rural|
+30817|Quien Sabe|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7195|Rural|
+30817|La Fortuna Baja|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7196|Rural|
+30817|San Lorenzo|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7197|Rural|
+30817|La Herradura|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7187|Rural|
+30817|San Carlitos|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7191|Rural|
+30817|Plan de la Esperanza Baja|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7192|Rural|
+30817|San José Nexapa|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7198|Rural|
+30817|Laguna del Carmen|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7200|Rural|
+30817|Santa Elena|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7201|Rural|
+30817|San Carlos Nexapa|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1774|Rural|
+30817|Horizonte|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|6720|Rural|
+30817|Diez de Marzo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7190|Rural|
+30817|San Antonio Nexapa|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7194|Rural|
+30817|La Esperanza (Guardiana la Esperanza)|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7188|Rural|
+30817|Plan de Esperanza Alta|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7199|Rural|
+30817|5 de Mayo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1785|Rural|
+30817|Cantón Nueva Esperanza|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7202|Rural|
+30818|Fracción Margarita|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7205|Rural|
+30818|Plan las Palmas|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7214|Rural|
+30818|La Ceiba|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7215|Rural|
+30818|Melchor Ocampo|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1789|Rural|
+30818|Teotihuacán del Valle|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7203|Rural|
+30818|San Andrés Nexapa|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7212|Rural|
+30818|San Luis Nexapa|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7216|Rural|
+30818|La Patria|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|7219|Rural|
+30818|Toluca|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1790|Rural|
+30818|Las Palmas|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|1787|Rural|
+30818|Concordia|Finca|Tapachula|Chiapas||30701|07|30701||20|089|1788|Rural|
+30818|San Agustín|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7204|Rural|
+30818|Sólo Dios|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7206|Rural|
+30818|La Vega de los Gatos|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7210|Rural|
+30818|Siete Ranchos|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7211|Rural|
+30818|Fracción las Galeras|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7217|Rural|
+30818|Chapultepec|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7218|Rural|
+30818|Las Milpas|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7220|Rural|
+30818|Fracción Salvador Urbina|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7209|Rural|
+30818|Fracción el Retiro|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7213|Rural|
+30818|El Retiro|Pueblo|Tapachula|Chiapas||30701|07|30701||28|089|1770|Rural|
+30818|San Jorge|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7207|Rural|
+30818|Buenos Aires|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7208|Rural|
+30820|Las Trancas|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7226|Rural|
+30820|San Sebastián|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|7326|Rural|
+30820|San Enrique|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|7328|Rural|
+30820|El Círculo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7221|Rural|
+30820|Esquipulas|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|7330|Rural|
+30820|San Antonio|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7327|Rural|
+30820|San Francisco|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|7329|Rural|
+30820|La Quince|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7222|Rural|
+30820|Guadalupe|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|7325|Rural|
+30820|El Sunsal|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7225|Rural|
+30820|El Volver|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7223|Rural|
+30820|Camino Verde|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|7224|Rural|
+30820|Isla del Río Pumpuapa|Barrio|Tapachula|Chiapas||30701|07|30701||02|089|7324|Rural|
+30823|Raymundo Enríquez|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|4535|Rural|
+30824|La Esperanza|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7227|Rural|
+30824|Claudia|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7228|Rural|
+30824|Chapultepec|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7229|Rural|
+30824|Unión Miramar|Ejido|Tapachula|Chiapas||30701|07|30701||15|089|1802|Rural|
+30825|Guadalupe|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7230|Rural|
+30825|Los Toritos|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7235|Rural|
+30825|Las Cruces|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7233|Rural|
+30825|Villa las Rosas|Colonia|Tapachula|Chiapas||30831|07|30831||09|089|7234|Rural|
+30825|Santa Teresa|Fraccionamiento|Tapachula|Chiapas||30831|07|30831||21|089|6725|Rural|
+30825|Feliciano Renauld (San Francisco)|Colonia|Tapachula|Chiapas||30831|07|30831||09|089|7231|Rural|
+30825|Villa las Lomas|Colonia|Tapachula|Chiapas||30831|07|30831||09|089|7232|Rural|
+30825|Acaxman|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1792|Rural|
+30826|Viva México|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|4559|Rural|
+30826|Las Cañadas|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7239|Rural|
+30826|Loma Bonita (El Ganadero)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7240|Rural|
+30826|Santa Amalia|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7246|Rural|
+30826|Perla de Soconusco|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7251|Rural|
+30826|Rancho Nuevo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7247|Rural|
+30826|Santa Isabel|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7242|Rural|
+30826|Ampliación Unión Miramar|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7244|Rural|
+30826|Linda Vista|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|5584|Rural|
+30826|Pacayalito|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7237|Rural|
+30826|Pacayalito|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7238|Rural|
+30826|Pacayalito Dos|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7243|Rural|
+30826|San Raymundo|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7245|Rural|
+30826|Buenos Aires|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7250|Rural|
+30826|Cantón Pacayalito|Colonia|Tapachula|Chiapas||30701|07|30701||09|089|4560|Rural|
+30826|Las Piedras (Pensión)|Ranchería|Tapachula|Chiapas||30701|07|30701||29|089|7249|Rural|
+30826|Colima|Finca|Tapachula|Chiapas||30701|07|30701||20|089|7236|Rural|
+30826|Juan Sabines Gutiérrez (Poste Rojo)|Poblado comunal|Tapachula|Chiapas||30701|07|30701||27|089|7241|Rural|
+30826|Nueva Pumpuapa (Cereso)|Equipamiento|Tapachula|Chiapas||30701|07|30701||17|089|7248|Rural|
+30827|San Nicolás Lagartero|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1800|Rural|
+30827|Jardín|Fraccionamiento|Tapachula|Chiapas||30831|07|30831||21|089|4526|Rural|
+30827|Murillo|Pueblo|Tapachula|Chiapas||30831|07|30831||28|089|7252|Rural|
+30827|La Cebadilla 1a Sección|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1796|Rural|
+30827|La Cebadilla 2a Sección|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1797|Rural|
+30828|Isleven|Pueblo|Tapachula|Chiapas||30831|07|30831||28|089|7256|Rural|
+30828|El Progreso|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7259|Rural|
+30828|San Luis|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7253|Rural|
+30828|El Manzano|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7255|Rural|
+30828|Reforma|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1804|Rural|
+30828|Las Quebradas|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7257|Rural|
+30828|Isleven|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7258|Rural|
+30828|San Antonio Cintaguayate|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7254|Rural|
+30829|Joaquín Miguel Gutiérrez|Ejido|Tapachula|Chiapas||30831|07|30831||15|089|1805|Rural|
+30829|La Gotera|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7261|Rural|
+30829|Nueva Libertad|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7260|Rural|
+30829|San Fernando|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7262|Rural|
+30830|Belisario Domínguez|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|7334|Rural|20
+30830|San Benito Abad|Ampliación|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||38|089|7335|Rural|20
+30830|Emiliano Zapata|Pueblo|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||28|089|7337|Rural|20
+30830|Santa Fé|Ranchería|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||29|089|7264|Rural|20
+30830|Playa San Benito|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|2266|Rural|20
+30830|Islas Perdidas|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|7336|Rural|20
+30830|Villa de San José|Pueblo|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||28|089|7338|Rural|20
+30830|Palapas Tiburoneras|Barrio|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||02|089|2263|Rural|20
+30830|Escolleras|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|2267|Rural|20
+30830|Puerto Madero Centro|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|1809|Rural|20
+30830|Villa del Sol|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|2265|Rural|20
+30830|23 de Noviembre|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|7331|Rural|20
+30830|Naval|Puerto|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||40|089|7333|Rural|20
+30830|Cabildos|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|2264|Rural|20
+30830|2 de Julio|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|2268|Rural|20
+30830|Nueva San Benito Abad|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|2269|Rural|20
+30830|El Encanto|Ejido|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||15|089|7267|Rural|20
+30830|Brisas del Mar|Colonia|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||09|089|7339|Rural|20
+30830|El Tamarindo|Ranchería|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||29|089|7265|Rural|20
+30830|Madero|Puerto|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||40|089|7332|Rural|20
+30830|Buenavista|Poblado comunal|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||27|089|7263|Rural|20
+30830|San Agustín|Poblado comunal|Tapachula|Chiapas|Puerto Madero (San Benito)|30831|07|30831||27|089|7266|Rural|20
+30832|Los Leoncillos|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1807|Rural|
+30832|San José del Valle|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7269|Rural|
+30832|Morelos|Ejido|Tapachula|Chiapas||30831|07|30831||15|089|1808|Rural|
+30832|Vadenia|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7268|Rural|
+30832|Dorados de Villa|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7270|Rural|
+30832|Lázaro Cárdenas (Nuevo Milenio)|Colonia|Tapachula|Chiapas||30831|07|30831||09|089|7271|Rural|
+30833|Jaritas (Parada Jaritas)|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7275|Rural|
+30833|Los Toros (Estación)|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7273|Rural|
+30833|Nueva Delia|Colonia|Tapachula|Chiapas||30831|07|30831||09|089|7274|Rural|
+30833|Parada el Recuerdo|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7276|Rural|
+30833|Tinajas 2a Secc|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1811|Rural|
+30833|Tinajas 3a Secc|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1812|Rural|
+30833|Santander|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7272|Rural|
+30834|San José la Cuchilla|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7278|Rural|
+30834|Buenavista|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7280|Rural|
+30834|Hidalgo|Ejido|Tapachula|Chiapas||30831|07|30831||15|089|1760|Rural|
+30834|San roque Dos (Aguacatal)|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7279|Rural|
+30834|El Triunfo|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1806|Rural|
+30834|Guarumo|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7277|Rural|
+30835|Santo Domingo Dos|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7287|Rural|
+30835|Conquista Campesina|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|5848|Rural|
+30835|Rancho Grande|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7281|Rural|
+30835|San Francisco|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7286|Rural|
+30835|El Pensamiento|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7282|Rural|
+30835|La Gloria|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7284|Rural|
+30835|Tinajas 1a Secc|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1810|Rural|
+30835|Cantón Bodegas|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7285|Rural|
+30835|Nueva Rosita (El Pensamiento)|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7283|Rural|
+30835|Luis Espinoza|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|5533|Rural|
+30835|Genaro Vázquez Rojas|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|5797|Rural|
+30836|Francisco I Madero|Ejido|Tapachula|Chiapas||30831|07|30831||15|089|1813|Rural|
+30836|Río Florido|Ejido|Tapachula|Chiapas||30831|07|30831||15|089|7296|Rural|
+30836|La Esperanza|Ejido|Tapachula|Chiapas||30831|07|30831||15|089|7291|Rural|
+30836|Santa Rosa Dos|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7294|Rural|
+30836|Galera|Poblado comunal|Tapachula|Chiapas||30831|07|30831||27|089|1771|Rural|
+30836|Badow|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7293|Rural|
+30836|San Francisco|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7298|Rural|
+30836|Las Brujas|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7288|Rural|
+30836|San Antonio|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7289|Rural|
+30836|San Gabriel|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7292|Rural|
+30836|Magdalena|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7290|Rural|
+30836|San Cristóbal Buenavista|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7297|Rural|
+30836|El Recreo|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7295|Rural|
+30837|Playa Linda|Pueblo|Tapachula|Chiapas||30831|07|30831||28|089|7299|Urbano|
+30837|Cahuacan|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|1815|Rural|
+30838|La Mora|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7302|Rural|
+30838|La Esperanza|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7311|Rural|
+30838|La Cigüeña|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|6729|Rural|
+30838|La Bondad|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7301|Rural|
+30838|Carroceras|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7303|Rural|
+30838|La Innominada|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7308|Rural|
+30838|Esquipulas|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7306|Rural|
+30838|Maravillas|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7307|Rural|
+30838|San Francisco Palo Blanco|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7309|Rural|
+30838|El Vergel Huerto|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7300|Rural|
+30838|El Hato|Finca|Tapachula|Chiapas||30831|07|30831||20|089|7304|Rural|
+30838|El Vegel Plátano|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7305|Rural|
+30838|La Gloria|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7310|Rural|
+30839|El Rosario|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7312|Rural|
+30839|Los Llanos|Ranchería|Tapachula|Chiapas||30831|07|30831||29|089|7313|Rural|

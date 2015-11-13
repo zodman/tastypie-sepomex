@@ -1,0 +1,162 @@
+79650|Moras de Frontera|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0124|Urbano|
+79650|El Manantial|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|0001|Urbano|
+79650|Ciudad Fernández|Ciudad|Ciudad Fernández|San Luis Potosí||79611|24|79611||08|011|1465|Urbano|
+79653|Arroyo Hondo|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0109|Urbano|
+79653|Democracia II|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|2050|Urbano|
+79653|Cruz del Mezquite|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0111|Urbano|
+79653|Los Pinos|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0122|Urbano|
+79653|San Antonio|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|1004|Urbano|
+79653|Puestecitos|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0126|Urbano|
+79654|Los LLanitos|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0002|Urbano|
+79654|Prados de Fertimex I|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0003|Urbano|
+79654|Santa María de los LLanitos|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0005|Urbano|
+79654|Prados de Fertimex II|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0004|Urbano|
+79655|San Martín|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0127|Urbano|
+79655|Mollinedo|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|2052|Urbano|
+79655|La  Mora|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0117|Urbano|
+79655|Los Molinos|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0120|Urbano|
+79655|Galeana|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|2051|Urbano|
+79655|El Alto|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|2055|Urbano|
+79655|Loma Bonita|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|0128|Urbano|
+79655|Jardines del Alto|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|2053|Urbano|
+79655|El Altillo|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|2054|Urbano|
+79655|Las Fuentes II|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|2558|Urbano|
+79656|El VIiento|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|0115|Urbano|
+79656|Casa Blanca|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|2056|Urbano|
+79656|Mezquital del Alto|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0123|Urbano|
+79656|La Esperanza|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0118|Urbano|
+79656|Concordia|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|2048|Urbano|
+79657|El Mezquital|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0113|Urbano|
+79657|Prados de Moctezuma|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|2797|Urbano|
+79657|Santa Cruz|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|2726|Urbano|
+79657|Gama|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0116|Urbano|
+79657|Villa de los Ángeles|Fraccionamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||21|011|0129|Urbano|
+79657|Los Álamos|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0119|Urbano|
+79657|Democracia I|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|2049|Urbano|
+79657|Atletas|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0110|Urbano|
+79657|El Paraíso|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0114|Urbano|
+79660|Cuarto|Barrio|Ciudad Fernández|San Luis Potosí|Fracción el Refugio|79611|24|79611||02|011|1921|Urbano|17
+79660|Vista Hermosa|Colonia|Ciudad Fernández|San Luis Potosí|Fracción el Refugio|79611|24|79611||09|011|2963|Urbano|17
+79663|El  Paseo|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0112|Urbano|
+79663|Tercero|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|1922|Urbano|
+79663|Quinto|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|0130|Urbano|
+79664|Fracción El Refugio Centro|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|1920|Urbano|
+79664|Los Naranjos|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0121|Urbano|
+79664|Segundo|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|1919|Urbano|
+79665|Primero|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|0125|Urbano|
+79670|Colonia Camino Real|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0008|Rural|
+79670|La Minita|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0049|Rural|
+79670|Puerto las Joyas|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0081|Rural|
+79670|Atotonilco|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|1475|Rural|
+79670|El Obraje|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0016|Rural|
+79670|La Concepción|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0043|Rural|
+79670|El Mosco|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0015|Rural|
+79670|Puerto de Palo Gordo|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0080|Rural|
+79670|Morillos|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0067|Rural|
+79670|Las Adjuntas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0054|Rural|
+79670|Mesa del Campanario|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0063|Rural|
+79670|El Mimbre|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0014|Rural|
+79670|La Tízar|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0052|Rural|
+79670|La Ventilla|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0053|Rural|
+79670|Joya de las Peñas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0040|Rural|
+79670|Las Pilas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0057|Rural|
+79670|Paso de San Martín|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0068|Rural|
+79673|El Paraíso|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1477|Rural|
+79673|Ojo de Agua de San Juan|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1478|Rural|
+79673|Rancho Nuevo|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0092|Rural|
+79673|San José del Terremoto|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|1480|Rural|
+79674|Santa Ana|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0105|Rural|
+79674|Barrio de la Cruz|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|0007|Rural|
+79674|La Alameda|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0041|Rural|
+79674|El Saucillo|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1476|Rural|
+79674|La Banda|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0042|Rural|
+79674|El Sermón Santa Ana|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1479|Rural|
+79674|El Carrizal|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0013|Rural|
+79674|Mojarras de Arriba|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|1473|Rural|
+79675|La Reformita|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0051|Rural|
+79675|Las Tres Huérfanas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0058|Rural|
+79675|Mojarras de Abajo|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0065|Rural|
+79675|San Isidro|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0102|Rural|
+79675|Labor Vieja|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1467|Rural|
+79675|Las Trojas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0059|Rural|
+79675|La Noria|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1466|Rural|
+79675|La Huerta|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0045|Rural|
+79675|Rancho San Juan|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0095|Rural|
+79675|La Reforma|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1469|Rural|
+79675|Solano|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0106|Rural|
+79675|Huerta el Huasteco (Potrero el Huasteco)|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0032|Rural|
+79676|Huerta la Gloria|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0034|Rural|
+79676|Tomás González|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0108|Rural|
+79676|Las Auras|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0055|Rural|
+79676|Puertas Cuatas|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0079|Rural|
+79676|Rancho el Garambullo|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0086|Rural|
+79676|Rancho San José|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0094|Rural|
+79676|Rancho Xochipilli|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0100|Rural|
+79676|San Isidro|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0101|Rural|
+79676|José Jasso Villegas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0039|Rural|
+79676|La Encarnación|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0044|Rural|
+79676|La Mora|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0050|Rural|
+79676|Martín Vasco|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0062|Rural|
+79676|Rancho Santa María|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0099|Rural|
+79676|Splash [Parque Acuático]|Equipamiento|Ciudad Fernández|San Luis Potosí||79611|24|79611||17|011|0107|Rural|
+79676|La Mina|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0048|Rural|
+79676|Rancho el Polocote|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0087|Rural|
+79676|Colonia Veinte de Noviembre|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1470|Rural|
+79676|Piedras Blancas (Álvaro Olguín)|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0070|Rural|
+79676|Rancho Alegre|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0084|Rural|
+79676|Rancho San Luis|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0096|Rural|
+79676|Ejido los Llanitos|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0010|Rural|
+79676|El Campestre|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0012|Rural|
+79676|Huerta Martha Elena|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0037|Rural|
+79676|Rancho de los Tirados|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0085|Rural|
+79676|Rancho las Sandías|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0091|Rural|
+79676|San Pablo|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|2920|Rural|
+79676|El Salitre|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0018|Rural|
+79676|Potrero San Cristóbal|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0076|Rural|
+79676|Puestecitos|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0082|Rural|
+79676|Rancho la Libertad|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0089|Rural|
+79676|Barrio de Guadalupe|Barrio|Ciudad Fernández|San Luis Potosí||79611|24|79611||02|011|0006|Rural|
+79676|Ejido Ojo de Agua (Pablo Mendoza Torres)|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0011|Rural|
+79676|El Papalote|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0017|Rural|
+79676|La Loma (Las Pitahayas)|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0046|Rural|
+79676|Los Laureles|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0060|Rural|
+79676|Piedras Blancas|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0069|Rural|
+79676|Rancho la Virgen|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0090|Rural|
+79676|San Miguel|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0103|Rural|
+79676|Ojo de Agua de Solano|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|1468|Rural|
+79677|San Onofre|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0104|Rural|
+79677|Huerta de Alfredo Martínez|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0021|Rural|
+79677|Huerta de Juan Compeán|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0027|Rural|
+79677|Huerta José González|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0033|Rural|
+79677|Huerta los Pinos|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0036|Rural|
+79677|Potrero el Álamo|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0073|Rural|
+79677|Potrero el Jaral|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0074|Rural|
+79677|Rancho Santa Catarina|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0098|Rural|
+79677|Gabriel Martínez Segura|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0020|Rural|
+79677|Huerta de Fidencio|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0025|Rural|
+79677|Huerta las Rositas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0035|Rural|
+79677|Potrero de Santa Ana|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0072|Rural|
+79677|Huerta de Martín Silva|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0030|Rural|
+79677|Huerta San Blas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0038|Rural|
+79677|Potrero de Caldera Vieja|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0071|Rural|
+79677|Potrero el Tepetate (Cerrito del Melón)|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0075|Rural|
+79677|Puente Adjuntas (El Tepetate)|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0078|Rural|
+79677|Marcelino Ramos Castillo|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0061|Rural|
+79677|Moctezumas del Tepetate|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0064|Rural|
+79677|Monte del Tepetate|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0066|Rural|
+79677|Quinta Vista Hermosa|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0083|Rural|
+79677|Rancho Hernández Perales|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0088|Rural|
+79677|Rancho San Benito|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0093|Rural|
+79677|Rancho Santa Amalia|Ranchería|Ciudad Fernández|San Luis Potosí||79611|24|79611||29|011|0097|Rural|
+79677|Colonia la Peñita|Colonia|Ciudad Fernández|San Luis Potosí||79611|24|79611||09|011|0009|Rural|
+79677|Huerta de Benito Martínez|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0022|Rural|
+79677|Huerta de Clemente Martínez|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0023|Rural|
+79677|Huerta de Ezequiel Govea|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0024|Rural|
+79677|Las Lechuzas|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0056|Rural|
+79677|Finca la Esperanza (Potrero el Apeloteado)|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0019|Rural|
+79677|Huerta de Marcelino Hernández|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0029|Rural|
+79677|Potrero San Joaquín|Ejido|Ciudad Fernández|San Luis Potosí||79611|24|79611||15|011|0077|Rural|
+79677|Huerta de Juan Alvarado|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0026|Rural|
+79677|Huerta de Juan Govea|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0028|Rural|
+79677|Huerta de Roberto de la Torre|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0031|Rural|
+79677|La Mezclita (Potrero de San Joaquín)|Poblado comunal|Ciudad Fernández|San Luis Potosí||79611|24|79611||27|011|0047|Rural|

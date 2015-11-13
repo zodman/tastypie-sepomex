@@ -1,0 +1,16 @@
+75030|San Nicolás Buenos Aires|Pueblo|San Nicolás Buenos Aires|Puebla||75161|21|75161||28|137|2015|Rural|
+75030|Emilio Portes Gil|Pueblo|San Nicolás Buenos Aires|Puebla||75161|21|75161||28|137|2014|Rural|
+75033|Pozo Guerra|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7043|Rural|
+75033|Cirilo Vázquez|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7037|Rural|
+75033|El Chaparro|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7038|Rural|
+75033|Las Palmas|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7040|Rural|
+75035|Miguel Hidalgo|Pueblo|San Nicolás Buenos Aires|Puebla||75161|21|75161||28|137|2016|Rural|
+75035|Buenavista (San José Buenavista)|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7036|Rural|
+75035|Los Álamos (San José Buenavista)|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7042|Rural|
+75036|Venustiano Carranza|Pueblo|San Nicolás Buenos Aires|Puebla||75161|21|75161||28|137|2017|Rural|
+75036|La Ventana|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7039|Rural|
+75037|Loma el Tecajete|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7041|Rural|
+75037|San Nicolás Pozo de Guerra|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|2018|Rural|
+75037|Santa Anita|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7044|Rural|
+75038|Benito Juárez (Mata Redonda)|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|7035|Rural|
+75039|San Francisco la Mata|Ranchería|San Nicolás Buenos Aires|Puebla||75161|21|75161||29|137|2019|Rural|

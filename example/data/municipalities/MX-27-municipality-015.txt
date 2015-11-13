@@ -1,0 +1,79 @@
+86870|Tacotalpa|Ciudad|Tacotalpa|Tabasco||86804|27|86804||08|015|0885|Rural|
+86870|Oro Verde|Fraccionamiento|Tacotalpa|Tabasco||86804|27|86804||21|015|1200|Rural|
+86870|Lomas Alegres 1a Secc|Pueblo|Tacotalpa|Tabasco||86804|27|86804||28|015|0882|Rural|
+86870|Xicoténcatl|Pueblo|Tacotalpa|Tabasco||86804|27|86804||28|015|0886|Rural|
+86870|Graciela Pintado de Madrazo|Colonia|Tacotalpa|Tabasco||86804|27|86804||09|015|1918|Rural|
+86870|Pueblo Nuevo|Colonia|Tacotalpa|Tabasco||86804|27|86804||09|015|1221|Rural|
+86870|Obrera|Colonia|Tacotalpa|Tabasco||86804|27|86804||09|015|1195|Rural|
+86870|Pochitocal 1a Secc (La Palma)|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0884|Rural|
+86871|Poana|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0887|Rural|
+86873|Pochitocal 5a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1952|Rural|
+86873|Pochitocal 4a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1951|Rural|
+86873|Arroyo Ciego 2a Secc|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0889|Rural|
+86873|José María Morelos y Pavón|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1949|Rural|
+86874|Pochitocal 2a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1950|Rural|
+86874|Poana Estación|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1947|Rural|
+86874|Nuevo Centro Poblacional Roberto Madrazo Pintado|Pueblo|Tacotalpa|Tabasco||86804|27|86804||28|015|2651|Rural|
+86874|Lomas Alegres 3a Sección (San Antonio)|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1953|Rural|
+86876|La Raya Santa Cruz|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1959|Rural|
+86876|Rancho Nuevo|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1960|Rural|
+86876|Ceibita|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0891|Rural|
+86876|Pochitocal 1a Sección Tila y Toronjo|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1958|Rural|
+86877|Ceiba 2a Secc|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0892|Rural|
+86877|San Luis|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1957|Rural|
+86877|Puyacatengo 2a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1955|Rural|
+86877|Puyacatengo 1a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1954|Rural|
+86877|División del Norte|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1956|Rural|
+86878|Santa Rosa 1a Secc|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0893|Rural|
+86878|San Román|Colonia|Tacotalpa|Tabasco||86804|27|86804||09|015|1961|Semiurbano|
+86880|Guayal|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0894|Rural|
+86880|Lomas Alegres 2da. Sección (Castañal)|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1948|Rural|
+86881|Limón|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0895|Rural|
+86882|Pasamanos|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0896|Rural|
+86885|Pomoca|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0897|Rural|
+86885|Lomas Alegres 4ta. Sección (El Hular)|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1945|Rural|
+86885|El Paraíso|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1933|Rural|
+86885|Gran Poder|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1944|Rural|
+86885|Arroyo Seco Miraflores|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1932|Rural|
+86886|Agua Blanca|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0898|Rural|
+86887|Reforma|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0900|Rural|
+86887|Lázaro Cárdenas|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1943|Rural|
+86888|Madrigal 5a Secc|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0901|Rural|
+86890|La Raya Zaragoza|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0903|Rural|
+86890|Graciano Sánchez|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1941|Rural|
+86890|Madrigal 4a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1940|Rural|
+86890|Agua Escondida|Colonia|Tacotalpa|Tabasco||86804|27|86804||09|015|1942|Rural|
+86890|Oxolotan|Pueblo|Tacotalpa|Tabasco||86804|27|86804||28|015|0902|Rural|
+86890|Emiliano Zapata|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1939|Rural|
+86890|Mexiquito|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|2644|Rural|
+86890|Tapijulapa|Villa|Tacotalpa|Tabasco||86804|27|86804||32|015|0904|Rural|
+86892|Zuno y Patastal|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0906|Rural|
+86893|Villa Luz|Colonia|Tacotalpa|Tabasco||86804|27|86804||09|015|1938|Rural|
+86893|Cerro Blanco 2a Secc|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0907|Rural|
+86893|Libertad|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0908|Rural|
+86893|La Pila|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|2507|Rural|
+86893|Cerro Blanco 1a Sección|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1937|Rural|
+86894|Guerrero Caridad|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0909|Rural|
+86894|Puxcatan|Pueblo|Tacotalpa|Tabasco||86804|27|86804||28|015|0910|Rural|
+86895|San Manuel|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1935|Rural|
+86895|Benito Juárez|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1926|Rural|
+86895|Pomoquita|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1927|Rural|
+86895|La Cuesta|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1936|Rural|
+86895|Buenos Aires|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1925|Rural|
+86895|Yajalón|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1931|Rural|
+86895|Noypac|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1930|Rural|
+86895|La Cumbre|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1934|Rural|
+86895|Francisco I. Madero 1ra. Sección|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0912|Rural|
+86895|Nueva Reforma|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1928|Rural|
+86895|Cuviac|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1929|Rural|
+86895|Barrial Cuauhtémoc|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0911|Rural|
+86896|Arroyo Chispa|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1752|Rural|
+86896|Buena Vista|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0913|Rural|
+86897|Rayo del Alba|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1919|Rural|
+86897|Palo Quemado|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1921|Rural|
+86897|Cerro Blanco 3a Secc|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1924|Rural|
+86897|Nueva Esperanza|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1922|Rural|
+86897|Cerro Blanco 4a Secc|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|1923|Rural|
+86897|Shotal|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|1920|Rural|
+86898|Francisco I Madero 2|Ranchería|Tacotalpa|Tabasco||86804|27|86804||29|015|0914|Rural|
+86899|Cuitlahuac|Ejido|Tacotalpa|Tabasco||86804|27|86804||15|015|0915|Rural|

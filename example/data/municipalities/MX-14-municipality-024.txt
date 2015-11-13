@@ -1,0 +1,22 @@
+48500|Cocula Centro|Colonia|Cocula|Jalisco|Cocula|48501|14|48501||09|024|2601|Semiurbano|28
+48500|San Pedro|Barrio|Cocula|Jalisco|Cocula|48501|14|48501||02|024|4137|Urbano|28
+48502|La Rinconada|Colonia|Cocula|Jalisco|Cocula|48501|14|48501||09|024|3568|Semiurbano|28
+48503|Villa de Casares|Colonia|Cocula|Jalisco|Cocula|48501|14|48501||09|024|3567|Semiurbano|28
+48503|Lomas de Cocula|Colonia|Cocula|Jalisco|Cocula|48501|14|48501||09|024|3566|Semiurbano|28
+48504|Lázaro Cárdenas|Colonia|Cocula|Jalisco|Cocula|48501|14|48501||09|024|3570|Semiurbano|28
+48504|La Guitarrilla|Colonia|Cocula|Jalisco|Cocula|48501|14|48501||09|024|3569|Semiurbano|28
+48506|Santa Teresa|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2602|Rural|
+48507|El Chivatillo|Ranchería|Cocula|Jalisco||48501|14|48501||29|024|2604|Rural|
+48508|El Saucillo|Ranchería|Cocula|Jalisco||48501|14|48501||29|024|4475|Rural|
+48509|Camajapa|Congregación|Cocula|Jalisco||48501|14|48501||11|024|2600|Rural|
+48509|Santa Rosa|Ranchería|Cocula|Jalisco||48501|14|48501||29|024|2615|Rural|
+48510|Agua Caliente|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2605|Rural|
+48510|Camichines|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2606|Rural|
+48512|San Pablo|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2607|Rural|
+48520|La Estanzuela|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2608|Rural|
+48520|La Sauceda|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2609|Rural|
+48520|San Nicolás|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2610|Rural|
+48525|Tateposco|Ejido|Cocula|Jalisco||46771|14|46771||15|024|2611|Rural|
+48526|Puerta Del Borrego|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2612|Rural|
+48530|La Cofradia de la Luz|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2613|Rural|
+48532|Santa Maria|Ejido|Cocula|Jalisco||48501|14|48501||15|024|2614|Rural|

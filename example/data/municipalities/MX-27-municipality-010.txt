@@ -1,0 +1,61 @@
+86200|Gonzalez Pedrero|Fraccionamiento|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||21|010|1120|Urbano|05
+86200|San Luis|Barrio|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||02|010|1239|Urbano|05
+86200|La Candelaria|Barrio|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||02|010|1150|Urbano|05
+86200|Jalpa de Mendez Centro|Colonia|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||09|010|0128|Urbano|05
+86200|Guadalupe|Barrio|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||02|010|1121|Urbano|05
+86200|San Francisco de Asís|Barrio|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||02|010|1358|Urbano|05
+86200|Santa Ana|Barrio|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||02|010|1243|Urbano|05
+86200|Amatitán|Pueblo|Jalpa de Méndez|Tabasco|Jalpa de Méndez|86202|27|86202||28|010|0122|Rural|05
+86201|Tapotzingo|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|0137|Rural|
+86201|El Santuario|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|0136|Rural|
+86203|Tierras Peladas|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0156|Rural|
+86203|El Rio|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0124|Rural|
+86203|La Cruz|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0152|Rural|
+86203|Jalupa|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|0155|Rural|
+86204|Santa Ana (El Río)|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|0153|Rural|
+86205|Santuario 2da Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1689|Rural|
+86205|Rivera Alta|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1684|Rural|
+86205|Santuario 1ra Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1685|Rural|
+86207|La Concepción|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0154|Rural|
+86207|San Hipolito|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1681|Rural|
+86207|Vicente Guerrero 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0143|Rural|
+86207|Tierra Adentro 1ra Secc (el Vigil)|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1677|Rural|
+86207|Santa Lucia|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1679|Rural|
+86207|Nabor Cornelio Alvarez|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1682|Rural|
+86207|Vicente Guerrero 2a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0151|Rural|
+86207|El Juncal|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|1678|Rural|
+86207|San Nicolás|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1680|Rural|
+86207|El Pulpito|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|1683|Rural|
+86208|Tierra Adentro 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0130|Rural|
+86208|Benito Juárez 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0146|Rural|
+86208|Boquiapa|Pueblo|Jalpa de Méndez|Tabasco||86202|27|86202||28|010|0148|Rural|
+86208|Chacalapa 2a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0150|Rural|
+86208|Huapacal 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0145|Rural|
+86208|Hermenegildo Galeana 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0125|Rural|
+86208|Benito Juárez 3a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0144|Rural|
+86208|Benito Juárez 2a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0147|Rural|
+86208|El Carmen|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|1688|Rural|
+86208|Hermenegildo Galeana 2a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0126|Rural|
+86208|Huapacal 2da Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1687|Rural|
+86208|Chacalapa 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0149|Rural|
+86209|Gregorio Mendez|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0139|Rural|
+86209|La Ensenada|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|2509|Rural|
+86209|Ayapa|Pueblo|Jalpa de Méndez|Tabasco||86202|27|86202||28|010|0138|Rural|
+86209|Soyataco|Pueblo|Jalpa de Méndez|Tabasco||86202|27|86202||28|010|0142|Rural|
+86209|Trinidad|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1691|Rural|
+86209|Iquinuapa|Pueblo|Jalpa de Méndez|Tabasco||86202|27|86202||28|010|0127|Rural|
+86209|El Clavo|Pueblo|Jalpa de Méndez|Tabasco||86202|27|86202||28|010|1686|Rural|
+86209|Pueblo Viejo|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0141|Rural|
+86209|Tomas Garrido|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1690|Rural|
+86214|Mecoacán 2da. Sección (San Lorenzo)|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0135|Rural|
+86214|El Novillero|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|1695|Rural|
+86214|El Recreo|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0123|Rural|
+86215|Nicolás Bravo|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0134|Rural|
+86216|El Carmen|Colonia|Jalpa de Méndez|Tabasco||86202|27|86202||09|010|2539|Rural|
+86216|Reforma 3ra Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1693|Rural|
+86216|San Gregorio|Colonia|Jalpa de Méndez|Tabasco||86202|27|86202||09|010|2556|Rural|
+86216|La Ceiba|Ejido|Jalpa de Méndez|Tabasco||86202|27|86202||15|010|1696|Rural|
+86216|Mecoacan|Pueblo|Jalpa de Méndez|Tabasco||86202|27|86202||28|010|0129|Rural|
+86216|Campo Petrolero Mecoacan|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1692|Rural|
+86216|Reforma 2da Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|1694|Rural|
+86216|Reforma 1a Secc|Ranchería|Jalpa de Méndez|Tabasco||86202|27|86202||29|010|0132|Rural|

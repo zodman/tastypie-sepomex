@@ -1,0 +1,69 @@
+42390|Naxthéy|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0546|Rural|
+42390|Santa María Xigui|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0551|Rural|
+42390|Baxthe|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0544|Rural|
+42390|San Pablo Oxtotipan|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0549|Rural|
+42390|Taxhié|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0552|Rural|
+42390|Zozea|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0554|Rural|
+42390|Alfajayucan Centro|Colonia|Alfajayucan|Hidalgo||42301|13|42301||09|006|0543|Urbano|
+42390|Cebolletas|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0545|Rural|
+42390|San Antonio Tezoquipan|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0547|Rural|
+42390|San Francisco Sacachichilco|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0548|Rural|
+42392|El Espíritu|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0559|Rural|
+42392|Cuarta Manzana Toxtha|Colonia|Alfajayucan|Hidalgo||42301|13|42301||09|006|2837|Urbano|
+42392|La Huapilla|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0560|Rural|
+42392|Cuarta Manzana Bathahuai|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4138|Rural|
+42392|San Antonio Corrales|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0561|Rural|
+42392|Primera Manzana Dosdha|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|2829|Rural|
+42392|El Mayorazgo|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4145|Rural|
+42392|Buenavista|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0558|Rural|
+42393|La Palma|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4156|Rural|
+42393|Boxthó|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0562|Rural|
+42393|Arias|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4136|Rural|
+42393|Tercera Manzana|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4169|Rural|
+42393|Xamagé|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0563|Rural|
+42393|Pueblo Nuevo|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4165|Rural|
+42393|San Pedro Xamagé|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4167|Rural|
+42394|Los Trejo|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4160|Rural|
+42394|Cerro Azul|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0564|Rural|
+42394|La Piedad|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|2911|Rural|
+42394|El Dadhó|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4142|Rural|
+42394|El Perú|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4147|Rural|
+42394|Dolores|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4139|Rural|
+42394|El Peñón|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4146|Rural|
+42394|Santa María la Palma|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0565|Rural|
+42394|La Cañada|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|2912|Rural|
+42394|Huixthéy|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4151|Rural|
+42395|El Zapote (Fontezuelas)|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0566|Rural|
+42395|Los Puertecitos (Ejido de Baxthe)|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4159|Rural|
+42395|El Puerto|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4149|Rural|
+42395|Xothé|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0569|Rural|
+42395|La Salitrera|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0567|Rural|
+42395|San Pedro la Paz|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0568|Rural|
+42395|Santa María la Palma|Ejido|Alfajayucan|Hidalgo||42301|13|42301||15|006|4140|Rural|
+42395|La Cruz|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4153|Rural|
+42396|El Doydhe|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4144|Rural|
+42396|Yonthe Chico|Poblado comunal|Alfajayucan|Hidalgo||42301|13|42301||27|006|4173|Rural|
+42396|Cuarta Manzana (La Loma Dotzihai)|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4137|Rural|
+42396|La Nopalera Naxthéy|Poblado comunal|Alfajayucan|Hidalgo||42301|13|42301||27|006|4154|Rural|
+42396|Segunda Manzana Zundhó|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4168|Rural|
+42396|Tercera Manzana la Ladera|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4170|Rural|
+42397|Madho San Pablo|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4163|Rural|
+42397|El Bermejo|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4141|Rural|
+42397|La Venta|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4158|Rural|
+42397|Milpa Grande|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0570|Rural|
+42397|Madho Corrales|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4162|Rural|
+42397|Yonthe Grande|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0557|Rural|
+42397|La Vega|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0555|Rural|
+42397|La Noria|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4155|Rural|
+42397|El Potrerito|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4148|Rural|
+42397|Golondrinas|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4150|Rural|
+42399|Madho Cerro Prieto|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4161|Rural|
+42399|Tres Hermanas|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4172|Rural|
+42399|Deca|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0571|Rural|
+42399|San Agustín Tlalixticapa|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0573|Rural|
+42399|Donguiño|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|0572|Rural|
+42399|Tercera Manzana Tezoquipan (Los Ángeles Ngodho)|Poblado comunal|Alfajayucan|Hidalgo||42301|13|42301||27|006|4171|Rural|
+42399|Nexni|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4164|Rural|
+42399|San Lucas|Pueblo|Alfajayucan|Hidalgo||42301|13|42301||28|006|0574|Rural|
+42399|El Deca Tezoquipan|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4143|Rural|
+42399|Puithe San Antonio Tezoquipan|Ranchería|Alfajayucan|Hidalgo||42301|13|42301||29|006|4166|Rural|

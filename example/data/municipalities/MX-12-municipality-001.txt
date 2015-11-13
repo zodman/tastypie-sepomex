@@ -1,0 +1,515 @@
+39300|Pinzona|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|3975|Urbano|01
+39300|Del Panteón|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0483|Urbano|01
+39300|Acapulco de Juárez Centro|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0481|Urbano|01
+39300|El Capire|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1242|Urbano|01
+39300|Pozo de La Nación|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|1549|Urbano|01
+39300|Del Hueso|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0482|Urbano|01
+39350|Hornos Insurgentes|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0488|Urbano|01
+39350|Progreso|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0489|Urbano|01
+39350|13 de Junio|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0490|Urbano|01
+39355|Hornos|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0494|Urbano|01
+39357|Hornos|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|0495|Urbano|01
+39358|Progreso|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|0496|Urbano|01
+39359|Real de Acapulco|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0497|Urbano|01
+39360|Cuerería|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0498|Urbano|01
+39360|Las Crucitas|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0502|Urbano|01
+39360|Petaquillas|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0503|Urbano|01
+39360|La Lima|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0501|Urbano|01
+39360|Hospital|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0500|Urbano|01
+39370|La Candelaria|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0507|Urbano|01
+39370|La Pinzona|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0509|Urbano|01
+39370|La Pocita|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0510|Urbano|01
+39370|La Poza|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0511|Urbano|01
+39370|El Mesón|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0504|Urbano|01
+39370|Los Tepetates|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0512|Urbano|01
+39370|Del Teconche|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0505|Urbano|01
+39370|La Guinea|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0508|Urbano|01
+39380|Farallón Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0514|Urbano|01
+39380|Playa Roqueta|Equipamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||17|001|0516|Urbano|01
+39380|Tambuco|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0517|Urbano|01
+39380|Cumbres Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0513|Urbano|01
+39380|Flamingos Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0515|Urbano|01
+39385|Club Residencial las Américas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0518|Urbano|01
+39390|Genaro Vázquez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0521|Urbano|01
+39390|Península de las Playas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0523|Urbano|01
+39390|Las Playas|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0522|Urbano|01
+39390|Bodega|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0520|Urbano|01
+39400|Vicente Guerrero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0527|Urbano|01
+39405|Ignacio Manuel Altamirano|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0531|Urbano|01
+39405|Jardín Azteca|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0532|Urbano|01
+39405|20 de Abril|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0536|Urbano|01
+39405|Corregidora|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0530|Urbano|01
+39405|Nueva Jerusalén|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0534|Urbano|01
+39405|Ángel Aguirre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0529|Urbano|01
+39406|Reforma Agraria|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0539|Urbano|01
+39406|Roca de Oro|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0540|Urbano|01
+39406|El Paraíso|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0537|Urbano|01
+39407|Brisas del Mar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4053|Urbano|01
+39407|Valle de las Flores|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0545|Urbano|01
+39407|La Puñalada|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1395|Urbano|01
+39407|San Isidro|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|0544|Urbano|01
+39407|Pedregoso|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0543|Urbano|01
+39407|Miramar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0542|Urbano|01
+39407|Tepeyac|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4078|Urbano|01
+39410|Los Mangos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0546|Urbano|01
+39412|Costa Brava Terranova|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0549|Urbano|01
+39412|Jardín Mangos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0550|Urbano|01
+39422|Jardín Palmas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0554|Urbano|01
+39422|Excampo de Tiro|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0553|Urbano|01
+39422|Las Joyas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0556|Urbano|01
+39422|SEMARNAP|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4347|Urbano|01
+39425|Puesta del Sol|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0557|Urbano|01
+39430|La Nueva Era|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0560|Urbano|01
+39430|Rubén Jaramillo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4232|Urbano|01
+39430|Generación 2000|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0559|Urbano|01
+39430|Ricardo Morlett Sutter|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0561|Urbano|01
+39430|Venustiano Carranza|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0563|Urbano|01
+39430|Nueva Era|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1520|Urbano|01
+39430|Universitaria|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0562|Urbano|01
+39430|Balcones Al Mar|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0558|Urbano|01
+39450|Luis Donaldo Colosio|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0564|Urbano|01
+39450|Marbella|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0565|Urbano|01
+39460|Vicente Lombardo Toledano|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0569|Urbano|01
+39460|Mozimba|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0568|Urbano|01
+39463|Antorcha Revolucionaria|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0570|Urbano|01
+39463|Mozimba 1a Secc|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0571|Urbano|01
+39467|Mozimba Secc Jardín|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0573|Urbano|01
+39467|José López Portillo Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0572|Urbano|01
+39470|Potrerillo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0575|Urbano|01
+39470|Adolfo López Mateos|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0574|Urbano|01
+39474|Mozimba FOVISSSTE|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0577|Urbano|01
+39475|Puesta del Sol|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0578|Urbano|01
+39480|Los Naranjos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0580|Urbano|01
+39480|La Mira|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0579|Urbano|01
+39489|Municipal|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0581|Urbano|01
+39493|Taxco|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0583|Urbano|01
+39499|Los Naranjitos|Barrio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||02|001|0584|Urbano|01
+39499|Las Marañonas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1485|Urbano|01
+39499|Leonardo Rodriguez Alcaine|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4151|Urbano|01
+39500|Vicente Guerrero FOVISSSTE|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0585|Urbano|01
+39510|Palma Sola|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|0588|Urbano|01
+39510|Independencia|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0586|Urbano|01
+39510|Palma Sola|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0587|Urbano|01
+39520|Constituyentes|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0589|Urbano|01
+39528|Santa Cecilia|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0591|Urbano|01
+39530|Santa Cruz|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0596|Urbano|01
+39530|Guadalupe Victoria|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0593|Urbano|01
+39530|Morelos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0595|Urbano|01
+39530|María de La O|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0594|Urbano|01
+39540|Olímpica|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0597|Urbano|01
+39540|Solidaridad|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4345|Urbano|01
+39540|Juan R Escudero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4081|Urbano|01
+39540|Silvestre Castro|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|4233|Urbano|01
+39540|Silvestre Castro|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0599|Urbano|01
+39550|Cuauhtémoc|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0602|Urbano|01
+39550|Santa Cruz|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0605|Urbano|01
+39550|Bellavista|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|1091|Urbano|01
+39550|Alta Cuauhtémoc|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0600|Urbano|01
+39550|Bellavista|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0601|Urbano|01
+39550|El Mirador|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0604|Urbano|01
+39550|Cuauhtémoc|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|0603|Urbano|01
+39560|Vista Alegre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0606|Urbano|01
+39562|Emiliano Zapata|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0607|Urbano|01
+39570|La Florida Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0608|Urbano|01
+39573|Hornos Insurgentes|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0610|Urbano|01
+39574|La Florida|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0611|Urbano|01
+39580|Hogar Moderno|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0612|Urbano|01
+39580|Miguel Alemán|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0613|Urbano|01
+39589|Aguas Blancas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0615|Urbano|01
+39590|Palmar de Carabalí|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0618|Urbano|01
+39590|Carabalí Centro|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0616|Urbano|01
+39590|La Fabrica|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0617|Urbano|01
+39600|Frontera|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0623|Urbano|01
+39600|La Laja|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0624|Urbano|01
+39600|La Laja Parte Alta|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0625|Urbano|01
+39600|Cuauhtémoc Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0622|Urbano|01
+39610|6 de Enero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0638|Urbano|01
+39610|Alta Progreso Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0627|Urbano|01
+39610|Francisco Villa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0632|Urbano|01
+39610|Alta Progreso|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1064|Urbano|01
+39610|Altamira|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0628|Urbano|01
+39610|Altamira Norte|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||38|001|0629|Urbano|01
+39610|Panorámica|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1532|Urbano|01
+39610|Margarita de Gortari|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0636|Urbano|01
+39610|Burócrata|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0630|Urbano|01
+39610|Revolución del Sur|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1576|Urbano|01
+39613|Buenavista|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0639|Urbano|01
+39613|Guerrero Es Primero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0640|Urbano|01
+39613|Periodistas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0641|Urbano|01
+39615|Unidad Obrera|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4344|Urbano|01
+39620|La Quebradora|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0646|Urbano|01
+39620|Vista Hermosa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0650|Urbano|01
+39620|Loma Bonita|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0649|Urbano|01
+39620|La Providencia|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0645|Urbano|01
+39630|Alianza Popular|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0653|Urbano|01
+39630|Bocamar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0655|Urbano|01
+39630|Barranca de La Laja|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0654|Urbano|01
+39630|Militar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0660|Urbano|01
+39630|Las Américas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0658|Urbano|01
+39630|Las Anclas|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0659|Urbano|01
+39633|Obrera Popular|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0661|Urbano|01
+39640|Marroquín|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0665|Urbano|01
+39640|Santa Elena|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0666|Urbano|01
+39640|El Roble|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0663|Urbano|01
+39640|Jacarandas|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0664|Urbano|01
+39650|La Garita|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0669|Urbano|01
+39650|Garita de Juárez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4150|Urbano|01
+39650|Del Valle|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0668|Urbano|01
+39660|20 de Noviembre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0673|Urbano|01
+39660|Loma Hermosa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0671|Urbano|01
+39660|Pacifico|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0672|Urbano|01
+39670|Gustavo Diaz Ordaz|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0675|Urbano|01
+39670|Adolfo López Mateos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0674|Urbano|01
+39670|Magallanes|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0676|Urbano|01
+39679|Rodrigo de Triana|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0679|Urbano|01
+39680|Lomas de Magallanes|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0681|Urbano|01
+39680|Las Cumbres|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0680|Urbano|01
+39683|Cumbres Diana|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0682|Urbano|01
+39683|Magisterio Guerrerense|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0684|Urbano|01
+39689|Bosques de La Cañada|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0685|Urbano|01
+39689|Cumbres de Figueroa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0686|Urbano|01
+39689|Pablo Galeana|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0687|Urbano|01
+39690|Club Deportivo|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0689|Urbano|01
+39690|Condesa|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0690|Urbano|01
+39690|Farallón|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0692|Urbano|01
+39690|Chinameca|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0691|Urbano|01
+39690|Cañada de los Amates|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0688|Urbano|01
+39690|Infonavit Centro Acapulco|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|4055|Urbano|01
+39699|Jardín de los Amates|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0694|Urbano|01
+39699|Villas Condesa|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|1719|Urbano|01
+39700|24 de Octubre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4262|Urbano|01
+39700|Emiliano Zapata|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0696|Urbano|01
+39700|Emiliano Zapata|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0697|Urbano|01
+39700|Caudillo del Sur|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4273|Urbano|01
+39700|Graciano Sanchez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0698|Urbano|01
+39700|El Palmar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0695|Urbano|01
+39700|Leona Vicario|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0699|Urbano|01
+39700|Ricardo Flores Magón|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0700|Urbano|01
+39700|Tierra y Libertad|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0701|Urbano|01
+39703|Fidel Velázquez Sanchez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0702|Urbano|01
+39703|Lomas Verdes|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|4271|Urbano|01
+39703|C N C|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4272|Urbano|01
+39703|México|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0703|Urbano|01
+39704|Sinai|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0705|Urbano|01
+39704|Sinai|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|1664|Urbano|01
+39704|Yoloxochil|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0002|Urbano|01
+39710|Electricista|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0707|Urbano|01
+39710|Democrática|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4351|Urbano|01
+39710|Rubén Figueroa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4349|Urbano|01
+39710|Del PRI|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0706|Urbano|01
+39710|Victoria Rosales|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0712|Urbano|01
+39710|16 de Noviembre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4348|Urbano|01
+39710|La Frontera|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4350|Urbano|01
+39710|Villa los Mangos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0713|Urbano|01
+39710|Alejo Peralta|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4263|Urbano|01
+39710|Independencia|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0708|Urbano|01
+39710|Roberto Esperon|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0710|Urbano|01
+39713|La Mica|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0719|Urbano|01
+39713|Villa Sol|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0722|Urbano|01
+39713|SEDESOL Uno|Conjunto habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||12|001|4045|Urbano|01
+39713|Villas Real Hacienda|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4442|Urbano|01
+39713|Batalla Cardenista|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0715|Urbano|01
+39713|La Venta|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1402|Urbano|01
+39713|Tamarindos|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||31|001|4259|Urbano|01
+39713|La Mica|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|4267|Urbano|01
+39713|La Esmeralda|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0718|Urbano|01
+39713|Arroyo Seco|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0714|Urbano|01
+39713|Guerrero Es Primero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0716|Urbano|01
+39713|Nopalitos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0721|Urbano|01
+39713|Paraíso Palmar III|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||31|001|4225|Urbano|01
+39713|Betania|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4226|Urbano|01
+39713|Paso Limonero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4270|Urbano|01
+39713|La Agrícola|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0717|Urbano|01
+39713|Valle del Palmar II|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||31|001|4223|Urbano|01
+39713|Nueva Generación|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4352|Urbano|01
+39713|SEDESOL Dos|Conjunto habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||12|001|4044|Urbano|01
+39713|El Tanque|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4149|Urbano|01
+39713|Placido Domingo Sección A|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||31|001|4224|Urbano|01
+39713|Valle del Palmar I|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4264|Urbano|01
+39713|Moctezuma Emperador|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0720|Urbano|01
+39714|Barrio Nuevo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0723|Urbano|01
+39714|Ecologista|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0724|Urbano|01
+39715|Fuentes del Maurel II|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0726|Urbano|01
+39715|Renacimiento|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0730|Urbano|01
+39715|Leonardo Rodriguez Alcaine|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4257|Urbano|01
+39715|Fidel Velázquez Sect 1|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0725|Urbano|01
+39715|Nuevo Capire|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4260|Urbano|01
+39715|Arroyo Seco|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4258|Urbano|01
+39720|Primero de Mayo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0731|Urbano|01
+39729|Coheteros|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0735|Urbano|01
+39729|Villa Guerrero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0737|Urbano|01
+39729|Nueva Luz|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0736|Urbano|01
+39730|La Cima|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0738|Urbano|01
+39740|Parotas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0741|Urbano|01
+39740|Benito Juárez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0739|Urbano|01
+39740|Lázaro Cárdenas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0740|Urbano|01
+39745|Miguel Hidalgo|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0742|Urbano|01
+39746|Niños Héroes|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0743|Urbano|01
+39747|Obrera|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0749|Urbano|01
+39747|Bascula|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0745|Urbano|01
+39747|Las Parotas|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0746|Urbano|01
+39747|Miguel de La Madrid|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0747|Urbano|01
+39747|Amin Zarur Menez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0744|Urbano|01
+39747|Niños Héroes|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0748|Urbano|01
+39748|Lázaro Cárdenas|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0750|Urbano|01
+39750|Villas Arboledas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0764|Urbano|01
+39750|Cnop|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0755|Urbano|01
+39750|2 de Febrero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0756|Urbano|01
+39750|Arboledas|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4047|Urbano|01
+39750|Unidos Por Guerrero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4268|Urbano|01
+39750|Postal|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0762|Urbano|01
+39750|San Miguel|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1626|Urbano|01
+39750|Leyes de Reforma|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0760|Urbano|01
+39750|Narciso Mendoza|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0761|Urbano|01
+39750|La Industrial|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0758|Urbano|01
+39750|Las Torres|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0759|Urbano|01
+39750|Jacarandas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0757|Urbano|01
+39750|Tecnológica|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0763|Urbano|01
+39753|San Agustin|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4227|Urbano|01
+39753|Industrial|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4266|Urbano|01
+39753|José María Izazaga|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0765|Urbano|01
+39753|Villa de las Flores|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4261|Urbano|01
+39759|José López Portillo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0766|Urbano|01
+39760|Vicente Guerrero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0767|Urbano|01
+39770|Club Campestre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0768|Urbano|01
+39770|Coral|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0769|Urbano|01
+39770|Huertas de Santa Elena|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0772|Urbano|01
+39770|Emilio M Gonzalez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0770|Urbano|01
+39770|Los Limoncitos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0774|Urbano|01
+39770|Las Cruces|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0773|Urbano|01
+39770|Loma Larga|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4153|Urbano|01
+39770|Villa Tulipanes|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4254|Urbano|01
+39770|Luz y Fuerza|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0775|Urbano|01
+39770|Libertadores|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1449|Urbano|01
+39770|Cereso I|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||31|001|4256|Urbano|01
+39770|Fuentes del Maurel I|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0771|Urbano|01
+39770|Corales|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4043|Urbano|01
+39773|Simón Bolívar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|3819|Urbano|01
+39773|Simón Bolívar|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0777|Urbano|01
+39773|José López Portillo|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0776|Urbano|01
+39773|Villa Madero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4269|Urbano|01
+39774|José María Pino Suárez|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0782|Urbano|01
+39774|Miguel Terrazas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4354|Urbano|01
+39774|15 de Septiembre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0786|Urbano|01
+39774|Nicolás Bravo Junto A López Portillo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1513|Urbano|01
+39774|Revolución de Octubre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0788|Urbano|01
+39774|Paraíso|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|1534|Rural|01
+39774|Ángel Aguirre Rivero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0778|Urbano|01
+39774|Paraíso|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0785|Urbano|01
+39774|Miguel de La Madrid|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|4255|Urbano|01
+39774|Francisco Ruiz Massieu|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0780|Urbano|01
+39774|Emperador Moctezuma|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4265|Urbano|01
+39774|Movimiento Territorial|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0783|Urbano|01
+39774|Nicolás Bravo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0784|Urbano|01
+39780|La Libertad|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0790|Urbano|01
+39780|Los Lirios|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0792|Urbano|01
+39780|Los Lirios|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0791|Urbano|01
+39780|La Libertad|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0789|Urbano|01
+39787|Amadeo Vidales|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0794|Urbano|01
+39790|Los Manantiales|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0800|Urbano|01
+39790|Canuto Nogueda|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0795|Urbano|01
+39790|5 de Mayo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0796|Urbano|01
+39790|Del Rastro|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0798|Urbano|01
+39790|Ruffo Figueroa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0802|Urbano|01
+39799|Héroes de Guerrero|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0804|Urbano|01
+39799|La Sabana|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0806|Urbano|01
+39799|Mártir de Cuilapan|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0808|Urbano|01
+39799|Melchor Ocampo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0809|Urbano|01
+39799|Los Dragos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0807|Urbano|01
+39800|Guadalupe Victoria|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0811|Urbano|01
+39800|La Maquina|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0814|Urbano|01
+39800|La Maquina|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0815|Urbano|01
+39803|Rastro Viejo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0816|Urbano|01
+39803|Salinas de Gortari|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0817|Urbano|01
+39810|El Coloso Infonavit|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||31|001|0818|Urbano|01
+39810|Potrero de La Mora|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0819|Urbano|01
+39810|El Mirador|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4355|Urbano|01
+39813|Piedra Azul|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0822|Urbano|01
+39813|Piedra Roja|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0823|Urbano|01
+39813|Alejo Peralta|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1062|Urbano|01
+39813|Apolonio Castillo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0821|Urbano|01
+39814|Milenia|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0829|Urbano|01
+39814|La Navidad|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0826|Urbano|01
+39814|La Esperanza|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0825|Urbano|01
+39814|La Parota|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0827|Urbano|01
+39814|Nuevo Cayaco|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4356|Urbano|01
+39814|Alta Loma La Esperanza|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0824|Urbano|01
+39815|Navidad de Llano Largo|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0898|Urbano|01
+39820|Cumbres Llano Largo|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0830|Urbano|01
+39830|Lomas de Costa Azul|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0833|Urbano|01
+39840|Hermenegildo Galeana|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0835|Urbano|01
+39840|Balcones de Costa Azul|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0834|Urbano|01
+39840|Reforma de Costa Azul|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4238|Urbano|01
+39840|Praderas de Guadalupe|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|1551|Urbano|01
+39845|Vistamar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|4343|Urbano|01
+39845|Praderas de Costa Azul|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0836|Urbano|01
+39850|Costa Azul|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0837|Urbano|01
+39850|23 de Noviembre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0838|Urbano|01
+39859|Centro de Convenciones|Gran usuario|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||22|001|0841|Urbano|01
+39860|Icacos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0842|Urbano|01
+39860|PEMEX|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0845|Urbano|01
+39860|Nuevo Centro de Población|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0843|Urbano|01
+39860|Alta Icacos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0844|Urbano|01
+39865|Joyas de Brisamar|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0847|Urbano|01
+39865|Brisamar|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0846|Urbano|01
+39866|Icacos Prolongación|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||09|001|0848|Urbano|01
+39867|Las Brisas|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0850|Urbano|01
+39867|Club Residencial las Brisas|Unidad habitacional|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||31|001|0849|Urbano|01
+39868|Hotel las Brisas|Gran usuario|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||22|001|0851|Urbano|01
+39869|Base Naval Icacos|Zona federal|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||34|001|0852|Urbano|01
+39880|Lomas del Marqués|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0854|Urbano|01
+39880|Pichilingue|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0855|Urbano|01
+39880|Playa Guitarrón|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0857|Urbano|01
+39887|El Glomar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0859|Urbano|01
+39887|Brisas del Marqués|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0858|Urbano|01
+39888|Las Brisas 2|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0861|Urbano|01
+39888|Rinconada de las Brisas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0862|Urbano|01
+39888|Las Brisas 1|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0860|Urbano|01
+39889|Marina Brisas|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39559|12|39559||21|001|0863|Urbano|01
+39890|Alborada Cardenista|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0864|Urbano|01
+39890|Parque Ecológico de Viveristas|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0872|Urbano|01
+39890|Princess del Marqués Secc I|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1554|Urbano|01
+39890|Rinconada del Mar|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1580|Urbano|01
+39890|Granjas del Marqués|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0866|Urbano|01
+39890|Jardín Princesas II|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0869|Urbano|01
+39890|La Princesa|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1393|Urbano|01
+39890|Villas Diamante I|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1722|Urbano|01
+39890|Puerto Marqués|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0916|Urbano|01
+39890|Jardín Princesas I|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0868|Urbano|01
+39890|La Chaparrita|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0870|Urbano|01
+39890|Villas del Paraíso Secc II|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1720|Urbano|01
+39890|Villas Diamante II|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4050|Urbano|01
+39890|Ciudad Luis Donaldo Colosio|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0865|Urbano|01
+39890|Los Arcos|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4152|Urbano|01
+39890|Olinalá Princess|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0871|Urbano|01
+39893|Alfredo V Bonfil|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0873|Urbano|01
+39893|Cuquita Massieu|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0876|Urbano|01
+39893|Playa Encantada|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0879|Urbano|01
+39893|El Podrido|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0877|Urbano|01
+39893|Plan de los Amates|Ampliación|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||38|001|0878|Urbano|01
+39893|3 Vidas|Club de golf|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||39|001|0875|Urbano|01
+39893|Rubén Robles Catalán|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0880|Urbano|01
+39893|Puente del Mar|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4359|Urbano|01
+39893|2 Soles|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4358|Urbano|01
+39897|Nuevo Puerto Marqués|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0882|Urbano|01
+39897|Villas Princess I|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0888|Urbano|01
+39897|Playa Diamante|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4051|Urbano|01
+39897|Princess del Marqués II|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|3800|Urbano|01
+39897|Copacabana|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1175|Urbano|01
+39897|Playar III|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0885|Urbano|01
+39897|3 de Abril|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|4357|Urbano|01
+39897|Villas de Golf Diamante|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0887|Urbano|01
+39897|Villas Princess II|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0889|Urbano|01
+39897|Playar II|Condominio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||10|001|0884|Urbano|01
+39897|Villas Xcaret|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4448|Urbano|01
+39897|Playar I|Condominio|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||10|001|0883|Urbano|01
+39897|Real Diamante|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|4052|Urbano|01
+39898|Altos de Miramar|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0890|Urbano|01
+39898|Vista Brisa|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0897|Urbano|01
+39898|19 de Noviembre|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1210|Urbano|01
+39898|Miramar|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0895|Urbano|01
+39898|Rinconada Diamante|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0896|Urbano|01
+39898|La Guadalupana|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|1367|Urbano|01
+39898|Villas Paraíso Secc I|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|1726|Urbano|01
+39898|Altos del Marqués|Fraccionamiento|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||21|001|0891|Urbano|01
+39898|El Porvenir|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0892|Urbano|01
+39898|La Lajita|Colonia|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||09|001|0894|Urbano|01
+39899|Acapulco (Gral. Juan N. Álvarez)|Aeropuerto|Acapulco de Juárez|Guerrero|Acapulco de Juárez|39791|12|39791||01|001|5031|Urbano|01
+39900|Pie de La Cuesta|Pueblo|Acapulco de Juárez|Guerrero||39559|12|39559||28|001|0899|Urbano|
+39901|Barrio Nuevo de los Muertos|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0900|Rural|
+39901|Los Órganos San Agustín|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0903|Urbano|
+39901|El Quemado|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0901|Urbano|
+39901|El Veladero (Veladero Morelos)|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0902|Urbano|
+39902|Carabalí|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0905|Rural|
+39903|Las Plazuelas|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0909|Rural|
+39903|La Sabana|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0908|Urbano|
+39903|El Salto|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0907|Rural|
+39904|Tuncingo|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0911|Rural|
+39904|El Metlapil|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0910|Rural|
+39905|El Pedregoso|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0913|Rural|
+39905|Cayaco|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0912|Urbano|
+39906|La Zanja O La Poza|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0914|Urbano|
+39906|Joyas del Marques|Fraccionamiento|Acapulco de Juárez|Guerrero||39791|12|39791||21|001|0001|Urbano|
+39906|Llano Largo|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0915|Urbano|
+39906|Costa Dorada|Fraccionamiento|Acapulco de Juárez|Guerrero||39791|12|39791||21|001|4439|Urbano|
+39908|Tres Palos|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0917|Rural|
+39909|El Zapote|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0919|Rural|
+39909|Los Órganos de Juan R. Escudero|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0921|Rural|
+39909|Lomas del Aire|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0920|Rural|
+39909|El Porvenir|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0918|Rural|
+39910|El Vergel|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3985|Rural|
+39910|Las Primaveras|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3983|Rural|
+39910|Las Tortolitas|Pueblo|Acapulco de Juárez|Guerrero||39913|12|39913||28|001|0922|Rural|
+39910|Xaltianguis|Pueblo|Acapulco de Juárez|Guerrero||39913|12|39913||28|001|0924|Rural|
+39910|Xolapa|Pueblo|Acapulco de Juárez|Guerrero||39913|12|39913||28|001|0925|Rural|
+39910|Cantarranas|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3982|Rural|
+39910|Los Mangos (El Quemado)|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3984|Rural|
+39910|Del Carmen|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3986|Rural|
+39910|Pablo Galeana|Pueblo|Acapulco de Juárez|Guerrero||39913|12|39913||28|001|0923|Rural|
+39910|Las Golondrinas|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|1416|Rural|
+39910|Las Flores|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3979|Rural|
+39910|Las Pilitas|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3987|Rural|
+39910|Lagunillas|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|1408|Rural|
+39910|San Miguel|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3980|Rural|
+39910|Cervantes Delgado|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3981|Rural|
+39910|Retén|Colonia|Acapulco de Juárez|Guerrero||39913|12|39913||09|001|3988|Rural|
+39911|Kilómetro 21|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0926|Rural|
+39911|Kilómetro 22|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0927|Rural|
+39915|Pueblo Madero|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0930|Rural|
+39917|Kilómetro 48|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0931|Rural|
+39917|Las Marías|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0932|Rural|
+39918|La Providencia|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0933|Rural|
+39919|Piedra Imán|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0935|Rural|
+39919|Kilómetro 45|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0934|Rural|
+39920|La Calera|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0937|Rural|
+39920|Kilómetro 30|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0936|Rural|
+39921|Tasajeras|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0940|Rural|
+39921|San Antonio|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0939|Rural|
+39921|Texca|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0941|Rural|
+39921|El Pelillo|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0938|Rural|
+39922|2 Arroyos|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0943|Rural|
+39922|Altos del Camarón|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0942|Rural|
+39923|Las Joyas|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0945|Rural|
+39923|Las Sabanillas|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0946|Rural|
+39924|Ejido Nuevo|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0947|Rural|
+39925|Kilómetro 42|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0949|Rural|
+39925|Kilómetro 40|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0948|Rural|
+39925|La Sierrita|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0950|Rural|
+39926|Lomas de San Juan|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0951|Rural|
+39926|San Juan de las Lomas|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0952|Rural|
+39927|Huajintepec|Ejido|Acapulco de Juárez|Guerrero||39791|12|39791||15|001|0954|Rural|
+39927|Amatepec|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0953|Rural|
+39927|Pocha Tlaxco|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0955|Rural|
+39928|La Garrapata|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0957|Rural|
+39928|Las Parotas|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0958|Rural|
+39928|San José Cacahuatepec|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0959|Rural|
+39930|Lomas de Chapultepec|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0960|Rural|
+39931|Cacahuate|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0961|Rural|
+39931|La Concepción|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0965|Rural|
+39931|El Bejuco|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0962|Rural|
+39931|El Campanario|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0963|Rural|
+39931|Plan de los Amates|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0966|Rural|
+39931|Huamuchitos|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0964|Rural|
+39932|San Pedro de las Playas|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0971|Rural|
+39932|Nicolás Bravo (La Zanja del Poniente)|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0969|Rural|
+39932|Cerro de Piedra|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0967|Rural|
+39932|El Arenal|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0968|Rural|
+39932|San Pedro Cacahuatepec|Congregación|Acapulco de Juárez|Guerrero||39791|12|39791||11|001|0970|Rural|
+39932|Vicente Guerrero 200|Unidad habitacional|Acapulco de Juárez|Guerrero||39791|12|39791||31|001|0972|Urbano|
+39934|San Isidro|Pueblo|Acapulco de Juárez|Guerrero||39559|12|39559||28|001|0974|Rural|
+39935|Aguas Calientes|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0975|Rural|
+39935|Apalani|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0976|Rural|
+39935|Las Cruces de Cacahuatepec|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0977|Rural|
+39935|El Carrizo|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0978|Rural|
+39935|El Rincón|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0979|Rural|
+39936|Laguna del Quemado|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0983|Rural|
+39936|Oaxaquillas|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0984|Rural|
+39936|San Andrés Playa Encantada|Colonia|Acapulco de Juárez|Guerrero||39791|12|39791||09|001|4048|Rural|
+39936|Barra Vieja|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0981|Rural|
+39936|La Estación|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0982|Rural|
+39936|Amatillo|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0980|Rural|
+39936|Salsipuedes|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0985|Rural|
+39937|Apanhuac|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0986|Rural|
+39937|Cacahuatepec|Pueblo|Acapulco de Juárez|Guerrero||39791|12|39791||28|001|0987|Rural|
+39937|El Cantón|Campamento|Acapulco de Juárez|Guerrero||39791|12|39791||04|001|0988|Rural|
+39937|Parotillas|Ranchería|Acapulco de Juárez|Guerrero||39791|12|39791||29|001|0989|Rural|

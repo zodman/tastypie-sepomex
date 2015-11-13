@@ -1,0 +1,208 @@
+76300|El Calvario|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|3068|Urbano|
+76300|Centro|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|0360|Urbano|
+76300|La Escondida|Barrio|Pinal de Amoles|Querétaro||76301|22|76301||02|002|2179|Urbano|
+76300|El Bondojito|Barrio|Pinal de Amoles|Querétaro||76301|22|76301||02|002|2194|Urbano|
+76300|Curva Colorada|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|2329|Urbano|
+76300|Piedra Grande|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|2094|Urbano|
+76303|Puerto de Amoles|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|1997|Urbano|
+76304|Ojo de Agua|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|3069|Urbano|
+76309|San Pedro Escanela|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0371|Rural|
+76310|Ahuacatlán de Guadalupe|Pueblo|Pinal de Amoles|Querétaro||76301|22|76301||28|002|0372|Rural|
+76313|Adjuntas de Ahuacatlán|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0374|Rural|
+76313|Ojo de Agua|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1988|Rural|
+76313|Puerto del Naranjo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2008|Rural|
+76313|El Encino|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1913|Rural|
+76313|Naranjo de Escanelilla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3087|Rural|
+76313|Quirambal|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0375|Rural|
+76313|Rancho Nuevo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2013|Rural|
+76313|Encino de Ahuacatlán|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2180|Rural|
+76314|San Martín|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|3075|Rural|
+76314|Las Adjuntas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1967|Rural|
+76314|La Angostura|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3080|Rural|
+76314|Huilotla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0376|Rural|
+76314|Coatlán de los Ángeles|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1898|Rural|
+76314|Puerto Colorado|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1996|Rural|
+76314|El Zarzal|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1938|Rural|
+76314|Carrizal de Adjuntas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1893|Rural|
+76314|Huajáles|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1942|Rural|
+76314|Peña Alta|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1991|Rural|
+76314|Puerto de Huilotla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2011|Rural|
+76314|Alejandría de Morelos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1888|Rural|
+76315|La Barrosa|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1945|Rural|
+76315|Puerto de Escanelilla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2009|Rural|
+76315|La Troja|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1965|Rural|
+76315|Sauz de Guadalupe|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0367|Rural|
+76315|La Joya de Ahuacatlán|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1954|Rural|
+76315|Puerto de Alejandría|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0378|Rural|
+76316|El Llano|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3091|Rural|
+76316|La Yerbabuena|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1966|Rural|
+76316|Las Joyas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3089|Rural|
+76316|Cuesta Blanca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1901|Rural|
+76316|Derramadero de Juárez|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0384|Rural|
+76316|Cuesta de Huazmazontla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1903|Rural|
+76316|Loma de la Cañada|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1975|Rural|
+76316|Río Escanela|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2015|Rural|
+76316|La Charca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1948|Rural|
+76316|Loma de las Minas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1976|Rural|
+76316|Las Mesitas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1973|Rural|
+76317|Cerro de la Pingüica|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1897|Rural|
+76317|Hornitos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1941|Rural|
+76317|La Muñeca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1961|Rural|
+76317|La Sierrita|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1964|Rural|
+76317|Los Pinos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1979|Rural|
+76317|Puerto Canoas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1995|Rural|
+76317|El Gallo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0387|Rural|
+76317|San Gaspar|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0379|Rural|
+76317|Agua Enterrada|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1882|Rural|
+76317|La Mesa de la Barranca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1958|Rural|
+76317|La Peña Colorada|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1962|Rural|
+76317|Puerto de Tepozán|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2007|Rural|
+76317|El Cantoncito|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3094|Rural|
+76317|Agua Fría de la Barranca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1885|Rural|
+76317|El Rodezno|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1930|Rural|
+76317|El Bernalito|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1907|Rural|
+76317|Santa Rita|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2023|Rural|
+76317|El Cantón|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1908|Rural|
+76317|Llano de San Francisco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1920|Rural|
+76317|Los Lirios|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1978|Rural|
+76317|La Barranca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0385|Rural|
+76318|Maguey Blanco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0380|Rural|
+76318|Sauz de Arroyo Hondo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2024|Rural|
+76318|El Pilón|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1925|Rural|
+76318|Arroyo Hondo de Huilotla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1890|Rural|
+76318|El Apartadero|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1906|Rural|
+76319|La Joya del Leal|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1970|Rural|
+76319|Las Mesas de Santa Inés|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1972|Rural|
+76319|El Limón|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1916|Rural|
+76319|Ciénega de San Juan|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1949|Rural|
+76319|La Cañada|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3072|Rural|
+76319|La Loma de la Ciénega|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1955|Rural|
+76319|Puerto de Pujunguía|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2012|Rural|
+76319|El Puertecito|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3077|Rural|
+76319|El Arpa|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1944|Rural|
+76319|La Morita|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1960|Rural|
+76319|Las Cruces|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1968|Rural|
+76319|San Isidro|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2018|Rural|
+76319|La Joya de Santa Águeda|Barrio|Pinal de Amoles|Querétaro||76301|22|76301||02|002|3070|Rural|
+76319|Santa Águeda|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0381|Rural|
+76319|El Naranjo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1923|Rural|
+76319|La Mesa|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1957|Rural|
+76320|Tonatico|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0382|Rural|
+76321|Escanelilla|Pueblo|Pinal de Amoles|Querétaro||76301|22|76301||28|002|0383|Rural|
+76323|San José Cochinito|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2019|Rural|
+76323|El Cuervo de San Pedro|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3083|Rural|
+76323|Agua Verde|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1886|Rural|
+76323|El Salto|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1932|Rural|
+76323|La Cieneguilla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1950|Rural|
+76323|Agua Cazuela|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1880|Rural|
+76323|Joyas del Real|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2000|Rural|
+76323|El Chuveje|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1911|Rural|
+76324|Tierras Coloradas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2096|Rural|
+76324|Piedra Parada de Santa Rosa|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1993|Rural|
+76324|La Mohonera|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1959|Rural|
+76324|Las Guayabas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1969|Rural|
+76324|La Colgada|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0368|Rural|
+76324|Puerto del Sabino|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1931|Rural|
+76324|Las Majaditas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1971|Rural|
+76324|Maby|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1982|Rural|
+76324|Agua del Maíz|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1881|Rural|
+76324|El Naranjo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1924|Rural|
+76324|La Cebolla|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1947|Rural|
+76324|El Limón de la Cruz|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1918|Rural|
+76324|Palo de Agua|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3092|Rural|
+76324|Pie de la Cuesta|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1992|Rural|
+76325|San Pedro Viejo|Congregación|Pinal de Amoles|Querétaro||76301|22|76301||11|002|0364|Rural|
+76325|Aguacate de San Pedro|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1905|Rural|
+76325|El Murciélago|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1922|Rural|
+76325|Cuervo de San Rafael|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2021|Rural|
+76325|La Ciénega|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3085|Rural|
+76325|Casas Viejas (Agua Enterrada San Carlos)|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1895|Rural|
+76325|De la Loma de San Pedro|Barrio|Pinal de Amoles|Querétaro||76301|22|76301||02|002|3082|Rural|
+76325|El Mezquite|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1921|Rural|
+76325|El Durazno Grande|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1904|Rural|
+76325|Puerto de Tenamaxtle|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2006|Rural|
+76325|San Isidro|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2017|Rural|
+76325|El Carrizalito|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1894|Rural|
+76326|Cuesta de Santa Florentina|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2022|Rural|
+76326|Puerto Hacienda Vieja|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1940|Rural|
+76326|Puerto del Molino|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3084|Rural|
+76326|Mesas de San José|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1986|Rural|
+76326|Puerto Pinto|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3076|Rural|
+76326|Las Escaleras|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3081|Rural|
+76326|Durazno de San Francisco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0370|Rural|
+76326|El Ranchito|Congregación|Pinal de Amoles|Querétaro||76301|22|76301||11|002|0362|Rural|
+76326|Loma Larga (Santa Cecilia)|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0363|Rural|
+76326|Agua Amarga|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0369|Rural|
+76326|El Refugio|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1929|Rural|
+76327|El Cuervo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1912|Rural|
+76327|El Pedregal|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2229|Rural|
+76327|Cuesta Colorada de Huazquilíco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2097|Rural|
+76327|La Gallina|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3086|Rural|
+76327|El Llano de Huazquilíco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0388|Rural|
+76327|Puerto de Vigas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1999|Rural|
+76327|Agua Fría|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1883|Rural|
+76327|Tres Cruces|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2026|Rural|
+76327|La Curva del Chuveje|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3071|Rural|
+76327|Cruz Verde|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1899|Rural|
+76327|Puerto del Rodezno|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2005|Rural|
+76327|Arquitos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1889|Rural|
+76327|Huazquilíco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0359|Rural|
+76327|La Gachupina|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1896|Rural|
+76327|El Tigre|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1933|Rural|
+76327|Puerto del Perico|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2003|Rural|
+76327|El Tambor de Huazquilíco|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3073|Rural|
+76330|Bucareli|Pueblo|Pinal de Amoles|Querétaro||76301|22|76301||28|002|0390|Rural|
+76333|Temascales|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2025|Rural|
+76333|La Escondida|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3079|Rural|
+76333|Puerto del Oro|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2002|Rural|
+76333|Las Cabañas 5 Pinos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3090|Rural|
+76333|El Plátano|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1926|Rural|
+76333|Barranca del Plátano|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1892|Rural|
+76333|Cerro del Carmen|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1909|Rural|
+76333|Epazotitos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1939|Rural|
+76333|El Galéme|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1915|Rural|
+76333|Magueycitos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1980|Rural|
+76333|La Dinamita|Colonia|Pinal de Amoles|Querétaro||76301|22|76301||09|002|2328|Urbano|
+76333|La Esperanza|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1952|Rural|
+76334|El Timbre de Guadalupe|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1937|Rural|
+76334|Medias Coloradas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1984|Rural|
+76334|El Tejocote|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1935|Rural|
+76334|Puerto Hondo|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2010|Rural|
+76334|Epazotes Grandes|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0366|Rural|
+76334|Mesa de Ramírez|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1985|Rural|
+76334|Otomites|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1989|Rural|
+76334|San Antonio del Pelón|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2016|Rural|
+76334|Loma de Guadalupe|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2333|Rural|
+76335|Las Vegas|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1974|Rural|
+76335|La Meca|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1956|Rural|
+76335|Agua Fría de Gudiño|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1884|Rural|
+76335|Palo Grande|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1990|Rural|
+76335|Joyas de Bucareli|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0391|Rural|
+76336|Agua Caliente Chiquita|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1879|Rural|
+76336|Adjunta de Gatos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1878|Rural|
+76336|Mazatiapán|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1983|Rural|
+76336|Aguacate de Morelos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1887|Rural|
+76337|Puerto del Pino (Puerta del Cielo)|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2004|Rural|
+76337|Mesa Chiquita (Mesa del Comalito)|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3088|Rural|
+76337|Puerto del Derramadero|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0377|Rural|
+76337|El Mastranto|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1981|Rural|
+76337|Puerto de los Velázquez|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1998|Rural|
+76337|Rancho Nuevo Dos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|2014|Rural|
+76337|Derramadero de Bucareli|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0386|Rural|
+76337|El Madroño|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|0389|Rural|
+76337|Tepozán de Derramadero|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1936|Rural|
+76337|La Mojonera|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3093|Rural|
+76337|El Soyatal|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1934|Rural|
+76337|Joyas del Derramadero|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1943|Rural|
+76337|La Cañada|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1946|Rural|
+76337|La Joya|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1953|Rural|
+76337|Huerta Don Manuel (Ojo de Agua)|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3074|Rural|
+76337|Barbechos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1891|Rural|
+76337|La Quebradora|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1963|Rural|
+76337|Potrerillos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1994|Rural|
+76337|Cuatro Palos|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1900|Rural|
+76337|El Limón de Bucareli|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1917|Rural|
+76337|Puerto de Tejamaníl|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1927|Rural|
+76337|Carricillo de Media Luna|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1910|Rural|
+76337|Mesa del Soyatal|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|1987|Rural|
+76337|Loma del Revolcadero (La Joya)|Ranchería|Pinal de Amoles|Querétaro||76301|22|76301||29|002|3078|Rural|

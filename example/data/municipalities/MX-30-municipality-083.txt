@@ -1,0 +1,121 @@
+92680|Ixhuatlan de Madero|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1560|Rural|
+92683|Cruz Blanca|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6153|Rural|
+92683|Jonotal Azteca|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6177|Rural|
+92683|Plan del Encinal (El Encinal)|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6180|Rural|
+92683|Zolontla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6182|Rural|
+92683|Cinco Aguas|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6152|Rural|
+92683|Xomulco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6188|Rural|
+92683|Pahua Chica|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6184|Rural|
+92683|Heberto Castillo Martínez|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6186|Rural|
+92683|Las Flores|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6158|Rural|
+92683|Las Tejas|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6181|Rural|
+92683|El Lindero|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6187|Rural|
+92683|San Bernardo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6189|Rural|
+92683|Chahuantla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6190|Rural|
+92683|El Mirador|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|0001|Rural|
+92683|Huitzitzilco|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1559|Rural|
+92683|Cantollano|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6156|Rural|
+92683|Otatitlán|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6178|Rural|
+92683|Rancho Nuevo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6179|Rural|
+92683|Pino Suárez|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6183|Rural|
+92683|Pahua Grande|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6185|Rural|
+92683|Lindero las Flores|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6157|Rural|
+92683|Cerro del Progreso|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6176|Rural|
+92684|Piedra G. El Guayabo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6198|Rural|
+92684|Tepetlaco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6199|Rural|
+92684|Colatlán|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1565|Rural|
+92684|Puyecaco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6195|Rural|
+92684|Vista Alegre|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6194|Rural|
+92684|El Tizal|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6196|Rural|
+92684|Llano Enmedio|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1567|Rural|
+92684|Barrio Abajo Colatlán|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|0002|Rural|
+92684|El Terrero|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1570|Rural|
+92684|Barrio de Otlatzintla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6191|Rural|
+92684|Ayotla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6192|Rural|
+92684|Guaguaco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1569|Rural|
+92684|Villahermosa|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6193|Rural|
+92684|El Zapotal (La Laja)|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6197|Rural|
+92684|Huexotitla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1563|Rural|
+92685|Cacahuatengo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6210|Rural|
+92685|Milcahual|Congregación|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||11|083|6880|Rural|
+92685|Apachahual|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6207|Rural|
+92685|La Pita|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6209|Rural|
+92685|Pitzocali|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6213|Rural|
+92685|El Limón|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1561|Rural|
+92685|Reyixtla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1574|Rural|
+92685|Xochimilco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6202|Rural|
+92685|La Colmena|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6203|Rural|
+92685|El Aguacate Barrio Arriba|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6201|Rural|
+92685|Lindero Limón|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6204|Rural|
+92685|La Aguada|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6205|Rural|
+92685|Chijolito Milcahual|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6206|Rural|
+92685|El Aguacate Barrio Abajo|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|6200|Rural|
+92685|Ahuacapa I|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6212|Rural|
+92685|Cuahueloco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6211|Rural|
+92685|Piedra Grande|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1566|Rural|
+92685|Tzapohíca|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6208|Rural|
+92686|Tecalco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|1564|Rural|
+92686|Achichipic|Congregación|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||11|083|6080|Rural|
+92686|Lomas del Dorado|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6226|Rural|
+92686|Lechcuatitla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6229|Rural|
+92686|Paso Amatitlán|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6221|Rural|
+92686|Ayolia|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6222|Rural|
+92686|Corral Viejo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6220|Rural|
+92686|Santa Fe|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6227|Rural|
+92686|Teopancahuac|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6214|Rural|
+92686|El Becerro|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6218|Rural|
+92686|Chapopote|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6219|Rural|
+92686|Tepozcalco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6224|Rural|
+92686|Tzapalote|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6231|Rural|
+92686|Paso de Álamo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6230|Rural|
+92686|Marcialta|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6232|Rural|
+92686|B. Otipantzi|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6215|Rural|
+92686|Tecanahua|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6217|Rural|
+92686|Tzocohuite|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6225|Rural|
+92686|La Chaca|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6216|Rural|
+92686|Paso de Ayolia|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6223|Rural|
+92686|La Reforma|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6228|Rural|
+92687|Siete Palmas Barrio Arriba|Congregación|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||11|083|6055|Rural|
+92687|La Mata (Campo la Mata)|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6168|Rural|
+92687|Joya Chica|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6169|Rural|
+92687|Naranjo Dulce|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6174|Rural|
+92687|Loma Bonita (Mesa Cacahutenco)|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6170|Rural|
+92687|Oxitempa|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6167|Rural|
+92687|Ojital Cuayo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6172|Rural|
+92687|Siete Palmas Barrio Abajo|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6175|Rural|
+92687|El Nopal|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6171|Rural|
+92687|Ampliación del Mirador|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6173|Rural|
+92687|San Martín|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1568|Rural|
+92690|Tlachiquile|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6159|Rural|
+92690|General Felipe Ángeles|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6161|Rural|
+92690|Tepozuapan|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6160|Rural|
+92690|Agustín Melgar|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6162|Rural|
+92690|Jonotal Progreso|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6154|Rural|
+92690|Zapote Bravo|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1558|Rural|
+92690|Progreso|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6155|Rural|
+92690|Cerro el Tablón|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6163|Rural|
+92690|Joya Grande|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6164|Rural|
+92693|Limonar|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6142|Rural|
+92693|La Palma Capadero|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6151|Rural|
+92693|San José el Salto|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6143|Rural|
+92693|Tecomate de Beltrán|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6146|Rural|
+92693|La Mora|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6150|Rural|
+92693|Las Mesillas|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6165|Rural|
+92693|Los Planes|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6166|Rural|
+92694|El Tepetate|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6139|Rural|
+92694|Tenextongo (San Antonio)|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6138|Rural|
+92694|Santa María Apipilhuasco|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1573|Rural|
+92694|Tziltzacuapan|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|1571|Rural|
+92694|Juntas Grandes|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6137|Rural|
+92694|Pisaflores|Pueblo|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||28|083|5885|Urbano|
+92694|Molango|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6141|Rural|
+92695|San Ambrosio|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6135|Rural|
+92695|Buenavista|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6134|Rural|
+92695|Acatipan|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6133|Rural|
+92695|San Francisco|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6136|Rural|
+92697|Poza Grande|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6144|Rural|
+92697|Emiliano Zapata|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6149|Rural|
+92697|Benito Juárez|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6148|Rural|
+92697|Las Maravillas|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6145|Rural|
+92697|Zimatla|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6147|Rural|
+92697|Piedra Grande la Sierra|Ranchería|Ixhuatlán de Madero|Veracruz de Ignacio de la Llave||92682|30|92682||29|083|6140|Rural|

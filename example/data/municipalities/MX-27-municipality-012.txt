@@ -1,0 +1,227 @@
+86700|Siglo XXI|Fraccionamiento|Macuspana|Tabasco||86705|27|86705||21|012|0002|Urbano|
+86700|Nicolás Bravo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0653|Rural|
+86700|Abasolo|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|0648|Rural|
+86700|Pedro C. Colorado 1a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0654|Rural|
+86700|Jose Maria Pino Suárez 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0650|Rural|
+86700|Pedro A Gonzalez|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0665|Rural|
+86700|Carlos Greene 1a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0649|Rural|
+86700|Zopo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0655|Rural|
+86700|Guillermo Prieto|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0663|Rural|
+86700|Las Palomas|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0651|Rural|
+86700|Abasolo 1ra. Sección|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0664|Rural|
+86701|Ateo y  Zaragoza|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0656|Rural|
+86701|Lerdo de Tejada 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0657|Rural|
+86702|Francisco I Madero Alto 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0658|Rural|
+86703|Monte Adentro|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0659|Rural|
+86703|San Joseito|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|2615|Rural|
+86704|Narciso Mendoza 1ra. Sección|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0661|Rural|
+86704|Guadalupe Victoria|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2473|Rural|
+86704|José María Pino Suárez|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2475|Rural|
+86704|Álvaro Obregón|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0660|Rural|
+86704|Carlos Greene 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2474|Rural|
+86704|Gregorio Méndez 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2476|Rural|
+86704|Francisco Villa|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2481|Rural|
+86706|Macuspana Centro|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|0652|Urbano|07
+86707|Crucifijo|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1501|Urbano|07
+86707|Obrera|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1380|Urbano|07
+86707|PEMEX|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1384|Urbano|07
+86707|Los Pinos II|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1383|Urbano|07
+86707|Municipal|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1500|Urbano|07
+86707|Burócratas|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1497|Urbano|07
+86707|Divino Misterio|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1499|Urbano|07
+86707|El Refugio|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1381|Urbano|07
+86707|Buenos Aires|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1040|Urbano|07
+86707|Primavera|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1498|Urbano|07
+86708|El Castaño|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1046|Urbano|07
+86708|El Recuerdo|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1511|Urbano|07
+86708|Zaragoza|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1261|Urbano|07
+86708|Ignacio Zaragoza (Los Ateos)|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1181|Urbano|07
+86708|Los Pinos I|Fraccionamiento|Macuspana|Tabasco|Macuspana|86705|27|86705||21|012|1382|Urbano|07
+86708|Nueva Imagen|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1512|Urbano|07
+86708|Los Gatos|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1379|Urbano|07
+86709|Independencia|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1376|Urbano|07
+86709|Loma Linda|Conjunto habitacional|Macuspana|Tabasco|Macuspana|86705|27|86705||12|012|1496|Urbano|07
+86709|Josefa Ortiz de Dominguez|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1377|Urbano|07
+86709|Luis Donaldo Colosio|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|2602|Urbano|07
+86709|Florida|Colonia|Macuspana|Tabasco|Macuspana|86705|27|86705||09|012|1378|Urbano|07
+86710|Morelos|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0667|Rural|
+86710|Ignacio M Altamirano 1|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0666|Rural|
+86710|Tierra Colorada|Pueblo|Macuspana|Tabasco||86705|27|86705||28|012|0668|Rural|
+86710|Unión y Libertad|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2454|Rural|
+86711|Monte Largo 1a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0670|Rural|
+86711|Belén|Pueblo|Macuspana|Tabasco||86705|27|86705||28|012|0669|Semiurbano|
+86713|Isamate y Chilapilla|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0671|Rural|
+86714|Gilberto Suárez Torres|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0672|Rural|
+86714|Vernet 6a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0674|Rural|
+86714|Lic Adolfo Lopez Mateos|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0673|Rural|
+86715|El Corozal|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2441|Rural|
+86715|Morelos|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2442|Rural|
+86715|Mariano Matamoros|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2443|Rural|
+86716|Cuauhtémoc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0675|Rural|
+86716|Gustavo A Madero|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0676|Rural|
+86716|Cuauhtémoc 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2446|Rural|
+86717|Monte Largo 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2447|Rural|
+86717|Monte Largo 3a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2448|Rural|
+86717|Bayona|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|0001|Rural|
+86717|Emiliano Zapata 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0677|Rural|
+86718|Burgos|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|0678|Rural|
+86719|Lerdo de Tejada 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0679|Rural|
+86719|Playas de Jimenez|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0680|Rural|
+86720|PEMEX Ciudad|Ciudad|Macuspana|Tabasco||86721|27|86721||08|012|0684|Semiurbano|
+86720|Ingenieros|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1134|Semiurbano|
+86720|Obrera|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1196|Semiurbano|
+86720|Petrolera|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1211|Semiurbano|
+86720|18 de Marzo|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1074|Semiurbano|
+86720|El Bayito|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1079|Semiurbano|
+86720|Ortiz Cobos|Ampliación|Macuspana|Tabasco||86721|27|86721||38|012|1201|Semiurbano|
+86720|Guatemala|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1423|Semiurbano|
+86720|Las Delicias|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|2436|Semiurbano|
+86720|La Curva|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1152|Semiurbano|
+86720|La Unión|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1162|Semiurbano|
+86720|Empleados de Confianza|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1420|Semiurbano|
+86720|15 de Agosto|Fraccionamiento|Macuspana|Tabasco||86721|27|86721||21|012|2628|Urbano|
+86720|El Chivero|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1424|Semiurbano|
+86720|Francisco Villa|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1421|Semiurbano|
+86720|Panal|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1203|Semiurbano|
+86720|20 de Noviembre|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1258|Semiurbano|
+86720|20 de Noviembre|Ejido|Macuspana|Tabasco||86721|27|86721||15|012|2418|Rural|
+86720|16 de Septiembre (El Panal)|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|2437|Semiurbano|
+86720|Granada|Colonia|Macuspana|Tabasco||86721|27|86721||09|012|1422|Semiurbano|
+86720|El Bayo 2a Secc|Ranchería|Macuspana|Tabasco||86721|27|86721||29|012|2435|Semiurbano|
+86722|Bitzal 3a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0690|Rural|
+86722|Bitzal 4a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0691|Rural|
+86722|Los Naranjos 1a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2432|Rural|
+86722|Los Naranjos 2a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2433|Rural|
+86722|Bitzal 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0689|Rural|
+86722|Bitzal 7a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2422|Rural|
+86722|Bitzal 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0688|Rural|
+86722|Bitzal 6a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0693|Rural|
+86722|Bitzal 5a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0692|Rural|
+86723|Nabor Cornelio|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2427|Rural|
+86723|Pitahaya|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2426|Rural|
+86723|Lázaro Cárdenas|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0695|Rural|
+86723|Miguel Hidalgo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0694|Rural|
+86723|El Venadito|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2428|Rural|
+86723|Lázaro Cárdenas 2a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2431|Rural|
+86723|Nabor Cornelio|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2425|Rural|
+86723|Miguel Hidalgo 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2430|Rural|
+86724|Vernet 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0686|Rural|
+86724|Chilapilla 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0696|Rural|
+86724|Santos Degollado 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0682|Rural|
+86724|Galeana|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0683|Rural|
+86724|Vernet 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0685|Rural|
+86724|Santos Degollado 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0681|Rural|
+86725|18 de Marzo|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|1075|Urbano|
+86725|Miguel Orrico de Los Llanos|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2444|Rural|
+86725|Limón Sector C|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2449|Rural|
+86725|Aquiles Serdán|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0697|Rural|
+86725|Limón 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0703|Rural|
+86725|Santa Teresa|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|1247|Urbano|
+86725|Encrucijada|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2429|Rural|
+86725|Santa Elena|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2445|Urbano|
+86725|Del Canal|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|2585|Urbano|
+86725|El Bayo|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|0699|Rural|
+86725|Pueblo Nuevo|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|1220|Urbano|
+86725|Limón 1a Sector A|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2450|Rural|
+86725|Jose Colomo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0701|Rural|
+86725|Vernet 3a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0704|Rural|
+86725|Linda Vista|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|1175|Urbano|
+86725|Hermenegildo Galeana (El Chivero)|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2588|Urbano|
+86725|Vernet 4a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0705|Rural|
+86725|Manuel Vargas Ramirez|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|1426|Urbano|
+86725|Chilapilla 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2434|Urbano|
+86726|San Antonio|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2456|Rural|
+86726|Emiliano Zapata 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0706|Rural|
+86726|Andrés García|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2440|Rural|
+86726|Los Arbolitos|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|3055|Rural|
+86726|La Escalera|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2451|Rural|
+86726|San Francisco|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2455|Rural|
+86726|Las Ferias|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2439|Rural|
+86726|San Antonio|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2560|Rural|
+86726|INDUVITAB|Fraccionamiento|Macuspana|Tabasco||86705|27|86705||21|012|2600|Rural|
+86726|Francisco Bates|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0707|Rural|
+86726|Vernet 5a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0709|Rural|
+86726|Sierra de Guadalupe|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2438|Rural|
+86726|Tomás Garrido|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2459|Rural|
+86726|Nueva División El Bayo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0708|Rural|
+86726|El Regocijo|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2590|Rural|
+86726|El Bayo 1a. Sección (Granada)|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|3054|Rural|
+86727|Limón 2da. Sección Sector B|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0710|Rural|
+86727|Virgilio Chan 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0712|Rural|
+86727|Carmen Serdán|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0714|Rural|
+86727|Virgilio Chan 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0713|Rural|
+86727|La Unión|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0711|Rural|
+86727|La Isla 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0715|Rural|
+86728|Campo Deportivo|Colonia|Macuspana|Tabasco||86705|27|86705||09|012|1425|Semiurbano|
+86728|La Curva Uno|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0702|Semiurbano|
+86728|Benito Juárez|Villa|Macuspana|Tabasco||86705|27|86705||32|012|0698|Semiurbano|
+86730|Limbano Blandin|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0719|Rural|
+86730|El Congo|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|0717|Rural|
+86730|Tepetitan|Villa|Macuspana|Tabasco||86705|27|86705||32|012|0720|Rural|
+86730|El Maluco|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0718|Rural|
+86730|Chiquihuite|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2575|Rural|
+86732|El Triunfo 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0721|Rural|
+86733|Clemente Reyes|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0722|Rural|
+86734|Simon Sarlat|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0723|Rural|
+86734|López Portillo|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2458|Rural|
+86734|Cacahuatalillo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2457|Rural|
+86735|El Güiro|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2421|Rural|
+86735|Monte Grande|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2423|Rural|
+86735|Xicotencatl|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2413|Rural|
+86735|Virginio Chan 3a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2417|Rural|
+86735|El Güiro Arrancado|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2424|Rural|
+86735|Licenciado Juan César Becerra Bates|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2420|Rural|
+86736|Clemente Reyes 2da. Sección|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2466|Rural|
+86736|Bonanza 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0726|Rural|
+86736|Alcalde Mayor|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0724|Rural|
+86736|Bonanza 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0725|Rural|
+86736|García|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2545|Rural|
+86736|Clemente Reyes 3a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2467|Rural|
+86736|El Chinalito|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2414|Rural|
+86737|Castro y Güiro|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2415|Rural|
+86737|Los Castro|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2416|Rural|
+86737|Maluco 2da. Sección (Juan Vaquero)|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2465|Rural|
+86737|Barrial|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2463|Rural|
+86737|Tierra Colorada|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2464|Rural|
+86738|Trinidad Malpica|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2460|Rural|
+86738|Venustiano Carranza|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0729|Rural|
+86738|Corralillo|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|0727|Rural|
+86738|La Alianza|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2412|Rural|
+86738|Corralillo 2da Sección|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2462|Rural|
+86738|El Porvenir|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0728|Rural|
+86738|Corralillo 1a Secc|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2461|Rural|
+86738|Progreso|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2485|Rural|
+86739|Vicente Guerrero 1a|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2411|Rural|
+86739|Ramon Grande|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0730|Rural|
+86739|Arroyo Hondo|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2486|Rural|
+86740|El Triunfo 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2452|Rural|
+86740|Allende Alto 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0731|Rural|
+86740|El Triunfo 3a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2453|Rural|
+86740|Miguel Allende|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0733|Rural|
+86740|Allende Alto 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0732|Rural|
+86741|Francisco I Madero Alto 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0734|Rural|
+86742|Gregorio Mendez 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0736|Rural|
+86742|Francisco Javier Mina|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0735|Rural|
+86742|Pedro C. Colorado 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2477|Rural|
+86743|Allende Bajo 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0737|Rural|
+86743|Las Campanas|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0738|Rural|
+86743|Celia González de Rovirosa|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2484|Rural|
+86743|Allende Bajo 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2483|Rural|
+86744|La Ceiba|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2498|Rural|
+86745|Buenavista (Puxcatán)|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0740|Rural|
+86745|Buenavista (Apasco)|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0739|Rural|
+86745|Justo Sierra|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0741|Rural|
+86746|Alto Tulijá 1ra. Sección (Lechugal)|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|0742|Rural|
+86746|Bajo Tulija|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0743|Rural|
+86747|Melchor Ocampo 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2469|Rural|
+86747|Santuario 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2478|Rural|
+86747|Caparroso 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2471|Rural|
+86747|Santuario 1a Secc (La Vía)|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0744|Rural|
+86747|Chivalito 4ta. Sección|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2470|Rural|
+86747|Melchor Ocampo 1a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2468|Rural|
+86748|Chivalito 2a Secc|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0745|Rural|
+86748|Prof. Caparroso|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|0746|Rural|
+86748|Palomas|Pueblo|Macuspana|Tabasco||86705|27|86705||28|012|2472|Rural|
+86748|Zopo Sur|Ranchería|Macuspana|Tabasco||86705|27|86705||29|012|2479|Rural|
+86748|San José|Ejido|Macuspana|Tabasco||86705|27|86705||15|012|2480|Rural|
+86748|Alto Tulijá 2da. Sección (Paredón)|Pueblo|Macuspana|Tabasco||86705|27|86705||28|012|0003|Rural|

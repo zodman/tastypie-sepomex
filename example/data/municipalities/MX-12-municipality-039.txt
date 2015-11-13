@@ -1,0 +1,28 @@
+39940|Tierra Colorada Centro|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|0992|Semiurbano|15
+39941|San Isidro|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1611|Semiurbano|15
+39941|San Agustin|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1589|Semiurbano|15
+39942|San Antonio|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1592|Semiurbano|15
+39942|Las Palmas|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|4545|Urbano|15
+39942|San José|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1617|Semiurbano|15
+39942|Rufo Figueroa|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1584|Semiurbano|15
+39944|Lázaro Cárdenas|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1438|Semiurbano|15
+39944|Vista Alegre|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1727|Semiurbano|15
+39944|Jardín|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1260|Semiurbano|15
+39944|Lindavista|Colonia|Juan R. Escudero|Guerrero|Tierra Colorada|39943|12|39943||09|039|1451|Semiurbano|15
+39946|Omitlán|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|0998|Rural|
+39948|La Palma|Pueblo|Juan R. Escudero|Guerrero||39943|12|39943||28|039|0999|Rural|
+39948|Tlalchiquihuite|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|1000|Rural|
+39949|El Zapote|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|1001|Rural|
+39949|San Juan del Reparo|Congregación|Juan R. Escudero|Guerrero||39943|12|39943||11|039|1002|Rural|
+39950|Tlayolapa|Pueblo|Juan R. Escudero|Guerrero||39943|12|39943||28|039|1005|Rural|
+39950|El Terrero|Pueblo|Juan R. Escudero|Guerrero||39943|12|39943||28|039|1004|Rural|
+39950|El Puente|Pueblo|Juan R. Escudero|Guerrero||39943|12|39943||28|039|1003|Rural|
+39951|El Tabacal|Campamento|Juan R. Escudero|Guerrero||39943|12|39943||04|039|1006|Rural|
+39952|Michapa|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|1007|Rural|
+39956|Potrero Oriental|Hacienda|Juan R. Escudero|Guerrero||39943|12|39943||24|039|0993|Rural|
+39956|Villa Guerrero|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|0997|Rural|
+39957|El Tepehuaje|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|1008|Rural|
+39957|Las Peñas|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|1009|Rural|
+39958|Las Garrapatas|Pueblo|Juan R. Escudero|Guerrero||39943|12|39943||28|039|0991|Rural|
+39958|Palo Gordo|Campamento|Juan R. Escudero|Guerrero||39943|12|39943||04|039|0996|Rural|
+39959|Plan de Lima|Ranchería|Juan R. Escudero|Guerrero||39943|12|39943||29|039|0994|Rural|

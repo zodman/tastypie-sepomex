@@ -1,0 +1,103 @@
+13000|La Asunción|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1919|Urbano|13
+13009|Delegación Política Tlahuac|Gran usuario|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||22|011|1922|Urbano|13
+13010|Santa Cecilia|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1923|Urbano|13
+13020|San José|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1924|Urbano|13
+13030|San Juan|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1925|Urbano|13
+13040|San Mateo|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1926|Urbano|13
+13050|La Habana|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1928|Urbano|13
+13060|Santa Ana|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1930|Urbano|13
+13060|La Guadalupe|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1929|Urbano|13
+13060|Hombres de la Reforma|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||31|011|2571|Urbano|13
+13063|Geovillas de Xochimilco|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||31|011|2572|Urbano|13
+13070|La Magdalena|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1931|Urbano|13
+13070|San Miguel|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1932|Urbano|13
+13080|Los Reyes|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1933|Urbano|13
+13090|Quiahuatla|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1934|Urbano|13
+13093|San Sebastián|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|2497|Urbano|13
+13094|San Isidro|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|2898|Urbano|13
+13099|San Andrés|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1935|Urbano|13
+13100|El Mirador|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|2574|Urbano|13
+13100|La Guadalupe|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1937|Urbano|13
+13110|Cañada|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|1939|Urbano|13
+13119|La Poblanita|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|1940|Urbano|13
+13120|Teozoma|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|2575|Urbano|13
+13120|Chichilaula|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|2577|Urbano|13
+13120|Ampliación Santa Catarina|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1942|Urbano|13
+13120|Santiago|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1943|Urbano|13
+13120|La Mesa|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|2576|Urbano|13
+13123|La Joyita|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|2693|Urbano|13
+13129|San Francisco Apolocalco|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|1944|Urbano|13
+13150|La Concepción|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1945|Urbano|13
+13180|San Miguel|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1946|Urbano|13
+13200|Miguel Hidalgo|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1947|Urbano|13
+13209|Zapotitlán|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|1948|Urbano|13
+13210|Los Olivos|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1949|Urbano|13
+13219|Las Arboledas|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1950|Urbano|13
+13219|Ampliación Los Olivos|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1951|Urbano|13
+13220|La Nopalera|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1952|Urbano|13
+13229|Tláhuac 2|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|1954|Urbano|13
+13230|Granjas Cabrera|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1955|Urbano|13
+13250|La Turba|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1957|Urbano|13
+13270|Del Mar|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1958|Urbano|13
+13270|Cooperativa C.I.A.N.I.|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2661|Urbano|13
+13273|La Draga|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|2580|Urbano|13
+13278|Villa Centro Americana|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1959|Urbano|13
+13278|Nueva Tenochtitlán|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2589|Urbano|13
+13278|Villas Trabajadores del Gobierno del Distrito Federal|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|1960|Urbano|13
+13280|Agrícola Metropolitana|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1962|Urbano|13
+13300|Manuel M López III|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2581|Urbano|13
+13300|Santiago Norte|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|2894|Urbano|13
+13300|Santa Ana Poniente|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|2891|Urbano|13
+13300|Santiago Centro|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|1964|Urbano|13
+13300|Santa Ana Norte|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|2893|Urbano|13
+13300|Santa Ana Centro|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|1963|Urbano|13
+13310|Zapotitla|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1966|Urbano|13
+13315|Ampliación Zapotitla|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|2897|Urbano|13
+13316|Manuel Gutierrez Najera|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|1967|Urbano|13
+13316|Manuel M López II|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2582|Urbano|13
+13316|Los Volcanes|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2583|Urbano|13
+13317|Aurorita|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|1968|Urbano|13
+13317|Nueva Tenochtitlán|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2584|Urbano|13
+13318|La Herradura|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|1969|Urbano|13
+13319|La Estación|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1970|Urbano|13
+13319|Benito Quezada|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||31|011|2585|Urbano|13
+13360|Santiago Sur|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|2896|Urbano|13
+13360|Santa Ana Sur|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||02|011|2895|Urbano|13
+13360|La Conchita Zapotitlán|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||09|011|1971|Urbano|13
+13363|Tempiluli|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13221|09|13221||04|011|2586|Urbano|13
+13400|San Francisco Tlaltenco|Pueblo|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||28|011|1972|Urbano|13
+13410|López Portillo|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1973|Urbano|13
+13410|La Orilla|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||31|011|2588|Urbano|13
+13419|Ampliación José López Portillo|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1975|Urbano|13
+13420|Selene|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1976|Urbano|13
+13429|3 de Mayo|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|1977|Urbano|13
+13430|Ampliación Selene|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1978|Urbano|13
+13440|Zacatenco|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||31|011|2590|Urbano|13
+13440|Zacatenco|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1980|Urbano|13
+13440|Géminis|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||31|011|2591|Urbano|13
+13450|Guadalupe Tlaltenco|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1981|Urbano|13
+13450|Ojo de Agua|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1982|Urbano|13
+13460|El Triángulo|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1983|Urbano|13
+13508|San Agustín|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1985|Urbano|13
+13508|La Soledad|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|2593|Urbano|13
+13509|La Concepción|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||02|011|1986|Urbano|13
+13510|La Lupita|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1987|Urbano|13
+13520|Francisco Villa|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1988|Urbano|13
+13529|La Loma|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|1989|Urbano|13
+13530|La Asunción|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1991|Urbano|13
+13530|Jaime Torres Bodet|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1990|Urbano|13
+13540|Tierra Blanca|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1994|Urbano|13
+13540|El Rosario|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1992|Urbano|13
+13545|Ampliación La Conchita|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|2587|Urbano|13
+13546|Olivar Santa María|Campamento|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||04|011|2916|Urbano|13
+13549|Peña Alta|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1995|Urbano|13
+13550|Potrero del Llano|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1998|Urbano|13
+13550|Jardines del Llano|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||09|011|1997|Urbano|13
+13559|Villa Tlatempa|Unidad habitacional|Tláhuac|Distrito Federal|Ciudad de México|13011|09|13011||31|011|1999|Urbano|13
+13600|San Bartolomé|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||02|011|2002|Urbano|13
+13610|Los Reyes|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||02|011|2004|Urbano|13
+13625|Santa Cruz|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||02|011|2005|Urbano|13
+13630|San Agustín|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||02|011|2007|Urbano|13
+13640|San Miguel|Barrio|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||02|011|2008|Urbano|13
+13700|San Nicolás Tetelco|Pueblo|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||28|011|2009|Urbano|13
+13700|Tepantitlamilco|Colonia|Tláhuac|Distrito Federal|Ciudad de México|13611|09|13611||09|011|2892|Urbano|13

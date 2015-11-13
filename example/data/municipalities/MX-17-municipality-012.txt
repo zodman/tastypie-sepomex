@@ -1,0 +1,51 @@
+62900|Las Calaveras|Barrio|Jojutla|Morelos|Jojutla|62901|17|62901||02|012|0736|Semiurbano|04
+62900|La Pastrana|Unidad habitacional|Jojutla|Morelos|Jojutla|62901|17|62901||31|012|0742|Semiurbano|04
+62900|San Jerónimo|Unidad habitacional|Jojutla|Morelos|Jojutla|62901|17|62901||31|012|0744|Semiurbano|04
+62900|Jojutla de Juárez Centro|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0578|Semiurbano|04
+62900|Cuauhtémoc|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0734|Semiurbano|04
+62900|Del Bosque|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0737|Semiurbano|04
+62900|Panchimalco|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0746|Semiurbano|04
+62900|El Jagüey|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0741|Semiurbano|04
+62900|El Higuerón|Unidad habitacional|Jojutla|Morelos|Jojutla|62901|17|62901||31|012|0738|Semiurbano|04
+62900|El Pochote|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0739|Semiurbano|04
+62900|Emiliano Zapata|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0732|Semiurbano|04
+62900|Reforma|Fraccionamiento|Jojutla|Morelos|Jojutla|62901|17|62901||21|012|0733|Semiurbano|04
+62900|Las Cañas|Unidad habitacional|Jojutla|Morelos|Jojutla|62901|17|62901||31|012|0745|Semiurbano|04
+62900|Benito Juárez|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0735|Semiurbano|04
+62900|El Zapatito|Colonia|Jojutla|Morelos|Jojutla|62901|17|62901||09|012|0740|Semiurbano|04
+62900|Los Arrozales|Unidad habitacional|Jojutla|Morelos|Jojutla|62901|17|62901||31|012|0743|Semiurbano|04
+62905|Unidad Deportiva|Ampliación|Jojutla|Morelos||62901|17|62901||38|012|1292|Rural|
+62905|Álamos|Colonia|Jojutla|Morelos||62901|17|62901||09|012|1288|Rural|
+62905|Nexpa|Colonia|Jojutla|Morelos||62901|17|62901||09|012|1289|Rural|
+62906|Higuerón|Pueblo|Jojutla|Morelos||62901|17|62901||28|012|0577|Rural|
+62906|Pedro Amaro|Ampliación|Jojutla|Morelos||62901|17|62901||38|012|1296|Rural|
+62906|Lázaro Cárdenas (el Molino)|Ampliación|Jojutla|Morelos||62901|17|62901||38|012|1298|Rural|
+62906|Pedro Amaro|Pueblo|Jojutla|Morelos||62901|17|62901||28|012|0579|Rural|
+62907|Vicente Guerrero|Ampliación|Jojutla|Morelos||62901|17|62901||38|012|1290|Rural|
+62907|Ricardo Soto|Colonia|Jojutla|Morelos||62901|17|62901||09|012|1299|Rural|
+62907|Independencia|Unidad habitacional|Jojutla|Morelos||62901|17|62901||31|012|1297|Rural|
+62907|Tlatenchi|Pueblo|Jojutla|Morelos||62901|17|62901||28|012|0580|Rural|
+62908|Buenos Aires|Colonia|Jojutla|Morelos||62901|17|62901||09|012|1293|Rural|
+62908|Santa María|Ampliación|Jojutla|Morelos||62901|17|62901||38|012|1295|Rural|
+62908|Las Fincas de Tequesquitengo|Fraccionamiento|Jojutla|Morelos||62901|17|62901||21|012|1294|Rural|
+62908|Bonanza|Fraccionamiento|Jojutla|Morelos||62901|17|62901||21|012|1291|Rural|
+62909|José María Morelos y Pavón|Unidad habitacional|Jojutla|Morelos||62781|17|62781||31|012|0583|Semiurbano|
+62909|Jicarero|Colonia|Jojutla|Morelos||62781|17|62781||09|012|0584|Semiurbano|
+62909|Los Pilares|Colonia|Jojutla|Morelos||62781|17|62781||09|012|1287|Rural|
+62909|Nicolás Bravo|Ampliación|Jojutla|Morelos||62781|17|62781||38|012|1286|Rural|
+62909|Nicolás Bravo|Colonia|Jojutla|Morelos||62781|17|62781||09|012|0585|Rural|
+62909|El Paraíso (Vicente Guerrero)|Colonia|Jojutla|Morelos||62781|17|62781||09|012|1285|Rural|
+62910|Tehuixtla|Pueblo|Jojutla|Morelos||62911|17|62911||28|012|0586|Rural|
+62912|Campo San Pablo|Ranchería|Jojutla|Morelos||62901|17|62901||29|012|1950|Rural|
+62913|Loma Bonita (arenales)|Colonia|Jojutla|Morelos||62911|17|62911||09|012|1281|Rural|
+62914|Azuchilera|Colonia|Jojutla|Morelos||62911|17|62911||09|012|1279|Rural|
+62914|Guadalupe|Colonia|Jojutla|Morelos||62911|17|62911||09|012|1278|Rural|
+62914|Emiliano Zapata|Colonia|Jojutla|Morelos||62911|17|62911||09|012|1941|Rural|
+62914|La Mesa de los Indios|Colonia|Jojutla|Morelos||62911|17|62911||09|012|1280|Rural|
+62915|Tequesquitengo|Pueblo|Jojutla|Morelos||62911|17|62911||28|012|0591|Rural|
+62916|Las Brasileras|Colonia|Jojutla|Morelos||62911|17|62911||09|012|1284|Rural|
+62917|Tenerías|Ranchería|Jojutla|Morelos||62911|17|62911||29|012|1282|Rural|
+62917|Vicente Aranda (san Rafael)|Ranchería|Jojutla|Morelos||62911|17|62911||29|012|0589|Rural|
+62917|Río Seco|Ranchería|Jojutla|Morelos||62911|17|62911||29|012|0590|Rural|
+62917|Chisco|Ranchería|Jojutla|Morelos||62911|17|62911||29|012|0588|Rural|
+62917|Los Lagartos|Ranchería|Jojutla|Morelos||62911|17|62911||29|012|1283|Rural|

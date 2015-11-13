@@ -1,0 +1,41 @@
+28450|Aguajitos|Colonia|Comala|Colima||28451|06|28451||09|003|0451|Rural|
+28450|Campo Verde|Colonia|Comala|Colima||28451|06|28451||09|003|0845|Urbano|
+28450|Comala|Pueblo|Comala|Colima||28451|06|28451||28|003|0194|Rural|
+28450|Francisco Ramírez Villarreal|Colonia|Comala|Colima||28451|06|28451||09|003|0580|Rural|
+28450|Celsa Virgen|Colonia|Comala|Colima||28451|06|28451||09|003|0780|Rural|
+28450|Real Nogueras|Colonia|Comala|Colima||28451|06|28451||09|003|0847|Urbano|
+28450|Barrio Alto|Colonia|Comala|Colima||28451|06|28451||09|003|0851|Urbano|
+28450|Campestre Comala|Colonia|Comala|Colima||28451|06|28451||09|003|0852|Urbano|
+28450|Lázaro Cárdenas|Colonia|Comala|Colima||28451|06|28451||09|003|0538|Rural|
+28450|Los Aguajes|Colonia|Comala|Colima||28451|06|28451||09|003|0550|Rural|
+28450|Santa Cecilia|Colonia|Comala|Colima||28451|06|28451||09|003|0781|Rural|
+28450|La Trinidad|Colonia|Comala|Colima||28451|06|28451||09|003|0782|Rural|
+28450|Lomas Altas|Colonia|Comala|Colima||28451|06|28451||09|003|0849|Urbano|
+28450|Real de Mendoza|Colonia|Comala|Colima||28451|06|28451||09|003|0850|Urbano|
+28450|Cuauhtémoc|Colonia|Comala|Colima||28451|06|28451||09|003|0474|Rural|
+28450|Lomas del Pedregal|Colonia|Comala|Colima||28451|06|28451||09|003|0848|Urbano|
+28450|Campestre San Juan|Colonia|Comala|Colima||28451|06|28451||09|003|0783|Rural|
+28450|Miguel de La Madrid Hurtado|Colonia|Comala|Colima||28451|06|28451||09|003|0785|Rural|
+28450|Lomas de Comala|Colonia|Comala|Colima||28451|06|28451||09|003|0786|Rural|
+28450|Solidaridad Aguajitos|Colonia|Comala|Colima||28451|06|28451||09|003|0846|Urbano|
+28450|Zacualpan|Ranchería|Comala|Colima||28451|06|28451||29|003|0195|Rural|
+28450|La Cañada|Colonia|Comala|Colima||28451|06|28451||09|003|0784|Rural|
+28452|La Caja|Ranchería|Comala|Colima||28451|06|28451||29|003|0197|Rural|
+28454|La Yerbabuena|Ranchería|Comala|Colima||28451|06|28451||29|003|0530|Rural|
+28454|Nogueras|Ranchería|Comala|Colima||28451|06|28451||29|003|0198|Rural|
+28455|Los Llanitos|Ranchería|Comala|Colima||28451|06|28451||29|003|0199|Rural|
+28457|Los Corrales|Ranchería|Comala|Colima||28451|06|28451||29|003|0200|Rural|
+28459|Suchitlán|Ranchería|Comala|Colima||28451|06|28451||29|003|0201|Rural|
+28460|La Nogalera|Ranchería|Comala|Colima||28451|06|28451||29|003|0720|Rural|
+28460|Cofradía de Suchitlán|Ranchería|Comala|Colima||28451|06|28451||29|003|0202|Rural|
+28461|El Remate|Ranchería|Comala|Colima||28451|06|28451||29|003|0203|Rural|
+28462|Lagunitas|Ranchería|Comala|Colima||28451|06|28451||29|003|0204|Rural|
+28463|Barranca del Agua|Ranchería|Comala|Colima||28451|06|28451||29|003|0205|Rural|
+28463|San Antonio|Exhacienda|Comala|Colima||28451|06|28451||18|003|0206|Rural|
+28464|La Becerrera|Ranchería|Comala|Colima||28451|06|28451||29|003|0207|Rural|
+28464|La María|Ranchería|Comala|Colima||28451|06|28451||29|003|0208|Rural|
+28465|Los Colomos|Ranchería|Comala|Colima||28451|06|28451||29|003|0209|Rural|
+28466|Agosto|Ranchería|Comala|Colima||28451|06|28451||29|003|0210|Rural|
+28466|Colomitos|Ranchería|Comala|Colima||28451|06|28451||29|003|0211|Rural|
+28466|El Remudadero|Ranchería|Comala|Colima||28451|06|28451||29|003|0212|Rural|
+28469|Campo Cuatro|Ranchería|Comala|Colima||28451|06|28451||29|003|0213|Rural|

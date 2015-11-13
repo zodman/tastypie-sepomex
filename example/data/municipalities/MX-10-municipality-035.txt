@@ -1,0 +1,281 @@
+35600|Santa Catarina de Tepehuanes|Villa|Tepehuanes|Durango||35601|10|35601||32|035|1570|Rural|
+35610|La Purísima|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|1574|Rural|
+35614|Presidio de Abajo (La Candela)|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|1578|Rural|
+35614|San Nicolás de Presidio (Presidio de Arriba)|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|3021|Rural|
+35614|La Aurora|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4805|Rural|
+35615|Sandías (El Vado de Sandías)|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|1579|Rural|
+35615|El Alamillo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3054|Rural|
+35615|Mesa de Gavilanes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4822|Rural|
+35615|Los Corrales|Estación|Tepehuanes|Durango||35601|10|35601||16|035|1581|Rural|
+35616|El Aguajito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3199|Rural|
+35616|Los Pinos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1595|Rural|
+35616|El Rincón|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1598|Rural|
+35616|Sauces|Ejido|Tepehuanes|Durango||35601|10|35601||15|035|1599|Rural|
+35616|Mina Prodigio (La Haciendita)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4823|Rural|
+35616|Arroyo Chico|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1594|Rural|
+35616|Cerritos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1596|Rural|
+35616|El Bajío del Terrero|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3117|Rural|
+35616|Los Bagres|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1592|Rural|
+35616|La Playa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3129|Rural|
+35616|San José de la Boca|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|1593|Rural|
+35616|El Corazón|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1597|Rural|
+35616|Carreras|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|1600|Rural|
+35617|El Refugio (El Refugio de los Lobos)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1608|Rural|
+35617|San Pedro de Pescaderos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1609|Rural|
+35617|San Lorenzo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3023|Rural|
+35617|El Yaqui|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3200|Rural|
+35617|Mesa de los Návar|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1605|Rural|
+35617|La Placita|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3020|Rural|
+35617|Aguapinole|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3051|Rural|
+35617|Potrero de Cháidez|Pueblo|Tepehuanes|Durango||35601|10|35601||28|035|1610|Rural|
+35617|San Juan de las Estacas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3065|Rural|
+35617|Fabrica de la Tarabilla|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3190|Rural|
+35620|Santa Cruz|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3078|Rural|
+35620|San Antonio de la Sierra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1606|Rural|
+35620|Cebollín|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1611|Rural|
+35620|Santa Rosa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3025|Rural|
+35620|El Tabardillo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3143|Rural|
+35620|San Isidro de las Calabazas (Las Calabazas)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1607|Rural|
+35620|Buenos Aires|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3058|Rural|
+35620|La Concepción|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3006|Rural|
+35620|Los Espejos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3011|Rural|
+35620|San Miguel de Lobos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1602|Rural|
+35620|El Llano de Santa Rosa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3015|Rural|
+35620|La Mesa del Encino|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3171|Rural|
+35623|Penitentes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3074|Rural|
+35623|El Negro (Cueva del Negro)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3016|Rural|
+35623|Alto de Penitentes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3097|Rural|
+35623|San Juan del Negro (San Juan)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1613|Rural|
+35624|La Ciénega|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4807|Rural|
+35624|El Potrero de Vizcarra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4801|Rural|
+35624|La Joya de Porfirio|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3070|Rural|
+35624|Palomas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1612|Rural|
+35624|Pie de la Cuesta|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3019|Rural|
+35624|La Guajolota|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3169|Rural|
+35625|Los Llanitos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3096|Rural|
+35625|Mesa del Corral|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3134|Rural|
+35625|Chamacueros|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1604|Rural|
+35626|El Toro|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3153|Rural|
+35626|El Tule|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3031|Rural|
+35626|El Dorador (El Dorado)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1589|Rural|
+35626|Las Flores|Ejido|Tepehuanes|Durango||35601|10|35601||15|035|2392|Rural|
+35626|Bajío de Agua Nueva|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3055|Rural|
+35626|Potrillos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3135|Rural|
+35626|La Graniza|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3154|Rural|
+35626|Cebollas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3155|Rural|
+35626|La Barranca|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3095|Rural|
+35627|Chiqueros|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3009|Rural|
+35627|El Ojito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1583|Rural|
+35627|Tres Piedras|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3082|Rural|
+35627|El Arco|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3158|Rural|
+35627|La Tijera|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4816|Rural|
+35627|Ciénega de los Frailes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1603|Rural|
+35627|El Gato|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3168|Rural|
+35630|Alto de los Laureles|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4792|Rural|
+35630|Metates (Metatitos)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1591|Rural|
+35630|La Manga|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3039|Rural|
+35630|El Oso|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3124|Rural|
+35630|Joya de Canales|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3069|Rural|
+35630|Las Cañadas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3138|Rural|
+35630|El Bajío|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4796|Rural|
+35630|Berlín|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3057|Rural|
+35630|La Loma|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3108|Rural|
+35630|Aserradero MACSA (Bajío de Cuevitas)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3126|Rural|
+35630|Capulín de Metates|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3004|Rural|
+35630|La Joya del Venado|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3071|Rural|
+35630|El Oasis|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3109|Rural|
+35630|Canalitas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3059|Rural|
+35630|El Bajío de la Joya del Venado|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3111|Rural|
+35630|El Bajío del Capitol|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3207|Rural|
+35630|La Mesa de los Gavilanes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3072|Rural|
+35630|La Cruz|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3166|Rural|
+35630|Cuevitas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4795|Rural|
+35630|Los Amoles|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4819|Rural|
+35630|El Desmonte|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3048|Rural|
+35630|Los Toriles|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3050|Rural|
+35630|La Mesa del Manzanillo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3139|Rural|
+35633|Quebrada Honda|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1590|Rural|
+35633|Piedras de Amolar|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3049|Rural|
+35633|La Haciendita (Puerta de Oro)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3102|Rural|
+35633|El Tazcatal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3192|Rural|
+35633|Las Cruces|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|2254|Rural|
+35633|Altamira|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3047|Rural|
+35633|Las Piedronas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4818|Rural|
+35633|El Aguaje|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3000|Rural|
+35633|El Arenal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3001|Rural|
+35633|La Mesa de San Miguel|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4813|Rural|
+35633|El Purgatorio|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3022|Rural|
+35633|Cordón de las Cucarachas (La Bufa)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3189|Rural|
+35633|El Desmonte|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4799|Rural|
+35633|La Matanza|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4811|Rural|
+35633|El Potrerito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3195|Rural|
+35633|El Cardón|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3202|Rural|
+35633|La Cueva del Capulín|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4808|Rural|
+35633|La Mesa de las Cruces|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4812|Rural|
+35633|Santa Juana|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4826|Rural|
+35633|La Bufa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3003|Rural|
+35633|El Aguajito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3041|Rural|
+35633|La Vinata|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3123|Rural|
+35633|El Metate|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3205|Rural|
+35633|Tabahueto el Alto|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3044|Rural|
+35633|Acapulco|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3053|Rural|
+35633|El Calvario|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4797|Rural|
+35633|El Mineral del Catorce|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3101|Rural|
+35633|Mesa de los Toros|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3105|Rural|
+35633|El Carrizo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3137|Rural|
+35633|La Murayita|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3206|Rural|
+35633|La Vinata|Ejido|Tepehuanes|Durango||35601|10|35601||15|035|0001|Rural|
+35633|San Gerónimo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3042|Rural|
+35633|La Tableta|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3043|Rural|
+35634|El Arroyo Verde|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3122|Rural|
+35634|La Cueva|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3167|Rural|
+35634|Rancho el Arroyo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3131|Rural|
+35634|El Guamúchil|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3040|Rural|
+35634|Frailecillos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3012|Rural|
+35634|La Tuza|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3083|Rural|
+35634|La Ciénega de Los Hernández|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3125|Rural|
+35634|La Vinata|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3180|Rural|
+35634|Mesa de las Tunas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3038|Rural|
+35634|El Puerto la Bola|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3077|Rural|
+35634|La Quebradita|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3110|Rural|
+35635|Ciénega de Caballos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3005|Rural|
+35635|Rancho de Pérez|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3018|Rural|
+35635|El Tarahumar|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3027|Rural|
+35635|El Rincón de Las Trojes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3030|Rural|
+35635|Las Joyitas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3036|Rural|
+35635|La Escondida|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3092|Rural|
+35635|La Atascosa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3029|Rural|
+35635|Las Brisas (Potrero de Abajo)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3076|Rural|
+35635|Los Coconos de Arriba (Rincón de los Coconos)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3090|Rural|
+35635|Los Bajíos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3091|Rural|
+35635|La Cebadilla|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3121|Rural|
+35635|Rancho El Macho de Arriba|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3150|Rural|
+35635|El Tarahumarito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3028|Rural|
+35635|La Culebra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3037|Rural|
+35635|La Loma del Pilar|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3094|Rural|
+35635|El Cercado|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3165|Rural|
+35635|El Saucillal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3191|Rural|
+35635|El Gato de Abajo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4800|Rural|
+35635|La Zorra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3093|Rural|
+35635|La Joyita|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3170|Rural|
+35635|Oaxaca|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3173|Rural|
+35635|Potrerillos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3075|Rural|
+35635|La Cebadilla|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3164|Rural|
+35635|Arroyo del Agua|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3160|Rural|
+35635|Santa Cruz de la Estaca|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3175|Rural|
+35635|Los Coconos de Abajo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4820|Rural|
+35635|El Gato de Arriba|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3066|Rural|
+35635|Rancho el Mocho de Arriba|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4824|Rural|
+35636|San León|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3127|Rural|
+35636|La Lagunita|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3194|Rural|
+35636|Bajío del Pinto|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3193|Rural|
+35636|Cerros Pelones|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3103|Rural|
+35636|El Tule Dos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3130|Rural|
+35636|El Conejo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3035|Rural|
+35636|El Alamillo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3099|Rural|
+35636|El Gavilán|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3136|Rural|
+35636|Puertecitos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3104|Rural|
+35636|El Saucillal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3177|Rural|
+35636|El Indio de Arriba|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3068|Rural|
+35636|Rancho de Enmedio|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3144|Rural|
+35636|La Mesa Redondeada (El Tule Uno)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3172|Rural|
+35636|Ciénega Prieta|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4793|Rural|
+35637|La Yesca|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3112|Rural|
+35637|San Pablo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4825|Rural|
+35637|Las Cuevas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3098|Rural|
+35637|San Isidro|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3052|Rural|
+35637|San Rafael|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3060|Rural|
+35637|Jabalines|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3133|Rural|
+35637|El Puerto|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3196|Rural|
+35637|El Ranchito de la Purísima|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4802|Rural|
+35637|El Capulín de Barajas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3163|Rural|
+35637|El Indio de Abajo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3100|Rural|
+35637|Rancho Nuevo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3156|Rural|
+35637|Las Cruces de Barajas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3064|Rural|
+35637|Joya de Flores|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3073|Rural|
+35637|La Tijera|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3081|Rural|
+35637|San Miguel|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3128|Rural|
+35637|Barajas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3132|Rural|
+35637|La Tableta|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4815|Rural|
+35637|La Soledad de San Isidro (La Soledad)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3080|Rural|
+35637|Los Orcones|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4821|Rural|
+35640|El Huacal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1586|Rural|
+35640|Las Cuevas (Las Cuevitas)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3008|Rural|
+35640|El Río de Potrillo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3086|Rural|
+35640|Lajas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3013|Rural|
+35640|El Gato|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3114|Rural|
+35640|La Víbora|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3116|Rural|
+35640|San Ignacio de la Sierra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1588|Rural|
+35640|El Capulín de Ojos Azules|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3061|Rural|
+35640|El Cebollín|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3062|Rural|
+35640|Talaberas|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3115|Rural|
+35640|El Puerto|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3197|Rural|
+35640|Ciénega Verde|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4794|Rural|
+35640|Ojos Azules I|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1587|Rural|
+35640|El Bajío Largo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3119|Rural|
+35640|El Arquito de Enmedio|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3159|Rural|
+35640|El Columpio|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3063|Rural|
+35640|La Agua Caliente|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3085|Rural|
+35640|El Salitre|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3088|Rural|
+35640|Cruz de Piedra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3151|Rural|
+35640|Los Lobitos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3014|Rural|
+35640|Rancho Viejo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3046|Rural|
+35643|El Taiste|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3026|Rural|
+35643|El Saucito de Santa Rosa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3178|Rural|
+35643|Frailecillos de los Reyes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3183|Rural|
+35643|El Cercado de Santa Rosa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4798|Rural|
+35643|La Laja|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4810|Rural|
+35643|La Joya de Chiqueros|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3034|Rural|
+35643|Los Desmontes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3113|Rural|
+35643|El Cantarito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3149|Rural|
+35643|Santa Rosa Dos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3176|Rural|
+35643|La Espuela|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3148|Rural|
+35643|Bajío de Caballos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3181|Rural|
+35643|El Cristal de Abajo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3182|Rural|
+35643|La Soledad|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3187|Rural|
+35643|Toro Quemado|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3188|Rural|
+35643|La Boquilla|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3002|Rural|
+35643|Santa Rosa Uno (Santa Rosa del Tarahumar)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3024|Rural|
+35643|Arroyo de la Culebra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3145|Rural|
+35643|La Escondida|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3204|Rural|
+35643|El Saltito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3146|Rural|
+35643|La Puerta|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3186|Rural|
+35643|El Cañón|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3203|Rural|
+35643|Cruz de Piedra|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3007|Rural|
+35643|Frailecillos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3147|Rural|
+35643|El Potrerito|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3185|Rural|
+35643|Los Desechos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3010|Rural|
+35644|El Saucillal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3142|Rural|
+35644|Arroyo del Bajío|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3161|Rural|
+35644|La Huerta|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3067|Rural|
+35644|Los Desmontes|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3140|Rural|
+35644|Encinos Largos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4804|Rural|
+35644|Joya de Caballos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3141|Rural|
+35644|El Puerto de la Pelea|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3198|Rural|
+35644|Bajío de León|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3118|Rural|
+35644|Buenos Aires|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3201|Rural|
+35644|Yerbabuena|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3032|Rural|
+35644|Ojos Azules II|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3017|Rural|
+35644|Santa Rosa del Alto|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3089|Rural|
+35644|Toribio|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3179|Rural|
+35644|El Peñol|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3184|Rural|
+35645|Ciénega de Escobar|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1582|Rural|
+35645|La Escondida|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4809|Rural|
+35645|El Bajío de Ayala|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3162|Rural|
+35645|San Nicolás|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3174|Rural|
+35645|El Saltillo|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3084|Rural|
+35645|Agostaderitos|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4791|Rural|
+35645|El Paredón|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3120|Rural|
+35646|Zapiguri (Rancho Zapiguri)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3033|Rural|
+35646|Laguna del Pitorreal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4817|Rural|
+35646|La Joyita|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3152|Rural|
+35647|El Pitorreal|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|1584|Rural|
+35647|Bajío de las Iglesias (Los Bajíos)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3056|Rural|
+35647|La Concepción de Las Iglesias (El Pedregal)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3106|Rural|
+35647|El Sauz|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3079|Rural|
+35647|Las Iglesias|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3045|Rural|
+35647|La Mina|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4814|Rural|
+35647|La Presa|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3087|Rural|
+35647|La Calera|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4806|Rural|
+35647|El Toro|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|4803|Rural|
+35647|La Concepción (Cercadito de Enmedio)|Ranchería|Tepehuanes|Durango||35601|10|35601||29|035|3107|Rural|

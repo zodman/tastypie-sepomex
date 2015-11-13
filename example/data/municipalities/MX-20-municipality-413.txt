@@ -1,0 +1,82 @@
+70980|De La Cruz|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3346|Urbano|20
+70980|Hondura Del Topo|Barrio|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||02|413|3372|Urbano|20
+70980|Morelos|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3373|Urbano|20
+70980|Guarumbo|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3343|Urbano|20
+70980|Barrio Nuevo|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3348|Urbano|20
+70980|Las Palmas|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3351|Urbano|20
+70980|La Poza|Barrio|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||02|413|3668|Rural|20
+70980|Cuapinolito|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|0922|Urbano|20
+70980|Santa Maria Huatulco Centro|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|1302|Urbano|20
+70980|El Maguey|Barrio|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||02|413|3349|Urbano|20
+70980|Paso Ancho|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|1210|Urbano|20
+70980|Rio Laje|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3344|Urbano|20
+70980|La Soledad|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|0004|Urbano|20
+70980|Tamarindo|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|1330|Urbano|20
+70980|Techal Blanco|Barrio|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||02|413|1332|Rural|20
+70980|Vicente Guerrero|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|1343|Urbano|20
+70980|Frailillo|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3350|Urbano|20
+70980|8 de Diciembre|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3345|Urbano|20
+70980|Unidad Deportiva|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|0953|Urbano|20
+70980|La Gradera|Colonia|Santa María Huatulco|Oaxaca|Santa María Huatulco|70983|20|70983||09|413|3347|Urbano|20
+70984|Barrio la Mina|Barrio|Santa María Huatulco|Oaxaca||70983|20|70983||02|413|4821|Rural|
+70984|Arroyo Suchil|Congregación|Santa María Huatulco|Oaxaca||70983|20|70983||11|413|2569|Rural|
+70984|Piedra de Moros|Congregación|Santa María Huatulco|Oaxaca||70983|20|70983||11|413|4819|Rural|
+70984|Agua Hedionda|Congregación|Santa María Huatulco|Oaxaca||70983|20|70983||11|413|2573|Rural|
+70985|El Crucero|Fraccionamiento|Santa María Huatulco|Oaxaca||70983|20|70983||21|413|4194|Semiurbano|
+70985|El Crucero|Ranchería|Santa María Huatulco|Oaxaca||70983|20|70983||29|413|4195|Rural|
+70985|Bajo de Arenal|Ranchería|Santa María Huatulco|Oaxaca||70983|20|70983||29|413|2578|Rural|
+70985|Bajos de Coyula|Ranchería|Santa María Huatulco|Oaxaca||70983|20|70983||29|413|2570|Rural|
+70985|San Agustín|Fraccionamiento|Santa María Huatulco|Oaxaca||70983|20|70983||21|413|4207|Semiurbano|
+70985|Puente Coyula|Pueblo|Santa María Huatulco|Oaxaca||70983|20|70983||28|413|4208|Semiurbano|
+70985|Aguaje el Zapote|Ejido|Santa María Huatulco|Oaxaca||70983|20|70983||15|413|4820|Rural|
+70987|Santa Cruz Sector A|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1314|Urbano|13
+70987|Sector E|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1315|Urbano|13
+70987|Sector B|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3319|Urbano|13
+70987|Beta Centauro|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|0892|Urbano|13
+70987|Calpan 1|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|0896|Urbano|13
+70987|Chahue|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|1237|Urbano|13
+70987|Sector T|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3307|Urbano|13
+70987|Sector C|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3549|Urbano|13
+70987|Sector H3|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3553|Urbano|13
+70987|Sector I|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1318|Urbano|13
+70987|Sector M|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1322|Urbano|13
+70987|Sector F|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1316|Urbano|13
+70987|Los Mangos|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|1161|Urbano|13
+70987|Bahías de Huatulco|Aeropuerto|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||01|413|2575|Urbano|13
+70987|Sector L|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3315|Urbano|13
+70987|Calpan 2|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|0897|Urbano|13
+70987|Calpan 3|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|0898|Urbano|13
+70987|Conjunto Framboyán|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|0916|Urbano|13
+70987|Sector R|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1323|Urbano|13
+70987|Sector P|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3318|Urbano|13
+70987|El Mirador|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|0917|Urbano|13
+70987|Procic|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|1228|Urbano|13
+70987|Sector H|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1317|Urbano|13
+70987|Sector S|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3550|Urbano|13
+70987|Base Naval|Zona federal|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||34|413|4198|Urbano|13
+70987|Pacífico|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|4199|Urbano|13
+70988|Sector P Marina Chahue|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|0002|Urbano|13
+70988|Sector U|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3305|Urbano|13
+70988|Sector O|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3555|Urbano|13
+70988|Campo de Golf|Residencial|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||30|413|4196|Urbano|13
+70988|La Bocana de Copalita|Fraccionamiento|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||21|413|4200|Urbano|13
+70988|Río Tangolunda (La Jabalina)|Ranchería|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||29|413|4202|Rural|13
+70988|Sector K|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1321|Urbano|13
+70988|Sector V|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1324|Urbano|13
+70988|Sector U2|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3304|Urbano|13
+70988|Vicente Guerrero|Ranchería|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||29|413|4201|Rural|13
+70988|La Joya|Fraccionamiento|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||21|413|0001|Urbano|13
+70988|Sector U2 B|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|4203|Urbano|13
+70988|Puente Copalita|Pueblo|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||28|413|4204|Rural|13
+70988|Sector U2 Sur|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|4206|Urbano|13
+70988|De la Marina|Unidad habitacional|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||31|413|0005|Urbano|13
+70988|El Arrocito|Residencial|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||30|413|3320|Urbano|13
+70988|Sector U2 Norte|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|4205|Urbano|13
+70988|Copalita|Fraccionamiento|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||21|413|5028|Urbano|13
+70988|Villas Paraíso|Fraccionamiento|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||21|413|0003|Urbano|13
+70988|Sector J|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|1319|Urbano|13
+70988|Vicente Guerrero Infonavit|Condominio|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||10|413|1344|Urbano|13
+70988|Ampliación Sector J|Colonia|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||09|413|3306|Urbano|13
+70989|Balcones Tangolunda|Residencial|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||30|413|0881|Urbano|13
+70989|Bahía de Conejo|Residencial|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||30|413|3359|Urbano|13
+70989|Zona Hotelera Tangolunda|Equipamiento|Santa María Huatulco|Oaxaca|Bahias de Huatulco|70986|20|70986||17|413|1364|Urbano|13

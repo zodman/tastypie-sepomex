@@ -1,0 +1,9 @@
+65750|Gral. Zuazua|Villa|General Zuazua|Nuevo León||66601|19|66601||32|025|0688|Rural|
+65760|Real de Palmas|Fraccionamiento|General Zuazua|Nuevo León||66601|19|66601||21|025|3728|Semiurbano|
+65760|Misión de Santa Elena|Fraccionamiento|General Zuazua|Nuevo León||66601|19|66601||21|025|3993|Semiurbano|
+65760|Las Bugambilias|Fraccionamiento|General Zuazua|Nuevo León||66601|19|66601||21|025|3994|Semiurbano|
+65776|Valle de Santa Elena|Colonia|General Zuazua|Nuevo León||66601|19|66601||09|025|5858|Rural|
+65780|Residencial Hacienda San Pedro|Fraccionamiento|General Zuazua|Nuevo León||66601|19|66601||21|025|3785|Semiurbano|
+65780|Real San Pedro|Fraccionamiento|General Zuazua|Nuevo León||66601|19|66601||21|025|4866|Urbano|
+65780|Portal del Norte|Fraccionamiento|General Zuazua|Nuevo León||66601|19|66601||21|025|3992|Semiurbano|
+65780|Portal de Zuazua|Colonia|General Zuazua|Nuevo León||66601|19|66601||09|025|5090|Urbano|

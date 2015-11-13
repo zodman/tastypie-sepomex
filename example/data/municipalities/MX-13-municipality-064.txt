@@ -1,0 +1,22 @@
+42920|San Pedro Nextlalpan|Pueblo|Tepetitlán|Hidalgo||42801|13|42801||28|064|0861|Rural|
+42920|Tercera Manzana|Colonia|Tepetitlán|Hidalgo||42801|13|42801||09|064|0001|Rural|
+42920|Tepetitlán Centro|Colonia|Tepetitlán|Hidalgo||42801|13|42801||09|064|0862|Urbano|
+42921|Sayula|Pueblo|Tepetitlán|Hidalgo||42801|13|42801||28|064|0863|Rural|
+42923|Pedro María Anaya (Ejido San Mateo)|Ejido|Tepetitlán|Hidalgo||42801|13|42801||15|064|3222|Rural|
+42923|Ampliación (Segunda Manzana)|Colonia|Tepetitlán|Hidalgo||42801|13|42801||09|064|3221|Rural|
+42923|La Granja|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3227|Rural|
+42924|General Pedro María Anaya|Pueblo|Tepetitlán|Hidalgo||42801|13|42801||28|064|0865|Rural|
+42924|San Mateo la Curva|Poblado comunal|Tepetitlán|Hidalgo||42801|13|42801||27|064|3232|Rural|
+42924|La Puerta (Las Bugambilias)|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3230|Rural|
+42925|La Cuarta Manzana|Poblado comunal|Tepetitlán|Hidalgo||42801|13|42801||27|064|3225|Rural|
+42925|La Ermita|Poblado comunal|Tepetitlán|Hidalgo||42801|13|42801||27|064|3226|Rural|
+42925|La Loma|Poblado comunal|Tepetitlán|Hidalgo||42801|13|42801||27|064|3229|Rural|
+42926|La Joya|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3228|Rural|
+42928|Santa María Daxtho|Pueblo|Tepetitlán|Hidalgo||42801|13|42801||28|064|0864|Rural|
+42928|El Retiro|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3223|Rural|
+42930|José María Pino Suárez|Pueblo|Tepetitlán|Hidalgo||42801|13|42801||28|064|0866|Rural|
+42931|Estación Sayula|Zona federal|Tepetitlán|Hidalgo||42801|13|42801||34|064|0867|Rural|
+42933|Encinillas|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3224|Rural|
+42933|Palo Alto|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3231|Rural|
+42934|Xithi Primera Sección|Colonia|Tepetitlán|Hidalgo||42801|13|42801||09|064|2515|Rural|
+42934|Xithi Segunda Sección (Xithi de Abasolo)|Ranchería|Tepetitlán|Hidalgo||42801|13|42801||29|064|3233|Rural|

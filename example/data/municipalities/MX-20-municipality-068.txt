@@ -1,0 +1,37 @@
+71510|La Luz|Fraccionamiento|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||21|068|3394|Urbano|23
+71510|Unión y Progreso|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|1340|Urbano|23
+71510|Benito Juárez|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|3388|Urbano|23
+71510|Santa Maria Tocuela|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|3393|Urbano|23
+71510|Ocotlan de Morelos Centro|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|2918|Urbano|23
+71510|Loma Grande|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|3389|Urbano|23
+71510|Santa Maria|Fraccionamiento|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||21|068|3395|Urbano|23
+71510|Los Ocotes|Fraccionamiento|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||21|068|3396|Urbano|23
+71510|La Esperanza|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|3397|Urbano|23
+71510|La Juquilita|Fraccionamiento|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||21|068|4141|Urbano|23
+71510|San Jacinto Ocotlan|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|2920|Urbano|23
+71510|Jacarandas|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|3392|Urbano|23
+71510|El Bajío|Fraccionamiento|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||21|068|3354|Urbano|23
+71510|Santa Cruz|Colonia|Ocotlán de Morelos|Oaxaca|Ocotlán de Morelos|71511|20|71511||09|068|3355|Rural|23
+71512|San Jacinto Chilateca|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|2919|Rural|
+71512|San Cristóbal Ixcatlán|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0011|Rural|
+71512|San Pedro Guegorexe|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|4855|Rural|
+71514|San Isidro|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0001|Rural|
+71514|La Cofradía|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0009|Rural|
+71514|La Chilahua|Colonia|Ocotlán de Morelos|Oaxaca||71511|20|71511||09|068|3390|Rural|
+71514|Sitio de Santiago|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0003|Rural|
+71514|Los Amador|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|4138|Rural|
+71514|Galea|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|4139|Rural|
+71514|La Soledad|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0002|Rural|
+71514|El Taray (El Taray Dos)|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0007|Rural|
+71514|El Carrizal|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0008|Rural|
+71514|Paraje Galga|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0010|Rural|
+71514|La Tortolita|Colonia|Ocotlán de Morelos|Oaxaca||71511|20|71511||09|068|3391|Rural|
+71514|La Chilaíta|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0004|Rural|
+71514|Tocuela|Exhacienda|Ocotlán de Morelos|Oaxaca||71511|20|71511||18|068|2929|Rural|
+71514|El Ciruelo|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|4140|Rural|
+71514|Rancho el Moreno|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0005|Rural|
+71515|Santa Rosa|Poblado comunal|Ocotlán de Morelos|Oaxaca||71511|20|71511||27|068|2923|Rural|
+71515|San Felipe Apóstol|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|2931|Rural|
+71515|Las Flores|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|0006|Rural|
+71515|Buenavista|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|2921|Rural|
+71515|Tejas de Morelos|Ranchería|Ocotlán de Morelos|Oaxaca||71511|20|71511||29|068|2922|Rural|

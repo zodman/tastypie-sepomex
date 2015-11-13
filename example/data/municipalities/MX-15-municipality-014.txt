@@ -1,0 +1,70 @@
+50450|Centro|Colonia|Atlacomulco|México||50451|15|50451||09|014|0528|Urbano|
+50453|El Arbolito|Colonia|Atlacomulco|México||50451|15|50451||09|014|8273|Urbano|
+50453|Felipe Ureña|Colonia|Atlacomulco|México||50451|15|50451||09|014|5223|Rural|
+50453|Morelos|Colonia|Atlacomulco|México||50451|15|50451||09|014|5237|Rural|
+50453|Bongoni|Colonia|Atlacomulco|México||50451|15|50451||09|014|6184|Urbano|
+50453|2 de Abril|Colonia|Atlacomulco|México||50451|15|50451||09|014|8152|Urbano|
+50454|El Calvario|Colonia|Atlacomulco|México||50451|15|50451||09|014|5226|Rural|
+50454|San Martín|Colonia|Atlacomulco|México||50451|15|50451||09|014|6183|Urbano|
+50454|Rincón de las Flores|Colonia|Atlacomulco|México||50451|15|50451||09|014|5225|Rural|
+50454|Centro Administrativo|Colonia|Atlacomulco|México||50451|15|50451||09|014|5229|Rural|
+50454|Granjas|Colonia|Atlacomulco|México||50451|15|50451||09|014|8245|Urbano|
+50454|2da Sección Electricistas|Fraccionamiento|Atlacomulco|México||50451|15|50451||21|014|5224|Rural|
+50454|Isidro Fabela|Colonia|Atlacomulco|México||50451|15|50451||09|014|5228|Rural|
+50455|Cuatro Milpas|Colonia|Atlacomulco|México||50451|15|50451||09|014|5230|Rural|
+50455|La Mora|Colonia|Atlacomulco|México||50451|15|50451||09|014|5231|Rural|
+50455|Las Mercedes|Colonia|Atlacomulco|México||50451|15|50451||09|014|8151|Urbano|
+50455|ISSEMYM|Fraccionamiento|Atlacomulco|México||50451|15|50451||21|014|8827|Urbano|
+50455|Las Fuentes|Colonia|Atlacomulco|México||50451|15|50451||09|014|8153|Urbano|
+50455|La Ascensión|Colonia|Atlacomulco|México||50451|15|50451||09|014|8154|Urbano|
+50456|Río Lerma (Tic Ti)|Colonia|Atlacomulco|México||50451|15|50451||09|014|5072|Rural|
+50456|Atlavilla|Colonia|Atlacomulco|México||50451|15|50451||09|014|5232|Rural|
+50456|José Vasconcelos|Fraccionamiento|Atlacomulco|México||50451|15|50451||21|014|6186|Urbano|
+50456|Miguel Portillo Saldaña|Fraccionamiento|Atlacomulco|México||50451|15|50451||21|014|5235|Rural|
+50457|Ampliación la Garita|Colonia|Atlacomulco|México||50451|15|50451||09|014|8248|Urbano|
+50457|La Garita|Colonia|Atlacomulco|México||50451|15|50451||09|014|5233|Rural|
+50457|Geranios|Colonia|Atlacomulco|México||50451|15|50451||09|014|5234|Rural|
+50457|La Cruz|Colonia|Atlacomulco|México||50451|15|50451||09|014|8247|Urbano|
+50457|El Jazmín|Colonia|Atlacomulco|México||50451|15|50451||09|014|6185|Urbano|
+50457|Atenas|Colonia|Atlacomulco|México||50451|15|50451||09|014|8246|Urbano|
+50458|Atlacomulco|Parque industrial|Atlacomulco|México||50451|15|50451||26|014|8488|Urbano|
+50460|San Bartolo Lanzados|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0533|Rural|
+50463|Cerrito Colorado|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0547|Rural|
+50463|Tierras Blancas|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0548|Rural|
+50464|Maye el Fresno|Ranchería|Atlacomulco|México||50451|15|50451||29|014|7098|Rural|
+50464|San Bartolo el Arenal|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0551|Rural|
+50464|Diximoxi|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0549|Rural|
+50465|Santo Domingo Shomege (Shomege)|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0543|Rural|
+50465|La Mesa de Chosto|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0542|Rural|
+50466|Chosto de los Jarros|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0531|Rural|
+50466|La Lagunita Cantashí|Ranchería|Atlacomulco|México||50451|15|50451||29|014|7096|Rural|
+50470|San Pablo Atotonilco|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0529|Rural|
+50473|El Salto|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0553|Rural|
+50473|Monte María (El Nogal)|Ranchería|Atlacomulco|México||50451|15|50451||29|014|7100|Rural|
+50474|El Rincón de la Candelaria|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0532|Rural|
+50474|Tecoac|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0540|Rural|
+50475|San Ignacio de Loyola|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0554|Rural|
+50475|San José del Tunal|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0535|Rural|
+50475|San Luis Boro|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0555|Rural|
+50476|Dolores la Joya (La Joya)|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0552|Rural|
+50476|El Magueyal|Ranchería|Atlacomulco|México||50451|15|50451||29|014|7099|Rural|
+50477|Cotecito|Ranchería|Atlacomulco|México||50451|15|50451||29|014|8659|Rural|
+50480|San Francisco Chalchihuapan|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0558|Rural|
+50483|San Felipe Pueblo Nuevo|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0556|Rural|
+50483|Santiago Acutzilapan|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0560|Rural|
+50484|San Antonio Enchisi|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0557|Rural|
+50485|San Pedro del Rosal|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0559|Rural|
+50486|Santa Cruz Bombatevi|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0539|Rural|
+50486|San Lorenzo Tlacotepec|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0538|Rural|
+50486|Cuendo|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0546|Rural|
+50486|El Espejel|Ranchería|Atlacomulco|México||50451|15|50451||29|014|7097|Rural|
+50487|Bombatevi Ejido (Ej. Santa Cruz Bombatevi)|Ranchería|Atlacomulco|México||50451|15|50451||29|014|6746|Rural|
+50487|Las Tarrias|Ranchería|Atlacomulco|México||50451|15|50451||29|014|6745|Rural|
+50487|La Palma|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0550|Rural|
+50490|San Juan de los Jarros|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0537|Rural|
+50493|Bobashi de Guadalupe|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0530|Rural|
+50494|Manto del Río|Ejido|Atlacomulco|México||50451|15|50451||15|014|0545|Rural|
+50495|Manto del Río|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0544|Rural|
+50496|San José Toxi|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0536|Rural|
+50496|Santa Rosa|Ranchería|Atlacomulco|México||50451|15|50451||29|014|7095|Rural|
+50497|San Jerónimo de los Jarros|Pueblo|Atlacomulco|México||50451|15|50451||28|014|0534|Rural|

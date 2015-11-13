@@ -1,0 +1,63 @@
+29520|Cristóbal Colon|Barrio|Pichucalco|Chiapas|Pichucalco|29521|07|29521||02|068|2256|Semiurbano|19
+29520|Siglo XXI 2|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|4074|Semiurbano|19
+29520|El Vivero|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2251|Rural|19
+29520|Vida Mejor|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|4075|Semiurbano|19
+29520|La Ceiba|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|4076|Semiurbano|19
+29520|Jorge Camacho|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2249|Semiurbano|19
+29520|Fovissste I|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2258|Rural|19
+29520|Fovissste II|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2259|Rural|19
+29520|Napana|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|4077|Semiurbano|19
+29520|Las Brisas|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|4078|Semiurbano|19
+29520|El Verdún|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2250|Semiurbano|19
+29520|El Aserradero|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2252|Semiurbano|19
+29520|Las Ranas|Barrio|Pichucalco|Chiapas|Pichucalco|29521|07|29521||02|068|2255|Semiurbano|19
+29520|San Ángel|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|2260|Semiurbano|19
+29520|El Mirador|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|2253|Rural|19
+29520|La Ceiba|Barrio|Pichucalco|Chiapas|Pichucalco|29521|07|29521||02|068|2257|Semiurbano|19
+29520|Las Palmeras|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|2262|Semiurbano|19
+29520|Siglo XXI|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|4073|Semiurbano|19
+29520|Santo Domingo|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|5640|Semiurbano|19
+29520|Pichucalco Centro|Colonia|Pichucalco|Chiapas|Pichucalco|29521|07|29521||09|068|0585|Semiurbano|19
+29520|Los Cafetales|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|2254|Semiurbano|19
+29520|Las Lilas|Fraccionamiento|Pichucalco|Chiapas|Pichucalco|29521|07|29521||21|068|2261|Semiurbano|19
+29523|Azufre 2a Secc|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0589|Rural|
+29523|Azufre 1a Secc|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0588|Rural|
+29523|Nicolás Bravo 2a Sección B|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4069|Rural|
+29523|Luis Donaldo Colosio|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4070|Rural|
+29524|Santa Cruz 1a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|5565|Rural|
+29524|Tectuapan|Pueblo|Pichucalco|Chiapas||29521|07|29521||28|068|0591|Rural|
+29524|Viejo Nicapa|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4072|Rural|
+29524|El Cerro 2a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4066|Rural|
+29524|Nicolás Bravo 1ra. Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4068|Rural|
+29524|El Cerro 1a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4071|Rural|
+29524|Camoapita 2a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4062|Rural|
+29524|El Sinai|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4063|Rural|
+29525|Mariano Matamoros 1a Sección|Pueblo|Pichucalco|Chiapas||29521|07|29521||28|068|0584|Rural|
+29525|Belisario Domínguez|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4064|Rural|
+29525|Matamoros 2a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4065|Rural|
+29526|Blanquillo 2a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0590|Rural|
+29526|Blanquillo 1a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4067|Rural|
+29526|Nuevo Nicapa|Pueblo|Pichucalco|Chiapas||29521|07|29521||28|068|0592|Rural|
+29526|Estación el Suspiro|Colonia|Pichucalco|Chiapas||29521|07|29521||09|068|5564|Rural|
+29528|Los Cascabeles|Colonia|Pichucalco|Chiapas||29521|07|29521||09|068|6751|Rural|
+29530|Ribera Platanar Abajo 2a Secc|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0594|Rural|
+29530|Ignacio Zaragoza Alto|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0596|Rural|
+29530|La Florida|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4059|Rural|
+29533|Miguel Hidalgo|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4056|Rural|
+29533|Santa Martha|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4052|Rural|
+29533|Nuevo Xochimilco|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4054|Rural|
+29533|San Carlos|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4051|Rural|
+29533|Francisco Villa|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4053|Rural|
+29533|Plutarco Elías Calles|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4050|Rural|
+29533|Batería de Chiapas|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4055|Rural|
+29533|Ribera Platanar Arriba|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0595|Rural|
+29534|Unidad Chiapaneca|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4049|Rural|
+29534|El Triunfo 2a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4058|Rural|
+29534|La Crimea|Estación|Pichucalco|Chiapas||29521|07|29521||16|068|0597|Rural|
+29534|San Manuel|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4048|Rural|
+29534|La Soledad|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4057|Rural|
+29535|Camoapa 1a Secc|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0586|Rural|
+29535|Portaceli|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4060|Rural|
+29535|Camoapita 1a Sección|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|4061|Rural|
+29535|Camoapa 2a Secc|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|0587|Rural|
+29537|El Cucayo|Ranchería|Pichucalco|Chiapas||29521|07|29521||29|068|5880|Rural|

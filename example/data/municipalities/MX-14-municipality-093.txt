@@ -1,0 +1,92 @@
+47600|Tepatitlán de Morelos Centro|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2044|Semiurbano|08
+47610|La Nueva Cruz|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2048|Semiurbano|08
+47610|El Cerrito|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2047|Semiurbano|08
+47610|Pozo Del Monte|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2049|Semiurbano|08
+47610|Cerrito de La Cruz|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2046|Semiurbano|08
+47614|Los Viveros|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2050|Semiurbano|08
+47620|Los Popotes|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2053|Semiurbano|08
+47620|Colinas Residencial|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0002|Urbano|08
+47620|Hacienda Popotes|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2051|Semiurbano|08
+47620|Las Colonias|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2052|Semiurbano|08
+47620|El Árbol|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0001|Urbano|08
+47624|Plaza Tepatitlán|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2054|Semiurbano|08
+47630|Nueva Españita|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2056|Semiurbano|08
+47630|Españita|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2055|Semiurbano|08
+47634|Jardín Español|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2057|Semiurbano|08
+47634|Las Hadas|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|4274|Semiurbano|08
+47634|Paseo de las Lomas|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2058|Semiurbano|08
+47635|El Pedregal|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2059|Semiurbano|08
+47635|Fovissste|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2060|Semiurbano|08
+47635|Santa Bárbara|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|5297|Urbano|08
+47635|Bugambilias|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0007|Urbano|08
+47636|Residencial La Cuesta|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0006|Urbano|08
+47637|Juan Pablo II|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0005|Urbano|08
+47639|San Alfonso|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|5296|Urbano|08
+47639|San Gabriel|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2063|Semiurbano|08
+47639|Santa Mónica|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2064|Semiurbano|08
+47639|El Tablón Infonavit|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2061|Semiurbano|08
+47639|Nueva España|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2062|Semiurbano|08
+47640|San Antonio El Alto|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2065|Semiurbano|08
+47649|Granjas Margarita|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2066|Semiurbano|08
+47649|Las Jardineras|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2067|Semiurbano|08
+47650|El Pipón|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2069|Semiurbano|08
+47650|Guadalupe|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2070|Semiurbano|08
+47650|Alameda|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2068|Semiurbano|08
+47655|Comercial Del Sur|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2071|Semiurbano|08
+47655|Las Calles de Alcalá|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2072|Semiurbano|08
+47655|Libramiento Sur|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2073|Semiurbano|08
+47656|Los Adobes|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2075|Semiurbano|08
+47656|4 Caminos|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2074|Semiurbano|08
+47660|Lomas Del Carmen|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2077|Semiurbano|08
+47660|San Miguel|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2078|Semiurbano|08
+47660|Jesús Maria|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2076|Semiurbano|08
+47664|El Molino|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2079|Semiurbano|08
+47670|Rancho Del Pipón|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2081|Rural|08
+47670|Santa Maria|Condominio|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||10|093|2082|Semiurbano|08
+47670|Vista Hermosa|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2083|Semiurbano|08
+47670|La Gloria|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2080|Semiurbano|08
+47674|San Antonio El Alto|Ranchería|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||29|093|2084|Semiurbano|08
+47674|Bosques de la Gloria|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0003|Urbano|08
+47675|Real Alteño|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|0004|Urbano|08
+47675|Loma Linda|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2086|Semiurbano|08
+47675|Jardines de La Rivera|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2085|Semiurbano|08
+47675|Lomas Del Real|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2087|Semiurbano|08
+47675|Saint Michel|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2088|Semiurbano|08
+47680|El Zapote|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2089|Semiurbano|08
+47680|Jardines de Oriente|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2090|Semiurbano|08
+47680|Jardines Tepatitlán|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2091|Semiurbano|08
+47684|Residencial La Hacienda|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2097|Semiurbano|08
+47684|Campos Elíseos|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2092|Semiurbano|08
+47684|Comarcas Francesas|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2094|Semiurbano|08
+47684|Colonial|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2093|Semiurbano|08
+47684|Jardines 3a Secc|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2096|Semiurbano|08
+47684|Jardines 2a Secc|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2095|Semiurbano|08
+47685|Lomas del Rey|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|4899|Urbano|08
+47685|La Loma|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2099|Semiurbano|08
+47685|Bosques Del Lago|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2098|Semiurbano|08
+47690|Del Carmen|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2100|Semiurbano|08
+47690|Los Conejos|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2101|Semiurbano|08
+47694|Sierra Hermosa|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2102|Semiurbano|08
+47698|Jardines Del Rosal|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2103|Semiurbano|08
+47698|Las Águilas|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2104|Semiurbano|08
+47698|San Carlos|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|2106|Semiurbano|08
+47698|Las Aguilillas|Colonia|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||09|093|2105|Semiurbano|08
+47698|Jardines del Real|Fraccionamiento|Tepatitlán de Morelos|Jalisco|Tepatitlán de Morelos|47601|14|47601||21|093|4604|Urbano|08
+47700|Capilla de Guadalupe|Pueblo|Tepatitlán de Morelos|Jalisco||47701|14|47701||28|093|2107|Rural|
+47707|La Cruz|Ranchería|Tepatitlán de Morelos|Jalisco||47701|14|47701||29|093|2109|Rural|
+47710|Mezcala|Congregación|Tepatitlán de Morelos|Jalisco||47601|14|47601||11|093|2110|Rural|
+47714|San Jose de Bazarte|Congregación|Tepatitlán de Morelos|Jalisco||47601|14|47601||11|093|2112|Rural|
+47715|Pegueros|Pueblo|Tepatitlán de Morelos|Jalisco||47601|14|47601||28|093|2113|Rural|
+47716|Mazatitlán|Pueblo|Tepatitlán de Morelos|Jalisco||47601|14|47601||28|093|2114|Rural|
+47720|Rancho Viejo|Ranchería|Tepatitlán de Morelos|Jalisco||47721|14|47721||29|093|2117|Rural|
+47720|Milpillas|Pueblo|Tepatitlán de Morelos|Jalisco||47721|14|47721||28|093|2116|Rural|
+47720|Capilla de Milpillas|Pueblo|Tepatitlán de Morelos|Jalisco||47721|14|47721||28|093|2115|Rural|
+47723|Rincón de Velázquez|Ranchería|Tepatitlán de Morelos|Jalisco||47721|14|47721||29|093|2121|Rural|
+47723|Mesa Del Guitarrero|Ranchería|Tepatitlán de Morelos|Jalisco||47721|14|47721||29|093|2120|Rural|
+47724|Ojo de Agua de Latillas|Ranchería|Tepatitlán de Morelos|Jalisco||47601|14|47601||29|093|2122|Rural|
+47725|Ramblas Grande|Ranchería|Tepatitlán de Morelos|Jalisco||47721|14|47721||29|093|2123|Rural|
+47726|Tecomatlan|Ranchería|Tepatitlán de Morelos|Jalisco||47601|14|47601||29|093|2124|Rural|
+47728|San Jose de Gracia|Pueblo|Tepatitlán de Morelos|Jalisco||47722|14|47722||28|093|2127|Rural|
+47728|Los Cerritos|Ranchería|Tepatitlán de Morelos|Jalisco||47722|14|47722||29|093|2126|Rural|
+47728|Las Hormigas|Ranchería|Tepatitlán de Morelos|Jalisco||47722|14|47722||29|093|2125|Rural|
+47729|Chispiadero|Ranchería|Tepatitlán de Morelos|Jalisco||47722|14|47722||29|093|2128|Rural|

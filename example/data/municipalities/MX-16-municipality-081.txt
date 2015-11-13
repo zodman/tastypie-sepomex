@@ -1,0 +1,66 @@
+61590|Susupuato de Guerrero|Pueblo|Susupuato|Michoacán de Ocampo||61501|16|61501||28|081|2480|Urbano|
+61592|El Hondable|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0015|Rural|
+61592|El Bonete|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0009|Rural|
+61592|El Plátano|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0021|Rural|
+61592|Ciranda Blanca|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0005|Rural|
+61592|La Pluma|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0035|Rural|
+61592|Corral Viejo|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2481|Rural|
+61592|Pungarancho|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0049|Rural|
+61592|La Colmena|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0030|Rural|
+61592|El Naranjo (Los Limones)|Pueblo|Susupuato|Michoacán de Ocampo||61501|16|61501||28|081|2482|Rural|
+61592|La Pluma|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0006|Rural|
+61593|El Capire|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0011|Rural|
+61593|Cerro de Guadalupe (Lampazos)|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0004|Rural|
+61593|El Tremesino|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2478|Rural|
+61593|La Lagunilla|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0032|Rural|
+61593|Guayabo Chico|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2484|Rural|
+61593|Laja Lisa|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0037|Rural|
+61593|Las Lajas|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0038|Rural|
+61593|La Cañadita|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0028|Rural|
+61593|El Salitre|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2483|Rural|
+61593|Limoncito|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0040|Rural|
+61593|El Tular|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0025|Rural|
+61593|La Fragua|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0031|Rural|
+61593|Manzanillo|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0043|Rural|
+61594|El Estanco|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0014|Rural|
+61594|El Aguacate|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0007|Rural|
+61594|La Cañada|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0027|Rural|
+61594|Mesa Rica|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0045|Rural|
+61594|Puerto del Cerro Pelón (Puerto de Susupuato)|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0048|Rural|
+61594|Rancho Viejo|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2479|Rural|
+61594|Vicente Guerrero (El Salitre)|Colonia|Susupuato|Michoacán de Ocampo||61501|16|61501||09|081|2485|Rural|
+61594|Las Maravillas|Pueblo|Susupuato|Michoacán de Ocampo||61501|16|61501||28|081|0039|Rural|
+61595|El Limoncito|Colonia|Susupuato|Michoacán de Ocampo||61501|16|61501||09|081|0001|Rural|
+61595|El Cangrejo|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0010|Rural|
+61595|Santa Inés (La Haciendita)|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0052|Rural|
+61595|Los Guajes|Pueblo|Susupuato|Michoacán de Ocampo||61501|16|61501||28|081|0041|Rural|
+61595|El Llano del Conejo|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0018|Rural|
+61595|Santa Rosa|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0053|Rural|
+61595|San Malaquías|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0050|Rural|
+61595|San Pedro|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0051|Rural|
+61595|El Carrizal|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0012|Rural|
+61595|El Salto|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0024|Rural|
+61596|Arroyo Salado Dos|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0003|Rural|
+61596|El Tanque|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2487|Rural|
+61596|El Llano|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0016|Rural|
+61596|El Rincón|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0023|Rural|
+61596|La Loma (Los Hoyos)|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0033|Rural|
+61596|La Ciranda|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0029|Rural|
+61596|Dolores (Ex-Hacienda de Dolores)|Exhacienda|Susupuato|Michoacán de Ocampo||61501|16|61501||18|081|2486|Rural|
+61596|La Loma|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2488|Rural|
+61596|Arroyo Salado|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0002|Rural|
+61596|El Aguacate|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0008|Rural|
+61597|Paso del Muerto|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0047|Rural|
+61597|Copándaro (Santiago)|Pueblo|Susupuato|Michoacán de Ocampo||61501|16|61501||28|081|4038|Rural|
+61597|El Escobetillo|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0013|Rural|
+61597|El Ocote Torcido|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0019|Rural|
+61597|Paso Ancho|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0046|Rural|
+61597|El Llano|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0017|Rural|
+61597|El Potrero|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0022|Rural|
+61597|Mesa Grande (Mesa del Zacatón)|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0044|Rural|
+61597|El Paso|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0020|Rural|
+61597|La Palma|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0034|Rural|
+61597|Genguaro|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|0026|Rural|
+61597|Los Teposanes|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0042|Rural|
+61597|Chilacayote (Landeros)|Ranchería|Susupuato|Michoacán de Ocampo||61501|16|61501||29|081|2489|Rural|
+61597|Lagunilla|Rancho|Susupuato|Michoacán de Ocampo||61501|16|61501||48|081|0036|Rural|

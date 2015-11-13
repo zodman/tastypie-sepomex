@@ -1,0 +1,43 @@
+79500|Villa de Reyes Centro|Colonia|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||09|050|1311|Rural|16
+79500|El Salitral|Colonia|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||09|050|3008|Urbano|16
+79500|Cahuila|Colonia|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||09|050|2992|Rural|16
+79500|México|Barrio|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||02|050|1915|Rural|16
+79500|Calvario|Barrio|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||02|050|1916|Rural|16
+79500|Santuario|Barrio|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||02|050|1917|Rural|16
+79500|Abasolo|Barrio|Villa de Reyes|San Luis Potosí|Villa de Reyes|79501|24|79501||02|050|1918|Rural|16
+79502|Gogorrón|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1313|Rural|
+79502|Socavón (El Carmen)|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1314|Rural|
+79503|La Boquilla|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|1312|Rural|
+79503|Presa del Organito|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|1315|Rural|
+79505|El Rosario|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1316|Rural|
+79506|La Ventilla|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|1310|Rural|
+79506|Centenario|Poblado comunal|Villa de Reyes|San Luis Potosí||79501|24|79501||27|050|1317|Rural|
+79506|Alberto Carrera Torres|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1309|Rural|
+79506|Las Rusias|Poblado comunal|Villa de Reyes|San Luis Potosí||79501|24|79501||27|050|1318|Rural|
+79507|San Miguel|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1319|Rural|
+79507|Presa San Agustín|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|2427|Rural|
+79507|San Pascual|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|0002|Rural|
+79508|Puerta de San Antonio|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|1320|Rural|
+79508|La Loma del Tejocote (La Loma)|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|0003|Rural|
+79509|El Tejocote|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1321|Rural|
+79510|Carranco|Hacienda|Villa de Reyes|San Luis Potosí||79501|24|79501||24|050|1323|Rural|
+79510|Bledos|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1322|Rural|
+79511|Saucillo de Bledos|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|1324|Rural|
+79512|Arroyo Blanco|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|1325|Rural|
+79513|Cañón de Bledos|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1326|Rural|
+79520|Jesús María|Estación|Villa de Reyes|San Luis Potosí||79501|24|79501||16|050|1328|Rural|
+79521|Ojo del Gato|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1329|Rural|
+79524|Pardo|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1330|Rural|
+79524|San Lorenzo|Poblado comunal|Villa de Reyes|San Luis Potosí||79501|24|79501||27|050|2799|Rural|
+79525|Laguna de San Vicente|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1331|Rural|
+79526|Logistik|Parque industrial|Villa de Reyes|San Luis Potosí||78343|24|78343||26|050|2436|Rural|
+79530|Puente de Tierra|Ranchería|Villa de Reyes|San Luis Potosí||79501|24|79501||29|050|0001|Rural|
+79530|Emiliano Zapata|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1333|Rural|
+79530|Saucillo|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1336|Rural|
+79530|Calderón|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1332|Rural|
+79530|Rodrigo|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1335|Rural|
+79530|Villa de Reyes|Estación|Villa de Reyes|San Luis Potosí||79501|24|79501||16|050|1337|Rural|
+79530|Guadiana|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1334|Rural|
+79532|El Verde|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|2430|Rural|
+79532|Machado|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1338|Rural|
+79533|Palomas|Ejido|Villa de Reyes|San Luis Potosí||79501|24|79501||15|050|1339|Rural|

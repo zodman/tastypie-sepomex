@@ -1,0 +1,79 @@
+60440|Camichines|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0003|Urbano|
+60440|El Escobal|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0006|Urbano|
+60440|Vistas del Valle|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0025|Urbano|
+60440|Camelinas|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0002|Urbano|
+60440|Guadalupe|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0011|Urbano|
+60440|Los Fresnos|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0021|Urbano|
+60440|Tirinditas|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0024|Urbano|
+60440|El Pedregal|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0010|Urbano|
+60440|La Loma II|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0015|Urbano|
+60440|Los Fresnitos|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0020|Urbano|
+60440|Magisterial|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0022|Urbano|
+60440|Los Pinos|Fraccionamiento|Peribán|Michoacán de Ocampo||60444|16|60444||21|068|4740|Urbano|
+60440|El Chirimoyo|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0005|Urbano|
+60440|El Molino|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0008|Urbano|
+60440|Joya de la Ortiga|Fraccionamiento|Peribán|Michoacán de Ocampo||60444|16|60444||21|068|0012|Urbano|
+60440|La Joyita|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0013|Urbano|
+60440|La Y Griega|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0017|Urbano|
+60440|Loma Verde|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0018|Urbano|
+60440|La Loma|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0014|Urbano|
+60440|Los Cerritos|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0019|Urbano|
+60440|San Javier|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0023|Urbano|
+60440|El Girasol|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0007|Urbano|
+60440|Peribán de Ramos|Pueblo|Peribán|Michoacán de Ocampo||60444|16|60444||28|068|1799|Urbano|
+60440|Álamo|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0001|Urbano|
+60440|El Calvario|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0004|Urbano|
+60440|La Noria|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0016|Urbano|
+60440|El Moral|Colonia|Peribán|Michoacán de Ocampo||60444|16|60444||09|068|0009|Urbano|
+60442|Quebraplato|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0061|Rural|
+60442|El Batellero|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0034|Rural|
+60442|Tengüerán|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0065|Rural|
+60442|El Huizache|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0039|Rural|
+60442|Agua Fría|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0026|Rural|
+60442|El Carrizalillo|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|1803|Rural|
+60442|Copetiro|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|0029|Rural|
+60443|La Yerbabuena|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|1800|Rural|
+60443|La Cofradía|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|4742|Rural|
+60443|El Pinito|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0042|Rural|
+60443|San Francisco Peribán|Pueblo|Peribán|Michoacán de Ocampo||60444|16|60444||28|068|1802|Rural|
+60443|El Paraíso|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0041|Rural|
+60443|Llanos de Peribán|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0054|Rural|
+60443|Los Puentes Cuates|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0057|Rural|
+60443|Huatarillo|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|0044|Rural|
+60443|Magallón|Hacienda|Peribán|Michoacán de Ocampo||60444|16|60444||24|068|1801|Rural|
+60443|Gildardo Magaña (Los Ángeles)|Ejido|Peribán|Michoacán de Ocampo||60444|16|60444||15|068|1804|Rural|
+60443|La Mesa|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0051|Rural|
+60443|Los Pastores|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|0056|Rural|
+60443|La Chiripa|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0045|Rural|
+60443|Los Cerritos|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0055|Rural|
+60443|Agua Fría|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0027|Rural|
+60443|Chulavista|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0028|Rural|
+60443|La Majada|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0050|Rural|
+60445|El Atrancón|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0033|Rural|
+60445|San José la Coyotera|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|0046|Rural|
+60445|Paso de la Nieve|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0060|Rural|
+60445|Uña de Gato|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0066|Rural|
+60445|El Granado|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0038|Rural|
+60445|El Capillo|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|0035|Rural|
+60445|Parastaco|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0059|Rural|
+60445|El Copal|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0036|Rural|
+60445|Cutio|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0031|Rural|
+60445|Tangancicato|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0063|Rural|
+60445|Chuanito|Pueblo|Peribán|Michoacán de Ocampo||60444|16|60444||28|068|4035|Rural|
+60445|Cuzata (El Ucaz)|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0032|Rural|
+60445|El Ojo de Agua de Parastaco|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0040|Rural|
+60445|Las Trojas|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0053|Rural|
+60445|El Pozo del Zopilote|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0043|Rural|
+60445|La Fábrica|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|0047|Rural|
+60445|La Loma|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0049|Rural|
+60445|Río Chondo|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0062|Rural|
+60445|Parambén|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|1806|Rural|
+60446|San José Apupátaro|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|1807|Rural|
+60446|Curistarán|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0030|Rural|
+60446|El Cuartel|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0037|Rural|
+60446|Palo Verde|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0058|Rural|
+60446|Taramichango|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0064|Rural|
+60446|La Higuerita|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0048|Rural|
+60447|Plan de Ayala|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|1808|Rural|
+60447|Las Taumas|Rancho|Peribán|Michoacán de Ocampo||60444|16|60444||48|068|0052|Rural|
+60447|Corona|Ranchería|Peribán|Michoacán de Ocampo||60444|16|60444||29|068|1798|Rural|

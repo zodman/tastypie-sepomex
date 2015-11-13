@@ -1,0 +1,105 @@
+67700|Linares Centro|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2138|Urbano|05
+67710|INFONAVIT Rodrigo Gómez|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2141|Urbano|05
+67710|Alvarado|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2140|Urbano|05
+67710|Las Palmas|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2456|Urbano|05
+67713|La Amistad|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2142|Urbano|05
+67714|América|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2457|Urbano|05
+67714|Los Nogales|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3952|Urbano|05
+67714|San Felipe|Ejido|Linares|Nuevo León|Linares|67701|19|67701||15|033|2143|Urbano|05
+67714|Las Brisas|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3579|Urbano|05
+67715|Gloria Mendiola|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2144|Urbano|05
+67716|INFONAVIT Río Verde|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2145|Urbano|05
+67716|INFONAVIT Dr. Ignacio Morones Prieto|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2926|Urbano|05
+67716|San Luisito|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|3950|Urbano|05
+67720|Benito Juárez|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2146|Urbano|05
+67720|Los Noriega|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2458|Urbano|05
+67730|FOMERREY Ignacio Zaragoza|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3575|Urbano|05
+67730|Camacho|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2147|Urbano|05
+67730|INFONAVIT Jardines de Linares|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3958|Urbano|05
+67730|Ignacio Zaragoza|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3574|Urbano|05
+67730|San Joaquín|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|3949|Urbano|05
+67735|Ciudad Industrial|Zona industrial|Linares|Nuevo León|Linares|67701|19|67701||37|033|2149|Urbano|05
+67735|Arboledas del Valle|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2148|Urbano|05
+67740|Villegas|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2150|Urbano|05
+67750|La Petaca|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2151|Urbano|05
+67750|Ricardo Cantu|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2459|Urbano|05
+67750|Sócrates Rizzo|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2460|Urbano|05
+67750|Buenos Aires|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2461|Urbano|05
+67754|Fomerrey 53 las Huertas|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2152|Urbano|05
+67754|Residencial Nogalar|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3581|Urbano|05
+67755|El Cerrito|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2464|Urbano|05
+67755|INFONAVIT El Cerrito|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3580|Urbano|05
+67755|Provileon|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2153|Urbano|05
+67755|Linares IV Fovissste|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2462|Urbano|05
+67755|Residencial Hacienda los Nogales|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3953|Urbano|05
+67756|INFONAVIT La Petaca|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3584|Urbano|05
+67756|Fidel Velázquez|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|3236|Urbano|05
+67756|INFONAVIT San Gerardo|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3585|Urbano|05
+67756|Las Bugambilias|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3955|Urbano|05
+67756|INFONAVIT Constituyentes de 1857|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2465|Urbano|05
+67760|Moderna|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2154|Urbano|05
+67767|Las Palmas (Camachito)|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2467|Urbano|05
+67767|Camachito|Ejido|Linares|Nuevo León|Linares|67701|19|67701||15|033|2466|Urbano|05
+67768|San Francisco|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2155|Urbano|05
+67769|Los Naranjos|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3197|Urbano|05
+67769|Alejandro Cano|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2156|Urbano|05
+67770|Porfirio Diaz|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2158|Urbano|05
+67770|Miguel Hidalgo|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2157|Urbano|05
+67778|Niños Héroes|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2159|Urbano|05
+67778|Marco Antonio|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2469|Urbano|05
+67778|Misión de San Gerardo|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3956|Urbano|05
+67778|Las Alamedas|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|2468|Urbano|05
+67778|El Vergel|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3957|Urbano|05
+67779|La Bohemia|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|3951|Urbano|05
+67779|El Roble|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2160|Urbano|05
+67780|Solidaridad|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2455|Urbano|05
+67780|Villaseca|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2161|Urbano|05
+67780|Zaragoza|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2162|Urbano|05
+67790|Lomas de Villaseca|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2470|Urbano|05
+67790|Riveras de San Antonio|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3954|Urbano|05
+67790|San Antonio|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2163|Urbano|05
+67790|Lázaro Dimas|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2454|Urbano|05
+67790|San Carlos|Fraccionamiento|Linares|Nuevo León|Linares|67701|19|67701||21|033|3582|Urbano|05
+67790|Tepeyac|Colonia|Linares|Nuevo León|Linares|67701|19|67701||09|033|2164|Urbano|05
+67800|Caja Pinta|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2165|Rural|
+67800|San Felipe|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2168|Rural|
+67800|Dr. Ignacio Morones Prieto|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2166|Rural|
+67800|La Loma|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2167|Rural|
+67800|San Rafael|Congregación|Linares|Nuevo León||67701|19|67701||11|033|2170|Rural|
+67800|San Francisco Del Tenamaxtle|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2169|Rural|
+67802|El Popote|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2172|Rural|
+67802|El 10|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2171|Rural|
+67802|La Morita|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2173|Rural|
+67803|Santa Rosa|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2174|Rural|
+67804|Benitez|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2175|Rural|
+67804|El Refugio|Pueblo|Linares|Nuevo León||67701|19|67701||28|033|2176|Rural|
+67805|El Perico|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2177|Rural|
+67805|Jesús Maria Del Puerto|Ranchería|Linares|Nuevo León||67701|19|67701||29|033|2178|Rural|
+67806|La Soledad|Pueblo|Linares|Nuevo León||67701|19|67701||28|033|2180|Rural|
+67806|La Reforma|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2179|Rural|
+67808|Ranchería|Pueblo|Linares|Nuevo León||67701|19|67701||28|033|2182|Rural|
+67808|Los Fresnos|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2181|Rural|
+67809|Los Álamos|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2183|Rural|
+67809|San Jose|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2184|Rural|
+67812|San Isidro|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2186|Rural|
+67812|Gatos Gueros|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2185|Rural|
+67815|El Porvenir|Ranchería|Linares|Nuevo León||67701|19|67701||29|033|2187|Rural|
+67815|San Jacinto|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2188|Rural|
+67816|Dolores de San Julián|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2189|Rural|
+67816|El Carmen de los Elizondo|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2190|Rural|
+67817|Cerro Prieto|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2191|Rural|
+67817|Los Leones|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2193|Rural|
+67817|Guadalupe|Hacienda|Linares|Nuevo León||67701|19|67701||24|033|2192|Rural|
+67819|San Pedro Garza Garcia|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2195|Rural|
+67819|El Petril|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2194|Rural|
+67824|Loma Alta|Pueblo|Linares|Nuevo León||67701|19|67701||28|033|2198|Rural|
+67824|La Estrella|Pueblo|Linares|Nuevo León||67701|19|67701||28|033|2197|Rural|
+67824|Guadalupe Victoria|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2196|Rural|
+67825|Emiliano Zapata|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2199|Rural|
+67825|Lampazos|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2201|Rural|
+67825|Huerta Santa Teresa|Rancho|Linares|Nuevo León||67701|19|67701||48|033|0001|Rural|
+67825|La Escondida|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2200|Rural|
+67826|Rio Verde Km. 3|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2202|Rural|
+67828|Brasil|Pueblo|Linares|Nuevo León||67701|19|67701||28|033|2203|Rural|
+67828|Ojo de Agua|Ejido|Linares|Nuevo León||67701|19|67701||15|033|2204|Rural|
+67828|Vista Hermosa|Ranchería|Linares|Nuevo León||67701|19|67701||29|033|2205|Rural|

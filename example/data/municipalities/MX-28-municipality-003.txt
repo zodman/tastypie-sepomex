@@ -1,0 +1,235 @@
+89600|Altamira Centro|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1760|Urbano|01
+89602|Alameda|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1983|Urbano|01
+89602|Altamira|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1994|Urbano|01
+89602|Enrique Cárdenas González|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2029|Urbano|01
+89602|Fidel Velázquez|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2036|Urbano|01
+89602|Felipe Carrillo Puerto|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2040|Urbano|01
+89602|Nuevo México|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2132|Urbano|01
+89602|Ramiro Peña|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2518|Urbano|01
+89602|Adolfo López Mateos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1762|Urbano|01
+89602|Alejandro Briones|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1763|Urbano|01
+89602|Cesar Lopez de Lara|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2813|Urbano|01
+89602|La Joya|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2855|Urbano|01
+89602|Villas del Sol|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0007|Urbano|01
+89602|Electricistas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|0008|Urbano|01
+89602|Los Obeliscos|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0012|Urbano|01
+89602|Santo Domingo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1765|Urbano|01
+89602|Las Fuentes|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2078|Urbano|01
+89602|Los Mangos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2102|Urbano|01
+89602|Santa Amalia|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|2159|Urbano|01
+89602|Valle Verde|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2819|Urbano|01
+89602|Villerias|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2873|Urbano|01
+89602|Petrolera|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3102|Urbano|01
+89602|Unidos Avanzamos|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0003|Urbano|01
+89602|Diana Laura Riojas de Colosio|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2083|Urbano|01
+89602|Melchor Ocampo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2114|Urbano|01
+89602|20 de Noviembre|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2183|Urbano|01
+89602|Altamira Sector IV|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2879|Urbano|01
+89602|El Repecho|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|3799|Urbano|01
+89602|Valles de España|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0002|Urbano|01
+89602|Emilio Portes Gil|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2027|Urbano|01
+89602|Guadalupe Victoria|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2050|Urbano|01
+89602|Las Blancas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2074|Urbano|01
+89602|Los Laureles|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2101|Urbano|01
+89602|Luis Donaldo Colosio|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2108|Urbano|01
+89602|Las Margaritas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2111|Urbano|01
+89602|Tampiquito|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2175|Urbano|01
+89602|El Nogal|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2818|Urbano|01
+89602|Educación|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2877|Urbano|01
+89602|El Pedregal|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3105|Urbano|01
+89602|Sección 3 Petróleros|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3602|Urbano|01
+89602|Independencia|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2052|Urbano|01
+89602|Primavera Norte|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2143|Urbano|01
+89602|La Unión|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2814|Urbano|01
+89602|Los Presidentes Sec I, 2, 3, 4, 5 y 6|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2816|Urbano|01
+89602|Martin A Martinez|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2817|Urbano|01
+89602|Álamo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2878|Urbano|01
+89602|Roger Gómez|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1764|Urbano|01
+89602|La Florida|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3493|Urbano|01
+89602|María Antonieta Márquez|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3681|Urbano|01
+89602|Los Placeres del Campo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3685|Urbano|01
+89602|Encinos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|0005|Urbano|01
+89602|Los Mangos|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0014|Urbano|01
+89602|León F. Gual|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2084|Urbano|01
+89602|Revolución Obrera|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2148|Urbano|01
+89602|Campo Tamaulipas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2812|Urbano|01
+89602|Los Pinos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2815|Urbano|01
+89602|Lázaro Cárdenas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3490|Urbano|01
+89603|Los Olivos|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0006|Urbano|01
+89603|Magdaleno Aguilar|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2110|Urbano|01
+89603|La Potosina|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2141|Urbano|01
+89603|Las Haciendas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3500|Urbano|01
+89603|Las Alamedas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0013|Urbano|01
+89603|Francisco I Madero|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1767|Urbano|01
+89603|Jardines de Arboledas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2826|Urbano|01
+89603|Arrecifes|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2827|Urbano|01
+89603|Unidad Satélite|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2830|Urbano|01
+89603|Satélite Chapala|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3093|Urbano|01
+89603|Municipios Libres las Negras|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3097|Urbano|01
+89603|Las Palmas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3482|Urbano|01
+89603|El Edén|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3700|Urbano|01
+89603|Puerto Industrial de Altamira|Zona industrial|Altamira|Tamaulipas|Altamira|89601|28|89601||37|003|3841|Urbano|01
+89603|La Pedrera|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|1768|Urbano|01
+89603|Corredor Industrial|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2821|Urbano|01
+89603|Municipios Libres|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2828|Urbano|01
+89603|Paraíso|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2829|Urbano|01
+89603|Las Adelitas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3082|Urbano|01
+89603|Villa las Rosas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3480|Urbano|01
+89603|Las Adelitas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3497|Urbano|01
+89603|Villas Del Sol|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3094|Urbano|01
+89603|Colinas de Altamira|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3498|Urbano|01
+89603|Las Negras Sec - 58|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3695|Urbano|01
+89603|Almendros|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3697|Urbano|01
+89603|Emiliano Zapata|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2822|Urbano|01
+89603|Fundadores|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2824|Urbano|01
+89603|Real Altamira|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3696|Urbano|01
+89603|Dima|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3699|Urbano|01
+89603|Francisco Villa|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1769|Urbano|01
+89603|Laguna de La Puerta|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1771|Urbano|01
+89603|Jose de Escandon|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2823|Urbano|01
+89603|Venustiano Carranza|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2831|Urbano|01
+89603|De los Ríos|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3095|Urbano|01
+89603|San Jacinto|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3479|Urbano|01
+89603|Paseo Real|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3481|Urbano|01
+89603|Ejido Ricardo Flores Magón|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|3483|Urbano|01
+89603|Hacienda las Palmas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3625|Urbano|01
+89603|Arboledas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3683|Urbano|01
+89603|Industrial Guerrero|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2825|Urbano|01
+89603|Villas de Altamira|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2832|Urbano|01
+89603|Villas Las Flores|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3089|Urbano|01
+89603|La Pedrera|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3098|Urbano|01
+89603|Francisco Medrano|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|3484|Urbano|01
+89603|Los Prados|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3501|Urbano|01
+89603|Arecas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3765|Urbano|01
+89604|Habitacional|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2051|Urbano|01
+89604|Santa Elena|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2161|Urbano|01
+89604|Cancún|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3692|Urbano|01
+89604|Valle Dorado|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0015|Urbano|01
+89604|El Mundo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2022|Urbano|01
+89604|Ampliación El Contadero|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3468|Urbano|01
+89604|Dunas Doradas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3470|Urbano|01
+89604|Nuevo Tampico Sector 2|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2134|Urbano|01
+89604|Plomeros|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2139|Urbano|01
+89604|San Arnoldo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2155|Urbano|01
+89604|Serapio Venegas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2163|Urbano|01
+89604|Gema|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|3092|Urbano|01
+89604|San Ángel|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3096|Urbano|01
+89604|Benito Juárez|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2005|Urbano|01
+89604|Jose Maria Morelos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2063|Urbano|01
+89604|El Triunfo|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2025|Urbano|01
+89604|Justo Sierra|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2064|Urbano|01
+89604|San Antonio|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2839|Urbano|01
+89604|Guadalupe Cervantes|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2875|Urbano|01
+89604|Residencia Velamar|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3469|Urbano|01
+89604|La Esperanza|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3691|Urbano|01
+89604|Albañiles|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1985|Urbano|01
+89604|Américo Villareal|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2000|Urbano|01
+89604|Nuevo Madero|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2130|Urbano|01
+89604|El Contadero|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|2833|Urbano|01
+89604|Santo Tomas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2840|Urbano|01
+89604|Miramar|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1773|Urbano|01
+89604|Nuevo Tampico|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1774|Urbano|01
+89604|Los Fresnos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2100|Urbano|01
+89604|Primavera|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2837|Urbano|01
+89604|Bahía|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2004|Urbano|01
+89604|Jazmín|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2061|Urbano|01
+89604|Tamaulipas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2169|Urbano|01
+89605|Españita|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2033|Urbano|01
+89605|Sotavento Altamira|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|0010|Urbano|01
+89605|Punta Laguna|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|0011|Urbano|01
+89605|Ganadera|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2047|Urbano|01
+89605|Floresta|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3473|Urbano|01
+89605|Huatulquito|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3084|Urbano|01
+89605|Huatulco|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3091|Urbano|01
+89605|Residencial El Náutico|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3472|Urbano|01
+89605|Loma Bonita|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3475|Urbano|01
+89605|Paseos de Floresta|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3624|Urbano|01
+89605|Acapulquito|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|0004|Urbano|01
+89605|Agua de Castilla (Ejido)|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|1980|Urbano|01
+89605|Central de Abastos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2841|Urbano|01
+89605|Colinas de La Laguna|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2874|Urbano|01
+89605|Residencial Lagunas de Miralta|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2842|Urbano|01
+89605|Vega de Esteros|Ejido|Altamira|Tamaulipas|Altamira|89601|28|89601||15|003|2843|Urbano|01
+89605|Villas Náutico|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3874|Urbano|01
+89605|Tampico Altamira|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2171|Urbano|01
+89605|Residencial Real Campestre|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3474|Urbano|01
+89606|Monte Alto|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|1770|Urbano|01
+89606|Lomas de Valle Verde|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2093|Urbano|01
+89606|Lomas de Miralta|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2846|Urbano|01
+89606|Lomas de Rosales|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2848|Urbano|01
+89606|Las Brisas|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2075|Urbano|01
+89606|Los Arados|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2095|Urbano|01
+89606|Valle de las Flores|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3108|Urbano|01
+89606|Nuevo Lomas Del Real|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2124|Urbano|01
+89606|Colinas de Champayán|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3086|Urbano|01
+89606|Lomas Campestre|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3478|Urbano|01
+89606|Monte Alto Sipobladur|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3682|Urbano|01
+89606|Rinconada de la Aurora|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3869|Urbano|01
+89606|Loma Alta|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2089|Urbano|01
+89606|Eugenio Hernández Flores|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3687|Urbano|01
+89606|Monte Alto|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2165|Urbano|01
+89606|Lomas de Monte Alto|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2847|Urbano|01
+89606|Juan Genaro de la Portilla|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3085|Urbano|01
+89606|Alejandro Briones|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|1986|Urbano|01
+89606|La Morita|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2072|Urbano|01
+89606|Lomas de Altamira|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2090|Urbano|01
+89606|Las Flores|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2077|Urbano|01
+89606|La Azteca|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2097|Urbano|01
+89606|Los Encinos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2099|Urbano|01
+89606|Los Encinos Residencial|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3477|Urbano|01
+89607|Fovissste|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|3100|Urbano|01
+89607|Privada Santiago|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|3717|Urbano|01
+89607|La Florida|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2067|Urbano|01
+89607|Altamira II|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|2854|Urbano|01
+89607|Las Marismas|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2112|Urbano|01
+89607|Revolución Verde|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2149|Urbano|01
+89607|Tercer Milenium|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3800|Urbano|01
+89607|Jardines de Altamira|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2057|Urbano|01
+89607|Los Naranjos|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|2103|Urbano|01
+89607|Los Sábalos|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2153|Urbano|01
+89607|El Campanario|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3081|Urbano|01
+89607|Santa Anita|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3101|Urbano|01
+89607|Villas de Champayan|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3803|Urbano|01
+89607|Altamira|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|1759|Urbano|01
+89607|Santa Ana|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2160|Urbano|01
+89607|Laguna Florida|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3802|Urbano|01
+89607|Jardines de Champayán|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2060|Urbano|01
+89607|Pescadores 2|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2883|Urbano|01
+89607|Puerto Escondido|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3099|Urbano|01
+89607|Enrique Cárdenas Centro|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2030|Urbano|01
+89607|Las Grullas|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|2079|Urbano|01
+89607|Pescadores|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2853|Urbano|01
+89607|Jardines de Champayán|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|3502|Urbano|01
+89607|Villas de Champayan 2|Fraccionamiento|Altamira|Tamaulipas|Altamira|89601|28|89601||21|003|3804|Urbano|01
+89607|Alameda|Unidad habitacional|Altamira|Tamaulipas|Altamira|89601|28|89601||31|003|1984|Urbano|01
+89607|INFONAVIT Fidel Velázquez|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2037|Urbano|01
+89607|Los Almendros|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|2852|Urbano|01
+89607|Ixtapa|Colonia|Altamira|Tamaulipas|Altamira|89601|28|89601||09|003|3496|Urbano|01
+89610|Villa Cuauhtémoc|Colonia|Altamira|Tamaulipas||89601|28|89601||09|003|2015|Rural|
+89610|Jardín|Colonia|Altamira|Tamaulipas||89601|28|89601||09|003|2884|Rural|
+89610|Magisterial|Colonia|Altamira|Tamaulipas||89601|28|89601||09|003|2885|Rural|
+89610|Esperanza|Colonia|Altamira|Tamaulipas||89601|28|89601||09|003|2034|Urbano|
+89613|Santa Gertrudis (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1778|Rural|
+89614|San Antonio (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1779|Rural|
+89614|Graneros del Sur (Cuatrocientos Pueblos)|Ranchería|Altamira|Tamaulipas||89601|28|89601||29|003|0016|Rural|
+89615|Jose Maria Luis Mora (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1780|Rural|
+89620|Esteros|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1781|Rural|
+89620|Deportiva|Colonia|Altamira|Tamaulipas||89601|28|89601||09|003|2019|Rural|
+89620|Las Américas|Colonia|Altamira|Tamaulipas||89601|28|89601||09|003|2073|Rural|
+89625|Providencia y Naranjos (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1782|Rural|
+89630|Lomas Del Real|Congregación|Altamira|Tamaulipas||89601|28|89601||11|003|1783|Rural|
+89632|Aquiles Serdán (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1784|Rural|
+89633|Ampliación el Arenal|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|3770|Rural|
+89635|Agua de Castilla (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1785|Rural|
+89636|Nuevo Cereso Regional de Altamira|Equipamiento|Altamira|Tamaulipas||89601|28|89601||17|003|0017|Rural|
+89636|Miguel Hidalgo|Congregación|Altamira|Tamaulipas||89601|28|89601||11|003|0001|Rural|
+89636|Benito Juárez (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1786|Rural|
+89640|Cervantes (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1788|Rural|
+89641|Maclovio Herrera (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1789|Rural|
+89642|Santa Inés (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1790|Rural|
+89642|Nuevo Progreso (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|2133|Rural|
+89642|Rio Tamiahua|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|2151|Rural|
+89643|Mata del Abra (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1791|Rural|
+89644|El Fuerte (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1792|Rural|
+89645|3 de Mayo (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1793|Rural|
+89650|Colonias Estación (Ejido)|Ejido|Altamira|Tamaulipas||89601|28|89601||15|003|1794|Semiurbano|

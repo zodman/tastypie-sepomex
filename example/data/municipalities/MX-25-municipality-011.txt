@@ -1,0 +1,199 @@
+81000|Centro|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0579|Urbano|04
+81010|Ocoro|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0581|Urbano|04
+81014|2 de Octubre|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0582|Urbano|04
+81014|Fresno|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2703|Urbano|04
+81015|Once Ríos|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2174|Urbano|04
+81015|La Florida|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0583|Urbano|04
+81016|Revolución Mexicana|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0584|Urbano|04
+81017|La Piedrera|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0585|Urbano|04
+81018|Independencia|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0586|Urbano|04
+81020|Ejidal|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0588|Urbano|04
+81028|San José|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0003|Urbano|04
+81028|San Juan|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0565|Urbano|04
+81028|Ayuntamiento 92|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0518|Urbano|04
+81028|Josefa Ortiz de Domínguez|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|1983|Urbano|04
+81028|San Francisco|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0563|Urbano|04
+81028|Valle Bonito|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0589|Urbano|04
+81029|Los Sauces|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0549|Urbano|04
+81029|México|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|1987|Urbano|04
+81029|Eduardo Labastida|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0529|Urbano|04
+81029|Sinaloa|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0590|Urbano|04
+81029|STASE|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0571|Urbano|04
+81030|Sector DIF|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2899|Urbano|04
+81030|Sector La Ermita|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2173|Urbano|04
+81040|Ángel Flores|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0593|Urbano|04
+81040|Del Bosque|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0528|Urbano|04
+81042|San Carlos|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0561|Urbano|04
+81043|San Fernando|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|1984|Urbano|04
+81043|Electricistas|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0530|Urbano|04
+81043|Valle del Sol|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|0575|Urbano|04
+81045|Petatlán|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0553|Urbano|04
+81045|Santa María|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|2850|Urbano|04
+81045|Margaritas|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|1988|Urbano|04
+81048|Delicias|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|1991|Urbano|04
+81048|Residencial Campestre|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|0001|Urbano|04
+81048|Las Palmas|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0540|Urbano|04
+81048|Jardines del Sol|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2178|Urbano|04
+81048|Lomas del Mar|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0595|Urbano|04
+81048|U.N.E.|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|1990|Urbano|04
+81048|Las Garzas|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|2180|Urbano|04
+81048|Santa Fe|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|2267|Urbano|04
+81048|Unión de Colonos|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2849|Urbano|04
+81049|Bugambilias|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0522|Urbano|04
+81049|Doctores|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2176|Urbano|04
+81049|Constelación|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0596|Urbano|04
+81049|Santa Clara|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0002|Urbano|04
+81049|Las Glorias|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0539|Urbano|04
+81049|San Joachin|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2177|Urbano|04
+81050|Sector Rivera|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0597|Urbano|04
+81060|Magisterial|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0600|Urbano|04
+81065|Universitaria|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0006|Urbano|04
+81065|Tecomate|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|1992|Urbano|04
+81065|Ampliación 24 de Febrero|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0005|Urbano|04
+81065|24 de Febrero|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0602|Urbano|04
+81066|18 de Marzo|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0603|Urbano|04
+81075|Privada Popular|Fraccionamiento|Guasave|Sinaloa|Guasave|81001|25|81001||21|011|0004|Urbano|04
+81075|Las Huertas|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0605|Urbano|04
+81077|Makarenko|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0606|Urbano|04
+81090|El Chaleco|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0612|Urbano|04
+81090|Tierra y Libertad|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0613|Urbano|04
+81095|17 de Mayo|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0614|Urbano|04
+81095|Jardines del Valle|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|2182|Urbano|04
+81095|Renato Vega Amador|Colonia|Guasave|Sinaloa|Guasave|81001|25|81001||09|011|0557|Urbano|04
+81100|San Sebastián 2|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2427|Rural|
+81100|San Sebastián|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0615|Rural|
+81101|El Chino de los Lopez|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0618|Rural|
+81101|Caimanero|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0616|Rural|
+81101|San josé de Guayparime|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2429|Rural|
+81101|La Sabanilla (Campo Preciado)|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2582|Rural|
+81101|Cofradia|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0617|Rural|
+81101|Ranchito de Castro|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0623|Rural|
+81101|La Uva|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|2710|Rural|
+81101|El Dorado|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0619|Rural|
+81101|La Entrada|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0621|Rural|
+81101|Emilio Portes Gil (Agua Blanca)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2494|Rural|
+81101|5 de Mayo (Agua Blanca)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2661|Rural|
+81101|San Joachin|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0624|Rural|
+81101|Guasavito|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0620|Rural|
+81101|Los Angeles|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0622|Rural|
+81101|Utatave (Mautillos)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2428|Rural|
+81102|Gambino|Ejido|Guasave|Sinaloa||81145|25|81145||15|011|0625|Rural|
+81103|Plan del Río|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2431|Rural|
+81103|Las Juntitas|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2432|Rural|
+81103|El Cuitabón|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2430|Rural|
+81103|Ladrilleras de Ocoro|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2581|Rural|
+81104|La Escalera|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2434|Rural|
+81104|Ranchito de Inzunza|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2433|Rural|
+81105|Las Playas|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0626|Rural|
+81106|Las Crucecitas|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2437|Rural|
+81106|Callejones de Guasavito|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2435|Rural|
+81106|San Pedro Paredes|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2436|Rural|
+81107|San Gabriel|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2440|Rural|
+81107|San Pedro Guasave (El Ranchito)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2438|Rural|
+81107|La Cuestona (la Cuesta)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2441|Rural|
+81107|Jesús María|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2444|Rural|
+81107|Chorohui|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2439|Rural|
+81107|Las Pitahayitas|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2442|Rural|
+81107|Cuesta de Arriba|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2495|Rural|
+81107|La Guamuchilera|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2443|Rural|
+81110|Gral. Juan José Ríos|Pueblo|Guasave|Sinaloa||81111|25|81111||28|011|0627|Rural|
+81113|Treinta y Ocho (Treinta y Ochito)|Ejido|Guasave|Sinaloa||81111|25|81111||15|011|2575|Rural|
+81113|Héroes Mexicanos|Ejido|Guasave|Sinaloa||81111|25|81111||15|011|2445|Rural|
+81117|Miguel Alemán|Ejido|Guasave|Sinaloa||81125|25|81125||15|011|0629|Rural|
+81118|Cerro Cabezón|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0630|Urbano|
+81119|Bachoco|Ejido|Guasave|Sinaloa||81111|25|81111||15|011|0631|Rural|
+81120|Campo La Once|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2583|Rural|
+81120|El Progreso|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0632|Rural|
+81121|Adolfo Ruiz Cortinez|Pueblo|Guasave|Sinaloa||81125|25|81125||28|011|0634|Urbano|
+81121|Campestre Valle|Colonia|Guasave|Sinaloa||81125|25|81125||09|011|1718|Urbano|
+81121|El Campesino|Ejido|Guasave|Sinaloa||81125|25|81125||15|011|2446|Rural|
+81121|Rancho California|Colonia|Guasave|Sinaloa||81125|25|81125||09|011|1719|Urbano|
+81121|Adolfo Ruiz Cortinez Dos|Colonia|Guasave|Sinaloa||81125|25|81125||09|011|3186|Urbano|
+81122|Gabriel Leyva Solano|Pueblo|Guasave|Sinaloa||81126|25|81126||28|011|0635|Urbano|
+81122|Ampliación Leyva Solano|Colonia|Guasave|Sinaloa||81126|25|81126||09|011|3033|Urbano|
+81122|San Francisco|Colonia|Guasave|Sinaloa||81126|25|81126||09|011|3035|Urbano|
+81122|Figueroa|Ejido|Guasave|Sinaloa||81126|25|81126||15|011|2576|Rural|
+81123|El Huitussi y Anexos (El Huitussito)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2447|Rural|
+81123|Huitusi|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0636|Rural|
+81124|El Gallo|Colonia|Guasave|Sinaloa||81125|25|81125||09|011|3189|Urbano|
+81124|Corerepe|Pueblo|Guasave|Sinaloa||81125|25|81125||28|011|0637|Urbano|
+81124|Hidalgo|Colonia|Guasave|Sinaloa||81125|25|81125||09|011|3188|Urbano|
+81127|El Tajito|Colonia|Guasave|Sinaloa||81126|25|81126||09|011|1733|Urbano|
+81127|Lic. Benito Juárez|Colonia|Guasave|Sinaloa||81126|25|81126||09|011|0633|Urbano|
+81127|Gallo de los Limones|Colonia|Guasave|Sinaloa||81126|25|81126||09|011|3034|Urbano|
+81128|Las Parritas|Ejido|Guasave|Sinaloa||81126|25|81126||15|011|2577|Rural|
+81128|Campo Figueroa|Poblado comunal|Guasave|Sinaloa||81126|25|81126||27|011|2578|Rural|
+81130|Leon Fonseca|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|0640|Rural|
+81130|El Zopilote|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2448|Rural|
+81131|La Noria|Ranchería|Guasave|Sinaloa||81145|25|81145||29|011|0641|Rural|
+81131|La Trinidad|Ejido|Guasave|Sinaloa||81145|25|81145||15|011|0642|Rural|
+81132|Portugués de Gálvez|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0643|Rural|
+81132|Las Juntas de Chamicari|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2584|Rural|
+81133|Las Quemazones|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0645|Rural|
+81133|Los Hornos|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0646|Rural|
+81133|Las Moras|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0644|Rural|
+81136|Abelardo L Rodríguez|Ejido|Guasave|Sinaloa||81982|25|81982||15|011|2669|Rural|
+81140|Bamoa|Pueblo|Guasave|Sinaloa||81146|25|81146||28|011|0648|Urbano|
+81140|6 de Mayo|Colonia|Guasave|Sinaloa||81146|25|81146||09|011|1734|Rural|
+81140|Ranchito de Zavala|Ejido|Guasave|Sinaloa||81146|25|81146||15|011|2585|Rural|
+81140|Horacio Gracía Arrayales|Colonia|Guasave|Sinaloa||81146|25|81146||09|011|3187|Urbano|
+81141|Bamoa|Estación|Guasave|Sinaloa||81146|25|81146||16|011|0649|Rural|
+81142|Sabino|Ranchería|Guasave|Sinaloa||81145|25|81145||29|011|0650|Rural|
+81142|Carboneras|Ejido|Guasave|Sinaloa||81145|25|81145||15|011|2449|Rural|
+81143|Orba|Ranchería|Guasave|Sinaloa||81145|25|81145||29|011|0651|Rural|
+81143|Cruz Blanca|Ejido|Guasave|Sinaloa||81145|25|81145||15|011|2450|Rural|
+81144|Norotillo|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0653|Rural|
+81144|Nio|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|0652|Rural|
+81144|Pueblo Viejo|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|0654|Rural|
+81148|Palos Blancos|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0657|Rural|
+81148|Terahuito|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2451|Rural|
+81148|El Platanito|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2452|Rural|
+81149|El Burrión|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|0658|Urbano|
+81160|Campo Maeva|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|2207|Rural|
+81160|Campo Crucero (campo Diaz)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2216|Rural|
+81160|Cubilete 1|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0659|Rural|
+81160|El Marcol|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2453|Rural|
+81161|Buenavista|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0660|Rural|
+81162|San Antonio|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2455|Rural|
+81162|El Porvenir|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|0661|Rural|
+81162|Campo Filipinas|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2586|Rural|
+81162|La Chuparrosa|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2454|Rural|
+81163|El Sacrificio|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2456|Rural|
+81163|Cubilete 2|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2496|Rural|
+81163|El Tortugo|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2457|Rural|
+81163|Maximiliano R. López|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2458|Rural|
+81164|Roberto Barrios|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2459|Rural|
+81165|Flor de Mayo|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2497|Rural|
+81166|El Coloradito|Poblado comunal|Guasave|Sinaloa||81126|25|81126||27|011|2668|Rural|
+81167|El Caracol|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2460|Rural|
+81170|Callejón de Tamazula|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0664|Rural|
+81170|Cubiri (Cubiri del Amole)|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2498|Rural|
+81170|Tamazula|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|0665|Rural|
+81170|Bebelama|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0663|Rural|
+81170|Amole|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0662|Rural|
+81170|Buen Retiro (El Retiro)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2461|Rural|
+81175|Las Cañadas 1|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2462|Rural|
+81176|Las Culebras|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|2246|Rural|
+81176|Las Flores|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|2206|Rural|
+81177|Las Higueras (Las Flores)|Poblado comunal|Guasave|Sinaloa||81001|25|81001||27|011|2463|Rural|
+81178|Palos Verdes|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0667|Rural|
+81178|Casa Blanca|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0666|Rural|
+81178|San Pascual|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|2708|Rural|
+81180|San Rafael|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0670|Rural|
+81180|Pichihuila|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0669|Rural|
+81180|El Pochote (Potrerillos)|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|2711|Rural|
+81180|Los Capomos|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0668|Rural|
+81180|El Serranito|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|2204|Rural|
+81180|Palmarito de los Angulo|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|2294|Rural|
+81181|Francisco R Serrano|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0671|Rural|
+81182|Las Américas|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0672|Rural|
+81183|Choipa Dos|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|2205|Rural|
+81183|Choipa|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2465|Rural|
+81183|Herculano de la Rocha|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2464|Rural|
+81186|Las Brisas (Emiliano Zapata)|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2466|Rural|
+81189|Javier Rojo Gómez|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2499|Rural|
+81189|Vicente Guerrero|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|2467|Rural|
+81189|El Pitahayal|Ranchería|Guasave|Sinaloa||81001|25|81001||29|011|0673|Rural|
+81190|La Brecha|Estación|Guasave|Sinaloa||81001|25|81001||16|011|0674|Rural|
+81190|San José de La Brecha|Ejido|Guasave|Sinaloa||81001|25|81001||15|011|0675|Rural|
+81197|Boca Del Rio|Pueblo|Guasave|Sinaloa||81001|25|81001||28|011|2203|Rural|

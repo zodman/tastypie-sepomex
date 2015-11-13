@@ -1,0 +1,101 @@
+50640|La Tenería|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|9686|Urbano|
+50640|San Felipe del Progreso Centro|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|0630|Rural|
+50643|José María Morelos|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|9513|Urbano|
+50646|Las Colonias|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|9515|Urbano|
+50653|Guadalupe|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|7124|Rural|
+50653|San Juan Jalpa Centro|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|7126|Urbano|
+50653|Tunal Nenaxi|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0641|Rural|
+50653|La Esperanza|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|7123|Rural|
+50653|La Cabecera|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0624|Rural|
+50653|El Agostadero Ejido de San Juan Jalpa|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6931|Rural|
+50653|Flor de María|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|7125|Rural|
+50653|San Isidro Nenaxi|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|8210|Rural|
+50654|San Juan Jalpa|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0634|Rural|
+50654|Plateros Palmillas|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|7127|Rural|
+50655|San Lucas Ocotepec|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0635|Rural|
+50655|Calvario Buenavista|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0617|Rural|
+50655|La Concepción Chico (El Centro)|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6940|Rural|
+50655|Concepción|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0625|Rural|
+50655|Palmillas|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0627|Rural|
+50655|Guadalupe, San Lucas Ocotepec|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|7134|Rural|
+50655|El Carmen Ocotepec|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0618|Rural|
+50656|Ejidal|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|8475|Rural|
+50656|El Tunal|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0622|Rural|
+50656|El Obraje|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0649|Rural|
+50680|Emilio Portes Gil|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0623|Rural|
+50683|Tungareo Ejido de Emilio Portes Gil|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6928|Rural|
+50683|Tepetitlán Emilio Portes Gil|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6927|Rural|
+50683|Palmillas|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|7128|Rural|
+50684|Tierra Blanca, Ejido de San Pedro el Alto|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7154|Rural|
+50684|San Pedro el Chico|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0650|Rural|
+50684|San Pedro el Alto|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0639|Rural|
+50684|Las Ánimas, Ejido de San Pedro el Alto|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7153|Rural|
+50684|San José, Ejido de San Pedro el Alto|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7152|Urbano|
+50685|San Jerónimo Mavatí|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0632|Rural|
+50685|San Nicolás Mavatí|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0636|Rural|
+50685|La Virgen|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|7150|Rural|
+50685|Fresno Nichi|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0621|Rural|
+50685|Las Presas|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7149|Rural|
+50685|Charcos Azules de la Luna del Fresno Nichi|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6930|Rural|
+50685|Cerro de la Luna de la Luna del Fresno Nichi|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7151|Rural|
+50686|San Antonio de las Huertas|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0716|Rural|
+50686|Las Palomas, Santa Ana Nichi|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6934|Rural|
+50686|San Miguel la Labor|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0717|Rural|
+50686|Monte Alto|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7145|Rural|
+50686|Tres Estrellas|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0721|Rural|
+50686|San Juan Coté Centro|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0633|Rural|
+50686|Santa Ana Nichi|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0719|Rural|
+50686|Santa Ana Nichi Centro|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|0720|Rural|
+50686|El Llano Santa Ana Nichi Ejido|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7147|Rural|
+50686|San Juan Coté|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0001|Rural|
+50686|Guadalupe Coté|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0651|Rural|
+50686|Agua Zarca Nichi|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6922|Rural|
+50686|La Virgen San Pedro el Alto|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0722|Rural|
+50687|San Antonio Mextepec|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0629|Rural|
+50687|San Agustín Mextepec|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0628|Rural|
+50687|San Jerónimo Bonchete|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0631|Rural|
+50687|Dolores Hidalgo|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0620|Rural|
+50687|Vicente Guerrero|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|7136|Rural|
+50687|La Constitución, San Antonio Mextepec|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|7141|Rural|
+50687|Santa Cruz Mextepec|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0640|Rural|
+50690|Encinillas de San Antonio la Ciénega|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6932|Rural|
+50693|Estutempan|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6933|Rural|
+50693|Purísima Concepción Mayorazgo (Mayorazgo)|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0626|Rural|
+50693|Santa Cruz de San Pablo Tlalchichilpa|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7122|Rural|
+50694|Calvario del Carmen|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0714|Rural|
+50694|Mesa de la Agüita|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|7142|Rural|
+50694|Mesa del Picacho|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7143|Rural|
+50694|Ampliación de San Antonio la Ciénega|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6937|Rural|
+50694|Santa Cruz, San Pedro el Alto|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6939|Rural|
+50694|La Presa|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7144|Rural|
+50694|Barrio San Francisco San Nicolás Guadalupe|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|9579|Rural|
+50694|San Pedro Calvario del Carmen|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7140|Rural|
+50694|San Nicolás Guadalupe|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0718|Rural|
+50694|La Virgen|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0723|Rural|
+50694|Zaragoza Fresno Nichí|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6929|Rural|
+50694|Dios Padre|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0675|Rural|
+50695|La Ciénega|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|0711|Rural|
+50695|La Manzana|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|7138|Rural|
+50695|El Salto San Antonio la Ciénega|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6938|Rural|
+50695|Boreje de San Antonio la Ciénega|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6923|Rural|
+50695|Chichilpa|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|7133|Rural|
+50695|La Cañada San Antonio la Ciénega|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7137|Rural|
+50695|San Antonio la Ciénega (La Rosa)|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0712|Rural|
+50695|La Soledad|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|0715|Rural|
+50695|Emiliano Zapata|Colonia|San Felipe del Progreso|México||50641|15|50641||09|074|7132|Rural|
+50696|San Juan Evangelista|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0708|Rural|
+50696|Rioyos Buenavista|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0706|Rural|
+50696|La Mesa, Rioyos Buenavista|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|7130|Rural|
+50696|Ejido de Tlanchichilpa|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|0644|Rural|
+50696|La Carrera|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6935|Rural|
+50696|Tlalchichilpa|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|0643|Rural|
+50696|Chichilpa|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0697|Rural|
+50696|Dotegiare|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0695|Rural|
+50696|San Juan Rioyos|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|7129|Rural|
+50697|San Francisco Tlalchichilpa|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6925|Rural|
+50697|Santa Rita de la Cuesta|Ejido|San Felipe del Progreso|México||50641|15|50641||15|074|0647|Rural|
+50697|La Era San Pablo Tlalchichilpa|Barrio|San Felipe del Progreso|México||50641|15|50641||02|074|6924|Rural|
+50697|San Pablo Tlalchichilpa|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0637|Rural|
+50697|Rincón de los Pirules|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0645|Rural|
+50697|Choteje|Pueblo|San Felipe del Progreso|México||50641|15|50641||28|074|0619|Rural|
+50697|Rosa del Calvario|Ranchería|San Felipe del Progreso|México||50641|15|50641||29|074|6936|Rural|

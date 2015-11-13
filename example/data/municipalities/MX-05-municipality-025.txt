@@ -1,0 +1,189 @@
+26000|Piedras Negras Centro|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0716|Urbano|06
+26010|Francisco I Madero|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0719|Urbano|06
+26010|El Pocito|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2422|Urbano|06
+26010|Mundo Nuevo|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0721|Urbano|06
+26010|Zaragoza|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1698|Urbano|06
+26010|Las Fuentes|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0720|Urbano|06
+26010|Claustro las Fuentes|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1702|Urbano|06
+26013|Villa Fontana|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3251|Urbano|06
+26013|Las Misiones|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3253|Urbano|06
+26014|Campo Verde|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0724|Urbano|06
+26015|Ejido Piedras Negras|Ejido|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||15|025|0774|Urbano|06
+26015|Los Montes|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|2908|Urbano|06
+26015|Los Laureles|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|0001|Urbano|06
+26015|Los Pinos|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2919|Urbano|06
+26015|Los Montes V|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2923|Urbano|06
+26015|Nueva Imagen|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1729|Urbano|06
+26015|Guadalupe|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2613|Urbano|06
+26015|Los Montes IV|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3140|Urbano|06
+26015|Lázaro Cárdenas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0725|Urbano|06
+26015|El Cenizo|Ejido|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||15|025|2417|Urbano|06
+26015|Los Montes II|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3139|Urbano|06
+26015|Ramos Arizpe|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2924|Urbano|06
+26015|Las Américas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3108|Urbano|06
+26015|Los Montes III|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3109|Urbano|06
+26015|Los Montes I|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3110|Urbano|06
+26015|División del Norte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1699|Urbano|06
+26015|Ampliación Tierra y Esperanza|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|1727|Urbano|06
+26015|Los Montes|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1728|Urbano|06
+26016|El Edén|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1694|Urbano|06
+26016|Doña Irma|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2410|Urbano|06
+26016|Emiliano Zapata|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3112|Urbano|06
+26016|Las Malvinas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0726|Urbano|06
+26016|El Noval|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2421|Urbano|06
+26016|Valle del Norte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2420|Urbano|06
+26016|La Hacienda|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3095|Urbano|06
+26016|Valle del Norte|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|2909|Urbano|06
+26016|Hacienda la Luna|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3104|Urbano|06
+26017|San Pedro|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0727|Urbano|06
+26017|Argentinas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2608|Urbano|06
+26017|INFONAVIT Las Fuentes|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3116|Urbano|06
+26017|Río Bravo|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1701|Urbano|06
+26017|División del Norte|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1696|Urbano|06
+26017|Country House|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2406|Urbano|06
+26017|San José|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1700|Urbano|06
+26017|Las Maravillas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1695|Urbano|06
+26017|Lázaro Cárdenas Sector II|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|1697|Urbano|06
+26017|Álamos|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2408|Urbano|06
+26017|Fundadores de La Libertad|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3123|Urbano|06
+26018|Parque Industrial del Norte|Parque industrial|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||26|025|2925|Urbano|06
+26018|La Esperanza|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1692|Urbano|06
+26018|Sector Sanitario|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1691|Urbano|06
+26018|Santa María|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1693|Urbano|06
+26018|La Rancherita|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2915|Urbano|06
+26020|Nísperos|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0730|Urbano|06
+26020|Burócratas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0728|Urbano|06
+26020|La Misión|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2614|Urbano|06
+26020|González|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0729|Urbano|06
+26025|Roma|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0731|Urbano|06
+26030|Bravo|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0732|Urbano|06
+26030|Francisco Villa|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1714|Urbano|06
+26030|Americana|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1704|Urbano|06
+26030|Buenos Aires|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0733|Urbano|06
+26030|Morelos|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0735|Urbano|06
+26030|CROC I|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1705|Urbano|06
+26030|Molcajete|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0734|Urbano|06
+26030|El Maestro|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2611|Urbano|06
+26030|7 Casas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3125|Urbano|06
+26030|Presidentes|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0736|Urbano|06
+26030|La Concha|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2424|Urbano|06
+26033|Ramón Bravo|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2920|Urbano|06
+26033|Ramón Bravo|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|2907|Urbano|06
+26033|Presidentes II|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3128|Urbano|06
+26034|Centenario|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3131|Urbano|06
+26034|Presidentes III|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3129|Urbano|06
+26034|Presidentes IV|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3130|Urbano|06
+26035|Nogalar|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3226|Urbano|06
+26040|Buenavista Norte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0737|Urbano|06
+26040|28 de Junio|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0740|Urbano|06
+26040|Buenavista Sur|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0738|Urbano|06
+26040|San Luis|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0739|Urbano|06
+26050|Ugarte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3126|Urbano|06
+26050|Ampliación Burócratas|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|3124|Urbano|06
+26050|La Toscana|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3127|Urbano|06
+26050|Estadio|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1706|Urbano|06
+26050|Río Grande INF|Unidad habitacional|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||31|025|0742|Urbano|06
+26050|Harold R Pape|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0741|Urbano|06
+26050|Villa de Herrera|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2921|Urbano|06
+26060|Hidalgo|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0745|Urbano|06
+26060|Central|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0744|Urbano|06
+26060|Nueva Vista Hermosa|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0747|Urbano|06
+26060|Vista Hermosa|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0749|Urbano|06
+26060|Juárez|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0746|Urbano|06
+26060|Vista Hermosa|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1708|Urbano|06
+26060|Parque Industrial Piedras Negras|Zona industrial|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||37|025|2618|Urbano|06
+26063|Loma Bonita|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2922|Urbano|06
+26064|Piedra Angular|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3106|Urbano|06
+26064|El Oasis|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3107|Urbano|06
+26068|FSTSE|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1724|Urbano|06
+26068|Las Torres|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0750|Urbano|06
+26068|Ampliación Loma Bonita|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|3122|Urbano|06
+26069|Los Gobernadores|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3097|Urbano|06
+26069|Don Antonio|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1725|Urbano|06
+26069|Los Arcos|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3113|Urbano|06
+26069|Del Valle|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3115|Urbano|06
+26069|Tierra y Esperanza|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1726|Urbano|06
+26069|Privada Blanca|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2407|Urbano|06
+26069|24 de Agosto|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2413|Urbano|06
+26069|Valle Real|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2617|Urbano|06
+26069|SUTERM|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0751|Urbano|06
+26069|Del Lago|Residencial|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||30|025|2609|Urbano|06
+26069|24 de Agosto|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|2910|Urbano|06
+26069|Tierra y Esperanza 2da Etapa|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2916|Urbano|06
+26069|Ampliación Privada Blanca|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|3117|Urbano|06
+26069|Nueva Republica|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3214|Urbano|06
+26069|Plaza Real|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3114|Urbano|06
+26070|Las Delicias|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0754|Urbano|06
+26070|Las Palmas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1709|Urbano|06
+26070|San Felipe Sur|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0757|Urbano|06
+26070|Las Palmas Sector II|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1712|Urbano|06
+26070|ISSSTE|Unidad habitacional|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||31|025|0753|Urbano|06
+26070|Nueva Americana|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1711|Urbano|06
+26070|El Pedregal|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2918|Urbano|06
+26070|Chapultepec|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0752|Urbano|06
+26070|Lomas del Mirador|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0755|Urbano|06
+26070|Venustiano Carranza Sur|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0759|Urbano|06
+26070|Magisterio|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0765|Urbano|06
+26070|Venustiano Carranza Norte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0758|Urbano|06
+26070|Real del Norte|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1710|Urbano|06
+26070|Mirador|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1730|Urbano|06
+26070|San Felipe Norte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0756|Urbano|06
+26073|Periodistas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1716|Urbano|06
+26073|Las Pompas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1713|Urbano|06
+26080|100 Casas|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1721|Urbano|06
+26080|Villa del Carmen|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1731|Urbano|06
+26080|La Constancia|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1719|Urbano|06
+26080|Tecnológico|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0762|Urbano|06
+26080|Los Alamitos|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2412|Urbano|06
+26080|Andrés S. Viesca (100 Casas)|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0763|Urbano|06
+26080|Acoros I|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2793|Urbano|06
+26080|Cumbres|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1720|Urbano|06
+26080|Acoros II|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2794|Urbano|06
+26080|Guillen|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0761|Urbano|06
+26083|Valle de las Flores|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3223|Urbano|06
+26083|Año 2000|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2409|Urbano|06
+26083|Año 2000|Ampliación|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||38|025|2911|Urbano|06
+26085|La Retama|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3120|Urbano|06
+26085|FOVISSSTE|Unidad habitacional|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||31|025|0764|Urbano|06
+26085|Las Canteras Residencial|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3121|Urbano|06
+26086|Villa Real|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3118|Urbano|06
+26086|Jacarandas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3119|Urbano|06
+26088|Esfuerzo Nacional|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0766|Urbano|06
+26088|Town House|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1722|Urbano|06
+26088|Doña Pura|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1723|Urbano|06
+26089|El Vergel|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3133|Urbano|06
+26089|Lomas del Norte|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0767|Urbano|06
+26089|Residencial Colinas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3134|Urbano|06
+26089|Sind. Sección V|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1715|Urbano|06
+26089|Deportivo|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|2610|Urbano|06
+26089|Colinas|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1718|Urbano|06
+26090|Villa de Fuente|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0771|Urbano|06
+26092|Villa de Fuente|Ejido|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||15|025|1732|Urbano|06
+26093|Lomas de La Villa|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3094|Urbano|06
+26093|Villa Campestre|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1733|Urbano|06
+26093|Hijos de Veteranos|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3138|Urbano|06
+26093|Valle Escondido|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1735|Urbano|06
+26093|Sector Uribe|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2917|Urbano|06
+26093|Río Escondido|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|3135|Urbano|06
+26093|Los Compadres|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2912|Urbano|06
+26093|Los Espejos|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|1734|Urbano|06
+26093|San Anselmo|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2913|Urbano|06
+26093|Hacienda de la Laja|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3093|Urbano|06
+26094|San Joaquín|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0770|Urbano|06
+26094|Los Doctores|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0769|Urbano|06
+26094|Altamira|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|0768|Urbano|06
+26094|Del Cap|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|1736|Urbano|06
+26094|San Ramón|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3136|Urbano|06
+26095|Luis Donaldo Colosio|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2414|Urbano|06
+26095|Rubén Jaramillo|Colonia|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||09|025|2415|Urbano|06
+26095|Parque Industrial Aeropuerto|Parque industrial|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||26|025|3137|Urbano|06
+26096|Rincón del Río|Fraccionamiento|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||21|025|3132|Urbano|06
+26099|Piedras Negras, Coahuila|Aeropuerto|Piedras Negras|Coahuila de Zaragoza|Piedras Negras|26001|05|26001||01|025|4239|Urbano|06
+26110|San Isidro|Pueblo|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||28|025|0775|Rural|
+26114|La Navaja|Ranchería|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||29|025|0776|Rural|
+26119|El Centinela|Colonia|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||09|025|0777|Rural|
+26120|El Moral|Congregación|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||11|025|0778|Rural|
+26124|El Moral|Ejido|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||15|025|0779|Rural|
+26133|El Refugio|Ranchería|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||29|025|0780|Rural|
+26137|Casa Roja|Ranchería|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||29|025|0781|Rural|
+26169|Santo Domingo|Ejido|Piedras Negras|Coahuila de Zaragoza||26001|05|26001||15|025|0782|Rural|

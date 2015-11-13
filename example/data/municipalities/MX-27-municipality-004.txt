@@ -1,0 +1,504 @@
+86000|Centro Delegacional 6|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1477|Urbano|02
+86000|Portal Del Agua|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0001|Urbano|02
+86000|Villahermosa Centro|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0002|Urbano|02
+86006|Teléfonos de México S.A. de CV|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0007|Urbano|02
+86007|Secretaria de Hacienda y Crédito Publico|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0008|Urbano|02
+86008|Secretaria de La Reforma Agraria|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0009|Urbano|02
+86009|Palacio de Gobierno Del Estado de Tabasco|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0010|Urbano|02
+86010|Ciudad Industrial|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0011|Urbano|02
+86010|Triangulo Industrial|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1272|Urbano|02
+86010|Fideicomiso Ciudad Industrial|Zona industrial|Centro|Tabasco|Villahermosa|86061|27|86061||37|004|1281|Urbano|02
+86015|Ciudad Industrial III|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1276|Urbano|02
+86016|Las Margaritas|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0014|Urbano|02
+86016|Interés Social 1|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0013|Urbano|02
+86016|El Porvenir 1a Sección|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1277|Rural|02
+86017|Las Garzas|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1486|Urbano|02
+86017|Indeco Unidad|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0015|Urbano|02
+86017|Jardines Del Sol|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1279|Urbano|02
+86017|Cosmos|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1280|Urbano|02
+86017|Cosmos II|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2658|Urbano|02
+86017|La Pigua|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1278|Urbano|02
+86018|Infonavit|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0016|Urbano|02
+86019|Laguna de Mecoacan|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2517|Urbano|02
+86019|Lagunas|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1262|Urbano|02
+86019|Olmeca|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1263|Urbano|02
+86019|Vicente Guerrero|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1487|Semiurbano|02
+86019|Francisco Villa|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1568|Urbano|02
+86019|Ciudad Induistrial 2da Etapa|Zona industrial|Centro|Tabasco|Villahermosa|86061|27|86061||37|004|2605|Urbano|02
+86019|Villa de las Flores|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0018|Urbano|02
+86019|Privada de Lagunas del Maurel|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2612|Urbano|02
+86019|Insurgentes|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0017|Urbano|02
+86019|San José|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2514|Urbano|02
+86019|Lagunas de San José|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2548|Urbano|02
+86020|El Recreo|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0020|Urbano|02
+86020|Framboyanes|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0021|Urbano|02
+86025|Universidad Autónoma de Tabasco|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0023|Urbano|02
+86026|Las Golondrinas Priv.|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0024|Urbano|02
+86026|Las Torres|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1283|Urbano|02
+86026|Valle Marino|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1257|Urbano|02
+86026|Villa de las Palmas|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0025|Urbano|02
+86027|Jardines de Villahermosa|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0026|Urbano|02
+86027|Golondrinas|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1488|Urbano|02
+86029|Los Caracoles|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1284|Urbano|02
+86029|Jose Maria Pino Suárez|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0028|Urbano|02
+86029|Tierra Colorada|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0029|Urbano|02
+86030|Heriberto Kehoe Vicent|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0032|Urbano|02
+86030|Prados de Villahermosa|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0034|Urbano|02
+86030|Bosques de Villahermosa|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1493|Urbano|02
+86030|Bonanza|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0030|Urbano|02
+86030|Nance|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1494|Urbano|02
+86030|Comisión Federal de Electricidad|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0031|Urbano|02
+86030|Oropeza|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0033|Urbano|02
+86030|Flamingos|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|1286|Urbano|02
+86030|Nueva Imagen|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|1490|Urbano|02
+86034|Palacio Municipal|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0037|Urbano|02
+86035|La Hacienda|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1288|Urbano|02
+86035|Paseos Del Usumacinta|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0040|Urbano|02
+86035|Galaxia|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0085|Urbano|02
+86035|Club de Lago|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1522|Urbano|02
+86035|La Gran Villa|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2601|Urbano|02
+86035|Los Ríos|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1492|Urbano|02
+86035|Galaxia/tabasco 2000|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0038|Urbano|02
+86035|Multiochenta|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1495|Urbano|02
+86035|Villas Del Campestre|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1521|Urbano|02
+86035|Real de Tabasco|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1527|Urbano|02
+86035|Real de Minas|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1289|Urbano|02
+86035|Villa de los Ríos|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|1287|Urbano|02
+86037|Fovissste 4a Sección Carrizal|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|1491|Urbano|02
+86037|Club Campestre|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0042|Urbano|02
+86037|Parque Tabasco|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1290|Urbano|02
+86037|La Choca|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1294|Urbano|02
+86038|Fovissste 4a Etapa|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0044|Urbano|02
+86038|El Cedro|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1292|Rural|02
+86038|Carrizal|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0043|Urbano|02
+86039|Sol Campestre|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2550|Urbano|02
+86039|El Country|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1520|Urbano|02
+86039|Residencial las Puertas|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|2569|Urbano|02
+86039|Las Torres|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1293|Urbano|02
+86039|Puerta de Hierro|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|2599|Urbano|02
+86040|Magisterial|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0052|Urbano|02
+86040|Adolfo Lopez Mateos|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0047|Urbano|02
+86040|Florida|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0048|Urbano|02
+86040|Jesús Garcia|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0049|Urbano|02
+86040|Lidia Esther Mónica de Portilla|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0051|Urbano|02
+86040|Lago Ilusiones|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0050|Urbano|02
+86049|Villahermosa (Cap. P. A. Carlos Rovirosa)|Aeropuerto|Centro|Tabasco|Villahermosa|86061|27|86061||01|004|0054|Urbano|02
+86050|Jose N Rovirosa|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0055|Urbano|02
+86050|Loma Linda|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0058|Urbano|02
+86050|Paseo las Palmas|Conjunto habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||12|004|1168|Urbano|02
+86050|Lindavista|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0056|Urbano|02
+86050|Loma Bonita|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0057|Urbano|02
+86050|Álvaro Obregón|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1478|Urbano|02
+86058|Fovissste 3a Etapa|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0059|Urbano|02
+86059|Periodista|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0060|Urbano|02
+86060|Casa Blanca 2a Sección|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1485|Urbano|02
+86060|Casa Blanca 1a Sección|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0061|Urbano|02
+86060|Fovissste Casa Blanca|Condominio|Centro|Tabasco|Villahermosa|86061|27|86061||10|004|1299|Urbano|02
+86060|Brisas Del Grijalva|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1297|Semiurbano|02
+86067|Gaviotas Norte Sector Popular|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0063|Urbano|02
+86068|Gaviotas Norte|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0064|Urbano|02
+86068|La Manga III|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1301|Urbano|02
+86068|Cedros|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1302|Urbano|02
+86068|La Manga II|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1300|Urbano|02
+86069|La Manga I|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0065|Urbano|02
+86070|Nueva Villahermosa|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0066|Urbano|02
+86073|Centro Delegacional 5|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1476|Urbano|02
+86077|Centro Delegacional 2|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1473|Urbano|02
+86077|Centro Delegacional 1|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1472|Urbano|02
+86077|Centro Delegacional 3|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1474|Urbano|02
+86077|Centro Delegacional 4|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1475|Urbano|02
+86079|Arboledas|Conjunto habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||12|004|0067|Urbano|02
+86080|Reforma|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0069|Urbano|02
+86080|Gil y Sáenz (El Águila)|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0068|Urbano|02
+86086|DIR Gral. de Servicios Coordinados de Educación Publica|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0070|Urbano|02
+86087|Secretaria de La Defensa Nacional|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0071|Urbano|02
+86088|Procuraduría General de Justicia|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0072|Urbano|02
+86090|Gaviotas Norte Sector Explanada|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1304|Urbano|02
+86090|Municipal|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0076|Urbano|02
+86090|Guayabal|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0074|Urbano|02
+86090|Gaviotas Sur Sección San Jose|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0075|Urbano|02
+86095|Las Brisas|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0077|Urbano|02
+86096|El Parque|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0078|Urbano|02
+86097|Los Tulipanes|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0079|Urbano|02
+86098|Mayito|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0080|Urbano|02
+86099|Triunfo La Manga 3|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1471|Urbano|02
+86099|Triunfo la Manga I|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|2597|Urbano|02
+86099|Gaviotas Sur Sector Armenia|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1306|Urbano|02
+86099|Triunfo La Manga 2|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|1470|Urbano|02
+86100|Residencial Villas del Sol|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|2616|Urbano|02
+86100|Brisa del Usumacinta|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2663|Urbano|02
+86100|Atasta|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0082|Urbano|02
+86100|Jose Colomo|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0083|Urbano|02
+86100|Alcatraz|Conjunto habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||12|004|2540|Urbano|02
+86103|Miguel Hidalgo 1a Secc|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1188|Semiurbano|02
+86105|Flores Del Trópico|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1312|Semiurbano|02
+86107|Aurora|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1316|Urbano|02
+86107|Militar|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0086|Urbano|02
+86107|España|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1313|Urbano|02
+86107|Tucanes las Quintas|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1317|Urbano|02
+86108|Los Álamos|Conjunto habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||12|004|1320|Urbano|02
+86108|El Espejo 1|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0088|Urbano|02
+86108|Carrizal|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1452|Urbano|02
+86108|Villa de los Trabajadores|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1321|Urbano|02
+86108|Virginia|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1319|Urbano|02
+86108|Real Usumacinta|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1479|Urbano|02
+86109|Villas Del Bosque|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1323|Urbano|02
+86109|El Espejo 2|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0089|Urbano|02
+86109|La Joya|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1322|Urbano|02
+86120|Guadalupe Borja|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0091|Urbano|02
+86125|Jose Pages Llergo|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0092|Urbano|02
+86126|Real Hidalgo|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1576|Urbano|02
+86126|Lomas de Bella Vista|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2520|Urbano|02
+86126|Nueva Invitab|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0095|Urbano|02
+86126|Buena Vista|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1578|Urbano|02
+86126|Hacienda Buena Vista|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2513|Urbano|02
+86126|Joyas de Buena Vista|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2516|Urbano|02
+86126|Manuel Andrade Díaz|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2652|Urbano|02
+86126|Islas Del Mundo|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1135|Urbano|02
+86126|Santa Elena|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1324|Urbano|02
+86126|Villa las Torres|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1575|Urbano|02
+86126|Benito Juárez|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1327|Urbano|02
+86126|Carlos A Madrazo|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1043|Urbano|02
+86127|Miguel Hidalgo 2a Sección|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1330|Rural|02
+86127|Rio Viejo|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|1540|Urbano|02
+86127|Rio Viejo 2a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1328|Rural|02
+86127|Jardines de Buenavista|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2636|Urbano|02
+86127|Edificio Del Rio Viejo|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1539|Urbano|02
+86127|Macuili|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2489|Urbano|02
+86127|Proclama|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2515|Urbano|02
+86127|Rio Viejo 3a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1329|Rural|02
+86127|Miguel Hidalgo 1a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1483|Semiurbano|02
+86127|Olimpo|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|1538|Urbano|02
+86127|Miguel Hidalgo 2a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1189|Semiurbano|02
+86127|Rio Viejo 1a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1267|Rural|02
+86127|La Ceiba|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1544|Urbano|02
+86127|Bonampak|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2637|Urbano|02
+86128|Miguel Hidalgo|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1269|Semiurbano|02
+86129|Cotip|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0096|Urbano|02
+86130|Artesanos Infonavit|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0097|Urbano|02
+86130|Palmitas|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|1331|Urbano|02
+86130|Villa de los Arcos|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0098|Urbano|02
+86137|Vista Alegre|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0099|Urbano|02
+86139|Infonavit 2da Secc|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0101|Urbano|02
+86139|Infonavit 3a Secc|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0102|Urbano|02
+86140|Las Delicias|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0104|Urbano|02
+86140|18 de Marzo|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0103|Urbano|02
+86140|Revolución I y II|Conjunto habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||12|004|1333|Urbano|02
+86143|Los Huerta Ixtacomitan|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1484|Semiurbano|02
+86143|Los Robles|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|2606|Urbano|02
+86143|Privada La Mandarina|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1541|Urbano|02
+86143|Invitab Miguel Hidalgo|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1482|Semiurbano|02
+86143|Palma Real|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1335|Semiurbano|02
+86143|Paso Real|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|1532|Urbano|02
+86143|Miguel Hidalgo 5a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1190|Semiurbano|02
+86143|Ixtacomitán 1ra. Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1268|Semiurbano|02
+86144|Ixtacomitan 4a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1338|Semiurbano|02
+86144|Ixtacomitan 2a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1339|Semiurbano|02
+86149|Nueva Pensiones|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0105|Urbano|02
+86150|Jardines Del Sur I y II|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1340|Urbano|02
+86150|Punta Brava|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0106|Urbano|02
+86150|Santa Karla II|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2495|Urbano|02
+86150|Tamulte de las Barrancas|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0107|Urbano|02
+86153|Real del Angel|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1344|Urbano|02
+86153|América|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2542|Urbano|02
+86153|El Edén|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1523|Urbano|02
+86153|Edén Premier|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2593|Urbano|02
+86153|Popular Pedro C Colorado|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1342|Urbano|02
+86153|Lomas Del Dorado|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1343|Urbano|02
+86153|Ixtacomitan 3a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1345|Semiurbano|02
+86153|Real Del Porvenir|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1514|Semiurbano|02
+86153|Real de Sabina|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1524|Urbano|02
+86153|Sabina|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1341|Urbano|02
+86153|Real de San Jorge|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1567|Urbano|02
+86153|San Jorge III|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2518|Urbano|02
+86153|San José|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2662|Urbano|02
+86160|Del Bosque|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0108|Urbano|02
+86160|Sanchez Magallanes|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0109|Urbano|02
+86167|Villa las Fuentes|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1265|Urbano|02
+86168|Pino Suárez|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0111|Urbano|02
+86169|Pensiones|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0112|Urbano|02
+86170|Militar|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1346|Urbano|02
+86170|La Gloria|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1554|Urbano|02
+86170|Plutarco Elias Calles Cura Hueso|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1348|Semiurbano|02
+86170|Real Del Sur|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1347|Urbano|02
+86170|Blancas Mariposas|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1557|Urbano|02
+86170|Loma Real|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2610|Urbano|02
+86170|Fovissste 2a Etapa|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0113|Urbano|02
+86170|Plaza Jardín|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1515|Urbano|02
+86179|Plaza Villahermosa|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0114|Urbano|02
+86180|Fovissste 1a Etapa|Unidad habitacional|Centro|Tabasco|Villahermosa|86061|27|86061||31|004|0115|Urbano|02
+86180|Bugambilias|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1264|Urbano|02
+86180|Guadalupe|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0116|Urbano|02
+86189|Deportiva Residencial|Residencial|Centro|Tabasco|Villahermosa|86061|27|86061||30|004|0118|Urbano|02
+86190|Palmeira|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|2576|Urbano|02
+86190|Primero de Mayo|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|0120|Urbano|02
+86190|Marcos Buendia|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0119|Urbano|02
+86190|Residencial Esmeralda|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|0035|Urbano|02
+86191|Centro Sct Tabasco|Gran usuario|Centro|Tabasco|Villahermosa|86061|27|86061||22|004|0121|Urbano|02
+86193|La Providencia (La Majahua)|Colonia|Centro|Tabasco|Villahermosa|86061|27|86061||09|004|1351|Semiurbano|02
+86193|Parrilla II|Fraccionamiento|Centro|Tabasco|Villahermosa|86061|27|86061||21|004|1352|Semiurbano|02
+86194|Parrilla 4a Sección los Acosta|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1353|Rural|02
+86195|Parrilla 2a Sección Guapinol|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1354|Semiurbano|02
+86195|Parrilla 1a Sección|Ranchería|Centro|Tabasco|Villahermosa|86061|27|86061||29|004|1355|Semiurbano|02
+86250|Macultepec|Villa|Centro|Tabasco||86252|27|86252||32|004|0183|Semiurbano|
+86250|Tamulte de las Sabanas Real|Villa|Centro|Tabasco||86252|27|86252||32|004|0184|Semiurbano|
+86250|La Ceiba|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1757|Semiurbano|
+86250|Encrucijada|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1097|Rural|
+86250|Aniceto|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1642|Rural|
+86250|Jolochero (Boca de Culebra)|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2252|Rural|
+86250|Villa Unión|Villa|Centro|Tabasco||86252|27|86252||32|004|0186|Semiurbano|
+86250|Alambrada|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1035|Semiurbano|
+86250|Reforma|Colonia|Centro|Tabasco||86252|27|86252||09|004|1534|Semiurbano|
+86250|Buena Vista 2da. Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0182|Rural|
+86250|Tercer Milenio|Conjunto habitacional|Centro|Tabasco||86252|27|86252||12|004|2642|Urbano|
+86250|Santa Isabel|Colonia|Centro|Tabasco||86252|27|86252||09|004|2641|Urbano|
+86250|Tocoal|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0185|Rural|
+86253|Estancia|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0189|Rural|
+86253|Estancia 3a Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1104|Rural|
+86253|La Loma|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2255|Rural|
+86253|Estancia 1a Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1102|Rural|
+86253|La Estancia Vieja|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1105|Rural|
+86253|Estancia 2a Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1103|Rural|
+86254|Chilapa Margen Izquierda 1a Sección|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1639|Rural|
+86254|Buena Vista 1a Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2235|Rural|
+86254|Miramar|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0190|Rural|
+86255|Rovirosa|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1638|Rural|
+86255|Buena Vista 3a Sección (Boca de Escoba)|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2236|Rural|
+86255|La Manga|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1659|Rural|
+86255|Acachapan y Colmena 5a Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1637|Rural|
+86255|Aztlán 4a Sección (Chocho y Chilapilla)|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1636|Rural|
+86255|Aztlán 5ta. Sección (Palomillal)|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1635|Rural|
+86256|3er. Milenio|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|2639|Urbano|
+86257|El Espino|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1632|Rural|
+86257|La Arena|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1633|Rural|
+86257|El Manguito|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1634|Rural|
+86270|Las Rosas|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1170|Semiurbano|
+86270|Medellín y Madero 3a Secc|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2263|Rural|
+86270|Medellin y Madero 2a Secc|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0192|Rural|
+86270|Paso Real de La Victoria|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1206|Semiurbano|
+86270|Carlos Pellicer|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1555|Rural|
+86270|Medellín y Madero 4ta. Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2264|Rural|
+86270|Carlos Pellicer Camara 2da Etapa|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|2512|Rural|
+86270|Lomas Del Encanto|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1083|Semiurbano|
+86270|Lomas de Ocuiltzapotlan|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1177|Semiurbano|
+86270|Tierra Amarilla 2a Sección (El Amatón)|Ranchería|Centro|Tabasco||86252|27|86252||29|004|1641|Rural|
+86270|Tierra Amarilla 3ra Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0003|Rural|
+86270|La Ceiba|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1552|Rural|
+86270|Jolochero 2da. Sección|Ranchería|Centro|Tabasco||86252|27|86252||29|004|0191|Rural|
+86270|Medellín y Madero 1a Secc|Ranchería|Centro|Tabasco||86252|27|86252||29|004|2262|Rural|
+86270|Colinas de Santo Domingo|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|2492|Rural|
+86270|Ocuiltzapotlan|Villa|Centro|Tabasco||86252|27|86252||32|004|0193|Semiurbano|
+86270|Isset|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1136|Semiurbano|
+86270|Kilómetro 15 Induvitab|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1148|Semiurbano|
+86270|Los Angeles|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|1533|Semiurbano|
+86270|Real de Diamante|Fraccionamiento|Centro|Tabasco||86252|27|86252||21|004|3053|Rural|
+86271|Lagartera|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0194|Rural|
+86272|Tierra Amarilla 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0195|Rural|
+86273|El Novillo|Pueblo|Centro|Tabasco||86252|27|86252||28|004|1640|Rural|
+86274|Ismate y Chilpilla 1a (San Antonio)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2251|Rural|
+86274|Las Matillas 4a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2260|Rural|
+86274|Chilapilla 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0196|Rural|
+86274|Las Matillas|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0232|Rural|
+86274|Ismate y Chilapilla 2a Sección (Jahuactillo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1665|Rural|
+86274|Sabanas Nuevas|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0200|Rural|
+86274|Chiquiguao 2da. Sección (Chiquiguaíto)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2241|Rural|
+86274|La Vuelta (laguna)|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1666|Rural|
+86274|Ismate y Chilapilla 2a Sección (Zapotal)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1664|Rural|
+86274|Chacte|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2240|Rural|
+86274|Las Matillas (San Antonio)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2259|Rural|
+86274|Chiquiguao 1ra. Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0233|Rural|
+86275|La Manga 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2256|Semiurbano|
+86275|Pajonal|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2272|Rural|
+86275|2 Montes|Pueblo|Centro|Tabasco||86061|27|86061||28|004|0209|Semiurbano|
+86275|La Cruz del Bajío|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1756|Rural|
+86275|La Palma|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1650|Rural|
+86276|Boca de Guanal|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1648|Rural|
+86276|Acachapan y Colmena 2da. Sección (La Arena)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0201|Rural|
+86276|Medellin y Pigua 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0225|Rural|
+86276|Lagartera 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2257|Rural|
+86276|Barrancas y Guanal 2a Sección (González)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1647|Rural|
+86276|El Zapotal|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2247|Rural|
+86276|Lagartera 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2258|Rural|
+86276|Medellín y Pigua 4a Secc (El Aguacate)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2265|Rural|
+86276|La Huerta|Residencial|Centro|Tabasco||86061|27|86061||30|004|2626|Urbano|
+86276|Acachapan y Colmena 2a (El Maluco)|Ejido|Centro|Tabasco||86061|27|86061||15|004|2225|Rural|
+86277|Acachapan y Colmena 4a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0198|Rural|
+86277|Acachapan y Colmena 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0197|Rural|
+86277|Aztlán 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0199|Rural|
+86277|Jornaleros y Aparceros Del Maluco|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1643|Rural|
+86277|Majagual Matillas|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1646|Rural|
+86277|Aztlán 1a Sección (Sector La Piedad)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1645|Rural|
+86277|Acachapan y Colmena 7a Sección (el Agricultor)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1644|Rural|
+86278|Boca de Aztlán|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1661|Rural|
+86278|Aztlán 2da. Sección el Cuy|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1663|Rural|
+86278|Aztlán 3a Sección (Jahuacte)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1662|Rural|
+86280|Buena Vista Río Nuevo 1ra. Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0205|Rural|
+86280|Corregidora Ortiz 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0206|Rural|
+86280|Gonzalez 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0211|Rural|
+86280|Ixtacomitan 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1140|Semiurbano|
+86280|J A Sibilla Zurita|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1141|Semiurbano|
+86280|Nuevo Tabasco|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1194|Semiurbano|
+86280|Río Viejo|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1228|Semiurbano|
+86280|Corregidora Ortiz 4a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2246|Semiurbano|
+86280|Residencial Puerta Real|Residencial|Centro|Tabasco||86061|27|86061||30|004|2490|Semiurbano|
+86280|Anona y Tintillo 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0203|Rural|
+86280|Corregidora Ortiz 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0207|Rural|
+86280|Luis Gil Perez|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0215|Rural|
+86280|Carlos A Madrazo|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1044|Semiurbano|
+86280|Platano y Cacao 4a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2273|Rural|
+86280|Chichicaste|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2609|Urbano|
+86280|Hacienda Esmeralda|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2523|Semiurbano|
+86280|Las Giraldas|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2624|Urbano|
+86280|Medellin y Pigua 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0216|Rural|
+86280|Ángeles Ixtacomitan|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2611|Urbano|
+86280|Agraria|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0202|Semiurbano|
+86280|Gonzalez 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0212|Rural|
+86280|Lázaro Cárdenas 1a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0214|Rural|
+86280|Rio Viejo 4a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0222|Rural|
+86280|Las Hadas|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2496|Semiurbano|
+86280|Américas|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2613|Urbano|
+86280|Los Mezquites|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2634|Urbano|
+86280|Gonzalez 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0210|Rural|
+86280|La Parrilla 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0213|Semiurbano|
+86280|Las Lomas|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2582|Rural|
+86280|Hacienda Casa Blanca|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2635|Urbano|
+86280|Hacienda Casa Blanca II|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2657|Urbano|
+86280|Corregidora Ortiz 5a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0208|Rural|
+86280|Pablo L Sidar|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0217|Rural|
+86280|Plátano y Cacao|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0218|Rural|
+86280|Plátano y Cacao 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0219|Rural|
+86280|Plátano y Cacao 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0220|Rural|
+86280|Plátano y Cacao 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0221|Rural|
+86280|Amaton|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1649|Rural|
+86280|Buena Vista Río Nuevo 4a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2239|Semiurbano|
+86280|Real del Valle|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2614|Urbano|
+86281|Los Pinos|Colonia|Centro|Tabasco||86061|27|86061||09|004|0005|Urbano|
+86281|Alfa y Omega|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|0004|Urbano|
+86281|Medellin y Pigua 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0224|Rural|
+86281|Samarkanda|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1469|Rural|
+86281|San Ángel|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1717|Rural|
+86281|Acachapan y Colmena 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0223|Rural|
+86283|Guineo 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0228|Rural|
+86283|Los Gansos|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2645|Rural|
+86283|Estancia Vieja 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0227|Rural|
+86283|Buena Vista Río Nuevo 3a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2238|Rural|
+86283|Río Tinto 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2275|Rural|
+86283|Buena Vista Río Nuevo 2a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2237|Rural|
+86283|González 4a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2250|Rural|
+86283|Río Tinto 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2276|Rural|
+86283|Rio Tinto 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0229|Rural|
+86283|Estancia Vieja 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2248|Rural|
+86283|Pablo L. Sidar (La Aurora)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2271|Rural|
+86284|El Amate|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1078|Rural|
+86284|Gaviotas Sur (El Cedral)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1671|Rural|
+86284|Las Gaviotas Sur 5a Sección (El Monal)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1672|Rural|
+86284|Residencial Lomas de Parrilla Huapinol|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1721|Semiurbano|
+86284|Santa Cecilia (los Músicos)|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1737|Semiurbano|
+86284|Santa Fe 1 2 y 3ra Sección|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1738|Semiurbano|
+86284|Fovissste Kilómetro 9|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1115|Semiurbano|
+86284|Popular Manuel Silva|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2623|Urbano|
+86284|Villa Parrilla|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2589|Rural|
+86284|San Manuel|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2620|Urbano|
+86284|Torno Largo 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0230|Rural|
+86284|Campestre Parrilla|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1042|Semiurbano|
+86284|Chilam Balam|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1720|Semiurbano|
+86284|Monte Líbano Km. 10.5|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1736|Semiurbano|
+86284|Juchimán|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1754|Semiurbano|
+86284|Casas Para Todos|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1045|Semiurbano|
+86284|Parrilla|Villa|Centro|Tabasco||86061|27|86061||32|004|1204|Semiurbano|
+86284|Unión Hace La Fuerza|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1256|Semiurbano|
+86284|Gaviotas Sur 2a Sección|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1670|Rural|
+86284|El Árbol 1ra|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1719|Semiurbano|
+86284|Villa Floresta|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1548|Semiurbano|
+86284|El Paraíso|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1556|Rural|
+86284|Jardines de Huapinol|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1722|Semiurbano|
+86284|Casa del Árbol|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2541|Urbano|
+86284|Huapinol|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1127|Semiurbano|
+86284|Infonavit Parrilla|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1131|Semiurbano|
+86284|Policía y Transito|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1215|Semiurbano|
+86285|Izmate y Chilapilla 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0231|Rural|
+86285|Corozal|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1566|Rural|
+86287|Anacleto Canabal 1ra. Sección|Colonia|Centro|Tabasco||86061|27|86061||09|004|1310|Rural|
+86287|Lázaro Cárdenas 2a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1658|Rural|
+86287|Anacleto Canabal 2da. Sección|Colonia|Centro|Tabasco||86061|27|86061||09|004|1660|Urbano|
+86287|Lázaro Cárdenas 2a (21 de Marzo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2261|Rural|
+86287|Puerta Grande|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2617|Urbano|
+86287|Santa Catalina|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1657|Rural|
+86287|Corregidora Ortiz 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0236|Rural|
+86287|Anacleto Canabal 3ra. Sección|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1675|Urbano|
+86287|Anacleto Canabal 4ta. Sección|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1676|Urbano|
+86287|Logístico Industrial Tabasco|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2595|Urbano|
+86288|Espinoza Galindo|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1099|Semiurbano|
+86288|La Parrilla 2a Secc La Lima|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0237|Semiurbano|
+86288|Hacienda Del Sol|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1547|Semiurbano|
+86288|El Encanto|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2584|Rural|
+86288|Villa los Claustros|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1550|Semiurbano|
+86288|Santa Bárbara|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2491|Semiurbano|
+86288|La Lima|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1156|Semiurbano|
+86288|La Venta|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2561|Urbano|
+86288|27 de Octubre|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2608|Urbano|
+86288|Las Mercedes|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1517|Semiurbano|
+86288|Topacio|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2511|Semiurbano|
+86288|El Almendro|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1549|Semiurbano|
+86288|Playas Del Rosario|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1214|Semiurbano|
+86289|El Manzano|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|1086|Semiurbano|
+86289|La Agraria|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1149|Semiurbano|
+86289|Villa Unión|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1551|Rural|
+86289|San Antonio|Colonia|Centro|Tabasco||86061|27|86061||09|004|2524|Semiurbano|
+86289|Pueblo Nuevo de las Raíces|Villa|Centro|Tabasco||86061|27|86061||32|004|0238|Semiurbano|
+86289|Las Raíces|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1669|Rural|
+86289|Ribera de las Raíces|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1230|Rural|
+86289|Monteceibas|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2640|Urbano|
+86289|Revolución|Colonia|Centro|Tabasco||86061|27|86061||09|004|1553|Rural|
+86289|El Censo|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1667|Rural|
+86289|Santa Rita|Colonia|Centro|Tabasco||86061|27|86061||09|004|2525|Semiurbano|
+86289|Constitución|Colonia|Centro|Tabasco||86061|27|86061||09|004|1064|Semiurbano|
+86289|El Recreo|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1668|Rural|
+86289|San Vicente|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2594|Rural|
+86289|Gracias México|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2619|Urbano|
+86290|Bicentenario|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2646|Rural|
+86290|La Victoria|Ejido|Centro|Tabasco||86061|27|86061||15|004|2226|Rural|
+86290|Villa el Cielo|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|0022|Urbano|
+86290|Tumbuluschal|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0239|Rural|
+86291|Alvarado (Colima)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0240|Rural|
+86291|Subteniente Garcia|Ejido|Centro|Tabasco||86061|27|86061||15|004|0243|Semiurbano|
+86291|Alvarado Guardacosta|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0241|Rural|
+86292|Alvarado Jimbal 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0244|Rural|
+86293|Estanzuela 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0245|Rural|
+86293|Las Margaritas|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2553|Rural|
+86293|Boquerón 2a Sección (El Barquillo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2234|Rural|
+86293|Torno Largo 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2277|Rural|
+86293|Estanzuela 2a Sección|Pueblo|Centro|Tabasco||86061|27|86061||28|004|1106|Rural|
+86293|Torno Largo 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2278|Rural|
+86293|Parrilla 5a Secc|Ejido|Centro|Tabasco||86061|27|86061||15|004|2227|Rural|
+86294|Boquerón (San Pedro)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1651|Rural|
+86294|Boquerón 4a Sección (Laguna Nueva)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1654|Rural|
+86294|Plutarco Elías Calles (La Majahua)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2500|Rural|
+86294|Bosques de Araba|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2519|Rural|
+86294|Ixtacomitan 5a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1656|Rural|
+86294|Pablo L Sidar|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1673|Rural|
+86294|Boquerón 3a Sección (Guanal)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1653|Rural|
+86294|Plutarco Elias Calles 3a (La Providencia)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2274|Rural|
+86295|Pablo L. Sidar (Guineo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2270|Rural|
+86295|Boquerón 5a Sección (La Lagartera)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1655|Rural|
+86295|Tepate Abajo (San Isidro)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|1674|Rural|
+86296|Gaviotas Sur (El Chiflón)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2249|Rural|
+86296|Granja Dorantes|Fraccionamiento|Centro|Tabasco||86061|27|86061||21|004|2558|Rural|
+86296|Coronel Traconis 1ra Sección (La Isla)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2497|Rural|
+86296|Coronel Traconis 2a (El Zapote)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2242|Rural|
+86296|Coronel Traconis 5a (San Rafael y San Diego)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2245|Rural|
+86296|Coronel Traconis (Guerrero 3ra. Sección)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2243|Rural|
+86296|Coronel Traconis 4a (San Francisco)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2244|Rural|
+86297|Barranca y Guanal Sección (Tintillo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2233|Rural|
+86297|Miraflores 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2267|Rural|
+86297|Barrancas y Amate 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0204|Rural|
+86297|Barranca y Guanal Sección (López Portillo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2232|Rural|
+86297|Miraflores 3a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0235|Rural|
+86297|Barranca y Amate 2a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2231|Rural|
+86297|Miraflores 2a Secc (Zapotillo)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2268|Rural|
+86297|Miraflores 1a (Arroyo Grande)|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2266|Rural|
+86297|Miraflores 1ra. Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2269|Rural|
+86298|La Huasteca 1a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2253|Rural|
+86298|Alvarado Santa Irene 1a Sección|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2228|Rural|
+86298|La Huasteca 2a Secc|Ranchería|Centro|Tabasco||86061|27|86061||29|004|2254|Rural|
+86298|Hueso de Puerco|Ranchería|Centro|Tabasco||86061|27|86061||29|004|0246|Rural|

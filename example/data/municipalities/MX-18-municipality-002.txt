@@ -1,0 +1,31 @@
+63900|Ahuacatlán|Villa|Ahuacatlán|Nayarit||63901|18|63901||32|002|0735|Rural|
+63900|Zoatlán (San Francisco de Zoatlán)|Ejido|Ahuacatlán|Nayarit||63901|18|63901||15|002|0739|Rural|
+63900|La Ciénega|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0736|Rural|
+63900|Amequita|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0005|Rural|
+63900|San Antonio|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0738|Rural|
+63904|La Campana|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0741|Rural|
+63905|Copales|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0006|Rural|
+63905|Heriberto Jara|Ejido|Ahuacatlán|Nayarit||63901|18|63901||15|002|0742|Rural|
+63910|Tetitlán|Pueblo|Ahuacatlán|Nayarit||63901|18|63901||28|002|0743|Rural|
+63910|Emiliano Zapata|Colonia|Ahuacatlán|Nayarit||63901|18|63901||09|002|1216|Rural|
+63911|Estación Valle Verde|Paraje|Ahuacatlán|Nayarit||63901|18|63901||45|002|0744|Rural|
+63913|Crucero de Marquezado|Paraje|Ahuacatlán|Nayarit||63901|18|63901||45|002|0007|Rural|
+63913|Marquezado|Ejido|Ahuacatlán|Nayarit||63901|18|63901||15|002|0737|Rural|
+63915|Santa Isabel|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0745|Rural|
+63920|Ahuacatlán|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0828|Rural|18
+63920|Uzeta|Ejido|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||15|002|0746|Rural|18
+63923|La Otra Banda|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0001|Urbano|18
+63923|Benito Juárez|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0829|Rural|18
+63925|La Presa|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0002|Urbano|18
+63925|El Cerrito|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0830|Rural|18
+63925|Las Huertas|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|1099|Urbano|18
+63927|Prisciliano Sanchez|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0831|Rural|18
+63927|Demetrio Vallejo|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0832|Rural|18
+63927|El Salto|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0003|Urbano|18
+63927|El Chiquiliqui|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0004|Urbano|18
+63928|El Llano|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|1359|Urbano|18
+63928|8 de Mayo|Colonia|Ahuacatlán|Nayarit|Ahuacatlán|63901|18|63901||09|002|0833|Rural|18
+63930|Camotlán|Pueblo|Ahuacatlán|Nayarit||63901|18|63901||28|002|0747|Rural|
+63930|Santa Cruz de Camotlán|Pueblo|Ahuacatlán|Nayarit||63901|18|63901||28|002|0748|Rural|
+63935|Las Guásimas|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0749|Rural|
+63938|Las Palmas|Ranchería|Ahuacatlán|Nayarit||63901|18|63901||29|002|0750|Rural|

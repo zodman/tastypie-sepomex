@@ -1,0 +1,5 @@
+74150|San Lorenzo Chiautzingo|Villa|Chiautzingo|Puebla||74001|21|74001||32|048|1495|Rural|
+74150|San Antonio Tlatenco|Pueblo|Chiautzingo|Puebla||74001|21|74001||28|048|1496|Urbano|
+74155|San Nicolás Zacaloacayan|Pueblo|Chiautzingo|Puebla||74001|21|74001||28|048|1499|Rural|
+74155|San Juan Tetla|Pueblo|Chiautzingo|Puebla||74001|21|74001||28|048|1498|Rural|
+74155|San Agustin Atzompa|Pueblo|Chiautzingo|Puebla||74001|21|74001||28|048|1497|Rural|

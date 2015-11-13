@@ -1,0 +1,30 @@
+73400|Olintla|Pueblo|Olintla|Puebla||73682|21|73682||28|107|1027|Rural|
+73400|San Pedro|Colonia|Olintla|Puebla||73682|21|73682||09|107|7636|Rural|
+73400|Bibiano Hernández|Pueblo|Olintla|Puebla||73682|21|73682||28|107|1025|Rural|
+73400|Chipahuatlán|Pueblo|Olintla|Puebla||73682|21|73682||28|107|1026|Rural|
+73401|Dimas López|Pueblo|Olintla|Puebla||73682|21|73682||28|107|1028|Rural|
+73403|Pasuanca|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7638|Rural|
+73403|Las Lajas|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7639|Rural|
+73403|Xpiyut|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7637|Rural|
+73404|Caztín|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7641|Rural|
+73404|Lkuyum Chuchut|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7644|Rural|
+73404|Santa Catarina|Poblado comunal|Olintla|Puebla||73682|21|73682||27|107|7642|Rural|
+73404|Sujat|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7640|Rural|
+73404|Lacapan Camallagne|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7643|Rural|
+73405|Santa Bárbara|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7645|Rural|
+73405|Zun Reforma|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7649|Rural|
+73405|Mocot|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7648|Rural|
+73405|Ignacio Zaragoza|Poblado comunal|Olintla|Puebla||73682|21|73682||27|107|7650|Rural|
+73405|Talpan|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7646|Rural|
+73405|El Guayabo|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7647|Rural|
+73406|Pumacachocochuchut|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7652|Rural|
+73406|Lekaschquigüe|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7653|Rural|
+73406|Vicente Guerrero|Pueblo|Olintla|Puebla||73682|21|73682||28|107|1029|Rural|
+73406|Scontamán|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7651|Rural|
+73406|Sutic|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7654|Rural|
+73407|Sanganat|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7656|Rural|
+73407|Khallán|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7658|Rural|
+73407|La Libertad|Colonia|Olintla|Puebla||73682|21|73682||09|107|7657|Rural|
+73407|El Durazno|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7655|Rural|
+73408|El Arenal|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7660|Rural|
+73408|Ixcatitaman|Ranchería|Olintla|Puebla||73682|21|73682||29|107|7659|Rural|

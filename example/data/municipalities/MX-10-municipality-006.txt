@@ -1,0 +1,36 @@
+35950|Gral. Simón Bolívar|Pueblo|General Simón Bolívar|Durango||35801|10|35801||28|006|1820|Rural|
+35953|Ricardo Flores Magón|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|1827|Rural|
+35954|J. Trinidad García de la Cadena (San Rafael)|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1826|Rural|
+35955|Santa Rosa|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1824|Rural|
+35956|Santa Rosalía|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3945|Rural|
+35960|El Treinta|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3936|Rural|
+35960|San José de Zaragoza|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1828|Rural|
+35960|La Miseria|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3937|Rural|
+35960|San Luis de Corea|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|3944|Rural|
+35960|Sector Cuatro (El Rasguño)|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3946|Rural|
+35963|Noria San Antonio|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3941|Rural|
+35963|San Antonio de Zaragoza|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1831|Rural|
+35965|Ignacio Zaragoza|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1832|Rural|
+35965|Enrique Flores Magón|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|1829|Rural|
+35966|Sombreretillo del Alto|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|1830|Rural|
+35966|Noria de Sombreretillo|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3940|Rural|
+35966|El Paso de las Trocas|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|4982|Rural|
+35970|Dieciocho de Marzo|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|1822|Rural|
+35973|El Refugio|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3935|Rural|
+35973|Antón Martín|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1834|Rural|
+35974|Oriente Aguanaval|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1821|Rural|
+35974|Huarichic (Huariche)|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1823|Rural|
+35974|Cuatro Vientos (Vega Salada)|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3933|Rural|
+35974|El Jazminal|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|4981|Rural|
+35975|La Nueva Reforma Agraria|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3938|Rural|
+35975|La Prontitud|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3939|Rural|
+35975|El Recodo del Río|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|4983|Rural|
+35977|La Esperanza|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|4985|Rural|
+35980|San José de Reyes|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1835|Rural|
+35980|San José de Sauces (Sauces)|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3943|Rural|
+35983|Guadalupe (El Chivo y la Coyota)|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|4984|Rural|
+35983|San Vicente de Melones|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|1837|Rural|
+35984|José Isabel Robles|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1833|Rural|
+35986|Pedro Celestino Negrete|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|3942|Rural|
+35987|El Ensueño (El Papalote)|Ranchería|General Simón Bolívar|Durango||35801|10|35801||29|006|3934|Rural|
+35987|La Granja|Ejido|General Simón Bolívar|Durango||35801|10|35801||15|006|1836|Rural|

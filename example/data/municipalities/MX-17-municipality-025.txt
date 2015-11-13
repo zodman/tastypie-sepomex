@@ -1,0 +1,42 @@
+62980|Gabriel Tepepa|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0641|Semiurbano|08
+62980|Tlaquiltenango|Pueblo|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||28|025|0636|Semiurbano|08
+62980|Plan de Ayala|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0783|Semiurbano|08
+62980|El Texcal|Unidad habitacional|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||31|025|0778|Semiurbano|08
+62980|Vista Alegre|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0640|Semiurbano|08
+62980|Los Presidentes|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0779|Semiurbano|08
+62980|Alfredo V Bonfil|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0781|Rural|08
+62980|Cantora|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0782|Rural|08
+62980|Tlayehualco|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0784|Semiurbano|08
+62983|Miguel Hidalgo|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0780|Rural|08
+62983|Alfredo V Bonfil|Pueblo|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||28|025|0628|Rural|08
+62983|3 de Mayo|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0786|Rural|08
+62984|Palo Grande|Ranchería|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||29|025|1338|Urbano|08
+62984|Emiliano Zapata|Unidad habitacional|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||31|025|0785|Rural|08
+62984|Celerino Manzanares|Colonia|Tlaquiltenango|Morelos|Tlaquiltenango|62901|17|62901||09|025|0642|Semiurbano|08
+62985|La Mezquitera|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0630|Rural|
+62985|La Era|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0643|Rural|
+62985|Antonio Riva Palacio|Colonia|Tlaquiltenango|Morelos||62901|17|62901||09|025|1340|Urbano|
+62985|Las Bóvedas|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|1341|Urbano|
+62986|Lorenzo Vázquez|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0631|Rural|
+62986|La Tigra|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|1345|Urbano|
+62986|Chimalacatlán|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0629|Rural|
+62986|San José de Pala|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0635|Rural|
+62986|Valle de Vázquez|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0637|Rural|
+62986|Quilamula|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0634|Rural|
+62986|Los Dormidos|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|1339|Urbano|
+62987|Los Elotes|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0632|Rural|
+62987|Paso de Palapa|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|1342|Urbano|
+62987|Nexpa|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0644|Rural|
+62987|Pueblo Viejo|Pueblo|Tlaquiltenango|Morelos||62901|17|62901||28|025|0633|Rural|
+62987|Xicatlacotla|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0638|Rural|
+62988|Huixastla|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0645|Rural|
+62988|Coaxitlán|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0646|Rural|
+62988|El Pajon|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|1344|Urbano|
+62988|El Calabazal|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|1343|Urbano|
+62990|Huautla|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0647|Rural|
+62993|Ajuchitlán|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0627|Rural|
+62994|Rancho Viejo|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0650|Rural|
+62995|Huaxtla|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0649|Rural|
+62995|La Bomba|Colonia|Tlaquiltenango|Morelos||62901|17|62901||09|025|1337|Urbano|
+62996|Xochipala|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0648|Rural|
+62996|Santiopa|Ranchería|Tlaquiltenango|Morelos||62901|17|62901||29|025|0651|Rural|

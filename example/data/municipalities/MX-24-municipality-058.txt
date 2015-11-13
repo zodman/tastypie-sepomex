@@ -1,0 +1,155 @@
+79300|El Naranjo Centro|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|2961|Urbano|20
+79303|La Presa|Ejido|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||15|058|3772|Urbano|20
+79303|Las Granjas El Naranjo|Ejido|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||15|058|3774|Urbano|20
+79303|Habitacional|Barrio|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||02|058|3766|Urbano|20
+79303|La Esperanza Norte|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3769|Urbano|20
+79303|La Esperanza Sur|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3770|Urbano|20
+79304|El Pedregal|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|3765|Urbano|20
+79304|Obrera|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3776|Urbano|20
+79304|Azucareros - INFONAVIT|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|3762|Urbano|20
+79305|La Crúz|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|0001|Urbano|20
+79305|La Encantada|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3768|Urbano|20
+79305|La Bahia|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|3767|Urbano|20
+79305|Las Margaritas|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|3775|Urbano|20
+79305|Arboleda|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|3761|Urbano|20
+79306|La Huerta|Ejido|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||15|058|3771|Urbano|20
+79306|El Naranjito|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3764|Urbano|20
+79306|Las Brisas|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3773|Urbano|20
+79306|San José|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3778|Urbano|20
+79306|Carlos Jonguitud Barrios|Fraccionamiento|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||21|058|3763|Urbano|20
+79306|San Francisco|Colonia|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||09|058|3777|Urbano|20
+79307|El Sabinito Plan del Naranjo|Ejido|El Naranjo|San Luis Potosí|El Naranjo|79311|24|79311||15|058|2353|Rural|20
+79313|La Mesa de Guadalupe|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3577|Rural|
+79313|Ojo de Agua Tierra Nueva|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|1207|Rural|
+79313|La Mequihuana|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3576|Rural|
+79313|Los Álamos de Arriba|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3596|Rural|
+79313|La Toma|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3587|Rural|
+79313|La Sierrita|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3584|Rural|
+79313|El Limonal|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1218|Rural|
+79313|Cruz Montoya Hernández|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3526|Rural|
+79313|El Abrevadero|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3530|Rural|
+79313|El Carrizal|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3534|Rural|
+79313|El Garabato|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3540|Rural|
+79313|Los Álamos de Abajo|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1206|Rural|
+79314|El Naranjo|Congregación|El Naranjo|San Luis Potosí||79311|24|79311||11|058|1217|Rural|
+79314|El Puerto|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3550|Rural|
+79314|Francisco Hernández García|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3559|Rural|
+79314|Los Corrales|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3598|Rural|
+79314|Rancho la Cascada|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3615|Rural|
+79314|La Joya|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3573|Rural|
+79314|La Rodada|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3583|Rural|
+79314|Rancho el Colorado|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3611|Rural|
+79314|San Nicolás|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3630|Rural|
+79314|El Guamúchil|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3541|Rural|
+79314|Florencio Flores (Granja)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3557|Rural|
+79314|La Cascadita|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3567|Rural|
+79314|Camilo Arriaga [Central Hidroeléctrica]|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3520|Rural|
+79314|Campamento SCT|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3522|Rural|
+79314|La Colmena|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3570|Rural|
+79314|Río Escondido (La Caja)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3626|Rural|
+79314|Abraham García|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3517|Rural|
+79314|El Aterrizaje (Calderón)|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3532|Rural|
+79314|El Pedregal|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3549|Rural|
+79314|Rancho la Paloma|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3619|Rural|
+79314|El Bule|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3533|Rural|
+79314|La Cabaña|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3566|Rural|
+79314|La Laguna (Oscar Raúl Cano)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3574|Rural|
+79314|La Nigua|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3579|Rural|
+79314|Santa Laura|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3633|Rural|
+79314|Colonia el Meco|Colonia|El Naranjo|San Luis Potosí||79311|24|79311||09|058|1216|Rural|
+79314|El Colorado|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3536|Rural|
+79314|Francisco Ventura Hernández|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3560|Rural|
+79314|Lázaro Cárdenas|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3593|Rural|
+79314|Rancho la Montaña (La Gonzalera)|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3618|Rural|
+79314|Rancho los Cuates|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3620|Rural|
+79314|Colonia Salto del Agua|Colonia|El Naranjo|San Luis Potosí||79311|24|79311||09|058|1220|Rural|
+79314|El Mirador|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3543|Rural|
+79314|La Ceiba|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3569|Rural|
+79314|La Soledad|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3585|Rural|
+79314|Ojo de Agua de Ramón|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3599|Rural|
+79314|Potrero el Sabinal|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3603|Rural|
+79314|Rancho San Francisco|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3624|Rural|
+79315|El Platanito|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1223|Rural|
+79315|Maguey de Oriente|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|1225|Rural|
+79315|El Naranjito|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3545|Rural|
+79315|La Concepción|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1205|Rural|
+79315|Chupadero|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|1221|Rural|
+79315|El Chote|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3535|Rural|
+79315|El Tanque|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3555|Rural|
+79315|La Yerbabuena del Norte|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3589|Rural|
+79315|Las Abritas|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3591|Rural|
+79315|Las Palmas|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3592|Rural|
+79315|Los Álamos|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3595|Rural|
+79315|La Yerbabuena del Oriente|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3590|Rural|
+79315|Rincón de Álamos|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3625|Rural|
+79315|El Sabinito|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1222|Rural|
+79315|El Aguacate|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3531|Rural|
+79315|La Loma (Ejido los Álamos)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3575|Rural|
+79316|El Ojital|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3546|Rural|
+79316|Campamento Benito Juárez|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3521|Rural|
+79316|Casa Blanca (El Banco)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3523|Rural|
+79316|Ejido la Mutua|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3529|Rural|
+79316|El Sabinito Plan del Naranjo|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3554|Rural|
+79316|La Germinal|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3571|Rural|
+79316|El Triunfo|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3556|Rural|
+79316|Gregorio de la Rosa|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3562|Rural|
+79316|La Balsa|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3565|Rural|
+79316|La Ceiba|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3568|Rural|
+79316|La Victoria|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3588|Rural|
+79316|Rancho el Cadillo|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3607|Rural|
+79316|Ejido Benito Juárez su Anexo el Potosino|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3528|Rural|
+79316|El Edén (Villa Rosita)|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3537|Rural|
+79316|Rancho el Divisadero|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3612|Rural|
+79316|Rancho el Rosario|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3614|Rural|
+79316|Villa Rosita|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3635|Rural|
+79316|Minas Viejas|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1219|Rural|
+79316|El Esfuerzo|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3538|Rural|
+79316|Arroyo Hondo|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3518|Rural|
+79316|Gregorio Moctezuma Sánchez|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3563|Rural|
+79316|La Piedra|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3581|Rural|
+79316|Rancho el Carmen|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3608|Rural|
+79316|Rancho el Herradero|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3613|Rural|
+79316|El Estribo|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3539|Rural|
+79316|Loma Alta|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3594|Rural|
+79316|Rancho la Cuesta|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3616|Rural|
+79316|Santa Rita|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3634|Rural|
+79316|Kilómetro Cuarenta y Dos|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|1227|Rural|
+79316|La Mutua|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|1228|Rural|
+79316|El Rincón de las Bombas (Nicolás Ortiz)|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3553|Rural|
+79316|La Mutua (El Estribo)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3578|Rural|
+79317|Maitinez|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|1230|Rural|
+79317|Cuicillos|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3527|Rural|
+79317|El Molino|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3544|Rural|
+79317|La Presita|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3582|Rural|
+79317|Paso del Águila (Ismael Rojas)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3601|Rural|
+79317|Peña Amarilla|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3602|Rural|
+79317|Rancho Buenavista|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3605|Rural|
+79317|San Rafael (Ojo de Agua de la Vieja)|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3631|Rural|
+79317|Los Cedros|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3597|Rural|
+79317|Rancho Nuevo (Florencio Ortega)|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3622|Rural|
+79317|Rancho Nuevo Paso del Águila|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3623|Rural|
+79317|La Isla|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3572|Rural|
+79317|La Tinaja|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3586|Rural|
+79317|Isabel Ledezma Barrón|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3564|Rural|
+79317|Rancho Dos Ríos|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3606|Rural|
+79317|El Limoncito|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3542|Rural|
+79317|El Paso del Águila (Vicente Escobedo)|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3548|Rural|
+79317|La Palma|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3580|Rural|
+79317|Rancho Maitinez|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3621|Rural|
+79317|Rancho el Cimarrón|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3610|Rural|
+79317|San Martín|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3629|Rural|
+79317|Los Charcos de Oriente|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|2337|Rural|
+79317|El Refugio|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3552|Rural|
+79317|Rancho el Carrizal|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3609|Rural|
+79317|San Juan del Viejo|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3628|Rural|
+79318|Chihuahuita|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3524|Rural|
+79318|El Queretano|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3551|Rural|
+79318|Gabriel Dimas|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3561|Rural|
+79318|Santa Cruz|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3632|Rural|
+79318|Rancho la Esperanza|Ranchería|El Naranjo|San Luis Potosí||79311|24|79311||29|058|3617|Rural|
+79318|San Isidro|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3627|Rural|
+79318|El Ojo Frío|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3547|Rural|
+79318|Francisco Aranda|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3558|Rural|
+79318|Olla Verde|Ejido|El Naranjo|San Luis Potosí||79311|24|79311||15|058|3600|Rural|
+79318|Puerto del Higuerón|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3604|Rural|
+79318|Contadero|Poblado comunal|El Naranjo|San Luis Potosí||79311|24|79311||27|058|3525|Rural|

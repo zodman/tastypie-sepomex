@@ -1,0 +1,33 @@
+84180|Naco Centro|Colonia|Naco|Sonora||84181|26|84181||09|039|0681|Urbano|
+84183|Jesús García|Colonia|Naco|Sonora||84181|26|84181||09|039|0002|Urbano|
+84183|San José|Colonia|Naco|Sonora||84181|26|84181||09|039|1859|Rural|
+84184|Barrio Nuevo|Colonia|Naco|Sonora||84181|26|84181||09|039|1857|Rural|
+84184|Barrio de La Cruz|Colonia|Naco|Sonora||84181|26|84181||09|039|1855|Rural|
+84184|Infonavit Colima Sol|Colonia|Naco|Sonora||84181|26|84181||09|039|1856|Rural|
+84184|Minerva|Colonia|Naco|Sonora||84181|26|84181||09|039|1853|Rural|
+84185|Cerro La Cruz|Colonia|Naco|Sonora||84181|26|84181||09|039|0001|Urbano|
+84185|Los Encinos|Colonia|Naco|Sonora||84181|26|84181||09|039|1860|Rural|
+84185|Luis Donaldo Colosio|Colonia|Naco|Sonora||84181|26|84181||09|039|0004|Urbano|
+84185|Los Arcos|Colonia|Naco|Sonora||84181|26|84181||09|039|0003|Urbano|
+84185|Colosio|Colonia|Naco|Sonora||84181|26|84181||09|039|1852|Rural|
+84186|Pancho García|Colonia|Naco|Sonora||84181|26|84181||09|039|0005|Urbano|
+84187|Santa Cruz|Colonia|Naco|Sonora||84181|26|84181||09|039|0006|Urbano|
+84187|Ejidal|Colonia|Naco|Sonora||84181|26|84181||09|039|1854|Rural|
+84190|José Ángel Rascón|Ejido|Naco|Sonora||84181|26|84181||15|039|0010|Rural|
+84193|Manuel Sotelo|Ejido|Naco|Sonora||84181|26|84181||15|039|0016|Rural|
+84193|Alberto Ledezma|Ejido|Naco|Sonora||84181|26|84181||15|039|0007|Rural|
+84193|José Ángel Romero|Ejido|Naco|Sonora||84181|26|84181||15|039|0011|Rural|
+84193|Juan Ramírez|Ejido|Naco|Sonora||84181|26|84181||15|039|0013|Rural|
+84194|Cuauhtémoc|Ejido|Naco|Sonora||84181|26|84181||15|039|0684|Rural|
+84194|San Pedro|Ranchería|Naco|Sonora||84181|26|84181||29|039|0683|Rural|
+84195|Parcela de Rosendo Hernández|Ejido|Naco|Sonora||84181|26|84181||15|039|0019|Rural|
+84195|Parcela Delgado|Ejido|Naco|Sonora||84181|26|84181||15|039|0020|Rural|
+84195|Parcela Escolar|Ejido|Naco|Sonora||84181|26|84181||15|039|0021|Rural|
+84195|Rancho RH (Parcela Robles)|Ejido|Naco|Sonora||84181|26|84181||15|039|0022|Rural|
+84195|José Arrizón|Ejido|Naco|Sonora||84181|26|84181||15|039|0012|Rural|
+84195|Parcela Bórquez|Ejido|Naco|Sonora||84181|26|84181||15|039|0018|Rural|
+84196|Nogalar|Ejido|Naco|Sonora||84181|26|84181||15|039|0017|Rural|
+84196|Corral de Enmedio|Ejido|Naco|Sonora||84181|26|84181||15|039|0008|Rural|
+84196|Los Toros|Ejido|Naco|Sonora||84181|26|84181||15|039|0015|Rural|
+84197|El Marly|Ejido|Naco|Sonora||84181|26|84181||15|039|0009|Rural|
+84197|La Huerta|Ejido|Naco|Sonora||84181|26|84181||15|039|0014|Rural|

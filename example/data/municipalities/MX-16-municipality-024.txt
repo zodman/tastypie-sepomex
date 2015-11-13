@@ -1,0 +1,10 @@
+60270|Cherán|Pueblo|Cherán|Michoacán de Ocampo||60272|16|60272||28|024|1735|Urbano|
+60270|La Salud|Colonia|Cherán|Michoacán de Ocampo||60272|16|60272||09|024|6668|Urbano|
+60270|San Pedro|Colonia|Cherán|Michoacán de Ocampo||60272|16|60272||09|024|6669|Urbano|
+60271|Santa Cruz Tanaco|Pueblo|Cherán|Michoacán de Ocampo||60272|16|60272||28|024|1736|Urbano|
+60273|Kilómetro Veintiuno|Ranchería|Cherán|Michoacán de Ocampo||60272|16|60272||29|024|6681|Rural|
+60273|Casimiro Leco (El Cerecito)|Ranchería|Cherán|Michoacán de Ocampo||60272|16|60272||29|024|3890|Rural|
+60276|Cruciro|Ranchería|Cherán|Michoacán de Ocampo||60272|16|60272||29|024|0001|Rural|
+60276|Tzerémbaro|Poblado comunal|Cherán|Michoacán de Ocampo||60272|16|60272||27|024|6682|Rural|
+60276|Tupukatiro|Poblado comunal|Cherán|Michoacán de Ocampo||60272|16|60272||27|024|6679|Rural|
+60276|Copuro|Poblado comunal|Cherán|Michoacán de Ocampo||60272|16|60272||27|024|6680|Rural|

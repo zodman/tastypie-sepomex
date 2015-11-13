@@ -1,0 +1,32 @@
+95280|Lerdo de Tejada Centro|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|3280|Semiurbano|54
+95281|Nueva Santa Gertrudis|Ampliación|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||38|097|4472|Semiurbano|54
+95281|1o de Mayo|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4547|Semiurbano|54
+95281|La Guadalupe|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4548|Semiurbano|54
+95281|12 de Diciembre|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|7486|Urbano|54
+95281|Santa Gertrudis|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4471|Semiurbano|54
+95281|Jose Maria Martinez|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4546|Semiurbano|54
+95281|Santa Teresa|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4473|Semiurbano|54
+95283|Magisterial|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4474|Semiurbano|54
+95283|Paulino Ortiz|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4550|Semiurbano|54
+95283|C Palacios|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4549|Semiurbano|54
+95283|Ugocp|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4475|Semiurbano|54
+95284|Obrera San Pedro|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4551|Semiurbano|54
+95284|Lázaro Cárdenas|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4552|Semiurbano|54
+95284|Lago de los Ríos|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4476|Semiurbano|54
+95284|Guillermo Ramirez Gonzalez|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4554|Semiurbano|54
+95284|Ejidal|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4553|Semiurbano|54
+95285|Nueva Lerdo|Ampliación|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||38|097|4477|Semiurbano|54
+95285|San Miguelito|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4478|Semiurbano|54
+95285|Canal 4|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4555|Semiurbano|54
+95285|Ingenio San Pedro|Ingenio|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||25|097|7131|Rural|54
+95285|Poza Rica|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4556|Semiurbano|54
+95286|Santa Lucia|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4479|Semiurbano|54
+95286|Árbol Del Pan|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4558|Semiurbano|54
+95286|Vicente Guerrero|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4557|Semiurbano|54
+95287|Dulce Maria|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4561|Semiurbano|54
+95287|San Francisco|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4480|Semiurbano|54
+95287|Benito Juárez|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4560|Semiurbano|54
+95287|El Chamizal|Colonia|Lerdo de Tejada|Veracruz de Ignacio de la Llave|Lerdo de Tejada|95282|30|95282||09|097|4559|Semiurbano|54
+95294|El Zacatal|Ranchería|Lerdo de Tejada|Veracruz de Ignacio de la Llave||95282|30|95282||29|097|3281|Rural|
+95295|Santa Teresa Ejido Pocheta|Congregación|Lerdo de Tejada|Veracruz de Ignacio de la Llave||95282|30|95282||11|097|3283|Rural|
+95295|Bajada de los Apompos|Rancho|Lerdo de Tejada|Veracruz de Ignacio de la Llave||95282|30|95282||48|097|0001|Rural|

@@ -1,0 +1,17 @@
+90670|Xopantla|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0655|Rural|
+90670|San Antonio|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0654|Rural|
+90670|Zencalco|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0652|Rural|
+90670|San Bernardino Contla Centro|Pueblo|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||28|018|0346|Rural|
+90670|La Conchita|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0656|Rural|
+90670|Villa Chica|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0653|Rural|
+90676|Colhuaca|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0650|Rural|
+90676|Santa María Tlacatecpa|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0649|Rural|
+90676|Netzahuala|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0651|Rural|
+90680|San Miguel Xaltipa|Pueblo|Contla de Juan Cuamatzi|Tlaxcala||90801|29|90801||28|018|0348|Urbano|
+90690|San Felipe Cuauhtenco|Pueblo|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||28|018|0349|Rural|
+90692|Ocotlán de Tepatlaxco|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0631|Rural|
+90692|La Luz|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0632|Rural|
+90692|San José Aztatla|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0351|Urbano|
+90693|Santa María Aquiáhuac|Colonia|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||09|018|0350|Rural|
+90693|Atlapechco|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|1044|Rural|
+90693|Ixtlahuaca|Barrio|Contla de Juan Cuamatzi|Tlaxcala||90691|29|90691||02|018|0352|Rural|

@@ -1,0 +1,16 @@
+42780|Tlahuelilpan Centro|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|0780|Urbano|
+42783|Miravalle|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|3135|Urbano|
+42784|San Primitivo|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|3133|Urbano|
+42784|San Francisco|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|3134|Urbano|
+42785|La Ranchería|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|3132|Urbano|
+42785|El Salitre|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|3136|Urbano|
+42789|Munitepec de Madero|Pueblo|Tlahuelilpan|Hidalgo||42781|13|42781||28|070|0782|Rural|
+42790|Cuauhtémoc|Pueblo|Tlahuelilpan|Hidalgo||42781|13|42781||28|070|0783|Rural|
+42793|Cerro de la Cruz|Colonia|Tlahuelilpan|Hidalgo||42781|13|42781||09|070|3137|Urbano|
+42793|Bugambilias|Ranchería|Tlahuelilpan|Hidalgo||42781|13|42781||29|070|3143|Rural|
+42794|La Providencia|Ranchería|Tlahuelilpan|Hidalgo||42781|13|42781||29|070|3141|Rural|
+42794|Miravalle|Ranchería|Tlahuelilpan|Hidalgo||42781|13|42781||29|070|3142|Rural|
+42795|Dexhe|Ranchería|Tlahuelilpan|Hidalgo||42781|13|42781||29|070|3138|Rural|
+42795|La Mercadela|Ranchería|Tlahuelilpan|Hidalgo||42781|13|42781||29|070|3140|Rural|
+42795|San Gregorio|Ranchería|Tlahuelilpan|Hidalgo||42781|13|42781||29|070|3144|Rural|
+42796|Media Luna|Ejido|Tlahuelilpan|Hidalgo||42781|13|42781||15|070|3139|Rural|

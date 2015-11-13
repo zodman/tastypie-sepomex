@@ -1,0 +1,147 @@
+28950|Juluapan|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0377|Rural|
+28952|Los Picachos|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0378|Rural|
+28955|El Carmen|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0380|Rural|
+28955|Agua Dulce|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0379|Rural|
+28958|El Mixcuate|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0381|Rural|
+28959|Pueblo Nuevo|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0382|Rural|
+28960|El Carrizal|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0383|Rural|
+28963|Pastores|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0384|Rural|
+28964|Las Joyitas|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0385|Rural|
+28965|El Chivato (Providencia)|Ejido|Villa de Álvarez|Colima||28971|06|28971||15|010|0386|Rural|
+28966|La Montrica|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0387|Rural|
+28968|El Naranjal|Ranchería|Villa de Álvarez|Colima||28971|06|28971||29|010|0388|Rural|
+28970|Villa de Alvarez Centro|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0389|Semiurbano|04
+28970|Villas del Sol|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0610|Semiurbano|04
+28973|Santa Cristina|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0636|Semiurbano|04
+28973|Floresta|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0391|Semiurbano|04
+28973|Rancho Santo|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0756|Urbano|04
+28973|Villas Adriana|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0607|Semiurbano|04
+28973|Manuel M Diéguez|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0392|Semiurbano|04
+28973|Villas del Río|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0395|Semiurbano|04
+28973|Real los Arcos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0393|Semiurbano|04
+28973|Villas de Mayo|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0634|Semiurbano|04
+28973|Santa Teresa|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0394|Semiurbano|04
+28973|Privada Villa San Agustín|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0641|Semiurbano|04
+28974|San Isidro|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0396|Semiurbano|04
+28974|Villas Coliman|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0397|Semiurbano|04
+28974|Las Palomas Residencial|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0010|Urbano|04
+28975|Morelos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0402|Semiurbano|04
+28975|La Frontera|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0746|Urbano|04
+28975|La Cajita del Agua|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0747|Urbano|04
+28975|López Mateos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0398|Semiurbano|04
+28975|Privada Villas del Palmar|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0757|Urbano|04
+28975|Santa Martha|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0399|Semiurbano|04
+28975|Villa Carlo|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0707|Urbano|04
+28976|Francisco Hernández|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0499|Semiurbano|04
+28976|Liberación|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0400|Semiurbano|04
+28976|Rosario Ibarra de Piedra|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0585|Semiurbano|04
+28976|Villas del Centro|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0401|Semiurbano|04
+28977|Las Parotas|Condominio|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||10|010|0714|Semiurbano|04
+28978|Colinas del Carmen|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0405|Semiurbano|04
+28978|Jardines de Bugambilias|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0408|Semiurbano|04
+28978|Azaleas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0404|Semiurbano|04
+28978|FOVISSSTE|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0406|Semiurbano|04
+28978|Real Santa Fe|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0807|Urbano|04
+28978|Residencial Bosque Real|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0001|Urbano|04
+28978|Primaveras|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0409|Semiurbano|04
+28978|Rinconada de La Hacienda|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0410|Semiurbano|04
+28978|Senderos del Carmen|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0411|Semiurbano|04
+28978|Arboledas del Carmen|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0403|Semiurbano|04
+28978|Golondrinas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0407|Semiurbano|04
+28978|Privada Nicasio Carvajal Flores|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0748|Urbano|04
+28978|Real Hacienda|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0759|Urbano|04
+28978|Hacienda del Carmen|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0832|Urbano|04
+28979|Lomas de La Higuera|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0417|Semiurbano|04
+28979|Los Almendros|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0418|Semiurbano|04
+28979|Real Bugambilias|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0626|Semiurbano|04
+28979|Lomas de La Villa|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0706|Urbano|04
+28979|Colinas del Sol|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0812|Urbano|04
+28979|Las Águilas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0413|Semiurbano|04
+28979|Solidaridad|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0419|Semiurbano|04
+28979|Bugambilias|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0749|Urbano|04
+28979|Alfredo V Bonfil|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0412|Semiurbano|04
+28979|Lomas de las Flores|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0415|Semiurbano|04
+28979|Lomas Altas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0702|Urbano|04
+28979|Villa Izcalli Caxitlán|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0420|Semiurbano|04
+28979|Villas del Cañaveral|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0703|Urbano|04
+28979|Loma Hermosa|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0416|Semiurbano|04
+28979|Villas de Bugambilias|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0624|Semiurbano|04
+28979|Carlos de La Madrid|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0699|Urbano|04
+28979|Las Lagunas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0751|Urbano|04
+28979|El Angel|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0704|Urbano|04
+28979|Cruz de Comala|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0705|Urbano|04
+28979|Vista Bugambilias|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0744|Urbano|04
+28979|Salomón Preciado|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0811|Urbano|04
+28979|Lindavista|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0414|Semiurbano|04
+28979|Las Colinas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0750|Urbano|04
+28979|Lomas de La Herradura|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0752|Urbano|04
+28979|Residencial Colinas del Rey|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0765|Semiurbano|04
+28980|La Gloria|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0421|Semiurbano|04
+28982|Hacienda del Cortijo|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0806|Urbano|04
+28982|Santa Fe|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0755|Urbano|04
+28982|Hacienda El Nogal|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0805|Urbano|04
+28982|Villas de Alameda|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0637|Urbano|04
+28982|El Cortijo|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0639|Semiurbano|04
+28982|Los Olivos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0767|Urbano|04
+28982|Villas San José Segunda Sección|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0002|Urbano|04
+28982|Jacarandas|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0772|Urbano|04
+28982|La Joya|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0638|Semiurbano|04
+28982|Las Rosas|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0860|Urbano|04
+28983|Alfonso Rolón Michel|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0700|Urbano|04
+28983|El Haya|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0825|Urbano|04
+28983|Jardines del Llano|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0627|Semiurbano|04
+28983|Jardines del Centenario|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0633|Semiurbano|04
+28983|Residencial Tulipanes|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0842|Urbano|04
+28983|Senderos de Rancho Blanco|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0709|Urbano|04
+28983|Villa Flores|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0710|Urbano|04
+28983|Puerta de Rolón|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0841|Urbano|04
+28983|Valle del Sol|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0006|Urbano|04
+28983|Rinconada del Centenario|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0632|Semiurbano|04
+28983|Tabachines|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0708|Urbano|04
+28983|Villas Rancho Blanco|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0715|Urbano|04
+28983|Villa Flores II|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0843|Urbano|04
+28984|Juan José Ríos II|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0427|Semiurbano|04
+28984|Azteca|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0423|Semiurbano|04
+28984|Villas de San José|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0435|Semiurbano|04
+28984|Buenavista|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0796|Semiurbano|04
+28984|Punta Diamante Residencial|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0007|Urbano|04
+28984|Residencial Los Robles|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0008|Urbano|04
+28984|Lomas del Centenario|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0431|Semiurbano|04
+28984|Real Centenario|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0434|Semiurbano|04
+28984|Palo Alto|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0004|Urbano|04
+28984|Manuel Alvarez|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0432|Semiurbano|04
+28984|Ramón Serrano|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0433|Semiurbano|04
+28984|Puerta del Centenario|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0753|Urbano|04
+28984|Verde Valle|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0826|Urbano|04
+28984|Villafuentes|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0005|Urbano|04
+28984|Los Triángulos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0745|Urbano|04
+28984|Centenario II|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0754|Urbano|04
+28984|El Centenario|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0424|Semiurbano|04
+28984|Higueras del Espinal|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0829|Urbano|04
+28984|Patria Residencial|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0003|Urbano|04
+28984|Juan José Ríos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0426|Semiurbano|04
+28984|Juan José Ríos III|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0428|Semiurbano|04
+28984|Loma Bonita|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0429|Semiurbano|04
+28984|Jardines de La Villa|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0635|Semiurbano|04
+28984|La Reserva|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0774|Urbano|04
+28985|Del Valle|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0436|Semiurbano|04
+28985|San Miguel|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0711|Urbano|04
+28985|Villa de Oro|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0437|Semiurbano|04
+28986|Villas Diamante|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0766|Urbano|04
+28986|Emiliano Zapata|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0438|Semiurbano|04
+28987|Villas Providencia|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0642|Semiurbano|04
+28987|La Haciendita|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0440|Semiurbano|04
+28987|Alta Villa|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0439|Semiurbano|04
+28987|San Carlos|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0628|Semiurbano|04
+28988|Campestre|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0441|Semiurbano|04
+28988|El Llano|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0442|Semiurbano|04
+28989|Prados de La Villa|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0446|Semiurbano|04
+28989|Las Tunas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0444|Semiurbano|04
+28989|Montellano|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0009|Urbano|04
+28989|Leandro Valle|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0445|Semiurbano|04
+28989|Real de Minas|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0773|Urbano|04
+28989|Burócratas del Estado|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0443|Semiurbano|04
+28989|Puerta de Hierro|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0698|Semiurbano|04
+28989|Villa de Alba|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0447|Semiurbano|04
+28989|La Comarca|Fraccionamiento|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||21|010|0810|Urbano|04
+28989|Campestre Bugambilias|Colonia|Villa de Álvarez|Colima|Ciudad de Villa de Álvarez|28971|06|28971||09|010|0771|Urbano|04

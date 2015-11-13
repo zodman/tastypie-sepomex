@@ -1,0 +1,52 @@
+42200|Jacala Centro|Colonia|Jacala de Ledezma|Hidalgo||42202|13|42202||09|031|0283|Urbano|
+42200|El Sabino|Colonia|Jacala de Ledezma|Hidalgo||42202|13|42202||09|031|5886|Urbano|
+42200|El Calvario|Colonia|Jacala de Ledezma|Hidalgo||42202|13|42202||09|031|0939|Urbano|
+42200|El Cerrito|Colonia|Jacala de Ledezma|Hidalgo||42202|13|42202||09|031|0942|Urbano|
+42200|San Isidro|Colonia|Jacala de Ledezma|Hidalgo||42202|13|42202||09|031|5887|Urbano|
+42200|El Aguaje|Colonia|Jacala de Ledezma|Hidalgo||42202|13|42202||09|031|5888|Urbano|
+42201|El Pinalito|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0285|Rural|
+42201|Joya de las Águilas|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5894|Rural|
+42201|Laguna Seca|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0288|Rural|
+42201|Joya de Santa María|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5895|Rural|
+42201|El Polvorín|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|2910|Rural|
+42201|Cuesta Colorada|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0284|Rural|
+42201|Toribio|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5906|Rural|
+42201|José María Morelos|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0287|Rural|
+42201|Hilojuanico|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0286|Rural|
+42201|Los Duraznos|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0289|Rural|
+42201|Puerto de Horcones|Poblado comunal|Jacala de Ledezma|Hidalgo||42202|13|42202||27|031|2612|Rural|
+42201|Puerto de la Zorra|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5900|Rural|
+42203|Minas Viejas|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0295|Rural|
+42203|Palos Pintados|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0296|Rural|
+42203|La Mora|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0293|Rural|
+42203|El Arenal|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5890|Rural|
+42203|El Sótano|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5893|Rural|
+42203|Barranca Arriba|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0291|Rural|
+42203|La Sabinita|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5898|Rural|
+42203|La Cañada|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5896|Rural|
+42203|Guayabos|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0292|Rural|
+42203|Mesa de la Cebada|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0294|Rural|
+42203|Plomosas|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0297|Rural|
+42204|La Mohonera (La Colmena)|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5897|Rural|
+42204|Puerto del Mezquite (La Calera)|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5901|Rural|
+42205|Coñecito|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0298|Rural|
+42208|Los Frijoles (Jacarandas)|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5903|Rural|
+42208|Agua Fría Grande|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0299|Rural|
+42208|Puerto los Frijoles|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5902|Rural|
+42209|Los Hoyos|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0300|Rural|
+42210|Nuevo|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5904|Rural|
+42210|Comatitlán|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0301|Rural|
+42210|La Palma|Ejido|Jacala de Ledezma|Hidalgo||42202|13|42202||15|031|0302|Rural|
+42210|Vado Hondo|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5907|Rural|
+42210|Quetzalapa|Ejido|Jacala de Ledezma|Hidalgo||42202|13|42202||15|031|0303|Rural|
+42210|San Nicolás|Pueblo|Jacala de Ledezma|Hidalgo||42202|13|42202||28|031|0304|Rural|
+42211|El Piñón|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5891|Rural|
+42211|Santo Domingo|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0306|Rural|
+42211|Rincón del Agua|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5905|Rural|
+42211|Agua Fría Chica|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0305|Rural|
+42211|Carrizalito|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5889|Rural|
+42215|El Carrizal|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0307|Rural|
+42215|Llanitos|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|0309|Rural|
+42215|Peña Blanca|Ranchería|Jacala de Ledezma|Hidalgo||42202|13|42202||29|031|5899|Rural|
+42215|El Refugio|Ejido|Jacala de Ledezma|Hidalgo||42202|13|42202||15|031|0308|Rural|
+42215|Octupilla|Ejido|Jacala de Ledezma|Hidalgo||42202|13|42202||15|031|0310|Rural|

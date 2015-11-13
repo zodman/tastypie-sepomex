@@ -1,0 +1,12 @@
+68460|San Felipe Jalapa de Díaz Centro|Colonia|San Felipe Jalapa de Díaz|Oaxaca|San Felipe Jalapa de Díaz|68301|20|68301||09|134|0454|Urbano|12
+68460|Laja 2a Sección|Barrio|San Felipe Jalapa de Díaz|Oaxaca|San Felipe Jalapa de Díaz|68301|20|68301||02|134|3301|Urbano|12
+68460|Chico I 3a Sección|Barrio|San Felipe Jalapa de Díaz|Oaxaca|San Felipe Jalapa de Díaz|68301|20|68301||02|134|3302|Urbano|12
+68460|Chico II 4a Sección|Barrio|San Felipe Jalapa de Díaz|Oaxaca|San Felipe Jalapa de Díaz|68301|20|68301||02|134|3303|Urbano|12
+68460|Colorado 1a Sección|Barrio|San Felipe Jalapa de Díaz|Oaxaca|San Felipe Jalapa de Díaz|68301|20|68301||02|134|3300|Urbano|12
+68462|La Chuparrosa|Ranchería|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||29|134|0455|Rural|
+68462|La Permuta|Ejido|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||15|134|0458|Rural|
+68462|La Sorpresa|Ejido|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||15|134|0457|Rural|
+68463|Arroyo Venado (Sección Tercera)|Congregación|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||11|134|4501|Rural|
+68463|Loma de San Juan|Congregación|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||11|134|4500|Rural|
+68464|Santo Tomás|Ranchería|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||29|134|4499|Rural|
+68464|Loma Naranjo|Ranchería|San Felipe Jalapa de Díaz|Oaxaca||68301|20|68301||29|134|0460|Rural|

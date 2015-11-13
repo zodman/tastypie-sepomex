@@ -1,0 +1,71 @@
+61060|Ramón Rayón|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|4808|Urbano|
+61060|Puxtla|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|5552|Urbano|
+61060|Tlalpujahua de Rayón|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2111|Urbano|
+61060|El Calco|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|6186|Urbano|
+61060|La Guerrita|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|6187|Urbano|
+61060|Barrio Cuatro Caminos|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|4833|Urbano|
+61060|La Lucha|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|6188|Urbano|
+61060|El Carmen|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|4821|Urbano|
+61060|Trigueros|Colonia|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||09|093|5461|Urbano|
+61062|San Lorenzo Segundo Cuartel|Poblado comunal|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||27|093|5716|Rural|
+61062|La Lomita|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6164|Rural|
+61062|San Lorenzo Primer Cuartel (Los Mirtos)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6179|Rural|
+61062|El Real (El Real de Arriba)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6159|Rural|
+61062|Zapateros|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6184|Rural|
+61062|San Juan Tlalpujahuilla (Tlalpujahuilla)|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2113|Rural|
+61062|Dos Estrellas|Poblado comunal|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||27|093|5463|Rural|
+61063|La Mesa|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6165|Rural|
+61063|Palo Bonito|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6170|Rural|
+61063|La Presa Brokman|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|5543|Rural|
+61063|Agua Fría (La Cañada)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6144|Rural|
+61063|Campo Azul (La Presa)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6145|Rural|
+61064|San Juan de Dios|Poblado comunal|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||27|093|5569|Rural|
+61064|Santa Cruz|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6181|Rural|
+61064|Guanajuatito (Pintizuelas)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6160|Rural|
+61065|Ejido San Lorenzo|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6152|Rural|
+61065|Estanzuela (La Hacienda)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|4929|Rural|
+61066|Puerto de las Huertas (Ejido Tlalpujahuilla)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6175|Rural|
+61066|La Trampa|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|4930|Rural|
+61066|El Jazmín|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6156|Rural|
+61066|Puerto de Bermeo|Poblado comunal|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||27|093|5564|Rural|
+61066|Plaza de Gallos|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6173|Rural|
+61067|Tlacotepec|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2112|Rural|
+61070|San Francisco de los Reyes|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2115|Rural|
+61070|Tetela (Los Rodríguez)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6182|Rural|
+61070|Los Trejo (Santo Niño)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6168|Rural|
+61072|Parque del Águila (Cuartel Cuarto San Joaquín)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6171|Rural|
+61072|Cerrito de Rubí|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6146|Rural|
+61072|San Joaquín Morelos|Congregación|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||11|093|2118|Rural|
+61072|San Isidro|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6178|Rural|
+61072|El Llanito (Señor del Llano)|Poblado comunal|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||27|093|5556|Rural|
+61073|El Capulín (Cuartel Tercero San Joaquín Morelos)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6153|Rural|
+61073|San José Corrales|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|0001|Rural|
+61073|Las Canteras|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6166|Rural|
+61073|San Rafael|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|2119|Rural|
+61074|Puente de Tierra|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6174|Rural|
+61074|San José de Guadalupe|Ejido|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||15|093|2117|Rural|
+61074|Cerro Prieto|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6148|Rural|
+61075|El Colorín|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6154|Rural|
+61075|Rosa de Castilla|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6177|Rural|
+61075|Guadalupe Victoria|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2116|Rural|
+61075|Los Reyes|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6167|Rural|
+61080|Los Remedios|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|2121|Rural|
+61080|Santa María de los Ángeles|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2122|Rural|
+61080|Cortaduras|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6151|Rural|
+61080|Planillas|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6172|Rural|
+61082|Chalmita (Chazmiti)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6149|Rural|
+61082|Sandía|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6180|Rural|
+61082|San Pedro Tarímbaro|Pueblo|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||28|093|2123|Rural|
+61082|Monte Alegre|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6169|Rural|
+61082|Rincón del Sagrado Corazón (Rincón del Diablo)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6176|Rural|
+61082|Tierra Blanca|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6183|Rural|
+61083|El Llanito Tlacotepec (Cuartel Tercero)|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6157|Rural|
+61083|El Moral|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6158|Rural|
+61083|La América|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6161|Rural|
+61083|La Loma|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6163|Rural|
+61083|Llano Grande Tlacotepec (Colonia Hidalgo)|Poblado comunal|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||27|093|5565|Rural|
+61083|La Lagunilla|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6162|Rural|
+61083|Coloradillas|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6150|Rural|
+61084|La Granja|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|2120|Rural|
+61084|El Gigante|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6155|Rural|
+61086|Cerro Alto|Ranchería|Tlalpujahua|Michoacán de Ocampo||61251|16|61251||29|093|6147|Rural|

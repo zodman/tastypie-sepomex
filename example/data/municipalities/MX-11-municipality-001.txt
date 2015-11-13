@@ -1,0 +1,342 @@
+36970|Abasolo Centro|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|0946|Urbano|24
+36973|San Telmo|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6588|Urbano|24
+36973|Residencial Campestre los Álamos|Fraccionamiento|Abasolo|Guanajuato|Abasolo|36971|11|36971||21|001|6583|Urbano|24
+36973|San Bernardo Peña Blanca|Ranchería|Abasolo|Guanajuato|Abasolo|36971|11|36971||29|001|6584|Urbano|24
+36973|San Isidro|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6585|Urbano|24
+36973|El Saucillo|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3934|Rural|24
+36973|Las Cabrillas|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3936|Urbano|24
+36974|Lomas de Santa María|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3937|Urbano|24
+36974|Ojo de Agua de Galván|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3933|Urbano|24
+36974|Francisco I Madero|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3935|Urbano|24
+36974|La Curva|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6578|Urbano|24
+36975|Guadalupe|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3938|Urbano|24
+36975|El Mirador|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3940|Urbano|24
+36975|Lomas del Sol|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3931|Urbano|24
+36975|Navarrete|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3943|Urbano|24
+36975|Potrero de los Martínez|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|5332|Urbano|24
+36975|28 de Octubre|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6575|Urbano|24
+36975|Las Margaritas|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3930|Urbano|24
+36975|Hacienda del Potrero|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|5364|Urbano|24
+36976|San Juan II|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6587|Urbano|24
+36976|Tamazula|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6589|Urbano|24
+36976|La Cubana|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3942|Urbano|24
+36976|Cuitzeo de los Naranjos|Fraccionamiento|Abasolo|Guanajuato|Abasolo|36971|11|36971||21|001|5378|Urbano|24
+36976|Pirules|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3926|Urbano|24
+36976|Miguel Hidalgo|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3929|Urbano|24
+36976|El Salitre|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3941|Urbano|24
+36976|Cruz Blanca|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6577|Urbano|24
+36976|Morelos|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6581|Urbano|24
+36976|Vicente Guerrero|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3927|Urbano|24
+36976|Lourdes|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3928|Urbano|24
+36976|Loma Bonita|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6579|Urbano|24
+36976|Ampliación Miguel Hidalgo|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6576|Urbano|24
+36977|Juárez|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|3932|Rural|24
+36977|Los Principes|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6580|Urbano|24
+36977|San Juan|Colonia|Abasolo|Guanajuato|Abasolo|36971|11|36971||09|001|6586|Urbano|24
+36977|Quinta del Paraíso|Ranchería|Abasolo|Guanajuato|Abasolo|36971|11|36971||29|001|5458|Urbano|24
+36977|Providencia|Fraccionamiento|Abasolo|Guanajuato|Abasolo|36971|11|36971||21|001|6582|Urbano|24
+36980|Rancho Nuevo de la Cruz|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0978|Rural|
+36983|Puerto de la Cruz|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0993|Rural|
+36983|Cerratos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6341|Rural|
+36983|San Cayetano|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6514|Rural|
+36983|Alto de Chamacua|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0975|Rural|
+36983|San Francisco de la Soledad|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0994|Rural|
+36983|Trojes de Marañón|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0995|Rural|
+36983|San José de Ríos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5336|Rural|
+36983|Colonia de Tlanalapa|Colonia|Abasolo|Guanajuato||36971|11|36971||09|001|6345|Rural|
+36983|Rancho de González|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6492|Rural|
+36983|Ojo de Agua de Huanumo (El Torreón)|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0997|Rural|
+36983|La Pequeña Estrella (Ramón Fernández)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6433|Rural|
+36983|Rancho Alameda de Álvarez (Ignacio Escamilla)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6488|Rural|
+36983|Ejido de Tlanalapa (Colonia de la Esperanza)|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0980|Rural|
+36983|Zapote de la Esperanza|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6573|Rural|
+36983|Alameda de Álvarez|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0974|Rural|
+36983|Cofradía de Guerra|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0976|Rural|
+36983|Chamacua|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0977|Rural|
+36983|Ojo de Agua del Zapote|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6475|Rural|
+36983|Refugio de Ríos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6498|Rural|
+36983|Ojo de Agua del Zapote|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0967|Rural|
+36983|Loma de la Esperanza|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6455|Rural|
+36983|Rancho Alameda de Álvarez (Octavio Ramírez)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6489|Rural|
+36983|La Joya de Calvillo|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0996|Rural|
+36984|Nombre de Dios|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0986|Rural|
+36984|Horta (San Antonio de Horta)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0991|Rural|
+36984|Soledad de Negrete|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5339|Rural|
+36984|Alto de Alcocer|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6331|Rural|
+36984|Colonia los Ángeles|Colonia|Abasolo|Guanajuato||36971|11|36971||09|001|6347|Rural|
+36984|La Escondida|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6411|Rural|
+36984|La Fortuna|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6415|Rural|
+36984|La Peñuela|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6430|Rural|
+36984|La Pequeña de las Cruces|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6432|Rural|
+36984|Los Sauces|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6463|Rural|
+36984|San Isidro de Ríos (Don Concepción)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6526|Rural|
+36984|San Vicente de Aguirre (Simeón Aguirre)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6555|Rural|
+36984|Santa Rosa de Negrete (La Rata)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6566|Rural|
+36984|La Trinidad|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0981|Rural|
+36984|Ahualulco|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6330|Rural|
+36984|Cerrito de Horta (Cerrito de Jesús)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6343|Rural|
+36984|La Navidad (El Milagro)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6427|Rural|
+36984|La Pequeña Carroza|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6431|Rural|
+36984|La Presa de Uribe|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6434|Rural|
+36984|Manuel Valdez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6465|Rural|
+36984|San Agustín|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6501|Rural|
+36984|San Agustín|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|6502|Rural|
+36984|San José de Martínez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6534|Rural|
+36984|Las Masas (La Luz Masas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0982|Rural|
+36984|El Carmen|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6358|Rural|
+36984|El Ladero|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6363|Rural|
+36984|La Salud (Ángel Martínez)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6442|Rural|
+36984|La Venta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6445|Rural|
+36984|Los Ledezma|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6459|Rural|
+36984|Mexiquito|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6470|Rural|
+36984|Providencia|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6483|Rural|
+36984|Rancho los Lara|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6493|Rural|
+36984|San Fernando de Aguirre|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6519|Rural|
+36984|San Ramón|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6552|Rural|
+36984|San Francisco de Horta (El Alacrán)|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0988|Rural|
+36984|La Florida de González|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0989|Rural|
+36984|Alto de San José de González|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6333|Rural|
+36984|El Progreso|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6375|Rural|
+36984|El Retoño|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6380|Rural|
+36984|Hursh (El Vergel)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6398|Rural|
+36984|La Salud|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6441|Rural|
+36984|San Bernardo (La Lobera)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6510|Rural|
+36984|San Joaquín|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6528|Rural|
+36984|San Juan de la Cruz (Las Cruces)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6540|Rural|
+36984|Estación Joaquín|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0979|Rural|
+36984|Alto de Negrete (El Pujido)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5507|Rural|
+36984|Buenavista de Vega|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6335|Rural|
+36984|Colonia Hermosillo|Colonia|Abasolo|Guanajuato||36971|11|36971||09|001|6346|Rural|
+36984|Granja Fátima|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6393|Rural|
+36984|La Herradura|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6419|Rural|
+36984|La Muralla|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6426|Rural|
+36984|La Trinidad de San Miguel|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6444|Rural|
+36984|Loma de Lastiri|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6456|Rural|
+36984|Los Navarro (El Alacrán)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6460|Rural|
+36984|Rancho Campo Real|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6491|Rural|
+36984|San Felipe|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6518|Rural|
+36984|San Jerónimo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6527|Rural|
+36984|Santa Elena|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6559|Rural|
+36984|El Tule|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0984|Rural|
+36984|La Carroza|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0990|Rural|
+36984|Abel Delgado (La Lobera)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6328|Rural|
+36984|Alto de Medina (San Jerónimo de Medina)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6332|Rural|
+36984|El Laurel (Don Arcadio)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6364|Rural|
+36984|El Pino|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6371|Rural|
+36984|La Cinta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6408|Rural|
+36984|La Flor (Eliseo Martínez)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6414|Rural|
+36984|La Loma|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6421|Rural|
+36984|La Loma|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|6422|Rural|
+36984|Las Cruces|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6451|Rural|
+36984|Rancho Alegre|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6490|Rural|
+36984|Refugio de Ríos (La Pirámide)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6499|Rural|
+36984|San Francisco Tierras Blancas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6522|Rural|
+36984|San Juan|Colonia|Abasolo|Guanajuato||36971|11|36971||09|001|6538|Rural|
+36984|El Motor de San Jacinto|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|9305|Rural|
+36984|El Fresno|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6362|Rural|
+36984|La Abandonada (El Gallito)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6401|Rural|
+36984|La Casa Blanca (El Álamo)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6404|Rural|
+36984|La Colonia|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6409|Rural|
+36984|Marfil|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6467|Rural|
+36984|Paraíso de Núñez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6477|Rural|
+36984|San Cayetano (La Bruja)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6515|Rural|
+36984|San Francisco de Horta (El Gato)|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0992|Rural|
+36984|Fraccionamiento el Refugio|Fraccionamiento|Abasolo|Guanajuato||36971|11|36971||21|001|6388|Rural|
+36984|La Candelaria (Cristo Rey)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6403|Rural|
+36984|La Nueva Lobera|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6428|Rural|
+36984|La Nueva Salud|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6429|Rural|
+36984|Los Serranos (El Alacrán)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6464|Rural|
+36984|Maximino Fuerte (La Potosina)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6469|Rural|
+36984|San Rafael de Horta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6550|Rural|
+36984|San Vicente de Aguirre|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6554|Rural|
+36984|Santa Rita|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6564|Rural|
+36985|Gómez de Orozco|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0973|Rural|
+36985|La Magnolia|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5334|Rural|
+36985|Don Blas (San José de Gómez)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6354|Rural|
+36985|Jacarandas|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6400|Rural|
+36985|La Providencia|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|6436|Rural|
+36985|Los Laureles|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6458|Rural|
+36985|Paso de Canoa (Chocándiro)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6479|Rural|
+36985|Florida de Gómez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0972|Rural|
+36985|Cerrito de Gómez (La Montañita)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6342|Rural|
+36985|El Milagro|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6365|Rural|
+36985|El Refugio de Ayala (Luz de Ayala)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6379|Rural|
+36985|Estancia San Miguel de Roa|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6386|Rural|
+36985|Galera de Huitzátaro (Granja de Don Cruz)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6390|Rural|
+36985|La Maraña|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6425|Rural|
+36985|Paso de Canoa (San Luis Rey)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6480|Rural|
+36985|Purísima de Castillejo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6485|Rural|
+36985|Rafael Zaragoza (La Magnolia)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6487|Rural|
+36985|San Felipe|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6517|Rural|
+36985|San José de Gómez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6531|Rural|
+36985|San José de la Florida|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6533|Rural|
+36985|San José de Pintores|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6535|Rural|
+36985|San Juan de los Olivos (Antonio Specia)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6541|Rural|
+36985|Buenavista de Vega (Las Conejas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6336|Rural|
+36985|El Tepocate|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6382|Rural|
+36985|La Purísima|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6439|Rural|
+36985|La Trinidad (Rancho de Juan José Orozco)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6443|Rural|
+36985|Paso de Canoa (Arroyo Seco)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6478|Rural|
+36985|Canoas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6338|Rural|
+36985|El Álamo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6357|Rural|
+36985|El Refugio|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6378|Rural|
+36985|La Concepción|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6410|Rural|
+36985|Laredo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6449|Rural|
+36985|Las Canoas (Arroyo Seco)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6450|Rural|
+36985|San Francisco|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6521|Rural|
+36985|San Jorge|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6529|Rural|
+36985|San José de González|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6532|Rural|
+36985|San Nicolás de Gallardo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6546|Rural|
+36985|San Nicolás de Navarrete|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6548|Rural|
+36985|Santa Bárbara|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6558|Rural|
+36985|Soledad de Ayala|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6568|Rural|
+36985|Villa de Guadalupe [Granja Porcícola]|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6571|Rural|
+36985|Estación Abasolo|Estación|Abasolo|Guanajuato||36971|11|36971||16|001|0983|Rural|
+36985|La Estancia de Orozco (Cuatro Milpas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5365|Rural|
+36985|Canoas (Juan Ángel Martínez)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6339|Rural|
+36985|El Encanto|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6360|Rural|
+36985|El Rosario|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6381|Rural|
+36985|Granja del Socorro|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6392|Rural|
+36985|San Miguel de Tiradores|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5506|Rural|
+36985|Granja la Esperanza|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6395|Rural|
+36985|Huitzizilín (Predio de Huitzatarito)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6397|Rural|
+36985|Rancho Seco de Tiradores|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6497|Rural|
+36985|San Antonio|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6504|Rural|
+36985|San Ramón|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6551|Rural|
+36985|La Mora|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0969|Rural|
+36985|La Chinche|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5335|Rural|
+36985|Barrio Nuevo de Santa Bárbara|Barrio|Abasolo|Guanajuato||36971|11|36971||02|001|6334|Rural|
+36985|Granja de Mario Alberto Pérez|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6391|Rural|
+36985|Granja Navarrete|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6396|Rural|
+36985|La Providencia|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6435|Rural|
+36985|La Providencia (Gustavo García)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6437|Rural|
+36985|Pintores|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6481|Rural|
+36985|San Isidro|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6524|Rural|
+36985|Ubaldo León (Santa Rosa)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6570|Rural|
+36985|La Chinche (Granja Santa Amalia)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6407|Rural|
+36985|Miraflores|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6471|Rural|
+36985|Puerta de Palo Dulce|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6484|Rural|
+36985|San Andrés de Gómez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6503|Rural|
+36985|San Antonio de Gómez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6505|Rural|
+36985|San Cayetano|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6513|Rural|
+36985|San Miguelito de Ayala|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6545|Rural|
+36985|San Vicente de Ceballos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6556|Rural|
+36985|Huitzatarito|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0985|Rural|
+36985|Cantarranas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6340|Rural|
+36985|El Pitahayo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6373|Rural|
+36985|Estancia de Orozco|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6385|Rural|
+36985|La Chaquira|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6406|Rural|
+36985|La Luz [Parador]|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6423|Rural|
+36985|Los Pinos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6462|Rural|
+36985|Rancho Nuevo de Castañeda|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6495|Rural|
+36985|Rancho Seco de Orozco|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6496|Rural|
+36985|San Juan de los Olivos (Ricardo Cruz)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6542|Rural|
+36985|San Vicente del Caño (San Vicente de Hidalgo)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6557|Rural|
+36985|Santa Martha (San Vicente de Paúl)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6563|Rural|
+36985|Santa Teresa|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6567|Rural|
+36986|La Tinaja de Negrete|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0948|Rural|
+36986|Peralta|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0957|Rural|
+36986|Rancho Seco|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5338|Rural|
+36986|María del Carmen (Granja Niembro)|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6468|Rural|
+36986|Rosas Blancas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6500|Rural|
+36986|San Pedro de Mogotes (El Cerrito)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6549|Rural|
+36986|Santa Rosa|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6565|Rural|
+36986|Las Mesas (Buena Vista de Vaca)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0949|Rural|
+36986|Labor de Peralta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0955|Rural|
+36986|Las Estacas|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0956|Rural|
+36986|San Antonio de la Rinconada (La Mugre)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6506|Rural|
+36986|San Antonio de Peralta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6508|Rural|
+36986|San Luis|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6543|Rural|
+36986|El Saucillo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0947|Rural|
+36986|El Zorrillo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0968|Rural|
+36986|Cuatro Caminos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6353|Rural|
+36986|El Pozo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6374|Rural|
+36986|El Tular|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6383|Rural|
+36986|Vista Hermosa|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6572|Rural|
+36986|La Ordeña|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0960|Rural|
+36986|Los Leones|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0961|Rural|
+36986|El Peñón|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6368|Rural|
+36986|Jacarandas|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6399|Rural|
+36986|Montecillo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6473|Rural|
+36986|San Lorenzo (San Nicolás de Ayala)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5302|Rural|
+36986|Fracción la Gloria (Ricardo Cruz Aguilera)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6387|Rural|
+36986|La Casita|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6405|Rural|
+36986|La Escondida (Las Bodegas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6412|Rural|
+36986|San Telmo de Roa|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6553|Rural|
+36986|La Gloria|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6417|Rural|
+36986|San Aparicio (La Granja del Doctor)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6509|Rural|
+36986|San Isidro de la Rinconada (Chincual)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6525|Rural|
+36986|Santa Elena de Mogotes|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6561|Rural|
+36986|Zapote de Peralta|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0959|Rural|
+36986|Mogotes|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0970|Rural|
+36986|Concepción de Cruces|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6350|Rural|
+36986|Granja González|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6394|Rural|
+36986|Zenzontle|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6574|Rural|
+36986|Boquillas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0953|Rural|
+36986|La Brisa|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0954|Rural|
+36986|Piedras Negras|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0958|Rural|
+36986|San Aparicio|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0962|Rural|
+36986|La Luz de Quintana|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5333|Rural|
+36986|Agua Blanca|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6329|Rural|
+36986|Cofradía de Peralta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6344|Rural|
+36986|Ejido San Telmo (Los Pérez)|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|6356|Rural|
+36986|El Pedregal|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6370|Rural|
+36986|El Quinto|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6377|Rural|
+36986|Laredo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6448|Rural|
+36986|Providencia|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6482|Rural|
+36986|San Carlos|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6512|Rural|
+36986|San Cayetano del Carmen (La Roncha)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6516|Rural|
+36986|San Juan de Dios|Granja|Abasolo|Guanajuato||36971|11|36971||23|001|6539|Rural|
+36986|San Nicolás de los Rosales (La Cabra)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6547|Rural|
+36987|El Gallito (El Pitahayo)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5337|Rural|
+36987|Coyoacán de Vargas (Faustino Vargas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6352|Rural|
+36987|El Encinal|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6361|Rural|
+36987|Mireles|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6472|Rural|
+36987|San José de Ceballos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6530|Rural|
+36987|Paso de Piedra|Poblado comunal|Abasolo|Guanajuato||36971|11|36971||27|001|5509|Rural|
+36987|Palomar|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6476|Rural|
+36987|San José de Ruiz|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6536|Rural|
+36987|El Varal|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0952|Rural|
+36987|Cerrito de Aceves|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0963|Rural|
+36987|Camacho|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6337|Rural|
+36987|El Coyote (Maravillas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6359|Rural|
+36987|La Galera de Gallardo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6416|Rural|
+36987|La Rosa de Camacho|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6440|Rural|
+36987|San Antonio de las Huertas (El Manicomio)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6507|Rural|
+36987|Santa Lucía|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6562|Rural|
+36987|Salitre de Saavedra|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0965|Rural|
+36987|Ejido Maritas (J. Jesús Cabrera Vázquez)|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|6355|Rural|
+36987|El Paraíso (San José)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6367|Rural|
+36987|La Cabaña|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6402|Rural|
+36987|Lagunilla de Mireles|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6446|Rural|
+36987|Rancho Nuevo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6494|Rural|
+36987|San Fernando de Cerda|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6520|Rural|
+36987|San José del Varal (Las Pomas Viejas)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6537|Rural|
+36987|Santa Elena de Acosta|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6560|Rural|
+36987|Berumbo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0964|Rural|
+36987|Buenavista de Chávez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|5431|Rural|
+36987|Cortijo Miramar|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6351|Rural|
+36987|El Novillero|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6366|Rural|
+36987|Las Pomas Nuevas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6454|Rural|
+36987|Soledad de Vargas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6569|Rural|
+36987|Rincón de Martínez|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0951|Rural|
+36987|El Pedregal|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6369|Rural|
+36987|El Puente|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6376|Rural|
+36987|La Magueyera|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6424|Rural|
+36987|La Purísima|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6438|Rural|
+36987|Maravillas (Maravillas de Cabrera)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6466|Rural|
+36987|Purísima de Gómez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6486|Rural|
+36987|San Miguelito (San Miguel Colonia el Salitre)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6544|Rural|
+36987|El Pitahayo|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6372|Rural|
+36987|La Estrella|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6413|Rural|
+36987|Los Pinos|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6461|Rural|
+36987|Morales|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6474|Rural|
+36987|Maritas|Ejido|Abasolo|Guanajuato||36971|11|36971||15|001|0950|Rural|
+36987|La Mina|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|0966|Rural|
+36987|Emiliano Zapata (La Colonia)|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6384|Rural|
+36987|La Granja|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6418|Rural|
+36987|La Loma|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6420|Rural|
+36987|Lagunillas de Martínez|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6447|Rural|
+36987|Las Liebres|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6452|Rural|
+36987|Las Palomas|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6453|Rural|
+36987|Lomelí|Ranchería|Abasolo|Guanajuato||36971|11|36971||29|001|6457|Rural|

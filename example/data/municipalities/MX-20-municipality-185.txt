@@ -1,0 +1,9 @@
+71610|San Juan Cacahuatepec Centro|Colonia|San Juan Cacahuatepec|Oaxaca|San Juan Cacahuatepec|71611|20|71611||09|185|3021|Rural|36
+71610|Barrio del Carmen|Barrio|San Juan Cacahuatepec|Oaxaca|San Juan Cacahuatepec|71611|20|71611||02|185|5011|Urbano|36
+71612|Buenavista|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|3022|Rural|
+71612|Ocotlan|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|3023|Rural|
+71613|Alto de las Mesas|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|3025|Rural|
+71613|San Francisco Sayultepec|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|3020|Rural|
+71613|San Antonio Ocotlan|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|3019|Rural|
+71613|Pie de La Cuesta|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|3018|Rural|
+71615|La Culebra|Ranchería|San Juan Cacahuatepec|Oaxaca||71611|20|71611||29|185|0001|Rural|

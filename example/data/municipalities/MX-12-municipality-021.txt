@@ -1,0 +1,89 @@
+40970|Coyuca de Benítez Centro|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|2912|Semiurbano|16
+40970|Cuauhtémoc|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|4132|Semiurbano|16
+40972|Cerro del Fortín|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1161|Semiurbano|16
+40972|C.E.T.I.S.|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1164|Semiurbano|16
+40972|ETTI|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1302|Semiurbano|16
+40972|Los Garrobos|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1472|Semiurbano|16
+40973|Zumpango|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1748|Semiurbano|16
+40973|Tierra y Libertad|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1684|Semiurbano|16
+40973|Astudillo|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|4127|Semiurbano|16
+40973|Tierra y Libertad|Ampliación|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||38|021|4133|Semiurbano|16
+40973|Venustiano Carranza|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1708|Semiurbano|16
+40974|Campesina Norte|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1106|Semiurbano|16
+40974|Primero de Enero|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3833|Semiurbano|16
+40974|Cuauhtémoc Cárdenas|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|4131|Semiurbano|16
+40974|Del PRI|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3831|Semiurbano|16
+40975|Guamuchito|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3830|Semiurbano|16
+40976|Bataz|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3834|Semiurbano|16
+40976|Bataz II|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|4130|Semiurbano|16
+40976|Campesina Sur|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1107|Semiurbano|16
+40976|La Noria|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3832|Semiurbano|16
+40976|Las Palmas|Unidad habitacional|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||31|021|1428|Semiurbano|16
+40976|Aureliano V Guinto|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|4126|Semiurbano|16
+40976|San Martín|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|4128|Semiurbano|16
+40976|Obrera|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3835|Semiurbano|16
+40977|Burócratas|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1104|Semiurbano|16
+40977|Lázaro Cárdenas|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|1443|Semiurbano|16
+40977|Las Viudas|Unidad habitacional|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||31|021|4129|Semiurbano|16
+40978|Del Río|Colonia|Coyuca de Benítez|Guerrero|Coyuca de Benítez|40971|12|40971||09|021|3829|Semiurbano|16
+40980|San Salvador las Pozas|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2917|Rural|
+40980|Aguas Blancas|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2910|Rural|
+40980|Los Cimientos|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2914|Rural|
+40980|Pueblo Viejo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2915|Rural|
+40980|El Zapote|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2913|Rural|
+40980|Rancho del Santo|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2916|Rural|
+40980|Atoyaquillo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2911|Rural|
+40981|El Guamúchil|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2922|Rural|
+40981|Aguacatito|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2918|Rural|
+40981|Rancho Alegre|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2926|Rural|
+40981|El Terrero|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2923|Rural|
+40981|Los Nopales|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2924|Rural|
+40981|Pie de La Cuesta|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2925|Rural|
+40981|El Cayaco|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2921|Rural|
+40981|Barrio Nuevo La Laja|Barrio|Coyuca de Benítez|Guerrero||40971|12|40971||02|021|2919|Rural|
+40981|El Aguacate|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2920|Rural|
+40982|El Papayo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2928|Rural|
+40982|Los Parazales|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2930|Rural|
+40982|Las Lomitas|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2929|Rural|
+40982|Carrera Larga|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2927|Rural|
+40982|San José Mogollón|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2933|Rural|
+40982|Los Parazalitos|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2931|Rural|
+40982|Pénjamo|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2932|Rural|
+40983|El Espinalillo|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2934|Rural|
+40983|San Nicolás|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2935|Rural|
+40984|Cahuatitán|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2936|Rural|
+40984|El Bejuco|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2937|Rural|
+40984|Yetla|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2941|Rural|
+40984|Las Lomas|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2939|Rural|
+40984|El Zapotillo|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2938|Rural|
+40984|Las Tranquitas|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2940|Rural|
+40985|Bajos del Ejido|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2942|Rural|
+40985|Viejo|Ejido|Coyuca de Benítez|Guerrero||40971|12|40971||15|021|2943|Rural|
+40985|Valle del Río|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2947|Rural|
+40985|Los Reyes|Colonia|Coyuca de Benítez|Guerrero||40971|12|40971||09|021|4239|Rural|
+40985|El Embarcadero|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2944|Rural|
+40985|Platanillo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2946|Rural|
+40985|Ocotillo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2945|Rural|
+40986|El Camalote|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|5030|Rural|
+40986|Cerrito de Oro|Ejido|Coyuca de Benítez|Guerrero||40971|12|40971||15|021|2948|Rural|
+40986|El Conchero|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2949|Rural|
+40987|Del Río|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2950|Rural|
+40987|Santa Cruz del Río|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2951|Rural|
+40987|Tepetixtla|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2952|Rural|
+40988|Tixtlancingo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2955|Rural|
+40988|Agua Zarca|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2953|Rural|
+40988|San Juan del Río|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2954|Rural|
+40989|Playa del Carrizal|Campamento|Coyuca de Benítez|Guerrero||39559|12|39559||04|021|2959|Rural|
+40989|Playa Azul|Ranchería|Coyuca de Benítez|Guerrero||39559|12|39559||29|021|2958|Rural|
+40989|San Nicolás de las Playas|Colonia|Coyuca de Benítez|Guerrero||39559|12|39559||09|021|0526|Urbano|
+40989|Luces en el Mar|Colonia|Coyuca de Benítez|Guerrero||39559|12|39559||09|021|0525|Urbano|
+40989|Barra de Coyuca|Pueblo|Coyuca de Benítez|Guerrero||39559|12|39559||28|021|2956|Rural|
+40989|Los Mogotes|Ranchería|Coyuca de Benítez|Guerrero||39559|12|39559||29|021|2957|Rural|
+40990|Yerba Santita|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2962|Rural|
+40990|Barrio Nuevo|Pueblo|Coyuca de Benítez|Guerrero||40971|12|40971||28|021|2960|Rural|
+40990|Las Compuertas|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2961|Rural|
+40992|Santa Rosa de Lima|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2964|Rural|
+40994|Paso Real|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2966|Rural|
+40994|Barrio Nuevo del Progreso|Campamento|Coyuca de Benítez|Guerrero||40971|12|40971||04|021|2965|Rural|
+40997|El Coapinolar|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2967|Rural|
+40997|Las Humedades|Ranchería|Coyuca de Benítez|Guerrero||40971|12|40971||29|021|2968|Rural|

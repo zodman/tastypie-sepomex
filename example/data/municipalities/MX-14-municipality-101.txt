@@ -1,0 +1,344 @@
+45400|La Mesa II|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3252|Urbano|12
+45400|Colorines|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5150|Urbano|12
+45400|Hidalgo de Tonala|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0989|Urbano|12
+45400|Pachaguillo|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0993|Urbano|12
+45400|Tonalá Centro|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0994|Urbano|12
+45400|Jardines de Tonala|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|1030|Urbano|12
+45400|San Elias|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|3178|Urbano|12
+45400|El Amial|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3246|Urbano|12
+45400|Valle Del Sol|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4080|Urbano|12
+45400|Poder Popular|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4241|Urbano|12
+45400|Las Gabrielas|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4598|Urbano|12
+45400|Bellavista|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5141|Urbano|12
+45400|Jardines de San Rafael|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5299|Urbano|12
+45400|El Mirador|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0987|Urbano|12
+45400|El Zapote|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0988|Urbano|12
+45400|La Cabaña|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0991|Urbano|12
+45400|Mirador Del Sol|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3247|Urbano|12
+45400|Balcones Del Sol|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3255|Urbano|12
+45400|Rinconadas Del Sol|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4596|Urbano|12
+45400|Colonia del Sur|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4832|Urbano|12
+45400|Prados Tonalá|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5198|Urbano|12
+45400|Ricardo Flores Magón|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0009|Urbano|12
+45400|Colinas de Altamira|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0012|Urbano|12
+45400|Lomas de Tonalá|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0992|Urbano|12
+45400|Praderas Del Sol|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|1031|Urbano|12
+45400|Fidel Velázquez|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1032|Urbano|12
+45400|Tonaltecas|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3176|Urbano|12
+45400|Tenamaxtle|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3182|Urbano|12
+45400|Colinas de San Carlos|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3249|Urbano|12
+45400|Mirador de La Reyna|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3253|Urbano|12
+45400|Altamira|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4805|Urbano|12
+45400|Pirul|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5188|Urbano|12
+45400|Loma Sur|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0014|Urbano|12
+45400|El Remolino|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0015|Urbano|12
+45400|La Comolea|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3183|Urbano|12
+45400|Potrerito Beccerros|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5192|Urbano|12
+45400|Rinconada de los Cerezos|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0010|Urbano|12
+45400|San Mateo|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0016|Urbano|12
+45400|Sillita Zapote|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3174|Urbano|12
+45400|Pueblito Del Sol|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3179|Urbano|12
+45400|Concha|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4485|Urbano|12
+45400|Arroyos|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5137|Urbano|12
+45400|Comolca|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0011|Urbano|12
+45400|Tonaltecas II|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3175|Urbano|12
+45400|Buenos Aires|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4599|Urbano|12
+45400|La Providencia|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4614|Urbano|12
+45400|Rinconada Tonalá|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5207|Urbano|12
+45400|Cihualpilli|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0013|Urbano|12
+45400|La Alberca|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3177|Urbano|12
+45400|Xicoxochitl|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3248|Urbano|12
+45400|La Mesa I|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3251|Urbano|12
+45400|Cuchara|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3254|Urbano|12
+45400|Misión Del Campanario|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4597|Urbano|12
+45400|Vistas del Valle|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4895|Urbano|12
+45400|Bajío de la Mesa|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5138|Urbano|12
+45400|Cañon|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5144|Urbano|12
+45400|Vistas Tonallán|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5215|Urbano|12
+45402|Francisco Villa|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1048|Urbano|12
+45402|Loma Dorada Secc B|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|1051|Urbano|12
+45402|Barrio Nuevo|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3194|Urbano|12
+45402|El Cerro|Unidad habitacional|Tonalá|Jalisco|Tonalá|45411|14|45411||31|101|5158|Urbano|12
+45402|Privada Torres|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|5199|Urbano|12
+45402|Torres|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|5209|Urbano|12
+45402|Los Cuadros|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3189|Urbano|12
+45402|Quintana Catalina|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3192|Urbano|12
+45402|Alfareros|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5132|Urbano|12
+45402|Alpinos|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5133|Urbano|12
+45402|El Barro|Unidad habitacional|Tonalá|Jalisco|Tonalá|45411|14|45411||31|101|5156|Urbano|12
+45402|Nuevo Santa Cruz|Barrio|Tonalá|Jalisco|Tonalá|45411|14|45411||02|101|1024|Urbano|12
+45402|Loma Dorada Secc A|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|1050|Urbano|12
+45402|Loma Dorada Secc C|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|1052|Urbano|12
+45402|Industrial Nueva Central Camionera|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|4840|Urbano|12
+45402|Colinas de Tonalá|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5146|Urbano|12
+45402|Ciudad Aztlán|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1056|Urbano|12
+45402|Rey Xolotl|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3195|Urbano|12
+45402|Anexo Ciudad Aztlán|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5135|Urbano|12
+45402|Loma Dorada Secc D|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|1053|Urbano|12
+45402|Lomas Del Manantial|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3187|Urbano|12
+45402|Santa Cruz de las Huertas|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3188|Urbano|12
+45402|Fuentes Del Nilo|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|4375|Urbano|12
+45402|Colonos Ciudad Aztlán|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5149|Urbano|12
+45402|El Cerrito|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5157|Urbano|12
+45402|Ladera|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5174|Urbano|12
+45402|Loma Dorada Ejidal|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5178|Urbano|12
+45402|Los Liberales|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5180|Urbano|12
+45402|Villas Artesanos|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|5213|Urbano|12
+45402|Los Músicos|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1057|Urbano|12
+45402|Linda Vista|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3190|Urbano|12
+45402|Lagunero|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3191|Urbano|12
+45402|Larguero|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|4827|Urbano|12
+45402|Amiales Ciudad Aztlán|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5134|Urbano|12
+45402|Pedregal|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5186|Urbano|12
+45403|Buenos Aires|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3200|Urbano|12
+45403|Lomas del Camichin|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3209|Urbano|12
+45403|Villas de Oriente|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3214|Urbano|12
+45403|Villas de Oriente II|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3215|Urbano|12
+45403|Rinconada de la Presa|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|5204|Urbano|12
+45403|INFONAVIT La Soledad|Unidad habitacional|Tonalá|Jalisco|Tonalá|45411|14|45411||31|101|1041|Urbano|12
+45403|Flores Magón I Fracc|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|3210|Urbano|12
+45403|Del Valle|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5153|Urbano|12
+45403|Colinas de La Cruz|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3197|Urbano|12
+45403|Lomas de los Pájaros|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|4436|Urbano|12
+45403|Colinas Santa Cruz II|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5147|Urbano|12
+45403|La Quinta|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1023|Urbano|12
+45403|El Bajío de Santa Cruz|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3196|Urbano|12
+45403|Paseos Del Valle|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3201|Urbano|12
+45403|INFONAVIT Río Nilo|Unidad habitacional|Tonalá|Jalisco|Tonalá|45411|14|45411||31|101|3213|Urbano|12
+45403|Lomas de La Soledad|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1042|Urbano|12
+45403|Flores Magón II|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3211|Urbano|12
+45403|Los Camichines II|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|3295|Urbano|12
+45403|Real Patria|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|4457|Urbano|12
+45403|Cipreses|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|4516|Urbano|12
+45403|Rinconada del Árbol|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|5205|Urbano|12
+45403|Maravillas|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1044|Urbano|12
+45403|Hacienda San Francisco|Hacienda|Tonalá|Jalisco|Tonalá|45411|14|45411||24|101|3206|Urbano|12
+45403|Rinconada San Francisco|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|4631|Urbano|12
+45403|Los Pocitos|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3198|Urbano|12
+45403|Plaza Camichines|Residencial|Tonalá|Jalisco|Tonalá|45411|14|45411||30|101|3205|Urbano|12
+45403|El Doradito|Fraccionamiento|Tonalá|Jalisco|Tonalá|45411|14|45411||21|101|3262|Urbano|12
+45403|Los Camichines I|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3294|Urbano|12
+45403|Los Camichines III|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3296|Urbano|12
+45403|Agua Escondida|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|5127|Urbano|12
+45403|Villas de Guadalupe de Tonalá|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|1001|Urbano|12
+45403|Torres de Rio Nilo|Colonia|Tonalá|Jalisco|Tonalá|45411|14|45411||09|101|3212|Urbano|12
+45404|El Rosario|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1033|Urbano|12
+45404|Comunidad Indígena El Rosario|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3266|Urbano|12
+45404|Basilio Badillo II|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3277|Urbano|12
+45404|Buenavista II|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5143|Urbano|12
+45404|Huerta|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|5165|Urbano|12
+45404|Plan Pardo|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|5190|Urbano|12
+45404|20 de Noviembre I|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|3264|Urbano|12
+45404|Rinconada del Rosario|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5206|Urbano|12
+45404|Gavilanes|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3271|Urbano|12
+45404|Valle de La Reyna|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4396|Urbano|12
+45404|Adobera|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4826|Urbano|12
+45404|Balcones del Rosario|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5140|Urbano|12
+45404|Buenavista I|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5142|Urbano|12
+45404|Puerta del Rosario|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5200|Urbano|12
+45404|Leyes de Reforma|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3261|Urbano|12
+45404|Misión Cantera|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4116|Urbano|12
+45404|Rinconada Del Mezquital|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4401|Semiurbano|12
+45404|Águilas|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5129|Urbano|12
+45404|La Hortaliza|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1036|Urbano|12
+45404|Plan Rosario|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|1038|Urbano|12
+45404|Jardines Del Rosario|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3268|Urbano|12
+45404|Puesta Del Sol|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3273|Urbano|12
+45404|Aguajomate|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5128|Urbano|12
+45404|Plan|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|5189|Urbano|12
+45404|Jardines de Elizabeth|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|0025|Urbano|12
+45404|El Rosarito|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|3267|Urbano|12
+45404|Valle Leones|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|3274|Urbano|12
+45404|Educadores Jaliscienses|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3180|Urbano|12
+45404|20 de Noviembre II|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|3265|Urbano|12
+45404|Bosques de Tonala Sección I|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3272|Urbano|12
+45404|Bosques de Tonala Sección II|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3276|Urbano|12
+45405|Lomas Del Manantial|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1018|Urbano|12
+45405|Zalatitan|Pueblo|Tonalá|Jalisco|Tonalá|45409|14|45409||28|101|1020|Urbano|12
+45405|Loma Bonita 2a Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3279|Urbano|12
+45405|Constancio Hernández Alvirde|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|1016|Urbano|12
+45405|Los Manguitos|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3185|Urbano|12
+45405|La Pila|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3282|Urbano|12
+45405|Las Torres|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5176|Urbano|12
+45405|Altamira|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1013|Urbano|12
+45405|Loma Bonita 3a Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3280|Urbano|12
+45405|Loma Bonita 1a Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3278|Urbano|12
+45405|Ahuacate|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5130|Urbano|12
+45406|Pinar de las Palomas II|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3288|Urbano|12
+45406|Paseo de Tonala|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|1019|Urbano|12
+45406|Girasoles|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4633|Urbano|12
+45406|Jacarandas|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|0020|Urbano|12
+45406|Villas Zalatitán|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4086|Urbano|12
+45406|Rinconada Paraíso|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|0021|Urbano|12
+45406|Arroyo Seco|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3284|Urbano|12
+45406|Arcos de Zalatitan II|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3290|Urbano|12
+45406|Quintas del Paraíso|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|5292|Urbano|12
+45406|Arcos de Zalatitan|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|1014|Urbano|12
+45406|Pinar de las Palomas|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3289|Urbano|12
+45406|Rincón del Paraíso|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|0022|Urbano|12
+45406|Pinar de las Palomas I|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3287|Urbano|12
+45406|Potrero San Francisco|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|5193|Urbano|12
+45406|Basilio Badillo|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1015|Urbano|12
+45406|Los Pinos|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4490|Urbano|12
+45406|Paraíso|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4801|Urbano|12
+45406|Geranios|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5163|Urbano|12
+45407|Lomas Del Laurel|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1000|Urbano|12
+45407|Los Camichines|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1003|Urbano|12
+45407|Alamedas de Zalatitán|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1002|Urbano|12
+45407|La Villa|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1004|Urbano|12
+45407|El Caracol|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3293|Urbano|12
+45407|Misión de San Francisco|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4581|Urbano|12
+45407|El Molino|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|0998|Urbano|12
+45407|Los Camichines 2|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5216|Urbano|12
+45407|Del Laurel|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|0997|Urbano|12
+45407|Lomas de Zalatitan|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3297|Urbano|12
+45407|Los Manantiales|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5181|Urbano|12
+45407|Los Camichines 3|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5217|Urbano|12
+45407|La Cruz|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1012|Urbano|12
+45407|La Arena|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5170|Urbano|12
+45408|Arboledas de San Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3184|Urbano|12
+45408|La Perseverancia|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4486|Urbano|12
+45408|La Mojonera|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4800|Urbano|12
+45408|Huertas de San Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3299|Urbano|12
+45408|Jazmín|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5168|Urbano|12
+45408|Lomas Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5179|Urbano|12
+45408|López Cotilla|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|0023|Urbano|12
+45408|San Gaspar|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|3216|Urbano|12
+45408|San Gaspar de las Flores|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1007|Urbano|12
+45408|La Pila de San Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3301|Urbano|12
+45408|Arroyo|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5136|Urbano|12
+45408|Bajío San Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5139|Urbano|12
+45408|Huertas del Valle|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|0018|Urbano|12
+45408|Poder Popular 3a Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4238|Urbano|12
+45408|Alamedas de San Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5131|Urbano|12
+45408|La Cañada|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5171|Urbano|12
+45410|Misión de los Viñedos|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0001|Urbano|12
+45410|Urbi Quinta Montecarlo|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4488|Urbano|12
+45410|Vergel|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4802|Urbano|12
+45410|Real Cruz|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4803|Urbano|12
+45410|Cruz Loma|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5152|Urbano|12
+45410|Prados de la Cruz|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5196|Urbano|12
+45410|Puerta Sol|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5201|Urbano|12
+45410|Buena Mirada|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0019|Urbano|12
+45410|Prados de Coyula Sección II|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3304|Urbano|12
+45410|Prados de la Cruz|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5195|Urbano|12
+45410|Valle Verde|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5211|Urbano|12
+45410|Rinconada|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4391|Urbano|12
+45410|Cerrito de La Reyna|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3181|Urbano|12
+45410|Mesa de las Gamboas|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3307|Urbano|12
+45410|San Coyula|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5208|Urbano|12
+45410|Urbi Villa del Río|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5210|Urbano|12
+45410|Rancho de los Alvarez|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3302|Urbano|12
+45410|Rinconada de La Cruz|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4831|Urbano|12
+45410|Duque|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5155|Urbano|12
+45410|El Panorámico 2|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5159|Urbano|12
+45410|Juárez|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5169|Urbano|12
+45410|Villas Cruz|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5214|Urbano|12
+45410|Privadas de la Reyna|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5254|Urbano|12
+45410|Rancho La Cruz|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1011|Urbano|12
+45410|Prados de Coyula Sección I|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3303|Urbano|12
+45410|Llano Verde|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3305|Urbano|12
+45410|Los Vizcarra|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3306|Urbano|12
+45410|Arboleda Tonala|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4386|Urbano|12
+45410|Haciendas de la Reina|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0024|Urbano|12
+45410|Coyula|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1009|Urbano|12
+45410|El Panorámico|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4472|Urbano|12
+45410|Rinconada de San Lorenzo|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0017|Urbano|12
+45410|Rinconada de Coyula|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4245|Urbano|12
+45410|Jardines de La Reyna|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4388|Urbano|12
+45412|La Resolana|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3311|Urbano|12
+45412|La Presa|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3313|Urbano|12
+45412|Mirador Oriente|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|3314|Urbano|12
+45412|Nuevo Israel|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5184|Urbano|12
+45412|Gallos Viejos|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3309|Urbano|12
+45412|Loma de San Gaspar|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3310|Urbano|12
+45412|Lázaro Cárdenas (Barranquitas)|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4382|Urbano|12
+45412|Francisco Villa|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4533|Semiurbano|12
+45412|Jalisco 2a. Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5166|Urbano|12
+45412|Colimilla|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|3312|Urbano|12
+45412|La Noria|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4377|Urbano|12
+45412|Emiliano Zapata|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4557|Semiurbano|12
+45412|El Ahuatan|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4543|Semiurbano|12
+45412|Jalisco 1a. Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|0999|Urbano|12
+45412|Los Conejos|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4378|Urbano|12
+45413|Surcos Largos|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4838|Urbano|12
+45413|Colosio|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5151|Urbano|12
+45413|Tulipanes|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1008|Urbano|12
+45413|Poder Popular 4a Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4237|Urbano|12
+45413|Lázaro Cárdenas|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|5177|Urbano|12
+45413|Residencias el Prado (Jardines del Prado)|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|5257|Urbano|12
+45413|Poder Popular 5a Sección|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|4236|Urbano|12
+45413|Potrero de San Jose|Fraccionamiento|Tonalá|Jalisco|Tonalá|45409|14|45409||21|101|4578|Urbano|12
+45414|El Recodo|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1029|Urbano|12
+45416|Bosques de Tonala|Colonia|Tonalá|Jalisco|Tonalá|45409|14|45409||09|101|1034|Urbano|12
+45417|Plan del Guaje|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4806|Urbano|12
+45417|Cerro de La Campana|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3322|Urbano|12
+45417|Jardines de La Cruz Oriente|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|1010|Urbano|12
+45417|Rancho La Campana|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3321|Urbano|12
+45417|El Moral|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3323|Urbano|12
+45417|Hacienda La Loma o El Casco|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4804|Urbano|12
+45418|Las Cañadas|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4577|Urbano|12
+45419|Rey Xolotl|Unidad habitacional|Tonalá|Jalisco|Tonalá|45411|14|45411||31|101|1058|Urbano|12
+45420|Ojo de Agua|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5185|Urbano|12
+45420|Los Puestos|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5182|Urbano|12
+45420|La Severiana|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3327|Urbano|12
+45420|Poder Popular 2a Sección|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4235|Urbano|12
+45420|La Puerta|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0006|Urbano|12
+45420|Residencial Misión de Guadalupe|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0008|Urbano|12
+45420|La Pilita|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4082|Urbano|12
+45420|La Gigantera|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1065|Urbano|12
+45420|Santa Rosa|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1068|Urbano|12
+45420|El Bordo|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|0007|Urbano|12
+45420|Santa Paula|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1067|Urbano|12
+45420|El Rincón|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5161|Urbano|12
+45420|La Liga|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5172|Urbano|12
+45420|Potrerillo|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5191|Urbano|12
+45420|Santa Isabel|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3186|Urbano|12
+45422|Rancho Sánchez|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1066|Urbano|12
+45422|Mismaloya (Pedregal de Santa Martha)|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4808|Urbano|12
+45422|Colinas Tonalá|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5148|Urbano|12
+45422|Ocotillo|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3332|Urbano|12
+45422|Potrero de Jauja|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1064|Urbano|12
+45422|Los Amiales|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3329|Urbano|12
+45422|Encinos|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4807|Urbano|12
+45422|El Arenal|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3328|Urbano|12
+45422|Gallo Colorado|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3330|Urbano|12
+45422|Vistas del Pedregal|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0026|Urbano|12
+45422|Lomas de San Miguel|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4408|Urbano|12
+45422|La Loma|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5173|Urbano|12
+45424|San Francisco de La Soledad|Ranchería|Tonalá|Jalisco|Tonalá|45421|14|45421||29|101|1061|Rural|12
+45424|Puente Viejo|Fraccionamiento|Tonalá|Jalisco|Tonalá|45421|14|45421||21|101|4569|Rural|12
+45424|Pinar Paz|Colonia|Tonalá|Jalisco|Tonalá|45421|14|45421||09|101|5187|Urbano|12
+45424|Fuerte|Colonia|Tonalá|Jalisco|Tonalá|45421|14|45421||09|101|5162|Urbano|12
+45424|Lomas del Salto|Fraccionamiento|Tonalá|Jalisco|Tonalá|45421|14|45421||21|101|0005|Urbano|12
+45425|Lomas de San Miguel|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0003|Urbano|12
+45425|Luis Alonso González|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4244|Urbano|12
+45425|Lomas de San Miguel II|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|0004|Urbano|12
+45425|Vasconcelos|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5212|Urbano|12
+45425|San Miguel de La Punta|Ranchería|Tonalá|Jalisco|Tonalá|45401|14|45401||29|101|1062|Urbano|12
+45425|La Guadalupana|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1220|Urbano|12
+45426|Arroyo de Enmedio|Hacienda|Tonalá|Jalisco|Tonalá|45401|14|45401||24|101|1063|Urbano|12
+45427|El Jordan|Fraccionamiento|Tonalá|Jalisco|Tonalá|45421|14|45421||21|101|0002|Urbano|12
+45427|Tololotlan|Pueblo|Tonalá|Jalisco|Tonalá|45421|14|45421||28|101|1070|Rural|12
+45427|Puente Grande|Pueblo|Tonalá|Jalisco|Tonalá|45421|14|45421||28|101|1059|Urbano|12
+45427|Hipódromo|Colonia|Tonalá|Jalisco|Tonalá|45421|14|45421||09|101|4083|Rural|12
+45427|Ejidal del Sol|Fraccionamiento|Tonalá|Jalisco|Tonalá|45421|14|45421||21|101|4568|Urbano|12
+45427|Real Fresno|Fraccionamiento|Tonalá|Jalisco|Tonalá|45421|14|45421||21|101|5203|Urbano|12
+45427|Agua Blanca|Ranchería|Tonalá|Jalisco|Tonalá|45421|14|45421||29|101|1069|Rural|12
+45428|La Ladrillera|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|1037|Urbano|12
+45428|Puerta de Jauja|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4810|Urbano|12
+45428|La Llave|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4084|Urbano|12
+45428|Jardines de La Hacienda|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4618|Urbano|12
+45428|Jauja|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4809|Urbano|12
+45428|El Paraíso|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5160|Urbano|12
+45428|Jardines Mirador|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5167|Urbano|12
+45428|Los Pajaritos|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|3333|Urbano|12
+45428|La Esperanza|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4085|Urbano|12
+45428|Hacienda Del Real|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|4575|Urbano|12
+45428|La Calma|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5145|Urbano|12
+45429|Praderas de Tonallan|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|4580|Urbano|12
+45429|Lagunitas Tonallan|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5175|Urbano|12
+45429|Paseo de la Cañada|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5276|Urbano|12
+45429|Haciendas Tonalá|Colonia|Tonalá|Jalisco|Tonalá|45401|14|45401||09|101|5164|Urbano|12
+45429|El Vado|Ranchería|Tonalá|Jalisco|Tonalá|45401|14|45401||29|101|1071|Urbano|12
+45429|Puerta Sol Autopista|Fraccionamiento|Tonalá|Jalisco|Tonalá|45401|14|45401||21|101|5202|Urbano|12

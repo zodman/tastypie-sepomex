@@ -1,0 +1,22 @@
+58900|El Salomonico|Fraccionamiento|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||21|078|6671|Urbano|
+58900|San Antonio|Colonia|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||09|078|6674|Urbano|
+58900|Santa Ana Maya|Pueblo|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||28|078|0871|Urbano|
+58900|Del Bosque|Fraccionamiento|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||21|078|6670|Urbano|
+58900|Valle Dorado|Fraccionamiento|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||21|078|6675|Urbano|
+58900|Guadalupe|Colonia|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||09|078|6672|Urbano|
+58900|La Soledad|Colonia|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||09|078|6673|Urbano|
+58905|El Toronjo|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0868|Rural|
+58905|Puerto de Cabras|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0870|Rural|
+58909|San Nicolás Cuiritzeo|Pueblo|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||28|078|0874|Rural|
+58910|San Rafael del Carrizal|Pueblo|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||28|078|0877|Rural|
+58910|El Cuervo|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0875|Rural|
+58910|El Salto|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0876|Rural|
+58912|Potzundareo|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0879|Rural|
+58913|José Zavala (Los Zavala)|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|6676|Rural|
+58913|Colonia Buenavista|Poblado comunal|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||27|078|0880|Rural|
+58914|La Lobera|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0869|Rural|
+58915|Mesa Rica|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|6677|Rural|
+58915|Rancho Nuevo|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|6678|Rural|
+58918|Huacao|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0881|Rural|
+58919|Santa Rosa (El Tejocote)|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0873|Rural|
+58919|La Ladera|Ranchería|Santa Ana Maya|Michoacán de Ocampo||58901|16|58901||29|078|0882|Rural|

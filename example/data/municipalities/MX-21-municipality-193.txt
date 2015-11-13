@@ -1,0 +1,15 @@
+75300|Tzicatlacoyan|Pueblo|Tzicatlacoyan|Puebla||72471|21|72471||28|193|2210|Rural|
+75301|Acuexcomac|Pueblo|Tzicatlacoyan|Puebla||72471|21|72471||28|193|2211|Rural|
+75301|San Isidro Chiapa|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8061|Rural|
+75301|El Puente|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8056|Rural|
+75305|La Tranca|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8055|Rural|
+75305|Santa Cruz el Calvario|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8062|Rural|
+75305|Zacanoxtla|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8058|Rural|
+75305|San Francisco Lagunillas|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8060|Rural|
+75306|Tepanene|Ejido|Tzicatlacoyan|Puebla||72471|21|72471||15|193|2212|Rural|
+75306|Cuacnopala|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8054|Rural|
+75307|Texaluca|Ejido|Tzicatlacoyan|Puebla||72471|21|72471||15|193|2213|Rural|
+75307|La Santa Cruz|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8057|Rural|
+75310|San Antonio Juárez|Pueblo|Tzicatlacoyan|Puebla||72471|21|72471||28|193|2214|Rural|
+75311|San Martín Teteles|Ranchería|Tzicatlacoyan|Puebla||72471|21|72471||29|193|8059|Rural|
+75311|Balvanera|Ejido|Tzicatlacoyan|Puebla||72471|21|72471||15|193|2215|Rural|

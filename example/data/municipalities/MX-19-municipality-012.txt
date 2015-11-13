@@ -1,0 +1,44 @@
+65550|Ciénega de Flores Centro|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|2954|Semiurbano|12
+65554|Dibsa II|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|2951|Semiurbano|12
+65554|Tía Lencha|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0598|Semiurbano|12
+65554|Dibsa I|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0570|Semiurbano|12
+65555|Campestre Villas del Norte|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|5119|Urbano|12
+65555|Los Héroes Monterrey|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|0001|Urbano|12
+65555|Real del Sol 2 Sector|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|4874|Urbano|12
+65555|Valle del Carrizal|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|0004|Urbano|12
+65555|Real del Sol|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|4081|Semiurbano|12
+65556|Portal de Las Salinas Residencial|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|3985|Urbano|12
+65556|Villas Campestres|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0603|Rural|12
+65556|Los Ruiseñores|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|5123|Urbano|12
+65558|Conchita Velázco Sect 1|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0563|Semiurbano|12
+65558|Lomas de Ciénega|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|0583|Semiurbano|12
+65558|Pedregal de Ciénega|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|5121|Urbano|12
+65560|Los Lirios|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0584|Semiurbano|12
+65560|Valle de las Flores|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|2950|Semiurbano|12
+65560|La Crisis|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0565|Semiurbano|12
+65560|Conchita Velázco Sect 2|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0564|Semiurbano|12
+65560|Martinez Dominguez|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0588|Semiurbano|12
+65562|Fomerrey 5|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|3924|Urbano|12
+65562|Progreso|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|2939|Semiurbano|12
+65563|Emiliano Zapata|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0571|Semiurbano|12
+65563|Alianza Sector 3|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0601|Semiurbano|12
+65563|San Juan|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|3925|Urbano|12
+65563|Valle de las Lomas|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|5122|Urbano|12
+65563|Valle del Progreso|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|4888|Urbano|12
+65563|Privadas del Valle|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|5124|Urbano|12
+65564|Alianza|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0557|Semiurbano|12
+65564|Loma Linda|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|2942|Semiurbano|12
+65564|Alianza Sector 2|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0600|Semiurbano|12
+65564|Alianza Sector 1|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0599|Semiurbano|12
+65565|Valle de Ciénega|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|0602|Semiurbano|12
+65567|Privadas de Bella Vista|Fraccionamiento|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||21|012|0002|Urbano|12
+65567|Hacienda las Flores|Colonia|Ciénega de Flores|Nuevo León|Ciénega de Flores|65551|19|65551||09|012|4332|Urbano|12
+65573|Los Ruiseñores|Fraccionamiento|Ciénega de Flores|Nuevo León||65551|19|65551||21|012|4832|Rural|
+65573|Paseos del Roble|Fraccionamiento|Ciénega de Flores|Nuevo León||65551|19|65551||21|012|5105|Rural|
+65580|Paseos del Roble|Fraccionamiento|Ciénega de Flores|Nuevo León||65551|19|65551||21|012|5120|Urbano|
+65580|Portal de Alcalá|Fraccionamiento|Ciénega de Flores|Nuevo León||65551|19|65551||21|012|0003|Urbano|
+65580|Parque Industrial Diamante|Zona industrial|Ciénega de Flores|Nuevo León||65551|19|65551||37|012|0005|Urbano|
+65580|Parque Industrial Nexxus ADN|Parque industrial|Ciénega de Flores|Nuevo León||65551|19|65551||26|012|5128|Urbano|
+65580|Paseo del Roble|Fraccionamiento|Ciénega de Flores|Nuevo León||65551|19|65551||21|012|5132|Urbano|
+65580|Villas de Alcalá|Fraccionamiento|Ciénega de Flores|Nuevo León||65551|19|65551||21|012|3822|Semiurbano|
+65583|Parque Industrial Multiparque Aeropuerto|Parque industrial|Ciénega de Flores|Nuevo León||65551|19|65551||26|012|4930|Rural|

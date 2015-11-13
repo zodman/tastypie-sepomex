@@ -1,0 +1,66 @@
+35760|Rodeo Centro|Colonia|Rodeo|Durango||35761|10|35761||09|024|1689|Urbano|
+35760|2 de Agosto|Colonia|Rodeo|Durango||35761|10|35761||09|024|5072|Urbano|
+35760|Chonteco|Colonia|Rodeo|Durango||35761|10|35761||09|024|1998|Rural|
+35760|Hierbabuena|Fraccionamiento|Rodeo|Durango||35761|10|35761||21|024|2000|Rural|
+35760|C.B.T.A|Colonia|Rodeo|Durango||35761|10|35761||09|024|5071|Urbano|
+35760|Industrial|Colonia|Rodeo|Durango||35761|10|35761||09|024|1999|Urbano|
+35760|ETA 2|Colonia|Rodeo|Durango||35761|10|35761||09|024|5070|Urbano|
+35760|ETA|Colonia|Rodeo|Durango||35761|10|35761||09|024|1997|Rural|
+35760|Nueva Italia|Colonia|Rodeo|Durango||35761|10|35761||09|024|5069|Rural|
+35763|Las Tuzas|Ejido|Rodeo|Durango||35761|10|35761||15|024|3463|Rural|
+35763|Francisco Márquez|Ejido|Rodeo|Durango||35761|10|35761||15|024|1696|Rural|
+35763|Héroes de México (La Angostura)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1697|Rural|
+35763|San José de la Rosa (Pelillos)|Ejido|Rodeo|Durango||35761|10|35761||15|024|3467|Rural|
+35764|Barrio de Guadalupe|Ejido|Rodeo|Durango||35761|10|35761||15|024|1695|Rural|
+35764|El Parían|Ejido|Rodeo|Durango||35761|10|35761||15|024|1717|Rural|
+35764|Gatas Mochas|Ejido|Rodeo|Durango||35761|10|35761||15|024|3456|Rural|
+35764|La Peña|Ejido|Rodeo|Durango||35761|10|35761||15|024|3461|Rural|
+35764|Rodrigo Medrano|Ejido|Rodeo|Durango||35761|10|35761||15|024|3464|Rural|
+35764|Unión y Progreso (El Tejaban)|Ejido|Rodeo|Durango||35761|10|35761||15|024|3471|Rural|
+35764|Tierra Blanca|Ejido|Rodeo|Durango||35761|10|35761||15|024|1692|Rural|
+35764|Los Ángeles (Tierra Prieta)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1694|Rural|
+35764|Forrajes y Llantera Ramírez|Ranchería|Rodeo|Durango||35761|10|35761||29|024|4789|Rural|
+35764|Ojo de Agua|Ejido|Rodeo|Durango||35761|10|35761||15|024|1688|Rural|
+35765|San Pedro|Ejido|Rodeo|Durango||35761|10|35761||15|024|1710|Rural|
+35765|La Gotera|Ejido|Rodeo|Durango||35761|10|35761||15|024|1687|Rural|
+35765|La Escondida|Ejido|Rodeo|Durango||35761|10|35761||15|024|3460|Rural|
+35766|El Realito|Ejido|Rodeo|Durango||35761|10|35761||15|024|1709|Rural|
+35766|La Agüita|Ejido|Rodeo|Durango||35761|10|35761||15|024|3458|Rural|
+35766|Samaniego|Ejido|Rodeo|Durango||35761|10|35761||15|024|3468|Rural|
+35766|Yerbabuena|Ejido|Rodeo|Durango||35761|10|35761||15|024|1712|Rural|
+35766|Los Tepetates|Ejido|Rodeo|Durango||35761|10|35761||15|024|3465|Rural|
+35766|Nogalitos|Ejido|Rodeo|Durango||35761|10|35761||15|024|3466|Rural|
+35767|San Pedro y Anexos (El Salto)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1711|Rural|
+35770|Santa Bárbara|Ejido|Rodeo|Durango||35761|10|35761||15|024|1703|Rural|
+35770|Los Ladrillos|Ejido|Rodeo|Durango||35761|10|35761||15|024|1707|Rural|
+35770|Niños Héroes (San Rafael)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1702|Rural|
+35770|San Salvador de Horta|Ejido|Rodeo|Durango||35761|10|35761||15|024|1708|Rural|
+35773|Corral de Palos|Ejido|Rodeo|Durango||35761|10|35761||15|024|3453|Rural|
+35774|La Esperanza|Ejido|Rodeo|Durango||35761|10|35761||15|024|1700|Rural|
+35774|Bellavista (Los Fresnos)|Ejido|Rodeo|Durango||35761|10|35761||15|024|3452|Rural|
+35774|Abasolo|Pueblo|Rodeo|Durango||35761|10|35761||28|024|1701|Rural|
+35775|Alamillo Galeana|Ejido|Rodeo|Durango||35761|10|35761||15|024|1699|Rural|
+35775|La Pequeña (Francisco Martínez Pérez)|Ejido|Rodeo|Durango||35761|10|35761||15|024|3462|Rural|
+35775|Labor de Guadalupe|Ejido|Rodeo|Durango||35761|10|35761||15|024|1705|Rural|
+35775|Jesús González Ortega|Ejido|Rodeo|Durango||35761|10|35761||15|024|1706|Rural|
+35776|División del Norte (Las Playas)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1691|Rural|
+35780|El Pájaro|Ejido|Rodeo|Durango||35761|10|35761||15|024|3454|Rural|
+35780|Santa Isabel del Resbalón|Ejido|Rodeo|Durango||35761|10|35761||15|024|1714|Rural|
+35780|Valle Nacional (El Banco)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1725|Rural|
+35780|Huichapa|Ejido|Rodeo|Durango||35761|10|35761||15|024|3457|Rural|
+35780|Francisco Zarco (Tatantón)|Ejido|Rodeo|Durango||35761|10|35761||15|024|1722|Rural|
+35783|La Cieneguita|Ejido|Rodeo|Durango||35761|10|35761||15|024|3459|Rural|
+35783|Baltazar|Ejido|Rodeo|Durango||35761|10|35761||15|024|1721|Rural|
+35784|Arroyo de Coneto|Ejido|Rodeo|Durango||35761|10|35761||15|024|1716|Rural|
+35784|Hidalgo de San Antonio|Pueblo|Rodeo|Durango||35761|10|35761||28|024|1718|Rural|
+35784|Linares del Río|Pueblo|Rodeo|Durango||35761|10|35761||28|024|1713|Rural|
+35784|Higueras|Ejido|Rodeo|Durango||35761|10|35761||15|024|1720|Rural|
+35785|Las Ánimas|Ejido|Rodeo|Durango||35761|10|35761||15|024|1698|Rural|
+35786|San Rafael de Amoles|Ejido|Rodeo|Durango||35761|10|35761||15|024|3469|Rural|
+35786|El Tronconal|Ejido|Rodeo|Durango||35761|10|35761||15|024|3455|Rural|
+35786|Los Amoles|Ejido|Rodeo|Durango||35761|10|35761||15|024|1715|Rural|
+35786|Buenavista|Ejido|Rodeo|Durango||35761|10|35761||15|024|1719|Rural|
+35787|Toledo|Ejido|Rodeo|Durango||35761|10|35761||15|024|3470|Rural|
+35787|Palimitos|Ejido|Rodeo|Durango||35761|10|35761||15|024|4790|Rural|
+35787|La Cuesta de Palmitos|Ejido|Rodeo|Durango||35761|10|35761||15|024|1723|Rural|
+35787|Leandro Valle|Pueblo|Rodeo|Durango||35761|10|35761||28|024|1724|Rural|

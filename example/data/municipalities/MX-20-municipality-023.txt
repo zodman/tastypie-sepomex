@@ -1,0 +1,35 @@
+71400|Cuilápam de Guerrero Centro|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|2796|Urbano|56
+71403|Guadalupe|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0025|Urbano|56
+71403|El Calvario|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0023|Urbano|56
+71403|Zavaleta|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0029|Urbano|56
+71403|San Juan|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0027|Urbano|56
+71403|San Sebastián|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0028|Urbano|56
+71404|Del Rosario|Barrio|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||02|023|4397|Urbano|56
+71404|San Lucas|Barrio|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||02|023|4978|Rural|56
+71405|Grande|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0024|Urbano|56
+71405|Quemado|Colonia|Cuilápam de Guerrero|Oaxaca|Cuilápam de Guerrero|68005|20|68005||09|023|0026|Urbano|56
+71406|Lomas de San Juan|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0013|Rural|
+71406|Ojo de Agua|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|4926|Rural|
+71406|Paraje Zavaleta|Ejido|Cuilápam de Guerrero|Oaxaca||68005|20|68005||15|023|0015|Rural|
+71406|Colonia los Huertos|Colonia|Cuilápam de Guerrero|Oaxaca||68005|20|68005||09|023|0006|Rural|
+71406|El Tepeyac (Lomas de San Juan)|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0008|Rural|
+71406|Rancho Quemado|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0020|Rural|
+71406|Lomas de Rancho Quemado|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0012|Rural|
+71406|Primera Ampliación de Cruz Blanca|Ampliación|Cuilápam de Guerrero|Oaxaca||68005|20|68005||38|023|0016|Rural|
+71406|Colonia los Ríos|Colonia|Cuilápam de Guerrero|Oaxaca||68005|20|68005||09|023|4969|Rural|
+71406|Colonia la Cieneguita|Colonia|Cuilápam de Guerrero|Oaxaca||68005|20|68005||09|023|0005|Rural|
+71406|Estrella Blanca|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0009|Rural|
+71406|Cruz Blanca|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|2797|Rural|
+71406|La Lomita|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0010|Rural|
+71407|Libramiento a Jalpan|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0011|Rural|
+71407|Reyes Zárate Ibáñez|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0021|Rural|
+71407|Barrio el Rosario|Barrio|Cuilápam de Guerrero|Oaxaca||68005|20|68005||02|023|0002|Rural|
+71407|Rancho Mis Tres Amores|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0018|Rural|
+71408|Rancho Palo de Lumbre|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0019|Rural|
+71408|Bulmaro Silva|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0003|Rural|
+71408|El Peñasco|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0007|Rural|
+71408|Primera Sección Barrio San Antonio|Barrio|Cuilápam de Guerrero|Oaxaca||68005|20|68005||02|023|0017|Rural|
+71409|Acapiztla|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0001|Rural|
+71409|Manzano|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0014|Rural|
+71409|Tiracoz|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0022|Rural|
+71409|Carrizal|Ranchería|Cuilápam de Guerrero|Oaxaca||68005|20|68005||29|023|0004|Rural|

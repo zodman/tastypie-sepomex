@@ -1,0 +1,18 @@
+29120|Sagualoma|Barrio|San Fernando|Chiapas||29121|07|29121||02|079|0002|Rural|
+29120|Cerro La Marimba|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0254|Rural|
+29120|Paraíso|Barrio|San Fernando|Chiapas||29121|07|29121||02|079|5540|Rural|
+29120|Benito Juárez|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0253|Rural|
+29120|Rivera El Progreso|Pueblo|San Fernando|Chiapas||29121|07|29121||28|079|0257|Rural|
+29120|San Fernando Centro|Colonia|San Fernando|Chiapas||29121|07|29121||09|079|0258|Rural|
+29120|Copalar|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0263|Rural|
+29120|Vicente Guerrero|Colonia|San Fernando|Chiapas||29121|07|29121||09|079|3078|Rural|
+29120|Francisco I. Madero|Colonia|San Fernando|Chiapas||29121|07|29121||09|079|0255|Rural|
+29120|Gabriel Esquinca|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0256|Rural|
+29124|Mauricio Martínez|Colonia|San Fernando|Chiapas||29121|07|29121||09|079|5859|Rural|
+29125|Cuauhtémoc|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0260|Rural|
+29125|Monterrey|Ejido|San Fernando|Chiapas||29121|07|29121||15|079|0262|Rural|
+29125|El Tzintzum|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0261|Rural|
+29127|El Carmelo|Pueblo|San Fernando|Chiapas||29121|07|29121||28|079|0001|Rural|
+29129|Álvaro Obregón|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0264|Rural|
+29129|Rivera el Limón|Colonia|San Fernando|Chiapas||29121|07|29121||09|079|5809|Rural|
+29129|Viva Cárdenas|Ranchería|San Fernando|Chiapas||29121|07|29121||29|079|0265|Rural|

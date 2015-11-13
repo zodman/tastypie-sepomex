@@ -1,0 +1,79 @@
+30600|Santo Domingo|Barrio|Escuintla|Chiapas||30602|07|30602||02|032|5368|Rural|
+30600|China|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5376|Rural|
+30600|La Bendición|Barrio|Escuintla|Chiapas||30602|07|30602||02|032|5377|Rural|
+30600|Vida Mejor|Fraccionamiento|Escuintla|Chiapas||30602|07|30602||21|032|5378|Rural|
+30600|Escuintla Centro|Barrio|Escuintla|Chiapas||30602|07|30602||02|032|1524|Rural|
+30600|Santa Cruz|Barrio|Escuintla|Chiapas||30602|07|30602||02|032|5369|Rural|
+30600|El Carmen|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5370|Rural|
+30600|Nuevo Milenio|Fraccionamiento|Escuintla|Chiapas||30602|07|30602||21|032|5373|Rural|
+30600|Cristo Rey|Barrio|Escuintla|Chiapas||30602|07|30602||02|032|5371|Rural|
+30600|FONHAPO|Fraccionamiento|Escuintla|Chiapas||30602|07|30602||21|032|5372|Rural|
+30600|Jubileo 2000|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5374|Rural|
+30600|El Manantial|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5375|Rural|
+30603|Cintalapa|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1526|Rural|
+30603|Brisas del Soconusco|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5323|Rural|
+30603|Nueva California|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5327|Rural|
+30603|Ovando Turquía|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1525|Rural|
+30603|Ampliación el Triunfo|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5324|Rural|
+30604|Nueva Francia|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1531|Rural|
+30604|Avicnia|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5333|Rural|
+30604|El Mango|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5334|Rural|
+30604|Ovando Piñuela|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5332|Rural|
+30604|El Rosario|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5329|Rural|
+30604|Buena Vista|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5331|Rural|
+30604|El Encuentro|Ejido|Escuintla|Chiapas||30602|07|30602||15|032|5330|Rural|
+30604|4 de Octubre|Pueblo|Escuintla|Chiapas||30602|07|30602||28|032|5599|Rural|
+30604|El Triunfo|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1533|Rural|
+30604|El Encuentro|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5328|Rural|
+30605|Jalapa|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1534|Rural|
+30605|Nueva Reforma|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5341|Rural|
+30605|Barrio Bolivia|Barrio|Escuintla|Chiapas||30602|07|30602||02|032|5802|Rural|
+30605|Las Nubes|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5336|Rural|
+30605|Ojo de Agua II|Ampliación|Escuintla|Chiapas||30602|07|30602||38|032|5337|Rural|
+30605|La Esperanza|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5339|Rural|
+30605|San Juan Panamá|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1532|Rural|
+30605|Buena Vista II|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5346|Rural|
+30605|Llano Grande|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5340|Rural|
+30605|Belisario Domínguez|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5342|Rural|
+30605|Nueva Morelia|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1528|Rural|
+30605|Santa Rosa|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5338|Rural|
+30606|El Cimiento|Ranchería|Escuintla|Chiapas||30602|07|30602||29|032|5344|Rural|
+30606|Nueva Sonora|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5348|Rural|
+30606|El Vergel|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5343|Rural|
+30606|Paso del Norte|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5347|Rural|
+30607|Ojo de Agua I|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5351|Rural|
+30607|San Antonio Miramar|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1542|Rural|
+30607|Vega de Juárez|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1543|Rural|
+30607|El Arenal|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5352|Rural|
+30607|Santa Emilia|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5353|Rural|
+30607|3 de Mayo (El Zapote)|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1539|Rural|
+30607|La Vigüita|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5354|Rural|
+30607|El Horizonte|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5355|Rural|
+30607|Malvinas|Ejido|Escuintla|Chiapas||30602|07|30602||15|032|5357|Rural|
+30610|Unión Jamaica|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1537|Rural|
+30610|San Felipe Tizapa|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1529|Rural|
+30610|Cuauhtémoc Chachalaca|Ejido|Escuintla|Chiapas||30602|07|30602||15|032|1530|Rural|
+30610|El Jordán|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5335|Rural|
+30610|Independencia|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1540|Rural|
+30613|Las Vegas|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5358|Rural|
+30613|Santa Isabel|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5360|Rural|
+30613|Hoja Blanca|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1538|Rural|
+30613|El Jobal|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5359|Rural|
+30613|Manacal Llano Grande|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1535|Rural|
+30614|San Lucas|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5364|Rural|
+30614|Fracción Banderas|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5363|Rural|
+30614|San Benito|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5365|Rural|
+30614|Montahua|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5366|Rural|
+30615|Rincón Veracruz|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|1536|Rural|
+30615|Llano Grande Palestina|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5362|Rural|
+30615|Nuevo Llano Grande|Ejido|Escuintla|Chiapas||30602|07|30602||15|032|5325|Rural|
+30615|Francisco Villa|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5361|Rural|
+30616|Flores Magón|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5315|Rural|
+30616|8 de Agosto|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5312|Rural|
+30616|Ampliación Colombia|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5321|Rural|
+30616|Grijalva|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5316|Rural|
+30616|Zacualpa II (El Vergel)|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5313|Rural|
+30617|La Pampita|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5318|Rural|
+30617|Palo Blanco|Ejido|Escuintla|Chiapas||30602|07|30602||15|032|5367|Rural|
+30617|Guadalupe|Ranchería|Escuintla|Chiapas||30602|07|30602||29|032|5649|Rural|
+30617|Canutillo|Colonia|Escuintla|Chiapas||30602|07|30602||09|032|5319|Rural|

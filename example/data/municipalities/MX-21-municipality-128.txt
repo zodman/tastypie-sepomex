@@ -1,0 +1,5 @@
+75010|San José de Chiapa|Pueblo|San José Chiapa|Puebla||75001|21|75001||28|128|2003|Rural|
+75010|San José Ozumba|Ranchería|San José Chiapa|Puebla||75001|21|75001||29|128|2004|Rural|
+75012|Vicencio Toros Bravos|Rancho|San José Chiapa|Puebla||75001|21|75001||48|128|2005|Rural|
+75014|Ojo de Agua|Rancho|San José Chiapa|Puebla||75001|21|75001||48|128|2006|Rural|
+75016|San Isidro Ovando|Pueblo|San José Chiapa|Puebla||75001|21|75001||28|128|2007|Rural|

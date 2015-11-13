@@ -1,0 +1,72 @@
+34840|Nombre de Dios Centro|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|0861|Urbano|09
+34842|Esperanza|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|1948|Urbano|09
+34843|Ejidal|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|1950|Urbano|09
+34843|El Santuario|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|1949|Urbano|09
+34844|Las Trojes|Fraccionamiento|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||21|016|5179|Urbano|09
+34844|El Renacimiento|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|5181|Urbano|09
+34844|Gilberto Reyes Campa|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|1951|Urbano|09
+34845|Breceda|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|1952|Urbano|09
+34846|El Pueblo|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|5180|Urbano|09
+34847|Santa Mónica|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|5178|Urbano|09
+34848|San Francisco|Colonia|Nombre de Dios|Durango|Nombre de Dios|34841|10|34841||09|016|1953|Urbano|09
+34850|Cardenchos|Congregación|Nombre de Dios|Durango||34841|10|34841||11|016|0871|Rural|
+34850|El Segundo Molino (El Molino Dos)|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|5091|Rural|
+34850|Jalpa|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5097|Rural|
+34850|La Escondida|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5099|Rural|
+34850|Rancho Leyva Chavez|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5108|Rural|
+34850|Nixtalpan|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0860|Rural|
+34850|Rancho los Orona|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5109|Rural|
+34850|El Molino del Pueblo|Congregación|Nombre de Dios|Durango||34841|10|34841||11|016|0880|Rural|
+34850|Entrada al Venado|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5095|Rural|
+34850|Santa Martha|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5113|Rural|
+34850|La Joya|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|0859|Rural|
+34850|Cueva Blanca|Congregación|Nombre de Dios|Durango||34841|10|34841||11|016|0878|Rural|
+34850|Ignacio Zaragoza (Las Cotorras)|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0879|Rural|
+34850|Las Guacamayas|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5103|Rural|
+34850|Tiquimilpa|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5115|Rural|
+34850|El Llano|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0866|Rural|
+34850|Lumbreras|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|5105|Rural|
+34850|Rancho Río Seco|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5111|Rural|
+34854|El Clavo Uno|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5090|Rural|
+34854|El Clavo Dos|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5089|Rural|
+34855|Tuitán (San José de Tuitán)|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0870|Rural|
+34856|Ojo de Agua de San Juan|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0874|Rural|
+34856|La Arena (San Francisco de las Arenas)|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5098|Rural|
+34857|El Pueblito 20 de Noviembre (La Fabrica)|Congregación|Nombre de Dios|Durango||34841|10|34841||11|016|0872|Rural|
+34857|Francisco Villa (San Isidro)|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|0873|Rural|
+34857|Sevilla|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5114|Rural|
+34857|Ojo de Agua los Berros (Los Berros)|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0876|Rural|
+34857|La Constancia|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0867|Rural|
+34857|El Partidor|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|0875|Rural|
+34857|Texcalillo|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0869|Rural|
+34857|General Francisco Villa (Paso Real)|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|5096|Rural|
+34857|Veintitrésde Abril|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5117|Rural|
+34860|El Tobe|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0887|Rural|
+34860|San Cayetano|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5112|Rural|
+34860|General Francisco Murguía|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0881|Rural|
+34860|La Esperanza|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5100|Rural|
+34860|El Socorro|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5092|Rural|
+34860|El Bajío de la Trinidad|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5087|Rural|
+34860|Derramadero (Fidel Pérez)|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5086|Rural|
+34863|San José de la Parrilla (La Parrilla)|Pueblo|Nombre de Dios|Durango||34891|10|34891||28|016|0889|Rural|
+34864|Santa Cruz de Guadalupe|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|0884|Rural|
+34864|Rancho Palmira|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5110|Rural|
+34864|Amado Nervo|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0882|Rural|
+34865|Lauro del Villar|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|0883|Rural|
+34865|Emilio Portes Gil|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0862|Rural|
+34866|Las Huijolas|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5104|Rural|
+34866|Rojas|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0886|Rural|
+34866|Rancho de Antonio Ibarra (Huijolas Dos)|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5107|Rural|
+34867|Gabriel Hernández (Mancinas)|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0885|Rural|
+34867|Tres Hermanos|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5116|Rural|
+34873|Bolsa de Fierro|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|0890|Rural|
+34873|Revolución Social|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0891|Rural|
+34873|Yuriria|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5118|Rural|
+34874|Nuevo Centro de Población (La Bodega)|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|5106|Rural|
+34880|El Carrizal|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5088|Rural|
+34885|La Pequeña|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5101|Rural|
+34885|San José de Acevedo|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0865|Rural|
+34885|El Tejamanil|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5093|Rural|
+34885|Las Adjuntas|Ranchería|Nombre de Dios|Durango||34841|10|34841||29|016|5102|Rural|
+34887|El Venado|Ejido|Nombre de Dios|Durango||34841|10|34841||15|016|0864|Rural|
+34887|El Venado (La Agüta)|Pueblo|Nombre de Dios|Durango||34841|10|34841||28|016|5094|Rural|

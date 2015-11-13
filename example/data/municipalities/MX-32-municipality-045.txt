@@ -1,0 +1,9 @@
+99750|Magisterial|Colonia|Tepechitlán|Zacatecas||99751|32|99751||09|045|1309|Rural|
+99750|La Cumbrita|Barrio|Tepechitlán|Zacatecas||99751|32|99751||02|045|1311|Rural|
+99750|Tepechitlan|Pueblo|Tepechitlán|Zacatecas||99751|32|99751||28|045|0698|Rural|
+99750|El Terrero|Barrio|Tepechitlán|Zacatecas||99751|32|99751||02|045|1310|Rural|
+99750|Ocotlan Cerro Chino|Ranchería|Tepechitlán|Zacatecas||99751|32|99751||29|045|0697|Rural|
+99753|Las Pilas|Colonia|Tepechitlán|Zacatecas||99751|32|99751||09|045|0001|Rural|
+99755|Ojuelos|Pueblo|Tepechitlán|Zacatecas||99751|32|99751||28|045|0700|Rural|
+99760|Santiago Nexcaltitán|Ranchería|Tepechitlán|Zacatecas||99751|32|99751||29|045|0702|Rural|
+99770|San Pedro Ocotlan|Ranchería|Tepechitlán|Zacatecas||99751|32|99751||29|045|0703|Rural|

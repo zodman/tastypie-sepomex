@@ -1,0 +1,39 @@
+74940|Amatitlán de Azueta|Pueblo|Acatlán|Puebla||74948|21|74948||28|003|1962|Rural|
+74941|Tetelcingo|Barrio|Acatlán|Puebla||74948|21|74948||02|003|1955|Rural|
+74941|La Trinidad|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1954|Rural|
+74942|San Cristóbal|Hacienda|Acatlán|Puebla||74948|21|74948||24|003|1956|Rural|
+74943|San Francisco Rancho Nuevo|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1958|Rural|
+74943|San Vicente Boquerón|Pueblo|Acatlán|Puebla||74948|21|74948||28|003|1959|Rural|
+74943|La Huerta|Pueblo|Acatlán|Puebla||74948|21|74948||28|003|1957|Rural|
+74944|Hermenegildo Galeana|Pueblo|Acatlán|Puebla||74948|21|74948||28|003|1961|Rural|
+74945|Tianguistengo|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1960|Rural|
+74946|San Bernardo|Pueblo|Acatlán|Puebla||74948|21|74948||28|003|1965|Rural|
+74946|Nuevos Horizontes|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1964|Rural|
+74947|Ilamacingo|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1967|Rural|
+74947|Independencia|Colonia|Acatlán|Puebla||74948|21|74948||09|003|5941|Rural|
+74947|Tecomate|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1968|Rural|
+74947|El Cuajilote|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1966|Rural|
+74947|La Azuchilera|Barrio|Acatlán|Puebla||74948|21|74948||02|003|5940|Rural|
+74947|Las Nieves|Ranchería|Acatlán|Puebla||74948|21|74948||29|003|1963|Rural|
+74947|Loma Bonita|Colonia|Acatlán|Puebla||74948|21|74948||09|003|5939|Rural|
+74949|Acatlán de Osorio Centro|Colonia|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||09|003|1953|Urbano|10
+74949|San José|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3283|Semiurbano|10
+74949|San Gabriel|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3287|Semiurbano|10
+74949|San Luis|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3284|Semiurbano|10
+74949|San Rafael|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3286|Semiurbano|10
+74949|La Palma|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3285|Semiurbano|10
+74949|San Miguel|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3360|Semiurbano|10
+74949|3 Cruces 1a Secc|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3291|Urbano|10
+74949|3 Cruces 2a Secc|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3292|Urbano|10
+74949|San Cristóbal 1a Secc|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3293|Semiurbano|10
+74949|San Cristóbal 2a Secc|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3294|Semiurbano|10
+74949|FOVISSSTE|Unidad habitacional|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||31|003|3298|Semiurbano|10
+74949|La Providencia|Colonia|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||09|003|5938|Semiurbano|10
+74949|San Antonio|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3290|Semiurbano|10
+74949|La Trinidad 1a. Sección|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3295|Semiurbano|10
+74949|Bellavista|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|3289|Semiurbano|10
+74949|Del Maestro|Colonia|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||09|003|3296|Semiurbano|10
+74949|Santa Rosa|Fraccionamiento|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||21|003|3297|Semiurbano|10
+74949|Santa Ana|Fraccionamiento|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||21|003|5937|Semiurbano|10
+74949|San Juan|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|0662|Semiurbano|10
+74949|La Trinidad 2a. Sección|Barrio|Acatlán|Puebla|Acatlán de Osorio|74948|21|74948||02|003|5936|Semiurbano|10

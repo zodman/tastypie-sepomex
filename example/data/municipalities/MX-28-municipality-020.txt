@@ -1,0 +1,9 @@
+87860|Villa Mainero|Pueblo|Mainero|Tamaulipas||87001|28|87001||28|020|0702|Rural|
+87860|Américo Villarreal Guerra|Fraccionamiento|Mainero|Tamaulipas||87001|28|87001||21|020|3899|Urbano|
+87865|Venustiano Carranza (La Oveja)|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|0703|Rural|
+87865|José Delgado|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|3892|Rural|
+87865|Emilio Vázquez Gómez (Agua Fría)|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|3896|Rural|
+87870|Magueyes|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|0704|Rural|
+87873|Las Puentes|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|0705|Rural|
+87873|San Luis Hidalgo|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|3076|Rural|
+87875|Emiliano Zapata|Ejido|Mainero|Tamaulipas||87001|28|87001||15|020|0706|Rural|

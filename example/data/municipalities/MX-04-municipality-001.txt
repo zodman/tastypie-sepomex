@@ -1,0 +1,40 @@
+24900|Calkini Centro|Colonia|Calkiní|Campeche|Calkini|24901|04|24901||09|001|0485|Semiurbano|03
+24902|San Isidro|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0638|Semiurbano|03
+24902|San Juan|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0639|Semiurbano|03
+24902|Fátima|Colonia|Calkiní|Campeche|Calkini|24901|04|24901||09|001|0636|Semiurbano|03
+24902|FOVISSSTE|Unidad habitacional|Calkiní|Campeche|Calkini|24901|04|24901||31|001|0637|Semiurbano|03
+24903|San Miguel Kukab|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0643|Semiurbano|03
+24903|San Martín|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0647|Semiurbano|03
+24903|Guadalupe|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0644|Semiurbano|03
+24903|San Luisito|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0646|Semiurbano|03
+24903|La Concepción|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0642|Semiurbano|03
+24904|Las Flores|Fraccionamiento|Calkiní|Campeche|Calkini|24901|04|24901||21|001|0641|Semiurbano|03
+24904|Kilakan|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0645|Semiurbano|03
+24904|San Luis Obispo|Barrio|Calkiní|Campeche|Calkini|24901|04|24901||02|001|0640|Semiurbano|03
+24905|Tepakan|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0487|Rural|
+24910|Nunkini|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0488|Rural|
+24914|Tankuche|Congregación|Calkiní|Campeche||24901|04|24901||11|001|0490|Rural|
+24915|Pucnachen|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0491|Rural|
+24915|Santa María|Hacienda|Calkiní|Campeche||24901|04|24901||24|001|0492|Rural|
+24916|Santa Cruz|Hacienda|Calkiní|Campeche||24901|04|24901||24|001|0493|Rural|
+24917|San Nicolás|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0494|Rural|
+24919|Isla Arena|Villa|Calkiní|Campeche||24901|04|24901||32|001|0495|Rural|
+24920|Dzitbalche|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0496|Rural|
+24920|Xnolan|Ejido|Calkiní|Campeche||24901|04|24901||15|001|1114|Rural|
+24921|Santa Cruz Pueblo|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0497|Rural|
+24922|San Antonio Sahcabchen|Ranchería|Calkiní|Campeche||24901|04|24901||29|001|0498|Rural|
+24923|Xcacoch|Ejido|Calkiní|Campeche||24901|04|24901||15|001|1116|Rural|
+24923|San Agustin Chunhuas|Ranchería|Calkiní|Campeche||24901|04|24901||29|001|0499|Rural|
+24925|Bacabchen|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0501|Rural|
+24929|Chacnichén|Ejido|Calkiní|Campeche||24901|04|24901||15|001|1115|Rural|
+24929|Concepción|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0502|Rural|
+24930|Becal|Pueblo|Calkiní|Campeche||24901|04|24901||28|001|0503|Rural|
+24933|Los Tres Reyes|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0001|Rural|
+24933|Fátima|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0966|Rural|
+24934|Carlos Rivas|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0961|Rural|
+24935|Pablo Garcia|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0962|Rural|
+24935|El Pocito|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0968|Rural|
+24935|Santa Cruz|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0965|Rural|
+24935|Limón|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0964|Rural|
+24936|Estación|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0967|Rural|
+24936|San Diego|Barrio|Calkiní|Campeche||24901|04|24901||02|001|0963|Rural|

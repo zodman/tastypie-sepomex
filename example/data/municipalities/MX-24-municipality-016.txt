@@ -1,0 +1,51 @@
+79100|Centro|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1114|Urbano|02
+79110|Estación|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1913|Urbano|02
+79110|Zostepec|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1116|Urbano|02
+79120|Las Américas|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1118|Urbano|02
+79120|Antonio J. Bermúdez|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1117|Urbano|02
+79122|Santa Cruz|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1912|Urbano|02
+79122|20 de Noviembre|Ejido|Ebano|San Luis Potosí|Ébano|79163|24|79163||15|016|1911|Urbano|02
+79130|Los Pinos|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1119|Urbano|02
+79139|Del Valle|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1120|Urbano|02
+79139|El Hule|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1906|Urbano|02
+79140|Obrera|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1121|Urbano|02
+79142|Dr. Quintana|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1901|Urbano|02
+79142|Vicente Inguanzo|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1902|Urbano|02
+79143|Primavera|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1995|Urbano|02
+79150|Himno Nacional|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|2503|Urbano|02
+79150|Solidaridad|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1907|Urbano|02
+79150|Petrolera Lázaro Cárdenas|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1122|Urbano|02
+79152|Bellavista|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1910|Urbano|02
+79152|Valle Dorado|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1908|Urbano|02
+79152|Puerta del Sol|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1909|Urbano|02
+79153|Aviación|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1903|Urbano|02
+79153|Unidad Nacional|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|2261|Urbano|02
+79160|18 de Marzo|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1123|Urbano|02
+79161|20 de Noviembre|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1124|Urbano|02
+79162|Zona Industrial|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1898|Urbano|02
+79170|Tulipanes|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1125|Urbano|02
+79180|Vergel|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1126|Urbano|02
+79182|Manuel Avila Camacho|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1904|Urbano|02
+79182|INFONAVIT|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1905|Urbano|02
+79183|Campamento SARH|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1914|Urbano|02
+79190|Zona Cuartel|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1899|Urbano|02
+79190|El Veintiuno|Colonia|Ebano|San Luis Potosí|Ébano|79163|24|79163||09|016|1900|Urbano|02
+79290|Ébano|Estación|Ebano|San Luis Potosí||79163|24|79163||16|016|1176|Rural|
+79290|Vichinchijol|Pueblo|Ebano|San Luis Potosí||79163|24|79163||28|016|2547|Rural|
+79290|Plan de Iguala|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|1178|Rural|
+79290|Reforma el Alto|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|1177|Rural|
+79290|Antigua Reforma|Ranchería|Ebano|San Luis Potosí||79163|24|79163||29|016|0001|Rural|
+79292|Emiliano Zapata|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|2549|Rural|
+79292|Aurelio Manrique|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|1179|Rural|
+79292|Ponciano Arriaga|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|1180|Rural|
+79293|El Tulillo|Ranchería|Ebano|San Luis Potosí||79163|24|79163||29|016|1182|Rural|
+79293|Pujal Coy|Pueblo|Ebano|San Luis Potosí||79163|24|79163||28|016|1183|Urbano|
+79293|Reforma Agraria|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|2504|Rural|
+79293|Ampliación Velazco|Pueblo|Ebano|San Luis Potosí||79163|24|79163||28|016|2552|Rural|
+79293|Auza|Estación|Ebano|San Luis Potosí||79163|24|79163||16|016|1181|Rural|
+79293|Alto de La Reforma|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|2501|Rural|
+79294|Velázco|Estación|Ebano|San Luis Potosí||79163|24|79163||16|016|1184|Rural|
+79295|SARH|Colonia|Ebano|San Luis Potosí||79163|24|79163||09|016|1185|Urbano|
+79296|Granero del Tamesí|Rancho|Ebano|San Luis Potosí||79163|24|79163||48|016|2689|Rural|
+79296|Ajinche|Congregación|Ebano|San Luis Potosí||79163|24|79163||11|016|1186|Rural|
+79297|Julián Carrillo Dos|Ejido|Ebano|San Luis Potosí||79163|24|79163||15|016|2548|Rural|

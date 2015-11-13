@@ -1,0 +1,33 @@
+29926|San Vicente|Ranchería|Yajalón|Chiapas||29931|07|29931||29|109|0001|Rural|
+29930|Amado Nervo|Pueblo|Yajalón|Chiapas||29931|07|29931||28|109|0891|Rural|
+29930|El Campo|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3852|Semiurbano|
+29930|Santa Elena|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|3878|Semiurbano|
+29930|Flores|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3853|Urbano|
+29930|Yajalón Centro|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|0892|Urbano|
+29930|San Antonio|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3871|Semiurbano|
+29930|Belisario Domínguez|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3872|Semiurbano|
+29930|Saclumil Rosario II|Ranchería|Yajalón|Chiapas||29931|07|29931||29|109|5545|Rural|
+29930|La Cadelaria|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3851|Semiurbano|
+29930|Santa Teresita|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3856|Urbano|
+29930|Los Tulipanes|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3875|Semiurbano|
+29930|La Belleza|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3854|Semiurbano|
+29930|San José Bunslac|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3865|Semiurbano|
+29930|El Azufre|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3866|Semiurbano|
+29930|12 de Diciembre|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|3876|Semiurbano|
+29930|Jardines|Fraccionamiento|Yajalón|Chiapas||29931|07|29931||21|109|5777|Urbano|
+29930|Agua Fría|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|3868|Semiurbano|
+29930|Flamboyán|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|3877|Semiurbano|
+29930|San Luis|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3858|Urbano|
+29930|Vista Alegre|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3860|Semiurbano|
+29930|San José el Mirador|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3861|Semiurbano|
+29930|San Miguel|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3862|Semiurbano|
+29930|Chul-Ha|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3863|Urbano|
+29930|Linda Vista 1a. Sección|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3864|Semiurbano|
+29930|Efigenia Chapoy|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|3873|Semiurbano|
+29930|Jonuta|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3874|Urbano|
+29930|San Martín|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3855|Semiurbano|
+29930|Belén Ajkabalna|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3867|Semiurbano|
+29930|Loma Bonita|Barrio|Yajalón|Chiapas||29931|07|29931||02|109|3869|Semiurbano|
+29930|El Bosque|Colonia|Yajalón|Chiapas||29931|07|29931||09|109|3870|Semiurbano|
+29932|Lázaro Cárdenas|Ranchería|Yajalón|Chiapas||29931|07|29931||29|109|0894|Rural|
+29932|Chitaltic|Ranchería|Yajalón|Chiapas||29931|07|29931||29|109|0895|Rural|

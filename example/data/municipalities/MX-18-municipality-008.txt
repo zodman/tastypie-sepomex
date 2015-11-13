@@ -1,0 +1,64 @@
+63780|Canoas|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1011|Urbano|14
+63780|Xalisco Centro|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0667|Urbano|14
+63780|Lomas Xalisco|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|0003|Urbano|14
+63782|Salvador Sánchez Vázquez|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0005|Urbano|14
+63782|Lomas del Nayar|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0806|Urbano|14
+63782|Alborada|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|0002|Urbano|14
+63782|Las Águilas|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1171|Urbano|14
+63782|Nuevo Progreso|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0803|Urbano|14
+63782|Huertas de Matatipal|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0804|Urbano|14
+63782|Ampliación Nuevo Progreso|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0805|Urbano|14
+63783|Progreso|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1173|Urbano|14
+63783|Valle de Roma|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1191|Urbano|14
+63783|Puerta del Sol|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1012|Urbano|14
+63783|1ro. de Mayo|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1014|Urbano|14
+63783|José Santos Godínez|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1013|Urbano|14
+63783|SUTSEM Landereñas|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1172|Urbano|14
+63783|Guadalupe Victoria|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1155|Urbano|14
+63784|Ramos Millán|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0807|Urbano|14
+63784|Pueblo Nuevo|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1167|Urbano|14
+63784|El Navarreño II|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1166|Urbano|14
+63784|Los Cordoncillos II|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1165|Urbano|14
+63784|Jardines de Matatipac|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0808|Urbano|14
+63784|25 de Abril|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1015|Urbano|14
+63784|Landereñas|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1016|Urbano|14
+63785|Xalisca Residencial Los Laureles|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|0014|Urbano|14
+63785|Puerta Luna|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|0001|Urbano|14
+63785|Navarreño|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0811|Urbano|14
+63785|Ejidal|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0809|Urbano|14
+63785|Hacienda Real|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1303|Urbano|14
+63786|La Cruz|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0812|Urbano|14
+63786|24 de Febrero|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0813|Urbano|14
+63787|Kiekari|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|0007|Urbano|14
+63787|Las Isabeles|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1169|Urbano|14
+63787|Ampliación Xalisco|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1127|Urbano|14
+63787|Nahil|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|0006|Urbano|14
+63787|Las Rosas|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0008|Urbano|14
+63787|El Indio|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1168|Urbano|14
+63787|Colinas de San Juan|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0009|Urbano|14
+63787|Villas de Guadalupe|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0814|Urbano|14
+63787|Vicente Guerrero|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0004|Urbano|14
+63787|Lomas Verdes|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1010|Urbano|14
+63787|Colinas de Xalisco|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1202|Urbano|14
+63787|Minas de Xalli|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1361|Urbano|14
+63787|Nuevo México|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|0010|Urbano|14
+63787|Tanuz|Fraccionamiento|Xalisco|Nayarit|Xalisco|63781|18|63781||21|008|1159|Urbano|14
+63787|Emiliano Zapata|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1170|Urbano|14
+63787|Bugambilias|Colonia|Xalisco|Nayarit|Xalisco|63781|18|63781||09|008|1009|Urbano|14
+63790|San Antonio|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0011|Rural|
+63790|Malinal|Ejido|Xalisco|Nayarit||63781|18|63781||15|008|0676|Rural|
+63792|Pantanal|Pueblo|Xalisco|Nayarit||63781|18|63781||28|008|0674|Urbano|
+63793|El Carrizal|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0012|Rural|
+63793|Adolfo López Mateos (Las Veredas)|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0680|Rural|
+63793|Cofradía de Chocolón|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0681|Rural|
+63794|Emiliano Zapata (Majadas)|Pueblo|Xalisco|Nayarit||63781|18|63781||28|008|0666|Rural|
+63794|Aquiles Serdán|Congregación|Xalisco|Nayarit||63781|18|63781||11|008|0668|Rural|
+63794|San José de Costilla (Estación Costilla)|Zona federal|Xalisco|Nayarit||63781|18|63781||34|008|0679|Rural|
+63794|Testerazo|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0669|Rural|
+63795|Los Fortines|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0013|Rural|
+63795|Trigomil|Congregación|Xalisco|Nayarit||63781|18|63781||11|008|0678|Rural|
+63795|La Curva|Congregación|Xalisco|Nayarit||63781|18|63781||11|008|0682|Rural|
+63797|Palapita|Ranchería|Xalisco|Nayarit||63781|18|63781||29|008|0671|Rural|
+63797|El Cuarenteño|Hacienda|Xalisco|Nayarit||63781|18|63781||24|008|0670|Rural|
+63797|El Tepozal|Ejido|Xalisco|Nayarit||63781|18|63781||15|008|0683|Rural|
+63799|Tepic (Poeta Amado Nervo)|Aeropuerto|Xalisco|Nayarit||63781|18|63781||01|008|0673|Rural|

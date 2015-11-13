@@ -1,0 +1,242 @@
+48260|Las Palmas de Arriba|Hacienda|Puerto Vallarta|Jalisco||48351|14|48351||24|067|2423|Rural|
+48262|Tebelchia (El Roble)|Pueblo|Puerto Vallarta|Jalisco||48351|14|48351||28|067|2424|Rural|
+48264|La Mesa del Veladero|Poblado comunal|Puerto Vallarta|Jalisco||48351|14|48351||27|067|5050|Rural|
+48265|El Colorado|Ranchería|Puerto Vallarta|Jalisco||48351|14|48351||29|067|2426|Rural|
+48265|El Ranchito (El Colesio)|Pueblo|Puerto Vallarta|Jalisco||48351|14|48351||28|067|2425|Rural|
+48266|Palmillas Del Cacao|Ranchería|Puerto Vallarta|Jalisco||48351|14|48351||29|067|2427|Rural|
+48267|Los Llanitos|Ranchería|Puerto Vallarta|Jalisco||48351|14|48351||29|067|0001|Rural|
+48270|De El Ranchito|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2428|Rural|
+48272|La Desembocada|Pueblo|Puerto Vallarta|Jalisco||48351|14|48351||28|067|2429|Rural|
+48274|El Cantón|Pueblo|Puerto Vallarta|Jalisco||48351|14|48351||28|067|2430|Rural|
+48276|Las Higueras del Hundido|Poblado comunal|Puerto Vallarta|Jalisco||48351|14|48351||27|067|5807|Rural|
+48280|La Esperanza|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2433|Rural|
+48280|24 de Febrero|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4185|Rural|
+48280|Banus Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|0005|Rural|
+48280|Los Cipreses|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|0006|Rural|
+48280|Centro de Salud|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4718|Rural|
+48280|La Mina II|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4723|Rural|
+48280|Palmar de Ixtapa|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4725|Rural|
+48280|San Francisco|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2440|Rural|
+48280|Santo Domingo|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2441|Rural|
+48280|Nuevo Ixtapa|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|5047|Rural|
+48280|Lázaro Cárdenas|Ranchería|Puerto Vallarta|Jalisco||48351|14|48351||29|067|2435|Rural|
+48280|Llanitos|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2436|Rural|
+48280|Niños Héroes|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2437|Rural|
+48280|Colina Universitaria|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|4719|Rural|
+48280|Ixtapa|Unidad habitacional|Puerto Vallarta|Jalisco||48351|14|48351||31|067|4720|Rural|
+48280|La Colonia|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|4721|Rural|
+48280|Paseos Universidad II|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|4728|Rural|
+48280|Villas Ixtapa|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|4729|Rural|
+48280|Vista Hermosa|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4730|Rural|
+48280|Jardines|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4825|Rural|
+48280|Real Ixtapa|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|5048|Rural|
+48280|Costa Dorada|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|5049|Rural|
+48280|Verde Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|5788|Urbano|
+48280|Jardín|Ranchería|Puerto Vallarta|Jalisco||48351|14|48351||29|067|2432|Rural|
+48280|La Mina|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4722|Rural|
+48280|Palmares Universidad|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|4726|Rural|
+48280|Paseos Universidad|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|4727|Rural|
+48280|Las Flores|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2434|Rural|
+48280|Primero de Mayo|Ranchería|Puerto Vallarta|Jalisco||48351|14|48351||29|067|2439|Rural|
+48280|C.U.C.|Gran usuario|Puerto Vallarta|Jalisco||48351|14|48351||22|067|4845|Rural|
+48280|Pacífico Azul|Fraccionamiento|Puerto Vallarta|Jalisco||48351|14|48351||21|067|5282|Urbano|
+48280|Ixtapa Centro|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2431|Rural|
+48280|Paraíso|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2438|Rural|
+48280|La Vía|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|4724|Rural|
+48282|Los Tamarindos|Colonia|Puerto Vallarta|Jalisco||48351|14|48351||09|067|2442|Rural|
+48290|Jardines Del Bosque|Unidad habitacional|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||31|067|2448|Rural|06
+48290|Progreso|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2459|Rural|06
+48290|Laguna del Valle|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4716|Rural|06
+48290|Lomas del Progreso|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4717|Rural|06
+48290|Campestre Las Cañadas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4734|Rural|06
+48290|La Trinidad|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4743|Rural|06
+48290|Hipódromo|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4917|Rural|06
+48290|Parque Universidad|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|5045|Rural|06
+48290|Coapinole|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2444|Rural|06
+48290|El Mangal|Ranchería|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||29|067|2446|Rural|06
+48290|Lomas de Coapinole|Unidad habitacional|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||31|067|2454|Rural|06
+48290|Lomas de Enmedio|Ranchería|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||29|067|2455|Rural|06
+48290|San Esteban|Ranchería|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||29|067|2460|Rural|06
+48290|Villa de Guadalupe|Ranchería|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||29|067|2461|Rural|06
+48290|Paseos de La Ribera|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4591|Rural|06
+48290|Sendero de Luna|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4749|Rural|06
+48290|Villas de San Nicolás|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4750|Urbano|06
+48290|Sendero las Galeanas|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|0007|Urbano|06
+48290|El Palmar del Progreso|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4175|Rural|06
+48290|Del Villar|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4366|Rural|06
+48290|9 de Octubre|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4713|Rural|06
+48290|Las Garzas|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4745|Rural|06
+48290|Rancho Alegre|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4747|Rural|06
+48290|Vista Dorada|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4756|Rural|06
+48290|Valle Dorado|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4819|Rural|06
+48290|San José|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4828|Rural|06
+48290|Morelos y Pavón|Ranchería|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||29|067|2458|Rural|06
+48290|Lomas de San Nicolás|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4177|Rural|06
+48290|Héroes de La Patria|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4741|Rural|06
+48290|Villa del Real|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4751|Rural|06
+48290|Vista al Mar|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4755|Rural|06
+48290|Joyas Del Pedregal|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2449|Rural|06
+48290|Leandro Valle|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2452|Rural|06
+48290|Magisterio|Ranchería|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||29|067|2456|Rural|06
+48290|Mojoneras|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2457|Rural|06
+48290|Ampliación Vista Dorada|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4731|Rural|06
+48290|Ampliación Vista Hermosa|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4732|Rural|06
+48290|Campestre Las Cañadas II|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4735|Rural|06
+48290|Copa del Rey|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4737|Rural|06
+48290|Villas Las Palmas|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4753|Rural|06
+48290|Balcones Vallarta|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|5269|Urbano|06
+48290|Ampliación Palma Real|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|0004|Urbano|06
+48290|Brisas Del Pacifico|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2443|Rural|06
+48290|Pitillal Centro|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2447|Rural|06
+48290|12 de Octubre|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4712|Rural|06
+48290|Bosque del Progreso|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4733|Rural|06
+48290|Campo Verde|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4736|Rural|06
+48290|El Conejo|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4738|Rural|06
+48290|El Crucero|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4739|Rural|06
+48290|La Vista|Club de golf|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||39|067|4744|Rural|06
+48290|Maravillas Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4746|Rural|06
+48290|San Miguel|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4748|Rural|06
+48290|Paseo del Hipódromo|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|6038|Urbano|06
+48290|Valle del Mar|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|0003|Urbano|06
+48290|El Calvario|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2445|Rural|06
+48290|Palma Real|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4634|Urbano|06
+48290|Villas Universidad|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4754|Rural|06
+48290|Vista Hermosa II|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4757|Rural|06
+48290|Volcanes|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4758|Rural|06
+48290|La Floresta|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2450|Rural|06
+48290|Las Mojoneras|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2451|Rural|06
+48290|Loma Bonita|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||28|067|2453|Rural|06
+48290|Campestre San Nicolás|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4714|Rural|06
+48290|El Salitrillo|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4715|Rural|06
+48290|Garza Blanca|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4740|Rural|06
+48290|La Floresta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4742|Rural|06
+48290|Villas del Prado|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4752|Rural|06
+48290|Los Médanos|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|5295|Urbano|06
+48291|Andalucía|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|0002|Urbano|06
+48291|De las Juntas Delegación|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2462|Rural|06
+48292|Boca de Tomatlán|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||28|067|2463|Rural|06
+48294|Sierra del Mar|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4169|Rural|06
+48294|Boca de Mixmaloya|Pueblo|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||28|067|2465|Rural|06
+48294|Lomas de Mismaloya|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|4178|Rural|06
+48295|Lomas Del Calvario|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2466|Rural|06
+48296|Del Toro|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2467|Rural|06
+48296|La Playita|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2468|Rural|06
+48298|Bobadilla|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2469|Rural|06
+48300|Puerto Vallarta Centro|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2470|Urbano|06
+48304|El Cerro|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2473|Rural|06
+48310|Versalles|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2477|Urbano|06
+48310|Diaz Ordaz|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2475|Urbano|06
+48310|Los Mangos|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2476|Urbano|06
+48312|Residencial Fluvial Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|4374|Urbano|06
+48313|Vallarta Villas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4172|Urbano|06
+48313|Primavera de Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|4759|Rural|06
+48313|FOVISSSTE 100|Unidad habitacional|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||31|067|4833|Urbano|06
+48313|Prados de la Higuera|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|5044|Urbano|06
+48313|Fovissste|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2478|Rural|06
+48313|Villas Rio|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2480|Urbano|06
+48313|Jardines de La Higuera|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2479|Urbano|06
+48314|Vallarta 750|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|2485|Urbano|06
+48314|Montesori|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4761|Urbano|06
+48314|La Marina|Condominio|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||10|067|4183|Urbano|06
+48314|La Joya|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4760|Urbano|06
+48314|El Cortijo|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2482|Rural|06
+48314|El Palmar de Aramara|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|2483|Urbano|06
+48314|Aramara|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|2481|Urbano|06
+48314|Tabachines|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4762|Urbano|06
+48314|Uhcel|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2484|Rural|06
+48315|Agua Zarca|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2486|Rural|06
+48315|Las Moras|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4763|Rural|06
+48315|Arboledas|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|2487|Urbano|06
+48315|Vallarta 500|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2488|Urbano|06
+48315|Villas Del Puerto|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4171|Urbano|06
+48315|Villas Sol|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|5046|Urbano|06
+48315|Los Portales|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4173|Urbano|06
+48315|Villas del Mar|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|5290|Urbano|06
+48315|Albatros|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4592|Urbano|06
+48316|Jardines Del Puerto|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4180|Urbano|06
+48317|Demetrio Vallejo|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4765|Urbano|06
+48317|Rincón del Puerto|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4766|Urbano|06
+48317|Guadalupe Victoria|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2489|Urbano|06
+48317|Aeropuerto|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4764|Urbano|06
+48317|Parques las Palmas|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4174|Urbano|06
+48318|Vida Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|2491|Urbano|06
+48318|Haciendas Del Pitilla|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4181|Urbano|06
+48318|INFONAVIT CTM|Unidad habitacional|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||31|067|2490|Urbano|06
+48320|Mariano Otero|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2494|Urbano|06
+48320|Valentín Gómez Farias|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2495|Urbano|06
+48320|La Vena|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2493|Urbano|06
+48324|Santa Maria|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2497|Urbano|06
+48325|Santa Rosa|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2502|Rural|06
+48325|Niños Héroes|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4767|Urbano|06
+48325|Palo Seco|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2499|Urbano|06
+48325|Ignacio L Vallarta|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4186|Urbano|06
+48325|Primero de Mayo|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2500|Urbano|06
+48325|Santa Maria|Barrio|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||02|067|2501|Urbano|06
+48325|Primavera|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2498|Urbano|06
+48325|Delfines|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|4176|Urbano|06
+48327|Independencia|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2504|Urbano|06
+48327|Cristóbal Colon|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2503|Rural|06
+48327|Independencia II|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4768|Rural|06
+48327|Playa Grande (San Pedro)|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4769|Rural|06
+48328|Gaviotas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2506|Urbano|06
+48328|Las Aralias I|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|2507|Urbano|06
+48328|Los Sauces|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|2509|Urbano|06
+48328|Fovissste 96|Unidad habitacional|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||31|067|2505|Urbano|06
+48328|Las Aralias II|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|2508|Urbano|06
+48328|Jardines de Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||21|067|4179|Urbano|06
+48330|Lázaro Cárdenas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2510|Urbano|06
+48330|Olímpica|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2511|Urbano|06
+48333|Terminal Marítima|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4821|Urbano|06
+48333|Los Tules|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2515|Rural|06
+48333|Las Glorias|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2513|Urbano|06
+48333|Zona Hotelera Norte|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2516|Rural|06
+48333|Villas del Mar|Condominio|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||10|067|4184|Urbano|06
+48333|Las Palmas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2514|Urbano|06
+48333|Dársena|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4820|Urbano|06
+48334|Puerto Iguanas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2518|Rural|06
+48334|Marina Sol|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2517|Urbano|06
+48335|Marina Vallarta|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|3741|Urbano|06
+48335|Bocanegra|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4770|Urbano|06
+48335|Marina Vallarta|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|3742|Urbano|06
+48335|Villa las Flores|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2519|Urbano|06
+48338|La Aurora|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2521|Urbano|06
+48338|El Carmen|Fraccionamiento|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||21|067|4771|Urbano|06
+48338|Educación|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|2520|Urbano|06
+48338|Estero El Salado|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||09|067|4822|Urbano|06
+48339|Puerto Vallarta (Lic. Gustavo Díaz Ordaz)|Aeropuerto|Puerto Vallarta|Jalisco|Puerto Vallarta|48293|14|48293||01|067|4772|Urbano|06
+48340|Agua Azul|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2522|Urbano|06
+48340|Bugambilias|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2523|Urbano|06
+48340|Herradura|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2524|Rural|06
+48340|Lopez Mateos|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2525|Urbano|06
+48343|Las Palmas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4823|Urbano|06
+48343|Ramblases|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2528|Urbano|06
+48343|La Pedrera|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2527|Urbano|06
+48343|Lomas Del Pedregal|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4368|Urbano|06
+48343|Campestre|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2526|Urbano|06
+48344|Linda Vista Océano|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4304|Urbano|06
+48344|La Moderna|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2530|Urbano|06
+48344|Magnolias|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2531|Urbano|06
+48344|Del Mar|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4182|Urbano|06
+48344|Presidentes Municipales|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2533|Urbano|06
+48344|Jardines|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2529|Urbano|06
+48344|Santa Maria|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2534|Urbano|06
+48344|Ojo de Agua|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2532|Urbano|06
+48350|5 de Diciembre|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2535|Urbano|06
+48353|Gastronómicos|Unidad habitacional|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||31|067|2537|Urbano|06
+48360|Las Canoas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2539|Urbano|06
+48360|El Caloso|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2538|Urbano|06
+48360|Las Peñas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2540|Rural|06
+48370|Buenos Aires|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2541|Urbano|06
+48373|Paso Del Molino|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2543|Rural|06
+48373|Paso Ancho|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2542|Rural|06
+48380|Emiliano Zapata|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2545|Urbano|06
+48380|Altavista|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2544|Rural|06
+48380|Palito Verde|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4773|Rural|06
+48389|El Remance|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2547|Urbano|06
+48389|El Palmar|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4774|Urbano|06
+48389|Benito Juárez|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2546|Urbano|06
+48390|Zona Hotelera Sur|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4170|Urbano|06
+48390|Conchas Chinas|Residencial|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||30|067|2548|Urbano|06
+48399|Conchas Chinas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2550|Urbano|06
+48399|Amapas|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|2549|Rural|06
+48399|El Nogalito|Colonia|Puerto Vallarta|Jalisco|Puerto Vallarta|48351|14|48351||09|067|4052|Urbano|06

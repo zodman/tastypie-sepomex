@@ -1,0 +1,66 @@
+43500|San Miguel Regla|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1695|Rural|
+43500|Santo Domingo Agua Zarca|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1696|Rural|
+43500|San José Ocotillos|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1694|Rural|
+43500|Río Seco Puente de Doria|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1693|Rural|
+43502|San Lorenzo el Zembo (El Zembo)|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1697|Rural|
+43502|El Tizal|Poblado comunal|Huasca de Ocampo|Hidalgo||42001|13|42001||27|024|4825|Rural|
+43502|Jarillo|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4827|Rural|
+43502|Bosque Real|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4816|Rural|
+43502|La Lagunilla|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4831|Rural|
+43502|Llano Grande|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4838|Rural|
+43502|La Hacienda Vieja|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4829|Rural|
+43503|El Calvario|Colonia|Huasca de Ocampo|Hidalgo||42001|13|42001||09|024|4811|Urbano|
+43503|Huasca de Ocampo Centro|Colonia|Huasca de Ocampo|Hidalgo||42001|13|42001||09|024|1692|Urbano|
+43505|Cacaloapan (San Miguel Cacaloapan)|Poblado comunal|Huasca de Ocampo|Hidalgo||42001|13|42001||27|024|4817|Rural|
+43505|Las Mesas de Tlaxocoyucan|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4837|Rural|
+43505|San Juan Hueyapan|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1699|Rural|
+43505|Santa Elena|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4848|Rural|
+43505|San José Cacaloapan|Pueblo|Huasca de Ocampo|Hidalgo||42001|13|42001||28|024|1698|Rural|
+43508|El Peral|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1700|Rural|
+43508|Los Reyes Tepezala|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1701|Rural|
+43508|Agua Zarca|Poblado comunal|Huasca de Ocampo|Hidalgo||42001|13|42001||27|024|4812|Rural|
+43508|El Jilotillo|Poblado comunal|Huasca de Ocampo|Hidalgo||42001|13|42001||27|024|4824|Rural|
+43508|Yerbabuena|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4853|Rural|
+43510|San Bartolomé|Pueblo|Huasca de Ocampo|Hidalgo||42001|13|42001||28|024|1703|Rural|
+43510|Ojo de Agua|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1702|Rural|
+43514|La Palma|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4834|Rural|
+43514|San Diego|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4843|Rural|
+43514|Cerritos|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1704|Rural|
+43514|San Pablo Ojo de Agua|Poblado comunal|Huasca de Ocampo|Hidalgo||42001|13|42001||27|024|4846|Rural|
+43515|La Cañada|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1705|Rural|
+43515|La Laguna San Bartolo|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4830|Rural|
+43516|San Jerónimo|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1707|Rural|
+43516|Santa María Regla|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4849|Rural|
+43516|La Loma|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1706|Rural|
+43516|El Huariche|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4823|Rural|
+43516|Santo Tomás Allende|Pueblo|Huasca de Ocampo|Hidalgo||42001|13|42001||28|024|1708|Rural|
+43516|La Bolsa|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4828|Rural|
+43516|San José Regla|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4845|Rural|
+43516|Tlaxcalera|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4850|Rural|
+43516|Tonteopa|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4851|Rural|
+43517|El Tunal|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4826|Rural|
+43517|La Mora|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4832|Rural|
+43517|La Palma|Poblado comunal|Huasca de Ocampo|Hidalgo||42001|13|42001||27|024|4835|Rural|
+43517|Bermúdez|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4815|Rural|
+43517|Cruz Blanca|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4819|Rural|
+43523|Magueyes Verdes|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1709|Rural|
+43523|Xúchil el Llano|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4852|Rural|
+43523|Piedra del Agua|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4842|Rural|
+43525|Palma Antigua el Vite|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4840|Rural|
+43525|San Ignacio Ojo de Agua|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4844|Rural|
+43525|Cerro del Tezontle|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4818|Rural|
+43525|Aguacatitla (El Campamento)|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1710|Rural|
+43525|Palmillas|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4841|Rural|
+43527|Barranca del Xúchil|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4814|Rural|
+43527|El Dongo Chico|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4821|Rural|
+43527|La Nogalera|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4833|Rural|
+43527|Santa Cruz|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4847|Rural|
+43527|Mario Díaz Guzmán|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4839|Rural|
+43527|El Vite|Pueblo|Huasca de Ocampo|Hidalgo||42001|13|42001||28|024|1711|Rural|
+43527|El Dongo Grande|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4822|Rural|
+43530|Alcholoya|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1712|Rural|
+43530|Tlaxocoyucan|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|1713|Rural|
+43530|Barranca de Tlaxocoyucan|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4813|Rural|
+43530|La Palmilla|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4836|Rural|
+43530|El Contento|Ranchería|Huasca de Ocampo|Hidalgo||42001|13|42001||29|024|4820|Rural|
+43538|San Sebastián (San Sebastián la Barranca)|Pueblo|Huasca de Ocampo|Hidalgo||42001|13|42001||28|024|1714|Rural|

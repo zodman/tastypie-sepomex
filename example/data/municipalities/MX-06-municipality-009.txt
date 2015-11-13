@@ -1,0 +1,93 @@
+28100|Tecomán Centro|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0096|Semiurbano|03
+28110|Miguel Hidalgo|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0100|Semiurbano|03
+28110|Reyes Heroles|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0584|Semiurbano|03
+28110|Josefa Ortiz de Domínguez|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0653|Semiurbano|03
+28110|Tepeyac|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0098|Semiurbano|03
+28110|Manuel Alvarez|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0099|Semiurbano|03
+28113|Elba Cecilia Vega|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0494|Semiurbano|03
+28114|Amalia Solórzano|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0454|Semiurbano|03
+28120|Valle Querido|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0103|Semiurbano|03
+28120|Noriega Pizano|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0560|Semiurbano|03
+28120|Campo Aéreo|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0101|Semiurbano|03
+28120|Cofradía de Juárez|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0102|Semiurbano|03
+28123|Real del Valle|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0830|Urbano|03
+28123|Real del Bosque|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0861|Urbano|03
+28130|La Unión|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0106|Semiurbano|03
+28130|Francisco Villa|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0105|Semiurbano|03
+28130|Vicente Guerrero|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0107|Semiurbano|03
+28130|Fátima|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0104|Semiurbano|03
+28130|Villas del Sol|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0663|Semiurbano|03
+28133|Hacienda la Loma|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0788|Semiurbano|03
+28133|Loma Bonita|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0789|Semiurbano|03
+28134|Lázaro Cárdenas II|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0109|Semiurbano|03
+28134|Ampliación Las Flores|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0660|Semiurbano|03
+28134|San Ignacio|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0001|Urbano|03
+28134|Álvaro Obregón|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0563|Semiurbano|03
+28134|Palma Real|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0713|Urbano|03
+28134|Griselda Álvarez|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0502|Semiurbano|03
+28134|Niños Héroes|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0658|Semiurbano|03
+28134|Lázaro Cárdenas|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0108|Semiurbano|03
+28134|Luis Donaldo Colosio|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0657|Semiurbano|03
+28134|Las Flores|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0659|Semiurbano|03
+28134|Santa Elena|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0110|Semiurbano|03
+28134|Sor Juana Inés de La Cruz|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0111|Semiurbano|03
+28140|San Isidro|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0114|Semiurbano|03
+28140|La Floresta|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0113|Semiurbano|03
+28140|El Chamizal|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0112|Semiurbano|03
+28140|Jardines del Chamizal|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0002|Urbano|03
+28140|INFONAVIT Las Huertas|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0116|Semiurbano|03
+28140|Jardines de Tecomán|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0510|Semiurbano|03
+28140|Villa Florida|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0115|Semiurbano|03
+28143|La Cuarta|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0518|Semiurbano|03
+28150|Benito Juárez|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0117|Semiurbano|03
+28150|La Palmita|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0118|Semiurbano|03
+28150|San Francisco Javier|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0119|Semiurbano|03
+28159|INFONAVIT Las Palmas|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0121|Semiurbano|03
+28160|Sedena Militar|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0594|Semiurbano|03
+28160|Pablo Silva García|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0122|Semiurbano|03
+28160|Ponciano Arriaga|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0123|Semiurbano|03
+28160|Estatuto Jurídico|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0496|Semiurbano|03
+28160|Burócratas|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0460|Semiurbano|03
+28170|Parque Las Flores (Elias Zamora Verduzco)|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0120|Semiurbano|03
+28170|Libertad|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0125|Semiurbano|03
+28170|Indeco|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0124|Semiurbano|03
+28180|Bugambilias|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0126|Semiurbano|03
+28180|La Floresta II|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0127|Semiurbano|03
+28180|San Antonio|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0130|Semiurbano|03
+28180|San Miguel|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0654|Semiurbano|03
+28180|Villa del Centenario|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0131|Semiurbano|03
+28180|Primaveras del Real|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0129|Semiurbano|03
+28180|Villas del Rey|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0132|Semiurbano|03
+28180|Las Palmas|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0128|Semiurbano|03
+28184|San Carlos|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0133|Semiurbano|03
+28189|88 Batallón de Infantería|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0448|Semiurbano|03
+28190|San José|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0135|Semiurbano|03
+28190|Llanos de San José|Fraccionamiento|Tecomán|Colima|Tecoman|28101|06|28101||21|009|0655|Semiurbano|03
+28190|Gustavo Díaz Ordaz|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0134|Semiurbano|03
+28190|Tuxpan|Colonia|Tecomán|Colima|Tecoman|28101|06|28101||09|009|0136|Semiurbano|03
+28900|Hermanos Leaños|Colonia|Tecomán|Colima||28901|06|28901||09|009|0697|Rural|
+28900|Cerro de Ortega|Pueblo|Tecomán|Colima||28901|06|28901||28|009|0355|Rural|
+28906|Cerro de Aguilar|Ranchería|Tecomán|Colima||28901|06|28901||29|009|0357|Rural|
+28910|Estación Madrid|Paraje|Tecomán|Colima||28101|06|28101||45|009|0358|Semiurbano|
+28910|Articulo 27 Constitucional|Colonia|Tecomán|Colima||28101|06|28101||09|009|0456|Rural|
+28910|Conacar PRI|Colonia|Tecomán|Colima||28101|06|28101||09|009|0472|Rural|
+28910|La Pedregoza|Colonia|Tecomán|Colima||28101|06|28101||09|009|0524|Rural|
+28915|El Rosario|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0360|Rural|
+28920|Tecolapa|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0361|Rural|
+28929|Cofradía de Hidalgo (Laguna de Alcuzahue)|Pueblo|Tecomán|Colima||28101|06|28101||28|009|0362|Rural|
+28930|Puerta de Caleras|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0364|Rural|
+28930|Caleras|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0363|Rural|
+28930|Tecomán Estación|Colonia|Tecomán|Colima||28101|06|28101||09|009|0365|Rural|
+28934|Ballardo|Colonia|Tecomán|Colima||28101|06|28101||09|009|0366|Rural|
+28934|Luis Rodríguez Alcalá [La Báscula]|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0367|Rural|
+28934|Antonio Salazar Salazar|Colonia|Tecomán|Colima||28101|06|28101||09|009|0455|Rural|
+28934|María Esther Zuno de Echeverría|Colonia|Tecomán|Colima||28101|06|28101||09|009|0553|Rural|
+28935|Cofradía de Morelos|Pueblo|Tecomán|Colima||28101|06|28101||28|009|0368|Rural|
+28936|Ladislao Moreno|Colonia|Tecomán|Colima||28101|06|28101||09|009|0369|Rural|
+28937|El Real|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0370|Rural|
+28938|Tecuanillo|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0371|Rural|
+28940|Callejones|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0372|Rural|
+28944|El Saucito|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0373|Rural|
+28944|La Primavera|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0374|Rural|
+28945|Chanchopa|Ranchería|Tecomán|Colima||28101|06|28101||29|009|0375|Rural|
+28947|San Miguel del Ojo de Agua|Ranchería|Tecomán|Colima||28901|06|28901||29|009|0376|Rural|

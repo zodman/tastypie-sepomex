@@ -1,0 +1,6 @@
+98900|El Arenal|Colonia|Villa García|Zacatecas||98831|32|98831||09|052|0001|Urbano|
+98900|Villa Garcia Centro|Colonia|Villa García|Zacatecas||98831|32|98831||09|052|0388|Urbano|
+98900|Villa Flores|Colonia|Villa García|Zacatecas||98831|32|98831||09|052|1746|Urbano|
+98910|Agua Gorda|Ejido|Villa García|Zacatecas||98831|32|98831||15|052|0390|Rural|
+98918|Montesa|Ejido|Villa García|Zacatecas||98831|32|98831||15|052|0391|Rural|
+98919|Los Campos|Ranchería|Villa García|Zacatecas||98831|32|98831||29|052|0392|Rural|

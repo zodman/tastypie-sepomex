@@ -1,0 +1,21 @@
+55790|San Miguel Xaltocan|Pueblo|Nextlalpan|México||55601|15|55601||28|059|3959|Rural|
+55790|Central|Barrio|Nextlalpan|México||55601|15|55601||02|059|3960|Rural|
+55793|Las Malvinas|Colonia|Nextlalpan|México||55601|15|55601||09|059|8781|Urbano|
+55793|San Estebán Ecatitlan|Barrio|Nextlalpan|México||55601|15|55601||02|059|8782|Urbano|
+55793|San Francisco Molonco|Barrio|Nextlalpan|México||55601|15|55601||02|059|8783|Urbano|
+55793|San Pedro Miltenco|Barrio|Nextlalpan|México||55601|15|55601||02|059|8785|Urbano|
+55794|Macan|Ranchería|Nextlalpan|México||55601|15|55601||29|059|8792|Rural|
+55794|Xaltocan|Colonia|Nextlalpan|México||55601|15|55601||09|059|8794|Rural|
+55795|Los Pastales|Ranchería|Nextlalpan|México||55601|15|55601||29|059|8790|Rural|
+55795|Granja la Laguna|Ranchería|Nextlalpan|México||55601|15|55601||29|059|8789|Rural|
+55796|Los Aguiluchos|Colonia|Nextlalpan|México||55601|15|55601||09|059|8786|Rural|
+55796|San Antonio (El Oasis)|Ranchería|Nextlalpan|México||55601|15|55601||29|059|8793|Rural|
+55796|Paseos del Valle|Fraccionamiento|Nextlalpan|México||55601|15|55601||21|059|0001|Urbano|
+55796|Pozos y Vías (Fracción Diecisiete A)|Colonia|Nextlalpan|México||55601|15|55601||09|059|8787|Rural|
+55796|Prados San Francisco|Colonia|Nextlalpan|México||55601|15|55601||09|059|8791|Rural|
+55796|Tierra Santa Inés|Ranchería|Nextlalpan|México||55601|15|55601||29|059|8795|Urbano|
+55796|Ex-hacienda Santa Inés|Fraccionamiento|Nextlalpan|México||55601|15|55601||21|059|8725|Urbano|
+55797|Santiago Atocan|Pueblo|Nextlalpan|México||55601|15|55601||28|059|3961|Rural|
+55797|San Juan Atenanco|Barrio|Nextlalpan|México||55601|15|55601||02|059|8784|Urbano|
+55799|San Mateo Acuitlapilco|Pueblo|Nextlalpan|México||55601|15|55601||28|059|3962|Rural|
+55799|Cuatro Caballerías|Colonia|Nextlalpan|México||55601|15|55601||09|059|8788|Rural|

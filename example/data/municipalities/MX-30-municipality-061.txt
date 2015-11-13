@@ -1,0 +1,259 @@
+96980|Olmeca|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4187|Urbano|47
+96980|El Huapacalito|Ejido|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||15|061|4883|Urbano|47
+96980|El Rabon|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4891|Urbano|47
+96980|Las Choapas Centro|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4049|Urbano|47
+96980|San José del Carmen|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||28|061|4054|Rural|47
+96980|La Aurora|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4886|Urbano|47
+96980|J. Mario Rosado 2a Sección|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4884|Urbano|47
+96980|La Cuevita|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4885|Urbano|47
+96980|Hidalgo|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4892|Urbano|47
+96980|Aviación|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4089|Urbano|47
+96980|Huapacal|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4138|Urbano|47
+96980|J. Mario Rosado 1a Sección|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4142|Urbano|47
+96980|Reforma|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4194|Urbano|47
+96980|Anáhuac|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4087|Urbano|47
+96980|La Sabana|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4154|Urbano|47
+96980|Campo Nuevo|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4098|Urbano|47
+96980|Hollywood|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4137|Urbano|47
+96980|Las Flores|Barrio|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||02|061|4155|Urbano|47
+96980|México|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4173|Urbano|47
+96980|Tancochapa|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4208|Urbano|47
+96980|Francisco Villa|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4888|Urbano|47
+96980|Solidaridad|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4889|Urbano|47
+96980|Agraria|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4082|Urbano|47
+96980|Carmen Romano de López Portillo|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4887|Urbano|47
+96980|Los Pinos|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4890|Urbano|47
+96980|Ignacio Zaragoza|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4139|Urbano|47
+96980|Nazareth|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4177|Urbano|47
+96980|Tepito|Colonia|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||09|061|4209|Urbano|47
+96980|La Hacienda|Fraccionamiento|Las Choapas|Veracruz de Ignacio de la Llave|Las Choapas|96981|30|96981||21|061|7859|Urbano|47
+96983|El Plan|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4048|Rural|
+96983|Venustiano Carranza|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8541|Rural|
+96983|Maravillas|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8525|Rural|
+96983|Santa Elena|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0012|Rural|
+96983|Casa Blanca|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8384|Rural|
+96983|El Polvorín|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8434|Rural|
+96983|Las Choapas (El Rabón)|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8482|Rural|
+96983|Los Gavilanes|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8502|Rural|
+96983|Choapas I, II|Granja|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||23|061|8390|Rural|
+96983|Choapas III y IV|Granja|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||23|061|8391|Rural|
+96983|Las Choapas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8481|Rural|
+96983|Los Robles|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|4071|Rural|
+96984|Acapulco|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8371|Rural|
+96984|Alejandro Luna Hernández|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8374|Rural|
+96984|La Coquera (El Hulefante)|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8465|Rural|
+96984|Las Palmas|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8488|Rural|
+96984|El Diamante|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8415|Rural|
+96984|El Rodeo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8435|Rural|
+96984|Xicoténcatl|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8544|Rural|
+96984|Rafael Tecuapetla|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8521|Rural|
+96984|El Huasteco|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8421|Rural|
+96984|Rivera del Carmen|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8531|Rural|
+96984|Tecuanapa (Vicente Guerrero)|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|4053|Rural|
+96984|El Mazate|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8424|Rural|
+96984|Luis Munguía Madrigal|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8506|Rural|
+96984|Wenceslao Mafara Huesca|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8543|Rural|
+96984|El Faisán|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8418|Rural|
+96984|El Nuevo Tesoro|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8429|Rural|
+96984|Poblado las Palmas|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8518|Rural|
+96984|Las Palmas|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|7252|Rural|
+96984|Gibraltar|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8456|Rural|
+96984|El Chichón|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|4066|Rural|
+96984|La Florida|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8466|Rural|
+96984|Las Maravillas|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8486|Rural|
+96985|El Sahuayo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8437|Rural|
+96985|Paso Bodegas|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8514|Rural|
+96985|Plaza Verde|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8516|Rural|
+96985|El Pinolillo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8433|Rural|
+96985|La Báscula (Los Framboyanes)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8560|Rural|
+96985|El Centenario|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8411|Rural|
+96985|Los Pericos|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8504|Rural|
+96985|Agua Dulcita|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8373|Rural|
+96985|Las Piedras (El Cinco)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0010|Rural|
+96985|La Luz|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8469|Rural|
+96986|Choapas V, VI, VII|Granja|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||23|061|8392|Rural|
+96986|Cuatro Hermanos|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8398|Rural|
+96986|Santa Teresa|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0001|Rural|
+96986|Ceiba Blanca|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8386|Rural|
+96986|El Sacrificio|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8436|Rural|
+96986|El Tepeyac|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8440|Rural|
+96986|El Cocoital|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8412|Rural|
+96986|Los Mangos|Rancho|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||48|061|0017|Rural|
+96986|Linda Vista (El Cura)|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|4055|Rural|
+96986|Las Choapas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8402|Rural|
+96986|El Pajaral (Bajo Grande)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8430|Rural|
+96986|Laguna el Pajaral|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8477|Rural|
+96987|Rancho Callejas|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8524|Rural|
+96987|La Porfia Número Tres|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8473|Rural|
+96987|Chucuapa|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0007|Rural|
+96987|Elena Gutiérrez Martínez|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8443|Rural|
+96987|Laguna Perdida|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8479|Rural|
+96987|Niños Héroes|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4179|Rural|
+96987|Chicuapilla|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8389|Rural|
+96987|La Porfía Número Cuatro|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8471|Rural|
+96987|La Porfía Número Uno|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8474|Rural|
+96987|La Porfía Número Dos (El Canutillo)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8472|Rural|
+96988|Los Laureles|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8503|Rural|
+96988|Santa Rosa|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8561|Rural|
+96988|Benito Juárez|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|4059|Rural|
+96988|Cascajal|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4065|Rural|
+96988|La Cordobesa|Barrio|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||02|061|4061|Rural|
+96988|Fernando López Arias (El Zapote)|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8451|Rural|
+96988|La Ceiba|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8464|Rural|
+96988|Guadalupe Victoria (Rancho Nuevo)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8459|Rural|
+96988|Crescencio Bonilla Olivo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8397|Rural|
+96988|Kilómetro Ocho|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8461|Rural|
+96988|El Bajío|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8408|Rural|
+96988|La Sal|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8476|Rural|
+96988|Rancho Nuevo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8526|Rural|
+96988|Salsipuedes|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8533|Rural|
+96988|Rancho Alegre|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8523|Rural|
+96989|El Naranjo|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|4057|Rural|
+96989|Alto Uxpanapa|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|4062|Rural|
+96989|El Capricho|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8409|Rural|
+96989|El Nuevo Progreso|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8428|Rural|
+96989|Nuevo Progreso|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8512|Rural|
+96989|La Gravera|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0009|Rural|
+96989|El Ventarrón|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8441|Rural|
+96989|Alfredo Quiroga Cabrera|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8376|Rural|
+96989|El Gran Chaparral (Mario Lendechi)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8419|Rural|
+96989|San Pedro|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0011|Rural|
+96989|El Jobo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8422|Rural|
+96989|El Suspiro (Enrique Callejas)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8439|Rural|
+96989|General Miguel Alemán|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0003|Rural|
+96989|Úrsulo Galván|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|0004|Rural|
+96989|El Grillo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8420|Rural|
+96990|Nueva Esperanza (Cerro Nanchital)|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|4104|Rural|
+96990|Alfonso Medina|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8375|Rural|
+96990|El Esfuerzo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8417|Rural|
+96990|Emiliano Zapata Misantla|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8445|Rural|
+96990|Arroyo Marín|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8381|Rural|
+96990|El Arbolito|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8405|Rural|
+96990|La Azteca|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8462|Rural|
+96990|Alto Uxpanapa (El Amate)|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8377|Rural|
+96990|Las Cruces|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8483|Rural|
+96990|Luis Echeverría|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8505|Rural|
+96990|Nuevo Castrejón|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8510|Rural|
+96990|Ignacio Zaragoza (Tronconada)|Barrio|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||02|061|4067|Rural|
+96990|Francisco Villa|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8455|Rural|
+96990|Licenciado Trinidad García de la Cadena|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8494|Rural|
+96990|Vicente Guerrero (Las Cholinas)|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8542|Rural|
+96990|Francisco I. Madero (Agua Fría)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8453|Rural|
+96990|La Canoa|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8463|Rural|
+96990|San Pablo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|4058|Rural|
+96990|Tierra Morada|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|7567|Rural|
+96990|El Mulato|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8426|Rural|
+96990|Nueva Esperanza|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|4068|Rural|
+96990|Gustavo Díaz Ordaz|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|4078|Rural|
+96990|Calipan de López|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8383|Rural|
+96990|Ramos Millán|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8522|Rural|
+96993|Vista Hermosa|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|4070|Rural|
+96993|Privilegio|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|7287|Rural|
+96993|El Arroyo de Enmedio|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8406|Rural|
+96993|La Nueva Esperanza|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8470|Rural|
+96993|Lázaro Cárdenas|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8489|Rural|
+96993|Lindavista|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8496|Rural|
+96993|Enrique López Huitrón|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8446|Rural|
+96993|Las Mañanitas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8485|Rural|
+96993|Licenciado José López Portillo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8492|Rural|
+96993|San Miguel de Allende|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8537|Rural|
+96993|Las Cruces|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|7769|Rural|
+96993|Cerro Pelón|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|8388|Rural|
+96993|Rafael Murillo Vidal|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8520|Rural|
+96993|Guadalupe Victoria|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0015|Rural|
+96993|Ignacio López Rayón|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4063|Rural|
+96993|Constitución Mexicana|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8396|Rural|
+96993|El Nacimiento|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8427|Rural|
+96993|Emiliano Zapata|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8444|Rural|
+96993|La Libertad|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8468|Rural|
+96993|Los Aztecas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8498|Rural|
+96993|Nuevo Sacrificio|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0014|Rural|
+96993|El Cedro|Rancho|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||48|061|0016|Rural|
+96993|Nueva Tabasqueña|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8508|Rural|
+96993|San Lorenzo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8536|Rural|
+96993|Nuevo Paraíso|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|0008|Rural|
+96993|El Ideal|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|0002|Rural|
+96993|Francisco Sarabia|Barrio|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||02|061|4069|Rural|
+96993|Arroyo las Cholinas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8380|Rural|
+96993|Graciano Sánchez|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8457|Rural|
+96993|Río Playas (Los Robles)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8530|Rural|
+96993|El Amate|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8404|Rural|
+96993|Francisco I. Madero|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8452|Rural|
+96993|Linda Tarde|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8495|Rural|
+96993|Tecozautla|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8538|Rural|
+96994|El Remolino|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4052|Rural|
+96994|Aquiles Serdán|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8379|Rural|
+96994|Constituyentes II|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8499|Rural|
+96994|Los Constituyentes Uno (Sumidero)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8500|Rural|
+96994|Amatán|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8378|Rural|
+96994|Barrosa|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8382|Rural|
+96994|Licenciado Benito Juárez|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8491|Rural|
+96994|Nuevo Ixtacomitán|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8511|Rural|
+96994|Unión y Progreso|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8540|Rural|
+96994|Vicente Guerrero|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4064|Rural|
+96994|El Satélite|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8438|Rural|
+96994|Revolución|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8527|Rural|
+96994|Cerro del Horcón|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8387|Rural|
+96994|Felipe Ángeles|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8449|Rural|
+96994|Francisco I. Madero|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|4060|Rural|
+96994|Adolfo Ramos Venegas|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8372|Rural|
+96994|Xochitlán|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8545|Rural|
+96994|Malpaso (Malpasito)|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|0013|Rural|
+96994|Río Playas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4056|Rural|
+96994|Cebadilla|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8385|Rural|
+96994|Las Brujas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8480|Rural|
+96994|Nuevo Caletón|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8509|Rural|
+96994|La Guadalupe (El Milagro)|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|7576|Rural|
+96994|Plutarco Elías Calles|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8517|Rural|
+96994|Pueblo Viejo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8519|Rural|
+96994|Las Isabeles|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8484|Rural|
+96994|Licenciado Luis Echeverría Álvarez (Playa Santa)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8493|Rural|
+96995|Cuauhtémoc Pedregal|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4075|Rural|
+96995|El Cuerno|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8413|Rural|
+96995|El Pijón|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8432|Rural|
+96995|La Preferida (Río Nuevo)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8475|Rural|
+96995|Nuevo Progreso (Nuevo León)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8513|Rural|
+96995|Tres Peanas|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8539|Rural|
+96995|San Martín|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8563|Rural|
+96995|Cinco de Mayo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8393|Rural|
+96995|Cinco de Mayo (La Isla)|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8394|Rural|
+96995|Cinco de Mayo (Segunda Sección)|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8395|Rural|
+96995|El Momal|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8425|Rural|
+96995|El Zapote|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8442|Rural|
+96995|Fernando Gutiérrez Barrios|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8450|Rural|
+96995|Nueva Esperanza|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8507|Rural|
+96995|Río Pedregal|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|8529|Rural|
+96995|Sacrificio|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8532|Rural|
+96995|San Juan de Ulúa|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8535|Rural|
+96995|Las Flores|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8559|Rural|
+96995|Yucateco el Pedregal|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|4076|Rural|
+96995|El Pedregal|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|8431|Rural|
+96995|Escuadrón Doscientos Uno (El Aserradero)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8448|Rural|
+96995|Francisco Villa|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8454|Rural|
+96995|Llano Verde|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8497|Rural|
+96995|Nuevo Progreso|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|7577|Rural|
+96995|Arroyo Grande|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|7796|Rural|
+96995|El Castaño|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8410|Rural|
+96995|El Encanto|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8416|Rural|
+96995|Ricardo Flores Magón|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8528|Rural|
+96995|Tierra Nueva|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|0005|Rural|
+96995|Las Marías|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8403|Rural|
+96995|El Macayo|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8423|Rural|
+96995|Framboyanes|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8501|Rural|
+96995|Coronel Adalberto Tejeda (La Reforma)|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|4081|Rural|
+96995|El Izquierdo|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8401|Rural|
+96995|Once de Febrero|Poblado comunal|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||27|061|8562|Rural|
+96995|La Nueva Independencia|Pueblo|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||28|061|0006|Rural|
+96995|Escuadrón 201|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8447|Rural|
+96995|La Fortuna|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8467|Rural|
+96995|Las Marías|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8487|Rural|
+96995|Lázaro Olán Hernández|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8490|Rural|
+96995|Plan de Iguala|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8515|Rural|
+96995|Dionisio Sánchez Vázquez|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8399|Rural|
+96995|Dos Hermanos|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8400|Rural|
+96995|Laguna Nueva|Ranchería|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||29|061|8478|Rural|
+96996|El Desengaño|Colonia|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||09|061|8414|Rural|
+96996|El Azufre|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8407|Rural|
+96996|Hueyapan de Mimendi|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8460|Rural|
+96996|Samaria (Río Playas)|Ejido|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||15|061|8534|Rural|
+96996|Primitivo R. Valencia|Congregación|Las Choapas|Veracruz de Ignacio de la Llave||96981|30|96981||11|061|7555|Rural|

@@ -1,0 +1,12 @@
+98330|Estrella|Fraccionamiento|Miguel Auza|Zacatecas||98331|32|98331||21|029|0003|Rural|
+98330|Las Minas|Colonia|Miguel Auza|Zacatecas||98331|32|98331||09|029|0004|Rural|
+98330|Los Conos|Colonia|Miguel Auza|Zacatecas||98331|32|98331||09|029|1671|Rural|
+98330|Miguel Auza Centro|Colonia|Miguel Auza|Zacatecas||98331|32|98331||09|029|0174|Urbano|
+98330|San Gabriel|Barrio|Miguel Auza|Zacatecas||98331|32|98331||02|029|1666|Rural|
+98330|Betania|Colonia|Miguel Auza|Zacatecas||98331|32|98331||09|029|0002|Rural|
+98330|Mina|Fraccionamiento|Miguel Auza|Zacatecas||98331|32|98331||21|029|0005|Rural|
+98336|Miguel Alemán|Colonia|Miguel Auza|Zacatecas||98421|32|98421||09|029|0001|Rural|
+98336|La Honda|Ejido|Miguel Auza|Zacatecas||98421|32|98421||15|029|0177|Rural|
+98340|20 de Noviembre|Ejido|Miguel Auza|Zacatecas||98331|32|98331||15|029|0179|Rural|
+98340|Emilio Carranza|Ejido|Miguel Auza|Zacatecas||98331|32|98331||15|029|0176|Rural|
+98340|Tierra Generosa|Ejido|Miguel Auza|Zacatecas||98331|32|98331||15|029|0178|Rural|

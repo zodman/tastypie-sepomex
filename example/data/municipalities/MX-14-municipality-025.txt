@@ -1,0 +1,28 @@
+46200|Colotlan Centro|Colonia|Colotlán|Jalisco|Colotlán|46201|14|46201||09|025|1495|Semiurbano|35
+46202|Del Bosque|Colonia|Colotlán|Jalisco|Colotlán|46201|14|46201||09|025|3689|Semiurbano|35
+46202|De La Arboleda|Fraccionamiento|Colotlán|Jalisco|Colotlán|46201|14|46201||21|025|3688|Semiurbano|35
+46203|Chihuahua|Barrio|Colotlán|Jalisco|Colotlán|46201|14|46201||02|025|3690|Semiurbano|35
+46203|Santiago Tlatelolco|Pueblo|Colotlán|Jalisco|Colotlán|46201|14|46201||28|025|3691|Semiurbano|35
+46204|Lomas de La Cruz|Colonia|Colotlán|Jalisco|Colotlán|46201|14|46201||09|025|3693|Semiurbano|35
+46205|Lomas de Oriente|Colonia|Colotlán|Jalisco|Colotlán|46201|14|46201||09|025|3694|Semiurbano|35
+46205|Las Golondrinas|Fraccionamiento|Colotlán|Jalisco|Colotlán|46201|14|46201||21|025|3697|Semiurbano|35
+46206|El Pastor|Fraccionamiento|Colotlán|Jalisco|Colotlán|46201|14|46201||21|025|0001|Urbano|35
+46206|Nuevo Tlaxcala|Fraccionamiento|Colotlán|Jalisco|Colotlán|46201|14|46201||21|025|3696|Semiurbano|35
+46207|Acaponeta|Barrio|Colotlán|Jalisco|Colotlán|46201|14|46201||02|025|3695|Semiurbano|35
+46208|Soyatitlán|Colonia|Colotlán|Jalisco|Colotlán|46201|14|46201||09|025|3692|Semiurbano|35
+46210|Mesa de Flores|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|4446|Rural|
+46220|El Refugio|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1497|Rural|
+46225|Canoas de Arriba|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|4505|Rural|
+46225|Santiago Tlatelolco|Pueblo|Colotlán|Jalisco||46201|14|46201||28|025|1498|Rural|
+46227|El Epazote|Hacienda|Colotlán|Jalisco||46201|14|46201||24|025|1499|Rural|
+46230|El Carrizal|Congregación|Colotlán|Jalisco||46241|14|46241||11|025|1500|Rural|
+46234|Agua Gorda|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1501|Rural|
+46235|San Francisco|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1502|Rural|
+46236|Tulimic de Guadalupe|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1504|Rural|
+46236|Tulimic Del Rosario|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1505|Rural|
+46236|Dolores|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1503|Rural|
+46237|Aguajes|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1506|Rural|
+46237|Los Veliz|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1507|Rural|
+46238|Ciénega de los Alejos|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1508|Rural|
+46239|San Nicolás|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1510|Rural|
+46239|San Antonio de las Lajas|Ranchería|Colotlán|Jalisco||46201|14|46201||29|025|1509|Rural|

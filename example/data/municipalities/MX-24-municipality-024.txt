@@ -1,0 +1,444 @@
+79600|San José del Tapanco|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1406|Rural|
+79600|El Capulín|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1426|Rural|
+79600|El Garambullo|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5009|Rural|
+79600|La Misión|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5091|Rural|
+79600|Las Magdalenas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5123|Rural|
+79600|Los Tres Compadres|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5150|Rural|
+79600|Miguel Velázquez Reyna|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5158|Rural|
+79600|Rancho Loredo´s|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5215|Rural|
+79600|Puente Nueva|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5180|Rural|
+79600|Plazuela|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1404|Rural|
+79600|Colonia María del Rosario (Puente del Carmen)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1449|Rural|
+79600|El Riachuelo (El Caracol)|Pueblo|Rioverde|San Luis Potosí||79611|24|79611||28|024|2194|Rural|
+79600|Francisco Alvarado Verde|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5041|Rural|
+79600|La Laborcilla|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5085|Rural|
+79600|Las Vegas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5133|Rural|
+79600|Salitrera|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5242|Rural|
+79600|El Obrajero|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5014|Rural|
+79600|Juan Verástegui|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5061|Rural|
+79600|La Aldea|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5062|Rural|
+79600|La Ardilla|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5064|Rural|
+79600|Palomas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5167|Rural|
+79600|Paso de los Herreros (Paso de Guadalupe)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5171|Rural|
+79600|Palmita|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1403|Rural|
+79600|Ampliación Ejido el Jabalí (La Curva)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4964|Rural|
+79600|El Salto|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5026|Rural|
+79600|Paraíso de Ángeles|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5169|Rural|
+79600|Puerta Grande|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5181|Rural|
+79600|El Huizachal|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1401|Rural|
+79600|Javier Hernández|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5048|Rural|
+79600|Rancho el Esfuerzo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5190|Rural|
+79600|Valle Florido|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5265|Rural|
+79600|Bordo Blanco|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|2517|Rural|
+79600|Nueva Colonia el Florido|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5162|Rural|
+79600|Anexo el Riachuelo|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4965|Rural|
+79600|Hernández [Ladrillera]|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5044|Rural|
+79600|Palmillas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5165|Rural|
+79603|Albino Martínez|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4962|Rural|
+79603|Paradero la Tapona|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5168|Rural|
+79603|Agua de los Robles|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4957|Rural|
+79603|La Lagunita|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5086|Rural|
+79603|La Tapona|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1418|Rural|
+79603|San José de Gallinas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1416|Rural|
+79603|San José de las Flores|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1417|Rural|
+79603|Tecomates|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1419|Rural|
+79603|Los Amoniacos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5137|Rural|
+79603|Chupaderos|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1415|Rural|
+79603|Rancho las Maravillas (Inocencio Martínez)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5212|Rural|
+79604|Buenavista|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1420|Rural|
+79604|Fraccionamiento Ejido San Marcos|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1424|Rural|
+79604|El Higuerón|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5011|Rural|
+79604|La Escondida|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5074|Rural|
+79604|La Manga|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5087|Rural|
+79604|Los Potreritos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5145|Rural|
+79604|Cieneguillas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1414|Rural|
+79604|El Jabalí|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1421|Rural|
+79604|La Loma|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1422|Rural|
+79604|San Martín|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1425|Rural|
+79604|Colonia la Esperanza Dos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4987|Rural|
+79604|El Cerro Colorado|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5003|Rural|
+79604|El Ezquite|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5008|Rural|
+79604|El Zancudo (Sambalamtram)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5035|Rural|
+79604|La Concha|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5069|Rural|
+79604|La Pedrera|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5094|Rural|
+79604|Miguel Rodríguez|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5157|Rural|
+79604|Resumidero|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5241|Rural|
+79604|El Nacimiento|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1411|Rural|
+79604|San Diego|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1423|Rural|
+79604|El Capulín [Parque Acuático]|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5000|Rural|
+79604|El Vergel de David Cruz Arellano|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5034|Rural|
+79604|Evaristo Baldera|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5038|Rural|
+79604|Herminio Rodríguez|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5043|Rural|
+79604|Salitrillo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5243|Rural|
+79604|Jesús Díaz (Puente del Carmen)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5049|Rural|
+79604|Joya de Luna|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5054|Rural|
+79604|La Robluda|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5103|Rural|
+79604|La Roca|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5104|Rural|
+79604|La Yerbabuena|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5110|Rural|
+79604|Los Huesos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5143|Rural|
+79604|Potrero de las Mulas|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5174|Rural|
+79604|Pozo San Martín (Gregorio Milán)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5178|Rural|
+79604|Arco Grande (Los Arquitos de San Isidro)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4967|Rural|
+79604|El Begüeño|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4998|Rural|
+79604|La Escondida Segunda Sección|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5075|Rural|
+79604|La Huerta Juárez|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5080|Rural|
+79604|Las Adjuntas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5112|Rural|
+79604|El Coyote|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5006|Rural|
+79604|Fraccionamiento Charco Verde|Fraccionamiento|Rioverde|San Luis Potosí||79611|24|79611||21|024|5040|Rural|
+79604|Joya de Faustino|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5052|Rural|
+79604|Las Guayabitas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5120|Rural|
+79604|Los Anteojitos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5138|Rural|
+79604|Rancho los Salitrillos (El Mostrenco)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5221|Rural|
+79604|Las Potrancas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5131|Rural|
+79604|Carlota Méndez|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4976|Rural|
+79604|Huerta las Carmelitas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5045|Rural|
+79604|La Manga|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5088|Rural|
+79604|Manantial de la Media Luna [Centro Vacacional]|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5153|Rural|
+79604|San Isidro|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5246|Rural|
+79605|El Paso del Agua|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5017|Rural|
+79605|El Sauz|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5029|Rural|
+79605|La Viga|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5108|Rural|
+79605|Las Moctezumas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5128|Rural|
+79605|Los Alamitos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5136|Rural|
+79605|Puerto de la Yerbabuena|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5185|Rural|
+79605|La Pared (La Virgen Dos)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5093|Rural|
+79605|Rancho Nuevo (Ranchito)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5222|Rural|
+79605|El Rincón (Mesa de San Isidro)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5020|Rural|
+79605|Joyas de San Isidro|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5058|Rural|
+79605|Joya del Durazno|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5056|Rural|
+79605|La Joya Verde (El Lucero)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5084|Rural|
+79605|Las Adjuntas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5111|Rural|
+79605|Las Minitas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5127|Rural|
+79605|Los Banquitos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5139|Rural|
+79605|Cerro del Carmen|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4981|Rural|
+79605|Joya de Tablas (La Providencia)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5055|Rural|
+79605|La Peñita|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5097|Rural|
+79605|Joyas de Ventura|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5059|Rural|
+79605|Mesa de San Isidro|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5156|Rural|
+79606|Tanque de San Juan|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1413|Rural|
+79606|El Carrizal|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5002|Rural|
+79606|El Coyote (El Rincón)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5007|Rural|
+79606|La Ermita|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5072|Rural|
+79606|El Refugio|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|2404|Rural|
+79606|El Charco|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1408|Rural|
+79606|Cañada Grande|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1441|Rural|
+79606|La Manzanilla|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5089|Rural|
+79606|Los Puertos (Colonia los Puertos)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5146|Rural|
+79606|San José de Canoas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1412|Rural|
+79606|Agua Zarca (La Pila)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4959|Rural|
+79606|San Isidro de Vigas (El Huacal)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5247|Rural|
+79606|Paso de San Antonio|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1409|Rural|
+79606|Milpitas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1410|Rural|
+79606|Rancho del Puente (Puente Prieto)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1996|Rural|
+79606|Santa Efigenia|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5254|Rural|
+79607|Las Presitas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5132|Rural|
+79607|Palo Alto|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5166|Rural|
+79607|El Aguacate|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1429|Rural|
+79607|Mesa del Salto|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1433|Rural|
+79607|Soledad|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1435|Rural|
+79607|El Aliso|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4997|Rural|
+79607|El Saucito|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5028|Rural|
+79607|Las Márgaras|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5125|Rural|
+79607|Puerto de Chapalitas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5183|Rural|
+79607|Puerto de la Vaca|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5184|Rural|
+79607|El Pescadito|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1431|Rural|
+79607|El Paso de los Alisos|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5016|Rural|
+79607|Puerto Ancho|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5182|Rural|
+79607|El Freno|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1430|Rural|
+79607|Álamos de los Fierros|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4961|Rural|
+79607|Guayabas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1432|Rural|
+79607|Las Albercas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5116|Rural|
+79607|Chupaderos|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4984|Rural|
+79607|La Cruz del Alamito|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5070|Rural|
+79607|Ojo de Agua|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5163|Rural|
+79607|Ojo de Agua Seco|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1434|Rural|
+79607|Desparramadas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4992|Rural|
+79610|Río Verde Centro|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1442|Urbano|04
+79613|Los Fresnos|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0004|Urbano|04
+79613|Los Frailes|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2543|Urbano|04
+79613|Quintas El Naranjal|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2714|Urbano|04
+79613|Santa Teresa|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1022|Urbano|04
+79613|Gabriel Martínez|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2518|Urbano|04
+79613|San Miguel|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1014|Urbano|04
+79613|Gama|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0891|Urbano|04
+79613|Valle Florido|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1039|Urbano|04
+79613|INFONAVIT Los Naranjos|Unidad habitacional|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||31|024|1444|Urbano|04
+79613|Bugambilias|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2964|Urbano|04
+79613|San Fancisco de Asis|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5280|Urbano|04
+79613|La Ilusión|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0913|Urbano|04
+79613|San Isidro|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0003|Urbano|04
+79613|Precursores|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1445|Urbano|04
+79614|Los Sabinos|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0959|Urbano|04
+79614|Morelos|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2195|Urbano|04
+79614|Villas Alejandra|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|5281|Urbano|04
+79614|Las Rosas|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2974|Urbano|04
+79614|Los Olivos|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0009|Urbano|04
+79614|Santa Teresita|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1023|Urbano|04
+79614|Insurgentes|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1446|Urbano|04
+79614|Los Pinos|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0958|Urbano|04
+79614|Carreón de los Condes|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|5271|Urbano|04
+79615|Guadalupana|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0002|Urbano|04
+79615|Buenos Aires|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5270|Urbano|04
+79615|Ciudad Nueva|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2041|Urbano|04
+79615|El Carmen|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2045|Urbano|04
+79616|León Franco|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0937|Urbano|04
+79616|San Francisco|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|1006|Urbano|04
+79616|Azahares|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5269|Urbano|04
+79616|La Huerta|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0912|Urbano|04
+79616|Victoria|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1448|Urbano|04
+79617|INFONAVIT Ojo de Agua|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2725|Urbano|04
+79617|El Porvenir|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|5274|Urbano|04
+79617|Del Valle|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5273|Urbano|04
+79617|La Unión|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1035|Urbano|04
+79617|San Ángel|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|4365|Urbano|04
+79617|Los Sauces|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|5278|Urbano|04
+79618|San Rafael|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1450|Urbano|04
+79618|Residencial Centenario|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0992|Urbano|04
+79618|San Isidro|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|1009|Urbano|04
+79618|Del Sol|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|5272|Urbano|04
+79618|Los Alonsos|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0008|Urbano|04
+79618|Frontera|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2039|Urbano|04
+79618|La Piedad|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0919|Urbano|04
+79618|San José|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2046|Urbano|04
+79618|Ferrocarrilero|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5275|Urbano|04
+79618|El Golfo|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2047|Urbano|04
+79619|Los Naranjos|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1451|Urbano|04
+79619|San Antonio|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1003|Urbano|04
+79619|Las Arboledas|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0923|Urbano|04
+79620|Isla de San Pablo|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1452|Urbano|04
+79620|Isla de San Pablo III|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|2044|Urbano|04
+79620|La Pasadita|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0918|Urbano|04
+79620|Accion Nacional|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5268|Urbano|04
+79623|Pedregal de San Marcos|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0979|Urbano|04
+79623|Santa Fe|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|1019|Urbano|04
+79623|El Bosque|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0006|Urbano|04
+79624|Cofradía Grande|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2715|Urbano|04
+79624|Santa Julia|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1453|Urbano|04
+79624|Santa Catarina|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0007|Urbano|04
+79624|Los Ángeles|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1402|Urbano|04
+79625|Santa María de Guadalupe|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0001|Urbano|04
+79625|La Esperanza II|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|3006|Urbano|04
+79625|La Esperanza 1|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|5277|Urbano|04
+79625|La Cantera|Ejido|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||15|024|5276|Urbano|04
+79625|San Marcos|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|2042|Urbano|04
+79625|Las Palmas|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1454|Urbano|04
+79626|Jacarandas|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|0907|Urbano|04
+79626|La Morita|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1447|Urbano|04
+79626|Santa Cecilia|Colonia|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||09|024|1455|Urbano|04
+79626|Carlos Jongitud|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|0005|Urbano|04
+79626|Magisterial Rio Verde|Fraccionamiento|Rioverde|San Luis Potosí|Rioverde|79611|24|79611||21|024|5279|Urbano|04
+79630|San Bartolo|Estación|Rioverde|San Luis Potosí||79611|24|79611||16|024|1456|Rural|
+79630|El Puerto de los Ángeles (El Venadito)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5019|Rural|
+79630|El Venado|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5033|Rural|
+79630|Rancho los Llorones|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5217|Rural|
+79630|Rancho el Polvorín|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5195|Rural|
+79630|Rancho San Francisco|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5226|Rural|
+79630|Mitres|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5159|Rural|
+79633|Las Dos Trinidades|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5117|Rural|
+79633|Los Corrales|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5141|Rural|
+79633|Potrero de San Isidro|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5175|Rural|
+79633|La Sábana|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5106|Rural|
+79633|El Chicayán|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5005|Rural|
+79633|Joya el Cardón|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5057|Rural|
+79634|El Aguaje|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4995|Rural|
+79634|Diego Ruiz|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4993|Rural|
+79634|Rancho Santa Fe|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5235|Rural|
+79635|Rancho Santo Domingo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5237|Rural|
+79635|Progreso|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1457|Rural|
+79635|Rancho el Vergel|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5201|Rural|
+79635|Rancho el Común|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5188|Rural|
+79636|La Muralla|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|1460|Rural|
+79636|Rancho los Reyes|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5220|Rural|
+79636|Santa María de las Parras (El Soldado)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5257|Rural|
+79636|San Francisco|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1428|Rural|
+79636|El Sabinito|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5024|Rural|
+79636|Ojo de Agua|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5164|Rural|
+79636|Rancho Española|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5202|Rural|
+79636|Rancho el Verde|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5200|Rural|
+79636|Benito Juárez|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4973|Rural|
+79637|Santa Rosa Número Dos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5259|Rural|
+79637|Angostura (Los Canelos)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1458|Rural|
+79640|Pastora|Villa|Rioverde|San Luis Potosí||79611|24|79611||32|024|1459|Rural|
+79640|Rancho el Quince|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5196|Rural|
+79640|Rancho la Gloria|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5206|Rural|
+79640|Rancho Victoria|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5240|Rural|
+79640|Cirio|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4985|Rural|
+79640|Rancho San Isidro|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5229|Rural|
+79640|Santa Isabel (La Luz)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5255|Rural|
+79640|Rancho el Trébol|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5197|Rural|
+79640|El Palmar (El Rucio)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5015|Rural|
+79640|Rancho la Cabaña|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5204|Rural|
+79640|Rancho San José de Piedras Negras|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5232|Rural|
+79640|Trinidad|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5262|Rural|
+79640|Platón Lárraga Zamora (El Llano)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5172|Rural|
+79640|El Albur|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4996|Rural|
+79640|La Providencia|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5102|Rural|
+79640|Rancho el Trece|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5198|Rural|
+79640|Rancho las Clavadas (Otomite)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5211|Rural|
+79640|Las Grullas|Colonia|Rioverde|San Luis Potosí||79611|24|79611||09|024|2490|Rural|
+79640|Rancho el Diecisiete|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5189|Rural|
+79643|Joya de Ipazotes|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5053|Rural|
+79643|Rancho San Martín (Familia Prado)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5234|Rural|
+79643|La Salitrera|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5107|Rural|
+79643|La Jabonera|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5082|Rural|
+79643|Las Pilas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5130|Rural|
+79643|Cruz de Marín|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4991|Rural|
+79643|El Nogalito|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5013|Rural|
+79643|Joya de Caballos (Joya de Jesús)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5051|Rural|
+79643|Puerto de Martínez|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1405|Rural|
+79643|La Perdida|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5098|Rural|
+79644|Bernardino Ibarra Sánchez|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4974|Rural|
+79644|Fracción Valle Florido|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5039|Rural|
+79644|La Florida|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5077|Rural|
+79644|Rancho el Gran Chaparral|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5192|Rural|
+79644|Rancho Legaspi|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5214|Rural|
+79644|Rancho San Fidel|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5224|Rural|
+79644|Barbechitos (Vicente Moreno Romero)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4972|Rural|
+79644|Centro de Readaptación Social [Penitenciaría]|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4979|Rural|
+79644|Concepción Castillo|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4989|Rural|
+79644|Isabel Álvarez|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5046|Rural|
+79644|La Esperanza|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5076|Rural|
+79644|La Pensión|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5095|Rural|
+79644|Las Águilas|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5114|Rural|
+79644|Los Tecolotes|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5149|Rural|
+79644|Mondragón [Blockera]|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5160|Rural|
+79644|Rancho la Guadalupana|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5207|Rural|
+79644|Rancho la Soledad (La Presa)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5209|Rural|
+79644|Rancho las Parras|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5213|Rural|
+79644|Rancho los Olivos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5218|Rural|
+79644|Rancho San José|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5230|Rural|
+79644|Rancho San José|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5231|Rural|
+79644|Ángel Escobar|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4966|Rural|
+79644|Cecilio Martínez Cruz|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4978|Rural|
+79644|El Invernadero|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5012|Rural|
+79644|Jauja|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5047|Rural|
+79644|La Garrapata|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5078|Rural|
+79644|Las Águilas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5115|Rural|
+79644|Las Palmas|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5129|Rural|
+79644|Potrero de la Cofradía Grande|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5173|Rural|
+79644|Potrero del Llano|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5177|Rural|
+79644|San Vicente|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5251|Rural|
+79644|Aurelio Vázquez|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4970|Rural|
+79644|Esteban García Allón|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5037|Rural|
+79644|José García|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5050|Rural|
+79644|Manuel Pérez|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5155|Rural|
+79644|Rancho de la Cruz|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5187|Rural|
+79644|Rancho el Papalote|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5194|Rural|
+79644|Rancho Guadalupe del Tepeyac|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5203|Rural|
+79644|Rancho la Soledad|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5208|Rural|
+79644|Rancho los Puertecitos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5219|Rural|
+79644|Rancho San Francisco|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5225|Rural|
+79644|Rancho Tierra Blanca|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5238|Rural|
+79644|Rancho Tres Hermanos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5239|Rural|
+79644|Sanguijuela|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5252|Rural|
+79644|Miguel Hidalgo|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1462|Rural|
+79644|Redención Nacional|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|2932|Rural|
+79644|Cholotova|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4983|Rural|
+79644|El Triángulo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5031|Rural|
+79644|La Cenicienta (Rancho de los Pescados)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5067|Rural|
+79644|Los Rosales|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5147|Rural|
+79644|Rancho el Milagro|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5193|Rural|
+79644|Rancho San Blas (Proto Castillo)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5223|Rural|
+79644|Rancho San Gabriel|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5227|Rural|
+79644|Santa Cruz|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5253|Rural|
+79644|Ildefonso Turrubiartes (La Boquilla)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1461|Rural|
+79644|Alfonso Robles|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4963|Rural|
+79644|Independencia|Colonia|Rioverde|San Luis Potosí||79611|24|79611||09|024|4986|Rural|
+79644|El Sacrificio|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5025|Rural|
+79644|La Cajeta|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5065|Rural|
+79644|La Cofradía|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5068|Rural|
+79644|La Huerta|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5079|Rural|
+79644|La Pistola|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5099|Rural|
+79644|Potrero de San José (Bonifacio Olvera)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5176|Rural|
+79644|Rancho los Laureles|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5216|Rural|
+79644|Valle de Guadalupe|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5263|Rural|
+79644|Santa Rita|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1407|Rural|
+79644|Hacienda San Isidro|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5042|Rural|
+79644|Juan Olvera|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5060|Rural|
+79644|La Carcacha|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5066|Rural|
+79644|La Poza Quintareña|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5100|Rural|
+79644|La Virgen|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5109|Rural|
+79644|Las Gemelas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5119|Rural|
+79644|Manuel Alvarado|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5154|Rural|
+79644|Rancho el Gavilán|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5191|Rural|
+79644|Rancho la Concepción|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5205|Rural|
+79644|Rancho San Juan|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5233|Rural|
+79644|Rancho Santa Teresa|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5236|Rural|
+79644|Santa Lucía|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5256|Rural|
+79644|Colonia María Asunción del Barrio de los Ángeles|Colonia|Rioverde|San Luis Potosí||79611|24|79611||09|024|2043|Rural|
+79644|Charco Salado|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4982|Rural|
+79644|Los Lagartijos|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5144|Rural|
+79644|Rancho el Triunfo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5199|Rural|
+79644|Rancho la Trinidad|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5210|Rural|
+79644|Rancho San Isidro|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5228|Rural|
+79644|San Fernando|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5244|Rural|
+79644|Valle de los Ángeles|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5264|Rural|
+79645|Los Tanques de la Escondida|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5148|Rural|
+79645|Buena Vista|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4975|Rural|
+79645|San Joaquín de Vigas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5249|Rural|
+79645|Paso Real|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1463|Rural|
+79645|La Providencia|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5101|Rural|
+79645|Cerrito Colorado|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4980|Rural|
+79645|Puente la Escondida|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5179|Rural|
+79645|Santa Isabel|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|2424|Rural|
+79645|La Escondida|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5073|Rural|
+79646|Paredes|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1439|Rural|
+79646|El Campanario|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4999|Rural|
+79646|El Garbanzo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5010|Rural|
+79646|El Saucillito|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5027|Rural|
+79646|La Parada|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5092|Rural|
+79646|Zapotito|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5267|Rural|
+79646|Carrizal de Paredes|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4977|Rural|
+79646|El Charco del Coyote|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5004|Rural|
+79646|La Jabalina|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5081|Rural|
+79646|Las Mangas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5124|Rural|
+79646|Las Mesas|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5126|Rural|
+79646|Malpaso|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5151|Rural|
+79646|Malpaso Grande|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5152|Rural|
+79646|Paredes|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5170|Rural|
+79646|Corral Quemado|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4990|Rural|
+79646|El Carrizal|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5001|Rural|
+79646|Encadenado|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5036|Rural|
+79646|La Empanada (Mezquite Blanco)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5071|Rural|
+79646|Las Huertitas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5121|Rural|
+79646|Los Aguacatitos|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5134|Rural|
+79646|San Jerónimo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5248|Rural|
+79646|Sierra de la Virgen (El Chorro)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5260|Rural|
+79646|La Guadalupe (La Agüita)|Fraccionamiento|Rioverde|San Luis Potosí||79611|24|79611||21|024|0899|Rural|
+79646|Sorola|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1440|Rural|
+79646|El Puertecito|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5018|Rural|
+79646|La Joya|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5083|Rural|
+79646|Las Joyas del Chicharrón|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5122|Rural|
+79646|Los Alamitos|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5135|Rural|
+79646|Puerto de las Tarimas (El Aserradero)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5186|Rural|
+79646|El Zapote|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1427|Rural|
+79646|Bagres de Arriba (La Estancia)|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1437|Rural|
+79646|Alameda|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4960|Rural|
+79646|La Alegría|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5063|Rural|
+79646|La Rosita|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5105|Rural|
+79646|Las Adjuntas de Bagres|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5113|Rural|
+79646|El Tulillo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|1438|Rural|
+79646|El Rodeo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5023|Rural|
+79646|Las Enramaditas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5118|Rural|
+79646|Los Corrales (Nueva Rosita)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5142|Rural|
+79646|Agua del Venado|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|4958|Rural|
+79646|Arroyo Hondo|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4969|Rural|
+79646|Bagres de Abajo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4971|Rural|
+79646|El Abojón (Alameda)|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|4994|Rural|
+79646|El Rincón Verde|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5021|Rural|
+79646|El Tigre|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5030|Rural|
+79646|Arroyo de la Cal|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|4968|Rural|
+79646|La Minita (Rincón del Pino)|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5090|Rural|
+79646|Nogal del Clavo|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5161|Rural|
+79647|Agua Dulce|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|2691|Rural|
+79647|Adjuntas|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1436|Rural|
+79647|Vielma|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5266|Rural|
+79647|El Rodeo|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5022|Rural|
+79647|La Peña|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5096|Rural|
+79647|Santa Rosa|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5258|Rural|
+79647|San Francisco de la Puebla|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5245|Rural|
+79647|El Tule|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5032|Rural|
+79647|San Sebastián|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|1464|Rural|
+79647|Los Baños|Poblado comunal|Rioverde|San Luis Potosí||79611|24|79611||27|024|5140|Rural|
+79647|San Rafaelito|Ejido|Rioverde|San Luis Potosí||79611|24|79611||15|024|5250|Rural|
+79647|Tierras Prietas|Ranchería|Rioverde|San Luis Potosí||79611|24|79611||29|024|5261|Rural|

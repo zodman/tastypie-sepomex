@@ -1,0 +1,31 @@
+79800|Cuatlamayan|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1575|Rural|
+79800|La Cuesta|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1577|Rural|
+79800|Cuayo-piaxtla|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1576|Rural|
+79800|Xochimilco|Barrio|Tancanhuitz|San Luis Potosí||79801|24|79801||02|012|2820|Urbano|
+79800|Las Armas|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|1578|Rural|
+79800|Tancanhuitz de Santos|Ciudad|Tancanhuitz|San Luis Potosí||79801|24|79801||08|012|1582|Rural|
+79800|Tuzantla|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1583|Rural|
+79800|Tamaleton|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1581|Rural|
+79800|Palmira|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|1579|Rural|
+79800|Piaxtla 1a Secc|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1580|Rural|
+79800|Tzé Pakáb Primera Sección|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|1584|Rural|
+79802|Zojualo|Barrio|Tancanhuitz|San Luis Potosí||79801|24|79801||02|012|0002|Rural|
+79803|Xolol Bethania|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2729|Rural|
+79803|Crucero de Xolol|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|2656|Rural|
+79803|La Loma|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2681|Rural|
+79803|Los Carrizos|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2678|Rural|
+79804|Tancoltze Ojox (Tercera Sección)|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|0001|Rural|
+79804|San José Pequétz Tzén|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|1586|Rural|
+79804|El Capricho|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|2650|Rural|
+79804|Mexcala|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2654|Rural|
+79804|Xolol Tancoltze Segunda Sección|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|2657|Rural|
+79804|Tempexquistitla|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2755|Rural|
+79805|Antonio Flores|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|2648|Rural|
+79805|La Garza (Pequetzén de La Garza)|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2698|Rural|
+79805|Crucero Marcelino Zamarrón|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|2649|Rural|
+79805|Tzac-anam|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|1587|Rural|
+79805|El Crucero (Crucerito)|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|2651|Rural|
+79806|Santa Isabel|Ranchería|Tancanhuitz|San Luis Potosí||79801|24|79801||29|012|2655|Rural|
+79806|Aldzulup Poytzén|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|2406|Rural|
+79806|Linares|Poblado comunal|Tancanhuitz|San Luis Potosí||79801|24|79801||27|012|2653|Rural|
+79807|La Ceiba San José Pequétz Tzén|Ejido|Tancanhuitz|San Luis Potosí||79801|24|79801||15|012|2652|Rural|

@@ -1,0 +1,54 @@
+90120|Chapultepec|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0908|Urbano|
+90120|Centro|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0037|Rural|
+90120|Espíritu Santo|Ranchería|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||29|015|0056|Rural|
+90120|Villa Mariano Matamoros|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0905|Urbano|
+90120|La Escondida|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0909|Urbano|
+90120|El Calvario|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0910|Urbano|
+90120|Santa Cruz El Porvenir|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0038|Rural|
+90120|San José Buenavista|Fraccionamiento|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||21|015|0911|Urbano|
+90120|Barranco|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0906|Urbano|
+90120|Cerro Gordo|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0907|Urbano|
+90121|Analco|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0786|Rural|
+90121|Tetlapa|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0782|Rural|
+90121|La Trinidad Tenexyecac|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0040|Rural|
+90122|San Diego Xocoyucan|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0041|Rural|
+90123|Santa Justina Ecatepec|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0042|Rural|
+90124|Rancho de la Virgen|Fraccionamiento|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||21|015|1016|Rural|
+90124|Leonardo Nájera Díaz|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1017|Rural|
+90124|Las Moras (Las Moradillas)|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1035|Rural|
+90124|El Paso del Norte|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1019|Rural|
+90124|El Arco|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1018|Rural|
+90125|La Virgen|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|1030|Rural|
+90125|Fracción la Virgen|Fraccionamiento|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||21|015|1020|Rural|
+90125|Gildardo Ramírez González|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1022|Rural|
+90125|San Cristóbal|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|1032|Rural|
+90125|San Antonio Atotonilco|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0044|Rural|
+90125|Granja Miguel Ángel|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1025|Rural|
+90125|Las Rositas|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1021|Rural|
+90125|Agustín López|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1027|Rural|
+90125|Tláloc|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|1038|Rural|
+90126|Santa Inés Tecuexcomac|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0045|Rural|
+90126|Tlapizaco|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1034|Rural|
+90126|Tezoquipan|Ranchería|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||29|015|1033|Rural|
+90127|San Antonio Tizostoc|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0047|Rural|
+90127|San Antonio Tecóac|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0046|Rural|
+90128|San Gabriel Popocatla|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0048|Rural|
+90128|San Isidro|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|0783|Rural|
+90130|San Lucas (El Jagüey)|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1024|Rural|
+90130|San Lucas (El Campirano)|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1031|Rural|
+90130|Alpotzonga de Lira y Ortega|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0050|Rural|
+90130|Santo Domingo|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1026|Rural|
+90130|Alpotzonga|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|1028|Rural|
+90130|Las Huertas|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1029|Rural|
+90130|San Carlos|Barrio|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||02|015|1023|Rural|
+90130|Guadalupe|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1037|Rural|
+90131|La Caridad Cuaxonacayo|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0051|Rural|
+90132|Santa Rosa de Lima|Ranchería|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||29|015|0052|Rural|
+90133|San José Escandona|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|1015|Rural|
+90133|Capula|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|1039|Rural|
+90133|San Cristóbal Oxtotlapango|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1036|Rural|
+90133|San Miguel la Presa|Ranchería|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||29|015|0054|Rural|
+90133|San Juan Nepopualco|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0053|Rural|
+90133|La Loma (Las Cuevas)|Colonia|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||09|015|1014|Rural|
+90134|Santiago Xochimilco|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0057|Rural|
+90134|San Marcos Jilotepec|Pueblo|Ixtacuixtla de Mariano Matamoros|Tlaxcala||90001|29|90001||28|015|0055|Rural|

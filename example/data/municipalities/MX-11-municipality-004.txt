@@ -1,0 +1,148 @@
+38500|Apaseo el Alto Centro|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|2908|Urbano|33
+38503|Ejido Apaseo el Alto|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|9302|Urbano|33
+38503|Benito Juárez|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|4247|Rural|33
+38503|Centro Dos|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|9301|Urbano|33
+38504|Santa Elena Norte|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|4249|Urbano|33
+38505|Santa Elena Sur|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|4250|Urbano|33
+38505|Emiliano Zapata|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|4251|Urbano|33
+38506|La Mesita|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|9303|Urbano|33
+38507|18 de Diciembre|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|9300|Urbano|33
+38507|San Rafael del Rejalgar|Ejido|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||15|004|2912|Urbano|33
+38507|Manuel Avila Camacho|Colonia|Apaseo el Alto|Guanajuato|Apaseo el Alto|38501|11|38501||09|004|4248|Urbano|33
+38510|San Bartolomé de Agua Caliente (San Bartolo)|Pueblo|Apaseo el Alto|Guanajuato||38501|11|38501||28|004|2919|Rural|
+38513|San Juan del Llanito|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2920|Rural|
+38513|San Isidro del Llanito|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2923|Rural|
+38513|Los Laureles|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9299|Rural|
+38514|Colonia la Conquista y los Betunes|Colonia|Apaseo el Alto|Guanajuato||38501|11|38501||09|004|9230|Rural|
+38514|Benito Torres Salinas|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9225|Rural|
+38514|El Oasis|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9239|Rural|
+38514|La Providencia|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9269|Rural|
+38514|Rancho Guadalupe (Rancho Luarca)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9292|Rural|
+38514|El Pocillo (Los Arcos)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9244|Rural|
+38514|Número 47 [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9281|Rural|
+38514|Número 48 [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9282|Rural|
+38514|Catalina González (Loma de San Isidro)|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9229|Rural|
+38514|Ninguno [Granja Porcina]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9283|Rural|
+38514|El Mirador (Colonia Cervantes)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9238|Rural|
+38514|El Pedregal (Los Vera)|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9241|Rural|
+38515|San Felipe Calichar|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2925|Rural|
+38515|El Calichar|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9231|Rural|
+38515|San Antonio Calichar|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2924|Rural|
+38516|Luis Aguirre y Manuel Arvizu|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9276|Rural|
+38516|San Nicolás|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2926|Rural|
+38516|La Peña|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9267|Rural|
+38516|El Secretario|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2929|Rural|
+38516|Fracción San Agustín (La Bomba)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9253|Rural|
+38516|Santa María del Rosario (Víctor Ledezma)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9297|Rural|
+38516|San Vicente|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2927|Rural|
+38516|Ojo de Agua de Espejo (Estancia de Espejo)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2930|Rural|
+38517|Número 15 [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9279|Rural|
+38517|Eleazar Serrano Paredes|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9250|Rural|
+38517|Marroquín|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2922|Rural|
+38517|El Paraíso|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9240|Rural|
+38517|Número 12 [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9278|Rural|
+38517|Número 16 [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9280|Rural|
+38517|El Sabino|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2921|Rural|
+38517|El Llanito|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9235|Rural|
+38520|La Tinaja Samaritana|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2913|Rural|
+38520|La Finca|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9261|Rural|
+38520|Canoas de Arriba (La Lagunilla)|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2911|Rural|
+38520|El Zorrillo|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9249|Rural|
+38520|El Mineral|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9237|Rural|
+38523|El Cedazo|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9232|Rural|
+38523|El Talayote|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2939|Rural|
+38523|La Campanita|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9258|Rural|
+38523|Marcos Guerrero|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9277|Rural|
+38523|La Cañada|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2915|Rural|
+38523|La Herradura|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9262|Rural|
+38523|La Nuez|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9266|Rural|
+38523|Barajas|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2937|Rural|
+38523|El Pocito (El Pocito de la Virgen)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2938|Rural|
+38523|El Pedregalito|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9242|Rural|
+38523|Bomba de Manuel Morales|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9226|Rural|
+38524|Prolongación Lerdo de Tejada|Colonia|Apaseo el Alto|Guanajuato||38501|11|38501||09|004|9288|Rural|
+38524|Granja de Trinidad Mendoza|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9254|Rural|
+38524|Pozo de Oro|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9287|Rural|
+38524|El Potrerito (Las Casas de Emiliano)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9245|Rural|
+38524|Granja la Gloria|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9255|Rural|
+38524|Lázaro Cárdenas (Bordo de Santana)|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9275|Rural|
+38524|Potrero del Cerrito de la Cal|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9286|Rural|
+38524|La Presita|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2910|Rural|
+38524|Los Nogalitos|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9274|Rural|
+38525|Corral de Piedra|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2940|Rural|
+38525|Palo Alto|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2949|Rural|
+38525|El Cajón|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2947|Rural|
+38525|El Varal|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9248|Rural|
+38525|Rancho del Carmen (La Peña)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9291|Rural|
+38525|Santa Isabel|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9296|Rural|
+38525|Postura Número 14 [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9285|Rural|
+38525|El Durazno|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2943|Rural|
+38525|La Canoa|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9259|Rural|
+38525|La Peña Blanca|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9268|Rural|
+38525|El Encinal|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9234|Rural|
+38525|La Tijera (San Antonio la Tijera)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2967|Rural|
+38525|Cerro Prieto|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|4725|Rural|
+38526|La Ventilla (La Ventilla del Puerto)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2935|Rural|
+38526|Las Ánimas|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2946|Rural|
+38526|La Nopalera del Puerto|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2945|Rural|
+38526|El Puerto|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9246|Rural|
+38526|Ojo de Agua de la Trinidad|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2936|Rural|
+38526|La Providencia del Puerto (Pie de Gallo)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2944|Rural|
+38527|El Chamizal (El Rosario)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9233|Rural|
+38527|Trinidad Rodríguez (Trenco)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9298|Rural|
+38527|El Árbol|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2941|Rural|
+38527|La Luisiada|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2916|Rural|
+38527|La Mesita (La Mesita de los Mandujano)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2942|Rural|
+38527|La Mesa (La Mesa de Paredones)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9264|Rural|
+38527|Pájaro Azul|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9289|Rural|
+38527|Estancia de Paredones|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9251|Rural|
+38530|La Soledad de Realengo|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|4723|Rural|
+38530|El Salto de Espejo|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2918|Rural|
+38530|Rancho el Patol|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2928|Rural|
+38530|El Realengo|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9247|Rural|
+38533|El Soldado|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2953|Rural|
+38533|La Mora|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2955|Rural|
+38533|Santa Cruz de Gamboa|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2950|Rural|
+38533|San Isidro de Gamboa|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2968|Rural|
+38533|La Granada|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2954|Rural|
+38533|San José de la Loma|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2934|Rural|
+38534|Alejandro Aboytes (Las Coloradas)|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9222|Rural|
+38534|Aguaje de Espejo|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2931|Rural|
+38534|El Cabero|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2956|Rural|
+38534|El Maguey|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9236|Rural|
+38534|El Espejo (Ex-Hacienda de Espejo)|Hacienda|Apaseo el Alto|Guanajuato||38501|11|38501||24|004|2917|Rural|
+38534|Fracción del Durazno (Bodegas de Paredones)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9252|Rural|
+38534|Los Arquitos (La Canterita)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9271|Rural|
+38534|Paredones|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2957|Rural|
+38534|La Esmeralda|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9260|Rural|
+38534|Mandujano Hidalgo|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2932|Rural|
+38534|Mandujano Atepehuacán|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2933|Rural|
+38534|Ampliación de Aguaje|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9223|Rural|
+38534|Mesita de Cápula (El Catorce)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|4724|Rural|
+38535|Granja Número 15|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9256|Rural|
+38535|La Tinaja del Refugio|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2951|Rural|
+38535|El Terrero (Terrero de Paredones)|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2958|Rural|
+38535|Rancho de Berlín|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9290|Rural|
+38535|Granja Número 16|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9257|Rural|
+38536|Los Cervantes (San Antonio de los Cervantes)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9272|Rural|
+38536|San Francisco de los Piñas|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9294|Rural|
+38536|San Rafael de los Piñas|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9295|Rural|
+38536|El Refugio de Gamboa|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2962|Rural|
+38536|La Vía|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9270|Rural|
+38536|Benignos (El Cerrito)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2961|Rural|
+38536|La Liebre (Soledad de la Liebre)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9263|Rural|
+38536|Torreón de los Ángeles|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2963|Rural|
+38536|La Mora (Jesús Yáñez)|Poblado comunal|Apaseo el Alto|Guanajuato||38501|11|38501||27|004|9265|Rural|
+38536|Belén|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2959|Rural|
+38536|El Mono|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2960|Rural|
+38536|El Sauz de Belén (Quemado)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|4726|Rural|
+38536|El Pintor (Cervantes)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9243|Rural|
+38537|Buenos Aires (El Cerrito)|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9227|Rural|
+38537|Los Galvanes|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9273|Rural|
+38537|La Ceja|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2965|Rural|
+38537|La Güilota|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2966|Rural|
+38537|Belén [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9224|Rural|
+38537|Jiménez|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|2964|Rural|
+38537|Capiro [Granja Avícola]|Granja|Apaseo el Alto|Guanajuato||38501|11|38501||23|004|9228|Rural|
+38537|La Cuevita|Ejido|Apaseo el Alto|Guanajuato||38501|11|38501||15|004|2952|Rural|
+38537|Nopalera de Juárez|Ranchería|Apaseo el Alto|Guanajuato||38501|11|38501||29|004|9284|Rural|

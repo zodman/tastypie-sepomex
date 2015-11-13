@@ -1,0 +1,147 @@
+86300|Comalcalco Centro|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0247|Urbano|03
+86320|Los Caporales|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1573|Urbano|03
+86320|Palma Real|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1839|Urbano|03
+86320|Presidentes|Conjunto habitacional|Comalcalco|Tabasco|Comalcalco|86301|27|86301||12|005|1571|Urbano|03
+86320|Gustavo de La Fuente Dorantes|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1125|Urbano|03
+86320|Tomas Garrido|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1504|Urbano|03
+86320|San Silverio|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0249|Urbano|03
+86320|Belén|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1454|Urbano|03
+86320|Infonavit|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1509|Urbano|03
+86320|El Recreo|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1572|Urbano|03
+86320|Presidentes 2|Conjunto habitacional|Comalcalco|Tabasco|Comalcalco|86301|27|86301||12|005|1840|Urbano|03
+86323|Adolfo López Mateos|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1844|Urbano|03
+86323|San Miguel|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0250|Urbano|03
+86324|Graciela Pintado de Madrazo|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|2625|Urbano|03
+86324|Villa Maya|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1574|Urbano|03
+86325|Magisterial|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1841|Urbano|03
+86325|Ecológica Lic. Carlos A. Madrazo Becerra|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1843|Urbano|03
+86330|San Francisco|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0252|Urbano|03
+86340|Santo Domingo|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|0253|Urbano|03
+86340|Magisterial 2|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1842|Urbano|03
+86340|Solidaridad Nacional A C|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1453|Urbano|03
+86340|Bicentenario|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0001|Urbano|03
+86350|Vicente Guerrero|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0254|Urbano|03
+86357|La Esperanza|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1154|Urbano|03
+86357|Asturias|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1846|Urbano|03
+86357|San Isidro|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|0255|Urbano|03
+86357|Buenavista|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1456|Urbano|03
+86360|Villas de Oriente|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1503|Urbano|03
+86360|Las Rosas|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|0257|Urbano|03
+86363|Jorge Díaz Serrano|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1845|Urbano|03
+86369|Xochimilco|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0258|Urbano|03
+86370|Delicias|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1071|Urbano|03
+86370|Santa Amalia|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0259|Urbano|03
+86380|La Joya|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1847|Urbano|03
+86388|PEMEX (Cobertizo)|Zona industrial|Comalcalco|Tabasco|Comalcalco|86301|27|86301||37|005|0261|Urbano|03
+86389|Morelos|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|1458|Urbano|03
+86389|Fovissste|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1457|Urbano|03
+86389|Lázaro Cárdenas Del Rio|Colonia|Comalcalco|Tabasco|Comalcalco|86301|27|86301||09|005|0262|Urbano|03
+86389|Empleado de Confianza|Fraccionamiento|Comalcalco|Tabasco|Comalcalco|86301|27|86301||21|005|1095|Urbano|03
+86630|El Guayo 1a Secc (San José)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0508|Rural|
+86630|Emiliano Zapata (Tortuguero)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0511|Rural|
+86630|Carlos Greene 4a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1609|Rural|
+86630|Centro Tular 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0507|Rural|
+86630|Hermenegildo Galeana|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0512|Rural|
+86630|El Guayo 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0509|Rural|
+86630|Carlos Greene 3a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1608|Rural|
+86630|El Guayo 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0510|Rural|
+86630|Lázaro Cárdenas 1a Secc|Ejido|Comalcalco|Tabasco||86301|27|86301||15|005|0513|Rural|
+86633|Lázaro Cárdenas 2a Secc (El Retiro)|Ejido|Comalcalco|Tabasco||86301|27|86301||15|005|1849|Rural|
+86633|Lázaro Cárdenas 3a Secc|Ejido|Comalcalco|Tabasco||86301|27|86301||15|005|0514|Rural|
+86638|Emiliano Zapata 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0515|Rural|
+86640|Cocohital|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0517|Rural|
+86640|Ignacio Zaragoza 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0524|Rural|
+86640|Tecolutilla|Villa|Comalcalco|Tabasco||86301|27|86301||32|005|0531|Semiurbano|
+86640|José Maria Pino Suárez 3a Sección (Corinto)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1611|Rural|
+86640|Francisco I Madero 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0519|Rural|
+86640|Jose Maria Pino Suárez 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0526|Rural|
+86640|Transito Tular|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0532|Rural|
+86640|Zapotal 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1852|Rural|
+86640|Centro Tular 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0516|Rural|
+86640|Zapotal 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0518|Rural|
+86640|Francisco I Madero 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0520|Rural|
+86640|Gregorio Méndez 2da. Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0521|Rural|
+86640|Jose Maria Pino Suárez 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0525|Rural|
+86640|Patastal 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0529|Rural|
+86640|Ignacio Zaragoza 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0523|Rural|
+86640|Betania|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1613|Rural|
+86640|Miguel Hidalgo|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0527|Rural|
+86640|Patastal 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0528|Rural|
+86640|Belisario Dominguez|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1610|Rural|
+86640|Tío Moncho (Urania Franyutti de Vázquez)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1612|Rural|
+86640|Gregorio Mendez 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0522|Rural|
+86640|Patastal 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0530|Rural|
+86643|Chicozapote|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0535|Rural|
+86643|Ignacio Zaragoza 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0536|Rural|
+86644|Potreritos|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1749|Rural|
+86645|Progreso Tular 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0537|Rural|
+86646|Gregorio Mendez 4a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1615|Rural|
+86646|Gregorio Mendez 1a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1614|Rural|
+86646|Ignacio Zaragoza 4a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1616|Rural|
+86650|Occidente 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0543|Rural|
+86650|Occidente 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0544|Rural|
+86650|Norte 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0542|Rural|
+86650|Oriente 2a Secc (San Cayetano)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0546|Rural|
+86650|Sur|Ejido|Comalcalco|Tabasco||86301|27|86301||15|005|0548|Rural|
+86650|Norte 1a Secc (Buena Vista)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0541|Rural|
+86650|Cap Reyes Hernandez 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0539|Rural|
+86650|Oriente 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0545|Rural|
+86650|Sgto. Lopez 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0547|Rural|
+86650|Occidente 3a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1617|Rural|
+86650|Occidente 4a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1618|Rural|
+86652|El Zapotal 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0551|Rural|
+86652|Cap Reyes Hernandez 1a Secc (El Guasimal)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0550|Rural|
+86653|Oriente 6a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1850|Rural|
+86654|Sgto. López 2a Secc (El Chuzo)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0552|Rural|
+86654|Sargento López 4a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1848|Rural|
+86654|Las Brisas|Colonia|Comalcalco|Tabasco||86301|27|86301||09|005|2632|Urbano|
+86654|Sur 4a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0553|Rural|
+86654|Guatemalan|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1619|Rural|
+86655|Francisco Trujillo Gurria|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0554|Rural|
+86656|Oriente 4a Secc (Tripa Ciega)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0556|Rural|
+86656|Jesús Carranza|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0555|Rural|
+86656|Sgto. López 3a Secc (San Jorge)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0557|Rural|
+86657|Sur 2a Secc (La Trinidad)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0558|Rural|
+86657|Sur 5a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0560|Rural|
+86657|Sur 3a Secc (El Zapote)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0559|Rural|
+86658|Oriente 5a Secc (La Candelaria)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0563|Rural|
+86658|Oriente 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0562|Rural|
+86660|Aldama 1a Secc|Villa|Comalcalco|Tabasco||86301|27|86301||32|005|0564|Semiurbano|
+86660|Leon Zarate 2a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1622|Rural|
+86660|Sur Villa Aldama|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1631|Rural|
+86660|Arroyo Hondo 1a Secc (Guasimo)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0566|Rural|
+86660|Arroyo Hondo 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0567|Rural|
+86660|Arena 6a Sección (Río Muerto)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1621|Rural|
+86660|Arena 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0565|Rural|
+86660|Carlos Greene 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0568|Rural|
+86660|Prof. Leon Zarate Hernandez|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0569|Rural|
+86660|Arena 5a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1620|Rural|
+86662|Ignacio Gutiérrez Gómez|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0570|Rural|
+86663|Carlos Greene 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0572|Rural|
+86663|Arroyo Hondo 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0571|Rural|
+86665|Aldama 3a Secc (Huapacalito)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0573|Rural|
+86666|Arena 1a Secc (Reforma)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0574|Rural|
+86667|Aldama 4a Secc (El Naranjito)|Pueblo|Comalcalco|Tabasco||86301|27|86301||28|005|0575|Rural|
+86669|Arena 3a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0576|Rural|
+86669|Arroyo Hondo 4a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0578|Rural|
+86669|Arena 4a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0577|Rural|
+86670|El Angel|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1624|Rural|
+86670|Independencia 3a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1625|Rural|
+86670|Chichicapa|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0581|Semiurbano|
+86670|Novillero 4a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1628|Rural|
+86670|Gobernadores|Colonia|Comalcalco|Tabasco||86301|27|86301||09|005|2547|Rural|
+86670|Cupilco|Pueblo|Comalcalco|Tabasco||86301|27|86301||28|005|0579|Rural|
+86670|Santa Lucia Chichicapa|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1623|Rural|
+86670|Chapa de Cupilco|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1626|Rural|
+86670|Independencia 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0582|Rural|
+86670|Fernando Segovia (Aldama 2a)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1851|Rural|
+86670|Buena Vista|Ejido|Comalcalco|Tabasco||86301|27|86301||15|005|2587|Rural|
+86670|Carlos Pellicer Camara|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1629|Rural|
+86670|Oriente 1a Secc (Santo Domingo)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1853|Rural|
+86670|Lagartera 3a Sección|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1627|Rural|
+86670|Uspi|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1630|Rural|
+86670|Cuxcuxapa|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0580|Rural|
+86671|Independencia 1a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0583|Rural|
+86673|Potrerillo|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1750|Rural|
+86674|San Fernando (Pueblo Nuevo)|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|1854|Rural|
+86675|El Paso de Cupilco 2a Secc|Ranchería|Comalcalco|Tabasco||86301|27|86301||29|005|0584|Rural|

@@ -1,0 +1,29 @@
+84600|La Terraza|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1918|Rural|
+84600|La Cabaña|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1920|Rural|
+84600|El Mirador|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1923|Rural|
+84600|La Loma|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1924|Rural|
+84600|Las Plaitas|Barrio|Santa Ana|Sonora||84604|26|84604||02|058|1928|Rural|
+84600|Bellavista|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1919|Rural|
+84600|Fátima|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1926|Rural|
+84600|Microondas|Barrio|Santa Ana|Sonora||84604|26|84604||02|058|1929|Rural|
+84600|V 8|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1931|Rural|
+84600|Luis Donaldo Colosio|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1936|Rural|
+84600|Km. 106|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1921|Rural|
+84600|Del Rio|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1933|Rural|
+84600|Infonavit 2|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1922|Rural|
+84600|El Polvorín|Barrio|Santa Ana|Sonora||84604|26|84604||02|058|1927|Rural|
+84600|La Terracita|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1932|Rural|
+84600|Fovissste|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1934|Rural|
+84600|Lomas de Santa Ana|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1935|Rural|
+84600|La Granja|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|2939|Urbano|
+84600|Santa Ana Centro|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|0762|Urbano|
+84600|Los Arcos|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1925|Rural|
+84600|3 Imágenes|Colonia|Santa Ana|Sonora||84604|26|84604||09|058|1930|Rural|
+84600|Las Playitas|Fraccionamiento|Santa Ana|Sonora||84604|26|84604||21|058|3280|Rural|
+84601|Pantanito|Congregación|Santa Ana|Sonora||84604|26|84604||11|058|0763|Rural|
+84602|Santa Martha|Congregación|Santa Ana|Sonora||84604|26|84604||11|058|0764|Rural|
+84603|Santa Ana Viejo|Congregación|Santa Ana|Sonora||84604|26|84604||11|058|0765|Rural|
+84610|El Claro|Congregación|Santa Ana|Sonora||84604|26|84604||11|058|0767|Rural|
+84611|Santa Rita Del Claro|Ranchería|Santa Ana|Sonora||84604|26|84604||29|058|0768|Rural|
+84615|Coyotillo Sur|Ejido|Santa Ana|Sonora||84604|26|84604||15|058|3357|Rural|
+84617|Llano|Estación|Santa Ana|Sonora||84604|26|84604||16|058|0769|Rural|

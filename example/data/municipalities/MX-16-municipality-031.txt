@@ -1,0 +1,75 @@
+61000|Epitacio Huerta|Pueblo|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||28|031|2057|Urbano|
+61000|Jardines|Colonia|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||09|031|5566|Urbano|
+61002|La Mina de Cavires|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0029|Rural|
+61002|Chamacuero|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0005|Rural|
+61002|El Tejocote Polvillas (Fátima)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2062|Rural|
+61002|El Arenal|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0009|Rural|
+61002|Tejocote San Isidro (La Providencia)|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2063|Rural|
+61002|Los Dolores|Pueblo|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||28|031|2058|Rural|
+61003|El Salitrillo (El Charco)|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0014|Rural|
+61003|San Miguel la Rata (San Andrés Salitrillo)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2065|Rural|
+61004|San Bernardo|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2061|Rural|
+61004|Las Golondrinas|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0031|Rural|
+61004|El Jacal de la Mata|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0013|Rural|
+61004|La Garita|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0026|Rural|
+61004|El Garabato (La Loma)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2056|Rural|
+61004|Estanzuela los Lulos (Santa Rosa)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0001|Rural|
+61004|Casa Colorada|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0003|Rural|
+61004|San Antonio Molinos|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2060|Rural|
+61004|El Rodeo|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2066|Rural|
+61004|Loma de en Medio|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0034|Rural|
+61004|Los Ángeles (San Lorenzo)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0035|Rural|
+61004|Molinos de Caballero|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2064|Rural|
+61005|San Mateo (El Salitrillo)|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2059|Rural|
+61005|La Ladera (Ejido Ojo de Agua)|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0027|Rural|
+61005|Los Azules (La Presa de los Azules)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0036|Rural|
+61005|La Margarita (El Puerto)|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2067|Rural|
+61006|Las Playitas (Lázaro Cárdenas)|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0033|Rural|
+61006|Emiliano Zapata (Pueblo Nuevo)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0019|Rural|
+61006|Ex-Hacienda San Miguel|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0022|Rural|
+61006|Canindo y Pedregal|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2068|Rural|
+61006|La Curva (La Margarita)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0025|Rural|
+61007|El Sayno (Ojo de Agua Salitrillo)|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0016|Rural|
+61007|El Pinto (Piedra Larga)|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2069|Rural|
+61007|Ex-Hacienda Salitrillo|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0021|Rural|
+61007|El Salitrillo (Ojo de Agua de Salitrillo)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2070|Rural|
+61007|Ejido Nuevo Coroneo Fracción Salitrillo|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0008|Rural|
+61008|Ojo de Agua|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|0045|Rural|
+61008|La Lagartija (San Vicente)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0028|Rural|
+61008|La Paz (La Calabaza)|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2071|Rural|
+61008|Guadalupe la Paz (Nuevo Coroneo Fracción la Paz)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0007|Rural|
+61008|Las Gardenias|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0044|Rural|
+61008|Ojo de Agua (Santa Anita)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0037|Rural|
+61010|El Sauz de la Luz|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0015|Rural|
+61010|La Luz|Hacienda|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||24|031|2074|Rural|
+61012|Laguna de Servín|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0030|Rural|
+61012|San Cristóbal (Los Álamos)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2077|Rural|
+61014|Ex-Hacienda la Paz|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0020|Rural|
+61014|Santa Cruz Ojo de Agua|Ejido|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||15|031|2079|Rural|
+61014|El Toro|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0018|Rural|
+61014|Coroneo [Unidad Cooperativa]|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0041|Rural|
+61014|San Benito|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0047|Rural|
+61014|San Antonio Ojo de Agua|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0039|Rural|
+61014|El Cerrito|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0012|Rural|
+61014|Ejido Nuevo Coroneo Fracción la Paz|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2078|Rural|
+61015|Cuartel de Guerrero|Pueblo|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||28|031|2073|Rural|
+61015|El Bellotal Dos|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0010|Rural|
+61015|El Bellotal Uno|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0011|Rural|
+61015|La Cima|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0023|Rural|
+61015|Las Hormigas Dos|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0032|Rural|
+61015|La Tenencia de Guerrero (Hormigas Uno)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2080|Rural|
+61016|Temascales (Bellotal Loma de en Medio)|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0048|Rural|
+61016|Cañada de García (Cuartel Cañada)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2076|Rural|
+61016|Cerrito Colorado|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0004|Rural|
+61016|Yereje Canteras|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0043|Rural|
+61016|Loma del Zapote|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0046|Rural|
+61016|El Venado|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2081|Rural|
+61016|Yereje Cabezas|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0042|Rural|
+61017|La Palma|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2075|Rural|
+61017|El Astillero (El Carmen Astillero)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|2072|Rural|
+61017|Astillero Botija|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0002|Rural|
+61018|La Ciénega|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0024|Rural|
+61018|Santa Genoveva (Cuartel de Guerrero)|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0040|Rural|
+61018|Palos Altos|Rancho|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||48|031|0038|Rural|
+61018|El Tepozán|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0017|Rural|
+61018|Cruz de Pichardo|Ranchería|Epitacio Huerta|Michoacán de Ocampo||76852|16|76852||29|031|0006|Rural|

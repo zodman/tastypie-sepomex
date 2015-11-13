@@ -1,0 +1,8 @@
+70710|Santa María Jalapa del Marqués|Pueblo|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||28|418|2355|Rural|
+70710|Aguascalientes|Colonia|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||09|418|0863|Rural|
+70710|El Cerrito|Barrio|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||02|418|0941|Rural|
+70710|Lindavista|Barrio|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||02|418|1144|Rural|
+70710|El Rosario|Colonia|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||09|418|0949|Rural|
+70711|Llano Grande|Pueblo|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||28|418|2356|Rural|
+70713|Llano Veria|Pueblo|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||28|418|2359|Rural|
+70715|San Cristóbal|Pueblo|Santa María Jalapa del Marqués|Oaxaca||70712|20|70712||28|418|2357|Rural|

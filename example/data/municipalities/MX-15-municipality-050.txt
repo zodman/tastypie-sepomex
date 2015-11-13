@@ -1,0 +1,8 @@
+56860|Juchi|Barrio|Juchitepec|México|Juchitepec de Mariano Riva Palacio|56861|15|56861||02|050|5303|Semiurbano|29
+56860|Calayuco|Barrio|Juchitepec|México|Juchitepec de Mariano Riva Palacio|56861|15|56861||02|050|5304|Semiurbano|29
+56860|Cuautzozongo|Barrio|Juchitepec|México|Juchitepec de Mariano Riva Palacio|56861|15|56861||02|050|5305|Semiurbano|29
+56864|La Rosita|Colonia|Juchitepec|México||56861|15|56861||09|050|7672|Rural|
+56864|San Matías Cuijingo|Pueblo|Juchitepec|México||56861|15|56861||28|050|4507|Rural|
+56865|San Pedro|Barrio|Juchitepec|México||56861|15|56861||02|050|9417|Rural|
+56866|El Madroño|Barrio|Juchitepec|México||56861|15|56861||02|050|9416|Rural|
+56867|Santa Rosa de Lima|Barrio|Juchitepec|México||56861|15|56861||02|050|9418|Rural|

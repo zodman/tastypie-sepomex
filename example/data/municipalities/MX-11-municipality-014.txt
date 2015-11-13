@@ -1,0 +1,191 @@
+37800|Centro Dolores Hidalgo|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|1951|Urbano|39
+37803|Lázaro Cárdenas|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0026|Urbano|39
+37803|Los Olivos|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|5303|Urbano|39
+37803|La Cruz del Padre Razo (Las Crucitas)|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|0014|Rural|
+37803|Héroes de San Cristóbal|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0023|Urbano|39
+37803|Lomas Verde|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0027|Urbano|39
+37803|La Providencia|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0045|Rural|
+37803|Verde|Rancho|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||48|014|0047|Rural|
+37803|Arboledas|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4192|Urbano|39
+37803|Nuevo Milenio|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0006|Urbano|39
+37803|Mariano Balleza|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4187|Urbano|39
+37803|San Antonio del Carmen|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4189|Urbano|39
+37803|SOP|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4191|Urbano|39
+37803|Margaritas|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0028|Urbano|39
+37803|Todos los Santos|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|0034|Urbano|39
+37803|Guanajuato|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4190|Urbano|39
+37803|Universidad|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0010|Urbano|39
+37803|Valle Verde|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|0011|Urbano|39
+37803|Gladiolas|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0022|Urbano|39
+37803|Margaritas II|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4188|Urbano|39
+37803|Vista Hermosa|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4196|Urbano|39
+37804|Jacarandas|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0024|Urbano|39
+37804|San Pedro|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0033|Urbano|39
+37804|Los Pinos|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4168|Urbano|39
+37804|Pípila|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4173|Urbano|39
+37804|La Granja|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0025|Urbano|39
+37804|Satélite|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0009|Urbano|39
+37804|Villa de Dolores|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0036|Urbano|39
+37804|Estación de Dolores|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4166|Urbano|39
+37804|La Amistad|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4167|Urbano|39
+37804|San Agustín|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4170|Urbano|39
+37804|Las Flores|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4174|Urbano|39
+37804|Revolución|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4195|Urbano|39
+37804|Carolina|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0037|Urbano|39
+37804|El Tajo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0044|Rural|
+37804|Miguel Hidalgo|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4165|Urbano|39
+37804|San Cristóbal|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4171|Urbano|39
+37804|Alameda|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4198|Urbano|39
+37804|Compositores|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0019|Urbano|39
+37804|Azteca|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0040|Urbano|39
+37804|Guadalupe|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4172|Urbano|39
+37804|El Mirador|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0020|Urbano|39
+37804|La Concepción|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4169|Urbano|39
+37804|Santa Cruz|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4197|Urbano|39
+37805|Ex Haciendas Pablo|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4199|Urbano|39
+37805|Jesús María|Ejido|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||15|014|0004|Urbano|39
+37805|Insurgentes|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4204|Urbano|39
+37805|FOVISSSTE|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4201|Urbano|39
+37805|12 de Octubre|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4203|Urbano|39
+37805|Independencia|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0015|Urbano|39
+37805|El Paraíso|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0043|Rural|
+37805|Lomas de Lourdes|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|0046|Rural|
+37805|San Pablo|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0016|Urbano|39
+37805|San José|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0032|Urbano|39
+37805|Bolaños|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0042|Rural|
+37805|El Pretorio|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4200|Urbano|39
+37806|San Juan|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|0013|Rural|
+37806|Renacimiento|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4175|Urbano|39
+37806|15 de Septiembre|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4179|Urbano|39
+37806|Ampliación 15 de Septiembre|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4180|Urbano|39
+37806|Cocomacan|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4184|Urbano|39
+37806|Valle del Sur|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0035|Urbano|39
+37806|Chapalita|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0041|Urbano|39
+37806|La Esperanza|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4186|Urbano|39
+37806|Ampliación Francisco I Madero|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4571|Urbano|39
+37806|Las Palomas|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|0012|Rural|
+37806|El Jardín de la Loma|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|0038|Urbano|39
+37806|Francisco I Madero|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4572|Urbano|39
+37806|El Jardín|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|0039|Urbano|39
+37806|Fortín de las Flores|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0002|Urbano|39
+37806|Dolores|Ejido|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||15|014|0003|Rural|
+37806|El Agave|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|0018|Urbano|39
+37806|Jesús del Monte|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4176|Urbano|39
+37806|Montecarlo|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4183|Urbano|39
+37806|La Esperanza II|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|5425|Urbano|39
+37806|Fracción Ejido Dolores|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0021|Urbano|39
+37806|Loma Bonita|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4178|Urbano|39
+37806|Lomas del Sur|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0005|Urbano|39
+37806|Sagrado Corazón|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0007|Urbano|39
+37806|San Diego|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0008|Urbano|39
+37806|Santa Cecilia|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|0048|Rural|
+37806|Independencia|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4177|Urbano|39
+37806|Niños Héroes|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4181|Urbano|39
+37806|Lindavista|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4182|Urbano|39
+37806|La Libertad|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||21|014|4185|Urbano|39
+37806|San Antonio|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|4202|Urbano|39
+37807|Paraíso|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0017|Urbano|39
+37807|Padre Hidalgo|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0030|Urbano|39
+37807|Deportiva|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0050|Urbano|39
+37807|Nícolas Bravo|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0029|Urbano|39
+37807|San Francisco de Asis|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato|Dolores Hidalgo Cuna de la Independencia Nacional|37801|11|37801||09|014|0031|Urbano|39
+37810|Estación Río Laja|Paraje|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||45|014|1969|Rural|
+37810|Ceja de San Agustin|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1968|Rural|
+37810|Santa Teresa de Jiricuichi|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0049|Rural|
+37812|Hacienda Nueva|Hacienda|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||24|014|1971|Rural|
+37812|El Tranqueño|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|5278|Rural|
+37812|San Ignacio|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1972|Rural|
+37813|La Cazuela|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|4570|Rural|
+37813|Adjuntas del Monte|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1973|Rural|
+37813|Los Terreros de La Sabana|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1975|Rural|
+37813|La California|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1974|Rural|
+37814|Don Sebastián|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|4577|Rural|
+37814|Adjuntas del Río|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1950|Rural|
+37814|Tequisquiapan|Hacienda|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||24|014|1964|Rural|
+37814|Cerrito de Guadalupe 2|Poblado comunal|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||27|014|5324|Rural|
+37814|Rancho Nuevo de San José Badillo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1976|Rural|
+37814|Cerrito Cerrito de San Pablo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1956|Rural|
+37814|Santa Clara|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1959|Rural|
+37814|San José Badillo|Hacienda|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||24|014|1977|Rural|
+37815|Delgadillo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1978|Rural|
+37815|Palma Prieta|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1979|Rural|
+37815|El Rosalito|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|4567|Rural|
+37816|San Pablo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1958|Rural|
+37816|La Grulla de Abajo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1962|Rural|
+37816|Jamaica|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1952|Rural|
+37816|San Isidro de la Estacada|Pueblo|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||28|014|0054|Rural|
+37816|Álamo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1980|Rural|
+37816|Colegialas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1981|Rural|
+37816|El Llano|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1982|Rural|
+37817|Los Pérez|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1960|Rural|
+37817|La Venta|Hacienda|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||24|014|1961|Rural|
+37817|El Pájaro Bobo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1984|Rural|
+37817|La Cabra|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1985|Rural|
+37817|Las Escobas|Poblado comunal|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||27|014|5305|Rural|
+37817|El Saucito|Poblado comunal|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||27|014|5304|Rural|
+37817|San Gabriel|Ejido|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||15|014|0055|Rural|
+37817|El Colorado|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1983|Rural|
+37819|La Sabana|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1986|Rural|
+37819|Puerta de San Francisco|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1987|Rural|
+37820|Las Yerbas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1988|Rural|
+37821|Mojoneras|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1992|Rural|
+37821|San Nicolás de Trancas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1993|Rural|
+37821|Manzanos|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1991|Rural|
+37821|Jericó de María|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1990|Rural|
+37821|El Carmen de La Cuesta|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1989|Rural|
+37823|Nueva Soledad|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1996|Rural|
+37823|Las Negritas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1995|Rural|
+37823|El Prieto|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1994|Rural|
+37823|Palo Amarillo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1997|Rural|
+37823|Soledad Nueva|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1998|Rural|
+37823|Tanque Colorado|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1999|Rural|
+37824|La Palmita|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2000|Rural|
+37824|Los Arcos|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2001|Rural|
+37824|Peña Prieta|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2002|Rural|
+37825|Estancia de Zamarripa|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2003|Rural|
+37825|San Elías|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2005|Rural|
+37825|Paredones|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2004|Rural|
+37826|El Tecolote|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2006|Rural|
+37826|Morillos|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2008|Rural|
+37828|Refugio de Trancas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2011|Rural|
+37828|De Trancas|Ejido|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||15|014|2007|Rural|
+37828|La Ceja|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2009|Rural|
+37828|Los Quiotes|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2010|Rural|
+37829|El Gallinero|Ejido|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||15|014|2012|Rural|
+37829|Los Godinez|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2015|Rural|
+37829|Presa del Gallinero|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2016|Rural|
+37829|Los Carrillos 1|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2013|Rural|
+37829|Rancho de Guadalupe|Pueblo|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||28|014|0052|Rural|
+37829|San Antonio|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0053|Rural|
+37829|Los Serna|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2014|Rural|
+37830|La Cajita (Agua Azul)|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1963|Rural|
+37830|Xoconoxtle El Grande|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2019|Rural|
+37830|Xoconoxtle de Remátalo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2018|Rural|
+37830|Don Pedro|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2017|Rural|
+37832|Ojo Zarco|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1967|Rural|
+37832|Casas Viejas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1966|Rural|
+37832|Santa Bárbara|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2020|Rural|
+37834|Peñuelitas (Peñuelas)|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|0001|Rural|
+37838|Santa Catarina|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2023|Rural|
+37838|San Martín de Terreros|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|4575|Rural|
+37838|La Cantera 1|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2022|Rural|
+37838|Agua Salada|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|4620|Rural|
+37838|El Rincón|Hacienda|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||24|014|2021|Rural|
+37840|El Llanito|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2024|Rural|
+37842|La Erre|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1953|Rural|
+37842|San Francisco de la Erre (San Francisco)|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|5527|Rural|
+37842|Providencia de La Erre|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1954|Rural|
+37842|El Campanario|Fraccionamiento|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||21|014|0051|Rural|
+37842|Potrero de la Erre|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|1957|Rural|
+37842|La Cantera 2|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2025|Rural|
+37843|San Dieguito de Tierra Blanca|Colonia|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||09|014|2026|Rural|
+37843|Xoconoxtlito del Llanito|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2027|Rural|
+37844|El Durazno|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|5512|Rural|
+37844|Silleros|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2029|Rural|
+37844|San José de La Palma|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2028|Rural|
+37848|San Vicente|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2032|Rural|
+37848|San Marcos de Arriba|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2031|Rural|
+37848|La Jarilla|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2030|Rural|
+37848|San Marcos de Abajo|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|4576|Rural|
+37849|San Antón de las Minas|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2034|Rural|
+37849|El Capulín|Ranchería|Dolores Hidalgo Cuna de la Independencia Nacional|Guanajuato||37801|11|37801||29|014|2033|Rural|

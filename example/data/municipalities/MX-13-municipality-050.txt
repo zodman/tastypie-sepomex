@@ -1,0 +1,26 @@
+42730|Progreso de Obregón Centro|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|0751|Urbano|
+42733|Cerrito Colorado|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3335|Urbano|
+42733|Lázaro Cárdenas|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3336|Urbano|
+42733|Independencia|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3337|Urbano|
+42733|La Herradura|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3338|Urbano|
+42733|La Cruz|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3334|Urbano|
+42734|El Bondho|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3333|Urbano|
+42734|Zenthé|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|2906|Urbano|
+42740|El Moreno|Pueblo|Progreso de Obregón|Hidalgo||42731|13|42731||28|050|0753|Rural|
+42740|Xochitlán|Pueblo|Progreso de Obregón|Hidalgo||42731|13|42731||28|050|0754|Rural|
+42743|La Mora|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3347|Rural|
+42743|El Garambullo|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3340|Rural|
+42743|Dotzibi (Lomas de Xochitlán)|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3354|Rural|
+42743|Los Pinos|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3345|Rural|
+42745|El Xamu|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3342|Rural|
+42746|Los Manantiales|Colonia|Progreso de Obregón|Hidalgo||42731|13|42731||09|050|3339|Rural|
+42746|Progreso|Fraccionamiento|Progreso de Obregón|Hidalgo||42731|13|42731||21|050|3341|Rural|
+42746|Los Olivos|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3348|Rural|
+42746|La Ranchería|Poblado comunal|Progreso de Obregón|Hidalgo||42731|13|42731||27|050|3349|Rural|
+42746|Las Calvas|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3343|Rural|
+42746|La Cruz|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3352|Rural|
+42746|La Peña|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3353|Rural|
+42747|Donija|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3351|Rural|
+42747|Periócolo|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3350|Rural|
+42747|El Dho|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3344|Rural|
+42748|El Jardín|Ranchería|Progreso de Obregón|Hidalgo||42731|13|42731||29|050|3346|Rural|

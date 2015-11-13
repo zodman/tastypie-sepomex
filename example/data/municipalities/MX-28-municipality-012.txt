@@ -1,0 +1,45 @@
+89700|Santa Fe|Ejido|González|Tamaulipas||89711|28|89711||15|012|1811|Rural|
+89703|Rosillo|Ejido|González|Tamaulipas||89711|28|89711||15|012|1815|Rural|
+89704|El Progreso|Ejido|González|Tamaulipas||89711|28|89711||15|012|2984|Rural|
+89705|Guadalupe Victoria|Ejido|González|Tamaulipas||89711|28|89711||15|012|1813|Rural|
+89706|González|Ejido|González|Tamaulipas||89711|28|89711||15|012|1814|Rural|
+89706|Nueva Esperanza|Ejido|González|Tamaulipas||89711|28|89711||15|012|3823|Rural|
+89707|Atizapán de Zaragoza|Ejido|González|Tamaulipas||89711|28|89711||15|012|3808|Rural|
+89710|Villa González Centro|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|1810|Urbano|12
+89712|Nuevo Amanecer|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2352|Urbano|12
+89712|Praxedis Balboa|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2353|Urbano|12
+89712|Jardín|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2354|Urbano|12
+89713|Dos Amigos|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2357|Urbano|12
+89713|Sector Oriente|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2356|Urbano|12
+89715|Industrial|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2359|Urbano|12
+89715|El Huerto|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2358|Urbano|12
+89716|César López de Lara|Colonia|González|Tamaulipas|González|89711|28|89711||09|012|2355|Urbano|12
+89720|Magiscatzin|Ejido|González|Tamaulipas||89711|28|89711||15|012|1816|Rural|
+89723|Grupo Industrial|Ejido|González|Tamaulipas||89711|28|89711||15|012|3071|Rural|
+89723|Aureliano Caballero|Ejido|González|Tamaulipas||89711|28|89711||15|012|3072|Rural|
+89725|Venustiano Carranza Uno|Ejido|González|Tamaulipas||89711|28|89711||15|012|2904|Rural|
+89725|San Pedro|Ejido|González|Tamaulipas||89711|28|89711||15|012|2985|Rural|
+89727|Venustiano Carranza Dos|Ejido|González|Tamaulipas||89711|28|89711||15|012|2903|Rural|
+89729|Fortín Agrario (Estación Calles)|Paraje|González|Tamaulipas||89711|28|89711||45|012|1817|Rural|
+89730|Estación Manuel Centro|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|1818|Urbano|15
+89731|Aviación|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2368|Urbano|15
+89731|Laguna|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2364|Urbano|15
+89731|Tamaulipas|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2367|Urbano|15
+89732|Piloto|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2370|Urbano|15
+89732|Centro Comercial|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2373|Urbano|15
+89732|Jardín|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2365|Urbano|15
+89732|Libertad|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2374|Urbano|15
+89734|Buenos Aires|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2377|Urbano|15
+89734|Primavera|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2366|Urbano|15
+89734|San Luisito|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2372|Urbano|15
+89734|Unidad Deportiva|Colonia|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||09|012|2378|Urbano|15
+89734|Progreso|Ejido|González|Tamaulipas|Estación Manuel (Úrsulo Galván)|89733|28|89733||15|012|2369|Urbano|15
+89735|La Reforma|Ejido|González|Tamaulipas||89711|28|89711||15|012|1824|Rural|
+89736|Úrsulo Galvan|Ejido|González|Tamaulipas||89733|28|89733||15|012|1820|Rural|
+89736|Emiliano Zapata|Ejido|González|Tamaulipas||89733|28|89733||15|012|1821|Rural|
+89740|Campo Verde|Ejido|González|Tamaulipas||89711|28|89711||15|012|3070|Rural|
+89740|Graciano Sánchez|Ejido|González|Tamaulipas||89711|28|89711||15|012|1825|Urbano|
+89744|Adolfo Ruiz Cortines|Ejido|González|Tamaulipas||89733|28|89733||15|012|1823|Rural|
+89744|Campo Nuevo|Ejido|González|Tamaulipas||89733|28|89733||15|012|3844|Rural|
+89746|López Rayón|Ejido|González|Tamaulipas||89733|28|89733||15|012|0001|Rural|
+89746|San Antonio Rayón|Ejido|González|Tamaulipas||89733|28|89733||15|012|1819|Rural|

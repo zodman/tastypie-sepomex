@@ -1,0 +1,66 @@
+86980|Avispero|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2002|Rural|
+86980|La Isla|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|1026|Rural|
+86980|El Pochote|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|1025|Rural|
+86982|El Jobal|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|1024|Rural|
+86983|Nuevo Pochote|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2001|Semiurbano|
+86983|Nuevo Chablé|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2000|Semiurbano|
+86983|Chable|Villa|Emiliano Zapata|Tabasco||86991|27|86991||32|007|1023|Semiurbano|
+86984|Boca de Chacamax|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2003|Rural|
+86984|Paso de San Román|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2006|Rural|
+86984|Tres Letras|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2004|Rural|
+86984|El Cuyo|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2005|Rural|
+86985|Corozal|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2008|Rural|
+86985|Concepción|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2009|Rural|
+86985|Pocvicuc|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2007|Rural|
+86985|Chajaj|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|1027|Rural|
+86986|Cacao|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|1020|Rural|
+86986|Buena Vista|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2014|Rural|
+86986|Cacao|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2011|Rural|
+86986|Cacao Zona Alta|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|2012|Rural|
+86986|Mariche|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|1028|Rural|
+86986|Chacama|Pueblo|Emiliano Zapata|Tabasco||86991|27|86991||28|007|2010|Rural|
+86986|Río Final|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|2013|Rural|
+86988|La Pita|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|1031|Rural|
+86988|Aguacate|Ranchería|Emiliano Zapata|Tabasco||86991|27|86991||29|007|1032|Rural|
+86989|Crnl. Gregorio Mendez Magaña|Pueblo|Emiliano Zapata|Tabasco||86991|27|86991||28|007|1029|Semiurbano|
+86989|Reforma|Ejido|Emiliano Zapata|Tabasco||86991|27|86991||15|007|1030|Rural|
+86990|Emiliano Zapata Centro|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1021|Semiurbano|04
+86992|Los Pescadores|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1184|Semiurbano|04
+86992|Tierra y Libertad|Fraccionamiento|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||21|007|1088|Semiurbano|04
+86992|Ganadera|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1117|Semiurbano|04
+86992|San Bartolo|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2020|Semiurbano|04
+86992|El Campanario|Fraccionamiento|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||21|007|2021|Semiurbano|04
+86993|Barrio Olvidado|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1199|Semiurbano|04
+86993|El Tucuy|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1254|Semiurbano|04
+86993|Heriberto Cabrera|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2015|Semiurbano|04
+86994|Tierra Montecristo|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1191|Semiurbano|04
+86994|Elda y Jose|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1093|Semiurbano|04
+86994|Despertar Magisterial|Fraccionamiento|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||21|007|1360|Semiurbano|04
+86994|El Mangal|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1361|Semiurbano|04
+86995|Ecologista|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1363|Semiurbano|04
+86995|Colonos del Usumacinta|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1365|Semiurbano|04
+86995|Santa Isabel|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1246|Semiurbano|04
+86995|Municipal|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1558|Semiurbano|04
+86995|Luis Donaldo Colosio|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1366|Semiurbano|04
+86996|Buenavista|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2017|Semiurbano|04
+86996|El Último Esfuerzo|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2018|Semiurbano|04
+86996|Carlos A Madrazo|Fraccionamiento|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||21|007|1359|Semiurbano|04
+86996|El Cerrito|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1058|Semiurbano|04
+86996|Banrural|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1367|Semiurbano|04
+86996|Luis Donaldo Colosio II|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1564|Semiurbano|04
+86996|Militar|Unidad habitacional|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||31|007|1565|Semiurbano|04
+86996|El Mirador|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2016|Semiurbano|04
+86996|Lázaro Cárdenas|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1562|Semiurbano|04
+86997|La Ceiba|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2019|Semiurbano|04
+86997|El Recreo|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1089|Semiurbano|04
+86997|Las Lomas|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1357|Semiurbano|04
+86998|Santa Cruz|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1561|Semiurbano|04
+86998|Arboledas|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2022|Semiurbano|04
+86998|La Esperanza|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2023|Semiurbano|04
+86998|Unidos en Solidaridad|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1356|Semiurbano|04
+86998|El Piedral|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1364|Semiurbano|04
+86998|José Lehman Ocampo|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1560|Semiurbano|04
+86998|Santa Fé|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|2024|Semiurbano|04
+86998|Buenos Aires|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1563|Semiurbano|04
+86998|Pedregal de Montecristo|Colonia|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||09|007|1207|Semiurbano|04
+86998|Bajos Usumacinta|Fraccionamiento|Emiliano Zapata|Tabasco|Emiliano Zapata|86991|27|86991||21|007|1559|Semiurbano|04

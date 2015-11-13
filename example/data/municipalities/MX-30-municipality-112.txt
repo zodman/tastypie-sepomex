@@ -1,0 +1,11 @@
+91400|Almolonga|Ejido|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||15|112|0254|Rural|
+91400|San Marcos Atexquilapan|Pueblo|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||28|112|0257|Rural|
+91400|Naolinco de Victoria|Pueblo|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||28|112|0256|Rural|
+91400|San Miguel Aguazuelos|Ranchería|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||29|112|0258|Rural|
+91400|San Pablo Coapan|Ranchería|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||29|112|0259|Rural|
+91400|Las Aldas|Ejido|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||15|112|0255|Rural|
+91404|Ciudad Cuatro Soles|Fraccionamiento|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||21|112|7785|Urbano|
+91404|El Copete|Ranchería|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||29|112|7848|Urbano|
+91406|Palo Blanco|Rancho|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||48|112|0001|Rural|
+91407|El Cafetal|Pueblo|Naolinco|Veracruz de Ignacio de la Llave||91401|30|91401||28|112|0261|Rural|
+91409|El Espinal|Pueblo|Naolinco|Veracruz de Ignacio de la Llave||91002|30|91002||28|112|0262|Rural|

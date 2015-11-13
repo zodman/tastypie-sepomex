@@ -1,0 +1,6 @@
+74840|Buenavista|Pueblo|Chinantla|Puebla||74881|21|74881||28|059|1901|Rural|
+74840|Chinantla|Pueblo|Chinantla|Puebla||74881|21|74881||28|059|1902|Rural|
+74842|Cuatecontla|Ranchería|Chinantla|Puebla||74881|21|74881||29|059|1903|Rural|
+74844|Amatepetlan|Ranchería|Chinantla|Puebla||74881|21|74881||29|059|1904|Rural|
+74846|Cuicatlan|Ranchería|Chinantla|Puebla||74881|21|74881||29|059|1905|Rural|
+74847|Tehuixtla San Francisco|Ranchería|Chinantla|Puebla||74881|21|74881||29|059|1906|Rural|

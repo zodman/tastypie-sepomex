@@ -1,0 +1,101 @@
+50960|Villa Victoria|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0909|Rural|
+50963|El Fresno San Agustín|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6858|Rural|
+50963|Jesús María|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0896|Rural|
+50963|Santa Isabel del Monte|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0906|Rural|
+50964|Turcio Segunda Sección|Poblado comunal|Villa Victoria|México||50961|15|50961||27|114|9683|Rural|
+50964|Sansón|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0917|Rural|
+50964|Laguna Seca|Ejido|Villa Victoria|México||50961|15|50961||15|114|0897|Rural|
+50964|San Agustín Altamirano Primera Sección|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0899|Rural|
+50965|Los Padres|Ejido|Villa Victoria|México||50961|15|50961||15|114|6856|Rural|
+50965|Los Matorrales|Barrio|Villa Victoria|México||50961|15|50961||02|114|7368|Rural|
+50965|Jesús María|Ejido|Villa Victoria|México||50961|15|50961||15|114|7348|Rural|
+50965|Santa Elena|Barrio|Villa Victoria|México||50961|15|50961||02|114|7360|Rural|
+50965|Barrio de los Velázquez|Barrio|Villa Victoria|México||50961|15|50961||02|114|6842|Rural|
+50965|San Joaquín del Monte|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0911|Rural|
+50965|Hospital Propiedad (Dos Estrellas)|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6860|Rural|
+50965|El Hospital|Ejido|Villa Victoria|México||50961|15|50961||15|114|7364|Rural|
+50965|Doctor Gustavo Baz|Colonia|Villa Victoria|México||50961|15|50961||09|114|6854|Rural|
+50966|El Gallito|Barrio|Villa Victoria|México||50961|15|50961||02|114|7351|Rural|
+50966|San Agustín Altamirano 2da. Sección|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7359|Rural|
+50966|Ejido de Laguna Seca 2a Sección|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6855|Rural|
+50966|Santiago del Monte|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0907|Rural|
+50967|Turcio 1a Secc|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0908|Rural|
+50967|Turcio la Loma|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7356|Rural|
+50967|Las Águilas|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7358|Rural|
+50967|San Luis el Alto|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0902|Rural|
+50967|San Luis la Gavia|Ranchería|Villa Victoria|México||50961|15|50961||29|114|0903|Rural|
+50967|Turcio 3ra. Sección|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7357|Rural|
+50967|San Luis la Manzana|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0904|Rural|
+50970|Propiedad Laguna Seca|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0916|Rural|
+50973|San Agustín Altamirano Monte Alto|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7354|Rural|
+50973|Unión de los Berros|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0912|Rural|
+50973|San Agustín Canohillas 2da. Sección|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7353|Rural|
+50973|San Agustín Canoillas 1a Secc|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0901|Rural|
+50974|Dolores Vaquerías|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0913|Rural|
+50974|San Agustín Berros|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0900|Rural|
+50974|Sección de Guadalupe|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0914|Rural|
+50975|Barrio el Vivero|Barrio|Villa Victoria|México||50961|15|50961||02|114|6851|Rural|
+50975|Ojitos de Agua|Poblado comunal|Villa Victoria|México||50961|15|50961||27|114|9627|Rural|
+50975|Las Peñas|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0898|Rural|
+50975|San Pedro del Rincón|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0905|Rural|
+50975|Jesús María Monte Alto|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7365|Rural|
+50975|Cerritos del Pilar|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0893|Rural|
+50975|La Puerta del Pilar|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6863|Rural|
+50980|Potrero de San Diego|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0919|Rural|
+50983|Palizada|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0918|Rural|
+50983|Barrio Cerrillo Grande|Barrio|Villa Victoria|México||50961|15|50961||02|114|6839|Rural|
+50983|Cerrillo Chico|Barrio|Villa Victoria|México||50961|15|50961||02|114|6853|Rural|
+50983|Barrio de Santa Cruz de la Rosa|Barrio|Villa Victoria|México||50961|15|50961||02|114|6847|Rural|
+50984|Agua Grande|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6838|Rural|
+50984|Barrio Los Cedros Suchitepec 1a Sección|Barrio|Villa Victoria|México||50961|15|50961||02|114|6841|Rural|
+50984|Loma de la Rosa|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6865|Rural|
+50984|Agua Zarca|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6837|Rural|
+50984|La Providencia|Barrio|Villa Victoria|México||50961|15|50961||02|114|7345|Rural|
+50984|El Panteón Suchitepec|Barrio|Villa Victoria|México||50961|15|50961||02|114|7369|Rural|
+50984|San Diego Suchitepec|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0920|Rural|
+50984|Barrio del Nuevo Bosque|Barrio|Villa Victoria|México||50961|15|50961||02|114|6850|Rural|
+50984|El Jacal|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7344|Rural|
+50984|La Mesa|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6862|Rural|
+50985|El Espinal|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0922|Rural|
+50985|Casas Coloradas|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0921|Rural|
+50985|La Presa|Ranchería|Villa Victoria|México||50961|15|50961||29|114|5467|Rural|
+50985|San Felipe de la Rosa|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0924|Rural|
+50986|El Catorce|Barrio|Villa Victoria|México||50961|15|50961||02|114|6857|Rural|
+50986|Villa Victoria|Ejido|Villa Victoria|México||50961|15|50961||15|114|7341|Rural|
+50986|Vaquerias|Barrio|Villa Victoria|México||50961|15|50961||02|114|7338|Rural|
+50986|Mesa del Espinal|Barrio|Villa Victoria|México||50961|15|50961||02|114|7343|Rural|
+50986|Mesa de Suchitimber|Barrio|Villa Victoria|México||50961|15|50961||02|114|7339|Rural|
+50986|Ojo de Agua|Barrio|Villa Victoria|México||50961|15|50961||02|114|7366|Rural|
+50986|Las Palmas|Barrio|Villa Victoria|México||50961|15|50961||02|114|7342|Rural|
+50986|El Capulín|Barrio|Villa Victoria|México||50961|15|50961||02|114|7340|Rural|
+50987|Las Milpas|Barrio|Villa Victoria|México||50961|15|50961||02|114|7334|Rural|
+50987|Loma del Burro|Barrio|Villa Victoria|México||50961|15|50961||02|114|7337|Rural|
+50987|Campo Nuevo|Barrio|Villa Victoria|México||50961|15|50961||02|114|7335|Rural|
+50987|Loma Larga|Barrio|Villa Victoria|México||50961|15|50961||02|114|7336|Rural|
+50987|El Atole|Barrio|Villa Victoria|México||50961|15|50961||02|114|7332|Rural|
+50987|Los Aviones|Barrio|Villa Victoria|México||50961|15|50961||02|114|7333|Rural|
+50990|Barrio de San Isidro|Barrio|Villa Victoria|México||50961|15|50961||02|114|6845|Rural|
+50993|Mina Vieja|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0925|Rural|
+50993|Barrio Centro del Cerrillo|Barrio|Villa Victoria|México||50961|15|50961||02|114|6840|Rural|
+50994|Sitio Ejido|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7350|Rural|
+50994|La Campanilla|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6861|Rural|
+50994|San Marcos de la Loma|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0930|Rural|
+50994|Barrio de San Miguel|Barrio|Villa Victoria|México||50961|15|50961||02|114|6846|Rural|
+50994|Sitio Centro|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7349|Rural|
+50995|Ex-Hacienda de Ayala|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6859|Rural|
+50995|Loma de Ayala|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7361|Rural|
+50995|Barrio del Cerrillo ( Dos Ríos)|Barrio|Villa Victoria|México||50961|15|50961||02|114|6848|Rural|
+50995|San Roque|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7362|Rural|
+50995|Venta de Ocotillos|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0932|Rural|
+50996|Barrio El Centenario|Barrio|Villa Victoria|México||50961|15|50961||02|114|6849|Rural|
+50996|Barrio de Puentecillas|Barrio|Villa Victoria|México||50961|15|50961||02|114|6843|Rural|
+50996|Barrio de Rameje|Barrio|Villa Victoria|México||50961|15|50961||02|114|6844|Rural|
+50996|San Antonio del Rincón|Pueblo|Villa Victoria|México||50961|15|50961||28|114|7347|Rural|
+50996|Loma de Guadalupe|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0927|Rural|
+50996|San Diego del Cerrito 1a Secc|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0929|Rural|
+50996|La Cañada|Barrio|Villa Victoria|México||50961|15|50961||02|114|7346|Rural|
+50997|Loma de Lienzo|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0001|Rural|
+50997|La Alameda|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0931|Rural|
+50997|Los Cedros|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0928|Rural|
+50997|Cuadrilla Vieja|Pueblo|Villa Victoria|México||50961|15|50961||28|114|0926|Rural|
+50997|Centro del Cerrillo|Pueblo|Villa Victoria|México||50961|15|50961||28|114|6852|Rural|

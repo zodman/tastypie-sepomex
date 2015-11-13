@@ -1,0 +1,8 @@
+66950|Dr. Coss|Villa|Doctor Coss|Nuevo León||67051|19|67051||32|015|1494|Rural|
+66953|Hacienda de Guadalupe|Fraccionamiento|Doctor Coss|Nuevo León||67051|19|67051||21|015|0002|Rural|
+66953|Norte|Barrio|Doctor Coss|Nuevo León||67051|19|67051||02|015|0001|Rural|
+66955|Francisco I Madero|Congregación|Doctor Coss|Nuevo León||67051|19|67051||11|015|1495|Rural|
+66960|La Lajilla|Congregación|Doctor Coss|Nuevo León||67051|19|67051||11|015|1496|Rural|
+66963|La Ceja|Ranchería|Doctor Coss|Nuevo León||67051|19|67051||29|015|1497|Rural|
+66964|Serafín|Ranchería|Doctor Coss|Nuevo León||67051|19|67051||29|015|1498|Rural|
+66980|Cantu|Congregación|Doctor Coss|Nuevo León||67051|19|67051||11|015|1499|Rural|

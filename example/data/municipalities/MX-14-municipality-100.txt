@@ -1,0 +1,43 @@
+48450|Indígena|Colonia|Tomatlán|Jalisco||48452|14|48452||09|100|0005|Urbano|
+48450|Nuevo Santiago|Hacienda|Tomatlán|Jalisco||48452|14|48452||24|100|2572|Rural|
+48450|Presa Cajón de Peña (La Presa)|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|4547|Rural|
+48450|Santiago|Hacienda|Tomatlán|Jalisco||48452|14|48452||24|100|2573|Rural|
+48450|Gargantillo (La Hacienda)|Hacienda|Tomatlán|Jalisco||48452|14|48452||24|100|2571|Rural|
+48450|Centro Tomatlán|Colonia|Tomatlán|Jalisco||48452|14|48452||09|100|2574|Urbano|
+48451|Las Partidas|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2575|Rural|
+48453|El Corrido|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|4449|Rural|
+48453|La Piedra Pintada|Poblado comunal|Tomatlán|Jalisco||48452|14|48452||27|100|5277|Rural|
+48455|La Gloria|Ejido|Tomatlán|Jalisco||48452|14|48452||15|100|2577|Rural|
+48456|Mahuapa|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2578|Rural|
+48456|El Naranjo|Poblado comunal|Tomatlán|Jalisco||48452|14|48452||27|100|5053|Rural|
+48456|José María Pino Suárez (Nuevo Nahuapa)|Pueblo|Tomatlán|Jalisco||48452|14|48452||28|100|2579|Rural|
+48456|La Pintada|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|4545|Rural|
+48457|Las Lomas (Las Lomas de Malobaco)|Rancho|Tomatlán|Jalisco||48452|14|48452||48|100|0006|Rural|
+48457|Teocinte (Teocintle)|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2580|Rural|
+48458|El Tigre|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2581|Rural|
+48460|La Cruz de Loreto|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2582|Rural|
+48461|Piloto (Corralito de Piloto)|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2583|Rural|
+48462|El Realito|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|0002|Rural|
+48464|El Mapache|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2584|Rural|
+48464|Crucero del Aval|Poblado comunal|Tomatlán|Jalisco||48452|14|48452||27|100|5052|Rural|
+48464|Pochotitán|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|0001|Rural|
+48465|El Tule|Ejido|Tomatlán|Jalisco||48452|14|48452||15|100|2585|Rural|
+48466|Tequesquite|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2586|Rural|
+48470|San Rafael de los Moreno|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2587|Rural|
+48473|El Ocotillo|Rancho|Tomatlán|Jalisco||48201|14|48201||48|100|0004|Rural|
+48473|Cimarronas|Ranchería|Tomatlán|Jalisco||48201|14|48201||29|100|0003|Rural|
+48475|Santa Gertrudis|Ranchería|Tomatlán|Jalisco||48201|14|48201||29|100|4546|Rural|
+48475|Llano Grande|Congregación|Tomatlán|Jalisco||48201|14|48201||11|100|2588|Rural|
+48479|Cabrel|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2589|Rural|
+48480|Campo Acosta|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2590|Rural|
+48481|La Cumbre|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2591|Rural|
+48481|Valle de Majahuas (El Poblado)|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|4450|Rural|
+48485|Lázaro Cárdenas (La Nancy)|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2593|Rural|
+48485|Emiliano Zapata Yautepec (Agua Zarca)|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2592|Rural|
+48486|El Aserradero|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2594|Rural|
+48490|Higuera Blanca|Pueblo|Tomatlán|Jalisco||48452|14|48452||28|100|2595|Rural|
+48491|Palmillas|Ranchería|Tomatlán|Jalisco||48201|14|48201||29|100|2596|Rural|
+48495|José María Morelos|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2597|Rural|
+48496|Puentecillas|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2598|Rural|
+48499|El Limón|Ranchería|Tomatlán|Jalisco||48452|14|48452||29|100|2599|Rural|
+48499|Llano del Toro|Poblado comunal|Tomatlán|Jalisco||48452|14|48452||27|100|5255|Rural|

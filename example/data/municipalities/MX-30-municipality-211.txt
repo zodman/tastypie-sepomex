@@ -1,0 +1,57 @@
+93620|El Pireo|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|1857|Rural|51
+93620|13 de Diciembre|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|2108|Rural|51
+93620|San Rafael Centro|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|2427|Rural|51
+93620|Las Maravillas|Fraccionamiento|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||21|211|1955|Rural|51
+93620|Picamosco|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|2052|Rural|51
+93620|Las Zapateras|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|2135|Rural|51
+93620|Deportiva|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|4918|Rural|51
+93620|Gustavo Del Valle|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|1895|Rural|51
+93620|La Jungla|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|1934|Rural|51
+93620|San Rafael|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|5534|Rural|51
+93620|Nueva|Colonia|San Rafael|Veracruz de Ignacio de la Llave|San Rafael|93601|30|93601||09|211|2031|Rural|51
+93623|Mentidero|Ejido|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||15|211|2431|Rural|
+93623|Ignacio Zaragoza|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2449|Rural|
+93623|Calle Grande|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5475|Rural|
+93623|El Tablazo|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5497|Rural|
+93623|El Arenal|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5470|Rural|
+93623|La Aurora|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5472|Rural|
+93623|Lomas de Arena|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5484|Rural|
+93623|El Ojite|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5488|Rural|
+93623|Puente Casitas|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5492|Rural|
+93623|Santa Elena|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5496|Rural|
+93623|Melchor Ocampo|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2430|Rural|
+93623|Calle Chica|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5474|Rural|
+93623|La Chancla|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5477|Rural|
+93623|El Cocal|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5478|Rural|
+93623|Río Mar|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5493|Rural|
+93624|Tepetates|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5498|Rural|
+93624|Paso de Telaya|Ejido|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||15|211|2434|Rural|
+93624|Cementeros Del Pital|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5476|Rural|
+93624|La Esperanza|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5480|Rural|
+93624|El Guayabal|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5482|Rural|
+93624|Vega de San Marcos|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5479|Rural|
+93624|Galvarino Barria Perez|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5481|Rural|
+93625|Vega de San Marcos|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2437|Rural|
+93625|Manuel Avila Camacho|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5485|Rural|
+93625|El Paraíso|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5490|Rural|
+93625|El Faisán|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2440|Rural|
+93625|Arroyo Zarco|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5471|Rural|
+93625|La Pajarera|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5489|Rural|
+93625|Úrsulo Galvan|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5500|Rural|
+93625|El Nuevo Faisán|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5502|Rural|
+93625|Bella Esperanza|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5473|Rural|
+93625|Benito Juárez|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5487|Rural|
+93625|La Pitaya|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5491|Rural|
+93626|Emiliano Zapata|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2450|Rural|
+93626|Mata de Platino|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5486|Rural|
+93626|Zanjas de Arena|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5501|Rural|
+93626|El Cabellal|Ejido|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||15|211|2429|Rural|
+93626|Manuel Avila Camacho|Ampliación|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||38|211|5469|Rural|
+93626|San Lorenzo|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5494|Rural|
+93627|3 Bocas|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5499|Rural|
+93627|Isla de Santa Rosa|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5483|Rural|
+93627|Santa Adelaida|Ranchería|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||29|211|5495|Rural|
+93627|3 Encinos|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2432|Rural|
+93628|Puntilla Aldama|Pueblo|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||28|211|2433|Rural|
+93628|El Pital|Ejido|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||15|211|2435|Rural|
+93629|Guadalupe Victoria|Ejido|San Rafael|Veracruz de Ignacio de la Llave||93601|30|93601||15|211|2436|Rural|

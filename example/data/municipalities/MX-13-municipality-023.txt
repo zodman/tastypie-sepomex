@@ -1,0 +1,54 @@
+42660|4ta. Demarcación|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4563|Urbano|
+42660|Los Hernández|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4572|Urbano|
+42660|Los Violines|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4575|Urbano|
+42660|3ra. Demarcación|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4562|Urbano|
+42660|El Fresno|Fraccionamiento|Francisco I. Madero|Hidalgo||42731|13|42731||21|023|5642|Urbano|
+42660|El Rosario|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|0719|Rural|
+42660|2da. Demarcación|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4561|Urbano|
+42660|Magisterio|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4576|Urbano|
+42660|La Comunidad|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|2155|Rural|
+42660|Los Chavarria|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4570|Urbano|
+42660|Tepatepec Centro|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|0720|Urbano|
+42660|1ra. Demarcación|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4560|Urbano|
+42663|El Barroso|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4588|Rural|
+42663|El Rancho|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4592|Rural|
+42663|Jagüey de Gontzudi|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|2889|Rural|
+42664|Bocamiño|Pueblo|Francisco I. Madero|Hidalgo||42731|13|42731||28|023|0721|Rural|
+42664|Arambó|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4580|Rural|
+42664|Las Coronas|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4599|Rural|
+42665|Doctor José G. Parres|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4587|Rural|
+42665|El Villano|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4594|Rural|
+42665|La Puerta|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4598|Rural|
+42665|El Potrero|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4591|Rural|
+42666|Dengantzha|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4586|Rural|
+42666|La Mora|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4597|Rural|
+42666|San José Boxay|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4602|Rural|
+42667|Emiliano Zapata (Colonia los Morales)|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4584|Rural|
+42667|El Mendoza|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4589|Rural|
+42667|El Bravo|Barrio|Francisco I. Madero|Hidalgo||42731|13|42731||02|023|4581|Rural|
+42670|Los Filtros|Poblado comunal|Francisco I. Madero|Hidalgo||42731|13|42731||27|023|4601|Rural|
+42670|Compuerta el Trece|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4585|Rural|
+42670|El Porvenir|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4590|Rural|
+42670|El Horno|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|2853|Rural|
+42670|La Cruz|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4596|Rural|
+42670|Lázaro Cárdenas (Colonia el Mexe)|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|0723|Rural|
+42670|El Quince|Barrio|Francisco I. Madero|Hidalgo||42731|13|42731||02|023|4582|Rural|
+42671|San Juan Tepa|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|0724|Urbano|
+42671|San Antonio|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4579|Urbano|
+42671|Francisco Villa|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4566|Urbano|
+42671|La Campana|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4567|Urbano|
+42671|Los Tigres|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4573|Urbano|
+42671|Nuevo México|Barrio|Francisco I. Madero|Hidalgo||42731|13|42731||02|023|4577|Urbano|
+42672|El Moro|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|2838|Urbano|
+42672|Los Científicos|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4571|Urbano|
+42672|El Calero|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4565|Urbano|
+42672|Puente de Alvarado|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4578|Urbano|
+42672|La Palma|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4568|Urbano|
+42672|El Rosario|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|0725|Urbano|
+42672|El Arbolito|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4564|Urbano|
+42672|Los Amigos|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4569|Urbano|
+42672|Los Villa|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4574|Urbano|
+42673|Las Fuentes|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4600|Rural|
+42673|El Tapia|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4593|Rural|
+42673|El Veinte|Colonia|Francisco I. Madero|Hidalgo||42731|13|42731||09|023|4583|Rural|
+42673|Granja Tepeyac|Ranchería|Francisco I. Madero|Hidalgo||42731|13|42731||29|023|4595|Rural|

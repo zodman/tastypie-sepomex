@@ -1,0 +1,161 @@
+35150|Cerrada de Los Puentes|Barrio|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||02|012|1219|Urbano|03
+35150|Ciudad Lerdo Centro|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1217|Urbano|03
+35150|INFONAVIT I|Unidad habitacional|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||31|012|1221|Urbano|03
+35150|15 Letras|Barrio|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||02|012|1223|Urbano|03
+35150|Privada Rincón Lerdense|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1224|Urbano|03
+35150|Duranguito|Barrio|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||02|012|1220|Urbano|03
+35150|Olas Altas|Barrio|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||02|012|1222|Urbano|03
+35150|Cuba|Barrio|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||02|012|1218|Urbano|03
+35153|Las Brisas|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1227|Urbano|03
+35153|Las Brisas del Sur|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1229|Urbano|03
+35153|Victoria Popular|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1233|Urbano|03
+35153|Rev. Emiliano Zapata|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1230|Urbano|03
+35153|San Pedro|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|1231|Urbano|03
+35153|Tiro Al Blanco|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1232|Urbano|03
+35153|Francisco Villa Sur|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1226|Urbano|03
+35154|Fco. Villa Norte|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1235|Urbano|03
+35154|Cerro de La Cruz|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1234|Urbano|03
+35155|Providencia|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1239|Urbano|03
+35155|Arboledas|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3482|Urbano|03
+35155|Las Flores|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1238|Urbano|03
+35155|20 de Noviembre|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1240|Urbano|03
+35156|Ampliación San Isidro|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|2045|Urbano|03
+35156|San Juan|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3496|Urbano|03
+35156|Prudencia Jáuregui|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1244|Urbano|03
+35156|Loma Real I|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|4672|Urbano|03
+35156|18 de Julio|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1241|Urbano|03
+35156|Independencia|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1242|Urbano|03
+35156|Loma Real II|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|4673|Urbano|03
+35156|Las Ladrilleras|Ejido|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||15|012|1243|Rural|03
+35156|San Isidro|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1245|Urbano|03
+35156|San Juanito|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1246|Urbano|03
+35156|San Daniel|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|4693|Urbano|03
+35157|Simón Zamora|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1257|Urbano|03
+35157|Quintas Lerdo|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|2049|Urbano|03
+35157|Los Doctores|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|1249|Urbano|03
+35157|Montebello|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1256|Urbano|03
+35157|Lucio Cabañas|Ampliación|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||38|012|0997|Urbano|03
+35157|Jardines del Periférico|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|2047|Urbano|03
+35157|Residencial Quintas Lerdo|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3500|Urbano|03
+35157|José Revueltas|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1252|Urbano|03
+35157|Villa Paraíso|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3506|Urbano|03
+35157|Huerto Escondido|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3490|Urbano|03
+35157|Jardín|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1250|Urbano|03
+35157|Club de Leones (La Lomita)|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1247|Urbano|03
+35157|Del Valle|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1248|Urbano|03
+35157|Rincón del Periférico|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|2048|Urbano|03
+35157|San Antonio|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3472|Urbano|03
+35157|Lucio Cabañas|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1254|Urbano|03
+35157|Mártires del 68|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1255|Urbano|03
+35157|Primavera|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|2040|Urbano|03
+35157|Lerdo II|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|2046|Urbano|03
+35157|Cerrada Los Reyes|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3486|Urbano|03
+35158|El Cambio|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1261|Urbano|03
+35158|Mayagoitia|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1265|Urbano|03
+35158|Del Parque|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1260|Urbano|03
+35158|Los Laureles|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1268|Urbano|03
+35158|Nueva Rosita|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1271|Urbano|03
+35158|Nuevo Jerusalén|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1272|Urbano|03
+35158|Nva. Jerusalem|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1266|Urbano|03
+35158|Los Sauces|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1269|Urbano|03
+35158|Niños Héroes|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1270|Urbano|03
+35158|Constituyentes|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1259|Urbano|03
+35158|Valle del Sol|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1273|Urbano|03
+35158|La Reina|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1267|Urbano|03
+35158|Rosales II|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|2050|Urbano|03
+35158|El Edén|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1262|Urbano|03
+35159|Rincón las Huertas|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|0006|Urbano|03
+35159|Cerrada el Rosario|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|0002|Urbano|03
+35159|San Isidro|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|0003|Urbano|03
+35159|Castilagua|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|2038|Urbano|03
+35159|Cerrada Las Margaritas|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3485|Urbano|03
+35159|Cipreses|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3487|Urbano|03
+35159|Los Pinos|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3492|Urbano|03
+35159|San Ángel|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3498|Urbano|03
+35159|Residencial Jardines|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|6074|Urbano|03
+35159|Javier Mina|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3489|Urbano|03
+35159|San Gregorio|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|4679|Urbano|03
+35159|San Felipe|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|4696|Urbano|03
+35159|Cerrada San Andrés|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|0007|Urbano|03
+35159|Placido Domingo|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1277|Urbano|03
+35159|El Amparo|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3488|Urbano|03
+35159|Tecnológico|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3499|Urbano|03
+35159|Quintas San Isidro|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|0004|Urbano|03
+35159|Nogales|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1274|Urbano|03
+35159|Filiberto García M|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|2051|Urbano|03
+35159|Bega|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3483|Urbano|03
+35159|Reyes Esquivel|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3491|Urbano|03
+35159|Conjunto Habitacional Cerrada San Mateo|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|0005|Urbano|03
+35159|Carmen Carreón|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3484|Urbano|03
+35159|San José|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3494|Urbano|03
+35159|Las Huertas|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3497|Urbano|03
+35160|Lagos del Campestre|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1278|Urbano|03
+35160|Villa de las Flores|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1280|Urbano|03
+35160|Luis Longoria|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1279|Urbano|03
+35163|Benito Juárez|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1314|Urbano|03
+35163|La Carpa|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3502|Urbano|03
+35163|El Polvorín|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3501|Urbano|03
+35163|La Rinconada|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3505|Urbano|03
+35163|Villa de Guadalupe|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1319|Urbano|03
+35163|La Ermita|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3503|Urbano|03
+35163|La Ferrocarrilera|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3504|Urbano|03
+35163|El Huarache|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1326|Urbano|03
+35164|Ampliación Las Flores|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1282|Urbano|03
+35164|Unidos Venceremos|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1286|Urbano|03
+35164|Sacramento|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1284|Urbano|03
+35164|Samaniego|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1285|Urbano|03
+35164|La Rueda|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1281|Urbano|03
+35164|Privada Las Palmas|Fraccionamiento|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||21|012|3493|Urbano|03
+35164|Rosales|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1283|Urbano|03
+35165|Roberto Fierro|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1288|Urbano|03
+35166|Armando del Castillo Franco|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1289|Urbano|03
+35167|Lázaro Cárdenas|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1293|Urbano|03
+35167|Fco. Sarabia|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1292|Urbano|03
+35168|5 de Mayo|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1294|Urbano|03
+35168|Villa Jardín|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3481|Urbano|03
+35168|Hijos de Ejidatarios|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1296|Urbano|03
+35168|San José|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1301|Urbano|03
+35168|Magisterial|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1300|Urbano|03
+35168|U H SARH|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|3480|Urbano|03
+35168|Las Palmas|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1298|Urbano|03
+35168|Jardines de Lerdo|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1297|Urbano|03
+35169|Emiliano Zapata|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1303|Urbano|03
+35169|Cesar G. Meraz|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1302|Urbano|03
+35169|Genaro Vázquez|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|2043|Urbano|03
+35169|1 de Mayo|Colonia|Lerdo|Durango|Ciudad Lerdo|35151|10|35151||09|012|1304|Urbano|03
+35170|León Guzmán|Pueblo|Lerdo|Durango||35001|10|35001||28|012|1305|Rural|
+35171|Salamanca|Ejido|Lerdo|Durango||35001|10|35001||15|012|1306|Rural|
+35173|San Jacinto|Ejido|Lerdo|Durango||35151|10|35151||15|012|1307|Rural|
+35174|La Gloria|Ranchería|Lerdo|Durango||35151|10|35151||29|012|0001|Rural|
+35174|La Goma|Estación|Lerdo|Durango||35151|10|35151||16|012|1310|Rural|
+35174|Juan E García|Pueblo|Lerdo|Durango||35151|10|35151||28|012|1308|Rural|
+35174|La Goma|Ejido|Lerdo|Durango||35151|10|35151||15|012|1309|Rural|
+35175|Rancho Grande (3 Hermanas) (Propiedad Privada)|Ejido|Lerdo|Durango||35151|10|35151||15|012|1311|Rural|
+35175|Vicente Suárez|Ranchería|Lerdo|Durango||35151|10|35151||29|012|1312|Rural|
+35179|21 de Marzo|Ejido|Lerdo|Durango||35151|10|35151||15|012|1313|Rural|
+35180|Ciudad Juárez|Ciudad|Lerdo|Durango||35151|10|35151||08|012|1315|Rural|
+35180|Las Piedras|Ranchería|Lerdo|Durango||35151|10|35151||29|012|1317|Rural|
+35180|San Carlos|Ejido|Lerdo|Durango||35151|10|35151||15|012|1318|Rural|
+35180|La Campana|Ranchería|Lerdo|Durango||35151|10|35151||29|012|1316|Rural|
+35181|Los Ángeles|Ejido|Lerdo|Durango||35151|10|35151||15|012|1321|Rural|
+35181|Río Nasas|Estación|Lerdo|Durango||35151|10|35151||16|012|1322|Rural|
+35181|6 de Enero|Ejido|Lerdo|Durango||35151|10|35151||15|012|1323|Rural|
+35181|Alvaro Obregón|Pueblo|Lerdo|Durango||35151|10|35151||28|012|1320|Rural|
+35181|Centauro del Norte|Colonia|Lerdo|Durango||35151|10|35151||09|012|2039|Rural|
+35182|El Rayo|Ejido|Lerdo|Durango||35151|10|35151||15|012|1324|Rural|
+35183|La Luz|Ejido|Lerdo|Durango||35151|10|35151||15|012|1325|Rural|
+35185|Las Cuevas|Ranchería|Lerdo|Durango||35151|10|35151||29|012|1327|Rural|
+35186|Monterrey|Ejido|Lerdo|Durango||35151|10|35151||15|012|1328|Rural|
+35187|Carlos Real (San Carlos)|Pueblo|Lerdo|Durango||35151|10|35151||28|012|1329|Rural|
+35188|Nazareno|Ejido|Lerdo|Durango||35151|10|35151||15|012|1330|Rural|
+35189|Picardías|Estación|Lerdo|Durango||35151|10|35151||16|012|1331|Rural|
+35190|Sapioris|Estación|Lerdo|Durango||35151|10|35151||16|012|1333|Rural|
+35190|La Loma|Estación|Lerdo|Durango||35151|10|35151||16|012|1332|Rural|
+35191|San Isidro|Rancho|Lerdo|Durango||35151|10|35151||48|012|1334|Rural|
+35192|El Refugio|Ranchería|Lerdo|Durango||35151|10|35151||29|012|1335|Rural|
+35193|Santa Anita|Ranchería|Lerdo|Durango||35151|10|35151||29|012|1336|Rural|
+35196|La Unión|Ejido|Lerdo|Durango||35151|10|35151||15|012|1338|Rural|
+35197|Javier Rojo Gómez (la Esperanza)|Pueblo|Lerdo|Durango||35151|10|35151||28|012|1341|Rural|
+35197|Chocolate|Estación|Lerdo|Durango||35151|10|35151||16|012|1340|Rural|
+35197|Chocolate|Zona federal|Lerdo|Durango||35151|10|35151||34|012|1339|Rural|
+35199|Nuevo Graseros|Pueblo|Lerdo|Durango||35001|10|35001||28|012|1342|Rural|

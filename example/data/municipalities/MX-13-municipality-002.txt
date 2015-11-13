@@ -1,0 +1,107 @@
+43720|Acaxochitlán Centro|Colonia|Acaxochitlán|Hidalgo||43601|13|43601||09|002|1826|Urbano|
+43721|Zacacuautla|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1832|Rural|
+43721|San Mateo|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1834|Rural|
+43721|Techachalco|Ejido|Acaxochitlán|Hidalgo||43601|13|43601||15|002|4412|Rural|
+43721|Cuaunepantla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|1833|Rural|
+43721|Loma Linda|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4421|Rural|
+43721|Yemila|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|1835|Rural|
+43721|El Lindero|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4413|Rural|
+43721|San Martín|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4429|Rural|
+43721|Canales|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4406|Rural|
+43723|Tlatzintla|Colonia|Acaxochitlán|Hidalgo||43601|13|43601||09|002|4438|Urbano|
+43723|Tlatempa|Colonia|Acaxochitlán|Hidalgo||43601|13|43601||09|002|4437|Urbano|
+43724|El Mirador|Colonia|Acaxochitlán|Hidalgo||43601|13|43601||09|002|4436|Urbano|
+43725|Amelco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4443|Urbano|
+43725|El Crucero|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4450|Urbano|
+43725|Dos Caminos|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4452|Urbano|
+43725|Hahuna|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4455|Urbano|
+43725|Tepoxcalco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4469|Urbano|
+43725|Xitenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4480|Urbano|
+43725|Cogtenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4445|Urbano|
+43725|Lomaco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4460|Urbano|
+43725|Nanacamila|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4464|Urbano|
+43725|Ocotenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4465|Urbano|
+43725|Tlalacalco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4473|Urbano|
+43725|Verde|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4485|Urbano|
+43725|Xocotenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|1830|Urbano|
+43725|Meyanatl|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4462|Urbano|
+43725|Tercera|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4470|Urbano|
+43725|Xocotepanco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4481|Urbano|
+43725|Acocualco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4440|Urbano|
+43725|Copanxoncotl|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4448|Urbano|
+43725|Corostitla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4449|Urbano|
+43725|Itenconixtlahuac|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4456|Urbano|
+43725|Xalpa|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4479|Urbano|
+43725|Copalxochititla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4447|Urbano|
+43725|Doraznutla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4451|Urbano|
+43725|El Bazar|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4453|Urbano|
+43725|Meztolotla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4461|Urbano|
+43725|Tlacocotla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4472|Urbano|
+43725|Toltenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4478|Urbano|
+43725|Itlanquelotl|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4457|Urbano|
+43725|Texocotitla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4471|Urbano|
+43725|Tlalpehuatitla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4474|Urbano|
+43725|Xoxocotla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4482|Urbano|
+43725|Zacatenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4483|Urbano|
+43725|Álamo|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4442|Urbano|
+43725|Capoltitla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4444|Urbano|
+43725|Escobar|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4454|Urbano|
+43725|Ixtahiatla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4458|Urbano|
+43725|Puente Alto|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4466|Urbano|
+43725|Tecaxitl|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4468|Urbano|
+43725|Tlaltenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4475|Urbano|
+43725|Tlanchontitla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4476|Urbano|
+43725|Zentlalpan|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4484|Urbano|
+43725|Ahuacotitla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4441|Urbano|
+43725|Colal|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4446|Urbano|
+43725|Ixtlahuaca|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4459|Urbano|
+43725|Miramar|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4463|Urbano|
+43725|Sabinal|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4467|Urbano|
+43725|Tlazacuali|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4477|Urbano|
+43725|Chapultepec|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4486|Urbano|
+43726|Santa Catarina|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1831|Rural|
+43726|Toxtla|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4434|Rural|
+43726|La Cumbre de Santa Catarina|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4417|Rural|
+43726|Zotictla|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4435|Rural|
+43726|San Miguel del Resgate|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1829|Rural|
+43727|Alpinagua|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4399|Rural|
+43727|Atezcapa|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4401|Rural|
+43727|El Valle|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4416|Rural|
+43727|El Puente|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4402|Rural|
+43728|Tlatempa|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4403|Rural|
+43728|Buena Vista|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4405|Rural|
+43728|Chimalapa|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4407|Rural|
+43728|Tlatzintla|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4404|Rural|
+43728|La Mesa|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4418|Rural|
+43728|Nuevo San Juan|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4424|Rural|
+43728|Apopoalco|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4400|Rural|
+43728|Techachalco|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4431|Rural|
+43728|Las Palomas|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4419|Rural|
+43728|Necaxanco|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4423|Rural|
+43728|San Francisco Atotonilco|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1827|Rural|
+43728|San Juan|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1828|Rural|
+43730|Los Reyes|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1837|Urbano|
+43730|San Pedro Tlachichilco|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1838|Urbano|
+43730|Tlacpac|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|1840|Urbano|
+43730|Tlamimilolpa|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|1841|Urbano|
+43730|Tepepa (Santiago Tepepa)|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1839|Urbano|
+43731|Apapaxtla (Altamira)|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|1842|Rural|
+43733|Tlacuilolapa|Colonia|Acaxochitlán|Hidalgo||43601|13|43601||09|002|4432|Urbano|
+43733|Agua Chiquila|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4398|Rural|
+43734|La Bóveda|Pueblo|Acaxochitlán|Hidalgo||43601|13|43601||28|002|1836|Rural|
+43734|Cuautenco|Barrio|Acaxochitlán|Hidalgo||43601|13|43601||02|002|4439|Urbano|
+43734|El Tejocotal|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4414|Rural|
+43734|El Vado|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4415|Rural|
+43734|Paredones|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4427|Rural|
+43734|San Fernando|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4428|Rural|
+43734|Santa Catarina|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4430|Rural|
+43734|Tlatzintla|Ejido|Acaxochitlán|Hidalgo||43601|13|43601||15|002|4411|Rural|
+43734|Montemar|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4422|Rural|
+43735|Ojo de Agua las Palomas|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4425|Rural|
+43735|Tepepa (Barrio Santa Félix)|Ejido|Acaxochitlán|Hidalgo||43601|13|43601||15|002|4409|Rural|
+43736|Parada 170|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4426|Rural|
+43736|Coyametepec|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4408|Rural|
+43736|Tlaltegco (Venta Quemada)|Poblado comunal|Acaxochitlán|Hidalgo||43601|13|43601||27|002|4433|Rural|
+43739|Loma Bonita|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|4420|Rural|
+43739|La Mesa|Ranchería|Acaxochitlán|Hidalgo||43601|13|43601||29|002|1843|Rural|
+43739|Tlamimilolpa|Ejido|Acaxochitlán|Hidalgo||43601|13|43601||15|002|4410|Rural|

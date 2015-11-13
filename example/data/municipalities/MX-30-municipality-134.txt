@@ -1,0 +1,32 @@
+91650|El Palmar|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0437|Rural|
+91650|Paso Palma Uno|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0438|Rural|
+91652|El Crucero|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0439|Rural|
+91653|21 de Marzo|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|5581|Semiurbano|
+91653|Totonacapan Del Sur|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|4709|Semiurbano|
+91653|Magisterio|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|4710|Semiurbano|
+91653|Leonardo Rodriguez Alcaine|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|4711|Semiurbano|
+91653|Lindavista|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|4712|Semiurbano|
+91653|12 de Diciembre|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|4713|Semiurbano|
+91653|Isauro Acosta|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|5582|Semiurbano|
+91653|El Capricho|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|5584|Semiurbano|
+91653|Infonavit El Pando II|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|0763|Semiurbano|
+91653|Acapulquito|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|4715|Semiurbano|
+91653|Naranjos|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|6050|Rural|
+91653|Infonavit El Pando I|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|0762|Semiurbano|
+91653|San Ángel|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|5583|Semiurbano|
+91653|Magisterial|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|0955|Semiurbano|
+91653|Infonavit El Pando I|Ampliación|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||38|134|4708|Semiurbano|
+91653|Cabezas|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0440|Rural|
+91653|Secretaria de Agricultura y Recursos Hidráulicos|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|1097|Semiurbano|
+91653|Infonavit Suterm|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|1115|Semiurbano|
+91653|Federal|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||09|134|5580|Semiurbano|
+91654|San Jose Chipila|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0441|Rural|
+91655|Hato de La Higuera|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0442|Rural|
+91655|Palmar|Estación|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||16|134|0443|Rural|
+91656|Chichicaxtle|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0444|Rural|
+91656|Paso Mariano|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0445|Rural|
+91657|Pachuquilla|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91681|30|91681||28|134|0446|Rural|
+91658|Puente Nacional|Congregación|Puente Nacional|Veracruz de Ignacio de la Llave||91671|30|91671||11|134|0448|Rural|
+91658|Tamarindo|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91671|30|91671||28|134|0449|Rural|
+91658|Mata de Jobo|Pueblo|Puente Nacional|Veracruz de Ignacio de la Llave||91671|30|91671||28|134|0447|Rural|
+91659|Casa Blanca|Colonia|Puente Nacional|Veracruz de Ignacio de la Llave||91631|30|91631||09|134|0001|Rural|

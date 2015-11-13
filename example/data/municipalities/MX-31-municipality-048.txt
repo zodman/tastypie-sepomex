@@ -1,0 +1,21 @@
+97800|Maxcanu|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|0471|Rural|
+97800|La Sirena|Colonia|Maxcanú|Yucatán||97801|31|97801||09|048|1898|Urbano|
+97800|Guadalupe|Colonia|Maxcanú|Yucatán||97801|31|97801||09|048|0610|Rural|
+97803|Santa Cruz|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1263|Rural|
+97803|Kanachén|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1264|Rural|
+97803|Granada (Chican Granada)|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|0476|Rural|
+97804|Yaxcaba|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1261|Rural|
+97804|Cárdenas|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1262|Rural|
+97804|Kochol|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|0469|Rural|
+97804|San Fernando|Hacienda|Maxcanú|Yucatán||97801|31|97801||24|048|0474|Rural|
+97804|Coahuila|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1256|Rural|
+97804|Cacal|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1260|Rural|
+97804|Santo Domingo|Hacienda|Maxcanú|Yucatán||97801|31|97801||24|048|0472|Rural|
+97804|Santa Rosa|Ranchería|Maxcanú|Yucatán||97801|31|97801||29|048|0475|Rural|
+97804|Paraíso|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|0727|Rural|
+97804|San Lázaro|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1259|Rural|
+97805|El Naranjo|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1258|Rural|
+97805|Chunchucmil|Hacienda|Maxcanú|Yucatán||97801|31|97801||24|048|0470|Rural|
+97805|San Simón Sinkehuel|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1255|Rural|
+97806|San Rafael|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1254|Rural|
+97807|Chencoh|Pueblo|Maxcanú|Yucatán||97801|31|97801||28|048|1257|Rural|

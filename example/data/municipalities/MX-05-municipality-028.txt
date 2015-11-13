@@ -1,0 +1,79 @@
+26700|Ciudad Sabinas Centro|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0918|Semiurbano|07
+26710|Burócratas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0920|Semiurbano|07
+26719|Santa Cruz|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0921|Semiurbano|07
+26720|Ismael Rodriguez|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0922|Semiurbano|07
+26729|San Patricio|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|2317|Semiurbano|07
+26729|La Joya|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|2770|Urbano|07
+26729|Los Montes|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0923|Semiurbano|07
+26729|La Retama|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|2769|Urbano|07
+26729|Ciudad Sanitaria|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2320|Semiurbano|07
+26730|Reynera|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0924|Semiurbano|07
+26736|Rincón de Arboledas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2315|Semiurbano|07
+26736|San Luis|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0925|Semiurbano|07
+26737|Valle de Santo Domingo|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|2298|Urbano|07
+26737|Los Pinos|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0926|Semiurbano|07
+26737|Villas de Vista Hermosa|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|3168|Urbano|07
+26737|Las Vírgenes|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|3169|Urbano|07
+26738|Las Granjas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0927|Semiurbano|07
+26739|El Nogal|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2297|Semiurbano|07
+26739|Lomas de La Virgen|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2935|Urbano|07
+26739|Santo Domingo|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2314|Semiurbano|07
+26739|López Huitrón|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0928|Urbano|07
+26740|Fundadores|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0929|Semiurbano|07
+26740|Magisterio|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2316|Semiurbano|07
+26740|Los Manzanos|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|3242|Urbano|07
+26741|Arboledas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2299|Semiurbano|07
+26742|Prolongación Fundadores|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0930|Semiurbano|07
+26747|Industrial|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0931|Semiurbano|07
+26748|Las Lomas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0932|Semiurbano|07
+26748|Las Palmas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2768|Urbano|07
+26749|Del Bosque|Ampliación|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||38|028|2766|Urbano|07
+26749|Del Bosque|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0933|Semiurbano|07
+26749|Privada Hacienda San Rafael|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|3098|Semiurbano|07
+26750|Centenario|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0934|Semiurbano|07
+26759|Ramón Federico Barrueto|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0935|Semiurbano|07
+26760|Francisco Sarabia|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0936|Semiurbano|07
+26763|El Venadito|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2294|Semiurbano|07
+26763|Sabinas 50 Aniversario II|Fraccionamiento|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||21|028|2319|Semiurbano|07
+26763|Sabinas 50 Aniversario I|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2318|Semiurbano|07
+26764|Guadalupe|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0937|Semiurbano|07
+26764|Luis Donaldo Colosio|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2291|Semiurbano|07
+26764|San Antonio|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2290|Semiurbano|07
+26765|Aurora|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0938|Semiurbano|07
+26766|El Mimbre|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2286|Semiurbano|07
+26766|Buenos Aires|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2293|Semiurbano|07
+26766|Nuevo Amanecer|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2287|Semiurbano|07
+26766|Atenas II|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2288|Semiurbano|07
+26766|San Joaquín|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2292|Semiurbano|07
+26766|Jorge B Cuellar|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0939|Semiurbano|07
+26767|Ferrocarrilera|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0940|Semiurbano|07
+26768|El Consuelo|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0941|Semiurbano|07
+26769|Atenas I|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|2289|Semiurbano|07
+26769|Los Ángeles INFONAVIT|Unidad habitacional|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||31|028|0942|Semiurbano|07
+26770|Coahuila|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0943|Semiurbano|07
+26779|Gobernadores|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0944|Semiurbano|07
+26780|Flores Magón|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0945|Semiurbano|07
+26788|Del Valle|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0946|Semiurbano|07
+26790|Chapultepec|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0947|Semiurbano|07
+26790|El Mezquite|Ejido|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||15|028|2767|Urbano|07
+26799|Lázaro Cárdenas|Colonia|Sabinas|Coahuila de Zaragoza|Sabinas|26701|05|26701||09|028|0948|Semiurbano|07
+26950|Barrio 2|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2772|Urbano|
+26950|Barrio 7|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2774|Urbano|
+26950|Nueva|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2777|Urbano|
+26950|El Mirador|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|3237|Urbano|
+26950|Agujita|Ejido|Sabinas|Coahuila de Zaragoza||26701|05|26701||15|028|0989|Rural|
+26950|Barrio Agujita|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2775|Urbano|
+26950|Villarreal|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2780|Urbano|
+26950|Cuauhtémoc|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2781|Urbano|
+26950|Barrio 4|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2773|Urbano|
+26950|Barrio Cocedores|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2776|Urbano|
+26950|Alberto González|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2779|Urbano|
+26950|Dávila|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2778|Urbano|
+26950|Barrio 1|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|2771|Urbano|
+26952|San Fernando|Ejido|Sabinas|Coahuila de Zaragoza||26701|05|26701||15|028|0991|Rural|
+26954|Valle Dorado|Fraccionamiento|Sabinas|Coahuila de Zaragoza||26701|05|26701||21|028|3174|Urbano|
+26954|Nuevo Barroterán|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|3099|Urbano|
+26960|Cloete Mineral|Zona federal|Sabinas|Coahuila de Zaragoza||26701|05|26701||34|028|0992|Rural|
+26960|Loma Alta|Colonia|Sabinas|Coahuila de Zaragoza||26701|05|26701||09|028|3221|Rural|
+26963|Puente Negro|Ejido|Sabinas|Coahuila de Zaragoza||26701|05|26701||15|028|0993|Rural|
+26980|Guadalupe Victoria (Pueblo Nuevo)|Ejido|Sabinas|Coahuila de Zaragoza||26701|05|26701||15|028|0994|Rural|

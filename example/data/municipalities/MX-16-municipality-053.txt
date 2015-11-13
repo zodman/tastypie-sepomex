@@ -1,0 +1,939 @@
+58000|Centro Histórico|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0002|Urbano|06
+58000|INFONAVIT El Pípila|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0001|Urbano|06
+58000|INFONAVIT Plan de Ayala|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0003|Urbano|06
+58002|Oficina Federal de Hacienda|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0005|Urbano|06
+58003|Archivo General Del Gobierno Del Estado de Michoacán|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0006|Urbano|06
+58004|Universidad Michoacana de San Nicolás de Hidalgo|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0007|Urbano|06
+58006|Secretaria de Salud|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0008|Urbano|06
+58007|Secretaria de La Reforma Agraria|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0009|Urbano|06
+58009|Palacio de Gobierno Del Estado de Michoacán|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0011|Urbano|06
+58010|Juárez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0012|Urbano|06
+58010|Molino de Parras|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0013|Urbano|06
+58012|Departamento de Prevención y Readaptación Social|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0015|Urbano|06
+58013|Supremo Tribunal de Justicia|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0016|Urbano|06
+58020|Cuauhtémoc|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0017|Urbano|06
+58020|Ventura Puente|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0018|Urbano|06
+58030|Morelos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0019|Urbano|06
+58040|Gustavo Díaz Ordaz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0023|Urbano|06
+58040|Felicitas del Río|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0022|Urbano|06
+58048|FOVISSSTE La Huerta|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0025|Urbano|06
+58048|Manuel Villalongín|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0026|Urbano|06
+58049|Ampliación Jardines del Toreo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0028|Urbano|06
+58049|Jardines del Toreo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0027|Urbano|06
+58050|Tlalpujahua|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0032|Urbano|06
+58050|La Pradera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0987|Urbano|06
+58050|Hacienda Peñasco|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0014|Urbano|06
+58050|Lomas de la Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0030|Urbano|06
+58050|Paseos de la Hacienda|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0031|Urbano|06
+58050|Cosmos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0029|Urbano|06
+58055|Villas de Fátima|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0033|Urbano|06
+58056|Ampliación Mariano Jiménez|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3924|Urbano|06
+58056|Los Fresnos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0035|Urbano|06
+58056|La Giralda|Condominio|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||10|053|0265|Urbano|06
+58056|Arboledas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0034|Urbano|06
+58056|Ampliación Los Fresnos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3645|Urbano|06
+58056|Ampliación Vista Hermosa|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3648|Urbano|06
+58056|General Mariano Jiménez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3663|Urbano|06
+58056|Vista Hermosa|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0036|Urbano|06
+58056|Villas Del Carmen|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3612|Urbano|06
+58056|Pinar de el Río|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3613|Urbano|06
+58057|Los Pinos de Michoacán|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0038|Urbano|06
+58058|Mirador de la Montaña|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3733|Urbano|06
+58058|Antares|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0470|Urbano|06
+58058|Morelia 450|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0039|Urbano|06
+58060|Real Universidad|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3927|Urbano|06
+58060|Residencial del Sur|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0041|Urbano|06
+58060|Real Tulipanes|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3926|Urbano|06
+58060|Diamante|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3650|Urbano|06
+58060|José María García Obeso|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3665|Urbano|06
+58060|Real Universidad II|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|6279|Urbano|06
+58060|Alberto Oviedo Mota|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0040|Urbano|06
+58060|Villa Universidad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0042|Urbano|06
+58066|Valle Quieto|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0043|Urbano|06
+58066|Ampliación Valle Quieto|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0044|Urbano|06
+58067|INFONAVIT Benito Juárez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0045|Urbano|06
+58069|INFONAVIT Villa Universidad|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0047|Urbano|06
+58069|Rincón Quieto|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0048|Urbano|06
+58070|Félix Ireta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0050|Urbano|06
+58078|Estrella|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4786|Urbano|06
+58078|Condominio Planetario|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0055|Urbano|06
+58079|Camelinas|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3678|Urbano|06
+58079|Virreyes|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0056|Urbano|06
+58080|Leona Vicario|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0061|Urbano|06
+58080|Hacienda de la Huerta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3664|Urbano|06
+58080|Ampliación Hacienda de la Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4790|Urbano|06
+58080|Congreso de Anáhuac|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3854|Urbano|06
+58080|La Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0058|Urbano|06
+58080|Arcoiris|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3412|Urbano|06
+58080|Colonial Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0057|Urbano|06
+58080|Ampliación La Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0059|Urbano|06
+58080|Praderas La Huerta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3655|Urbano|06
+58080|Bosques de la Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3649|Urbano|06
+58085|Balcones de Morelia|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|0063|Urbano|06
+58085|Rincón Santa Sofía|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3541|Urbano|06
+58085|Loma de la Floresta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3922|Urbano|06
+58086|Hermanos López Rayón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0064|Urbano|06
+58087|Paraíso de la Huerta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3703|Urbano|06
+58087|Paseo de la Castellana|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4839|Urbano|06
+58087|El Pueblito|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3006|Urbano|06
+58087|Rinconada La Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3598|Urbano|06
+58087|Los Duraznos|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4797|Urbano|06
+58087|Paseo de la Primavera|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|6278|Urbano|06
+58087|Rinconada los Fresnos|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|5549|Urbano|06
+58087|Prados de la Huerta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3718|Urbano|06
+58087|El Cerrito|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|0010|Urbano|06
+58087|La Camelina|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0067|Urbano|06
+58087|San Miguel|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3997|Urbano|06
+58087|Real San Diego|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|3753|Urbano|06
+58087|Paseo los Encinos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6273|Urbano|06
+58088|La Floresta Michoacana|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3540|Urbano|06
+58088|El Pastizal|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4822|Urbano|06
+58088|Josefa Ortiz de Domínguez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0069|Urbano|06
+58088|Fuentes de Morelia|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|0071|Urbano|06
+58088|Oro Jacarandas|Condominio|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||10|053|0472|Urbano|06
+58088|Los Naranjos|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|4948|Urbano|06
+58088|Las Magnolias|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6282|Urbano|06
+58088|INFONAVIT Juana Pavón|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||31|053|0070|Urbano|06
+58088|Jardines de Vista Bella|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3697|Urbano|06
+58088|Andrés Quintana Roo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0068|Urbano|06
+58088|Quintas del Sol|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|0486|Urbano|06
+58088|Valle Verde|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3414|Urbano|06
+58088|Jardines de Vista Bella II|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3732|Urbano|06
+58088|Salvador Iriarte Montes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4802|Urbano|06
+58089|Ampliación Nor-oeste La Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0072|Urbano|06
+58089|Santillán la Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0073|Urbano|06
+58089|Xangari|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0074|Urbano|06
+58090|Balcones de Santa María|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|0075|Urbano|06
+58090|Bugambilias|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0078|Urbano|06
+58090|Los Encinos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0080|Urbano|06
+58090|Ampliación Santa Cecilia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0085|Urbano|06
+58090|Condominio Residencial Plaza|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|3661|Urbano|06
+58090|Camino Real|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3679|Urbano|06
+58090|Las Torrecillas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0077|Urbano|06
+58090|Ampliación Los Encinos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0081|Urbano|06
+58090|La Lomita|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3715|Urbano|06
+58090|Santa Cecilia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0084|Urbano|06
+58090|Santa María de Guido|Pueblo|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||28|053|0086|Urbano|06
+58090|Rincón de Santa María|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|3928|Urbano|06
+58090|Lomas de Santa María|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0079|Urbano|06
+58090|El Monasterio|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3662|Urbano|06
+58090|Altos del Durazno|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4759|Urbano|06
+58090|Ampliación Balcones de Santa María|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0076|Urbano|06
+58090|Rincón de Vista Bella|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0083|Urbano|06
+58090|Rincón del Paraíso|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|6281|Urbano|06
+58090|Residencial Lima|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|4801|Urbano|06
+58090|Rey Tariácuri|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0082|Urbano|06
+58090|Vista Bella|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0087|Urbano|06
+58090|Quinta Cantera|Condominio|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||10|053|0478|Urbano|06
+58090|San Francisco|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3667|Urbano|06
+58090|Rincón del Cielo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4951|Urbano|06
+58093|Lago Paraíso|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|6047|Urbano|06
+58095|Cerro Verde|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3693|Urbano|06
+58095|Mirador del Valle|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6618|Urbano|06
+58095|Buenos Aires|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3586|Urbano|06
+58095|Praderas de la Loma|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3851|Urbano|06
+58095|Los Mirasoles|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4764|Urbano|06
+58095|Pradera del Sur|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0092|Urbano|06
+58095|Jardines del Sur|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4068|Urbano|06
+58095|Villas del Sur II|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|0052|Urbano|06
+58095|Colinas del Sur|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|0089|Urbano|06
+58095|Rector Díaz Rubio|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0090|Urbano|06
+58095|Peña Blanca|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0994|Urbano|06
+58095|Puerta Blanca|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3659|Urbano|06
+58095|Lomas del Sur III|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3717|Urbano|06
+58095|Lomas del Sur|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3751|Urbano|06
+58095|Lomas del Sur II|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3752|Urbano|06
+58095|Rafael Dávalos|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3759|Urbano|06
+58095|Praderas Paraíso|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3925|Urbano|06
+58095|Villas del Sur|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3931|Urbano|06
+58095|Campo Real|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6262|Urbano|06
+58095|Torres Altavista|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6264|Urbano|06
+58095|La Morita (Colonia la Morita)|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6363|Urbano|06
+58095|Lomas de la Joya|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|0091|Urbano|06
+58095|Loma Larga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3596|Urbano|06
+58095|Lomas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3716|Urbano|06
+58095|Valle Dorado del Sur|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3760|Urbano|06
+58095|Montevista|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4073|Urbano|06
+58095|Felipe Sandoval|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6263|Urbano|06
+58095|Loma Dorada del Sur|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3657|Urbano|06
+58095|Valle El Rosario|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3734|Urbano|06
+58095|Los Tucanes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4766|Urbano|06
+58095|Misión de San Diego|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||12|053|4819|Urbano|06
+58095|Puerto Banus|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4828|Urbano|06
+58095|Loma de Chapultepec|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|5960|Urbano|06
+58096|Valle del Durazno|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3710|Urbano|06
+58096|El Valle|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4761|Urbano|06
+58096|Ejército de Morelos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3920|Urbano|06
+58096|Los Gigantes|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4798|Urbano|06
+58096|Mesoamerica|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3850|Urbano|06
+58096|Ampliación El Valle|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6261|Urbano|06
+58096|Lomas del Durazno|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0093|Urbano|06
+58096|Puerta Blanca|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0485|Urbano|06
+58096|Ampliación Trincheras de Morelos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|1011|Urbano|06
+58096|Trincheras de Morelos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0096|Urbano|06
+58096|Los Sauces|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3597|Urbano|06
+58096|Rinconada Del Sur|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3654|Urbano|06
+58096|Flor Del Durazno|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3695|Urbano|06
+58096|10 de Junio|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|6353|Urbano|06
+58096|Loma Alta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|4762|Urbano|06
+58096|De las Culturas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4943|Urbano|06
+58096|Piedra Lisa|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0094|Urbano|06
+58097|José Trinidad Guido|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0099|Urbano|06
+58097|Cayetano Andrade|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0098|Urbano|06
+58097|Ampliación Cayetano Andrade|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|3626|Urbano|06
+58097|Villas de Santa María|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|4803|Urbano|06
+58097|Carlos Rivas Larrauri|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0097|Urbano|06
+58097|Ojo de Agua|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0100|Urbano|06
+58098|Purembe|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0102|Urbano|06
+58098|Lomas de Vista Bella|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0101|Urbano|06
+58098|Manuel Gutiérrez Najera|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|3923|Urbano|06
+58098|Sara Malfavón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0103|Urbano|06
+58099|Residencial Bosques|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||21|053|0105|Urbano|06
+58099|Nueva Jacarandas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58091|16|58091||09|053|0104|Urbano|06
+58100|Los Ángeles|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0107|Urbano|06
+58100|Valle Dorado Norte|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|6621|Urbano|06
+58100|San Guillermo|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|3668|Urbano|06
+58110|General Pedro María Anaya|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0110|Urbano|06
+58110|Santiaguito|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0114|Urbano|06
+58110|Ejidal Francisco Villa|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0109|Urbano|06
+58110|Prados Verdes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0113|Urbano|06
+58110|Juan José Codallos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4795|Urbano|06
+58110|Granjas del Maestro|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0111|Urbano|06
+58110|Jardines de Santiaguito|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4825|Urbano|06
+58110|Doctor Miguel Silva González|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3426|Urbano|06
+58114|La Joya|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0116|Urbano|06
+58114|Mirador de la Cantera|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|0176|Urbano|06
+58114|Ignacio Zaragoza|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0983|Urbano|06
+58114|INFONAVIT Loma Bonita|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||31|053|0117|Urbano|06
+58114|De las Canteras|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|5546|Urbano|06
+58114|Ampliación Popular Progreso|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0119|Urbano|06
+58114|Popular Progreso|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0118|Urbano|06
+58115|Ampliación Unidos Santa Cruz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0123|Urbano|06
+58115|Valle de los Reyes|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|3709|Urbano|06
+58115|Ampliación El Realito|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0121|Urbano|06
+58115|Volcanes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0124|Urbano|06
+58115|Lago I|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0120|Urbano|06
+58115|Jardines del Quinceo|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|3593|Urbano|06
+58115|Lago II|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0122|Urbano|06
+58115|El Lago 3|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3537|Urbano|06
+58116|Mariano Escobedo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0130|Urbano|06
+58116|Mártires de Uruapan|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0131|Urbano|06
+58116|Gertrudis Sánchez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0356|Urbano|06
+58116|León Guzmán|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|3658|Urbano|06
+58116|Torreón Nuevo|Ampliación|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||38|053|3583|Urbano|06
+58116|Torreón Nuevo IV|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|3803|Urbano|06
+58116|Villas del Real|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0133|Urbano|06
+58116|La Factoría|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|0166|Urbano|06
+58116|Punta Floresta|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||31|053|0487|Urbano|06
+58116|Solidaridad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3601|Urbano|06
+58116|José María Arteaga|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|4838|Urbano|06
+58116|Torreón Nuevo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0476|Urbano|06
+58116|Ampliación Solidaridad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4938|Urbano|06
+58116|Rinconada de Morelia|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|3706|Urbano|06
+58116|Paseo Esmeralda|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|5963|Urbano|06
+58116|Loma Real|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0129|Urbano|06
+58116|Torreón Nuevo II|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|3669|Urbano|06
+58116|Torreón Nuevo III|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|3720|Urbano|06
+58116|Cruz del Barreno|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0125|Urbano|06
+58116|Ampliación Mariano Escobedo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3646|Urbano|06
+58116|Villas del Real (Poniente)|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4788|Urbano|06
+58116|El Realito|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0127|Urbano|06
+58116|Josefa Ocampo de Mata|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0128|Urbano|06
+58116|Vicente Riva Palacio|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0132|Urbano|06
+58116|Ampliación Gertrudis Sánchez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0153|Urbano|06
+58116|Torreón Nuevo|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|3602|Urbano|06
+58116|Luis Córdoba Reyes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|6272|Urbano|06
+58117|Lomas del Tecnológico|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0134|Urbano|06
+58118|La Soledad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0137|Urbano|06
+58118|Francisco J. Múgica|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|0136|Urbano|06
+58118|Ampliación La Soledad (Norte)|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0469|Urbano|06
+58118|El Paraíso|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|6355|Urbano|06
+58118|Arboledas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|6356|Urbano|06
+58118|Ampliación La Soledad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0138|Urbano|06
+58118|Bicentenario|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4935|Urbano|06
+58118|Barrio Alto|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0135|Urbano|06
+58120|Lomas de Santiaguito|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0142|Urbano|06
+58120|INDECO Santiaguito|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0145|Urbano|06
+58120|FOVISSSTE Santiaguito|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||31|053|0143|Urbano|06
+58120|Enrique Arreguín Vélez|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|0141|Urbano|06
+58127|Lomas de San Juan|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0147|Urbano|06
+58127|Felipe Carrillo Puerto|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0146|Urbano|06
+58127|Precursores de la Revolución|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0148|Urbano|06
+58128|Profesor Jesús Romero Flores|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0150|Urbano|06
+58128|Santa Fe Sur|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|5964|Urbano|06
+58128|Tres de Agosto|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3001|Urbano|06
+58128|Clara Córdoba|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3587|Urbano|06
+58128|Santa Fe|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|3600|Urbano|06
+58128|Las Jacarandas|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||12|053|3852|Urbano|06
+58128|El Sabino|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||21|053|6358|Urbano|06
+58128|Satélite|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4076|Urbano|06
+58128|Alfonso García Robles|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0149|Urbano|06
+58128|Centenario|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|4936|Urbano|06
+58130|Industrial|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0152|Urbano|06
+58130|Obrera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58111|16|58111||09|053|0154|Urbano|06
+58140|Esther Tapia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0157|Urbano|06
+58140|Popular Solidaria|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0165|Urbano|06
+58140|Jardines de Guadalupe|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0160|Urbano|06
+58140|Cuatro de Marzo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0156|Urbano|06
+58140|Irrigación|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0159|Urbano|06
+58140|Linda Vista|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0163|Urbano|06
+58140|Torres del Tepeyac|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0164|Urbano|06
+58140|Guadalupe|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0158|Urbano|06
+58140|Javier Mina|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0161|Urbano|06
+58140|INFONAVIT La Colina|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0162|Urbano|06
+58145|Centro SCT Michoacán|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0341|Urbano|06
+58146|José Trinidad Salgado|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0169|Urbano|06
+58146|La Quemada|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0171|Urbano|06
+58146|Francisca Xaviera Villegas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0167|Urbano|06
+58146|Ampliación Francisca Xaviera Villegas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0168|Urbano|06
+58146|INFONAVIT Justo Mendoza|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0170|Urbano|06
+58146|INFONAVIT La Quemada|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0172|Urbano|06
+58146|Mártires de la Plaza|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0173|Urbano|06
+58147|Francisco Zarco|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3620|Urbano|06
+58147|Ampliación Dos de Diciembre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6046|Urbano|06
+58147|Bosques del Quinceo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4760|Urbano|06
+58147|Leandro Valle|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0175|Urbano|06
+58147|INFONAVIT Rafael Carrillo|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0177|Urbano|06
+58147|Catorce de Febrero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3015|Urbano|06
+58147|Dos de Diciembre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|5537|Urbano|06
+58147|Defensores de Puebla|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0174|Urbano|06
+58147|Lucio Cabañas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3017|Urbano|06
+58147|Mercado República|Zona comercial|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||33|053|4071|Urbano|06
+58147|Hermosa Provincia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4945|Urbano|06
+58147|Veintiseis de Julio|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3636|Urbano|06
+58147|Ricardo Flores Magón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3604|Urbano|06
+58147|Reforma|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0178|Urbano|06
+58147|Mirador Poniente|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3016|Urbano|06
+58147|El Dorado|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3619|Urbano|06
+58148|Emiliano Zapata|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0179|Urbano|06
+58148|Los Álamos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0182|Urbano|06
+58148|Ampliación Félix Arreguin|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6277|Urbano|06
+58148|Félix Arreguín|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0180|Urbano|06
+58148|José María Morelos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0181|Urbano|06
+58148|Wenceslao Victoria|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0183|Urbano|06
+58149|Ampliación Eduardo Ruíz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0185|Urbano|06
+58149|Ampliación Batalla de Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3660|Urbano|06
+58149|Vistas del Quinceo|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0115|Urbano|06
+58149|José María de Cabrera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3698|Urbano|06
+58149|El Resplandor|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6251|Urbano|06
+58149|Villa Hermosa|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6622|Urbano|06
+58149|Quinceo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0358|Urbano|06
+58149|Praderas del Quinceo|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3876|Urbano|06
+58149|Guillermo Prieto I|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6270|Urbano|06
+58149|Las Higueras|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6362|Urbano|06
+58149|Nuevo Horizonte|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0480|Urbano|06
+58149|La Aurora|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3996|Urbano|06
+58149|Eduardo Ruiz (Norte)|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4067|Urbano|06
+58149|Valentín Gómez Farías|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4396|Urbano|06
+58149|Eduardo Ruiz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0184|Urbano|06
+58149|Sebastián Lerdo de Tejada|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3607|Urbano|06
+58149|Nicolaitas Ilustres|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3634|Urbano|06
+58149|Gobernador Gildardo Magaña|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3019|Urbano|06
+58149|Batalla de Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3585|Urbano|06
+58149|Villas de la Esperanza|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4280|Urbano|06
+58149|Ignacio Ramírez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0186|Urbano|06
+58149|Unidos Santa Cruz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0187|Urbano|06
+58149|Niños Héroes de Chapultepec|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3603|Urbano|06
+58149|INFONAVIT Constitución de 1857|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|3637|Urbano|06
+58149|Mirador del Quinceo|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3728|Urbano|06
+58149|Nicolás de Régules|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3875|Urbano|06
+58149|Guillermo Prieto II|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6271|Urbano|06
+58150|Bocanegra|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0188|Urbano|06
+58150|Jacarandas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0189|Urbano|06
+58150|Plan de Ayutla|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0191|Urbano|06
+58150|Tres Puentes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0192|Urbano|06
+58158|Ampliación Carlos Salazar|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0194|Urbano|06
+58158|Carlos Salazar|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0193|Urbano|06
+58158|Primo Tapia (Poniente)|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0998|Urbano|06
+58160|Melchor Ocampo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0200|Urbano|06
+58160|El Porvenir|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0195|Urbano|06
+58160|Las Margaritas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0197|Urbano|06
+58160|Mauricio Martínez Solano|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0199|Urbano|06
+58160|Las Flores|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0196|Urbano|06
+58160|Ampliación Las Margaritas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0198|Urbano|06
+58168|Santa Anita|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0202|Urbano|06
+58168|Ampliación El Porvenir|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0201|Urbano|06
+58170|INFONAVIT Lomas del Valle|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0204|Urbano|06
+58170|Lomas del Valle|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0203|Urbano|06
+58175|Ejidal Tres Puentes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0206|Urbano|06
+58178|Las Mariposas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0207|Urbano|06
+58178|Libertad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0208|Urbano|06
+58178|Sentimientos de la Nación|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0209|Urbano|06
+58179|Villas del Sol|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3608|Urbano|06
+58179|Héroes de Bajan|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0210|Urbano|06
+58179|Jaujilla|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0211|Urbano|06
+58179|Valerio Trujano|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0212|Urbano|06
+58180|Adolfo López Mateos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0213|Urbano|06
+58180|INFONAVIT Adolfo López Mateos|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0215|Urbano|06
+58180|Adolfo López Mateos (Oriente)|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4834|Urbano|06
+58180|Ampliación Adolfo López Mateos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0214|Urbano|06
+58180|Los Ejidos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0216|Urbano|06
+58183|Hacienda de San Diego|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|5464|Urbano|06
+58186|INFONAVIT Los Manantiales|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0220|Urbano|06
+58186|INFONAVIT José Sixto Verduzco|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0219|Urbano|06
+58186|Campestre los Manantiales|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0218|Urbano|06
+58186|Las Higueras|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3012|Urbano|06
+58187|Las Águilas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0222|Urbano|06
+58187|INFONAVIT Juan Aldama|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0221|Urbano|06
+58188|Manantiales Poniente|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0060|Urbano|06
+58188|Ampliación Los Manantiales|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0223|Urbano|06
+58188|Los Manantiales de Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0224|Urbano|06
+58189|Vicente Guerrero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0226|Urbano|06
+58189|Rincón de Agua Clara|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6274|Urbano|06
+58189|Agua Clara|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0225|Urbano|06
+58190|Valladolid|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3635|Urbano|06
+58190|Rector Hidalgo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0231|Urbano|06
+58190|INDECO Expropiación Petrolera|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0228|Urbano|06
+58190|Alcaide Ignacio Pérez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0229|Urbano|06
+58190|Nueva Valladolid|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0230|Urbano|06
+58190|Real Valladolid|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4765|Urbano|06
+58190|Agustín Arriaga Rivera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0227|Urbano|06
+58191|Procuraduria General de Justicia|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0232|Urbano|06
+58192|Secretaria de Educación Publica|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||22|053|0233|Urbano|06
+58194|Praderas de Morelia|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3009|Urbano|06
+58194|Las Pampas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3729|Urbano|06
+58195|Mariano Ontiveros|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3666|Urbano|06
+58195|Los Ciruelos|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0054|Urbano|06
+58195|Arboleda de la Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0239|Urbano|06
+58195|Mariano Michelena|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0242|Urbano|06
+58195|Rincón de La Santa Cruz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3008|Urbano|06
+58195|Puerta Nogal|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0065|Urbano|06
+58195|Finca Campestre|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0155|Urbano|06
+58195|INFONAVIT Prensa Insurgente|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|3630|Urbano|06
+58195|Máximo Bravo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4949|Urbano|06
+58195|Santa Martha|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6260|Urbano|06
+58195|Las Huertas Country|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3588|Urbano|06
+58195|La Calera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3595|Urbano|06
+58195|Ampliación Mariano Michelena|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3643|Urbano|06
+58195|Ampliación Servando Teresa de Mier|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|5954|Urbano|06
+58195|Panteón el Vergel|Equipamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||17|053|0284|Urbano|06
+58195|Hacienda del Valle|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3748|Urbano|06
+58195|Ampliación Club Campestre La Huerta|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4789|Urbano|06
+58195|Hacienda los Viñedos|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|4944|Urbano|06
+58195|Nuevo Vergel|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6259|Urbano|06
+58195|Ampliación Ana María Gallaga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0238|Urbano|06
+58195|Constituyentes de Apatzingán de 1814|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0240|Urbano|06
+58195|Doctor José María Coss|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0241|Urbano|06
+58195|Vergel de las Flores|Condominio|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||10|053|0474|Urbano|06
+58195|Loma de Los Viñedos|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|4070|Urbano|06
+58195|Campo Bello|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0255|Urbano|06
+58195|Ampliación Hacienda del Valle|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0468|Urbano|06
+58195|Niños Héroes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3591|Urbano|06
+58195|Constitución de Apatzingán|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3629|Urbano|06
+58195|Insurgentes de Valladolid|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3631|Urbano|06
+58195|Escritor de la Independencia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4823|Urbano|06
+58195|La Campiña|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|4946|Urbano|06
+58195|Ana María Gallaga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0237|Urbano|06
+58195|Sitio de Cuautla|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0243|Urbano|06
+58195|Tabiqueros|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0479|Urbano|06
+58195|Hacienda La Trinidad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3010|Urbano|06
+58195|Rincón de la Trinidad|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3704|Urbano|06
+58195|Campestre del Vergel|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3730|Urbano|06
+58195|Ampliación Campestre del Vergel|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6258|Urbano|06
+58195|Servando Teresa de Mier|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|6287|Urbano|06
+58195|Bello Horizonte|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|6293|Urbano|06
+58196|Solear Torremolinos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6275|Urbano|06
+58196|INDECO El Vivero|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0244|Urbano|06
+58197|Jardines de Torremolinos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0246|Urbano|06
+58197|Hermenegildo Galeana|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3696|Urbano|06
+58197|Carlos María de Bustamante|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0245|Urbano|06
+58197|Princesa Eréndira|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0278|Urbano|06
+58197|Villas Morelianas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0053|Urbano|06
+58197|Jardines de la Loma|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0066|Urbano|06
+58197|Ampliación Jardines de Torremolinos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0247|Urbano|06
+58197|Congreso de Chilpancingo|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4836|Urbano|06
+58197|Residencial San José de la Huerta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3727|Urbano|06
+58199|INFONAVIT CEPAMISA|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0248|Urbano|06
+58200|Parque Industrial|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|4074|Urbano|06
+58200|Bosques Tres Marías (Sección Departamentos)|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|4066|Urbano|06
+58200|Ciudad Industrial|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0249|Urbano|06
+58200|Lomas del Bosque|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|4276|Urbano|06
+58200|Cañadas del Bosque|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6265|Urbano|06
+58200|Bosques Tres Marías|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|3870|Urbano|06
+58210|Artículo 27 Constitucional|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0250|Urbano|06
+58210|Ampliación Isaac Arriaga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0254|Urbano|06
+58210|Torres Revolución|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6276|Urbano|06
+58210|Independencia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0252|Urbano|06
+58210|Isaac Arriaga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0253|Urbano|06
+58210|Lomas de Morelia|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0251|Urbano|06
+58216|Bosques de Oriente|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0257|Urbano|06
+58217|Primo Tapia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0258|Urbano|06
+58218|José María Pino Suárez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3594|Urbano|06
+58218|Aquiles Serdán|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0259|Urbano|06
+58218|Salvador Escalante|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0264|Urbano|06
+58218|División del Norte|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0262|Urbano|06
+58218|Ampliación Aquiles Serdán|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3644|Urbano|06
+58218|Elías Pérez Ávalos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0263|Urbano|06
+58218|Ampliación División del Norte|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0126|Urbano|06
+58218|Canteras|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0260|Urbano|06
+58218|Central de Abastos|Zona comercial|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||33|053|0261|Urbano|06
+58219|Constituyentes de Querétaro|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0267|Urbano|06
+58219|Congreso Constituyente de Michoacán|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0266|Urbano|06
+58219|Martín Castrejón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0271|Urbano|06
+58219|Ampliación Veinte de Noviembre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0275|Urbano|06
+58219|Joaquín Amaro|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0269|Urbano|06
+58219|Salvador Alcaraz Romero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0273|Urbano|06
+58219|Diego Rivera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0268|Urbano|06
+58219|Julián Bonavit|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0270|Urbano|06
+58219|Veinte de Noviembre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0274|Urbano|06
+58220|Enrique Ramírez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0276|Urbano|06
+58226|Nueva Unión|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|3656|Urbano|06
+58226|Unión|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0277|Urbano|06
+58226|Ilustres Novohispanos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3714|Urbano|06
+58226|Nuevo Amanecer|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3003|Urbano|06
+58227|Vicente Lombardo Toledano|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3932|Urbano|06
+58228|La Primavera|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3621|Urbano|06
+58228|Buenavista II|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0280|Urbano|06
+58228|Virrey Antonio de Mendoza|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0281|Urbano|06
+58228|Buenavista I|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0279|Urbano|06
+58229|Lázaro Cárdenas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0282|Urbano|06
+58230|Vasco de Quiroga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0285|Urbano|06
+58230|Cinco de Mayo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0283|Urbano|06
+58240|Lomas de Guayangareo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0288|Urbano|06
+58240|Lomas de Hidalgo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0289|Urbano|06
+58240|Eréndira|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0287|Urbano|06
+58240|Matamoros|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0290|Urbano|06
+58244|INFONAVIT Lomas de Hidalgo|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||31|053|0291|Urbano|06
+58245|Virreyes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0292|Urbano|06
+58248|Hospitales de Don Vasco|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0294|Urbano|06
+58249|El Mirador del Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0295|Urbano|06
+58250|Pascual Ortiz de Ayala|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0298|Urbano|06
+58250|Residencial Rey Chimalpopoca|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||31|053|0299|Urbano|06
+58250|Insurgentes|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0296|Urbano|06
+58253|El Ejido de Atapaneo|Ranchería|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||29|053|6302|Urbano|06
+58253|Colinas del Sol|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|5956|Urbano|06
+58254|Terrazas Tres Marías IV|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|0049|Urbano|06
+58254|Puerta Tres Marías Norte|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0088|Urbano|06
+58254|Fray Antonio de Lisboa|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0303|Urbano|06
+58254|Ampliación Lomas del Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0304|Urbano|06
+58254|Monte Vento|Condominio|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||10|053|0471|Urbano|06
+58254|Faldas del Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3652|Urbano|06
+58254|Real Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|4800|Urbano|06
+58254|Colegios Novohispanos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6254|Urbano|06
+58254|Valle de Mil Cumbres|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|6288|Urbano|06
+58254|Francisco Xavier Clavijero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0302|Urbano|06
+58254|Ana Sofía|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|4831|Urbano|06
+58254|Condominio Jacarandas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|4941|Urbano|06
+58254|Lomas de las Américas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3425|Urbano|06
+58254|Terrazas Tres Marías III|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|4077|Urbano|06
+58254|Los Cedros|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|4763|Urbano|06
+58254|Los Pirules|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|6360|Urbano|06
+58254|Mil Cumbres|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0305|Urbano|06
+58254|Valle del Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0307|Urbano|06
+58254|Puerta Tres Marías Sur II|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0477|Urbano|06
+58254|Valle de las Flores|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3611|Urbano|06
+58254|Horizontes de Morelia|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|3681|Urbano|06
+58254|Mandarinos|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|4277|Urbano|06
+58254|Terrazas Zero|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|4950|Urbano|06
+58254|Fresnos Oriente II|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6256|Urbano|06
+58254|Paseo del Parque|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6257|Urbano|06
+58254|Fresnos Oriente|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|4794|Urbano|06
+58254|Corporativos Tres Marías|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6255|Urbano|06
+58254|Orquídeas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0024|Urbano|06
+58254|Puerta Tres Marías Sur|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0095|Urbano|06
+58254|Ampliación Mil Cumbres|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0306|Urbano|06
+58254|México|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|3702|Urbano|06
+58254|Terrazas Tres Marías|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|3929|Urbano|06
+58254|Terrazas Tres Marías II|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|3930|Urbano|06
+58254|Centro de Negocios|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|5538|Urbano|06
+58254|Alonso de la Veracruz|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6252|Urbano|06
+58254|Bartolomé de las Casas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|6253|Urbano|06
+58254|Los Olivos|Condominio|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||10|053|6617|Urbano|06
+58254|Argos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0301|Urbano|06
+58254|Tres Marías|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|3708|Urbano|06
+58254|Rincón del Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|4278|Urbano|06
+58255|San Rafael|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0310|Urbano|06
+58255|Eucaliptos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0308|Urbano|06
+58255|Residencial Lancaster|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0309|Urbano|06
+58256|Lomas del Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0311|Urbano|06
+58256|Cumbre Toscana|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|6615|Urbano|06
+58257|Paseo de las Lomas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0312|Urbano|06
+58258|Diego de Basalenque|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0315|Urbano|06
+58258|Nuevo Punhuato|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0319|Urbano|06
+58258|Antonio Alzate|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|4792|Urbano|06
+58258|Ampliación Dieciocho de Mayo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0314|Urbano|06
+58258|Villas de Lancaster|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||12|053|3804|Urbano|06
+58258|Paraíso Monarca|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0062|Urbano|06
+58258|Portales de Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0320|Urbano|06
+58258|Dieciocho de Mayo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0313|Urbano|06
+58258|Ampliación Nicolás Romero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3647|Urbano|06
+58258|Loma Libre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0317|Urbano|06
+58258|Doce de Diciembre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0316|Urbano|06
+58258|Nicolás Romero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0318|Urbano|06
+58259|FOVISSSTE Acueducto|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||31|053|0321|Urbano|06
+58260|Chapultepec Oriente|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0323|Urbano|06
+58260|Chapultepec Norte|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0322|Urbano|06
+58260|Punta Terraverde|Condominio|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||10|053|0106|Urbano|06
+58260|Chapultepec Sur|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0324|Urbano|06
+58261|Secretaria de Agricultura Ganadería y Desarrollo Rural|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||22|053|0327|Urbano|06
+58270|Rincón de Ocolusen|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|1005|Urbano|06
+58270|La Rinconada|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0332|Urbano|06
+58270|Américas Britania|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|0333|Urbano|06
+58270|Jardines del Rincón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0330|Urbano|06
+58270|Las Américas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|3853|Urbano|06
+58270|Rincón Bugambilias|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0334|Urbano|06
+58270|Poblado Ocolusen|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0995|Urbano|06
+58270|Real Mil Cumbres|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|3719|Urbano|06
+58277|Punta Alba|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|5550|Urbano|06
+58277|Del Periodista|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0335|Urbano|06
+58277|La Floresta|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|3413|Urbano|06
+58277|Fray Antonio de San Miguel Iglesias|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0336|Urbano|06
+58277|Punta Alba III|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||31|053|0473|Urbano|06
+58278|Cumbres Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0337|Urbano|06
+58280|Del Empleado|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0339|Urbano|06
+58280|Nueva Chapultepec|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0340|Urbano|06
+58280|Cinco de Diciembre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0338|Urbano|06
+58290|Camelinas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0347|Urbano|06
+58290|Bosque Camelinas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0343|Urbano|06
+58290|Electricistas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0345|Urbano|06
+58290|Comisión Federal de Electricidad|Gran usuario|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||22|053|0344|Urbano|06
+58290|INFONAVIT Camelinas|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||31|053|0348|Urbano|06
+58290|La Loma|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0346|Urbano|06
+58295|Ejidal Ocolusen|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0349|Urbano|06
+58295|Terrazas del Campestre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0350|Urbano|06
+58296|Club Campestre de Morelia|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0351|Urbano|06
+58297|Prados del Campestre|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0353|Urbano|06
+58297|Ejido Jesús del Monte|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||21|053|5465|Urbano|06
+58297|Cundagua|Colonia|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||09|053|0352|Urbano|06
+58297|Torres Panorama|Condominio|Morelia|Michoacán de Ocampo|Morelia|58241|16|58241||10|053|0151|Urbano|06
+58300|Ampliación La Nueva Aldea|Conjunto habitacional|Morelia|Michoacán de Ocampo||58241|16|58241||12|053|4065|Urbano|
+58300|Serapio Rendón|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|5540|Urbano|
+58300|La Nueva Aldea (Fracción E)|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|0483|Urbano|
+58300|Filomeno Mata|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|4824|Urbano|
+58300|El Sauce|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|5957|Urbano|
+58300|La Nueva Aldea|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|3758|Rural|
+58300|La Ladera Oriente|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|5958|Urbano|
+58300|Villas Oriente|Unidad habitacional|Morelia|Michoacán de Ocampo||58241|16|58241||31|053|0475|Urbano|
+58300|Huertos de Atapaneo|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|3672|Rural|
+58300|Lomas de la Aldea|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|3724|Urbano|
+58300|Pablo González Casanova|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|4799|Rural|
+58300|La Aldea|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|0357|Urbano|
+58300|La Nueva Aldea II|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|3921|Rural|
+58300|El Río|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|6616|Urbano|
+58300|Nueva Floresta|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|4827|Urbano|
+58300|Francisco I. Madero|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|6269|Urbano|
+58300|Campestre las Cabañas|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|6357|Rural|
+58300|Camposanto|Fraccionamiento|Morelia|Michoacán de Ocampo||58241|16|58241||21|053|6614|Urbano|
+58300|Natalio Vázquez Pallares|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|4826|Urbano|
+58300|Atapaneo|Pueblo|Morelia|Michoacán de Ocampo||58241|16|58241||28|053|0354|Rural|
+58300|Lucio Blanco|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|3857|Urbano|
+58301|Río Bello (El Campamento)|Ranchería|Morelia|Michoacán de Ocampo||58241|16|58241||29|053|0360|Rural|
+58301|El Laurelito (La Izama)|Ranchería|Morelia|Michoacán de Ocampo||58241|16|58241||29|053|6371|Rural|
+58301|San José de las Torres|Poblado comunal|Morelia|Michoacán de Ocampo||58241|16|58241||27|053|0361|Rural|
+58301|Los Pirules (La Estancia)|Ranchería|Morelia|Michoacán de Ocampo||58241|16|58241||29|053|0359|Rural|
+58302|Puerto de Buenavista|Colonia|Morelia|Michoacán de Ocampo||58241|16|58241||09|053|0362|Urbano|
+58303|Francisco J. Múgica Velázquez|Pueblo|Morelia|Michoacán de Ocampo||58241|16|58241||28|053|0363|Rural|
+58304|Misión del Valle IV|Conjunto habitacional|Morelia|Michoacán de Ocampo||58111|16|58111||12|053|4072|Urbano|
+58304|Sufragio Femenino Mexicano|Conjunto habitacional|Morelia|Michoacán de Ocampo||58111|16|58111||12|053|4279|Rural|
+58304|Ampliación la Palma|Colonia|Morelia|Michoacán de Ocampo||58111|16|58111||09|053|6613|Urbano|
+58304|La Palma|Fraccionamiento|Morelia|Michoacán de Ocampo||58111|16|58111||21|053|5959|Urbano|
+58304|Misión del Valle II|Conjunto habitacional|Morelia|Michoacán de Ocampo||58111|16|58111||12|053|3856|Urbano|
+58304|José Vasconcelos|Colonia|Morelia|Michoacán de Ocampo||58111|16|58111||09|053|4932|Urbano|
+58304|Misión del Valle III|Conjunto habitacional|Morelia|Michoacán de Ocampo||58111|16|58111||12|053|3998|Urbano|
+58304|Misión del Valle|Conjunto habitacional|Morelia|Michoacán de Ocampo||58111|16|58111||12|053|3761|Urbano|
+58310|La Presa (La Presa de Chiquimitío)|Poblado comunal|Morelia|Michoacán de Ocampo||58111|16|58111||27|053|0366|Rural|
+58310|La Carbonera|Ranchería|Morelia|Michoacán de Ocampo||58111|16|58111||29|053|6318|Rural|
+58310|Cotzurio|Ranchería|Morelia|Michoacán de Ocampo||58111|16|58111||29|053|0364|Rural|
+58310|Chiquimitío|Pueblo|Morelia|Michoacán de Ocampo||58111|16|58111||28|053|0365|Rural|
+58312|San Pedro Chicácuaro|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0368|Rural|
+58312|Tiristarán|Hacienda|Morelia|Michoacán de Ocampo||58011|16|58011||24|053|0369|Rural|
+58312|El Fresno|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6303|Rural|
+58312|Asiento de Piedra (El Chirihuindo)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0367|Rural|
+58313|La Soledad|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6327|Rural|
+58313|La Tuna Manza|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6328|Rural|
+58313|Jerécuaro|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6315|Rural|
+58313|El Pino (El Pino Cuate)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6306|Rural|
+58313|Los Cuervos|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|6333|Rural|
+58314|María Auxiliadora (Casa Hogar)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6296|Rural|
+58314|Colonia Luis Donaldo Colosio|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6297|Rural|
+58314|13 de Abril|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|0481|Rural|
+58314|Colonia Mujeres Mexicanas|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6298|Rural|
+58317|Buenos Aires|Ranchería|Morelia|Michoacán de Ocampo||58111|16|58111||29|053|6370|Rural|
+58317|La Amargosilla|Ranchería|Morelia|Michoacán de Ocampo||58111|16|58111||29|053|6316|Rural|
+58317|El Porvenir (Rancho de Jesús)|Ejido|Morelia|Michoacán de Ocampo||58111|16|58111||15|053|0370|Rural|
+58320|Teremendo de los Reyes|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0371|Rural|
+58321|Tzintzimacato Grande|Hacienda|Morelia|Michoacán de Ocampo||58011|16|58011||24|053|0375|Rural|
+58321|Zajo Chico|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0376|Rural|
+58321|San Antonio Carupo|Congregación|Morelia|Michoacán de Ocampo||58011|16|58011||11|053|0374|Rural|
+58321|La Alberca|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0373|Rural|
+58321|Coro Grande|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0372|Rural|
+58321|Zajo Grande|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0377|Rural|
+58322|Tzintzimacato Chico|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0378|Rural|
+58323|Terehuicho|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0380|Rural|
+58323|Aracurio|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0379|Rural|
+58324|Teremendo Jasso|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0381|Rural|
+58330|El Cerrito Itzicuaro|Ejido|Morelia|Michoacán de Ocampo||58011|16|58011||15|053|0383|Rural|
+58330|La Concepción|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0386|Rural|
+58330|El Resumidero|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0387|Rural|
+58330|Itzicuaro|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|3632|Rural|
+58330|Villa Magna|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|3711|Urbano|
+58330|Villa Magna IV|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3755|Urbano|
+58330|Villas del Pedregal|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|3855|Urbano|
+58330|La Hacienda|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3684|Urbano|06
+58330|Río Florido|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|0388|Rural|
+58330|Villa Magna III|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3754|Urbano|
+58330|Villas del Pedregal IV|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|0051|Urbano|
+58330|Del Bosque|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|3694|Rural|
+58330|Villas del Pedregal III|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|4281|Urbano|
+58330|Cuto de La Esperanza|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0382|Rural|
+58330|San Lorenzo Itzicuaro|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|0389|Rural|
+58330|Margarita Morán|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|0482|Urbano|
+58330|Ignacio Allende|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|0385|Rural|
+58330|Lomas de La Maestranza|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3685|Rural|
+58330|Cerritos|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|4940|Rural|
+58330|El Potrero|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|0384|Rural|
+58330|Villas del Pedregal II|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|4832|Urbano|
+58330|Jardín de la Montaña|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|0020|Urbano|
+58330|Ampliación Río Florido|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|4835|Urbano|
+58330|Ampliación La Palma Poniente|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|6612|Urbano|
+58331|2 de Octubre|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|6291|Urbano|
+58331|Guadalupe (Capula)|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|6292|Urbano|
+58331|Buenavista|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0390|Rural|
+58331|Capula|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0391|Urbano|
+58332|El Progreso|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|3640|Rural|
+58332|Cuanajillo del Toro|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|3871|Rural|
+58332|Parastaco|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6334|Rural|
+58332|Paseos de Morelia|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|6619|Rural|
+58332|Cuanajillo Grande|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0392|Rural|
+58332|Tacícuaro|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0393|Rural|
+58332|Hacienda Real de La Mina|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3653|Rural|
+58333|Iratzio|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|0394|Rural|
+58333|Jardines de Iratzio|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3683|Rural|
+58334|El Correo|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0395|Rural|
+58334|El Pino del Rayo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6307|Rural|
+58335|Joyitas|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0396|Rural|
+58335|San Bernabé|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0398|Rural|
+58335|Montaña Dorada|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|6286|Rural|
+58335|Las Trojes|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0397|Rural|
+58335|La Luz|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6323|Rural|
+58336|Las Garzas|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|3617|Rural|
+58336|La Luz|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3737|Rural|
+58336|Villas de la Loma III|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|3735|Urbano|
+58336|San Jose Itzicuaro|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0399|Rural|
+58336|Villas de la Loma|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|3726|Urbano|
+58336|Villas de la Loma II|Conjunto habitacional|Morelia|Michoacán de Ocampo||58011|16|58011||12|053|3725|Urbano|
+58337|San Mateo III|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0108|Urbano|06
+58337|Hacienda Cipres|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|0140|Urbano|06
+58337|La Nueva Esperanza|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0406|Urbano|06
+58337|Lomas del Pedregal|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0408|Urbano|06
+58337|Rincón del Pedregal|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0414|Urbano|06
+58337|Rincón de la Ortiga|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3605|Urbano|06
+58337|Mariano Abasolo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3615|Urbano|06
+58337|Héroes Republicanos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3639|Urbano|06
+58337|Ciudad Jardín|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3642|Urbano|06
+58337|Jardines de la Aurora|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3673|Urbano|06
+58337|Ampliación Niño Artillero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4791|Urbano|06
+58337|Manuel García Pueblita|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0409|Urbano|06
+58337|Margarita Maza de Juárez|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0410|Urbano|06
+58337|Niño Artillero|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0412|Urbano|06
+58337|San Isidro Itzícuaro|Ranchería|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||29|053|0415|Urbano|06
+58337|Sindurio|Ranchería|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||29|053|0419|Urbano|06
+58337|Rincón del Ángel|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3641|Urbano|06
+58337|Hacienda de Tinijaro|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3671|Urbano|06
+58337|Juan Álvarez|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3699|Urbano|06
+58337|Leyes de Reforma|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3858|Urbano|06
+58337|El Ciprés|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4272|Urbano|06
+58337|San Gregorio|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6620|Urbano|06
+58337|San Mateo II|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4830|Urbano|06
+58337|Las Guares|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6361|Urbano|06
+58337|Loma Dorada|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3013|Urbano|06
+58337|Huertas del Poniente|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3638|Urbano|06
+58337|La Esperanza|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0405|Urbano|06
+58337|Defensores de la República|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3682|Urbano|06
+58337|San Isidro Itzícuaro|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6364|Urbano|06
+58337|Huertos Agua Azul|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0402|Urbano|06
+58337|Unión Antorchista|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|0418|Urbano|06
+58337|Ario 1815|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3618|Urbano|06
+58337|Patriotas Republicanos|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3675|Urbano|06
+58337|Las Peñas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3700|Urbano|06
+58337|Héroes de la Nación|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3873|Urbano|06
+58337|San Mateo|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4075|Urbano|06
+58337|La Insurgencia|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|4275|Urbano|06
+58337|Monte Blanco|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4770|Urbano|06
+58337|La Esperanza III|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4947|Urbano|06
+58337|Ampliación de San Isidro Itzícuaro|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6354|Urbano|06
+58337|San Gabriel|Condominio|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||10|053|0234|Urbano|06
+58337|Ampliación Ignacio López Rayón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0403|Urbano|06
+58337|Solear Poniente|Unidad habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||31|053|0488|Urbano|06
+58337|Rincón Tarasco|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3705|Urbano|06
+58337|El Parian (Poniente)|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|4273|Urbano|06
+58337|Agua Nueva|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|4767|Urbano|06
+58337|Villas Insurgentes|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3614|Urbano|06
+58337|Veintitres de Marzo|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|3628|Urbano|06
+58337|Residencial Tinijaro|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3676|Urbano|06
+58337|Ampliación Ciudad Jardín|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4064|Urbano|06
+58337|Jesús González Ortega|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4768|Urbano|06
+58337|Defensores de la República II|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|4837|Urbano|06
+58337|Benedicto López|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4939|Urbano|06
+58337|Camponubes|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|5545|Urbano|06
+58337|Ampliación San Pascual|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0004|Urbano|06
+58337|Las Palmas|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0144|Urbano|06
+58337|Rincón de los Fresnos|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0190|Urbano|06
+58337|Arboledas Valladolid|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0400|Urbano|06
+58337|Guadalupe Victoria|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0401|Urbano|06
+58337|Jardines de Sindurio|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0404|Urbano|06
+58337|Michoacán|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0411|Urbano|06
+58337|El Parian|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|0413|Urbano|06
+58337|San Pascual|Ranchería|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||29|053|0416|Urbano|06
+58337|Tinijaro|Ranchería|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||29|053|0417|Urbano|06
+58337|Lomas de la Aurora|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3616|Urbano|06
+58337|Rinconada de Tinijaro|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3677|Urbano|06
+58337|Villas del Parian|Conjunto habitacional|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||12|053|3712|Urbano|06
+58337|Héroes Insurgentes|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|3756|Urbano|06
+58337|Manantiales del Parian|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4769|Urbano|06
+58337|Ignacio López Rayón|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4787|Urbano|06
+58337|Congreso Hispanoamericano|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|4942|Urbano|06
+58337|Ejército de la República|Colonia|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||09|053|6266|Urbano|06
+58337|Las Peñitas|Fraccionamiento|Morelia|Michoacán de Ocampo|Morelia|58011|16|58011||21|053|6359|Urbano|06
+58338|Las Flores|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|0420|Rural|
+58340|San Nicolás Obispo|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0421|Rural|
+58341|Bosques de la Presa|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|0139|Urbano|
+58341|Emiliano Zapata|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|0422|Urbano|
+58341|Nicolás Bravo|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|5961|Rural|
+58341|Balneario el Ejido|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6373|Rural|
+58341|Socialista|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|0256|Urbano|
+58341|Simpanio Norte II|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|3848|Urbano|
+58341|Tenencia Morelos|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|0423|Urbano|
+58341|San José del Cerrito|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|0424|Urbano|
+58341|El Arquito|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|3651|Urbano|
+58341|Los Mezquites|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3701|Rural|
+58341|Ampliación Simpanio Norte|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|4309|Urbano|
+58341|CRISOBA Industrial (CEPAMISA)|Parque industrial|Morelia|Michoacán de Ocampo||58091|16|58091||26|053|6374|Rural|
+58341|Las Cocinas|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6375|Rural|
+58341|INDECO La Huerta|Unidad habitacional|Morelia|Michoacán de Ocampo||58091|16|58091||31|053|0236|Urbano|
+58341|San Juanito Itzicuaro|Poblado comunal|Morelia|Michoacán de Ocampo||58091|16|58091||27|053|0425|Rural|
+58341|San Antonio|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3707|Urbano|
+58341|Lomas de La Campiña|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|4796|Rural|
+58341|Simpanio Norte|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|0426|Urbano|
+58341|Pablo Galeana|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|3539|Urbano|
+58342|San Javier|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|0037|Rural|
+58342|El Rodeo (Las Praderas)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6311|Rural|
+58342|Manga Prieta|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0342|Rural|
+58342|San Antonio Parangare|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0429|Rural|
+58342|Uruapilla|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0430|Rural|
+58342|La Mintzita (Piedra Dura)|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|0428|Rural|
+58342|La Providencia|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6345|Rural|
+58342|Jardines de San Antonio|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|4274|Rural|
+58342|La Mora|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6344|Rural|
+58342|Rancho Prieto (Los Pinos)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6346|Rural|
+58343|Santa Rosalía|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0293|Rural|
+58343|Arroyo Colorado|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0431|Rural|
+58343|El Taray|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0432|Rural|
+58343|Santa Mónica|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6349|Rural|
+58343|Pueblo Viejo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0435|Rural|
+58343|Santiago Undameo|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0436|Rural|
+58343|Puerta Blanca|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6340|Rural|
+58343|La Ciénega (Torrecillas de Atécuaro)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6320|Rural|
+58343|La Sanguijuela|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6326|Rural|
+58343|Huertitas|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6313|Rural|
+58343|La Cofradía|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0433|Rural|
+58343|Las Cruces|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0434|Rural|
+58343|Los Cipreses|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|3633|Rural|
+58344|El Mesón Colorado|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|6305|Rural|
+58344|Isaac Arriaga (Noriega)|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|6314|Rural|
+58344|San Rafaelillo (La Haciendita)|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|6348|Rural|
+58344|San Rafael Coapa|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0438|Rural|
+58344|El Bañito|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0437|Rural|
+58344|La Providencia|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|6325|Rural|
+58344|Tiripetío|Pueblo|Morelia|Michoacán de Ocampo||58461|16|58461||28|053|0439|Rural|
+58345|El Barretero Tercera Etapa|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0407|Rural|
+58345|El Aguaje|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0331|Rural|
+58345|San José Coapa|Hacienda|Morelia|Michoacán de Ocampo||58011|16|58011||24|053|0444|Rural|
+58345|Nueva Florida|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0443|Rural|
+58345|Joya de Buenavista|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0440|Rural|
+58345|Joya de la Huerta|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0441|Rural|
+58345|Estación Jácuaro (Colonia la Reunión)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0442|Rural|
+58346|La Estancia|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|3757|Rural|
+58346|Patambo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6336|Rural|
+58346|El Escobal|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0445|Rural|
+58346|San Carlos Coapa|Hacienda|Morelia|Michoacán de Ocampo||58011|16|58011||24|053|0448|Rural|
+58346|La Palmita (La Trampa)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6324|Rural|
+58346|San Antonio Coapa|Hacienda|Morelia|Michoacán de Ocampo||58011|16|58011||24|053|0447|Rural|
+58346|La Valenciana|Fraccionamiento|Morelia|Michoacán de Ocampo||58011|16|58011||21|053|6285|Rural|
+58346|Cañada de Buena Vista|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6294|Rural|
+58346|El Reparo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0446|Rural|
+58346|Tirio|Poblado comunal|Morelia|Michoacán de Ocampo||58011|16|58011||27|053|0449|Rural|
+58346|Hermenegildo Galeana|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|3872|Rural|
+58347|Potrerillos|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0452|Rural|
+58347|La Yerbabuena|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0454|Rural|
+58347|San Miguel Coapa|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0453|Rural|
+58347|Chihuerio|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0450|Rural|
+58347|La Maiza|Ranchería|Morelia|Michoacán de Ocampo||58461|16|58461||29|053|0451|Rural|
+58348|Coíntzio|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|0455|Rural|
+58348|San Pedro|Conjunto habitacional|Morelia|Michoacán de Ocampo||58091|16|58091||12|053|4937|Rural|
+58350|Parque Sur|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3736|Urbano|
+58350|La Higuera|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|5547|Urbano|
+58350|Lartesi|Conjunto habitacional|Morelia|Michoacán de Ocampo||58091|16|58091||12|053|0021|Urbano|
+58350|Paseo de las Aves|Condominio|Morelia|Michoacán de Ocampo||58091|16|58091||10|053|0272|Urbano|
+58350|Coto del Ángel|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3670|Urbano|
+58350|Cruz de la Capilla|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3680|Urbano|
+58350|Esmeralda|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|6267|Urbano|
+58350|Sendero del Bosque|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|5965|Urbano|
+58350|Residencial Vivalto|Condominio|Morelia|Michoacán de Ocampo||58091|16|58091||10|053|6280|Urbano|
+58350|Monte Bello|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3674|Urbano|
+58350|Campobello|Conjunto habitacional|Morelia|Michoacán de Ocampo||58091|16|58091||12|053|5955|Urbano|
+58350|Paseo del Refugio|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|5962|Urbano|
+58350|Valle del Paraíso|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|0112|Urbano|
+58350|Jesús del Monte|Pueblo|Morelia|Michoacán de Ocampo||58091|16|58091||28|053|0457|Urbano|
+58350|Punta Monarca|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3877|Urbano|
+58350|Rincón de la Montaña II|Conjunto habitacional|Morelia|Michoacán de Ocampo||58091|16|58091||12|053|4829|Urbano|
+58350|Misión de la Montaña|Colonia|Morelia|Michoacán de Ocampo||58091|16|58091||09|053|6268|Urbano|
+58350|Montaña Monarca (Punta Altozano)|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|0484|Urbano|
+58350|Montaña Monarca I|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3722|Urbano|
+58350|Hacienda del Monte|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3723|Urbano|
+58350|Montaña Monarca III|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3721|Urbano|
+58350|Rincón de la Montaña|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|3878|Urbano|
+58350|Bosque Monarca|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|4271|Urbano|
+58350|Las Cruces|Conjunto habitacional|Morelia|Michoacán de Ocampo||58091|16|58091||12|053|4069|Urbano|
+58350|Campestre del Monte|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|4793|Urbano|
+58352|Rancho Viejo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6347|Rural|
+58352|El Landín|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0325|Rural|
+58352|El Reparo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6372|Rural|
+58352|Puente Hernández|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0300|Rural|
+58352|Nieves|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0459|Rural|
+58353|Ojo de Agua (Escorpión Potrerito)|Colonia|Morelia|Michoacán de Ocampo||58011|16|58011||09|053|6366|Rural|
+58353|La Ceja|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6369|Rural|
+58353|El Tejocote (La Cortina)|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0329|Rural|
+58353|Ojo de Agua|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0461|Rural|
+58353|Loma Caliente|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0460|Rural|
+58353|Palo Amarillo|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6367|Rural|
+58353|Puerto de Pinos|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6368|Rural|
+58355|Puente Gallegos|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6339|Rural|
+58355|Loma Puerto del Tigre (Loma del Tigre)|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6331|Rural|
+58355|Puerto del Madroño|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6342|Rural|
+58355|Hojas Anchas|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0464|Rural|
+58355|Umécuaro|Pueblo|Morelia|Michoacán de Ocampo||58011|16|58011||28|053|0465|Rural|
+58355|La Codorniz|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6321|Rural|
+58355|Campichahua|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|6295|Rural|
+58355|Las Mesitas|Rancho|Morelia|Michoacán de Ocampo||58011|16|58011||48|053|0328|Rural|
+58355|Buenavista|Ranchería|Morelia|Michoacán de Ocampo||58011|16|58011||29|053|0463|Rural|
+58356|La Laguna (Los Caracoles)|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6322|Rural|
+58356|Puerto la Sosa|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6343|Rural|
+58356|Ichaqueo|Poblado comunal|Morelia|Michoacán de Ocampo||58091|16|58091||27|053|0466|Rural|
+58356|La Cieneguita (La Ciénega)|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6319|Rural|
+58356|Las Palomas|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6329|Rural|
+58356|Las Tinajas (La Tinaja)|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6330|Rural|
+58356|Los Capulines|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6332|Rural|
+58356|Pueblo Viejo|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6338|Rural|
+58356|El Laurel|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6304|Rural|
+58356|Puerto de Celaya|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6341|Rural|
+58356|El Carretero|Rancho|Morelia|Michoacán de Ocampo||58091|16|58091||48|053|0326|Rural|
+58356|Curimeo|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6299|Rural|
+58356|Parritas|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6335|Rural|
+58356|Atécuaro|Pueblo|Morelia|Michoacán de Ocampo||58091|16|58091||28|053|0456|Rural|
+58356|Oikos|Fraccionamiento|Morelia|Michoacán de Ocampo||58091|16|58091||21|053|5548|Rural|
+58356|El Arenal|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6301|Rural|
+58356|La Artesa|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6317|Rural|
+58356|Puentecillas (Puentecitas)|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|0286|Rural|
+58357|Agua Zarca|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6308|Rural|
+58357|Tumbisca|Pueblo|Morelia|Michoacán de Ocampo||58091|16|58091||28|053|3983|Rural|
+58357|El Alacrán|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6310|Rural|
+58357|Buenavista|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6309|Rural|
+58358|Planchapón (Peñas de San Pedro)|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6337|Rural|
+58358|Torrecillas|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6350|Rural|
+58358|Zimpanio Sur|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6351|Rural|
+58358|San Miguel del Monte|Pueblo|Morelia|Michoacán de Ocampo||58091|16|58091||28|053|0458|Rural|
+58358|El Agua Escondida|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6300|Rural|
+58358|Huertitas|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|6312|Rural|
+58358|Torrecillas (La Torrecilla)|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|0297|Rural|
+58359|El Durazno|Ranchería|Morelia|Michoacán de Ocampo||58091|16|58091||29|053|0467|Rural|

@@ -1,0 +1,12 @@
+70140|1era. Sección|Colonia|Asunción Ixtaltepec|Oaxaca||70118|20|70118||09|005|0001|Urbano|
+70140|Cuarta Sección|Colonia|Asunción Ixtaltepec|Oaxaca||70118|20|70118||09|005|4981|Urbano|
+70140|Asunción Ixtaltepec|Ranchería|Asunción Ixtaltepec|Oaxaca||70118|20|70118||29|005|1968|Rural|
+70140|Quinta Sección|Colonia|Asunción Ixtaltepec|Oaxaca||70118|20|70118||09|005|4921|Urbano|
+70141|Chivela|Ranchería|Asunción Ixtaltepec|Oaxaca||70301|20|70301||29|005|1970|Rural|
+70142|Aguas Calientes La Mata|Ranchería|Asunción Ixtaltepec|Oaxaca||70001|20|70001||29|005|1972|Rural|
+70142|La Cueva|Colonia|Asunción Ixtaltepec|Oaxaca||70001|20|70001||09|005|0002|Rural|
+70143|Chivixhuyo|Ranchería|Asunción Ixtaltepec|Oaxaca||70301|20|70301||29|005|1974|Rural|
+70144|Santiago Ixtaltepec|Congregación|Asunción Ixtaltepec|Oaxaca||70301|20|70301||11|005|4416|Rural|
+70144|El Mezquite|Congregación|Asunción Ixtaltepec|Oaxaca||70301|20|70301||11|005|1975|Rural|
+70144|Cieneguilla|Congregación|Asunción Ixtaltepec|Oaxaca||70301|20|70301||11|005|4417|Rural|
+70145|Lázaro Cárdenas|Ranchería|Asunción Ixtaltepec|Oaxaca||70301|20|70301||29|005|1971|Rural|

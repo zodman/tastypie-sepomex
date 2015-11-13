@@ -1,0 +1,35 @@
+43040|El Palmar|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5912|Urbano|
+43040|Pahuatitla|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5915|Urbano|
+43040|La Capilla|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1182|Rural|
+43040|Tlalnepantla|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5909|Urbano|
+43040|Chalahuitzintla|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5913|Urbano|
+43040|Jaltocán Centro|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|1181|Urbano|
+43040|Mirador|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5910|Urbano|
+43040|El Rosario|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5914|Urbano|
+43040|Toltitla|Colonia|Jaltocán|Hidalgo||43007|13|43007||09|032|5911|Urbano|
+43041|Amáxac I|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1183|Rural|
+43042|Tepexicuicuil|Poblado comunal|Jaltocán|Hidalgo||43007|13|43007||27|032|5927|Rural|
+43042|El Chote|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1184|Rural|
+43042|Ojo de Agua|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5921|Rural|
+43042|Amáxac II|Poblado comunal|Jaltocán|Hidalgo||43007|13|43007||27|032|5926|Rural|
+43042|La Ceiba|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5928|Rural|
+43042|Petacotita|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5923|Rural|
+43043|Tetzinatla|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5934|Rural|
+43043|Nuevo Rosario|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5932|Rural|
+43044|Aguacatitla|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5935|Rural|
+43044|Chiconcoac|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5929|Rural|
+43044|Revolución Mexicana|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5916|Rural|
+43044|Xalamaco|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5919|Rural|
+43044|Tepexica|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5933|Rural|
+43045|Vinazco|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1185|Rural|
+43045|La Lima|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5920|Rural|
+43045|Cuatecomaco|Poblado comunal|Jaltocán|Hidalgo||43007|13|43007||27|032|5931|Rural|
+43046|Matachilillo|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1187|Rural|
+43046|Huichapa|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1186|Rural|
+43047|Cuatzatzas|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5917|Rural|
+43047|Potrero Zactipán|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|1188|Rural|
+43047|Octatitla|Poblado comunal|Jaltocán|Hidalgo||43007|13|43007||27|032|5922|Rural|
+43047|Ahuayo|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5924|Rural|
+43047|Anacleto Ramos|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5930|Rural|
+43047|Tzinancatitla|Poblado comunal|Jaltocán|Hidalgo||43007|13|43007||27|032|5918|Rural|
+43047|La Ilusión|Ranchería|Jaltocán|Hidalgo||43007|13|43007||29|032|5925|Rural|

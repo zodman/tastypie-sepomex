@@ -1,0 +1,46 @@
+90800|Lucero|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0529|Urbano|06
+90800|Santa Ana Chiautempan Centro|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0389|Urbano|06
+90800|Xaltantla|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0391|Urbano|06
+90802|Puente Picazo|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0396|Rural|06
+90802|Los Pinos|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0395|Rural|06
+90802|Santa Cruz|Unidad habitacional|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||31|010|0527|Urbano|06
+90802|Industrial|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0394|Urbano|06
+90802|Llanos de Tepetlapa|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0736|Rural|06
+90802|Buenos Aires|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0393|Urbano|06
+90802|San Onofre|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0528|Urbano|06
+90802|Santa Cruz Tetela|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0730|Rural|06
+90802|Ximentla|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0526|Urbano|06
+90802|La Magdalena|Fraccionamiento|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||21|010|0739|Rural|06
+90803|Tlapacoyac|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0398|Urbano|06
+90803|Villa de las Flores|Fraccionamiento|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||21|010|0513|Urbano|06
+90804|Providencia|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0853|Urbano|06
+90804|Chalma|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0399|Urbano|06
+90804|El Llanito|Fraccionamiento|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||21|010|0400|Urbano|06
+90804|Los Álamos|Fraccionamiento|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||21|010|0871|Urbano|06
+90804|La Laguna|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0852|Urbano|06
+90804|De Fátima|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0530|Urbano|06
+90805|Tepetlapa|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0516|Urbano|06
+90805|Del Carmen|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0532|Urbano|06
+90805|San Sebastián|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0535|Urbano|06
+90805|Panzacola|Unidad habitacional|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||31|010|0403|Urbano|06
+90805|Reforma|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0405|Urbano|06
+90805|La Soledad|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0533|Urbano|06
+90805|José Agustín Arrieta|Unidad habitacional|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||31|010|0401|Urbano|06
+90805|Panzacola|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0404|Urbano|06
+90805|La Concha|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0402|Urbano|06
+90806|Texcacoac|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0407|Urbano|06
+90806|Xaxala|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0408|Urbano|06
+90806|Constitución|Fraccionamiento|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||21|010|0683|Urbano|06
+90806|Nueva|Colonia|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||09|010|0406|Rural|06
+90806|Texcacoac|Unidad habitacional|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||31|010|0854|Urbano|06
+90807|Villas del Sabinal|Unidad habitacional|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||31|010|0515|Urbano|06
+90807|La Malinche|Unidad habitacional|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||31|010|0514|Urbano|06
+90807|El Alto|Barrio|Chiautempan|Tlaxcala|Chiautempan|90801|29|90801||02|010|0409|Urbano|06
+90810|Santa Cruz Guadalupe|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0412|Rural|
+90810|Guadalupe Ixcotla|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0411|Rural|
+90820|San Pedro Muñoztla|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0417|Rural|
+90820|Ramontla|Barrio|Chiautempan|Tlaxcala||90801|29|90801||02|010|0780|Rural|
+90820|San Pedro Tlalcuapan de Nicolás Bravo|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0420|Rural|
+90820|San Pedro Xochiteotla|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0414|Rural|
+90820|San Bartolomé Cuahuixmatlac|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0413|Rural|
+90821|San Rafael Tepatlaxco|Pueblo|Chiautempan|Tlaxcala||90801|29|90801||28|010|0415|Rural|

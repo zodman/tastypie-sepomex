@@ -1,0 +1,30 @@
+94240|Soledad de Doblado Centro|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|2725|Semiurbano|60
+94242|Guadalupana|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4932|Semiurbano|60
+94242|La Huerta|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4935|Semiurbano|60
+94242|Palito Verde|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4931|Semiurbano|60
+94242|Vista Alegre|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4946|Semiurbano|60
+94242|Nueva Esperanza|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4934|Semiurbano|60
+94242|Ricardo Flores Magón|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4929|Semiurbano|60
+94242|Bellavista|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4933|Semiurbano|60
+94242|Jardines de la Soledad|Unidad habitacional|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||31|148|4943|Semiurbano|60
+94242|Lagunilla|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4947|Semiurbano|60
+94243|Santa Catarina|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4930|Semiurbano|60
+94243|Paso Pedregoso|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4941|Semiurbano|60
+94243|El Roble|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4942|Semiurbano|60
+94244|Los Pinos|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4936|Semiurbano|60
+94244|Buenavista|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4940|Semiurbano|60
+94244|El Fuerte|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4938|Semiurbano|60
+94244|Oaxaca|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4939|Semiurbano|60
+94244|Paso Borrego|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4945|Semiurbano|60
+94244|Sonora|Colonia|Soledad de Doblado|Veracruz de Ignacio de la Llave|Soledad de Doblado|94241|30|94241||09|148|4937|Semiurbano|60
+94245|La Guadalupe (Mata de Loros)|Ranchería|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||29|148|7367|Rural|
+94245|Tranca Negra|Rancho|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||48|148|0001|Rural|
+94245|Mata Conejo|Ranchería|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||29|148|7545|Rural|
+94246|Paso María Hernández|Congregación|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||11|148|7196|Urbano|
+94246|Piedra del Indio|Congregación|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||11|148|7317|Rural|
+94247|Santa Rosa|Pueblo|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||28|148|2727|Rural|
+94248|Paso Lagarto|Ranchería|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||29|148|2729|Rural|
+94248|Tizaltepec|Pueblo|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||28|148|0003|Rural|
+94248|El Izote|Pueblo|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||28|148|0002|Rural|
+94249|Loma de Santa Bárbara (El Organal)|Ranchería|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||29|148|7870|Rural|
+94249|Mata Cazuela|Pueblo|Soledad de Doblado|Veracruz de Ignacio de la Llave||94241|30|94241||28|148|2728|Rural|

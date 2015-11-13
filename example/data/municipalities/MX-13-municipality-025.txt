@@ -1,0 +1,69 @@
+43050|Coapantla|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1191|Rural|
+43050|Zacatipa|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1196|Rural|
+43050|Ahuatitla|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1190|Rural|
+43050|Chalingo|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1193|Rural|
+43050|Alto|Barrio|Huautla|Hidalgo||43007|13|43007||02|025|3815|Urbano|
+43050|Bajo|Barrio|Huautla|Hidalgo||43007|13|43007||02|025|3816|Urbano|
+43050|Nueva Linda Vista|Barrio|Huautla|Hidalgo||43007|13|43007||02|025|3817|Urbano|
+43050|Huautla Centro|Colonia|Huautla|Hidalgo||43007|13|43007||09|025|1194|Urbano|
+43050|Tamoyón I|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1195|Rural|
+43050|Del Salto|Colonia|Huautla|Hidalgo||43007|13|43007||09|025|3818|Urbano|
+43050|Hondo|Barrio|Huautla|Hidalgo||43007|13|43007||02|025|3819|Urbano|
+43050|Coatzonco|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1192|Rural|
+43050|Acatepec|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1189|Rural|
+43051|Pepeyoca de Cabrera|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1198|Rural|
+43051|El Lindero|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1197|Rural|
+43052|Tepeco|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1202|Rural|
+43052|Coatempa|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3827|Rural|
+43052|14 de Mayo|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3821|Rural|
+43052|El Pajonal|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3830|Rural|
+43052|Tempexquisco|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3841|Rural|
+43052|El Ixtle|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1201|Rural|
+43052|Chiliteco|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1200|Rural|
+43052|El Aguacate|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3828|Rural|
+43052|El Progreso|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3831|Rural|
+43052|Aquetzpalco|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1199|Rural|
+43052|Tepetzintla|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3842|Rural|
+43052|Vinasco|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3847|Rural|
+43053|Huazalinguillo|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1206|Rural|
+43053|Chalacuaco|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3825|Rural|
+43053|La Loma|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3835|Rural|
+43053|Huitzotlaco|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3833|Rural|
+43053|Lindero|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3837|Rural|
+43053|Terrero|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3844|Rural|
+43053|Chipila|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1204|Rural|
+43053|Banderas|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3824|Rural|
+43053|El Cojolite|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1205|Rural|
+43053|La Mesa|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1207|Rural|
+43053|Axtitla|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3823|Rural|
+43053|Coamitla|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1203|Rural|
+43053|Tamoyón II|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1208|Rural|
+43053|Tzocohuijapa|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3846|Rural|
+43054|Hernándeztla|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1210|Rural|
+43054|Las Pilas|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1211|Rural|
+43054|Ixtlahuac|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3834|Rural|
+43054|Nuñez Soto|Fraccionamiento|Huautla|Hidalgo||43007|13|43007||21|025|3832|Rural|
+43054|Tlacuapan|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1214|Rural|
+43054|Tlalpane|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3845|Rural|
+43054|Ahuehuetl|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1209|Rural|
+43054|El Barbecho|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3829|Rural|
+43054|Milkaual|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3838|Rural|
+43054|Los Puentes|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1213|Rural|
+43054|Los Cerezos|Ejido|Huautla|Hidalgo||43007|13|43007||15|025|1212|Rural|
+43055|Coatenáhuatl|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1215|Rural|
+43055|Pahuatitla|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3839|Rural|
+43055|La Puerta|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3836|Rural|
+43055|Tepexquimitl|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3843|Rural|
+43055|Xóchitl|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3848|Rural|
+43056|Piltepeco|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1217|Rural|
+43056|Huemaco|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1216|Rural|
+43056|Tecoluco Calpan|Hacienda|Huautla|Hidalgo||43007|13|43007||24|025|1218|Rural|
+43059|Tohuaco II|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1222|Rural|
+43059|Tzacoala|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1224|Rural|
+43059|Santo Domingo|Poblado comunal|Huautla|Hidalgo||43007|13|43007||27|025|3840|Rural|
+43059|Tohuaco I|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1221|Rural|
+43059|Coatzacoatl|Congregación|Huautla|Hidalgo||43007|13|43007||11|025|1219|Rural|
+43059|Tohuaco Amatzintla|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1223|Rural|
+43059|21 de Enero|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3822|Rural|
+43059|Metlatepec|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|1220|Rural|
+43059|Chiatitla|Ranchería|Huautla|Hidalgo||43007|13|43007||29|025|3826|Rural|

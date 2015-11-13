@@ -1,0 +1,23 @@
+67400|Alegres de Terán|Colonia|General Terán|Nuevo León||67501|19|67501||09|022|3291|Rural|
+67400|El Granjenal|Pueblo|General Terán|Nuevo León||67501|19|67501||28|022|1980|Rural|
+67400|Los Naranjos|Colonia|General Terán|Nuevo León||67501|19|67501||09|022|3313|Rural|
+67400|Progreso|Colonia|General Terán|Nuevo León||67501|19|67501||09|022|3312|Rural|
+67400|Gral. Terán|Villa|General Terán|Nuevo León||67501|19|67501||32|022|1981|Rural|
+67400|Citricultores|Colonia|General Terán|Nuevo León||67501|19|67501||09|022|3316|Rural|
+67403|California|Ranchería|General Terán|Nuevo León||67501|19|67501||29|022|1983|Rural|
+67405|Ramirez|Hacienda|General Terán|Nuevo León||67501|19|67501||24|022|1985|Rural|
+67405|Ojo de Agua|Ranchería|General Terán|Nuevo León||67501|19|67501||29|022|1984|Rural|
+67406|La Purísima|Ejido|General Terán|Nuevo León||67501|19|67501||15|022|1986|Rural|
+67413|Las Anacuas|Ejido|General Terán|Nuevo León||67501|19|67501||15|022|1989|Rural|
+67413|Las Anacuas|Hacienda|General Terán|Nuevo León||67501|19|67501||24|022|1988|Rural|
+67413|La Unión|Hacienda|General Terán|Nuevo León||67501|19|67501||24|022|1987|Rural|
+67414|Las Anacuitas|Ejido|General Terán|Nuevo León||67501|19|67501||15|022|1990|Rural|
+67415|La Corona|Ejido|General Terán|Nuevo León||67501|19|67501||15|022|1991|Rural|
+67416|Santa Engracia|Hacienda|General Terán|Nuevo León||67501|19|67501||24|022|1994|Rural|
+67416|Las Brisas|Ejido|General Terán|Nuevo León||67501|19|67501||15|022|1993|Rural|
+67416|Encadenado|Hacienda|General Terán|Nuevo León||67501|19|67501||24|022|1992|Rural|
+67417|Encadenado|Ejido|General Terán|Nuevo León||67501|19|67501||15|022|1995|Rural|
+67423|Guadalupe de La Joya|Ranchería|General Terán|Nuevo León||67501|19|67501||29|022|1996|Rural|
+67430|San Julián|Ranchería|General Terán|Nuevo León||67501|19|67501||29|022|1997|Rural|
+67440|San Pedro|Hacienda|General Terán|Nuevo León||67501|19|67501||24|022|1998|Rural|
+67448|Buenavista de Jimenez|Ranchería|General Terán|Nuevo León||67501|19|67501||29|022|1999|Rural|

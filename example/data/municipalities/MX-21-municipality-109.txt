@@ -1,0 +1,14 @@
+73100|Pahuatlán de Valle|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0802|Rural|
+73100|Atla|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0801|Rural|
+73100|Xocotla|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0803|Rural|
+73101|Xilepa|Barrio|Pahuatlán|Puebla||73102|21|73102||02|109|0804|Rural|
+73103|Ahila|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0806|Rural|
+73110|Zoyatla de Guerrero|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0809|Rural|
+73110|San Pablito|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0807|Rural|
+73110|Tlalcruz de Libres|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0808|Rural|
+73112|Montellano|Barrio|Pahuatlán|Puebla||73102|21|73102||02|109|0810|Rural|
+73113|Acalapa|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0811|Rural|
+73115|Ahuacatitla|Ranchería|Pahuatlán|Puebla||73102|21|73102||29|109|0812|Rural|
+73115|Atlantongo|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0813|Rural|
+73117|Cuauneutla de la Paz|Pueblo|Pahuatlán|Puebla||73102|21|73102||28|109|0814|Rural|
+73119|Paciotla|Ranchería|Pahuatlán|Puebla||73102|21|73102||29|109|0815|Rural|

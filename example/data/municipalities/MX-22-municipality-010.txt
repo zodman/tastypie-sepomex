@@ -1,0 +1,102 @@
+76360|Puerto San Esteban (16 de Julio)|Barrio|Landa de Matamoros|Querétaro||76343|22|76343||02|010|0418|Urbano|
+76360|San Miguel|Barrio|Landa de Matamoros|Querétaro||76343|22|76343||02|010|1730|Urbano|
+76360|Centro|Colonia|Landa de Matamoros|Querétaro||76343|22|76343||09|010|2092|Urbano|
+76360|Ortigas|Barrio|Landa de Matamoros|Querétaro||76343|22|76343||02|010|1732|Urbano|
+76360|Chacatlán|Barrio|Landa de Matamoros|Querétaro||76343|22|76343||02|010|1731|Urbano|
+76360|San Sebastian|Barrio|Landa de Matamoros|Querétaro||76343|22|76343||02|010|2704|Urbano|
+76367|Arboledas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1740|Rural|
+76367|Rincón de Piedra Blanca (La Pechuga)|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0419|Rural|
+76367|La Reforma|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2720|Rural|
+76368|Barrio de Santa Teresita|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1744|Rural|
+76368|Tilaco|Pueblo|Landa de Matamoros|Querétaro||76343|22|76343||28|010|0433|Rural|
+76368|Barrio de la Luz|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1742|Rural|
+76368|Otates|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0420|Rural|
+76368|Puerto de Guayabitas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2717|Rural|
+76368|Buenavista|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1743|Rural|
+76370|La Huastequita|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1756|Rural|
+76370|El Gavilán|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1757|Rural|
+76370|Tres Lagunas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0421|Rural|
+76372|Mesa de la Cruz|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1753|Rural|
+76372|La Margarita|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1755|Rural|
+76372|Valle de Guadalupe|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0422|Rural|
+76372|Lagunita de San Diego|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1752|Rural|
+76372|La Joya Chiquita de San Antonio|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1754|Rural|
+76372|Los Charcos|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2712|Rural|
+76373|El Llano Chiquito|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2718|Rural|
+76378|Pío X|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1758|Rural|
+76378|Pinalito de la Cruz|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0423|Rural|
+76379|El Lobo|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0424|Rural|
+76379|La Yerbabuena|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0434|Rural|
+76379|La Primera y la Última|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2716|Rural|
+76379|El Sabino|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2723|Rural|
+76379|La Loma|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2706|Rural|
+76379|Agua de la Peña|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2707|Rural|
+76379|El Madroño|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0426|Rural|
+76379|Puerto de Guadalupe|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1714|Rural|
+76380|La Lagunita|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0425|Rural|
+76382|La Vuelta|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0427|Rural|
+76382|La Sierrita|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1759|Rural|
+76383|El Aguacate|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0428|Rural|
+76383|Malpaís|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1751|Rural|
+76384|La Florida|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1725|Rural|
+76384|La Yesca|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1726|Rural|
+76384|El Charco|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1716|Rural|
+76384|El Banco|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1717|Rural|
+76385|El Alambre|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1762|Rural|
+76385|Encino Solo|Congregación|Landa de Matamoros|Querétaro||76343|22|76343||11|010|0429|Rural|
+76385|La Espuela|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1766|Rural|
+76385|Matzacintla|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1767|Rural|
+76385|Barrio de los Pérez|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2093|Rural|
+76385|La Tinaja|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1761|Rural|
+76385|Palo Verde|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1763|Rural|
+76385|Rancho Nuevo|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2722|Rural|
+76385|El Encinito|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2724|Rural|
+76385|La Mora|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1760|Rural|
+76385|La Alberca|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1764|Rural|
+76386|Laguna de San Miguel|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2709|Rural|
+76388|Jacalilla|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1746|Rural|
+76388|Las Vallas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1750|Rural|
+76388|La Reforma|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0430|Rural|
+76388|La Polvareda|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1748|Rural|
+76388|La Campana|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1728|Rural|
+76388|Las Ánimas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1747|Rural|
+76388|El Carnicero|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1749|Rural|
+76390|San José|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1745|Rural|
+76390|Acatitlán de Zaragoza|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0431|Rural|
+76392|Agua Zarca|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0432|Rural|
+76393|El Aguacate (Neblinas)|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1713|Rural|
+76393|Cerro de San Agustín|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1720|Rural|
+76393|Mesa del Fortín|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1723|Rural|
+76393|Puerto de San Agustín|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1719|Rural|
+76393|Mesa del Jagüey (Jagüey del Muerto)|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1721|Rural|
+76393|Tlacuilola|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2715|Rural|
+76393|El Capulín|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2705|Rural|
+76393|Neblinas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0435|Rural|
+76394|Camarones|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1729|Rural|
+76394|Cerro de la Palma|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1735|Rural|
+76394|San Onofre|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1733|Rural|
+76394|La Joya|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2711|Rural|
+76394|San Juanito|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1739|Rural|
+76394|Mesa del Corozo|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1734|Rural|
+76394|La Ceiba|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2719|Rural|
+76395|El Humo|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0436|Rural|
+76395|Río Verdito|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0437|Rural|
+76395|Puerto del Sabino|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1718|Rural|
+76395|El Pemoche|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1724|Rural|
+76395|Potrero del Llano (La Joya)|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1708|Rural|
+76395|La Silleta|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1710|Rural|
+76395|El Gavilán|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1709|Rural|
+76395|La Agüita|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1711|Rural|
+76395|La Lima|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1722|Rural|
+76395|Puerto Hondo|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1727|Rural|
+76395|La Cruz|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2708|Rural|
+76395|El Naranjo|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2714|Rural|
+76395|El Retén|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1712|Rural|
+76396|Jagüey Colorado|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1736|Rural|
+76396|El Sabinito|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1741|Rural|
+76396|Tres Lagunas (Agua Zarca)|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2710|Rural|
+76399|Piedra Blanca|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2713|Rural|
+76399|Tangojó|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1738|Rural|
+76399|El Zacatal|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|2721|Rural|
+76399|Santa Inés|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|0438|Rural|
+76399|Las Mesitas|Ranchería|Landa de Matamoros|Querétaro||76343|22|76343||29|010|1737|Rural|

@@ -1,0 +1,81 @@
+43230|Calnali Centro|Colonia|Calnali|Hidalgo||43007|13|43007||09|014|1434|Urbano|
+43230|San Andrés (San Andrés Chichayotla)|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1435|Rural|
+43230|Tecpaco|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1436|Rural|
+43231|Tecueyaca|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1437|Rural|
+43232|Tostlamantla|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1439|Rural|
+43232|Mazahuacan|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1438|Rural|
+43233|Nuevo|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4334|Urbano|
+43233|Agua Zarca|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4328|Urbano|
+43233|Ahuimol|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4335|Urbano|
+43234|Bismalotepec|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4331|Urbano|
+43234|Tlala|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4332|Urbano|
+43234|San Juan|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4333|Urbano|
+43234|La Rivera|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4330|Urbano|
+43235|La Esperanza|Barrio|Calnali|Hidalgo||43007|13|43007||02|014|4329|Urbano|
+43236|San Isidro|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4372|Rural|
+43236|Cuitlachamaco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4356|Rural|
+43236|Arroyo del Muerto (Piedras Blancas)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4340|Rural|
+43236|Cuaxacal|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4354|Rural|
+43236|Piedras Blancas|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4370|Rural|
+43236|Texcaco (Sagrado Corazón de Jesús)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4381|Rural|
+43236|Metlatépetl|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4362|Rural|
+43236|Nuevo Cuaptonapa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4365|Rural|
+43237|Pezmapa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4368|Rural|
+43237|Cruz Verde (Tempalahuaco)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4352|Rural|
+43237|Hueytepec|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4358|Rural|
+43237|San Lucas|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4373|Rural|
+43237|Tlalica|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4384|Rural|
+43238|Chicuapa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4348|Rural|
+43238|La Ciénega (Agua Zarca)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4361|Rural|
+43238|Agiladero|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4338|Rural|
+43238|La Ciénega|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4360|Rural|
+43238|Tonalaco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4386|Rural|
+43238|Amatépetl|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4341|Rural|
+43239|Tlalica|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4383|Rural|
+43239|Ixcatlán|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4359|Rural|
+43239|Ahuacatlán|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1433|Rural|
+43239|Cuazala|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4355|Rural|
+43239|Atezco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4342|Rural|
+43239|Molhuasco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4364|Rural|
+43239|Tiocintepec|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4382|Rural|
+43239|Cohuamila|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4351|Rural|
+43239|Tecomatla (Chintipan)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4374|Rural|
+43240|Atempa|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1441|Rural|
+43240|Coyula|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1442|Rural|
+43240|Pezmatlán|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|1444|Rural|
+43240|Santa Lucía (Mesa de Santa Lucía)|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1445|Rural|
+43240|Papatlatla|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1443|Urbano|
+43243|Rancho Nuevo|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|1447|Rural|
+43243|Temanaxteco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4376|Rural|
+43243|Coamitla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|1446|Rural|
+43244|Tetioco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4379|Rural|
+43244|Temextla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4377|Rural|
+43244|Acatlán|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4337|Rural|
+43244|Cuatlapalapa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4353|Rural|
+43244|Teotlalzintla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4378|Rural|
+43244|Tlatexco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4385|Rural|
+43244|Tochintlán|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|1448|Rural|
+43244|Coahuizas|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4350|Rural|
+43245|Ahuamolos|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4339|Rural|
+43245|Octatitla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4366|Rural|
+43245|Michinteopan|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4363|Rural|
+43245|Pezmatépetl|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4369|Rural|
+43245|Hualul|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4357|Rural|
+43245|Techichico|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|1450|Rural|
+43245|Chalahuico|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4346|Rural|
+43245|Xacalco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4387|Rural|
+43245|Xaltipa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4388|Rural|
+43245|Camotla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|1449|Rural|
+43245|Tula|Pueblo|Calnali|Hidalgo||43007|13|43007||28|014|1451|Rural|
+43245|Ayacapa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4343|Rural|
+43245|Ayateca (Tlanepango)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4344|Rural|
+43245|Tecuapa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4375|Rural|
+43247|Chiatipán|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4347|Rural|
+43248|Palzoquitempa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4367|Rural|
+43248|Xontla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4390|Rural|
+43248|Buenavista|Poblado comunal|Calnali|Hidalgo||43007|13|43007||27|014|4345|Rural|
+43248|Acatempa|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4336|Rural|
+43248|Cholingo|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4349|Rural|
+43248|Tetzintla|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4380|Rural|
+43248|San Antonio (Huehuenco)|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4371|Rural|
+43248|Xochimilco|Ranchería|Calnali|Hidalgo||43007|13|43007||29|014|4389|Rural|

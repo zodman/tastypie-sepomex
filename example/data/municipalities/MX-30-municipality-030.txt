@@ -1,0 +1,25 @@
+94740|Ciudad Mendoza Centro|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|3049|Rural|
+94743|Jardín|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0842|Rural|
+94743|El Bosque|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|5227|Rural|
+94743|Benito Juárez|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|5228|Rural|
+94743|Unión Moderna|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0976|Rural|
+94743|Santa Cruz|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|1091|Rural|
+94743|Prado|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|7586|Urbano|
+94744|Hogar|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0831|Rural|
+94744|Civer|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0685|Rural|
+94744|Los Cuartos|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0693|Rural|
+94744|El Águila|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0609|Rural|
+94744|Benito Juárez|Unidad habitacional|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||31|030|0645|Rural|
+94744|Los Sauces|Fraccionamiento|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||21|030|5230|Rural|
+94744|Rincón Santa Rosa|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|5224|Urbano|
+94744|Unión y Progreso|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|1142|Rural|
+94744|Santa Rosita|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|5223|Rural|
+94745|Madero|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0954|Urbano|
+94745|Obrera|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|4999|Rural|
+94745|Pablo Sidar|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|1001|Rural|
+94745|Reforma|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|7596|Urbano|
+94745|Nueva Lucha|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|0989|Rural|
+94745|Central Obrera|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|5226|Rural|
+94745|Liberación|Colonia|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||09|030|5225|Rural|
+94746|Necoxtla|Congregación|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||11|030|3051|Rural|
+94748|La Cuesta|Congregación|Camerino Z. Mendoza|Veracruz de Ignacio de la Llave||94741|30|94741||11|030|3052|Rural|

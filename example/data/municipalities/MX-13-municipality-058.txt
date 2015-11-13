@@ -1,0 +1,42 @@
+42380|La Cruz|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|5280|Urbano|
+42380|El Cerrito|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|5281|Urbano|
+42380|Bomi el Palmar|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|0522|Urbano|
+42380|San Antonio|Barrio|Tasquillo|Hidalgo||42301|13|42301||02|058|0537|Urbano|
+42380|San Isidro|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|2642|Urbano|
+42380|Tasquillo Centro|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|0526|Urbano|
+42380|Nuevo Porvenir|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|5282|Urbano|
+42380|El Calvario|Colonia|Tasquillo|Hidalgo||42301|13|42301||09|058|5283|Urbano|
+42381|Danghu|Pueblo|Tasquillo|Hidalgo||42301|13|42301||28|058|0528|Rural|
+42381|Caltimacán|Pueblo|Tasquillo|Hidalgo||42301|13|42301||28|058|0527|Rural|
+42382|Remedios|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0529|Rural|
+42382|Frente al Vivero|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5287|Rural|
+42382|Muntzi|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5290|Rural|
+42383|Portezuelo|Pueblo|Tasquillo|Hidalgo||42301|13|42301||28|058|0525|Rural|
+42383|Motho|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0530|Rural|
+42383|Bondhí|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|2833|Rural|
+42383|La Vega|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5289|Rural|
+42383|San Miguel|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5295|Rural|
+42383|Juchitlán|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0524|Rural|
+42383|Rinconada|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0531|Rural|
+42383|Santiago Ixtlahuaca|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0556|Rural|
+42383|El Durazno|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5285|Rural|
+42384|La Loma|Poblado comunal|Tasquillo|Hidalgo||42301|13|42301||27|058|5288|Rural|
+42384|Huizachez|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0533|Rural|
+42386|Cuauhtémoc|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0535|Rural|
+42386|Nuevo Arenal|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|2832|Rural|
+42386|Puente de Fierro|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5293|Rural|
+42386|La Florida|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0536|Rural|
+42386|San Pedro|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0538|Rural|
+42386|San Antonio Caltimacán|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5294|Rural|
+42386|Candelaria|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0523|Rural|
+42386|Tetzhú|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0532|Rural|
+42386|Arbolado|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0521|Rural|
+42386|Ojo de Agua|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5291|Rural|
+42386|San Nicolás (San Nicolás Caltimacán)|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5296|Rural|
+42387|Quitandejhe|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0540|Rural|
+42387|El Llano|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0539|Rural|
+42389|El Epazote|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0541|Rural|
+42389|Cerro Blanco|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5284|Rural|
+42389|El Puerto de la Palma|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5286|Rural|
+42389|Ojo de Agua (Mothe)|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|5292|Rural|
+42389|Noxthey|Ranchería|Tasquillo|Hidalgo||42301|13|42301||29|058|0542|Rural|

@@ -1,0 +1,848 @@
+76000|Centro|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0001|Urbano|01
+76005|Mariano Escobedo|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|1681|Urbano|01
+76005|Rincón de San Andrés|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1199|Urbano|01
+76005|Vicente Guerrero|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|1682|Urbano|01
+76005|Rinconada Morelos|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|1683|Urbano|01
+76010|Niños Héroes|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0011|Urbano|01
+76010|Las Campanas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0010|Urbano|01
+76017|Centro Universitario (U.A.Q.)|Equipamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||17|014|0013|Urbano|01
+76020|La Cruz|Barrio|Querétaro|Querétaro|Querétaro|76021|22|76021||02|014|0021|Urbano|01
+76020|Calesa|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0017|Urbano|01
+76020|Diligencias|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0018|Urbano|01
+76020|Jardines de Querétaro|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0020|Urbano|01
+76020|Pathé|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0022|Urbano|01
+76020|Bosques del Acueducto|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0016|Urbano|01
+76020|El Cortijo|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0019|Urbano|01
+76020|San Javier|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0023|Urbano|01
+76024|La Peñita|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0809|Urbano|01
+76024|Villa Los Arcos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0813|Urbano|01
+76024|El Oasis|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0812|Urbano|01
+76024|Del Río|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1028|Urbano|01
+76024|Calesa 2a Sección|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0810|Urbano|01
+76024|Conjunto Seminario|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0815|Urbano|01
+76024|Karina|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0807|Urbano|01
+76024|El Cortijo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0811|Urbano|01
+76024|El Cortijo II|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0814|Urbano|01
+76025|La Pastora|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0025|Urbano|01
+76026|Goyeneche|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0817|Urbano|01
+76026|La Cruz|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0808|Urbano|01
+76027|San José Inn|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0027|Urbano|01
+76027|Arboledas del Río|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0818|Urbano|01
+76028|Universidad|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0028|Urbano|01
+76030|Casa Blanca|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0030|Urbano|01
+76030|Las Fuentes|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0034|Urbano|01
+76030|El Prado|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0041|Urbano|01
+76030|El Carrizal|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0032|Urbano|01
+76030|Las Misiones|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0035|Urbano|01
+76030|Moderna|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|0036|Urbano|01
+76030|Villas del Refugio|Villa|Querétaro|Querétaro|Querétaro|76021|22|76021||32|014|1684|Urbano|01
+76030|Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0031|Urbano|01
+76030|Estrella|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0033|Urbano|01
+76030|San Ángel|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0037|Urbano|01
+76036|Rinconada Fray Juan|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0038|Urbano|01
+76037|Mariano de las Casas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0039|Urbano|01
+76040|Villas del Sur|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0051|Urbano|01
+76040|Panamericano|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0047|Urbano|01
+76040|Valle Alameda|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0050|Urbano|01
+76040|Aragón|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0043|Urbano|01
+76040|Las Palmas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0044|Urbano|01
+76040|Mercurio|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0045|Urbano|01
+76040|Andalucía Sección Cordova|Residencial|Querétaro|Querétaro|Querétaro|76021|22|76021||30|014|0804|Urbano|01
+76040|Alameda|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0042|Urbano|01
+76040|Observatorio|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0046|Urbano|01
+76046|El Laurel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0052|Urbano|01
+76046|Villas del Sol|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0054|Urbano|01
+76046|Panorámico|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0819|Urbano|01
+76046|San Joaquín|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1696|Urbano|01
+76047|El Marqués|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0055|Urbano|01
+76047|Quintas del Marqués|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0056|Urbano|01
+76048|Arquitos|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0057|Urbano|01
+76049|Loma Bonita|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0058|Urbano|01
+76050|Carretas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0059|Urbano|01
+76057|Hidalgo|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0060|Urbano|01
+76058|San Francisquito|Barrio|Querétaro|Querétaro|Querétaro|76021|22|76021||02|014|0061|Urbano|01
+76059|Plaza de las Américas|Zona comercial|Querétaro|Querétaro|Querétaro|76021|22|76021||33|014|0062|Urbano|01
+76060|Cumbres del Mirador|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|2260|Urbano|01
+76060|Loma Dorada|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0064|Urbano|01
+76060|Vista Dorada|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0065|Urbano|01
+76060|Milenio 3a. Sección|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1063|Urbano|01
+76063|Pedregal de Vista Hermosa|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|3059|Urbano|01
+76063|Cuesta Bonita|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1706|Urbano|01
+76063|Villas del Oriente|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0820|Urbano|01
+76063|Vista Hermosa|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0066|Urbano|01
+76067|La Laguna|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0805|Urbano|01
+76069|2 de Abril|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0937|Urbano|01
+76069|Tejas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0974|Urbano|01
+76069|El Bosque|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0969|Urbano|01
+76069|La Estación|Barrio|Querétaro|Querétaro|Querétaro|76021|22|76021||02|014|1210|Urbano|01
+76069|Nuevo Morelos|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|3029|Urbano|01
+76069|Jardines de Hércules|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0069|Urbano|01
+76069|La Cuesta|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1704|Urbano|01
+76069|8 de Diciembre|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0976|Urbano|01
+76069|Hércules|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0975|Urbano|01
+76069|Bugambilias|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1184|Urbano|01
+76069|La Estación 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|3028|Urbano|01
+76069|El Limonar|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0973|Urbano|01
+76069|San José de los Perales|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1703|Urbano|01
+76070|Vista|Unidad habitacional|Querétaro|Querétaro|Querétaro|76201|22|76201||31|014|0842|Urbano|01
+76070|Conjunto Terranova|Unidad habitacional|Querétaro|Querétaro|Querétaro|76201|22|76201||31|014|1030|Urbano|01
+76070|Corregidora (Burocrata)|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0071|Urbano|01
+76070|Prados del Mirador|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0072|Urbano|01
+76070|El Retiro|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0849|Urbano|01
+76070|Loma Linda|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0850|Urbano|01
+76074|La Alhambra|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0828|Urbano|01
+76074|Vista Alegre 3a Sección|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0854|Urbano|01
+76074|Vista Alegre 2a Secc|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0852|Urbano|01
+76074|Vista Alegre|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0851|Urbano|01
+76074|Palomar del Duque|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|2196|Urbano|01
+76078|Villas Valle Alameda|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0073|Urbano|01
+76079|Balaustradas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0074|Urbano|01
+76079|Quinta Balaustradas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0855|Urbano|01
+76080|Presidentes|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0077|Urbano|01
+76080|Lomas de Casa Blanca|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0075|Urbano|01
+76080|Papanoa|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1575|Urbano|01
+76085|Lázaro Cárdenas III|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0833|Urbano|01
+76085|Azteca|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0079|Urbano|01
+76085|Lomas del Valle|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1223|Urbano|01
+76085|Bosques del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1573|Urbano|01
+76085|El Marqués Queretano|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0830|Urbano|01
+76085|Lomas del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0831|Urbano|01
+76085|Fraternidad de Santiago|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1061|Urbano|01
+76085|Universo 2000|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0836|Urbano|01
+76085|Colinas del Sur|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1023|Urbano|01
+76085|Vistas del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1200|Urbano|01
+76085|Rincón del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1574|Urbano|01
+76085|Arte Mexicano|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0829|Urbano|01
+76085|La Unión|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1226|Urbano|01
+76085|Altos del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1572|Urbano|01
+76086|Reforma Agraria 3a Secc|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0838|Urbano|01
+76086|Reforma Agraria 2a Secc|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0837|Urbano|01
+76086|Reforma Agraria 1a Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0081|Urbano|01
+76086|Reforma Agraria 4a Secc|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0839|Urbano|01
+76086|Reforma Agraria 5a Secc|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0840|Urbano|01
+76087|Bosques del Cimatario 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1187|Urbano|01
+76087|Linderos del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1314|Urbano|01
+76087|Comerciantes|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0083|Urbano|01
+76087|Zapata Vive|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1201|Urbano|01
+76087|San Andrés|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1300|Urbano|01
+76087|Lázaro Cárdenas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0082|Urbano|01
+76087|Bosques de Querétaro|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1222|Urbano|01
+76087|Unidad Roma|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1225|Urbano|01
+76087|Praderas del Sol|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1230|Urbano|01
+76087|Prados de Querétaro|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1315|Urbano|01
+76087|Raquel Trejo Ortiz|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1581|Urbano|01
+76087|Monte Blanco III|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1584|Urbano|01
+76087|Villas del Rincón|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1171|Urbano|01
+76087|Constelación|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1172|Urbano|01
+76087|Campestre Italiana|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1291|Urbano|01
+76087|Villas del Cimatario|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1298|Urbano|01
+76087|Jardines del Cimatario|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1299|Urbano|01
+76087|Bosques de las Lomas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1316|Urbano|01
+76087|Pedregal del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1576|Urbano|01
+76087|Misión Cimatario|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1577|Urbano|01
+76087|Vista Azul|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1170|Urbano|01
+76087|Cuitlahuac|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1227|Urbano|01
+76087|Lomas de Pasteur|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1297|Urbano|01
+76087|Huertas del Cimatario|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1313|Urbano|01
+76087|Bellavista|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1578|Urbano|01
+76087|Manantiales del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1579|Urbano|01
+76087|Monte Blanco I|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1169|Urbano|01
+76087|Prados del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1582|Urbano|01
+76087|Monte Blanco II|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1583|Urbano|01
+76090|Colinas del Cimatario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0086|Urbano|01
+76090|Centro Sur|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1317|Urbano|01
+76093|Claustros del Marques|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1585|Urbano|01
+76093|Claustros de Santiago|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76201|22|76201||12|014|2034|Urbano|01
+76093|Claustros de las Misiones|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|2338|Urbano|01
+76093|Ángeles|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|1586|Urbano|01
+76093|Claustros del Sur|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1588|Urbano|01
+76093|Claustros de la Corregidora 2|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76201|22|76201||12|014|1165|Urbano|01
+76093|Claustros de la Corregidora I|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76201|22|76201||12|014|2033|Urbano|01
+76093|Claustros de la Catedral|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|2164|Urbano|01
+76099|Plazas del Sol 2a Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0987|Urbano|01
+76099|Plazas del Sol 1a Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0088|Urbano|01
+76099|Plazas del Sol 3a Sección|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0857|Urbano|01
+76100|Dolce Terra|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0078|Urbano|01
+76100|Bleu Casas Platina|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0092|Urbano|01
+76100|Atenas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0100|Urbano|01
+76100|Privada de los Portones|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1590|Urbano|01
+76100|Jurica|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0885|Urbano|01
+76100|La Castellana|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0053|Urbano|01
+76100|Valle Garden|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0063|Urbano|01
+76100|Vive|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0080|Urbano|01
+76100|Jurica|Pueblo|Querétaro|Querétaro|Querétaro|76132|22|76132||28|014|0089|Urbano|01
+76100|El Destino|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0068|Urbano|01
+76100|Jurica Pinar|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0884|Urbano|01
+76100|Las Campanas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1591|Urbano|01
+76100|Hacienda Santa Rosa|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0094|Urbano|01
+76100|Rinconada Jurica|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0151|Urbano|01
+76100|Santa Rosa|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0084|Urbano|01
+76100|Gobernantes|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0858|Urbano|01
+76100|Murano|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|3135|Urbano|01
+76110|Lomas de Satélite|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1597|Urbano|01
+76110|Satélite Sección Condominios|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1644|Urbano|01
+76110|Satélite|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0091|Urbano|01
+76110|Cosmos (Satelite)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0861|Urbano|01
+76110|Josefa Ortiz de Domínguez III|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1403|Urbano|01
+76110|Josefa Ortiz de Domínguez II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0862|Urbano|01
+76110|Satélite Sección Andadores|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1643|Urbano|01
+76110|Ampliación Satélite|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1645|Urbano|01
+76113|Tonatiuh 3a Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|3061|Urbano|01
+76113|El Sol|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0095|Urbano|01
+76113|La Luna|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1067|Urbano|01
+76113|Rinconada del Sol|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0985|Urbano|01
+76113|Los Framboyanes|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1192|Urbano|01
+76113|Santa Isabel|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1636|Urbano|01
+76113|Alborada|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1637|Urbano|01
+76113|El Arcángel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|3102|Urbano|01
+76113|Rancho San Pedro|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|3118|Urbano|01
+76113|El Sol Residencial|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0130|Urbano|01
+76113|Bosques del Sol|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1066|Urbano|01
+76113|Tonatiuh 4a Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1640|Urbano|01
+76113|Plan Santa María|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1635|Urbano|01
+76113|Valle de San Pedro 2a Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1634|Urbano|01
+76113|Tonatiú|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1641|Urbano|01
+76113|Tonatiuh 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|3060|Urbano|01
+76113|Valle de San Pedro|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|3117|Urbano|01
+76114|El Rocio II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0863|Urbano|01
+76114|Los Sauces|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0097|Urbano|01
+76114|Los Castaños|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1639|Urbano|01
+76114|Sendero|Zona comercial|Querétaro|Querétaro|Querétaro|76132|22|76132||33|014|1277|Urbano|01
+76114|El Rocio|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0096|Urbano|01
+76114|Puerta del Sol II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0983|Urbano|01
+76114|Lomas del Carmen|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2254|Urbano|01
+76114|Don Manuel|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0864|Urbano|01
+76114|La Huerta|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1162|Urbano|01
+76115|El Garambullo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0098|Urbano|01
+76115|Parque Santiago|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2251|Urbano|01
+76115|Volcanes|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2050|Urbano|01
+76116|Bugambilias Residencial|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1188|Urbano|01
+76116|La Peña|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1233|Urbano|01
+76116|Geo Plazas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1234|Urbano|01
+76116|Patria Nueva|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1616|Urbano|01
+76116|Casa Blanca|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|2036|Urbano|01
+76116|Prados del Rincón 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3125|Urbano|01
+76116|Teotihuacan|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0869|Urbano|01
+76116|Vistas del Valle|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1150|Urbano|01
+76116|Condominio La Cordillera|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1153|Urbano|01
+76116|Puerta del Sol|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1154|Urbano|01
+76116|Los Encinos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1594|Urbano|01
+76116|Chula Vista I|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|1620|Urbano|01
+76116|Che Guevara (Axayacatl)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1621|Urbano|01
+76116|Loma IX|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1622|Urbano|01
+76116|Ciudad del Sol|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3025|Urbano|01
+76116|Las Camelinas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3123|Urbano|01
+76116|Puerta Navarra|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0302|Urbano|01
+76116|Colinas del Poniente|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1157|Urbano|01
+76116|Sierra Colorada|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|1595|Urbano|01
+76116|Tenochtitlán|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1596|Urbano|01
+76116|Josefa Ortiz de Domínguez IV|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1638|Urbano|01
+76116|Misión de Carrillo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2214|Urbano|01
+76116|La Floresta|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3126|Urbano|01
+76116|Cerrito Colorado 2a Secc|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0868|Urbano|01
+76116|La Loma|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0984|Urbano|01
+76116|Las Azucenas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1155|Urbano|01
+76116|Ampliación Patria Nueva|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1617|Urbano|01
+76116|Geo Villas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1633|Urbano|01
+76116|Loma Real|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3062|Urbano|01
+76116|Jardines de Azucenas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3124|Urbano|01
+76116|Ex-Hacienda Santana|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0866|Urbano|01
+76116|Villas de Guadalupe|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0867|Urbano|01
+76116|Claustros de la Loma|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1593|Urbano|01
+76116|Benito Juárez|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0085|Urbano|01
+76116|Cerrito Colorado|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0099|Urbano|01
+76116|Real de la Loma|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0300|Urbano|01
+76116|Víctor Iturbe|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2047|Urbano|01
+76116|Chula Vista II|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|2253|Urbano|01
+76116|Misión de Carrillo II|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3026|Urbano|01
+76116|Eucaliptos|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3105|Urbano|01
+76116|Ciudad del Sol Sección Valle de Santiago|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76132|22|76132||12|014|0149|Urbano|01
+76116|Querena|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1151|Urbano|01
+76116|Rocio Sanz|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1193|Urbano|01
+76116|25 de Diciembre|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1623|Urbano|01
+76116|Tenochtitlán II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2046|Urbano|01
+76116|Lomas de San Ángel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3120|Urbano|01
+76117|La Esmeralda|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1628|Urbano|01
+76117|Comevi|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1630|Urbano|01
+76117|Insurgentes|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0101|Urbano|01
+76117|San Marcos I|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1627|Urbano|01
+76117|San Pedro Mártir|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0873|Urbano|01
+76117|Colinas de Santa Cruz 1a Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1185|Urbano|01
+76117|Rubén Jaramillo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0872|Urbano|01
+76117|Fundadores|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0883|Urbano|01
+76117|Misión Fundadores|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1309|Urbano|01
+76117|Centenario|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3100|Urbano|01
+76117|Fernando de Tapia|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1624|Urbano|01
+76117|Pedregal de Buenos Aires|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1625|Urbano|01
+76117|Desarrollo Familiar|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0871|Urbano|01
+76117|Colinas de Santa Cruz 2a Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1186|Urbano|01
+76117|Francisco Javier Mina|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2250|Urbano|01
+76117|San Marcos|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0870|Urbano|01
+76117|Prados del Rincón|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1618|Urbano|01
+76117|Jardines del Sol|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1626|Urbano|01
+76117|Laderas de San Pedro|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1629|Urbano|01
+76118|Cerrito Colorado IV|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1180|Urbano|01
+76118|Eduardo Loarca Castillo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1290|Urbano|01
+76118|Villas de San Miguel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1294|Urbano|01
+76118|San Miguel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2252|Urbano|01
+76118|Hacienda Mompaní|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0303|Urbano|01
+76118|Cerrito Colorado VI|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1182|Urbano|01
+76118|Revolución|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1296|Urbano|01
+76118|Real del Marques Residencial|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2500|Urbano|01
+76118|Rosendo Salazar|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0874|Urbano|01
+76118|Francisco Villa II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0978|Urbano|01
+76118|Cerrito Colorado V|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1181|Urbano|01
+76118|Cerrito Colorado VII|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1183|Urbano|01
+76118|Miguel Hidalgo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1189|Urbano|01
+76118|10 de Abril|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1231|Urbano|01
+76118|Prados de Loma Bonita|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1307|Urbano|01
+76118|Francisco Villa I|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0105|Urbano|01
+76118|Cerrito Colorado III|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1179|Urbano|01
+76118|El Romerillal|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1293|Urbano|01
+76118|Loma Bonita|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1190|Urbano|01
+76118|Independencia|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1232|Urbano|01
+76118|Libertadores|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1235|Urbano|01
+76118|Jardines de Jurica|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1292|Urbano|01
+76118|Paraíso|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1295|Urbano|01
+76118|Leyes de Reforma|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1308|Urbano|01
+76118|5 de Febrero|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3048|Urbano|01
+76118|Rinconada del Cerrito|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3133|Urbano|01
+76118|Loma Bonita 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0102|Urbano|01
+76118|Morelos|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0875|Urbano|01
+76118|Paseos de San Miguel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1289|Urbano|01
+76118|15 de Mayo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1236|Urbano|01
+76118|Luis Donaldo Colosio|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1254|Urbano|01
+76118|El Tepeyac|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1592|Urbano|01
+76118|Lomas del Pedregal 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3122|Urbano|01
+76120|Benito Juárez|Zona industrial|Querétaro|Querétaro|Querétaro|76132|22|76132||37|014|0103|Urbano|01
+76120|Santiago|Parque industrial|Querétaro|Querétaro|Querétaro|76132|22|76132||26|014|3058|Urbano|01
+76121|Las Américas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0104|Urbano|01
+76121|San Pablo IV (INFONAVIT)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0934|Urbano|01
+76121|Puesta del Sol|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1663|Urbano|01
+76121|San Pablo III (INFONAVIT)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0936|Urbano|01
+76121|Conquistadores|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0935|Urbano|01
+76121|Felipe Ángeles|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1608|Urbano|01
+76121|Tlanese|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1177|Urbano|01
+76121|Las Américas San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0933|Urbano|01
+76121|Movimiento Obrero|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0961|Urbano|01
+76121|Altos de San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1321|Urbano|01
+76121|La Esperanza|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1664|Urbano|01
+76121|Nueva Esperanza|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2045|Urbano|01
+76125|San Pablo II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0876|Urbano|01
+76125|Desarrollo San Pablo I|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0879|Urbano|01
+76125|Los Robles|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1070|Urbano|01
+76125|Cipreses|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1071|Urbano|01
+76125|Sergio Villaseñor|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1252|Urbano|01
+76125|Valle de San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1610|Urbano|01
+76125|San Pablo|Ejido|Querétaro|Querétaro|Querétaro|76132|22|76132||15|014|2205|Urbano|01
+76125|José María Bustamante|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3128|Urbano|01
+76125|Terrazas de San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0881|Urbano|01
+76125|Bellavista|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0886|Urbano|01
+76125|San Pablo II FOVISSSTE|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1667|Urbano|01
+76125|Rivera y Tamayo|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|2037|Urbano|01
+76125|Nuevo Horizonte|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1609|Urbano|01
+76125|Latinoamericana|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3038|Urbano|01
+76125|San Pablo I|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0877|Urbano|01
+76125|Desarrollo San Pablo II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0878|Urbano|01
+76125|Balcones de San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1320|Urbano|01
+76125|Misión Bucareli Sur|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2558|Urbano|01
+76125|Margaritas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3129|Urbano|01
+76125|Desarrollo San Ángel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3131|Urbano|01
+76125|Lomas de San Pablo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1191|Urbano|01
+76125|Jardines de Alborada|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1318|Urbano|01
+76125|Desarrollo San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1668|Urbano|01
+76125|San Pablo I FOVISSSTE|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1669|Urbano|01
+76125|Proyección 2000|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3130|Urbano|01
+76125|La Condesa|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1319|Urbano|01
+76125|Punta San Carlos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2175|Urbano|01
+76127|Palmas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1175|Urbano|01
+76127|Arco de Piedra|Condominio|Querétaro|Querétaro||76132|22|76132||10|014|0299|Rural|
+76127|El Salitre|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0859|Urbano|01
+76127|Parque Industrial Jurica|Zona industrial|Querétaro|Querétaro|Querétaro|76132|22|76132||37|014|1174|Urbano|01
+76127|Lomas del Salitre|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3103|Urbano|01
+76127|Cuitláhuac|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0860|Urbano|01
+76127|Raquet Club|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0090|Urbano|01
+76130|Industrial|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0107|Urbano|01
+76130|Obrera|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0108|Urbano|01
+76134|Nuevo Carrillo|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0890|Urbano|01
+76134|Rancho Bellavista|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|2048|Urbano|01
+76134|San Sebastián|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1642|Urbano|01
+76134|Plutarco Elías Calles|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0889|Urbano|01
+76134|Solidaridad 90|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0888|Urbano|01
+76134|El Arco|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0887|Urbano|01
+76134|El Mirador|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0903|Urbano|01
+76134|Ampolletas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1176|Urbano|01
+76134|El Tintero|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1647|Urbano|01
+76134|Ex-Hacienda El Tintero|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1197|Urbano|01
+76134|Santa Mónica|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1648|Urbano|01
+76134|El Tintero|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0111|Urbano|01
+76135|San Antonio de la Punta|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0113|Urbano|01
+76135|5 de Febrero|Unidad habitacional|Querétaro|Querétaro|Querétaro|76201|22|76201||31|014|1680|Urbano|01
+76136|José María Arteaga|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0114|Urbano|01
+76136|Zona Militar|Equipamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||17|014|0115|Urbano|01
+76137|Santa María Magdalena|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0118|Urbano|01
+76137|El Chamizal|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1652|Urbano|01
+76137|Ferrocarriles Sección Rinconada Santa Anita|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|2163|Urbano|01
+76137|Residencial las Fuentes|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0904|Urbano|01
+76137|La Aurora|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1213|Urbano|01
+76137|San Antonio del Maurel|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0895|Urbano|01
+76137|Del Valle|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|1659|Urbano|01
+76137|Rinconada Santa Anita|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|2176|Urbano|01
+76137|Jardines del Valle|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1065|Urbano|01
+76137|San José 2a Sección|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1653|Urbano|01
+76137|Santo Niño|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0891|Urbano|01
+76137|Las Flores|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0892|Urbano|01
+76137|La Sierrita|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0896|Urbano|01
+76137|Valle Real de San Ángel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1651|Urbano|01
+76138|Villas de Santa Mónica|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1657|Urbano|01
+76138|El Progreso|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0121|Urbano|01
+76138|Rinconada Zimapán|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1214|Urbano|01
+76138|Felipe Carrillo Puerto|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0119|Urbano|01
+76138|Valle del Mezquital|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1649|Urbano|01
+76138|El Tintero|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|3035|Urbano|01
+76138|Santa Mónica 1a Sección|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0122|Urbano|01
+76138|Santa Mónica 2a Secc|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0901|Urbano|01
+76138|Las Teresas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0120|Urbano|01
+76138|El Higo|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1650|Urbano|01
+76138|Luis Donaldo Colosio|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1195|Urbano|01
+76139|Los Tabachines|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0897|Urbano|01
+76139|Los Laureles|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0900|Urbano|01
+76139|Las Josefinas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1658|Urbano|01
+76139|San José|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0898|Urbano|01
+76139|San Diego|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0899|Urbano|01
+76139|Carrillo|Zona industrial|Querétaro|Querétaro|Querétaro|76201|22|76201||37|014|1032|Urbano|01
+76139|La Higuera|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|3034|Urbano|01
+76139|Manuel Jurado|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0123|Urbano|01
+76140|San Pedrito Peñuelas|Zona industrial|Querétaro|Querétaro|Querétaro|76132|22|76132||37|014|1670|Urbano|01
+76140|Colinas del Parque|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0126|Urbano|01
+76140|Parque Querétaro 2000|Equipamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||17|014|2272|Urbano|01
+76140|Viveros Residencial|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0963|Urbano|01
+76140|Cedros Tilipanes|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3099|Urbano|01
+76140|Vista 2000|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0962|Urbano|01
+76140|Las Plazas|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|2388|Urbano|01
+76140|Balcones Coloniales|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0125|Urbano|01
+76140|Villas del Parque|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0966|Urbano|01
+76140|Cedros Alcatraces|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3098|Urbano|01
+76140|Arboledas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0124|Urbano|01
+76140|Altos del Marqués 1 y 2 Etapa|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0967|Urbano|01
+76140|Arboledas del Parque|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1068|Urbano|01
+76140|Privada Arboledas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1274|Urbano|01
+76144|Bolaños|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0136|Urbano|01
+76144|Rancho San Antonio|Unidad habitacional|Querétaro|Querétaro|Querétaro|76132|22|76132||31|014|0129|Urbano|01
+76144|El Pedregal de Querétaro|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0964|Urbano|01
+76144|Puerta del Cielo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1273|Urbano|01
+76144|Balcones del Acueducto|Residencial|Querétaro|Querétaro|Querétaro|76132|22|76132||30|014|1275|Urbano|01
+76144|Anexo Ejido Bolaños|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3096|Urbano|01
+76146|Miradores|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3030|Urbano|01
+76146|El Campanario|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0971|Urbano|01
+76146|Lomas del Campanario III|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3095|Urbano|01
+76146|Lomas del Campanario II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1698|Urbano|01
+76146|Residencial el Refugio|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2098|Urbano|01
+76146|La Purísima|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1249|Urbano|01
+76146|Villas Palmira|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2167|Urbano|01
+76146|Lomas del Marqués|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0131|Urbano|01
+76146|La Vista Residencial|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0132|Urbano|01
+76146|Bolaños|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1697|Urbano|01
+76147|Real de España|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1247|Urbano|01
+76147|La Tinaja|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1322|Urbano|01
+76147|Epigmenio González (El Oasis)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1612|Urbano|01
+76147|Colinas de Menchaca 2a Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3046|Urbano|01
+76147|Rinconada de las Joyas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3121|Urbano|01
+76147|Privalia Ambienta|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0134|Urbano|01
+76147|Villas de San José|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1325|Urbano|01
+76147|Palmas de San José|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3042|Urbano|01
+76147|Jardines de San José 3a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3044|Urbano|01
+76147|Lomas de San José|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3106|Urbano|01
+76147|Constituyentes|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0133|Urbano|01
+76147|Ejido Menchaca (Los Pinos)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0184|Urbano|01
+76147|Menchaca III|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0944|Urbano|01
+76147|Menchaca II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0943|Urbano|01
+76147|Colinas de Menchaca|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1237|Urbano|01
+76147|Buenos Aires|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1240|Urbano|01
+76147|Ignacio Zaragoza|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1311|Urbano|01
+76147|Rancho Menchaca|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1614|Urbano|01
+76147|12 de Diciembre|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3040|Urbano|01
+76147|Lomas de Menchaca|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3114|Urbano|01
+76147|Antorchista|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3127|Urbano|01
+76147|Las Fuentes|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0938|Urbano|01
+76147|Victoria Popular|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0941|Urbano|01
+76147|Mujeres Independientes|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1239|Urbano|01
+76147|Nueva Creación|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1246|Urbano|01
+76147|Renacimiento|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1306|Urbano|01
+76147|El Arcángel (La Guayina)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2258|Urbano|01
+76147|San Ángel|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3041|Urbano|01
+76147|Oasis|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3043|Urbano|01
+76147|Fray Junípero Serra|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3108|Urbano|01
+76147|Menchaca I|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0939|Urbano|01
+76147|Cuauhtémoc|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0940|Urbano|01
+76147|Diana Laura Rojas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1245|Urbano|01
+76147|Los Arroyitos|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1613|Urbano|01
+76147|Vistana|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2052|Urbano|01
+76147|Lic. Alfredo Estrada Romero|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2261|Urbano|01
+76147|Monarca|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2262|Urbano|01
+76147|Nuevo Menchaca|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3045|Urbano|01
+76147|La Ladera|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3109|Urbano|01
+76147|Valles de San José|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0127|Urbano|01
+76147|San José el Alto|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0947|Urbano|01
+76147|Independencia|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1243|Urbano|01
+76147|San Felipe|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1250|Urbano|01
+76147|Jardines de San José 1a. y 2a. Sección|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3111|Urbano|01
+76147|Generación 2000|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3113|Urbano|01
+76147|Rancho Menchaca (Ex-Hacienda Menchaca)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0942|Urbano|01
+76147|Cinco Halcones|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1242|Urbano|01
+76147|Santa Fe|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1248|Urbano|01
+76147|Libertadores de América|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1251|Urbano|01
+76147|Jardines de San José|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1323|Urbano|01
+76147|Rancho Quemado|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1324|Urbano|01
+76147|La Ladera (Menchaca III)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1688|Urbano|01
+76147|Enrique Burgos (La Rinconada)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3039|Urbano|01
+76147|Los Huertos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3110|Urbano|01
+76147|Ignacio Pérez|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3112|Urbano|01
+76148|El Vergel|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1148|Urbano|01
+76148|Los Padilla|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1149|Urbano|01
+76148|Ampliación Amalia Solórzano|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1666|Urbano|01
+76148|Alameda|Residencial|Querétaro|Querétaro|Querétaro|76132|22|76132||30|014|3057|Urbano|01
+76148|El Jardín|Residencial|Querétaro|Querétaro|Querétaro|76132|22|76132||30|014|3104|Urbano|01
+76148|Puerta de Belén|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0128|Urbano|01
+76148|Unidad Nacional|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1146|Urbano|01
+76148|Jardines de Villas de Santiago|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3107|Urbano|01
+76148|San Pedrito Peñuelas I|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0952|Urbano|01
+76148|Paseos del Pedregal|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2028|Urbano|01
+76148|Lomas de San Pedrito|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0880|Urbano|01
+76148|San Pedrito Ecológico|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0950|Urbano|01
+76148|Ricardo Flores Magón|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0951|Urbano|01
+76148|Villas Fontana|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1253|Urbano|01
+76148|Bosques de Buenavista|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1599|Urbano|01
+76148|Nueva Esperanza|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1600|Urbano|01
+76148|Colinas de San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2035|Urbano|01
+76148|Nuevo San Pedrito|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|2042|Urbano|01
+76148|Valle de San Pedrito Peñuelas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3036|Urbano|01
+76148|La Ladera|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3056|Urbano|01
+76148|Rincones del Parque|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|3116|Urbano|01
+76148|Los Sabinos|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0949|Urbano|01
+76148|San Pedrito Peñuelas II|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0953|Urbano|01
+76148|San Pedrito Peñuelas IV|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0955|Urbano|01
+76148|Conjunto Belén|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1147|Urbano|01
+76148|Eurípides|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1168|Urbano|01
+76148|Anexo a la Ecólogia|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3037|Urbano|01
+76148|Peñuelas|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0135|Urbano|01
+76148|Misión Bucareli Norte|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|0301|Urbano|01
+76148|Lomas de San Pedrito (Sección Portales)|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0958|Urbano|01
+76148|Villas de Santiago|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0986|Urbano|01
+76148|San Pedrito los Arcos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1073|Urbano|01
+76148|El Parque|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1074|Urbano|01
+76148|Los Ciruelos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1278|Urbano|01
+76148|Paseos de la Cuesta|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|2166|Urbano|01
+76148|San Pedrito Peñuelas III|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0954|Urbano|01
+76148|Reforma Agraria Radical|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0960|Urbano|01
+76148|Jardines de Santiago|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1279|Urbano|01
+76148|Bosques de la Hacienda|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1598|Urbano|01
+76148|Amalia Solórzano|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0948|Urbano|01
+76148|Libertad|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|0957|Urbano|01
+76148|Cuesta Azul|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|1072|Urbano|01
+76148|La Rueca|Condominio|Querétaro|Querétaro|Querétaro|76132|22|76132||10|014|2332|Urbano|01
+76148|Bosques de Iturbide|Colonia|Querétaro|Querétaro|Querétaro|76132|22|76132||09|014|3115|Urbano|01
+76149|Misión de Concá|Fraccionamiento|Querétaro|Querétaro|Querétaro|76132|22|76132||21|014|1272|Urbano|01
+76150|Los Fresnos|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0144|Urbano|01
+76150|Molinos de la Era|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0146|Urbano|01
+76150|Felipe Ángeles|Condominio|Querétaro|Querétaro|Querétaro|76021|22|76021||10|014|0921|Urbano|01
+76150|Rinconada los Pirules|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0913|Urbano|01
+76150|Asalias|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|2031|Urbano|01
+76150|Géminis|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||12|014|1312|Urbano|01
+76150|Los Alcanfores Sección Sur|Equipamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||17|014|1677|Urbano|01
+76150|Constituyentes FOVISSSTE|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|0137|Urbano|01
+76150|Los Molinos|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0145|Urbano|01
+76150|La Popular|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|0147|Urbano|01
+76150|Parque Industrial la Montaña|Zona industrial|Querétaro|Querétaro|Querétaro|76021|22|76021||37|014|0920|Urbano|01
+76150|Sauces|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|3031|Urbano|01
+76150|Rinconada San José|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|3033|Urbano|01
+76150|La Estación F.F.C.C.|Estación|Querétaro|Querétaro|Querétaro|76021|22|76021||16|014|0139|Urbano|01
+76150|La Florida|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0140|Urbano|01
+76150|La Piedad|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0142|Urbano|01
+76150|San Pablo Tecnológico|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0923|Urbano|01
+76150|Los Vitrales|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1035|Urbano|01
+76150|Tecnológico 2000|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|1310|Urbano|01
+76150|San José de la Montaña|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1678|Urbano|01
+76150|El Fenix|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1679|Urbano|01
+76150|Los Alcanfores|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0143|Urbano|01
+76150|Villas Tecnológico|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1034|Urbano|01
+76150|Bugambilias|Residencial|Querétaro|Querétaro|Querétaro|76021|22|76021||30|014|3032|Urbano|01
+76150|La Era|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0141|Urbano|01
+76150|San Roque|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0148|Urbano|01
+76150|San Roque|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||12|014|1675|Urbano|01
+76154|El Retablo|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0150|Urbano|01
+76155|Viveros de Querétaro|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0154|Urbano|01
+76156|Los Eucaliptos|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0156|Urbano|01
+76156|Los Alcanfores Sección Norte|Equipamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||17|014|1676|Urbano|01
+76156|Constituyentes de 1824|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0155|Urbano|01
+76156|San Gregorio|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0911|Urbano|01
+76157|Santa Catarina|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0157|Urbano|01
+76158|Departamental Parques|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0917|Semiurbano|01
+76158|Prados del Tecnológico|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0918|Urbano|01
+76158|Los Faroles|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0919|Urbano|01
+76158|España|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0158|Urbano|01
+76158|Conjunto Parques|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0915|Urbano|01
+76158|Real del Parque|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|0932|Urbano|01
+76158|Las Peñas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0916|Urbano|01
+76158|Las Peñitas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0159|Urbano|01
+76158|El Porvenir|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0160|Urbano|01
+76158|Tecnológico|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0161|Urbano|01
+76158|Victoria|Conjunto habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||12|014|1033|Urbano|01
+76159|Rinconada San Joaquín|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0910|Urbano|01
+76159|Los Girasoles|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0162|Urbano|01
+76159|Fresnos Condominio 4|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1673|Urbano|01
+76159|Balcón Campestre|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0925|Urbano|01
+76159|Conjunto Querétaro|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1196|Urbano|01
+76159|Fresnos Condominio 2|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1671|Urbano|01
+76159|Real Jurica|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0914|Urbano|01
+76159|5 de Febrero|Zona industrial|Querétaro|Querétaro|Querétaro|76021|22|76021||37|014|1674|Urbano|01
+76159|Real de San Pablo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|3132|Urbano|01
+76159|San Pablo|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0109|Urbano|01
+76159|La Cima|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0924|Urbano|01
+76159|Fresnos Condominio 3|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|1672|Urbano|01
+76160|Álamos 1a Sección|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0163|Urbano|01
+76160|Álamos 2a Sección|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0164|Urbano|01
+76160|Álamos 3a Sección|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0165|Urbano|01
+76160|El Cerrito|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0166|Urbano|01
+76160|Residencial Parque del Álamo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0926|Urbano|01
+76160|Las Brujas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0168|Urbano|01
+76160|Privada Bugambilias|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1692|Urbano|01
+76160|Montecarlo|Condominio|Querétaro|Querétaro|Querétaro|76021|22|76021||10|014|1695|Urbano|01
+76160|Las Hadas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0169|Urbano|01
+76160|Rinconada de los Alamos|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|2044|Urbano|01
+76160|El Tepetate|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0167|Urbano|01
+76160|Romy|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|1694|Urbano|01
+76164|Nacozari|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0172|Urbano|01
+76164|Las Rosas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0173|Urbano|01
+76164|Primavera|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0912|Urbano|01
+76165|Margaritas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0175|Urbano|01
+76165|Los Cedros|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0174|Urbano|01
+76165|Los Claustros|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0927|Urbano|01
+76165|San Sebastián|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0176|Urbano|01
+76165|Guadalupe Victoria (SAHOP)|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0908|Urbano|01
+76166|La Trinidad|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0177|Urbano|01
+76168|Lomas de Lindavista|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0930|Urbano|01
+76168|Quinta La Laborcilla|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0907|Urbano|01
+76168|Claustros del Parque|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|0929|Urbano|01
+76168|Las Gemas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0178|Urbano|01
+76168|Lindavista|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0179|Urbano|01
+76168|Jacarandas|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0906|Urbano|01
+76168|Las Palomas|Fraccionamiento|Querétaro|Querétaro|Querétaro|76021|22|76021||21|014|2249|Urbano|01
+76168|Mega Plaza|Zona comercial|Querétaro|Querétaro|Querétaro|76021|22|76021||33|014|1693|Urbano|01
+76168|Residencial Bosques|Condominio|Querétaro|Querétaro|Querétaro|76021|22|76021||10|014|2273|Urbano|01
+76169|Privada la Laborcilla|Unidad habitacional|Querétaro|Querétaro|Querétaro|76021|22|76021||31|014|1690|Urbano|01
+76169|Plaza del Parque|Colonia|Querétaro|Querétaro|Querétaro|76021|22|76021||09|014|0180|Urbano|01
+76169|Plaza Boulevares|Zona comercial|Querétaro|Querétaro|Querétaro|76021|22|76021||33|014|1689|Urbano|01
+76170|Eucaliptos I|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0823|Urbano|01
+76170|Eucaliptos II|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0824|Urbano|01
+76170|Eucaliptos III|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0825|Urbano|01
+76170|Colibrí|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0821|Urbano|01
+76170|La Capilla|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0181|Urbano|01
+76170|La Reja|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0822|Urbano|01
+76175|Los Virreyes|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0183|Urbano|01
+76176|Prados de La Capilla|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0185|Urbano|01
+76177|Ejido Modelo|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0187|Urbano|01
+76177|Demetrio Vallejo|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1569|Urbano|01
+76177|Frida Kahlo|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1570|Urbano|01
+76177|Rinconada La Capilla|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0844|Urbano|01
+76177|Residencial Parque La Gloria|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1660|Urbano|01
+76177|La Toscana|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|2162|Urbano|01
+76177|Hacienda Galindo|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|3119|Urbano|01
+76177|Galindas Residencial|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0186|Urbano|01
+76177|Carolina|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1217|Urbano|01
+76177|Villa San Antonio|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1661|Urbano|01
+76177|Residencial Gema|Condominio|Querétaro|Querétaro|Querétaro|76201|22|76201||10|014|0004|Urbano|01
+76177|La Carambada|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0845|Urbano|01
+76177|Residencial Frondoso|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0847|Urbano|01
+76177|Villa Jardín|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|1662|Urbano|01
+76177|Provincia Santa Elena|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|2387|Urbano|01
+76177|Modelo|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0217|Urbano|01
+76178|El Rosario|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0219|Urbano|01
+76178|Los Ángeles I|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|2160|Urbano|01
+76178|Villa las Arboledas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0190|Urbano|01
+76178|Ensueño|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0188|Urbano|01
+76178|La Sandia|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1686|Urbano|01
+76179|Quinta Alicia|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|1877|Urbano|01
+76179|El Sillar|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0827|Urbano|01
+76179|Residencial Italia|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|1216|Urbano|01
+76179|Santiago|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0191|Urbano|01
+76179|C.E.A.|Zona federal|Querétaro|Querétaro|Querétaro|76201|22|76201||34|014|2032|Urbano|01
+76180|Jardines de la Hacienda|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0194|Urbano|01
+76180|Orquídeas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0198|Urbano|01
+76180|Anáhuac|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|3097|Urbano|01
+76180|El Jacal|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0193|Urbano|01
+76180|Magisterial|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0841|Urbano|01
+76180|La Joya|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0843|Urbano|01
+76180|La Granja|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0195|Urbano|01
+76180|Las Plazas|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0196|Urbano|01
+76185|Mansiones del Valle|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0199|Urbano|01
+76185|Hacienda San Miguel|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|2161|Urbano|01
+76185|Clautros del Campestre|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|3101|Urbano|01
+76186|Las Torres|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0200|Urbano|01
+76190|Rincón de San Antonio|Fraccionamiento|Querétaro|Querétaro|Querétaro|76201|22|76201||21|014|0848|Urbano|01
+76190|Del Valle|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0205|Urbano|01
+76190|Los Pilares|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|1571|Urbano|01
+76190|Lomas de Querétaro|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0207|Urbano|01
+76190|Club Campestre|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0204|Urbano|01
+76197|Fidel Velázquez Sánchez|Colonia|Querétaro|Querétaro|Querétaro|76201|22|76201||09|014|0211|Urbano|01
+76199|Prados del Campestre|Residencial|Querétaro|Querétaro|Querétaro|76201|22|76201||30|014|0214|Urbano|01
+76210|Salinas|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0153|Rural|
+76210|La Estacada|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0223|Rural|
+76210|Jofrito|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0222|Rural|
+76210|La Ciénega|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0182|Rural|
+76210|La Gotera|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0224|Rural|
+76211|Ojo de Agua|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0225|Rural|
+76212|El Rincón de Ojo de Agua|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0005|Rural|
+76212|Guadalupe (La Lagrima)|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0170|Rural|
+76212|El Raspiño|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0171|Rural|
+76212|La Luz|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0226|Rural|
+76212|La Cantera|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|2432|Rural|
+76213|Jofrito|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0152|Rural|
+76213|La Versolilla|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0116|Rural|
+76213|Palo Alto|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0227|Rural|
+76213|La Palma|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0110|Rural|
+76214|La Estancia Palo Dulce|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0228|Rural|
+76214|El Zapote|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0277|Rural|
+76215|San Antonio de Trojes|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0285|Rural|
+76215|Parque Industrial Querétaro|Zona industrial|Querétaro|Querétaro||76222|22|76222||37|014|2501|Rural|
+76215|Jofre|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0229|Rural|
+76215|El Camino|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0286|Rural|
+76216|Presa de Becerra|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0230|Rural|
+76217|El Cerrito|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0197|Rural|
+76217|El Rosario|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0189|Rural|
+76217|Cañada de la Monja|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0231|Rural|
+76218|Loma del Chino|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0232|Rural|
+76219|La Monja|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0233|Rural|
+76220|Emiliano Zapata|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1557|Urbano|
+76220|El Pedregal|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1559|Urbano|
+76220|Parque Industrial Polígono Empresarial|Zona industrial|Querétaro|Querétaro||76222|22|76222||37|014|2155|Urbano|
+76220|Puerto de Aguirre|Pueblo|Querétaro|Querétaro||76222|22|76222||28|014|0236|Urbano|
+76220|Santa Rosa de Jauregui|Pueblo|Querétaro|Querétaro||76222|22|76222||28|014|0238|Rural|
+76220|Francisco Villa|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1555|Urbano|
+76220|Las Flores|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1565|Urbano|
+76220|San Miguelito|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0237|Rural|
+76220|Colinas de Santa Rosa|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1556|Urbano|
+76220|La Cruz|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1561|Urbano|
+76220|La Loma|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1563|Urbano|
+76220|Montenegro|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0235|Rural|
+76220|Lomas del Pedregal|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1326|Urbano|
+76220|Los Arquitos|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1552|Urbano|
+76220|Las Lajitas|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1558|Urbano|
+76220|Los Ángeles|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1560|Urbano|
+76220|Corregidora|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1562|Urbano|
+76220|Lindavista|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0002|Urbano|
+76220|Valle Dorado|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1327|Urbano|
+76220|Benito Juárez|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1566|Urbano|
+76220|Continental|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1036|Urbano|
+76220|Las Rosas|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1198|Urbano|
+76220|Santa Lucia|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1554|Urbano|
+76220|San Francisco|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1553|Urbano|
+76220|Arboledas|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1564|Urbano|
+76221|Cerro de la Cruz|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0239|Rural|
+76221|Charape de la Joya|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0240|Rural|
+76221|La Carbonera|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0242|Rural|
+76221|La Joya|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0243|Rural|
+76221|La Barreta|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0241|Rural|
+76223|Corea|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0287|Rural|
+76223|Los Venados|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0289|Rural|
+76223|Santa Catarina|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0248|Rural|
+76223|Santa Catarina (Asociación de Colonos)|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0290|Rural|
+76223|Santa Rosa (Los Pilares)|Ejido|Querétaro|Querétaro||76222|22|76222||15|014|0292|Rural|
+76223|Pinto|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0246|Rural|
+76223|Pintillo|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0245|Rural|
+76223|Zona Este de Montenegro|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0291|Rural|
+76223|San Isidro Buenavista|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0247|Rural|
+76223|Monte Negro|Ejido|Querétaro|Querétaro||76222|22|76222||15|014|0288|Rural|
+76223|Hacienda Santa Rosa|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|2322|Urbano|
+76224|San Isidro Viejo|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0252|Rural|
+76224|Llano de La Rochera|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0264|Rural|
+76224|El Cerrito|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0215|Rural|
+76224|El Paraíso|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0220|Rural|
+76224|Los Jiménez|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0216|Rural|
+76224|Estancia de la Rochera|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0250|Rural|
+76224|Presita de San Antonio|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0212|Rural|
+76224|Cerro Colorado (El Colorado)|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0218|Rural|
+76224|Casa Blanca|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0249|Rural|
+76224|El Herrero|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0262|Rural|
+76224|La Puerta de Santiaguillo|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0209|Rural|
+76224|Pie de Gallo|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0251|Rural|
+76224|Zona Periferica San Miguelito|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0213|Rural|
+76224|El Madroño|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|3047|Rural|
+76225|Campo Real|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0284|Rural|
+76225|La Guadalupana|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0282|Rural|
+76225|Buenavista|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0253|Rural|
+76225|El Salvador|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0283|Rural|
+76226|Loma Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1546|Rural|
+76226|Rincón del Lago|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1547|Rural|
+76226|Campestre Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1531|Rural|
+76226|San Isidro Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|0003|Urbano|
+76226|Villas del Mesón|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|0257|Rural|
+76226|Real de Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1533|Rural|
+76226|Real de Juriquilla Prados|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1532|Rural|
+76226|Jurica Misiones|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1536|Rural|
+76226|San José Buenavista|Poblado comunal|Querétaro|Querétaro||76222|22|76222||27|014|0256|Rural|
+76226|Juriquilla|Pueblo|Querétaro|Querétaro||76222|22|76222||28|014|1543|Rural|
+76226|Lomas de Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|0106|Urbano|
+76226|Acequia Blanca|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0255|Rural|
+76226|Campestre Ecológico la Rica|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1534|Rural|
+76226|Cuadrilla Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1545|Rural|
+76227|El Patol|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0258|Rural|
+76227|San José de la Tinaja|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0261|Rural|
+76227|Los Muertos|Poblado comunal|Querétaro|Querétaro||76201|22|76201||27|014|0208|Rural|
+76227|La Purísima|Ejido|Querétaro|Querétaro||76201|22|76201||15|014|0260|Rural|
+76227|Cerro Prieto|Poblado comunal|Querétaro|Querétaro||76201|22|76201||27|014|0201|Rural|
+76227|El Transito|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0259|Rural|
+76227|Quintín Lozada|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0206|Rural|
+76228|La Tinaja de La Estancia|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0263|Rural|
+76228|San Isidro El Alto|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0265|Rural|
+76229|El Pie|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0266|Rural|
+76229|El Bordo|Colonia|Querétaro|Querétaro||76201|22|76201||09|014|0244|Rural|
+76229|Tlacote El Alto|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0267|Rural|
+76229|La Mesita de Abajo|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|3134|Rural|
+76229|Tlacote el Bajo|Pueblo|Querétaro|Querétaro||76201|22|76201||28|014|0272|Urbano|
+76229|El Puertecito|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0281|Rural|
+76229|Santa María del Zapote|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0269|Rural|
+76229|Mompaní|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|2202|Rural|
+76229|El Nabo|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0268|Rural|
+76229|San Francisco de la Palma|Colonia|Querétaro|Querétaro||76201|22|76201||09|014|2053|Urbano|
+76230|Cumbres del Lago|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1261|Semiurbano|
+76230|La Solana|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1538|Semiurbano|
+76230|Rancho Largo|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1550|Semiurbano|
+76230|Azteca|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1551|Semiurbano|
+76230|Altavista Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1537|Semiurbano|
+76230|Nuevo Paraíso|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1540|Semiurbano|
+76230|Punta Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|0270|Rural|
+76230|Balcones de Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1262|Semiurbano|
+76230|La Cañada Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1264|Urbano|
+76230|Mayoral 1 y 2|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1539|Semiurbano|
+76230|Paraíso Diamante|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1541|Semiurbano|
+76230|Los Naranjos|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1542|Semiurbano|
+76230|Caletto|Residencial|Querétaro|Querétaro||76222|22|76222||30|014|2174|Semiurbano|
+76230|Jurica Tolimán|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1265|Semiurbano|
+76230|Juriquilla Privada|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1267|Semiurbano|
+76230|Paseo del Piropo|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1407|Semiurbano|
+76230|Nuevo Juriquilla|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|1549|Urbano|
+76230|Independencia|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1567|Semiurbano|
+76230|San Francisco Juriquilla|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1266|Semiurbano|
+76230|Jurica La Solana|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|0234|Rural|
+76230|Jurica Acueducto|Fraccionamiento|Querétaro|Querétaro||76222|22|76222||21|014|1544|Semiurbano|
+76230|Juriquilla Santa Fe|Residencial|Querétaro|Querétaro||76222|22|76222||30|014|2529|Urbano|
+76233|La Nopalera|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0296|Rural|
+76233|Los Guardados|Ranchería|Querétaro|Querétaro||76222|22|76222||29|014|0295|Rural|
+76233|Las Mariposas|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0298|Rural|
+76233|Potrero Tetillas|Colonia|Querétaro|Querétaro||76222|22|76222||09|014|0297|Rural|
+76234|Mesita de Mompani|Ejido|Querétaro|Querétaro||76201|22|76201||15|014|2038|Rural|
+76234|Santo Niño de Praga|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0275|Rural|
+76235|Fracción Ejido el Retablo|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|0024|Rural|
+76235|Sonterra|Fraccionamiento|Querétaro|Querétaro||76201|22|76201||21|014|2530|Rural|
+76235|Sección Oeste de Santa María|Fraccionamiento|Querétaro|Querétaro||76201|22|76201||21|014|0049|Urbano|
+76235|El Rincón|Ranchería|Querétaro|Querétaro||76201|22|76201||29|014|2255|Urbano|
+76235|Campestre Huertas la Joya|Fraccionamiento|Querétaro|Querétaro||76201|22|76201||21|014|0117|Urbano|
+76235|Viñedos|Fraccionamiento|Querétaro|Querétaro||76201|22|76201||21|014|2531|Rural|
+76237|CERESO del Estado|Zona federal|Querétaro|Querétaro||76132|22|76132||34|014|0293|Rural|
+76237|Campi|Colonia|Querétaro|Querétaro||76132|22|76132||09|014|0294|Rural|
+76237|San Pedrito el Alto|Ranchería|Querétaro|Querétaro||76132|22|76132||29|014|0273|Rural|
+76238|Prados de Miranda|Colonia|Querétaro|Querétaro||76201|22|76201||09|014|0006|Rural|
+76238|Nuevo Horizonte|Colonia|Querétaro|Querétaro||76201|22|76201||09|014|0015|Rural|
+76238|Santa Juanita|Colonia|Querétaro|Querétaro||76201|22|76201||09|014|0012|Rural|
+76238|Las Águilas|Colonia|Querétaro|Querétaro||76201|22|76201||09|014|0014|Rural|

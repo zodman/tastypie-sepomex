@@ -1,0 +1,21 @@
+59780|Chilchota Centro|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1418|Urbano|
+59780|El Barrio|Colonia|Chilchota|Michoacán de Ocampo||59781|16|59781||09|025|5119|Urbano|
+59780|El Rocío|Colonia|Chilchota|Michoacán de Ocampo||59781|16|59781||09|025|5120|Urbano|
+59780|La Mesa|Colonia|Chilchota|Michoacán de Ocampo||59781|16|59781||09|025|5121|Urbano|
+59780|Chapala|Colonia|Chilchota|Michoacán de Ocampo||59781|16|59781||09|025|5118|Urbano|
+59783|Huecato|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|1420|Rural|
+59786|Los Nogales|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|1421|Rural|
+59787|El Pedregal|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|5122|Rural|
+59787|La Cofradía|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|5123|Rural|
+59790|Tanaquillo|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1422|Rural|
+59791|Carapan|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1423|Urbano|
+59792|Huancito|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1425|Urbano|
+59792|Ichán|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1426|Urbano|
+59792|Acachuén|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1424|Rural|
+59793|San Juan Carapan|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|1427|Urbano|
+59794|Santa María Tacuro|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1428|Rural|
+59795|Santo Tomás|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1429|Rural|
+59796|Urén|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1430|Rural|
+59797|Zopoco|Pueblo|Chilchota|Michoacán de Ocampo||59781|16|59781||28|025|1431|Rural|
+59799|José María Morelos|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|1432|Rural|
+59799|Rancho Seco|Ranchería|Chilchota|Michoacán de Ocampo||59781|16|59781||29|025|1433|Rural|

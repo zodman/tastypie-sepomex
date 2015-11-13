@@ -1,0 +1,8 @@
+33990|Coronado|Villa|Coronado|Chihuahua||33981|08|33981||32|014|2134|Rural|
+33991|Benito Juárez|Colonia|Coronado|Chihuahua||33981|08|33981||09|014|2135|Rural|
+33992|Emiliano Zapata|Ejido|Coronado|Chihuahua||33981|08|33981||15|014|2136|Rural|
+33993|Iturralde|Ejido|Coronado|Chihuahua||33981|08|33981||15|014|2137|Rural|
+33995|Conquista Agraria|Ranchería|Coronado|Chihuahua||33981|08|33981||29|014|7342|Rural|
+33996|Las Pilas|Ejido|Coronado|Chihuahua||33981|08|33981||15|014|2138|Rural|
+33996|San Pedro|Ranchería|Coronado|Chihuahua||33981|08|33981||29|014|0001|Rural|
+33997|San Isidro|Ranchería|Coronado|Chihuahua||33981|08|33981||29|014|5784|Rural|

@@ -1,0 +1,99 @@
+59000|José Sánchez del Río|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0004|Urbano|08
+59000|Centro|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1018|Urbano|08
+59010|Seminario de Oblatos|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1027|Urbano|08
+59010|Llanos de Sahuayo|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|0028|Urbano|08
+59010|Arboledas|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1028|Urbano|08
+59010|Alameda|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0015|Urbano|08
+59010|Jardines de Sahuayo|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0029|Urbano|08
+59010|Las Brisas|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1025|Urbano|08
+59012|Loma Dorada|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|4095|Urbano|08
+59012|Rancho Dorado|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|3557|Urbano|08
+59013|Jardines de San Isidro|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0012|Urbano|08
+59013|Enrique Prado|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0013|Urbano|08
+59013|San Isidro|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1026|Urbano|08
+59013|Los Olivos|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0014|Urbano|08
+59014|San José|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0026|Urbano|08
+59014|María Concepción|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0017|Urbano|08
+59014|Guadalupe|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0011|Urbano|08
+59015|Paso de las Águilas|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0001|Urbano|08
+59020|J. Trinidad Barragán|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1036|Urbano|08
+59020|Marcos Castellanos|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1047|Urbano|08
+59020|INFONAVIT|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0039|Urbano|08
+59020|Dámaso Cárdenas|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1035|Urbano|08
+59023|Grijalva|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|3527|Urbano|08
+59023|La Muda|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|3534|Urbano|08
+59023|Enrique Méndez|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1038|Urbano|08
+59026|Niños Héroes|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1043|Urbano|08
+59026|Royal Country|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1007|Urbano|08
+59027|La Aurora|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0018|Urbano|08
+59027|Microindustrial|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1044|Urbano|08
+59027|Los Pinos|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0016|Urbano|08
+59027|El Salitre (SARH)|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1045|Urbano|08
+59027|Magisterio|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1046|Urbano|08
+59028|La Popular|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1042|Urbano|08
+59030|Las Rosas|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1055|Urbano|08
+59030|Lindavista|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1060|Urbano|08
+59030|Pedregal de Santiago|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1022|Urbano|08
+59030|Lindavista|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0010|Urbano|08
+59033|Noria de Montes|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1024|Urbano|08
+59033|Los Sauces|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1059|Urbano|08
+59034|Bugambilias Residencial|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0031|Urbano|08
+59034|Camino Real|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|0964|Urbano|08
+59034|Real Victoria|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|4093|Urbano|08
+59034|Prados Verdes|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1058|Urbano|08
+59034|Pedregal de Santiago|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0009|Urbano|08
+59035|Puerta del Sol|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0030|Urbano|08
+59035|La Yerbabuena|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1057|Urbano|08
+59035|Azaleas I|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0033|Urbano|08
+59035|Azaleas II|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0034|Urbano|08
+59035|San Onofre|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1009|Urbano|08
+59036|Balcones del Valle|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|0008|Urbano|08
+59036|Cumbres|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0032|Urbano|08
+59036|Peñitas|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|3532|Urbano|08
+59040|Lomas de Santiago|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1061|Urbano|08
+59040|Cristo Rey|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1048|Urbano|08
+59040|Colinas del Tepeyac|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|3526|Urbano|08
+59043|Manuel J. Cloutier|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0006|Urbano|08
+59043|Santiaguillo|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|0007|Urbano|08
+59044|Lomas de Santiaguito|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|0027|Urbano|08
+59044|Las Barranquillas|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0035|Urbano|08
+59045|Miradores del Tepeyac|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0005|Urbano|08
+59045|Jardín Real|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0025|Urbano|08
+59050|San Rafael|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0003|Urbano|08
+59050|Valle Verde|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1029|Urbano|08
+59050|Forestal|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1030|Urbano|08
+59057|Roccalta|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0037|Urbano|08
+59057|Primavera Residencial|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|4092|Urbano|08
+59057|Terravida|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0038|Urbano|08
+59057|La Puntita|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1032|Urbano|08
+59058|Michoacán|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0036|Urbano|08
+59058|Guadalajara|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|3528|Urbano|08
+59058|Residencial Sahuayo|Fraccionamiento|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||21|076|0002|Urbano|08
+59058|La Limonera|Colonia|Sahuayo|Michoacán de Ocampo|Sahuayo de Morelos|59001|16|59001||09|076|1034|Urbano|08
+59100|Lomas de Fátima|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|0023|Rural|
+59100|Potrero el Molino|Ranchería|Sahuayo|Michoacán de Ocampo||59001|16|59001||29|076|6640|Rural|
+59100|Bosque de las Lomas|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|0022|Rural|
+59100|Loma Dorada|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|0024|Rural|
+59100|Lomas del Valle Dos|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|6641|Rural|
+59100|Tuna Mansa|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|1065|Rural|
+59100|La Chicharra|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6644|Rural|
+59100|Lomas del Valle Uno|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|0020|Rural|
+59100|Rincón de San Andrés|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|1064|Rural|
+59100|Loma Bonita|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|0019|Rural|
+59100|La Cabaña|Ranchería|Sahuayo|Michoacán de Ocampo||59001|16|59001||29|076|6642|Rural|
+59100|La Calzonuda|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6643|Rural|
+59100|Campestre la Presa|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|0021|Rural|
+59100|Barranca del Aguacate|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|1063|Rural|
+59100|La Flor del Agua|Ranchería|Sahuayo|Michoacán de Ocampo||59001|16|59001||29|076|4096|Rural|
+59102|El Moral|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6647|Rural|
+59102|El Añil|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6646|Rural|
+59102|La Barranca de la Gloria|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|1066|Rural|
+59102|Barranca del Soyate|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6645|Rural|
+59102|La Uva|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6648|Rural|
+59103|Lomas de la Universidad|Colonia|Sahuayo|Michoacán de Ocampo||59001|16|59001||09|076|6637|Rural|
+59104|San Miguel|Fraccionamiento|Sahuayo|Michoacán de Ocampo||59001|16|59001||21|076|6638|Urbano|
+59105|Sin Agua|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6652|Rural|
+59105|Las Gallinas|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6651|Rural|
+59105|El Poblado de las Gallinas|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|4097|Rural|
+59105|El Güirio|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|1068|Rural|
+59105|La Raya|Poblado comunal|Sahuayo|Michoacán de Ocampo||59001|16|59001||27|076|6650|Rural|

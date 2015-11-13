@@ -1,0 +1,182 @@
+20900|Santo Domingo|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0002|Urbano|
+20900|Puerta Norte|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0015|Urbano|
+20900|Corral de Barrancos|Congregación|Jesús María|Aguascalientes||20921|01|20921||11|005|0837|Rural|
+20900|Trojes del Norte II|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1181|Rural|
+20900|Rinconada Maravillas|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1049|Rural|
+20900|Trojes del Norte|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1180|Rural|
+20900|Valle Escondido|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1183|Rural|
+20900|Las Pérgolas|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1362|Urbano|
+20900|Residencial Villa Campestre|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1090|Urbano|
+20900|Maravillas|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0839|Rural|
+20900|Residencial Campestre Ingles|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0018|Urbano|
+20900|Los Olivos|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1047|Rural|
+20900|La Nogalera|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|1422|Urbano|
+20900|Residencial Misión de San José|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0017|Urbano|
+20901|El Maguey|Congregación|Jesús María|Aguascalientes||20921|01|20921||11|005|0842|Rural|
+20901|Las Jaulas|Poblado comunal|Jesús María|Aguascalientes||20921|01|20921||27|005|1098|Rural|
+20901|La Loma de Valladolid|Poblado comunal|Jesús María|Aguascalientes||20921|01|20921||27|005|1099|Rural|
+20901|La Chaveña|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1179|Rural|
+20902|La Loma|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0844|Rural|
+20903|La Florida|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0861|Rural|
+20903|Margaritas|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0845|Rural|
+20903|Villas de Montecassino|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0032|Urbano|
+20904|Los Ramírez|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0846|Rural|
+20904|Los Vázquez|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0847|Rural|
+20905|Paso Blanco|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0849|Rural|
+20905|Los Sauces|Poblado comunal|Jesús María|Aguascalientes||20921|01|20921||27|005|1434|Rural|
+20905|La Lomita de Paso Blanco (Las Canoas)|Poblado comunal|Jesús María|Aguascalientes||20921|01|20921||27|005|1103|Rural|
+20905|Los Arenales|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1100|Rural|
+20905|Miravalle|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0848|Rural|
+20907|San Miguelito|Congregación|Jesús María|Aguascalientes||20921|01|20921||11|005|0851|Rural|
+20907|Paseos del Country|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|1178|Urbano|
+20907|Jardines de Campo Real|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1438|Urbano|
+20907|Viñedos Ríos (Granja Chispiritos)|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0016|Rural|
+20907|Viñedos Frutilandia|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0853|Rural|
+20907|Santa Elena|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0028|Urbano|
+20907|Arboledas de Paso Blanco|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1052|Urbano|
+20907|Centro Distribuidor de Básicos Viñedos San Marcos|Zona comercial|Jesús María|Aguascalientes||20921|01|20921||33|005|1067|Urbano|
+20907|Paseos de Aguascalientes|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|0985|Semiurbano|
+20907|Residencial Campo Real|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1356|Urbano|
+20908|Reserva San Cristóbal|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1382|Urbano|
+20908|Residencial Cedros|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1187|Urbano|
+20908|Residencial Marcellana|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0007|Urbano|
+20908|Rinconada Cuauhtémoc|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0011|Urbano|
+20908|Punta Norte|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0023|Urbano|
+20908|Los Gavilanes|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0030|Rural|
+20908|Viña Antigua|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1119|Urbano|
+20908|Rancho San Miguel|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1360|Urbano|
+20908|Alcázar Residencial|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1368|Urbano|
+20908|La Arborada|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1406|Rural|
+20908|Granja Lizzy|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1428|Rural|
+20908|Tepetates|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0852|Rural|
+20908|Villas del Molino|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1143|Urbano|
+20908|Mayorazgo San Cristóbal|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0005|Urbano|
+20908|Trojes de San Cristóbal|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1051|Rural|
+20908|Quintas de Monticello|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1088|Rural|
+20908|Privanza de Gratamira|Residencial|Jesús María|Aguascalientes||20921|01|20921||30|005|1426|Urbano|
+20908|Catania Spazio|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0012|Urbano|
+20908|Porta Real|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|1177|Urbano|
+20908|Nura|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0033|Urbano|
+20908|Andares|Residencial|Jesús María|Aguascalientes||20921|01|20921||30|005|1437|Urbano|
+20908|Belmondo|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0006|Urbano|
+20909|Valle de Margaritas|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0020|Urbano|
+20909|Los Vázquez|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|0022|Urbano|
+20909|El Zapato|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0855|Rural|
+20909|Paso de Argenta|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1152|Urbano|
+20909|Villas del Sol|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0019|Urbano|
+20909|Jesús Gómez Portugal (Margaritas)|Pueblo|Jesús María|Aguascalientes||20921|01|20921||28|005|0854|Urbano|
+20909|Saturnino Herran|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|0021|Urbano|
+20909|Paseos Gómez Portugal|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0983|Rural|
+20909|La Guayana (Rancho Seco)|Ejido|Jesús María|Aguascalientes||20921|01|20921||15|005|1097|Rural|
+20909|INFONAVIT Margaritas|Conjunto habitacional|Jesús María|Aguascalientes||20921|01|20921||12|005|0010|Rural|
+20910|San Antonio de los Horcones|Congregación|Jesús María|Aguascalientes||20921|01|20921||11|005|0840|Rural|
+20910|Brownsville|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1106|Rural|
+20913|Valladolid|Congregación|Jesús María|Aguascalientes||20921|01|20921||11|005|0841|Rural|
+20913|El Aurero|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1101|Rural|
+20913|Villas de Guadalupe (La Malobra)|Poblado comunal|Jesús María|Aguascalientes||20921|01|20921||27|005|1102|Rural|
+20913|El Refugio|Ejido|Jesús María|Aguascalientes||20921|01|20921||15|005|0843|Rural|
+20913|El Cenizo|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|1104|Rural|
+20914|La Granjita (Los Palillos)|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0858|Rural|
+20916|Parque Industrial Chichimeco|Zona industrial|Jesús María|Aguascalientes||20921|01|20921||37|005|0014|Rural|
+20916|El Chichimeco|Hacienda|Jesús María|Aguascalientes||20921|01|20921||24|005|0859|Rural|
+20916|Paseos de las Haciendas|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1393|Rural|
+20916|Cartuja|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1417|Rural|
+20917|Pedernal Segundo|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0857|Rural|
+20920|Jesús María Centro|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0891|Semiurbano|04
+20922|Bellavista|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0025|Urbano|04
+20922|La Troje|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0026|Urbano|04
+20922|El Calvario|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0892|Semiurbano|04
+20922|La Escalera|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0893|Semiurbano|04
+20923|Los Álamos|Condominio|Jesús María|Aguascalientes|Jesús María |20921|01|20921||10|005|0013|Urbano|04
+20923|Rinconada Jesús María|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0004|Urbano|04
+20923|La Cuesta|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0896|Semiurbano|04
+20923|Residencial Jesús María|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1363|Urbano|04
+20923|Las Culebras|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0897|Semiurbano|04
+20923|Ruiseñores|Condominio|Jesús María|Aguascalientes|Jesús María |20921|01|20921||10|005|1327|Semiurbano|04
+20923|Real Campestre|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0008|Urbano|04
+20923|La Villa Residencial|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0009|Urbano|04
+20923|Flores Magón|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0894|Semiurbano|04
+20923|La Cardona|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0895|Semiurbano|04
+20923|San Miguelito|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0899|Semiurbano|04
+20923|Los Arroyitos|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0898|Semiurbano|04
+20924|Cielo Claro|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0024|Urbano|04
+20924|Deportiva|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0912|Urbano|04
+20924|Agua Clara|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0900|Semiurbano|04
+20924|Jacarandas|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0901|Semiurbano|04
+20924|Palma Dorada|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1410|Urbano|04
+20924|San Miguelito|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0903|Semiurbano|04
+20924|Los Manantiales|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0902|Semiurbano|04
+20924|Rancho San Pedro|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1339|Urbano|04
+20925|Lomas de Jesús María|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0906|Semiurbano|04
+20925|Benigno Chávez|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0905|Semiurbano|04
+20925|Puerta Grande|Condominio|Jesús María|Aguascalientes|Jesús María |20921|01|20921||10|005|1352|Urbano|04
+20925|Agua Zarca|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0904|Semiurbano|04
+20925|Vistas del Sáuz|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0907|Semiurbano|04
+20926|Martínez Andrade|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0915|Semiurbano|04
+20926|Manantiales del Pinar|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1077|Semiurbano|04
+20926|Loma de La Cañada|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1078|Semiurbano|04
+20926|Residencial Lomas de Vergeles|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1164|Urbano|04
+20926|Mirabrujas|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1387|Urbano|04
+20926|Chicahuales|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0910|Semiurbano|04
+20926|Rincón del Pilar|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|0001|Urbano|
+20926|Arboledas|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0908|Semiurbano|04
+20926|Lomas del Valle|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0914|Semiurbano|04
+20926|Vista Hermosa|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0917|Semiurbano|04
+20926|Misión de Santa María|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|1338|Semiurbano|04
+20926|Yalta Campestre|Condominio|Jesús María|Aguascalientes|Jesús María |20921|01|20921||10|005|1351|Urbano|04
+20926|La Loma|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0913|Semiurbano|04
+20926|Residencial Tres Arroyos|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1367|Urbano|04
+20926|Solidaridad|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0916|Semiurbano|04
+20926|Rinconada Bugambilias|Condominio|Jesús María|Aguascalientes|Jesús María |20921|01|20921||10|005|1165|Urbano|04
+20926|La Loma|Ranchería|Jesús María|Aguascalientes|Jesús María |20921|01|20921||29|005|1337|Semiurbano|04
+20926|La Piedra|Condominio|Jesús María|Aguascalientes|Jesús María |20921|01|20921||10|005|1163|Urbano|04
+20926|Tulipanes Residencial|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1405|Urbano|04
+20927|Ampliación La Cañada|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0920|Semiurbano|04
+20927|Ayuntamiento|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0918|Semiurbano|04
+20927|La Cañada|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0919|Semiurbano|04
+20927|Ojos de Agua|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0921|Semiurbano|04
+20928|Ejidal|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0922|Semiurbano|04
+20928|Buenavista|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|1366|Urbano|04
+20928|El Chaveño|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|1365|Urbano|04
+20928|Las Palmas|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0924|Semiurbano|04
+20928|Plan Benito Juárez|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0925|Semiurbano|04
+20928|El Mezquital|Fraccionamiento|Jesús María|Aguascalientes|Jesús María |20921|01|20921||21|005|0976|Semiurbano|04
+20928|El Torito|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0923|Semiurbano|04
+20928|Solar de Jonacatique|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|1423|Urbano|04
+20928|Luis Donaldo Colosio|Colonia|Jesús María|Aguascalientes|Jesús María |20921|01|20921||09|005|0027|Urbano|04
+20933|Unión de Ladrilleros|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|0029|Rural|
+20934|San Lorenzo|Hacienda|Jesús María|Aguascalientes||20921|01|20921||24|005|0882|Rural|
+20943|Los Muñoz|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0862|Rural|
+20943|Milpillas de Abajo|Ejido|Jesús María|Aguascalientes||20001|01|20001||15|005|0863|Rural|
+20945|Milpilla de Arriba|Ejido|Jesús María|Aguascalientes||20001|01|20001||15|005|0864|Rural|
+20947|El Zapote|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0866|Rural|
+20947|Gracias a Dios|Ejido|Jesús María|Aguascalientes||20001|01|20001||15|005|0865|Rural|
+20953|Cañada de Rodeo|Congregación|Jesús María|Aguascalientes||20001|01|20001||11|005|0867|Rural|
+20955|San Rafael|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0871|Rural|
+20955|La Mesa del Contadero (El Contadero)|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0868|Rural|
+20956|Piedras Negras|Congregación|Jesús María|Aguascalientes||20001|01|20001||11|005|0873|Rural|
+20957|Pedernal Primero|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0869|Rural|
+20957|El Rincón de la Virgen (El Rincón)|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0870|Rural|
+20957|San Isidro|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0860|Rural|
+20964|El Pensamiento|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0872|Rural|
+20970|Tapias Viejas|Congregación|Jesús María|Aguascalientes||20001|01|20001||11|005|0874|Rural|
+20970|Puente de Villalpando (El Puente)|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0881|Rural|
+20974|Puentes Cuates|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0875|Rural|
+20983|Real del Molino|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|0031|Urbano|
+20983|Residencial Antiguo Country|Condominio|Jesús María|Aguascalientes||20921|01|20921||10|005|1364|Urbano|
+20983|Trojes del Pedregal|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|1025|Semiurbano|
+20983|La Troje II|Fraccionamiento|Jesús María|Aguascalientes||20921|01|20921||21|005|1189|Urbano|
+20983|El Llano|Ranchería|Jesús María|Aguascalientes||20921|01|20921||29|005|0878|Rural|
+20984|Providencia|Colonia|Jesús María|Aguascalientes||20921|01|20921||09|005|0879|Rural|
+20986|El Conejo (Puerta del Llano)|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0880|Rural|
+20990|General Ignacio Zaragoza (Venadero)|Congregación|Jesús María|Aguascalientes||20001|01|20001||11|005|0876|Rural|
+20990|Buenavista|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0877|Rural|
+20994|Cieneguitas|Pueblo|Jesús María|Aguascalientes||20001|01|20001||28|005|0003|Rural|
+20994|La Tomatina|Ejido|Jesús María|Aguascalientes||20001|01|20001||15|005|0887|Rural|
+20994|La Estancia|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0884|Rural|
+20995|Agua Zarca|Ranchería|Jesús María|Aguascalientes||20001|01|20001||29|005|0883|Rural|
+20996|Los Arquitos|Ejido|Jesús María|Aguascalientes||20001|01|20001||15|005|0885|Rural|
+20996|La Primavera|Poblado comunal|Jesús María|Aguascalientes||20001|01|20001||27|005|1105|Rural|
+20997|Ruscello|Condominio|Jesús María|Aguascalientes||20001|01|20001||10|005|1389|Rural|
+20997|Q Campestre Residencial|Condominio|Jesús María|Aguascalientes||20001|01|20001||10|005|1400|Rural|
+20997|El Chacho|Pueblo|Jesús María|Aguascalientes||20001|01|20001||28|005|0886|Rural|

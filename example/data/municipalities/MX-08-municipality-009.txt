@@ -1,0 +1,37 @@
+33200|Barrio la Quinta|Barrio|Bocoyna|Chihuahua||33204|08|33204||02|009|0004|Urbano|
+33200|Barrio la Elevación|Barrio|Bocoyna|Chihuahua||33204|08|33204||02|009|0005|Urbano|
+33200|Barrio Rochivo|Barrio|Bocoyna|Chihuahua||33204|08|33204||02|009|0003|Urbano|
+33200|Creel|Estación|Bocoyna|Chihuahua||33204|08|33204||16|009|1626|Rural|
+33200|Profartara|Barrio|Bocoyna|Chihuahua||33204|08|33204||02|009|3314|Rural|
+33200|Barrio Chapultepec|Barrio|Bocoyna|Chihuahua||33204|08|33204||02|009|5652|Urbano|
+33201|Bocoyna|Pueblo|Bocoyna|Chihuahua||33204|08|33204||28|009|1627|Rural|
+33202|Choguita|Poblado comunal|Bocoyna|Chihuahua||33204|08|33204||27|009|1628|Rural|
+33203|Gupitare|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1629|Rural|
+33205|San José Guacayvo|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1631|Rural|
+33206|El Yeposo|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|0002|Rural|
+33208|La Laguna|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1632|Rural|
+33209|Ciénega de Guacayvo|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1633|Rural|
+33210|Barrio de la Presa|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|5684|Urbano|
+33210|Barrio el Gimnasio|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|7788|Urbano|
+33210|El Pozo|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|0001|Urbano|
+33210|Barrio Los Musicos|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|5777|Rural|
+33210|Magisterial|Colonia|Bocoyna|Chihuahua||33212|08|33212||09|009|4145|Rural|
+33210|Barrio El Pinal|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|5731|Urbano|
+33210|Barrio el Panteón|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|5883|Urbano|
+33210|San Juanito Centro|Colonia|Bocoyna|Chihuahua||33212|08|33212||09|009|1635|Urbano|
+33210|Barrio el Seguro|Barrio|Bocoyna|Chihuahua||33212|08|33212||02|009|5884|Urbano|
+33210|Kilómetro 80|Ranchería|Bocoyna|Chihuahua||33212|08|33212||29|009|1634|Rural|
+33211|El Ranchito|Ejido|Bocoyna|Chihuahua||33204|08|33204||15|009|1636|Rural|
+33217|Talayotes|Ejido|Bocoyna|Chihuahua||33204|08|33204||15|009|1638|Rural|
+33220|Panalachi|Pueblo|Bocoyna|Chihuahua||33204|08|33204||28|009|1639|Rural|
+33220|Sisoguichic|Pueblo|Bocoyna|Chihuahua||33204|08|33204||28|009|1640|Rural|
+33221|Huetosacachi|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1641|Rural|
+33221|San Antonio|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1642|Rural|
+33226|El Tascate|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1643|Rural|
+33226|Ojasichi|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1644|Rural|
+33226|Babureachi|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|5769|Rural|
+33227|Sojahuachi|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1645|Rural|
+33228|Bahuinocachi|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1646|Rural|
+33229|Seguereachi|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1647|Rural|
+33233|Pitorreal|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1648|Rural|
+33237|San Ignacio Arareco|Ranchería|Bocoyna|Chihuahua||33204|08|33204||29|009|1649|Rural|

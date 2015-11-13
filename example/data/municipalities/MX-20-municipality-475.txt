@@ -1,0 +1,5 @@
+70440|Rancho Blanco|Ranchería|Santiago Matatlán|Oaxaca||70401|20|70401||29|475|2234|Rural|
+70440|Pedregal|Colonia|Santiago Matatlán|Oaxaca||70401|20|70401||09|475|1214|Rural|
+70440|Santiago Matatlan|Pueblo|Santiago Matatlán|Oaxaca||70401|20|70401||28|475|2235|Rural|
+70442|San Pablo Guila|Pueblo|Santiago Matatlán|Oaxaca||70401|20|70401||28|475|2237|Rural|
+70445|San Felipe|Ranchería|Santiago Matatlán|Oaxaca||70401|20|70401||29|475|2238|Rural|

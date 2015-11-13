@@ -1,0 +1,25 @@
+79740|Nogales|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1512|Rural|
+79740|Rayón|Ciudad|Rayón|San Luis Potosí||79741|24|79741||08|023|1513|Rural|
+79740|Crucero de Rayón|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|2342|Rural|
+79740|El Aguacate|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|2341|Rural|
+79740|Amoladeras|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|1510|Rural|
+79740|El Pajarito|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|1511|Rural|
+79740|San José|Barrio|Rayón|San Luis Potosí||79741|24|79741||02|023|0001|Urbano|
+79740|San Juan|Barrio|Rayón|San Luis Potosí||79741|24|79741||02|023|0002|Urbano|
+79740|Tortugas|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1514|Rural|
+79740|Guadalupe|Barrio|Rayón|San Luis Potosí||79741|24|79741||02|023|2950|Rural|
+79745|Cerrito de La Cruz|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|1516|Rural|
+79746|Pozo Bendito|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1517|Rural|
+79747|La Luz|Poblado comunal|Rayón|San Luis Potosí||79741|24|79741||27|023|2724|Rural|
+79747|Morelos|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1518|Rural|
+79748|Vaqueros|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|1519|Rural|
+79750|Obregón|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|1522|Rural|
+79750|Aguacatillos|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1520|Rural|
+79750|Tierras Coloradas|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1523|Rural|
+79750|Las Canoas|Estación|Rayón|San Luis Potosí||79741|24|79741||16|023|1521|Rural|
+79751|Puertecitos|Congregación|Rayón|San Luis Potosí||79741|24|79741||11|023|1524|Rural|
+79753|Las Guapas|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|2340|Rural|
+79754|Potrero del Carnero|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1525|Rural|
+79754|Vicente Guerrero|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|2343|Rural|
+79755|San Francisco|Ranchería|Rayón|San Luis Potosí||79741|24|79741||29|023|1527|Rural|
+79755|San Felipe de Jesús Gamotes|Ejido|Rayón|San Luis Potosí||79741|24|79741||15|023|1526|Rural|

@@ -1,0 +1,13 @@
+74640|El Calvario|Barrio|Ahuatlán|Puebla||74401|21|74401||02|007|1786|Rural|
+74641|San Lucas Tejaluca|Pueblo|Ahuatlán|Puebla||74401|21|74401||28|007|1787|Rural|
+74643|España|Barrio|Ahuatlán|Puebla||74401|21|74401||02|007|7938|Rural|
+74644|Cuba|Barrio|Ahuatlán|Puebla||74401|21|74401||02|007|7937|Rural|
+74644|Las Palmas|Barrio|Ahuatlán|Puebla||74401|21|74401||02|007|7939|Rural|
+74645|San José el Rodeo (El Rodeo)|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|1788|Rural|
+74645|San Isidro Mimilulco (Mimilulco)|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|1789|Rural|
+74646|El Paso Fraile|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|7932|Rural|
+74647|Guadalupe|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|7935|Rural|
+74647|La Sábila|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|7934|Rural|
+74647|El Carrizo (Paraje Michihuacan)|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|7936|Rural|
+74647|Lagunilla|Ranchería|Ahuatlán|Puebla||74401|21|74401||29|007|7933|Rural|
+74649|Patlanoaya (San Salvador Patlanoaya)|Pueblo|Ahuatlán|Puebla||74401|21|74401||28|007|1790|Rural|

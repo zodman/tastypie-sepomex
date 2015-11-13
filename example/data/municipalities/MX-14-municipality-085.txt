@@ -1,0 +1,52 @@
+49650|Tamazula de Gordiano Centro|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|3037|Semiurbano|54
+49652|San Antonio|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4008|Semiurbano|54
+49652|Los Cantores|Fraccionamiento|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||21|085|4010|Semiurbano|54
+49652|San Antonio Cantores|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4015|Semiurbano|54
+49652|Jardines Del Sagrario|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4014|Semiurbano|54
+49652|La Estancia|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4007|Semiurbano|54
+49653|Agua Caliente|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|3041|Semiurbano|54
+49653|Magisterial|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4005|Urbano|54
+49653|Los Parajes|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4006|Semiurbano|54
+49653|Las Clavelinas|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4002|Semiurbano|54
+49653|Las Margaritas|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4003|Semiurbano|54
+49653|Loma Bonita|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4004|Semiurbano|54
+49653|Benito Juárez|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|3042|Semiurbano|54
+49654|Naranjitos|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4012|Semiurbano|54
+49654|El Crucero|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|5240|Urbano|54
+49654|Bugambilias|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4009|Semiurbano|54
+49654|Callejones|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4013|Semiurbano|54
+49654|Lomas Del Valle|Colonia|Tamazula de Gordiano|Jalisco|Tamazula de Gordiano|49651|14|49651||09|085|4011|Semiurbano|54
+49655|Paso Del Ganado|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3039|Rural|
+49655|Soyatlan de Afuera|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3036|Rural|
+49655|Agua Salada|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3038|Rural|
+49655|San Francisco|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3034|Rural|
+49655|Parajes|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3033|Rural|
+49655|San Juan Bosco|Colonia|Tamazula de Gordiano|Jalisco||49651|14|49651||09|085|3035|Rural|
+49656|Arroyo Hondo|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3043|Rural|
+49656|El Mesón de las Vallas|Pueblo|Tamazula de Gordiano|Jalisco||49651|14|49651||28|085|3044|Rural|
+49657|Vista Hermosa|Ejido|Tamazula de Gordiano|Jalisco||49601|14|49601||15|085|3045|Rural|
+49658|Soyatlan de Adentro|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3046|Rural|
+49659|Alberca y Corral de Mejia|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3047|Rural|
+49660|Contla|Villa|Tamazula de Gordiano|Jalisco||49651|14|49651||32|085|3048|Rural|
+49663|Veladero|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3050|Rural|
+49664|Joya Del Salto|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3051|Rural|
+49665|Pitahayo Del Salto|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3052|Rural|
+49667|La Garita|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3053|Rural|
+49670|Tulillo|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3054|Rural|
+49675|Los Callejones|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3055|Rural|
+49675|Los Naranjitos|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3056|Rural|
+49675|San Vicente|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3058|Rural|
+49675|Yerbabuena|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3059|Rural|
+49675|San Antonio|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3057|Rural|
+49676|Morelos|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3060|Rural|
+49677|La Cofradia de Abajo|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3062|Rural|
+49677|El Taray|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3061|Rural|
+49678|La Rosa|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3065|Rural|
+49678|El Rodeo|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3063|Rural|
+49678|Higueras de San Miguel|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3064|Rural|
+49679|Los Gatos|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3066|Rural|
+49680|Joya de Santa Ana|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3067|Rural|
+49685|Los Rucios|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3068|Rural|
+49687|Las Juntas Del Tejocote|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3069|Rural|
+49690|Nigromante|Ejido|Tamazula de Gordiano|Jalisco||49651|14|49651||15|085|3070|Rural|
+49690|San Juan de La Montaña Nigromante|Ranchería|Tamazula de Gordiano|Jalisco||49651|14|49651||29|085|3071|Rural|

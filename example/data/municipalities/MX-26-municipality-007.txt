@@ -1,0 +1,33 @@
+83820|Atil|Pueblo|Atil|Sonora||83601|26|83601||28|007|0403|Rural|
+83830|Santo Niño de Atocha|Ejido|Atil|Sonora||83601|26|83601||15|007|8449|Rural|
+83830|San Martín|Ejido|Atil|Sonora||83601|26|83601||15|007|8447|Rural|
+83830|El Sartén|Ejido|Atil|Sonora||83601|26|83601||15|007|8427|Rural|
+83833|El Apache|Ejido|Atil|Sonora||83601|26|83601||15|007|8421|Rural|
+83833|Raúl Robles|Ejido|Atil|Sonora||83601|26|83601||15|007|8440|Rural|
+83833|Rancho Dos Hermanos|Ejido|Atil|Sonora||83601|26|83601||15|007|8441|Rural|
+83833|Los Naranjos (El Potrerito)|Ejido|Atil|Sonora||83601|26|83601||15|007|8434|Rural|
+83833|René Celaya|Ejido|Atil|Sonora||83601|26|83601||15|007|8443|Rural|
+83833|Santa Fe (Jesús Paz)|Ejido|Atil|Sonora||83601|26|83601||15|007|8448|Rural|
+83833|Efraín Rodríguez|Ejido|Atil|Sonora||83601|26|83601||15|007|8420|Rural|
+83833|La Susaneña|Ejido|Atil|Sonora||83601|26|83601||15|007|8431|Rural|
+83833|René Reyna|Ejido|Atil|Sonora||83601|26|83601||15|007|8444|Rural|
+83833|La Hacienda|Ejido|Atil|Sonora||83601|26|83601||15|007|8430|Rural|
+83833|Las Canoas|Ejido|Atil|Sonora||83601|26|83601||15|007|8433|Rural|
+83834|La Tinaja II|Ejido|Atil|Sonora||83601|26|83601||15|007|8432|Rural|
+83834|Los Pilares|Ejido|Atil|Sonora||83601|26|83601||15|007|8436|Rural|
+83834|Pozo Blanco (La Tinaja)|Ejido|Atil|Sonora||83601|26|83601||15|007|8438|Rural|
+83835|El Maypa|Ejido|Atil|Sonora||83601|26|83601||15|007|8423|Rural|
+83835|El Represo de los González|Ejido|Atil|Sonora||83601|26|83601||15|007|8425|Rural|
+83836|El Salto|Ejido|Atil|Sonora||83601|26|83601||15|007|8426|Rural|
+83837|Raúl Piña|Ejido|Atil|Sonora||83601|26|83601||15|007|8439|Rural|
+83837|Angélica Loroña|Ejido|Atil|Sonora||83601|26|83601||15|007|8418|Rural|
+83837|Rancho la Potranca|Ejido|Atil|Sonora||83601|26|83601||15|007|8442|Rural|
+83837|Rubén Urias|Ejido|Atil|Sonora||83601|26|83601||15|007|8446|Rural|
+83837|Antonio Loroña|Ejido|Atil|Sonora||83601|26|83601||15|007|8419|Rural|
+83837|El Gato|Ejido|Atil|Sonora||83601|26|83601||15|007|8422|Rural|
+83837|El Porvenir|Ejido|Atil|Sonora||83601|26|83601||15|007|8424|Rural|
+83837|La Corbobeña|Ejido|Atil|Sonora||83601|26|83601||15|007|8429|Rural|
+83837|Reyes Celaya|Ejido|Atil|Sonora||83601|26|83601||15|007|8445|Rural|
+83837|La Canuteña (La Chapeña)|Ejido|Atil|Sonora||83601|26|83601||15|007|8428|Rural|
+83837|Los Nopales|Ejido|Atil|Sonora||83601|26|83601||15|007|8435|Rural|
+83837|Potrero del Carmen (El Monte)|Ejido|Atil|Sonora||83601|26|83601||15|007|8437|Rural|

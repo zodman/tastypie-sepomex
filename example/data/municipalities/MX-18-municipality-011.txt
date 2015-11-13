@@ -1,0 +1,110 @@
+63600|Vado de San Pedro|Pueblo|Ruíz|Nayarit||63621|18|63621||28|011|0481|Rural|
+63600|María de Jesús Parada|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|1288|Rural|
+63603|Crucero de Ruiz|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1227|Rural|
+63603|La Frontera|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1263|Rural|
+63603|El Capomo|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|1231|Rural|
+63603|El Chalán|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1233|Rural|
+63604|Salvador Allende (Las Labradas)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1297|Rural|
+63604|Heroico Batallón de San Blas (La Noria)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0483|Rural|
+63605|La Jarretadera|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|0484|Rural|
+63605|El Veinticinco (El Topete)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1252|Rural|
+63605|Pajaritos|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1289|Rural|
+63605|San Lorenzo|Pueblo|Ruíz|Nayarit||63621|18|63621||28|011|0479|Rural|
+63605|El Venadito|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1254|Rural|
+63605|Crucero de Jarretadera (El Manguito)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1225|Rural|
+63605|Crucero de la Laguna|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1226|Rural|
+63605|Alfonso Vidal (El Mirador)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1292|Rural|
+63605|El Mirador|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1244|Rural|
+63605|La Soledad|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1271|Rural|
+63605|Laguna del Mar|Pueblo|Ruíz|Nayarit||63621|18|63621||28|011|0477|Rural|
+63605|Los Veranos|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1287|Rural|
+63606|El Guarichi|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1239|Rural|
+63606|Juan Escutia|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0485|Rural|
+63606|El Duende|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|1236|Rural|
+63607|La Limonera (Las Higueras)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1264|Rural|
+63607|La Mojonera|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1268|Rural|
+63610|El Venado|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|0486|Rural|
+63613|Puerta de Platanares|Congregación|Ruíz|Nayarit||63621|18|63621||11|011|0487|Rural|
+63613|Los Llanitos (Los Rivera)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1284|Rural|
+63614|La Embocada del Tenamache|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1261|Rural|
+63614|Planes de Guadalupe|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1290|Rural|
+63614|El Veloz|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1253|Rural|
+63614|La Minera Nival|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1267|Rural|
+63614|Santo Domingo|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1298|Rural|
+63614|El Zopilote|Congregación|Ruíz|Nayarit||63621|18|63621||11|011|0488|Rural|
+63614|Lagunitas de Ventanas|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1275|Rural|
+63614|El Coquito|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1234|Rural|
+63615|La Bolita|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0489|Rural|
+63615|El Refugio|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1248|Rural|
+63615|El Carrizal|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1232|Rural|
+63616|El Volantín|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|1255|Rural|
+63616|El Paraíso|Ejido|Ruíz|Nayarit||63621|18|63621||15|011|1246|Rural|
+63616|El Taixte|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1250|Rural|
+63616|Cordón del Jilguero|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0490|Rural|
+63617|Anastacio Flores|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1222|Rural|
+63617|Andrés Lamas|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1223|Rural|
+63617|Huicot (Villa Hermosa)|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1257|Rural|
+63617|Chimaltita|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1224|Rural|
+63617|El Guajolote|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1237|Rural|
+63617|Los Limos|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1283|Rural|
+63617|El Banco|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1229|Rural|
+63617|La Sanguijuela|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1270|Rural|
+63617|Las Planillas|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1278|Rural|
+63617|Los Tepehuanos|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1286|Rural|
+63618|El Manguito|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1243|Rural|
+63618|La Trompeta|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1273|Rural|
+63618|La Estaca|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1294|Rural|
+63618|Silvestre Trinidad|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1299|Rural|
+63618|El Crucero de los Sauces|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1235|Rural|
+63618|Las Adjuntas|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1276|Rural|
+63618|Los Cuernitos|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1282|Rural|
+63618|Los Sauces|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1285|Rural|
+63618|El Naranjo|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0493|Rural|
+63618|El Camichín (La Roblera)|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1230|Rural|
+63618|El Carrizo|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0491|Rural|
+63618|El Limoncito|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1242|Rural|
+63618|Los Cimientos|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1281|Rural|
+63618|El Guanacaste|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1238|Rural|
+63618|Huiscóyotl|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1259|Rural|
+63618|La Majada del Huanacaxtle|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1266|Rural|
+63618|La Yerbabuena|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1274|Rural|
+63618|El Limón|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1240|Rural|
+63618|La Tepamera|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1272|Rural|
+63618|El Otatillo|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1245|Rural|
+63618|La Petaquilla|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1269|Rural|
+63618|Las Majadas|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1277|Rural|
+63618|El Pino|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1247|Rural|
+63618|El Sombrero|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1249|Rural|
+63618|Pancho Guardado|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1295|Rural|
+63619|Presidio de los Reyes|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1221|Rural|
+63619|La Ceiba|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1260|Rural|
+63619|René Salas|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1296|Rural|
+63619|La Encinera|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1262|Rural|
+63619|Prisciliano Flores|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1291|Rural|
+63619|San Pedro Ixcatán|Pueblo|Ruíz|Nayarit||63621|18|63621||28|011|0495|Rural|
+63619|La Loma del Toro|Poblado comunal|Ruíz|Nayarit||63621|18|63621||27|011|1265|Rural|
+63619|Los Cajones|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1280|Rural|
+63619|Huiscóyotl|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1258|Rural|
+63619|Ixcatán del Pozolillo|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|0492|Rural|
+63619|El Agua Caliente|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1228|Rural|
+63619|El Zapote|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1256|Rural|
+63619|Los Arrayanes|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1279|Rural|
+63619|Fidencio Salas|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1293|Rural|
+63619|El Limón|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1241|Rural|
+63619|El Tempizque|Ranchería|Ruíz|Nayarit||63621|18|63621||29|011|1251|Rural|
+63620|Centro|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0791|Urbano|09
+63622|Rey Nayar|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0792|Urbano|09
+63622|La Redonda|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|1188|Urbano|09
+63622|El Panteón|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|1186|Urbano|09
+63623|Talpita|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0793|Urbano|09
+63623|Emilio M. González|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|1187|Urbano|09
+63623|El Capomal|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0794|Urbano|09
+63625|Tijuanita|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0480|Urbano|09
+63625|San Antonio|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0795|Urbano|09
+63626|El Rastro|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0798|Urbano|09
+63626|Cerro de la Cruz|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0797|Urbano|09
+63626|Tiro al Blanco|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0796|Urbano|09
+63626|Unidad Deportiva|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0799|Urbano|09
+63627|Benito Juárez|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|1183|Urbano|09
+63628|Achota|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0801|Urbano|09
+63628|Lindavista|Colonia|Ruíz|Nayarit|Ruiz|63621|18|63621||09|011|0800|Urbano|09

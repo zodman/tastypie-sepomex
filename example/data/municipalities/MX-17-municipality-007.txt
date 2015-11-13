@@ -1,0 +1,311 @@
+62000|Cuernavaca Centro|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0001|Urbano|02
+62008|Secretaria de Hacienda y Crédito Publico|Gran usuario|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||22|007|0003|Urbano|02
+62009|Palacio de Gobierno del Estado de Morelos|Gran usuario|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||22|007|0004|Urbano|02
+62010|Altavista|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0005|Urbano|02
+62010|Las Piletas|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1030|Urbano|02
+62017|Margarita Maza de Juárez|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0006|Urbano|02
+62018|Altavista Barrancas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0007|Urbano|02
+62019|Loma Hermosa|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0008|Urbano|02
+62019|Provinciana|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1009|Rural|02
+62019|Plan de Ayala Barrancas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1008|Urbano|02
+62019|Tepeyehualco|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1026|Rural|02
+62020|José López Portillo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0010|Rural|02
+62020|Sacatierra|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0011|Rural|02
+62020|San Antón|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0012|Urbano|02
+62020|Ampliación Sacatierra|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1911|Urbano|02
+62020|Lomas de San Antón|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0009|Urbano|02
+62020|Las Terrazas|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||31|007|1029|Urbano|02
+62028|Santa Fe|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1014|Urbano|02
+62028|Nueva Santa María|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1013|Urbano|02
+62029|Chulavista|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0013|Urbano|02
+62030|Club de Golf|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0014|Urbano|02
+62037|La Unión|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1017|Rural|02
+62037|Jardines del Edén|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0002|Urbano|02
+62037|Benito Juárez (Lagunilla)|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0015|Urbano|02
+62038|Lagunillas Barrancas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0016|Rural|02
+62039|Lagunilla del Salto|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0017|Urbano|02
+62040|Miguel Hidalgo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0019|Urbano|02
+62050|Las Palmas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0021|Urbano|02
+62050|Benito Juárez (Centro)|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0020|Urbano|02
+62057|Pilares|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0023|Urbano|02
+62059|Bondies|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0025|Urbano|02
+62060|Quintana Roo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0027|Urbano|02
+62070|Chipitlán|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0028|Urbano|02
+62070|Mina Cinco|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0720|Urbano|02
+62076|El Polvorín|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0029|Urbano|02
+62076|Adolfo López Mateos (Polvorín)|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0722|Urbano|02
+62076|Bosques de Palmira|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1023|Urbano|02
+62080|Loma Bonita|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0721|Urbano|02
+62080|Lázaro Cárdenas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0030|Urbano|02
+62083|Lázaro Cárdenas 1ra. Ampliación|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1018|Urbano|02
+62083|Lázaro Cárdenas 2da. Ampliación|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1024|Urbano|02
+62084|La Parota|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1020|Urbano|02
+62100|Santa María Ahuacatitlán|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0031|Urbano|02
+62103|Santa Elena de La Cruz|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0032|Urbano|02
+62115|Ocotera|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0704|Urbano|02
+62115|La Caminera|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0036|Rural|02
+62115|Loma Bonita|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0696|Urbano|02
+62115|Adolfo López Mateos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0698|Urbano|02
+62115|Independencia|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0034|Rural|02
+62116|Balcones de Tepuente|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0035|Rural|02
+62116|Tepuente|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0037|Urbano|02
+62116|Paraje de Tepuente|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0705|Urbano|02
+62116|Valle Tepuente|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0038|Rural|02
+62116|Cabañas del Valle|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0686|Rural|02
+62116|Cruz de La Misión|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0687|Rural|02
+62116|Mirador Universidad|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0702|Urbano|02
+62117|Provincias de Jerusalén|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0039|Urbano|02
+62120|El Monasterio|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0040|Urbano|02
+62120|Rancho Cortes|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0041|Urbano|02
+62123|Ocotitla|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0042|Rural|02
+62130|Real de Tetela|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1171|Urbano|02
+62130|Buenavista|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0043|Urbano|02
+62130|Terrazas Ahuatlán|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1169|Urbano|02
+62130|Ahuatlán Tzompantle|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1170|Urbano|02
+62130|Lomas de Ahuatlán|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0662|Urbano|02
+62130|Tetela del Monte|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0044|Urbano|02
+62130|Jardines de Ahuatlán|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0978|Urbano|02
+62133|Los Tepetates|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0046|Urbano|02
+62136|Jardín Tetela|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0047|Urbano|02
+62137|Lienzo El Charro|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0049|Urbano|02
+62137|La Mojonera|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0048|Urbano|02
+62139|Loma Linda|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0051|Urbano|02
+62140|Bellavista|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0052|Urbano|02
+62143|Zona Militar|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0979|Urbano|02
+62144|Trevi I|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0675|Urbano|02
+62144|Trevi III|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0677|Urbano|02
+62144|Condominios Bugambilias|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0053|Urbano|02
+62144|El Ángel|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0658|Urbano|02
+62144|Trevi II|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0676|Urbano|02
+62145|Lomas de La Selva Norte|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0989|Urbano|02
+62145|Conjunto Colorines|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1034|Urbano|02
+62150|Del Bosque|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0054|Urbano|02
+62153|Club Felicidad|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1025|Urbano|02
+62154|Lomas del Pinar|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1037|Urbano|02
+62156|Lomas de Tetela|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0056|Urbano|02
+62157|Lomas de Zompantle|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0058|Urbano|02
+62159|Adolfo Ruiz Cortines|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0060|Urbano|02
+62160|La Cañada|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1022|Urbano|02
+62160|Hacienda Tetela|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0061|Urbano|02
+62160|Rancho Tetela|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0062|Urbano|02
+62163|La Tranca|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0976|Urbano|02
+62163|Loma Sol|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0977|Urbano|02
+62164|Tzompantle Norte|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0975|Urbano|02
+62165|Tonintana|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0987|Urbano|02
+62165|Lomas de Coyuca|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0063|Urbano|02
+62166|Analco|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0064|Urbano|02
+62170|Jiquilpan|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0065|Urbano|02
+62170|La Pradera|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0066|Urbano|02
+62170|Tlaltenango|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0067|Urbano|02
+62173|Jardines de Tlaltenango|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1031|Urbano|02
+62175|Lomas de La Pradera|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0988|Urbano|02
+62179|San Jerónimo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0068|Urbano|02
+62180|Minas de Atzingo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1006|Urbano|02
+62180|Plan de Ayala|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0070|Urbano|02
+62180|Lomas de Atzingo|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0069|Urbano|02
+62180|El Tecolote|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1007|Urbano|02
+62190|La Carolina|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0071|Urbano|02
+62193|La Esperanza|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1005|Urbano|02
+62200|Cuauhtémoc|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0102|Urbano|02
+62200|Insurgentes|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0073|Urbano|02
+62203|El Ocote|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0691|Urbano|02
+62203|Tehuiztitlán|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0709|Urbano|02
+62203|Salvador Elizarragaz|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0692|Urbano|02
+62204|Tlahuica|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0711|Urbano|02
+62205|Los Ciruelos|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0699|Urbano|02
+62209|Universidad Autónoma del Estado de Morelos|Gran usuario|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||22|007|1336|Urbano|02
+62210|Chamilpa|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0074|Urbano|02
+62210|Los Aguacates|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0075|Urbano|02
+62210|Morelos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0703|Urbano|02
+62214|Benito Juárez (Chamilpa)|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0076|Urbano|02
+62214|Hermanos Rodríguez (Suterm)|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0708|Urbano|02
+62214|Buenaventura|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0685|Urbano|02
+62214|Ampliación Chamilpa|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0688|Urbano|02
+62214|Brisas de Cuernavaca|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0684|Urbano|02
+62215|Universidad|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0713|Urbano|02
+62215|Veranda|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0714|Urbano|02
+62215|Blanca Universidad|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0683|Urbano|02
+62215|Blanca Universidad|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0077|Urbano|02
+62215|Río Balsas|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0078|Urbano|02
+62217|Lomas de Chamilpa 2a Secc.|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0079|Urbano|02
+62218|Lomas de Chamilpa|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0080|Urbano|02
+62219|Centro SCT Morelos|Gran usuario|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||22|007|0081|Urbano|02
+62220|Ocotepec|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0082|Urbano|02
+62226|Texcaltepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0083|Urbano|02
+62227|Ampliación Ocotepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0084|Urbano|02
+62228|Conjunto Aries|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0085|Urbano|02
+62228|Ampliación Emiliano Zapata|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0682|Urbano|02
+62229|Nogales|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0086|Urbano|02
+62230|Maravillas|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0087|Urbano|02
+62230|San Cristóbal|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0088|Urbano|02
+62233|La Paloma|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0980|Urbano|02
+62233|Tlaltepexco|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0712|Urbano|02
+62237|Los Faroles|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0090|Urbano|02
+62239|Prados de Cuernavaca|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0092|Urbano|02
+62240|Rincón del Valle|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0094|Urbano|02
+62240|Lomas de Cortes|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0093|Urbano|02
+62240|Versalles|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0681|Urbano|02
+62243|El Veladero|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0983|Urbano|02
+62243|San Salvador|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0984|Urbano|02
+62245|Recursos Hidráulicos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0095|Urbano|02
+62247|Lomas de Cortes INFONAVIT|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||31|007|0096|Urbano|02
+62248|Lomas de Cortes|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0982|Urbano|02
+62248|Residencial las Flores|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0671|Urbano|02
+62248|Lomas del Conde|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0664|Urbano|02
+62249|Ixtacpan (Zigapan)|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0715|Urbano|02
+62249|Tecomulco|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0097|Urbano|02
+62250|Del Empleado|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0099|Urbano|02
+62250|Tezontepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0100|Urbano|02
+62250|Base Tranquilidad|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0098|Urbano|02
+62253|Pilancón|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1003|Urbano|02
+62253|Lomas de La Selva Oriente|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1002|Urbano|02
+62260|Reforma|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0103|Urbano|02
+62269|Valle Sol|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0679|Urbano|02
+62269|Jardines de Reforma|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0105|Urbano|02
+62270|Lomas de Miraval|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1004|Urbano|02
+62270|Lomas de La Selva|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0106|Urbano|02
+62270|Miraval|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0107|Urbano|02
+62280|Gualupita|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0108|Urbano|02
+62283|La Estación|Barrio|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||02|007|1001|Urbano|02
+62284|Teopanzolco|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||31|007|1000|Urbano|02
+62285|Patios de la Estación|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0660|Urbano|02
+62290|Vista Hermosa|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0109|Urbano|02
+62293|La Fuente|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|1942|Urbano|02
+62293|Lomas de Vista Hermosa|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0990|Urbano|02
+62294|Providencia|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0669|Urbano|02
+62294|Federación|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0985|Urbano|02
+62294|Ahuehuetitla|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0654|Rural|02
+62294|Tlalquiltompan|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0981|Urbano|02
+62295|Extensión Vista Hermosa|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0991|Urbano|02
+62296|Extensión Delicias|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0993|Urbano|02
+62300|Ahuatepec|Pueblo|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||28|007|0110|Urbano|02
+62303|Lomas de La Herradura|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0111|Rural|02
+62304|San Isidro Loma Bonita|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1948|Urbano|02
+62304|El Mirador|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0690|Rural|02
+62304|Los Limoneros|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0700|Urbano|02
+62304|Gloria Almada de Bejarano|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0112|Rural|02
+62305|Ampliación los Ramos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0114|Urbano|02
+62305|Tepepan|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0710|Urbano|02
+62305|Jardines de Ahuatepec|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0113|Urbano|02
+62306|Villa Santiago|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0115|Urbano|02
+62306|Jubilados y Pencionados|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1915|Urbano|02
+62306|Rodolfo López de Nava|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0697|Rural|02
+62306|La Herradura|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1377|Urbano|02
+62306|Cruz de la Curva|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1913|Urbano|02
+62306|Residencial Vista Alta|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1916|Urbano|02
+62309|Paraje Alarcón|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0116|Urbano|02
+62320|Antonio Barona Centro|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0118|Urbano|02
+62323|México Lindo|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1897|Rural|02
+62323|Papayos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1898|Rural|02
+62323|Tierra Colorada|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0674|Rural|02
+62324|Cerritos de García|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0974|Rural|02
+62324|Ampliación la Cañada|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1914|Urbano|02
+62324|Cerritos de García los Cizos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1939|Urbano|02
+62324|El Universo|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0678|Rural|02
+62324|Unidad Deportiva|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1373|Rural|02
+62324|La Cañada|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0694|Rural|02
+62324|Lomas de Ahuatepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0972|Rural|02
+62324|Las Flores|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1372|Rural|02
+62324|Vista Real Ahuatepec|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1899|Rural|02
+62325|Lomas Verdes de Ahuatepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1376|Rural|02
+62325|Bosques de la Florida|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1940|Urbano|02
+62325|Rancho Alegre|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0706|Rural|02
+62325|El Copalito|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0973|Rural|02
+62326|San Antonio del Jagüey|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1935|Urbano|02
+62326|Paraíso Montessori|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1374|Rural|02
+62326|Los Guayabos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1938|Urbano|02
+62326|Jardines de Zoquipa|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1936|Urbano|02
+62326|Cerritos|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1375|Rural|02
+62326|Tlaltecuahuitl|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1937|Urbano|02
+62326|Paraíso|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|1932|Urbano|02
+62328|Antonio Barona 3a Secc.|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0119|Urbano|02
+62329|Antonio Barona 1a Secc.|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0120|Urbano|02
+62329|Antonio Barona 2a Secc.|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0121|Urbano|02
+62330|Delicias|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0122|Urbano|02
+62330|Conjunto Paraíso|Condominio|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||10|007|0667|Urbano|02
+62330|Residencial Primavera|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0672|Urbano|02
+62334|Amate Redondo|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0655|Urbano|02
+62335|Rinconada Vista Hermosa|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|1021|Urbano|02
+62340|Bosques de Cuernavaca|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0986|Rural|02
+62340|Loma Bonita|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|1904|Urbano|02
+62340|Bello Horizonte|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0123|Urbano|02
+62340|Lomas de Cortes Oriente|Ampliación|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||38|007|0663|Urbano|02
+62343|Provincias del Canadá|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0670|Urbano|02
+62343|San Jerónimo Ahuatepec|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0673|Urbano|02
+62343|El Mascareño|Colonia|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||09|007|0992|Urbano|02
+62343|Jardines de Delicias|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0661|Urbano|02
+62345|Rinconada Florida|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62241|17|62241||21|007|0125|Urbano|02
+62350|Lomas del Mirador|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0127|Urbano|02
+62350|Los Volcanes|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0126|Urbano|02
+62350|Teopanzolco|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0128|Urbano|02
+62360|Jardines de Cuernavaca|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0130|Urbano|02
+62360|Chapultepec|Condominio|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||10|007|0129|Urbano|02
+62363|Cuatro Estaciones|Condominio|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||10|007|0657|Urbano|02
+62363|La Estrella|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0999|Urbano|02
+62370|Ricardo Flores Magón|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0131|Urbano|02
+62373|Flores Magón 2a Fracción|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0995|Urbano|02
+62374|Villas Deportivas|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0022|Urbano|02
+62374|Villas del Lago|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0994|Urbano|02
+62375|Puerta del Sol|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0997|Urbano|02
+62376|Flores Magón 1a Fracción|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0998|Urbano|02
+62380|Zodiaco|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0133|Rural|02
+62382|Joyas de los Jilgueros|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0719|Urbano|02
+62384|Mártires de Río Blanco|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0134|Rural|02
+62384|Flores Magón 3a Fracción|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|1035|Urbano|02
+62385|Ramón Hernandez Navarro|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0135|Urbano|02
+62385|Flores Magón 5a Fracción|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0996|Urbano|02
+62387|Milpillas|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0665|Rural|02
+62387|Ampliación Santa Martha|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|1027|Urbano|02
+62387|Santa Martha Ahuatepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0138|Urbano|02
+62388|Los Tulipanes|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0139|Urbano|02
+62389|Morelos|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||31|007|0140|Urbano|02
+62390|Revolución|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0141|Urbano|02
+62398|Ciudad Chapultepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0142|Urbano|02
+62399|Ciudad Chapultepec|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||31|007|0144|Urbano|02
+62400|El Vergel|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0145|Urbano|02
+62409|Santa Veracruz|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0147|Urbano|02
+62410|Amatitlán|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0148|Urbano|02
+62420|Quintas Martha|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0150|Urbano|02
+62420|Jacarandas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0149|Urbano|02
+62428|Copa de Oro|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0151|Urbano|02
+62430|Vicente Guerrero|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0154|Urbano|02
+62430|Condominios Cuauhnahuac|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0153|Urbano|02
+62430|Conjunto Omeyoacan|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|1033|Urbano|02
+62433|Bosques de Chapultepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|1011|Urbano|02
+62440|Poblado Acapatzingo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0155|Urbano|02
+62445|Los Cizos|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0157|Urbano|02
+62446|San Miguel Acapantzingo|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0158|Urbano|02
+62447|Jardines de Acapatzingo|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0159|Urbano|02
+62448|Primavera|Condominio|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||10|007|0668|Urbano|02
+62448|Cantarranas|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0160|Urbano|02
+62448|Cantarranas|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||31|007|1010|Urbano|02
+62450|Chapultepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0161|Urbano|02
+62450|Las Quintas|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0156|Urbano|02
+62450|Manantiales|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0162|Urbano|02
+62460|Satélite|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0165|Urbano|02
+62460|Las Granjas|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0164|Urbano|02
+62460|Vicente Estrada Cajigal|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0166|Urbano|02
+62460|Ampliación Satélite|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|1012|Urbano|02
+62466|Emiliano Zapata|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0167|Urbano|02
+62469|Lotes Alegría|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||21|007|0170|Urbano|02
+62470|Las Águilas|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0172|Urbano|02
+62470|Del Lago|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0171|Urbano|02
+62473|Lomas del Águila|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1016|Urbano|02
+62474|FOVISSSTE las Águilas|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||31|007|1015|Urbano|02
+62474|Potrero Verde|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||31|007|1028|Urbano|02
+62475|Chapultepec FOVISSSTE|Unidad habitacional|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||31|007|0173|Urbano|02
+62480|Ampliación Chapultepec|Colonia|Cuernavaca|Morelos|Cuernavaca|62451|17|62451||09|007|0174|Urbano|02
+62490|Palmira Tinguindin|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|0175|Urbano|02
+62493|Acapatzingo|Ejido|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||15|007|1905|Urbano|02
+62493|Internado Palmira|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1019|Urbano|02
+62494|El Salado|Colonia|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||09|007|1906|Urbano|02
+62494|Lomas de Acapatzingo|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|1907|Urbano|02
+62496|El Palmar|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0176|Urbano|02
+62497|Rinconada Palmira|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0177|Urbano|02
+62498|Tabachines|Club de golf|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||39|007|0178|Urbano|02
+62499|Las Garzas|Fraccionamiento|Cuernavaca|Morelos|Cuernavaca|62001|17|62001||21|007|0180|Urbano|02
+62507|Lázaro Cárdenas del Río|Colonia|Cuernavaca|Morelos||62581|17|62581||09|007|1901|Semiurbano|
+62507|Ampliación Lázaro Cárdenas del Río|Colonia|Cuernavaca|Morelos||62581|17|62581||09|007|1902|Semiurbano|
+62507|1ro. de Mayo|Colonia|Cuernavaca|Morelos||62581|17|62581||09|007|1900|Semiurbano|
+62508|Buenavista del Monte|Colonia|Cuernavaca|Morelos||62001|17|62001||09|007|0187|Rural|
+62508|El Cebadal|Ranchería|Cuernavaca|Morelos||62001|17|62001||29|007|0024|Rural|

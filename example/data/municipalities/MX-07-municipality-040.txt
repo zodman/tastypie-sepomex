@@ -1,0 +1,76 @@
+30640|San José|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|2326|Semiurbano|23
+30640|Hortencias I|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|4097|Urbano|23
+30640|El Ingenio|Unidad habitacional|Huixtla|Chiapas|Huixtla|30641|07|30641||31|040|4101|Urbano|23
+30640|Obrera el Ingenio|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|4102|Urbano|23
+30640|Jardines de Chapultepec|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5697|Urbano|23
+30640|Subter|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5702|Urbano|23
+30640|Cañaveral|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2330|Semiurbano|23
+30640|Torrecillas|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2331|Semiurbano|23
+30640|El Progreso|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2334|Urbano|23
+30640|2 de Octubre|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|4086|Semiurbano|23
+30640|El Carmen|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|4104|Semiurbano|23
+30640|Carlos Martínez|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5696|Urbano|23
+30640|San Francisco|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|2324|Semiurbano|23
+30640|Buenos Aires|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2335|Semiurbano|23
+30640|El Recreo|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|4087|Semiurbano|23
+30640|Santa Cruz|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|4105|Semiurbano|23
+30640|San Vicente|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5513|Urbano|23
+30640|Las Hortencias II|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5804|Urbano|23
+30640|Carlos Monte Mayor|Fraccionamiento|Huixtla|Chiapas|Huixtla|30641|07|30641||21|040|5512|Urbano|23
+30640|La Arboleda|Fraccionamiento|Huixtla|Chiapas|Huixtla|30641|07|30641||21|040|5699|Urbano|23
+30640|Esquipulas|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|2325|Semiurbano|23
+30640|Jiquilpan|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2329|Semiurbano|23
+30640|Revolucionaria|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|4085|Semiurbano|23
+30640|Vida Mejor|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5532|Urbano|23
+30640|Bellavista|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5695|Urbano|23
+30640|San José el Cusco|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5701|Urbano|23
+30640|Villa de las Flores|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2327|Urbano|23
+30640|Yaxchilan|Fraccionamiento|Huixtla|Chiapas|Huixtla|30641|07|30641||21|040|2328|Semiurbano|23
+30640|San Pedro|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|4106|Urbano|23
+30640|Jardines de Huixtla|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|5698|Urbano|23
+30640|El Relicario|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2332|Urbano|23
+30640|Los Sauces|Unidad habitacional|Huixtla|Chiapas|Huixtla|30641|07|30641||31|040|4084|Urbano|23
+30640|Bosques Residencial|Fraccionamiento|Huixtla|Chiapas|Huixtla|30641|07|30641||21|040|5591|Urbano|23
+30640|Huixtla Centro|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|1561|Urbano|23
+30640|El Espejo|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|2333|Urbano|23
+30640|8 de Septiembre|Colonia|Huixtla|Chiapas|Huixtla|30641|07|30641||09|040|4083|Semiurbano|23
+30640|Mi Granja|Fraccionamiento|Huixtla|Chiapas|Huixtla|30641|07|30641||21|040|4088|Semiurbano|23
+30640|Guadalupe|Barrio|Huixtla|Chiapas|Huixtla|30641|07|30641||02|040|4103|Semiurbano|23
+30643|Aztlán|Ejido|Huixtla|Chiapas||30641|07|30641||15|040|0006|Rural|
+30643|Cantón San Juan Panamá|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|5601|Rural|
+30644|Cantón el Cedral|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|5817|Rural|
+30644|Dr. Belisario Domínguez|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1558|Rural|
+30644|Libertad Piedra Canoa|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1566|Rural|
+30644|Las Lechugas 2|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|5825|Rural|
+30644|Las Mercedes|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4094|Rural|
+30644|Santa Rita Coronado|Ejido|Huixtla|Chiapas||30641|07|30641||15|040|1557|Rural|
+30644|La Piedra|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4092|Rural|
+30644|Cantón Cuba|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|4096|Rural|
+30644|Los Alpes|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|0003|Rural|
+30644|Montecristo Playa Grande|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|0005|Rural|
+30644|Tarral|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4095|Rural|
+30645|Nueva América|Ejido|Huixtla|Chiapas||30641|07|30641||15|040|1567|Rural|
+30645|Flor de Mayo|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4089|Rural|
+30645|15 de Enero|Ejido|Huixtla|Chiapas||30641|07|30641||15|040|4090|Rural|
+30646|Estrella Roja|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1568|Rural|
+30646|Nuevo Tesoro|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|0004|Rural|
+30647|Las Morenas|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4079|Rural|
+30647|Altamira|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4081|Rural|
+30647|Tzinacal Buenos Aires|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1570|Rural|
+30647|Francisco I Madero|Pueblo|Huixtla|Chiapas||30641|07|30641||28|040|1560|Rural|
+30647|Cantón Cahulotal|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1569|Rural|
+30647|Cahulotal|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4080|Rural|
+30647|El Bosque|Fraccionamiento|Huixtla|Chiapas||30641|07|30641||21|040|4099|Rural|
+30648|El Arenal|Ejido|Huixtla|Chiapas||30641|07|30641||15|040|1571|Rural|
+30648|La Unión|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1572|Rural|
+30648|San Fernando|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|4082|Rural|
+30648|Rancho Nuevo|Pueblo|Huixtla|Chiapas||30641|07|30641||28|040|1564|Rural|
+30649|Aquiles Serdán|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1573|Rural|
+30649|Las delicias|Ejido|Huixtla|Chiapas||30641|07|30641||15|040|1574|Rural|
+30649|Montecristo|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1575|Rural|
+30649|Nuevo Montecristo|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|1576|Rural|
+30649|José María Morelos|Pueblo|Huixtla|Chiapas||30641|07|30641||28|040|1562|Rural|
+30649|Esquipulas|Ranchería|Huixtla|Chiapas||30641|07|30641||29|040|0002|Rural|
+30649|La Florida|Colonia|Huixtla|Chiapas||30641|07|30641||09|040|0001|Urbano|
+30649|Playa Grande|Hacienda|Huixtla|Chiapas||30641|07|30641||24|040|1563|Rural|
+30649|Efraín A Gutiérrez|Pueblo|Huixtla|Chiapas||30641|07|30641||28|040|1559|Rural|

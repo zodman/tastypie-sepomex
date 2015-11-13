@@ -1,0 +1,11 @@
+68540|San Miguel|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3313|Rural|19
+68540|Teotitlan de Flores Magón Centro|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|0575|Rural|19
+68540|Guadalupe Victoria|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3339|Rural|19
+68540|Las Arboledas|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3341|Rural|19
+68540|Benito Juárez|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3312|Rural|19
+68540|Miguel Hidalgo|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3337|Rural|19
+68540|Emiliano Zapata|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3338|Rural|19
+68540|San Jerónimo|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3342|Rural|19
+68540|Vázquez Colmenares|Colonia|Teotitlán de Flores Magón|Oaxaca|Teotitlán de Flores Magón|68541|20|68541||09|545|3340|Rural|19
+68542|San Bernardino|Pueblo|Teotitlán de Flores Magón|Oaxaca||68541|20|68541||28|545|0577|Rural|
+68543|Ignacio Mejia|Estación|Teotitlán de Flores Magón|Oaxaca||68507|20|68507||16|545|0576|Rural|

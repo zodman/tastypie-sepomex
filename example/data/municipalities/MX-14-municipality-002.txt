@@ -1,0 +1,11 @@
+45700|Acatlan de Juárez|Colonia|Acatlán de Juárez|Jalisco|Acatlán de Juárez|45701|14|45701||09|002|1338|Rural|55
+45706|Las Granadas|Fraccionamiento|Acatlán de Juárez|Jalisco|Acatlán de Juárez|45701|14|45701||21|002|4018|Rural|55
+45710|La Resolana|Colonia|Acatlán de Juárez|Jalisco||45701|14|45701||09|002|4284|Rural|
+45710|Miravalle|Colonia|Acatlán de Juárez|Jalisco||45701|14|45701||09|002|4283|Rural|
+45713|Los Pozos|Ranchería|Acatlán de Juárez|Jalisco||45701|14|45701||29|002|1339|Rural|
+45713|Centro Lógistico Jalisco Area Industrial|Zona industrial|Acatlán de Juárez|Jalisco||45701|14|45701||37|002|5325|Rural|
+45718|El Plan|Ejido|Acatlán de Juárez|Jalisco||45701|14|45701||15|002|1343|Rural|
+45720|Rosendo G. Castro|Colonia|Acatlán de Juárez|Jalisco||45701|14|45701||09|002|0001|Rural|
+45720|Bellavista|Colonia|Acatlán de Juárez|Jalisco||45701|14|45701||09|002|1342|Rural|
+45723|San Pedro Valencia|Ranchería|Acatlán de Juárez|Jalisco||45701|14|45701||29|002|4019|Rural|
+45723|Tepetates|Estación|Acatlán de Juárez|Jalisco||45701|14|45701||16|002|1341|Rural|

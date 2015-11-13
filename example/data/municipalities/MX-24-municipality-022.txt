@@ -1,0 +1,41 @@
+78900|Morados|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0770|Rural|
+78900|San José|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2463|Rural|
+78900|Cruces|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0766|Rural|
+78900|Charco del Lobo|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0768|Rural|
+78900|San Juan|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2460|Rural|
+78900|Magisterial|Colonia|Moctezuma|San Luis Potosí||78591|24|78591||09|022|2466|Rural|
+78900|Tlaxcala|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2467|Rural|
+78900|Cucamo|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0767|Rural|
+78900|Moctezuma|Ciudad|Moctezuma|San Luis Potosí||78591|24|78591||08|022|0769|Rural|
+78900|Aduana|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0765|Rural|
+78900|Buena Vista|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2461|Rural|
+78900|La Laguna|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2462|Rural|
+78900|San José del Grito|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0771|Rural|
+78900|Camposanto|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2459|Rural|
+78900|Cristo Rey|Colonia|Moctezuma|San Luis Potosí||78591|24|78591||09|022|2464|Rural|
+78900|Refugio|Barrio|Moctezuma|San Luis Potosí||78591|24|78591||02|022|2465|Rural|
+78902|Garabatillo|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0773|Rural|
+78903|Santa Teresa|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0772|Rural|
+78903|Santa Catarina|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0775|Rural|
+78903|Labor Vieja|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0774|Rural|
+78904|Pozos de Matanza|Poblado comunal|Moctezuma|San Luis Potosí||78591|24|78591||27|022|2925|Rural|
+78904|El Rebalín|Poblado comunal|Moctezuma|San Luis Potosí||78591|24|78591||27|022|2800|Rural|
+78905|La Presa|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0777|Rural|
+78905|Barrancas|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0004|Rural|
+78905|Morterillos|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0778|Rural|
+78906|Piedra Azul (La Piedra)|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0003|Rural|
+78906|El Colorado|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0779|Rural|
+78906|Salsipuedes|Poblado comunal|Moctezuma|San Luis Potosí||78591|24|78591||27|022|2801|Rural|
+78906|El Retiro|Poblado comunal|Moctezuma|San Luis Potosí||78591|24|78591||27|022|2969|Rural|
+78908|La Cueva|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0781|Rural|
+78908|Arroyo Hondo|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0780|Rural|
+78909|Ancón|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0782|Rural|
+78909|Juache|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0783|Rural|
+78910|Providencia|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0784|Rural|
+78911|San Ignacio|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0785|Rural|
+78914|Clavellinas|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0001|Rural|
+78914|Ex-Hacienda de Enramada|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0002|Rural|
+78918|Rancho Nuevo|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0786|Rural|
+78919|El Estanco|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0788|Rural|
+78919|Codorniz|Ejido|Moctezuma|San Luis Potosí||78591|24|78591||15|022|0787|Rural|
+78919|San Antonio de Rul|Ranchería|Moctezuma|San Luis Potosí||78591|24|78591||29|022|0789|Rural|

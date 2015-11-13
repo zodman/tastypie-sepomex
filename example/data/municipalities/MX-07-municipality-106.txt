@@ -1,0 +1,31 @@
+30200|Del Carmen|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1253|Rural|05
+30200|Venustiano Carranza Centro|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1246|Semiurbano|05
+30200|Señor del Pozo|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1255|Rural|05
+30200|El Calvario|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1250|Rural|05
+30200|El Arco|Barrio|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||02|106|0005|Urbano|05
+30202|Bugambilia|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|0002|Urbano|05
+30202|Guadalupe|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1251|Rural|05
+30203|Santa Rosa|Barrio|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||02|106|2861|Rural|05
+30203|San Francisco el Calvito|Colonia|Venustiano Carranza|Chiapas||30201|07|30201||09|106|5779|Rural|
+30203|San Pedro|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1256|Rural|05
+30204|San Sebastián|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1249|Rural|05
+30206|Guadalupe Victoria|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|1268|Rural|
+30207|La Grandeza Río Blanco|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|1267|Rural|
+30209|Matamoros|Pueblo|Venustiano Carranza|Chiapas||30351|07|30351||28|106|1257|Rural|
+30210|Chacotic|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1247|Rural|05
+30210|San Francisco Pujiltic|Ingenio|Venustiano Carranza|Chiapas||30201|07|30201||25|106|1263|Rural|
+30210|Soyatitan|Pueblo|Venustiano Carranza|Chiapas||30201|07|30201||28|106|1264|Rural|
+30215|20 de Noviembre|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|5574|Rural|
+30215|Nuevo Antonio|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|5575|Rural|
+30216|San Luis|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|0004|Rural|
+30217|El Puerto|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|1266|Rural|
+30218|Aguacatenango|Pueblo|Venustiano Carranza|Chiapas||30351|07|30351||28|106|1265|Rural|
+30220|El Puente|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|1248|Rural|05
+30220|Santa Cruz del Ojo de Agua|Ranchería|Venustiano Carranza|Chiapas||30201|07|30201||29|106|2934|Rural|
+30220|Ricardo Flores Magón|Ejido|Venustiano Carranza|Chiapas||30201|07|30201||15|106|1258|Rural|
+30223|Sagrado Corazón|Colonia|Venustiano Carranza|Chiapas|Venustiano Carranza|30201|07|30201||09|106|0001|Rural|05
+30223|Vicente Guerrero|Pueblo|Venustiano Carranza|Chiapas||30201|07|30201||28|106|1260|Rural|
+30224|San Rafael|Rancho|Venustiano Carranza|Chiapas||30351|07|30351||48|106|0003|Rural|
+30224|Miguel Hidalgo|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|1262|Rural|
+30225|Pdte Echeverría|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|1261|Rural|
+30225|Vega del Paso|Ranchería|Venustiano Carranza|Chiapas||30351|07|30351||29|106|1259|Rural|

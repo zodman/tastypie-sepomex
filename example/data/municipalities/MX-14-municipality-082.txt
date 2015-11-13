@@ -1,0 +1,33 @@
+49300|Sayula Centro|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|2943|Semiurbano|23
+49302|Palmitas|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3484|Semiurbano|23
+49303|Pueblito Aparte|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3474|Semiurbano|23
+49303|Santa Maria|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3479|Semiurbano|23
+49303|Polanco|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3473|Semiurbano|23
+49303|27 de Septiembre|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3478|Semiurbano|23
+49304|Ejidal|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3472|Semiurbano|23
+49304|Ferrocarril|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3471|Semiurbano|23
+49305|San Francisco|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3491|Semiurbano|23
+49306|Heliodoro Hernandez Loza|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3490|Semiurbano|23
+49310|Rinconada Cruz Blanca|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3475|Semiurbano|23
+49310|San Sebastián|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3480|Semiurbano|23
+49312|El Amaqueño|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3476|Semiurbano|23
+49312|Dolores Paniagua de García Barragán|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3477|Urbano|23
+49313|El Pino|Fraccionamiento|Sayula|Jalisco|Sayula|49301|14|49301||21|082|3481|Semiurbano|23
+49314|Aguacatera|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3486|Semiurbano|23
+49314|La Mezcalera|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3482|Semiurbano|23
+49314|San Miguel|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3483|Semiurbano|23
+49314|Issste|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3485|Semiurbano|23
+49315|Belisario Dominguez|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3487|Semiurbano|23
+49315|Santa Inés|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3488|Semiurbano|23
+49316|La Candelaria|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3489|Semiurbano|23
+49317|Lomas Del Rio|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3495|Semiurbano|23
+49317|Alameda|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3494|Semiurbano|23
+49317|De Guadalupe|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3493|Semiurbano|23
+49317|Juan Rulfo|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3660|Semiurbano|23
+49318|Tepeyac|Colonia|Sayula|Jalisco|Sayula|49301|14|49301||09|082|3492|Semiurbano|23
+49330|Usmajac|Pueblo|Sayula|Jalisco||49331|14|49331||28|082|2945|Rural|
+49333|Prados Del Vergel|Colonia|Sayula|Jalisco||49331|14|49331||09|082|4022|Rural|
+49334|Guadalupe|Colonia|Sayula|Jalisco||49331|14|49331||09|082|4023|Rural|
+49338|Amatitlán|Hacienda|Sayula|Jalisco||49331|14|49331||24|082|2947|Rural|
+49339|Tamiliagua|Ranchería|Sayula|Jalisco||49331|14|49331||29|082|2948|Rural|
+49339|El Reparo|Ranchería|Sayula|Jalisco||49331|14|49331||29|082|4049|Rural|

@@ -1,0 +1,388 @@
+78430|San Pablo|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0009|Urbano|06
+78430|Rancho Nuevo|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0310|Rural|06
+78430|Arboledas de Soledad|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2258|Urbano|06
+78430|16 de Septiembre|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2850|Urbano|06
+78430|Residencial Los Laureles|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2976|Urbano|06
+78430|Buenaventura|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4795|Urbano|06
+78430|Fracción Rivera|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|4817|Urbano|06
+78430|San Gerardo|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|1007|Urbano|06
+78430|Los Olivos|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2859|Urbano|06
+78430|Villas de Soledad|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2888|Urbano|06
+78430|Las Huertas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2234|Urbano|06
+78430|Privada Nuestra Señora de La Soledad|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2236|Urbano|06
+78430|Luis Donaldo Colosio|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2866|Urbano|06
+78430|Priv. Centenario|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4801|Urbano|06
+78430|Villas del Sol|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4811|Urbano|06
+78430|Los Viñedos|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0006|Urbano|06
+78430|Las Cruces|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0012|Urbano|06
+78430|Ma. Laura|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2867|Urbano|06
+78430|Puerta Real|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4502|Urbano|06
+78430|Escontria|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2237|Urbano|06
+78430|El Zapote|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|2238|Urbano|06
+78430|Francisco Villa|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2860|Urbano|06
+78430|La Rivera|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0305|Rural|06
+78430|San Juanita|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0311|Urbano|06
+78430|Textil|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|1032|Urbano|06
+78430|Rinconada de las Flores|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2229|Urbano|06
+78430|Las Canteras|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4797|Urbano|06
+78430|Expropiación Petrolera|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0304|Urbano|06
+78430|Los Ángeles|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0308|Urbano|06
+78430|Pipila|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0309|Urbano|06
+78430|Las Higueras|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0929|Urbano|06
+78430|Los Pirules|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4799|Urbano|06
+78430|Residencial Las Flores|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4806|Urbano|06
+78430|Las Flores|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0306|Urbano|06
+78430|Soledad de Graciano Sanchez Centro|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0313|Urbano|06
+78430|María Fernanda|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0965|Urbano|06
+78430|Las Capillas|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2865|Urbano|06
+78432|Bosques del Márquez|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78001|24|78001||21|035|0001|Urbano|06
+78432|El Márquez|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78001|24|78001||21|035|0003|Urbano|06
+78432|El Laurel|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78001|24|78001||09|035|0002|Urbano|06
+78433|Lomas de San Felipe|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0941|Urbano|06
+78433|Valle de Santiago|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2207|Urbano|06
+78433|Valle del Ecuestre|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2320|Urbano|06
+78433|Las Hadas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2475|Rural|06
+78433|Santa Teresa|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2807|Urbano|06
+78433|Covadonga|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2853|Urbano|06
+78433|Residencial Santiago|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2879|Urbano|06
+78433|Los Fresnos|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0330|Urbano|06
+78433|Potrero de Adentro|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0332|Rural|06
+78433|San José|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2227|Urbano|06
+78433|La Cofradía|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2769|Urbano|06
+78433|Privada de Los Pinos|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2871|Urbano|06
+78433|Urbana Morelos|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|4808|Urbano|06
+78433|La Constancia|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0327|Urbano|06
+78433|Las Arboledas|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0329|Urbano|06
+78433|San Felipe|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0333|Urbano|06
+78433|San José Bellavista|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2225|Urbano|06
+78433|San José II|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2226|Urbano|06
+78433|Valle de Bellavista|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2295|Urbano|06
+78433|Las Américas|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2864|Urbano|06
+78433|Cerrada de Milán|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4814|Urbano|06
+78433|La Misión|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4820|Urbano|06
+78433|Privada San Jorge|Unidad habitacional|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||31|035|1011|Urbano|06
+78433|Vizcaya|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2329|Urbano|06
+78433|Urbana Arboledas 2a. Sección|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2884|Urbano|06
+78433|Cerrada de Roma|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4815|Urbano|06
+78433|La Raza|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0328|Urbano|06
+78433|Santa Lucía|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2319|Urbano|06
+78433|Villas de San Lorenzo|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2331|Urbano|06
+78433|Morelos|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0331|Urbano|06
+78433|Nogales Residencial|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0010|Urbano|06
+78433|Privada San Lorenzo|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2230|Urbano|06
+78433|Santo Tomás|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2259|Urbano|06
+78433|Hacienda del Barranco|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2861|Urbano|06
+78433|Priv. Fresnos|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4802|Urbano|06
+78433|Cda. San Marino|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4812|Urbano|06
+78434|La Hacienda|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0005|Urbano|06
+78434|Villas del Morro|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0341|Urbano|06
+78434|Rinconada de San Pedro|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|1959|Urbano|06
+78434|Los Agaves|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2233|Urbano|06
+78434|Conjunto las Aves|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2235|Urbano|06
+78434|La Huerta|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2863|Urbano|06
+78434|Rinconada Chapultepec|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2880|Urbano|06
+78434|Central|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0335|Urbano|06
+78434|San Francisco|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|0365|Urbano|06
+78434|La Loma|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0915|Urbano|06
+78434|Privada San Pedro|Unidad habitacional|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||31|035|1958|Urbano|06
+78434|Urbana Central de Maquinaria|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2885|Urbano|06
+78434|Pavon 3a Sección|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4800|Urbano|06
+78434|La Lomita 3ra Sección|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2211|Urbano|06
+78434|Privada Chapultepec|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2231|Urbano|06
+78434|Arcos de San Pedro|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2240|Urbano|06
+78434|Villa Fontana|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2886|Urbano|06
+78434|Providencia|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0339|Urbano|06
+78434|La Flama|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|1956|Urbano|06
+78434|Hogares Populares Pavón|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|1957|Urbano|06
+78434|San Andrés|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2228|Urbano|06
+78434|Magdalena|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|3005|Urbano|06
+78434|El Morro|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0337|Urbano|06
+78434|San Pedro INFONAVIT|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|1016|Urbano|06
+78434|Valle del Rocio|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2223|Urbano|06
+78434|La Virgen|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2307|Urbano|06
+78434|Hacienda San Miguel|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2862|Urbano|06
+78434|Escobillal|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0338|Urbano|06
+78434|La Lomita|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0916|Urbano|06
+78434|Hacienda las Margaritas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2296|Urbano|06
+78434|El Barranco|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2855|Urbano|06
+78434|Niños Héroes|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2868|Urbano|06
+78434|Residencial Pavón|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2878|Urbano|06
+78434|Jardín Chapultepec|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2990|Urbano|06
+78434|Priv. Iturbide|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4803|Urbano|06
+78434|Rancho Pavón INFONAVIT|Unidad habitacional|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||31|035|0340|Urbano|06
+78434|Pavón II|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|1955|Urbano|06
+78434|Villas de San Pedro|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2222|Urbano|06
+78434|Real Providencia|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|2304|Urbano|06
+78434|Cerrada Del Real|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4816|Urbano|06
+78434|La Lomita 2da Sección|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|2209|Urbano|06
+78434|Cerrada de las Huertas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4813|Urbano|06
+78435|La Hormiga|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0343|Urbano|06
+78435|Rinconada de las Rosas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0008|Urbano|06
+78435|Las Palmas|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0344|Urbano|06
+78435|Bosques de San Francisco|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2160|Urbano|06
+78435|Cerrada del Bosque|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2161|Urbano|06
+78435|Valle de San Isidro|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2224|Urbano|06
+78435|Los Puentes|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2301|Urbano|06
+78435|San Francisco|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0345|Urbano|06
+78435|San Antonio INFONAVIT|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|1005|Urbano|06
+78435|Quintas de Don Roberto|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|3516|Urbano|06
+78436|Hogares Ferrocarrileros 2a Secc|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0352|Urbano|06
+78436|5o Plano de la Genovevo Rivas Guillén|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2851|Urbano|06
+78436|San Francisco de Asís Norte|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2882|Urbano|06
+78436|Villas Glorieta|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2316|Urbano|06
+78436|Gral. Genovevo Rivas G 2a Sección|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||15|035|2164|Urbano|06
+78436|Nuevo Testamento|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2277|Urbano|06
+78436|Rancho Blanco|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2924|Urbano|06
+78436|Hogares Ferrocarrileros 1a Secc|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0351|Urbano|06
+78436|San Antonio|Unidad habitacional|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||31|035|0355|Urbano|06
+78436|Fidel Velázquez|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0348|Urbano|06
+78436|Praderas del Maurel|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0353|Urbano|06
+78436|Bugambilias|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0865|Urbano|06
+78436|Las Canteras|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2167|Urbano|06
+78436|Los Álamos|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|4798|Urbano|06
+78436|Azaleas|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0346|Urbano|06
+78436|Gral. Genovevo Rivas Guillen|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0350|Urbano|06
+78436|Puente Real|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0354|Urbano|06
+78436|Hogares Ferrocarrileros 3a Secc|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0901|Urbano|06
+78436|Real del Bosque|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2539|Urbano|06
+78436|Villas de San Francisco|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2887|Urbano|06
+78436|El Polvorín|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0347|Urbano|06
+78436|Gral. Genovevo Rivas G 3a Sección|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||15|035|2165|Urbano|06
+78436|Misión de San Pedro|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|3342|Urbano|06
+78436|Quintas Soledad|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|4804|Urbano|06
+78437|Jardines de Oriente|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|4818|Urbano|06
+78437|Francisco Sarabia|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0361|Urbano|06
+78437|Jardines del Valle|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0363|Urbano|06
+78437|Unidad Ponciano Arriaga 2a Secc|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0367|Urbano|06
+78437|21 de Marzo|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0369|Urbano|06
+78437|Graciano Sanchez|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0349|Urbano|06
+78437|San Francisco de Asís|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2276|Urbano|06
+78437|El Lavadero|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2856|Urbano|06
+78437|Benito Juárez|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0357|Urbano|06
+78437|Rural W|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0364|Urbano|06
+78437|Nueva Reforma|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2168|Urbano|06
+78437|El Laurel|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0360|Urbano|06
+78437|Nuevo Foresta|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0974|Urbano|06
+78437|Villas del Potosí|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|1046|Urbano|06
+78437|Reforma|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|1053|Urbano|06
+78437|Unidad Militar Foresta|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2181|Urbano|06
+78437|Hermenegildo J Aldana|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0362|Urbano|06
+78437|Unidad Ponciano Arriaga|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0366|Urbano|06
+78437|Santa Mónica|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2310|Urbano|06
+78438|Bosques de Oriente 2a Secc|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0864|Urbano|06
+78438|Privada de La Libertad|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2170|Urbano|06
+78438|Privada Santa Fe|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2172|Urbano|06
+78438|Sierra Bonita|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2180|Urbano|06
+78438|Valle del Agave|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2185|Urbano|06
+78438|Privada Quinta El Márquez|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2394|Urbano|06
+78438|Santa Cruz|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2883|Urbano|06
+78438|Privada San Sebastián|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2171|Urbano|06
+78438|Rancho La Libertad|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||29|035|2175|Urbano|06
+78438|Valle del Cactus|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2182|Urbano|06
+78438|Valle del Altiplano|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2187|Urbano|06
+78438|Valle del Huizache|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2188|Urbano|06
+78438|Quintas de La Hacienda|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2189|Urbano|06
+78438|Hacienda de los Morales|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2275|Urbano|06
+78438|Valle de Las Dunas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2391|Urbano|06
+78438|Derechos Humanos|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2854|Urbano|06
+78438|Privada Hacienda Guadalupe|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2873|Urbano|06
+78438|Rancho Blanco|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|4805|Urbano|06
+78438|Villas del Cactus|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|1045|Urbano|06
+78438|Prados de Soledad|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2169|Urbano|06
+78438|Quintas de La Hacienda 2|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2208|Urbano|06
+78438|Villas del Sol|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2221|Urbano|06
+78438|Bosque Real|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2393|Urbano|06
+78438|Primero de Mayo 2a. Sección|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2869|Urbano|06
+78438|Privada Hacienda de San Agustín|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2872|Urbano|06
+78438|Rinconada del Palmar|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2991|Urbano|06
+78438|Primero de Mayo|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0320|Urbano|06
+78438|San Luis 1|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0376|Urbano|06
+78438|Privadas de las Haciendas|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2173|Urbano|06
+78438|Puerta del Sol|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2174|Urbano|06
+78438|Hacienda del Potrero|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2330|Urbano|06
+78438|Privada Hacienda San Gabriel|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2875|Urbano|06
+78438|La Libertad|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|4819|Urbano|06
+78438|Foresta|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0370|Urbano|06
+78438|La Sierra|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0920|Urbano|06
+78438|Bosques de Oriente 1a Secc|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2158|Urbano|06
+78438|Conjunto del Real|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2162|Urbano|06
+78438|Hacienda de las Cruces|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2166|Urbano|06
+78438|Rinconada de Los Hornos|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2392|Urbano|06
+78438|Arboledas II|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2852|Urbano|06
+78438|El Tanquesito|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2857|Urbano|06
+78438|Real de San Pedro II|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2877|Urbano|06
+78438|Roberto Cervantes|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2881|Urbano|06
+78438|Valle del Altiplano 2a. Secc.|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|4810|Urbano|06
+78438|Colinas del Bosque|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0876|Urbano|06
+78438|Villas de Foresta|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2183|Urbano|06
+78438|Quintas de La Hacienda 3a Secc|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2260|Urbano|06
+78438|Del Bosque|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2832|Urbano|06
+78438|Emiliano Zapata|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2858|Urbano|06
+78438|Privada Hacienda La Estancia|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2874|Urbano|06
+78438|Privada Hacienda San Mateo|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2876|Urbano|06
+78438|Los Hornos|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|2951|Urbano|06
+78438|Villa Rica|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0011|Urbano|06
+78438|Los Gómez|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0374|Urbano|06
+78438|San Rafael|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0378|Urbano|06
+78438|Villa Alborada|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0379|Urbano|06
+78438|Arboledas de Oriente|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2157|Urbano|06
+78438|Real de San Pedro|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2177|Urbano|06
+78438|Villa Jardín|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2253|Urbano|06
+78438|Jardines del Sol|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2315|Urbano|06
+78438|Privada Hacienda Cocoyoc|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2870|Urbano|06
+78438|San Rafael|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|4807|Urbano|06
+78438|Valle de Garambullos|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|4809|Urbano|06
+78438|Colinas del Márquez|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0007|Urbano|06
+78438|Hogares Obreros|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||09|035|0372|Urbano|06
+78438|Los Cactus|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|0867|Urbano|06
+78438|Rinconada B Anaya|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2178|Urbano|06
+78438|Rinconada de Cactus|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2179|Urbano|06
+78438|Valle del Maguey|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78343|24|78343||21|035|2400|Urbano|06
+78439|El Mezquite|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|0314|Urbano|06
+78439|Estación Ventura|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0322|Rural|06
+78439|El Jaralito|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4844|Rural|06
+78439|Enrique Ochoa|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4852|Rural|06
+78439|Huerta de los Coreño|Finca|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||20|035|4869|Rural|06
+78439|Huerta la Palapa|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4870|Rural|06
+78439|La Cuenca [Sociedad Agrícola]|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4887|Rural|06
+78439|Paula Castillo Castillo|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4907|Rural|06
+78439|Rancho el Sacrificio|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4916|Rural|06
+78439|Rancho la Esperanza|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4920|Rural|06
+78439|Rancho la Esperanza (Filiberto Briseño)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4921|Rural|06
+78439|Rancho Rodríguez|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4933|Rural|06
+78439|San José (El Tízar)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4942|Rural|06
+78439|Tanque el Aguaje|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4950|Rural|06
+78439|La Esmeralda|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4888|Rural|06
+78439|La Noria|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4890|Rural|06
+78439|Luis Gallardo|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4901|Rural|06
+78439|Monte Granado|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4903|Rural|06
+78439|Parcela Don Federico|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4905|Rural|06
+78439|Rancho Mendoza|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4931|Rural|06
+78439|Zamorita|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4955|Rural|06
+78439|Enrique Estrada (La Concha)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0315|Urbano|06
+78439|La Tinaja (Ex-Hacienda la Tinaja)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0318|Urbano|06
+78439|Barbechos de Guadalupe|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4827|Rural|06
+78439|Del Potosí [Centro Recreativo y Social]|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4831|Rural|06
+78439|Ejido Soledad|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4837|Rural|06
+78439|Ejido Soledad (Severiano Tristán Saldaña)|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4838|Rural|06
+78439|El Arenal|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4839|Rural|06
+78439|El Ocho|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4846|Rural|06
+78439|El Ramillete (Parcela el Ramillete)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4849|Rural|06
+78439|El Vivero (Ejido Margaritas)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4851|Rural|06
+78439|Fraccionamiento Ejido de Palma|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4857|Rural|06
+78439|Fraccionamiento Hacienda de Santo Tomás|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4858|Rural|06
+78439|Francisca Herrera Rocha|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4860|Rural|06
+78439|Higinio Oviedo Cuadros|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4867|Rural|06
+78439|Irineo Gallardo|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4873|Rural|06
+78439|Javier Escalante|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4874|Rural|06
+78439|José Carmen Hernández Moncada|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4877|Rural|06
+78439|Minas de San Pedro|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4902|Rural|06
+78439|Morales Martínez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4904|Rural|06
+78439|Rancho DAHRS|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4911|Rural|06
+78439|Rancho los Muchachos|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4929|Rural|06
+78439|Rancho Santa Ana|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4936|Rural|06
+78439|San Bartolo|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4939|Rural|06
+78439|Triturados Pétreos de San Luis [Trituradora]|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4951|Rural|06
+78439|Zamora|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4954|Rural|06
+78439|La Purísima (Fracción la Purísima)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0316|Urbano|06
+78439|Agustina Castro|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4821|Rural|06
+78439|Contreras Rojas|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4830|Rural|06
+78439|El Dorado|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4841|Rural|06
+78439|Ex-Hacienda Escondida de Santa Ana|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4856|Rural|06
+78439|Jesús Medina Silva|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4875|Rural|06
+78439|Juan Tenorio Ramírez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4879|Rural|06
+78439|Juana López Orozco|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4881|Rural|06
+78439|Las Capillas|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4894|Rural|06
+78439|Los Noyola|Hacienda|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||24|035|4898|Rural|06
+78439|Pozo de Luna Dos (La Portada)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4908|Rural|06
+78439|Rancho el Refugio (Luciano Gaytán)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4915|Rural|06
+78439|Rancho San Andrés (El Ranchito)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4934|Rural|06
+78439|Rancho San Pedro|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4935|Rural|06
+78439|San Gerardo|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4940|Rural|06
+78439|San Rafael|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4944|Rural|06
+78439|Santo Tomás|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4948|Rural|06
+78439|Ximonco [Empacadora de Carnes]|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4952|Rural|06
+78439|Palma de La Cruz|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0317|Urbano|06
+78439|Antonio Vázquez Cuevas (Rancho los Noyola)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4825|Rural|06
+78439|AUMA [Granja Avícola]|Granja|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||23|035|4826|Rural|06
+78439|Ejido de Rinconada (Benito Buendía Álvarez)|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4834|Rural|06
+78439|El Garitón (Ramón Miranda)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4843|Rural|06
+78439|El Nono|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4845|Rural|06
+78439|Eulogio Rincón|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4853|Rural|06
+78439|Fraccionamiento Santo Tomás 2|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|4859|Rural|06
+78439|Granja el Nogal|Granja|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||23|035|4863|Rural|06
+78439|Hacienda de Pozo de Luna|Hacienda|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||24|035|4866|Rural|06
+78439|Higinio Torres Hernández|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4868|Rural|06
+78439|Juan Acosta Sierra (Ejido Soledad)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4878|Rural|06
+78439|La Jaloma (La Esperanza) [Sociedad Agrícola]|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4889|Rural|06
+78439|La Zorra|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4893|Rural|06
+78439|Los Adobes|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4897|Rural|06
+78439|Rancho las Cuatas (Santa Fe)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4923|Rural|06
+78439|Rancho las Lomas|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4924|Rural|06
+78439|Rancho los Buendía|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4926|Rural|06
+78439|Rancho los Chetes|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4927|Rural|06
+78439|Rancho Martínez|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4930|Rural|06
+78439|San José del Barro|Colonia|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||09|035|4789|Rural|06
+78439|Juana Cordero Armendárez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4880|Rural|06
+78439|La Soledad|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4891|Rural|06
+78439|Las Margaritas|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4895|Rural|06
+78439|Parcela Ejidal María Santos|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4906|Rural|06
+78439|Ranchito (Jesús Arias)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4909|Rural|06
+78439|Rancho de Gerardo Gallego|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4912|Rural|06
+78439|Rancho de la Gringa|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4913|Rural|06
+78439|Rancho la Crucita|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4919|Rural|06
+78439|Rancho la Ilusión|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4922|Rural|06
+78439|Rancho los Mendoza|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4928|Rural|06
+78439|Rancho Palomo|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4932|Rural|06
+78439|Rivera Asociados [Granja Avícola]|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4937|Rural|06
+78439|Ximonco [Granja Porcina]|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4953|Rural|06
+78439|Zona de Riego Valle de San Francisco|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4956|Rural|06
+78439|Valle de la Palma|Fraccionamiento|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||21|035|0004|Urbano|06
+78439|General Cándido Navarro (Laguna Seca)|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|0319|Rural|06
+78439|Estación Techa|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0321|Rural|06
+78439|El Huizache|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|0325|Rural|06
+78439|Ejido los Gómez|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|2176|Urbano|06
+78439|Antonio Castro Tristán|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4824|Rural|06
+78439|Ejido el Zapote|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4835|Rural|06
+78439|Ejido el Zapote (Los Olivos)|Ejido|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||15|035|4836|Rural|06
+78439|El Garambullal Dos|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4842|Rural|06
+78439|Granja Antonio|Granja|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||23|035|4862|Rural|06
+78439|Granja los Ángeles [Club de Golf]|Granja|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||23|035|4865|Rural|06
+78439|Huerta Velázquez|Finca|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||20|035|4872|Rural|06
+78439|Joel Corpus Gaytán|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4876|Rural|06
+78439|Julián Loredo Guerrero (El Vapor)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4883|Rural|06
+78439|La Cardona (Barbechos)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4884|Rural|06
+78439|Leovigildo Tello|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4896|Rural|06
+78439|Los Vázquez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4899|Rural|06
+78439|Rancho Don Carmen|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4914|Rural|06
+78439|Rancho Juárez|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4918|Rural|06
+78439|Rancho Loredo|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4925|Rural|06
+78439|San Agustín (El Ranchito)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4938|Rural|06
+78439|San José|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4941|Rural|06
+78439|San Martín|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4943|Rural|06
+78439|Santana de Flores|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4947|Rural|06
+78439|Antonio Aguiñaga Piñón|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4823|Rural|06
+78439|Bernardino Juárez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4828|Rural|06
+78439|División del Norte Segunda Sección|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4833|Rural|06
+78439|El Diamante (El Tízar)|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4840|Rural|06
+78439|El Paraíso|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4848|Rural|06
+78439|El Veintiocho (Crucero la Tinaja)|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4850|Rural|06
+78439|Eustacio Sierra Granja|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4854|Rural|06
+78439|Evaristo Velázquez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4855|Rural|06
+78439|Granja José Luis Velázquez|Granja|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||23|035|4864|Rural|06
+78439|Huerta la Victoria|Finca|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||20|035|4871|Rural|06
+78439|La Cruz|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4885|Rural|06
+78439|Albino Pérez|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4822|Rural|06
+78439|Cayetano Loredo Tenorio|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4829|Rural|06
+78439|División del Norte Primera Sección|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4832|Rural|06
+78439|El Olvido|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4847|Rural|06
+78439|Francisco de Alba (Rancho San José)|Granja|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||23|035|4861|Rural|06
+78439|Juana Uresti|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4882|Rural|06
+78439|La Cruz del Siglo|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4886|Rural|06
+78439|La Victoria|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4892|Rural|06
+78439|Lourdes Zamarrón|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4900|Rural|06
+78439|Rancho Cordelia|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4910|Rural|06
+78439|Rancho Hermanos Galarza|Ranchería|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||29|035|4917|Rural|06
+78439|San Vicente|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4945|Rural|06
+78439|Santa Rosa|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4946|Rural|06
+78439|Sebastián Gaytán Moreno|Poblado comunal|Soledad de Graciano Sánchez|San Luis Potosí|Soledad de Graciano Sánchez|78431|24|78431||27|035|4949|Rural|06

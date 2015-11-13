@@ -1,0 +1,113 @@
+43780|Singuilucan Centro|Colonia|Singuilucan|Hidalgo||43601|13|43601||09|057|1897|Urbano|
+43780|Chabacano|Colonia|Singuilucan|Hidalgo||43601|13|43601||09|057|5178|Urbano|
+43782|Altamira|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5181|Rural|
+43782|Mirasoles|Exhacienda|Singuilucan|Hidalgo||43601|13|43601||18|057|5210|Rural|
+43782|La Comunidad|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5217|Rural|
+43782|La Herradura|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5230|Rural|
+43782|Los Pinos|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5256|Rural|
+43782|Mirasoles Parte Alta|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5258|Rural|
+43782|Los Ángeles (La Paila)|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5253|Rural|
+43782|Mirasoles|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1899|Rural|
+43782|San José|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5265|Rural|
+43782|Del Bosque|Colonia|Singuilucan|Hidalgo||43601|13|43601||09|057|5188|Rural|
+43782|San Joaquín|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5264|Rural|
+43782|El Cebadal|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5198|Rural|
+43782|La Gaspareña|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5226|Rural|
+43783|Texcaltitla|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|2915|Rural|
+43783|La Pradera|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5239|Rural|
+43783|El Chichimeco|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5199|Rural|
+43783|La Esmeralda|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5223|Rural|
+43783|Totolquemetl|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5276|Rural|
+43783|Poza Rica|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1900|Rural|
+43783|El Sueño (Los Morales)|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5204|Rural|
+43783|Las Cruces|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5245|Rural|
+43784|Las Pintas|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5250|Rural|
+43784|Sabanetas|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5262|Rural|
+43784|Santa Ana Chichicuautla|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1896|Rural|
+43784|La Raya|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5241|Rural|
+43784|Plutarco Elías Calles|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1901|Rural|
+43784|Los Patos|Colonia|Singuilucan|Hidalgo||43601|13|43601||09|057|5190|Rural|
+43784|Tlalayote|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5274|Rural|
+43784|Las Galeras|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5246|Rural|
+43785|Cuyamaloya|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1902|Rural|
+43785|La Estancia (La Mora)|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5225|Rural|
+43785|Amolucan|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5182|Rural|
+43785|San Rafael Amolucan|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5270|Rural|
+43785|La Virgen|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5244|Rural|
+43785|Jagüey Alto|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5213|Rural|
+43785|Los Gorriones|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5255|Rural|
+43786|La Conchita (La Cantera)|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5219|Rural|
+43786|Francisco I. Madero (Col. Agrícola)|Colonia|Singuilucan|Hidalgo||43601|13|43601||09|057|5189|Rural|
+43786|Francisco I. Madero|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1895|Rural|
+43786|La Conchita|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5218|Rural|
+43786|Tlazala|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5275|Rural|
+43786|Tecanecapa|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5272|Rural|
+43786|La Gloria|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5227|Rural|
+43787|Loma del Toro|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5252|Rural|
+43787|San Rafael|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5269|Rural|
+43787|Chapultepec|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5187|Rural|
+43787|La Ladrillera|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5233|Rural|
+43787|San Pedro|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5268|Rural|
+43787|San Martín|Colonia|Singuilucan|Hidalgo||43601|13|43601||09|057|5191|Rural|
+43787|El Toronjil|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5207|Rural|
+43787|La Providencia|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5240|Rural|
+43787|San Luis Xuchitepec (Rancho Colorado)|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5266|Rural|
+43787|Santa Rosa|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5271|Rural|
+43787|La Palma|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5237|Rural|
+43787|Las Trojes|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5251|Rural|
+43787|El Venado|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5208|Rural|
+43787|San Vicente|Estación|Singuilucan|Hidalgo||43601|13|43601||16|057|5209|Rural|
+43787|Cerro Colorado|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5186|Rural|
+43787|Cuatro Vientos|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5194|Rural|
+43787|La Estancia|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5224|Rural|
+43788|Somorriel|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1898|Rural|
+43788|El Jazmín|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5200|Rural|
+43788|El Paraíso|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5202|Rural|
+43788|La Cruz|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5220|Rural|
+43788|La Venta Colorada|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5243|Rural|
+43788|Los Rosales|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5257|Rural|
+43788|Caraballo|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5185|Rural|
+43788|La Reforma (San Isidro)|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5242|Rural|
+43788|San Cristóbal el Chico|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5263|Rural|
+43788|Buenavista|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5184|Rural|
+43788|Las Fuentes|Fraccionamiento|Singuilucan|Hidalgo||43601|13|43601||21|057|5211|Rural|
+43790|La Lagunita|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5234|Rural|
+43790|Rincón del Agua|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5260|Rural|
+43790|La Gloria|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5228|Rural|
+43790|Las Palomas|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5249|Rural|
+43790|Ampliación del Sustito|Ejido|Singuilucan|Hidalgo||43601|13|43601||15|057|5195|Rural|
+43790|El Susto|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1903|Rural|
+43790|Rincón del Puerto|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5261|Rural|
+43790|El Tesoro|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5206|Rural|
+43793|La Era Grande|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5222|Rural|
+43793|La Mora|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5235|Rural|
+43793|La Cuchilla|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5221|Rural|
+43793|Alfajayucan|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5180|Rural|
+43793|Jalapilla|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5215|Rural|
+43793|Las Minas|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5248|Rural|
+43793|El Varal|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1904|Rural|
+43793|Ampliación Alfajayucan|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5203|Rural|
+43793|La Herradura|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5231|Rural|
+43793|Alfajayucan|Hacienda|Singuilucan|Hidalgo||43601|13|43601||24|057|5212|Rural|
+43793|Tres Moneras|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5277|Rural|
+43794|Matías Rodríguez|Pueblo|Singuilucan|Hidalgo||43601|13|43601||28|057|1905|Rural|
+43794|Aguayutla|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5179|Rural|
+43794|El Sustito|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5205|Rural|
+43794|El Mirador|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5201|Rural|
+43794|La Peña|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5238|Rural|
+43794|Ampliación el Varal|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5183|Rural|
+43794|La Hacienda|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5229|Rural|
+43795|El Campamento|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5197|Rural|
+43795|Crucero de Jalapilla|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5192|Rural|
+43795|La Joya|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5232|Rural|
+43795|Jagüey Viejo|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5214|Rural|
+43795|San Nicolás Tecoaco|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5267|Rural|
+43795|Xuchipango|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5278|Rural|
+43797|Cuatro Palos|Poblado comunal|Singuilucan|Hidalgo||43601|13|43601||27|057|5193|Rural|
+43797|Los Aguilar|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5254|Rural|
+43797|La Colmena|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5216|Rural|
+43797|Las Marianas|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5247|Rural|
+43797|Monte Quieto|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5259|Rural|
+43797|La Paila|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5236|Rural|
+43797|Segundas Lajas|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|1906|Rural|
+43797|Tepetongo|Ranchería|Singuilucan|Hidalgo||43601|13|43601||29|057|5273|Rural|

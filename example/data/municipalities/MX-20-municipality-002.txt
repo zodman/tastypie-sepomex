@@ -1,0 +1,46 @@
+68420|Aserradero|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0353|Rural|
+68420|Cerro Mojarra|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0354|Rural|
+68420|Jalapilla|Barrio|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||02|002|1053|Rural|
+68420|Magisterial|Colonia|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||09|002|3672|Rural|
+68420|Jardines Del Bosque|Colonia|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||09|002|3673|Rural|
+68420|La Junta|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0356|Rural|
+68420|La Raya|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0357|Rural|
+68420|Luces de la Revolución|Colonia|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||09|002|4906|Rural|
+68420|Los Trapiches|Barrio|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||02|002|1167|Rural|
+68420|San José Obrero|Barrio|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||02|002|3669|Rural|
+68420|La Estación|Barrio|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||02|002|3670|Rural|
+68420|Las Flores|Barrio|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||02|002|3671|Rural|
+68422|Vieja|Colonia|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||09|002|3399|Rural|33
+68422|Nueva|Colonia|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||09|002|3400|Rural|33
+68422|Cantarrana|Barrio|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||02|002|3398|Rural|33
+68422|Las Margaritas|Ingenio|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||25|002|3401|Rural|33
+68422|Obrera|Colonia|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||09|002|3849|Rural|33
+68422|Vicente Estación Centro|Colonia|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||09|002|0364|Rural|33
+68422|Benito Juárez|Colonia|Acatlán de Pérez Figueroa|Oaxaca|Vicente Camalote|68414|20|68414||09|002|3848|Rural|33
+68424|Tabaquera|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0369|Rural|
+68424|La Estrella|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0358|Rural|
+68424|Arroyo de Enmedio|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0366|Rural|
+68424|Buenos Aires|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|4412|Rural|
+68424|Laguna Verde|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|4876|Rural|
+68424|La Martinica|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0359|Rural|
+68424|Zona Urbana Ejidal|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|4414|Rural|
+68424|Cañamazal|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0367|Rural|
+68424|Maravillas|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0368|Rural|
+68425|Cañada San Antonio|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|4409|Rural|
+68425|Los Corrales|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|4413|Rural|
+68425|Barbasco|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0370|Rural|
+68425|Martinica|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0371|Rural|
+68426|El Porvenir|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0372|Rural|
+68426|Tembladera Vista Hermosa|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0375|Rural|
+68426|Tetela|Estación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||16|002|0365|Rural|
+68426|Rancho Grande|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0374|Rural|
+68426|El Cedral|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0360|Rural|
+68426|Tembladeras Del Castillo|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0363|Rural|
+68426|La Selva|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0373|Rural|
+68426|Ojo de Agua o Palma Cuata|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|4411|Rural|
+68426|La Carbonera|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|4410|Rural|
+68427|Miguel Hidalgo|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0376|Rural|
+68428|Joliette|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0361|Rural|
+68428|Esperanza|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0377|Rural|
+68428|Torreón|Ranchería|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||29|002|0378|Rural|
+68428|Tembladera de La Selva 1|Congregación|Acatlán de Pérez Figueroa|Oaxaca||68414|20|68414||11|002|0362|Rural|

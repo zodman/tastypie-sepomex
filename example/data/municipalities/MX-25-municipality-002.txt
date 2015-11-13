@@ -1,0 +1,42 @@
+81600|Angostura Centro|Colonia|Angostura|Sinaloa|Angostura|81601|25|81601||09|002|0858|Rural|15
+81605|Los Álamos|Fraccionamiento|Angostura|Sinaloa|Angostura|81601|25|81601||21|002|3079|Urbano|15
+81605|Fovissste|Colonia|Angostura|Sinaloa|Angostura|81601|25|81601||09|002|1805|Rural|15
+81607|Labastida Ochoa|Colonia|Angostura|Sinaloa|Angostura|81601|25|81601||09|002|1804|Rural|15
+81610|Batamotos|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|2387|Rural|
+81610|Alhuey|Pueblo|Angostura|Sinaloa||81601|25|81601||28|002|0860|Rural|
+81610|Capomos|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0861|Rural|
+81620|San Antonio|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0863|Rural|
+81620|El Ébano|Pueblo|Angostura|Sinaloa||81601|25|81601||28|002|0862|Rural|
+81621|La Primavera|Pueblo|Angostura|Sinaloa||81601|25|81601||28|002|0864|Rural|
+81622|La Palma|Pueblo|Angostura|Sinaloa||81601|25|81601||28|002|0865|Rural|
+81623|San Isidro|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0866|Rural|
+81624|El Llano|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0867|Rural|
+81624|San Luciano|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0868|Rural|
+81625|Las Tunas|Rancho|Angostura|Sinaloa||81601|25|81601||48|002|0001|Rural|
+81625|La Esperanza|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0869|Rural|
+81630|Acatita|Estación|Angostura|Sinaloa||81402|25|81402||16|002|0870|Rural|
+81632|La Unión|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0871|Rural|
+81632|El Ranchito|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|2719|Rural|
+81635|La Ilama|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|2386|Rural|
+81635|La Providencia|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|3123|Rural|
+81635|18 de Diciembre|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|2388|Rural|
+81639|Bruno Beltran Garcia|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|0872|Rural|
+81640|Gustavo Diaz Ordaz|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|0873|Rural|
+81642|Campo General|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0874|Rural|
+81649|Agustina Ramirez|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|0875|Rural|
+81650|Valentín Gómez Farias|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|0876|Rural|
+81652|Playa Colorada|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0877|Rural|
+81653|Batury|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0878|Rural|
+81654|La Rosita|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|2981|Rural|
+81655|Protomartir de Sinaloa|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0879|Rural|
+81660|Agrícola México (Palmitas)|Pueblo|Angostura|Sinaloa||81681|25|81681||28|002|0880|Urbano|
+81661|Dámaso Cárdenas|Ranchería|Angostura|Sinaloa||81601|25|81601||29|002|0882|Rural|
+81661|Rafael Buelna|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|0883|Rural|
+81664|Independencia|Ejido|Angostura|Sinaloa||81601|25|81601||15|002|0884|Rural|
+81666|Costa Azul|Residencial|Angostura|Sinaloa||81601|25|81601||30|002|0885|Rural|
+81670|Leopoldo Sanchez Celis|Ejido|Angostura|Sinaloa||81681|25|81681||15|002|0886|Rural|
+81670|Ignacio Allende|Ejido|Angostura|Sinaloa||81681|25|81681||15|002|2306|Rural|
+81675|Sinaloa|Ranchería|Angostura|Sinaloa||81681|25|81681||29|002|0887|Rural|
+81680|La Reforma|Pueblo|Angostura|Sinaloa||81681|25|81681||28|002|0888|Rural|
+81690|Independencia (Chinitos)|Colonia|Angostura|Sinaloa||81681|25|81681||09|002|0890|Urbano|
+81690|Arboladas|Colonia|Angostura|Sinaloa||81681|25|81681||09|002|3153|Urbano|

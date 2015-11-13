@@ -1,0 +1,10 @@
+97380|Acanceh|Pueblo|Acanceh|Yucatán||97161|31|97161||28|002|0303|Rural|
+97380|Santiago|Colonia|Acanceh|Yucatán||97161|31|97161||09|002|0001|Rural|
+97380|Ticopó|Hacienda|Acanceh|Yucatán||97161|31|97161||24|002|0305|Rural|
+97380|Canicab|Hacienda|Acanceh|Yucatán||97161|31|97161||24|002|0304|Rural|
+97380|El Zapotal|Colonia|Acanceh|Yucatán||97161|31|97161||09|002|1807|Urbano|
+97382|Tepich Carrillo|Hacienda|Acanceh|Yucatán||97371|31|97371||24|002|0306|Rural|
+97383|Petectunich|Pueblo|Acanceh|Yucatán||97161|31|97161||28|002|1064|Rural|
+97383|Sahcatzin|Pueblo|Acanceh|Yucatán||97161|31|97161||28|002|1066|Rural|
+97383|Cibceh|Rancho|Acanceh|Yucatán||97161|31|97161||48|002|0002|Rural|
+97383|Sacchich|Pueblo|Acanceh|Yucatán||97161|31|97161||28|002|1065|Rural|

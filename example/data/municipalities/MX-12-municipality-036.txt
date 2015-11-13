@@ -1,0 +1,24 @@
+41970|Igualapa|Pueblo|Igualapa|Guerrero||41706|12|41706||28|036|3590|Rural|
+41973|Yoloxóchitl|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5181|Urbano|
+41973|Del Tepeyac|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5182|Urbano|
+41974|De La Playa|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5183|Urbano|
+41974|De Los Tepetates|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5186|Urbano|
+41974|De La Gachupina|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5185|Urbano|
+41975|PRI 2000|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5189|Urbano|
+41975|Alejandro Cervantes Delgado|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5184|Urbano|
+41976|Del Camposanto|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5187|Urbano|
+41977|Nuevo|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|5188|Urbano|
+41980|San José Buenavista|Campamento|Igualapa|Guerrero||41706|12|41706||04|036|3594|Rural|
+41980|Rancho el Arbolito (Juan Cristóbal)|Ranchería|Igualapa|Guerrero||41706|12|41706||29|036|5178|Rural|
+41980|Llano Grande de Juárez|Pueblo|Igualapa|Guerrero||41706|12|41706||28|036|3397|Rural|
+41985|Acalmani|Campamento|Igualapa|Guerrero||41706|12|41706||04|036|3595|Rural|
+41987|Chacalapa|Pueblo|Igualapa|Guerrero||41706|12|41706||28|036|3589|Rural|
+41993|Llano Grande de los Hilarios|Pueblo|Igualapa|Guerrero||41706|12|41706||28|036|3593|Rural|
+41993|La Victoria|Campamento|Igualapa|Guerrero||41706|12|41706||04|036|3592|Rural|
+41994|La Libertad|Ranchería|Igualapa|Guerrero||41706|12|41706||29|036|5177|Rural|
+41995|Rancho Rafael García Ortiz|Ranchería|Igualapa|Guerrero||41706|12|41706||29|036|5179|Rural|
+41995|Tepatahuac|Ranchería|Igualapa|Guerrero||41706|12|41706||29|036|5180|Rural|
+41996|Colonia Enrique Rodríguez Cruz|Colonia|Igualapa|Guerrero||41706|12|41706||09|036|3597|Rural|
+41997|Boca de Talapa|Ranchería|Igualapa|Guerrero||41706|12|41706||29|036|5175|Rural|
+41997|El Barrero|Ranchería|Igualapa|Guerrero||41706|12|41706||29|036|5176|Rural|
+41997|San Juan de los Llanos|Pueblo|Igualapa|Guerrero||41706|12|41706||28|036|3591|Rural|

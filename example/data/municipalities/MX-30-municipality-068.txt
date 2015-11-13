@@ -1,0 +1,84 @@
+94466|Monte Blanco|Pueblo|Fortín|Veracruz de Ignacio de la Llave||94471|30|94471||28|068|2914|Rural|
+94466|Puente Blanco|Colonia|Fortín|Veracruz de Ignacio de la Llave||94471|30|94471||09|068|5446|Rural|
+94466|Santa Lucia Potrerillo|Pueblo|Fortín|Veracruz de Ignacio de la Llave||94471|30|94471||28|068|2915|Rural|
+94467|Monte Salas|Ejido|Fortín|Veracruz de Ignacio de la Llave||94471|30|94471||15|068|2909|Rural|
+94469|Villa Unión|Villa|Fortín|Veracruz de Ignacio de la Llave||94471|30|94471||32|068|2912|Rural|
+94470|Fortín de las Flores Centro|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4799|Semiurbano|33
+94472|Zacatal|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5449|Urbano|33
+94472|Residencial la Llave|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|6918|Urbano|33
+94472|Villas de las Animas|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7490|Urbano|33
+94472|Crucero Nacional|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7809|Urbano|33
+94472|Ricardo Ballinas|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0638|Semiurbano|33
+94472|Hermosa Provincia|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0827|Semiurbano|33
+94472|Geovillas de las Flores|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5368|Semiurbano|33
+94472|Vicente Lombardo Toledano|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5453|Urbano|33
+94472|Los Tabachines|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7810|Urbano|33
+94472|Tlacotengo II|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7811|Urbano|33
+94472|Lomas de La Llave|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|5369|Semiurbano|33
+94472|Villas de La Llave|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|5451|Urbano|33
+94472|Adalberto Díaz Jacome|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7808|Urbano|33
+94472|Tlacotengo I|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|2911|Urbano|33
+94472|Miguel Alemán Velasco|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7812|Urbano|33
+94473|Bugambilias|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7813|Urbano|33
+94473|Dante Delgado|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0703|Semiurbano|33
+94473|Raquet Club|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4800|Semiurbano|33
+94473|Villitas|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7487|Urbano|33
+94473|Los Encinos|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0788|Semiurbano|33
+94473|Las Azaleas|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0633|Semiurbano|33
+94474|Fortín|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|4801|Semiurbano|33
+94474|Fortín Viejo|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0806|Semiurbano|33
+94474|Terminal|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|1125|Semiurbano|33
+94475|Bosques del Fortín|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|0003|Urbano|33
+94475|San Pablo|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|1080|Semiurbano|33
+94475|Melesio Portillo|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4796|Semiurbano|33
+94475|Las Gardenias|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5450|Urbano|33
+94475|Rincón de Linda Vista|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|6863|Semiurbano|33
+94475|Lindavista|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|0913|Semiurbano|33
+94475|San Jose|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|1071|Semiurbano|33
+94475|Linda Vista|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5452|Urbano|33
+94475|Jacarandas|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4797|Semiurbano|33
+94476|Santo Domingo|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|1096|Urbano|33
+94476|Las Palmas|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4379|Urbano|33
+94476|Lomas de San Marcial|Unidad habitacional|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||31|068|4382|Urbano|33
+94476|Victoria|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|4520|Urbano|33
+94476|Los Pinos|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5448|Urbano|33
+94476|Santa Leticia|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|2910|Urbano|33
+94476|Jardín|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|4378|Urbano|33
+94476|El Pedregal|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4381|Urbano|33
+94476|La Herradura|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|5895|Urbano|33
+94476|El Portal|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|5954|Urbano|33
+94476|FSTSE|Unidad habitacional|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||31|068|7816|Urbano|33
+94476|INDECO Shangri-La|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7818|Urbano|33
+94476|Alberto Rosales|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7819|Urbano|33
+94476|Los Tulipanes|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|4380|Urbano|33
+94476|El Bosque|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|5367|Urbano|33
+94476|El Rosario|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7815|Urbano|33
+94476|La Salle 1ra. Sección|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7820|Urbano|33
+94476|Residencial Cortijo de San Antonio|Residencial|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||30|068|7827|Urbano|33
+94476|Silvestre Aguilar|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|7828|Urbano|33
+94476|Tres Ríos|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|0001|Urbano|33
+94476|Sama de Grado|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7814|Urbano|33
+94476|Arboledas|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7817|Urbano|33
+94476|Yuliana II|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7829|Urbano|33
+94476|San Marcial|Unidad habitacional|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||31|068|1077|Urbano|33
+94476|Las Fuentes|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|4377|Urbano|33
+94476|La Salle 2da. Sección|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7821|Urbano|33
+94476|Residencial Bambues|Residencial|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||30|068|7822|Urbano|33
+94476|Unidad Delfina|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|0002|Urbano|33
+94476|Los Álamos|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|0933|Urbano|33
+94476|Residencial Los Ángeles|Residencial|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||30|068|7823|Urbano|33
+94476|Villas del Bosque|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7824|Urbano|33
+94476|Naranjos|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7826|Urbano|33
+94477|La Esperanza|Colonia|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||09|068|5447|Urbano|33
+94477|San Basilio|Ranchería|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||29|068|5454|Urbano|33
+94477|San Camilo|Ranchería|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||29|068|5455|Urbano|33
+94477|Yuliana I|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7830|Urbano|33
+94477|Los Lienzos|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7834|Urbano|33
+94477|Santa Martina|Ranchería|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||29|068|5456|Urbano|33
+94477|Los Naranjos|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7190|Urbano|33
+94477|Palma Real|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7832|Urbano|33
+94477|Las Flores|Pueblo|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||28|068|5458|Urbano|33
+94477|Hacienda San Marcial|Unidad habitacional|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||31|068|7831|Urbano|33
+94477|Las Flores|Unidad habitacional|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||31|068|5457|Urbano|33
+94477|San Paulino|Ranchería|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||29|068|7833|Urbano|33
+94477|Villa de las Flores|Fraccionamiento|Fortín|Veracruz de Ignacio de la Llave|Fortín de las Flores|94471|30|94471||21|068|7849|Urbano|33

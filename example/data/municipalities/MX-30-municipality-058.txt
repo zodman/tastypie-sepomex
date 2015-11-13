@@ -1,0 +1,74 @@
+92700|Chicontepec de Tejeda|Pueblo|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||28|058|1578|Rural|
+92700|Cruz Verde|Barrio|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||02|058|1817|Rural|
+92700|El Cristo|Colonia|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||09|058|1850|Rural|
+92700|Las Palmas|Colonia|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||09|058|7846|Rural|
+92700|Cuatzapotitla|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1577|Rural|
+92700|Pastoría|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1582|Rural|
+92700|Postectitla|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1583|Rural|
+92700|Mexcatla|Barrio|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||02|058|2010|Rural|
+92700|Achupil|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1575|Rural|
+92700|El Mirador Santa Clara|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1579|Rural|
+92700|IMSS Coplamar|Colonia|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||09|058|4719|Rural|
+92700|Coahuitze|Colonia|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||09|058|1808|Rural|
+92700|Ixcacuatitla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1581|Rural|
+92700|Las Lomas|Colonia|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||09|058|1952|Rural|
+92700|Ahuimol 1|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1576|Rural|
+92700|Huacango|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1580|Rural|
+92700|Soltepec|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1584|Rural|
+92700|Temoctla|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1585|Rural|
+92700|Tepetzintla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1586|Rural|
+92701|Callejón Carrizalillo|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1587|Rural|
+92702|Tlacolula|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92511|30|92511||11|058|1588|Rural|
+92703|Tecerca|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1591|Rural|
+92703|Sayoltepec|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6882|Rural|
+92703|Cacahuatenco|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1589|Rural|
+92703|El Cepillo|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1590|Rural|
+92704|Chapopote Chamizal|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1592|Rural|
+92704|Pilahuimol|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|7306|Rural|
+92705|Akichtzintla|Pueblo|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||28|058|0002|Rural|
+92705|Ahuateno|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1593|Rural|
+92706|Sasaltitla|Pueblo|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||28|058|1594|Rural|
+92706|Xochicuatepec|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|7927|Rural|
+92707|Lindero Agua Fría|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1596|Rural|
+92707|La Guásima Ixcacuatitla|Poblado comunal|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||27|058|8370|Rural|
+92707|Apaxtitla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|0003|Rural|
+92707|Romantla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1597|Rural|
+92707|Tepeco|Poblado comunal|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||27|058|8554|Rural|
+92707|Chapopote Chico|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1595|Rural|
+92708|Ahuatitla Arriba|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1598|Rural|
+92708|Pemuxtitla|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1600|Rural|
+92708|Toloncuitlatla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1601|Rural|
+92708|Alahualtitla|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1599|Rural|
+92710|Francisco Villa|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|7305|Rural|
+92710|Granadilla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1603|Rural|
+92711|Limontitla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1604|Rural|
+92713|El Zacatal|Poblado comunal|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||27|058|8369|Rural|
+92715|El Chote Santa Teresa|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6075|Rural|
+92716|La Esmeralda|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6851|Rural|
+92716|Mesa de Calcote|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6074|Rural|
+92716|Sojual|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|7924|Rural|
+92717|Tlamenpa|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6073|Rural|
+92720|Paso de Tlacolula|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1605|Rural|
+92720|Tiocuano|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1606|Rural|
+92723|Texopes|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|6072|Rural|
+92723|Xilico|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|7212|Rural|
+92723|Ateno|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6874|Rural|
+92723|Cuahuítzil|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|7319|Rural|
+92724|Chapixtla|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6876|Rural|
+92724|Zonámatl|Pueblo|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||28|058|0004|Rural|
+92724|Cuatecometl|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1607|Rural|
+92724|Tetillas|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1608|Rural|
+92724|Las Silletas|Poblado comunal|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||27|058|7945|Rural|
+92724|Alaxtitla Huixnopala|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|6872|Rural|
+92725|El Limón|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1610|Rural|
+92725|Chahuantla|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1609|Rural|
+92726|Huitztipa|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|7213|Rural|
+92726|Tlanempa Común|Poblado comunal|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||27|058|9053|Rural|
+92726|Las Placetas|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1612|Rural|
+92726|Corral Falso|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1611|Rural|
+92726|Ahuatlán|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|7208|Rural|
+92727|El Ixtle Flores Magón|Poblado comunal|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||27|058|0001|Rural|
+92727|El Humo|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1613|Rural|
+92727|Tzicatipa|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1614|Rural|
+92728|Tepoxteco|Congregación|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||11|058|1616|Rural|
+92728|Campo La Mata|Ranchería|Chicontepec|Veracruz de Ignacio de la Llave||92709|30|92709||29|058|1615|Rural|

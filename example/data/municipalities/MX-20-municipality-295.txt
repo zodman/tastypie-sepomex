@@ -1,0 +1,25 @@
+71265|La Villa|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|0003|Urbano|
+71265|El Calvario|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|4002|Rural|
+71265|Francisco I Madero|Colonia|San Pablo Huixtepec|Oaxaca||71201|20|71201||09|295|3600|Rural|
+71265|Barrio de Jesús|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|3999|Rural|
+71265|La Soledad|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|4000|Rural|
+71265|San Pablo Huixtepec|Villa|San Pablo Huixtepec|Oaxaca||71201|20|71201||32|295|2822|Rural|
+71266|Guadalupe Sierra|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|0002|Urbano|
+71266|San Antonio|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|4003|Rural|
+71266|Ampliación San Antonio|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|0001|Urbano|
+71266|La Guadalupe|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|4001|Rural|
+71267|Loma del Ocote|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0013|Rural|
+71267|Paraje Vitigotiopa|Ejido|San Pablo Huixtepec|Oaxaca||71201|20|71201||15|295|0014|Rural|
+71267|Barbas|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0004|Rural|
+71267|El Palenque|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0007|Rural|
+71267|Yarechi|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0018|Rural|
+71267|Pozo Pajarito|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0015|Rural|
+71267|Rancho Besaro|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0016|Rural|
+71267|Lachigova|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0010|Rural|
+71267|La Santa Cruz|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0009|Rural|
+71268|Barrio San Antonio|Barrio|San Pablo Huixtepec|Oaxaca||71201|20|71201||02|295|0005|Rural|
+71268|Las Cruces|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0011|Rural|
+71268|Llano Largo|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0012|Rural|
+71268|Río Morón|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0017|Rural|
+71268|El Marqués|Ranchería|San Pablo Huixtepec|Oaxaca||71201|20|71201||29|295|0006|Rural|
+71268|Ex-Hacienda de la Niña Andrea|Exhacienda|San Pablo Huixtepec|Oaxaca||71201|20|71201||18|295|0008|Rural|

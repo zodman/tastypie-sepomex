@@ -1,0 +1,10 @@
+48100|Atenguillo|Pueblo|Atenguillo|Jalisco||48101|14|48101||28|012|2384|Rural|
+48110|San Pablo|Ranchería|Atenguillo|Jalisco||48101|14|48101||29|012|2386|Rural|
+48120|El Ranchito|Ranchería|Atenguillo|Jalisco||48101|14|48101||29|012|2387|Rural|
+48130|Los Volcanes|Hacienda|Atenguillo|Jalisco||48101|14|48101||24|012|2388|Rural|
+48135|San Jose de los Andrade|Ranchería|Atenguillo|Jalisco||48101|14|48101||29|012|2389|Rural|
+48136|Santa Bárbara|Ranchería|Atenguillo|Jalisco||48101|14|48101||29|012|2390|Rural|
+48139|Ahuacatepec|Hacienda|Atenguillo|Jalisco||48101|14|48101||24|012|2391|Rural|
+48140|San Antonio de los Macedo|Ejido|Atenguillo|Jalisco||48101|14|48101||15|012|2392|Rural|
+48145|Las Cebollas|Ejido|Atenguillo|Jalisco||48101|14|48101||15|012|2393|Rural|
+48146|El Rodeo|Ranchería|Atenguillo|Jalisco||48101|14|48101||29|012|2394|Rural|

@@ -1,0 +1,72 @@
+29710|La Ceiba|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|0002|Rural|
+29710|La Pista|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|0003|Rural|
+29710|Guadalupe|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|5047|Rural|
+29710|Las Flores|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|0004|Rural|
+29710|Santa Cruz|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|0005|Rural|
+29710|Arroyo Sabinal|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|0001|Rural|
+29710|Huitiupan Centro|Barrio|Huitiupán|Chiapas||29821|07|29821||02|039|0696|Rural|
+29713|El Ocotal|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0694|Rural|
+29713|Sanaí Guayabal|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5056|Rural|
+29713|Acapulquito|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5058|Rural|
+29713|Vicente Guerrero|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5059|Rural|
+29713|San Martín Buena Vista|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5049|Rural|
+29713|Triunfo las Palmas|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5054|Rural|
+29713|El Carmito|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5050|Rural|
+29713|Vista Hermosa Morelos|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0702|Rural|
+29713|San José la Unión|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5046|Rural|
+29713|La Labranza|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5052|Rural|
+29713|San Francisco la Frontera|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5057|Rural|
+29713|San Rafael|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|5048|Rural|
+29713|Chanival|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5074|Rural|
+29713|La Florida|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5051|Rural|
+29713|Santa Clara|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5055|Rural|
+29714|18 de Abril|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5043|Rural|
+29714|Sombra Lagunita|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5082|Rural|
+29714|El Zacatonal Juárez|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0695|Rural|
+29714|La Corona|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5075|Rural|
+29714|San Pedro Pabuchil|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|5087|Rural|
+29714|6 de Noviembre|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5044|Rural|
+29714|Francisco I. Mmadero|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5083|Rural|
+29714|Sacajtic|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0703|Rural|
+29714|Quinoval|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5042|Rural|
+29714|La Competencia|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0698|Rural|
+29714|Agustín Rubió|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5045|Rural|
+29715|Remolino|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5089|Rural|
+29715|Planada Zapotal|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5092|Rural|
+29715|Naranjos Pital|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5093|Rural|
+29715|Linda Vista Almandro|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5090|Rural|
+29715|Santa María los Ángeles|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5086|Rural|
+29715|Almandro Viejo|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5088|Rural|
+29715|Mangos Pital|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5095|Rural|
+29715|Huanal|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0705|Rural|
+29715|Planada Villa Luz|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5081|Rural|
+29715|Buen Paso|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5085|Rural|
+29715|Villa Luz|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0699|Rural|
+29715|Sombra Carrizal|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0706|Rural|
+29715|El Desengaño|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5084|Rural|
+29715|Nuevo San Juan el Aguaje|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5094|Rural|
+29716|La Cascada|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5079|Rural|
+29716|Cacateal Pital|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5091|Rural|
+29716|San Francisco II|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5073|Rural|
+29716|Sinaí Díaz Ordaz|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5060|Rural|
+29716|Nueva Reforma|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5076|Rural|
+29716|Cerro la Pava|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5077|Rural|
+29716|El Shuc|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5072|Rural|
+29716|Ramos Cubilete|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5080|Rural|
+29716|Nueva Generación Emiliano Zapata|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5071|Rural|
+29716|José María Morelos y Pavón|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0697|Rural|
+29716|Emiliano Zapata|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0704|Rural|
+29716|Santuario el Poso Esquipulas|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5078|Rural|
+29717|San Dionisio|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5064|Rural|
+29717|Francisco Villa|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|5065|Rural|
+29717|La Loma|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5069|Rural|
+29717|El Azufre|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0700|Rural|
+29717|Lázaro Cárdenas|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|0701|Rural|
+29717|La Ventana|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5061|Rural|
+29717|Santa Catarina|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|5063|Rural|
+29717|15 de Agosto|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5053|Rural|
+29717|Álvaro Obregón|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5062|Rural|
+29717|5 de Mayo|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|5066|Rural|
+29717|Pabuchil Covadonga|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5067|Rural|
+29717|Benito Juárez|Ejido|Huitiupán|Chiapas||29821|07|29821||15|039|5068|Rural|
+29717|Naquen|Colonia|Huitiupán|Chiapas||29821|07|29821||09|039|5070|Rural|

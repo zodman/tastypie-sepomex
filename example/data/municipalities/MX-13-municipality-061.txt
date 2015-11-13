@@ -1,0 +1,110 @@
+43970|Constitución de 1917|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|0920|Urbano|15
+43970|Tepeapulco Centro|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|1994|Urbano|15
+43971|Texcatzongo|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|1996|Rural|
+43971|Los Cides|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|1995|Rural|
+43972|San Bartolomé Tepetates|Hacienda|Tepeapulco|Hidalgo||43992|13|43992||24|061|1997|Rural|
+43972|Paso del Cristo|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5383|Rural|
+43972|Los Ángeles|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5387|Rural|
+43973|Ampliación 18 de Marzo|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|1999|Urbano|15
+43973|18 de Marzo|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|1998|Urbano|15
+43973|Francisco I. Madero|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|2000|Urbano|15
+43974|Ampliación José María Pino Suárez|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|2002|Urbano|15
+43974|Piedras Negras|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|5354|Urbano|15
+43974|José María Pino Suárez|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|2001|Urbano|15
+43975|Los Reyes|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|1013|Urbano|15
+43975|14 de Febrero|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|5355|Urbano|15
+43975|Privadas de Vista Real|Fraccionamiento|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||21|061|0003|Urbano|15
+43975|El Magueyal|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|5356|Urbano|15
+43976|Ampliación del Trabajo|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|0931|Urbano|15
+43976|Del Trabajo|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|2004|Urbano|15
+43976|Ampliación Plaza Vieja|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|1047|Urbano|15
+43976|Sales y Minerales|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|1058|Urbano|15
+43976|Plaza Vieja|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|2005|Urbano|15
+43977|Ampliación Frailes|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|0961|Urbano|15
+43977|El Calvario|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|2006|Urbano|15
+43977|Frailes|Colonia|Tepeapulco|Hidalgo|Tepeapulco|43992|13|43992||09|061|0960|Urbano|15
+43980|San Miguel Allende|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|2009|Rural|
+43983|El Jihuingo|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5384|Rural|
+43983|Heriberto Castillo Muñoz|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5385|Rural|
+43983|La Tula|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5373|Rural|
+43983|Las Delicias|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5376|Rural|
+43983|La Plateada|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5371|Rural|
+43983|Cruz Blanca (Santa Cruz)|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5359|Rural|
+43983|El Llano de la Presa|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5361|Rural|
+43984|La Isleta|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5368|Rural|
+43984|La Rinconada|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5372|Rural|
+43984|Palo Hueco|Pueblo|Tepeapulco|Hidalgo||43992|13|43992||28|061|2010|Rural|
+43985|Francisco Sarabia (Corralillos)|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|2011|Rural|
+43985|Tlacatepa|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5395|Rural|
+43985|Palmillas|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5382|Rural|
+43986|Jagüey Prieto|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|2012|Rural|
+43986|La Estación Ocho|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5366|Rural|
+43986|Vista Hermosa|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|2014|Rural|
+43986|Granja de Aguilera|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5363|Rural|
+43986|Pedro Meneses|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5388|Rural|
+43986|Tultengo|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|2013|Rural|
+43986|San Ignacio de Loyola|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5391|Rural|
+43986|San José Tultengo|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5392|Rural|
+43986|Las Cabrerias (La Rinconada)|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5375|Rural|
+43986|Los Coyotes|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5377|Rural|
+43987|20 de Noviembre|Colonia|Tepeapulco|Hidalgo||43992|13|43992||09|061|5357|Rural|
+43987|La Cañada|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5364|Rural|
+43987|Quince Hermanos|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5389|Rural|
+43987|Los López|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5380|Rural|
+43987|El Magueyal (Las Palomas)|Colonia|Tepeapulco|Hidalgo||43992|13|43992||09|061|5358|Rural|
+43987|La Hermita|Colonia|Tepeapulco|Hidalgo||43992|13|43992||09|061|5367|Rural|
+43987|San Salvador (El Calvario)|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5393|Rural|
+43987|Los Quintos|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5381|Rural|
+43987|El Mirto|Colonia|Tepeapulco|Hidalgo||43992|13|43992||09|061|5362|Rural|
+43988|Los García|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5379|Rural|
+43988|Zarate|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5390|Rural|
+43988|El Capulín|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5360|Rural|
+43988|La Loma|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5369|Rural|
+43988|Temomusgo|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5394|Rural|
+43988|Los Duraznos|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5378|Rural|
+43988|La Caseta de Aforos|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5365|Rural|
+43988|Las Águilas|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5386|Rural|
+43988|La Loma de San Juan|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5370|Rural|
+43988|Las Bedollas|Ranchería|Tepeapulco|Hidalgo||43992|13|43992||29|061|5374|Rural|
+43988|San Jerónimo|Hacienda|Tepeapulco|Hidalgo||43992|13|43992||24|061|2015|Rural|
+43990|Legaspi|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2016|Urbano|04
+43991|Irolo|Estación|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||16|061|2017|Urbano|04
+43993|Villas de Sahagún|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2019|Urbano|04
+43993|Mineros|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|1023|Urbano|04
+43993|Villas Napoleón|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|0001|Urbano|04
+43993|Tesatla Siglo XXI|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|2678|Urbano|04
+43993|5 de Febrero|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|2677|Urbano|04
+43994|Rev. Mexicana|Condominio|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||10|061|2676|Urbano|04
+43994|Fides|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2221|Urbano|04
+43994|Independencia|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2021|Urbano|04
+43994|Benito Juárez|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2020|Urbano|04
+43994|Del Bosque|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2220|Urbano|04
+43994|Real del Bosque|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|2681|Urbano|04
+43994|Sindicato Minero|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|0002|Urbano|04
+43995|Valle de Guadalupe|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|2218|Urbano|04
+43995|Las Haciendas|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2133|Urbano|04
+43995|IMSS|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2023|Urbano|04
+43995|Dina|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2022|Urbano|04
+43995|21 de Julio|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2219|Urbano|04
+43996|Granja Guadalupe|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2685|Urbano|04
+43996|Lomas del Pedregal|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2686|Urbano|04
+43996|El Chamizal|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2222|Urbano|04
+43996|Ex-Hacienda de Guadalupe|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|0956|Urbano|04
+43996|Dikona|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2024|Urbano|04
+43996|Tadeo de Niza|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2026|Urbano|04
+43996|Santa Barbara|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2680|Urbano|04
+43996|Rojo Gómez|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2025|Urbano|04
+43997|Carros|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2028|Urbano|04
+43997|Salvador Allende|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2029|Urbano|04
+43997|Abecedario|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2027|Urbano|04
+43997|Sidena|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2030|Urbano|04
+43998|El Pedregal|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|0950|Urbano|04
+43998|Palmillas|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2033|Urbano|04
+43998|Frailes|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|2682|Urbano|04
+43998|Miguel Hidalgo|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2031|Urbano|04
+43998|Plan de Ayala|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2679|Urbano|04
+43998|Unidad Campesina|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2134|Urbano|04
+43998|La Rosa|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|2684|Urbano|04
+43998|Morelos|Fraccionamiento|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||21|061|2032|Urbano|04
+43998|Vicente Guerrero|Colonia|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||09|061|1085|Urbano|04
+43998|Zona Industrial|Zona industrial|Tepeapulco|Hidalgo|Ciudad de Fray Bernardino de Sahagún|43992|13|43992||37|061|2034|Urbano|04

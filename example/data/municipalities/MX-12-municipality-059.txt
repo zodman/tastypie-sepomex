@@ -1,0 +1,40 @@
+40160|Mohonera|Barrio|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||02|059|3881|Semiurbano|28
+40160|Lázaro Cárdenas|Colonia|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||09|059|3878|Semiurbano|28
+40160|San Gabrielito|Barrio|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||02|059|3882|Semiurbano|28
+40160|El Calvario|Barrio|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||02|059|3875|Semiurbano|28
+40160|Pueblo Tepaxtitlán|Barrio|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||02|059|3876|Semiurbano|28
+40160|Tepecoacuilco Centro|Colonia|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||09|059|1902|Semiurbano|28
+40160|Paso de Iguala|Barrio|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||02|059|3874|Semiurbano|28
+40160|Padre Jesús|Colonia|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||09|059|3879|Semiurbano|28
+40160|La Vima|Colonia|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||09|059|4507|Urbano|28
+40160|Ejidal|Colonia|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||09|059|3880|Semiurbano|28
+40160|Las Arboledas|Colonia|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||09|059|4643|Urbano|28
+40160|Progreso Nacional|Barrio|Tepecoacuilco de Trujano|Guerrero|Tepecoacuilco de Trujano|40161|12|40161||02|059|3877|Semiurbano|28
+40162|Sabana Grande|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1908|Rural|
+40162|Las Tunas|Campamento|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||04|059|1907|Rural|
+40163|Ahuehuepan|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1909|Rural|
+40163|Tetelilla|Campamento|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||04|059|1910|Rural|
+40163|Xalitla|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1911|Rural|
+40164|Mayanalan|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1903|Rural|
+40164|Xochimilco|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1906|Rural|
+40164|Acayahualco|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1912|Rural|
+40164|Rincón de La Cocina|Campamento|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||04|059|1913|Rural|
+40164|Rincón Chiquito|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1904|Rural|
+40164|Santa Cruz|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1905|Rural|
+40165|San Gabrielito|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1901|Rural|
+40165|Tierra Colorada|Ejido|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||15|059|1914|Rural|
+40166|San Vicente Palapa|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1916|Rural|
+40166|Cuexcontlan|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1915|Rural|
+40166|Tepaxtitlán|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1917|Rural|
+40170|Progreso|Colonia|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||09|059|4539|Urbano|
+40170|Tecuescontitlán|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1919|Rural|
+40170|Lázaro Cárdenas|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1918|Rural|
+40171|Tonalapa del Sur|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1921|Rural|
+40171|Palula|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1920|Rural|
+40171|Venta de Palula|Campamento|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||04|059|1922|Rural|
+40172|Maxela|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1923|Rural|
+40173|San Juan Tetelcingo|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1925|Rural|
+40173|San Miguel Tecuixiapan|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1926|Rural|
+40173|San Agustin Oapan|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1924|Rural|
+40173|Valerio Trujano|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1927|Rural|
+40174|Sasamulco|Pueblo|Tepecoacuilco de Trujano|Guerrero||40001|12|40001||28|059|1928|Rural|

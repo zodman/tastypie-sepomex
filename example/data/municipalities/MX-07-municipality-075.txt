@@ -1,0 +1,19 @@
+30350|San Miguel|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|0002|Urbano|14
+30350|Las Rosas Centro|Colonia|Las Rosas|Chiapas|Las Rosas|30351|07|30351||09|075|1271|Semiurbano|14
+30352|San José|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2127|Semiurbano|14
+30352|San Simón|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2120|Semiurbano|14
+30352|Cashaltic|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2125|Semiurbano|14
+30352|San Pedro|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2124|Semiurbano|14
+30352|Santa Cruz|Colonia|Las Rosas|Chiapas|Las Rosas|30351|07|30351||09|075|2126|Semiurbano|14
+30353|Guadalupe|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2118|Semiurbano|14
+30353|Ojo de Agua|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2121|Semiurbano|14
+30353|San Antonio|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2119|Semiurbano|14
+30354|La Quinta|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2123|Semiurbano|14
+30354|Agua Azufrada|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2116|Semiurbano|14
+30354|Central|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2122|Semiurbano|14
+30354|Emiliano Zapata|Barrio|Las Rosas|Chiapas|Las Rosas|30351|07|30351||02|075|2117|Semiurbano|14
+30356|Nuevo Tepeyac|Colonia|Las Rosas|Chiapas||30842|07|30842||09|075|5793|Rural|
+30357|Zacualpa|Ranchería|Las Rosas|Chiapas||30351|07|30351||29|075|0001|Rural|
+30357|Ixtapilla|Ejido|Las Rosas|Chiapas||30351|07|30351||15|075|1274|Rural|
+30358|El Ciprés|Ranchería|Las Rosas|Chiapas||30351|07|30351||29|075|1272|Rural|
+30358|San Mateo|Colonia|Las Rosas|Chiapas||30351|07|30351||09|075|0003|Rural|

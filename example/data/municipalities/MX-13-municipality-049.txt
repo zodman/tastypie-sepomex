@@ -1,0 +1,81 @@
+42220|Cuartel Escamilla|Colonia|Pisaflores|Hidalgo||42281|13|42281||09|049|2559|Urbano|
+42220|Arteaga|Barrio|Pisaflores|Hidalgo||42281|13|42281||02|049|0312|Urbano|
+42220|Allende|Barrio|Pisaflores|Hidalgo||42281|13|42281||02|049|5122|Urbano|
+42220|Abasolo|Colonia|Pisaflores|Hidalgo||42281|13|42281||09|049|2713|Urbano|
+42220|Colosio|Barrio|Pisaflores|Hidalgo||42281|13|42281||02|049|5123|Urbano|
+42221|La Pechuga|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0313|Rural|
+42222|Miraflores|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5151|Rural|
+42222|El Pescadito|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5136|Rural|
+42222|La Escondida de lo Verde|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2574|Rural|
+42222|El Magueyal|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5132|Rural|
+42222|Lagunita del Cerro|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5150|Rural|
+42222|Pie de la Cuesta|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2565|Rural|
+42222|Poza Amarilla|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2614|Rural|
+42222|Ojo de Agua|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2693|Rural|
+42222|El Sancudo|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5140|Rural|
+42222|El Limoncito|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2563|Rural|
+42223|Cerro del Carmen|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2616|Rural|
+42223|Casas Viejas|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2695|Rural|
+42223|Puerto Enebro|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5154|Rural|
+42223|Palmitas|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2652|Rural|
+42223|El Naranjal|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5133|Rural|
+42223|La Cueva|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5143|Rural|
+42223|El Rayo|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0314|Rural|
+42223|Escondida de San Rafael|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2694|Rural|
+42223|Laguna de Palmitas|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|5149|Rural|
+42223|El Dexthi|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5131|Rural|
+42223|La Ciénega|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5142|Rural|
+42223|El Coyol|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2568|Rural|
+42223|Cuicillos|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5126|Rural|
+42223|La Florida|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2650|Rural|
+42224|El Petatillo|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5137|Rural|
+42224|El Cuamirro|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2566|Rural|
+42224|El Higuerón|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2572|Rural|
+42224|El Zacatal|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2893|Rural|
+42224|El Nogal|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5134|Rural|
+42224|El Durazno|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2570|Rural|
+42224|El Cedral|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5128|Rural|
+42224|Tlacuilola|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2561|Rural|
+42224|La Peña|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0311|Rural|
+42225|El Mirador|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2712|Rural|
+42225|Plan de Ayala|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2569|Rural|
+42225|La Palma|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2567|Rural|
+42225|La Tinaja|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5147|Rural|
+42225|Cuartel Morelos|Barrio|Pisaflores|Hidalgo||42281|13|42281||02|049|2558|Urbano|
+42225|El Garabato|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2571|Rural|
+42225|La Palma (Los Chivos)|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5145|Rural|
+42225|La Presa|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5146|Rural|
+42230|El Caracol|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2562|Rural|
+42230|Cerro Grande|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5125|Rural|
+42230|Chalahuite|Pueblo|Pisaflores|Hidalgo||42281|13|42281||28|049|0315|Rural|
+42230|La Crucita|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2564|Rural|
+42230|Cerro de Guadalupe|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2613|Rural|
+42230|El Chinillal|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5130|Rural|
+42230|El Plan|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5138|Rural|
+42230|El Álamo|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|2560|Rural|
+42230|Agua del Mono|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5124|Rural|
+42232|Tripuente|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0316|Rural|
+42233|Plan de Zapotal|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5153|Rural|
+42233|Puerto Obscuro|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|5155|Rural|
+42233|Zapotal de Moras|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|5159|Rural|
+42233|La Laguna|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0318|Rural|
+42233|Las Moras|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|2617|Rural|
+42233|San Vicente|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5157|Rural|
+42233|El Amolar|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0317|Rural|
+42234|Gargantilla|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0321|Rural|
+42234|Piedra Ancha|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5152|Rural|
+42234|La Ameca|Pueblo|Pisaflores|Hidalgo||42281|13|42281||28|049|0319|Rural|
+42234|La Arena|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0320|Rural|
+42235|Chalahuitito|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0322|Rural|
+42236|Guayabos|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0323|Rural|
+42236|El Pemuche|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5135|Rural|
+42236|El Aguacate|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5127|Rural|
+42236|San Rafael|Poblado comunal|Pisaflores|Hidalgo||42281|13|42281||27|049|5156|Rural|
+42237|La Hormiga|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5144|Rural|
+42237|Villeda|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5158|Rural|
+42237|El Bonigu|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0324|Rural|
+42237|La Tinaja|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5148|Rural|
+42237|San Pedro Xochicuaco|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0326|Rural|
+42237|El Platanito|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5139|Rural|
+42239|Rancho Nuevo|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|0325|Rural|
+42239|El Chililite|Ranchería|Pisaflores|Hidalgo||42281|13|42281||29|049|5129|Rural|

@@ -1,0 +1,55 @@
+43100|Los Sabinos|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|1014|Rural|
+43100|El Plan (Barrio Nuevo)|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|1032|Rural|
+43100|Santa Cruz|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|1070|Urbano|
+43100|Molango Centro|Colonia|Molango de Escamilla|Hidalgo||43207|13|43207||09|042|1291|Urbano|
+43101|Ixmolintla|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1292|Rural|
+43101|Piedras Negras|Colonia|Molango de Escamilla|Hidalgo||43207|13|43207||09|042|1293|Rural|
+43103|La Garita|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4972|Urbano|
+43103|El Balcón|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4971|Urbano|
+43103|Tlalaquia|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4984|Urbano|
+43103|Cuatlacalca|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4970|Urbano|
+43103|Tepetlanixco|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4977|Urbano|
+43103|El Calvario|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4978|Urbano|
+43104|Ohuezco|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|1296|Rural|
+43104|Satiopa (Rancho Nahuiopan)|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4995|Rural|
+43104|Pemuxtitla|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|1297|Rural|
+43104|Puerto Tlamaxa|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4994|Rural|
+43104|Tepeco|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4998|Rural|
+43104|Atezca|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1295|Rural|
+43104|Tzacatzonco|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|5000|Rural|
+43105|San Miguel|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4973|Urbano|
+43105|Zacatempa|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4976|Urbano|
+43105|Alameda|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4974|Urbano|
+43105|Tejería|Barrio|Molango de Escamilla|Hidalgo||43207|13|43207||02|042|4975|Urbano|
+43106|San Bernardo|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1298|Rural|
+43106|Olotlilla|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4993|Rural|
+43108|Nopayahuatl|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4991|Rural|
+43108|Tepetlapa|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|1302|Rural|
+43108|Acoyotla|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4982|Rural|
+43108|Tenango|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1301|Rural|
+43108|Chicoyotla|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4986|Rural|
+43108|Tecuaqueo|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4996|Rural|
+43108|Zacuala (Huixquilico)|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|5002|Rural|
+43108|Ixcotla (Nuevo Ixcotla)|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|1299|Rural|
+43108|Cuacomol|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4988|Rural|
+43108|Tehuizco|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|1300|Rural|
+43109|Naopa|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1303|Rural|
+43109|Chayahual|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4985|Rural|
+43109|Tetipanchalco|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4999|Rural|
+43109|Acatla|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4980|Rural|
+43109|Xicalango|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|1304|Rural|
+43109|Acatitla|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4979|Rural|
+43110|Acayuca|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1305|Rural|
+43110|Ixcatlán (San Pedro)|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1306|Rural|
+43110|Mina 300 (Ixtapalapa)|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4989|Rural|
+43110|Xuchitlán|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|5001|Rural|
+43111|Ixcuicuila|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1307|Rural|
+43111|San Antonio|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1308|Rural|
+43112|Cuxhuacan|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1309|Rural|
+43113|Temacuil|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4997|Rural|
+43113|Tlatzintla|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1310|Rural|
+43114|Malila|Pueblo|Molango de Escamilla|Hidalgo||43207|13|43207||28|042|1290|Rural|
+43114|Molocotlán|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4990|Rural|
+43114|Achocoatlán|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4981|Rural|
+43114|Coachula|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4987|Rural|
+43114|Acuatitlán|Ranchería|Molango de Escamilla|Hidalgo||43207|13|43207||29|042|4983|Rural|

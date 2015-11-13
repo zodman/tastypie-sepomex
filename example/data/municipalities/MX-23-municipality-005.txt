@@ -1,0 +1,318 @@
+77500|Supermanzana 3 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0483|Urbano|01
+77500|Supermanzana 5 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0485|Urbano|01
+77500|Supermanzana 23 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0487|Urbano|01
+77500|Cancún Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0168|Urbano|01
+77500|Supermanzana 22 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0486|Urbano|01
+77500|Supermanzana 4 A|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0703|Urbano|01
+77500|Zona Hotelera|Zona comercial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||33|005|0488|Urbano|01
+77500|Supermanzana 20 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0479|Urbano|01
+77500|Supermanzana 52|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0673|Urbano|01
+77500|Supermanzana 1 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0480|Urbano|01
+77500|Supermanzana 2 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0481|Urbano|01
+77500|Supermanzana 4 Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0484|Urbano|01
+77500|Villas Tropicales|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0017|Urbano|01
+77500|Supermanzana 2a Centro|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0482|Urbano|01
+77500|Juárez|Puerto|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||40|005|1220|Urbano|01
+77503|Supermanzana 6b|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0174|Urbano|01
+77503|Supermanzana 6e|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0177|Urbano|01
+77503|Supermanzana 6c|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0175|Urbano|01
+77503|Supermanzana 7|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0172|Urbano|01
+77503|Supermanzana 6d|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0176|Urbano|01
+77503|Supermanzana 6f|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0178|Urbano|01
+77503|La Cascada|Residencial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||30|005|0648|Urbano|01
+77503|Villas de Thio|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0653|Urbano|01
+77503|Supermanzana 9|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0173|Urbano|01
+77503|Supermanzana 10|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0179|Urbano|01
+77503|Supermanzana 6a|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0171|Urbano|01
+77504|Supermanzana 11|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0181|Urbano|01
+77504|Supermanzana 12a|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0184|Urbano|01
+77504|Supermanzana 13|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0186|Urbano|01
+77504|Supermanzana 11a|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0182|Urbano|01
+77504|Supermanzana 14|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0187|Urbano|01
+77504|Supermanzana 12b|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0185|Urbano|01
+77504|Supermanzana 8|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0180|Urbano|01
+77504|Supermanzana 12|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0183|Urbano|01
+77505|Supermanzana 15a|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0189|Urbano|01
+77505|Supermanzana 16|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0190|Urbano|01
+77505|Supermanzana 35|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0194|Urbano|01
+77505|Supermanzana 36|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0195|Urbano|01
+77505|SM 21|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0579|Urbano|01
+77505|Supermanzana 17|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0191|Urbano|01
+77505|Supermanzana 18|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0192|Urbano|01
+77505|Supermanzana 15|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0188|Urbano|01
+77505|Supermanzana 19|Zona federal|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||34|005|0193|Urbano|01
+77506|Supermanzana 43|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0196|Urbano|01
+77506|Supermanzana 48|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0201|Urbano|01
+77506|Supermanzana 53|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0704|Urbano|01
+77506|Supermanzana 44|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0197|Urbano|01
+77506|Supermanzana 45|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0198|Urbano|01
+77506|Supermanzana 46|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0199|Urbano|01
+77506|Supermanzana 47|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0200|Urbano|01
+77506|La Herradura|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0705|Urbano|01
+77507|Supermanzana 41|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0208|Urbano|01
+77507|Supermanzana 37|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0204|Urbano|01
+77507|Supermanzana 39|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0206|Urbano|01
+77507|Supermanzana 40|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0207|Urbano|01
+77507|Supermanzana 38|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0205|Urbano|01
+77507|Supermanzana 42|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0209|Urbano|01
+77508|Supermanzana 29|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0210|Urbano|01
+77508|Supermanzana 33|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0473|Urbano|01
+77508|Supermanzana 31|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0211|Urbano|01
+77508|Supermanzana 32|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0212|Urbano|01
+77508|Supermanzana 34|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0213|Urbano|01
+77509|Supermanzana 24|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0215|Urbano|01
+77509|Supermanzana 28|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0474|Urbano|01
+77509|Supermanzana 27|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0217|Urbano|01
+77509|Supermanzana 30|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0219|Urbano|01
+77509|Supermanzana 26|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0214|Urbano|01
+77509|Supermanzana 25|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0216|Urbano|01
+77510|Región 233|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0223|Semiurbano|01
+77510|Supermanzana 71|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0227|Urbano|01
+77510|Supermanzana 66|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0220|Urbano|01
+77510|Supermanzana 70|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0226|Urbano|01
+77510|Región 240|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0450|Semiurbano|01
+77510|Supermanzana 67|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0224|Urbano|01
+77510|Supermanzana 69|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0225|Urbano|01
+77510|Supermanzana 72|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0228|Urbano|01
+77510|Región 235|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0502|Semiurbano|01
+77510|SM 90|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0578|Urbano|01
+77510|Región 90|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0230|Urbano|01
+77510|Supermanzana 73|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0475|Urbano|01
+77510|Región 231|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0221|Semiurbano|01
+77510|Región 232|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0222|Semiurbano|01
+77510|Región 234|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0501|Semiurbano|01
+77513|Supermanzana 63|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0233|Urbano|01
+77513|Supermanzana 62|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0234|Urbano|01
+77514|Supermanzana 60|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0235|Urbano|01
+77514|Supermanzana 61|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0236|Urbano|01
+77515|Supermanzana 58|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0237|Urbano|01
+77515|Unidad Morelos|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0763|Urbano|01
+77515|Supermanzana 59|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0238|Urbano|01
+77516|Región 92|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0240|Urbano|01
+77516|Supermanzana 225|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0682|Urbano|01
+77516|Supermanzana 226|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0683|Urbano|01
+77516|Paseo de Las Palmas|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0820|Semiurbano|01
+77516|Región 229|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0242|Semiurbano|01
+77516|Supermanzana 245|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0001|Urbano|01
+77516|Villas Otoch|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0819|Semiurbano|01
+77516|Región 227|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0506|Semiurbano|01
+77516|Bahía Real|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0867|Urbano|01
+77516|In House|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0015|Urbano|01
+77516|Región 228|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0241|Semiurbano|01
+77516|Supermanzana 248|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0760|Semiurbano|01
+77516|Guerrero|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0858|Urbano|01
+77516|Rinconadas del Mar|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0027|Urbano|01
+77516|Hacienda Del Rey|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0660|Semiurbano|01
+77516|Región 91|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0239|Urbano|01
+77516|Región 230|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0243|Semiurbano|01
+77516|Casas del Mar|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0759|Semiurbano|01
+77517|Supermanzana 223|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0681|Urbano|01
+77517|Residencial San Antonio|Residencial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||30|005|0726|Urbano|01
+77517|Región 221|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0449|Semiurbano|01
+77517|Ixchel|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0659|Semiurbano|01
+77517|Región 93|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0244|Urbano|01
+77517|Villas del Mar "Plus"|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0020|Urbano|01
+77517|Región 219|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0447|Semiurbano|01
+77517|Región 220|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0448|Semiurbano|01
+77517|SM 256|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0006|Urbano|01
+77517|Supermanzana 222|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0680|Urbano|01
+77517|Región 94|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0446|Urbano|01
+77518|Vista Real|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0830|Urbano|01
+77518|Supermanzana 216|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0679|Urbano|01
+77518|Supermanzana 253|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0823|Semiurbano|01
+77518|Los Santos|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0024|Urbano|01
+77518|La Guadalupana|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0639|Semiurbano|01
+77518|Región 100|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0245|Semiurbano|01
+77518|Galaxia las Torres|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0826|Semiurbano|01
+77518|Supermanzana 218|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0646|Semiurbano|01
+77518|SM 260|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0007|Urbano|01
+77518|Galaxia del Sol|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0825|Semiurbano|01
+77518|Los Héroes|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0665|Semiurbano|01
+77518|Supermanzana 217|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0762|Semiurbano|01
+77519|Paseos del Sol (Supermanzana 205)|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0010|Urbano|01
+77519|Monte Real|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0021|Urbano|01
+77519|Supermanzana 212|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0829|Urbano|01
+77519|Prado Norte|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0905|Urbano|01
+77519|Supermanzana 209|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0865|Urbano|01
+77519|Lagos|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0919|Urbano|01
+77519|Petén|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0764|Semiurbano|01
+77519|Región 101|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0246|Semiurbano|01
+77519|Las Lajas|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0766|Semiurbano|01
+77519|Rinconada Santa María|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0863|Urbano|01
+77519|SM 207 Villas del Sol II|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0917|Urbano|01
+77519|Paseo Nikté|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0025|Urbano|01
+77519|Paseos del Mar|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0019|Urbano|01
+77519|Supermanzana 210|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0677|Urbano|01
+77519|Supermanzana 211|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0678|Urbano|01
+77519|La Joya (Supermanzana 254)|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0913|Urbano|01
+77520|Punta Sam|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0662|Semiurbano|01
+77520|Supermanzana 86|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0650|Semiurbano|01
+77520|Costa del Mar|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0575|Semiurbano|01
+77520|Supermanzana 85|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0669|Urbano|01
+77524|Supermanzana 64|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0250|Urbano|01
+77524|Supermanzana 65|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0251|Urbano|01
+77524|Donceles|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0718|Urbano|01
+77524|Supermanzana 68|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0252|Urbano|01
+77525|Región 84|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0253|Urbano|01
+77526|Lombardo Toledano|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0640|Semiurbano|01
+77526|Supermanzana 74|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0254|Urbano|01
+77527|San Martín Caballero|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0022|Urbano|01
+77527|Región 236|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0510|Semiurbano|01
+77527|Región 237|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0512|Semiurbano|01
+77527|Región 240|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0514|Semiurbano|01
+77527|Francisco Villa|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0655|Semiurbano|01
+77527|Región 239|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0513|Semiurbano|01
+77527|Del Bosque|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0859|Urbano|01
+77527|Supermanzana 75|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0255|Urbano|01
+77527|Supermanzana 89|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0515|Urbano|01
+77527|La Morena|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0854|Urbano|01
+77527|Los Cedros|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0012|Urbano|01
+77527|Supermanzana 76|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0478|Urbano|01
+77527|Región 238|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0511|Semiurbano|01
+77528|Supermanzana 77|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0256|Urbano|01
+77528|Supermanzana 78|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0257|Urbano|01
+77528|Supermanzana 241|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0847|Urbano|01
+77528|Guadalupana|Campamento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||04|005|0821|Urbano|01
+77528|México|Campamento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||04|005|0822|Urbano|01
+77528|Monte de los Olivos|Campamento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||04|005|0843|Urbano|01
+77528|Nueva Esperanza|Campamento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||04|005|0835|Urbano|01
+77528|3 Hermanos|Campamento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||04|005|0855|Urbano|01
+77528|Jardines de Banampak|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0668|Urbano|01
+77528|Tucanes|Campamento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||04|005|0834|Urbano|01
+77529|Supermanzana 79|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0258|Urbano|01
+77530|Región 97|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0259|Urbano|01
+77533|Supermanzana 50|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0261|Urbano|01
+77533|Región 507|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0456|Semiurbano|01
+77533|Malibú|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0641|Urbano|01
+77533|Quetzal Región 523|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0644|Semiurbano|01
+77533|San José Bonampack|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0714|Urbano|01
+77533|Región 503|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0452|Semiurbano|01
+77533|Región 509|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0458|Semiurbano|01
+77533|Chamuyil|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0638|Semiurbano|01
+77533|Las Torres|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0724|Semiurbano|01
+77533|Supermanzana 14 A|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0872|Urbano|01
+77533|Región 505|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0454|Semiurbano|01
+77533|Región 502|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0451|Semiurbano|01
+77533|Región 508|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0457|Semiurbano|01
+77533|Región 501|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0516|Semiurbano|01
+77533|Supermanzana 57|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0649|Urbano|01
+77533|Paraíso Villas|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0667|Urbano|01
+77533|SM 313|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0028|Urbano|01
+77533|Región 506|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0455|Semiurbano|01
+77533|Región 500|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0517|Semiurbano|01
+77533|Supermanzana 56|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0675|Urbano|01
+77533|Región 504|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0453|Semiurbano|01
+77533|Supermanzana 312|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0761|Semiurbano|01
+77533|Residencial Caracol|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0016|Rural|01
+77533|Sol del Mayab|Residencial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||30|005|0664|Semiurbano|01
+77533|Supermanzana 55|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0674|Urbano|01
+77533|Lagos del Sol|Residencial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||30|005|0836|Urbano|01
+77533|Supermanzana 49|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0260|Urbano|01
+77533|Supermanzana 51|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0262|Urbano|01
+77533|Álamos I|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0636|Semiurbano|01
+77533|Porto Alegre|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0642|Urbano|01
+77533|Framboyanes|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0656|Urbano|01
+77534|Santa Fe|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0695|Urbano|01
+77534|Región 95|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0263|Urbano|01
+77534|Región 511|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0460|Semiurbano|01
+77534|Región 512|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0461|Semiurbano|01
+77534|Santa Fe Plus|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0691|Urbano|01
+77534|Supermanzana 525|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0694|Urbano|01
+77534|Supermanzana 524-2|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0693|Urbano|01
+77534|Arboledas|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0765|Semiurbano|01
+77534|Región 510|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0459|Semiurbano|01
+77534|Supermanzana 524|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0692|Urbano|01
+77535|Región 515|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0464|Semiurbano|01
+77535|Supermanzana 528|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0828|Semiurbano|01
+77535|Villas del Arte|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0800|Urbano|01
+77535|Supermanzana 325|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0801|Urbano|01
+77535|Supermanzana 317|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0802|Urbano|01
+77535|Andalucia|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0844|Urbano|01
+77535|Andalucia II|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0856|Urbano|01
+77535|Supermanzana 527|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0725|Urbano|01
+77535|Villa Marino|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0794|Urbano|01
+77535|Bosques San Miguel|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0637|Semiurbano|01
+77535|Región 514|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0463|Semiurbano|01
+77535|Supermanzana 316|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0824|Semiurbano|01
+77535|Mallorca|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|1221|Urbano|01
+77535|SM 327|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0005|Urbano|01
+77535|Región 513|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0462|Semiurbano|01
+77535|Región 516|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0465|Semiurbano|01
+77535|Campestre|Residencial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||30|005|0647|Semiurbano|01
+77535|Supermanzana 526|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0702|Urbano|01
+77535|Supermanzana 321|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0807|Urbano|01
+77535|Grand Santa Fe|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0809|Urbano|01
+77535|Gran Santa Fe|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0831|Urbano|01
+77535|Grand Santa Fe 2|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0799|Urbano|01
+77535|Región 96|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0264|Urbano|01
+77536|Región 517|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0466|Semiurbano|01
+77536|Región 520|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0469|Semiurbano|01
+77536|Región 522|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0471|Semiurbano|01
+77536|Supermanzana 529|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0685|Urbano|01
+77536|Región 99|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0265|Urbano|01
+77536|Central de Abasto|Zona comercial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||33|005|0658|Semiurbano|01
+77536|Jardines del Sur|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0797|Urbano|01
+77536|Fraccionamiento Galaxia Altamar|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0916|Urbano|01
+77536|Privanza Stellaris|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|1215|Urbano|01
+77536|SM 534|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0008|Urbano|01
+77536|Galaxia del Cielo|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0798|Urbano|01
+77536|Santa Cecilia|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0013|Urbano|01
+77536|Quinta las Joyas|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0645|Semiurbano|01
+77536|Supermanzana 530-1|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0687|Urbano|01
+77536|Supermanzana 550|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0688|Urbano|01
+77536|Supermanzana 301|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0720|Urbano|01
+77536|Supermanzana 320|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0804|Urbano|01
+77536|Región 519|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0468|Semiurbano|01
+77536|Supermanzana 531|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0690|Urbano|01
+77536|Región 518|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0467|Semiurbano|01
+77536|Villas Del Caribe|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0654|Semiurbano|01
+77536|Supermanzana 529-1|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0686|Urbano|01
+77536|Bahía Dorada|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0796|Urbano|01
+77536|Supermanzana 326|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0805|Urbano|01
+77536|Generación 2000|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0896|Urbano|01
+77536|Supermanzana 532|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0689|Urbano|01
+77536|Doctores II|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0721|Urbano|01
+77536|Supermanzana 318|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0803|Urbano|01
+77536|Supermanzana 319|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0806|Urbano|01
+77536|Quintas|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0808|Urbano|01
+77536|Región 521|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0470|Semiurbano|01
+77536|Villas de Alba|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0652|Semiurbano|01
+77536|Supermanzana 300|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0719|Urbano|01
+77536|Paraíso Cancún|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0795|Urbano|01
+77537|Jardines Cancún|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0661|Semiurbano|01
+77537|Región 98|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0266|Urbano|01
+77537|Puerta Del Sol|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0643|Semiurbano|01
+77538|Región 102|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0267|Semiurbano|01
+77539|Urbi Villas del rey|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0004|Urbano|01
+77539|Región 203 (Cuna Maya)|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0023|Urbano|01
+77539|Central de Bodegas|Zona comercial|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||33|005|0657|Semiurbano|01
+77539|Real Las Quintas (Supermanzana 202)|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0011|Urbano|01
+77539|Hacienda Real del Caribe|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0576|Semiurbano|01
+77539|Región 103|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0268|Semiurbano|01
+77539|Supermanzana 104|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0670|Urbano|01
+77539|Supermanzana 200|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0676|Urbano|01
+77539|La Amistad|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0850|Urbano|01
+77539|Real Valencia|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0018|Urbano|01
+77539|Arcos Paraíso|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0030|Urbano|01
+77539|Tierra Maya|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0651|Semiurbano|01
+77539|Supermanzana 105|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0671|Urbano|01
+77539|Supermanzana 107|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0002|Urbano|01
+77539|Paraíso Maya|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0003|Urbano|01
+77539|ABC|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0841|Urbano|01
+77539|Villas Otoch Paraíso|Fraccionamiento|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||21|005|0842|Urbano|01
+77539|K.M 309|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0860|Urbano|01
+77539|Supermanzana 106|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0672|Urbano|01
+77539|K.M 308|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0857|Urbano|01
+77539|Supermanzana 117|Colonia|Benito Juárez|Quintana Roo|Cancún|77511|23|77511||09|005|0895|Urbano|01
+77540|Leona Vicario|Ejido|Benito Juárez|Quintana Roo||77511|23|77511||15|005|0269|Rural|
+77560|Colegios|Fraccionamiento|Benito Juárez|Quintana Roo||77511|23|77511||21|005|0914|Urbano|
+77560|Residencial Cumbres|Fraccionamiento|Benito Juárez|Quintana Roo||77511|23|77511||21|005|0029|Urbano|
+77560|Supermanzana 299|Colonia|Benito Juárez|Quintana Roo||77511|23|77511||09|005|0894|Urbano|
+77560|Los Naranjos|Fraccionamiento|Benito Juárez|Quintana Roo||77511|23|77511||21|005|0915|Urbano|
+77560|Alfredo V Bonfil|Ejido|Benito Juárez|Quintana Roo||77511|23|77511||15|005|0270|Semiurbano|
+77566|Santa Martha|Colonia|Benito Juárez|Quintana Roo||77511|23|77511||09|005|0009|Rural|
+77567|Santa Ana (SMZA 301)|Parque industrial|Benito Juárez|Quintana Roo||77511|23|77511||26|005|0014|Rural|
+77569|Cancún (Internacional de Cancún)|Aeropuerto|Benito Juárez|Quintana Roo||77511|23|77511||01|005|0272|Urbano|
+77580|Puerto Morelos|Ciudad|Benito Juárez|Quintana Roo||77511|23|77511||08|005|0273|Semiurbano|
+77580|Villas Morelos I|Fraccionamiento|Benito Juárez|Quintana Roo||77511|23|77511||21|005|0728|Semiurbano|
+77586|Residencial Regatta|Fraccionamiento|Benito Juárez|Quintana Roo||77511|23|77511||21|005|0026|Rural|

@@ -1,0 +1,32 @@
+62600|Miacatlan|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|0291|Semiurbano|
+62605|El Mirador|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1300|Rural|
+62605|La Toma|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|0299|Rural|
+62605|Amate Amarillo|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|1315|Rural|
+62605|El Rodeo|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|0300|Rural|
+62605|Emiliano Zapata|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1309|Rural|
+62605|Los Linares|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1314|Rural|
+62605|Mejapa|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|1316|Rural|
+62605|Xochicalco|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|0302|Rural|
+62606|Álvaro Obregón|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1311|Rural|
+62606|Tres de Mayo|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1318|Rural|
+62606|Coatetelco|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|0301|Rural|
+62606|Vista Hermosa|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1312|Rural|
+62606|La Campesina (los Tulipanes)|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1320|Rural|
+62606|El Muelle|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1317|Rural|
+62606|General Pedro Saavedra|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1319|Rural|
+62606|Acatzingo|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1313|Rural|
+62607|El Paredón|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|0295|Rural|
+62607|Atzompa|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1306|Rural|
+62607|El Llano|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|1301|Rural|
+62607|Terrero Grande|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|1304|Rural|
+62607|La Lima|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1305|Rural|
+62607|Huertos de Miacatlan|Fraccionamiento|Miacatlán|Morelos||62621|17|62621||21|015|1307|Rural|
+62607|El Tejon|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|1303|Rural|
+62607|La Trilla|Colonia|Miacatlán|Morelos||62621|17|62621||09|015|1310|Rural|
+62607|Atzompa|Ampliación|Miacatlán|Morelos||62621|17|62621||38|015|1308|Rural|
+62607|El Terrero|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|1302|Rural|
+62608|Palo Grande|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|0292|Rural|
+62608|El Rincón|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|0296|Rural|
+62608|Palpan de Baranda|Pueblo|Miacatlán|Morelos||62621|17|62621||28|015|0293|Rural|
+62608|Tlajotla|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|0294|Rural|
+62608|Rancho Viejo|Ranchería|Miacatlán|Morelos||62621|17|62621||29|015|0297|Rural|

@@ -1,0 +1,23 @@
+30680|El Tarral|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|1616|Rural|
+30680|29 de Diciembre|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|2338|Semiurbano|
+30680|Nuevo Milenio|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|4361|Semiurbano|
+30680|Guadalupe Victoria|Ejido|Tuzantán|Chiapas||30681|07|30681||15|103|0003|Rural|
+30680|Francisco Sarabia|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|1617|Rural|
+30680|Esquipulas|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|0001|Urbano|
+30680|La Floresta|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|4360|Semiurbano|
+30680|20 de Noviembre|Fraccionamiento|Tuzantán|Chiapas||30681|07|30681||21|103|4362|Semiurbano|
+30680|El Retiro|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|1615|Rural|
+30680|Tuzantan|Pueblo|Tuzantán|Chiapas||30681|07|30681||28|103|1618|Rural|
+30683|El Mango de Buenavista|Ranchería|Tuzantán|Chiapas||30681|07|30681||29|103|5823|Rural|
+30683|Santa Sofía|Ejido|Tuzantán|Chiapas||30681|07|30681||15|103|5557|Rural|
+30683|La Flor|Fraccionamiento|Tuzantán|Chiapas||30681|07|30681||21|103|5791|Rural|
+30686|Benito Juárez|Ranchería|Tuzantán|Chiapas||30681|07|30681||29|103|0002|Rural|
+30689|Nueva Esperanza|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|0004|Urbano|
+30690|El Chipilín|Ranchería|Tuzantán|Chiapas||30681|07|30681||29|103|5822|Rural|
+30690|Xochiltepec|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|1620|Rural|
+30693|3er Cantón|Ranchería|Tuzantán|Chiapas||30681|07|30681||29|103|5861|Rural|
+30693|Cantón Tepuzapa|Ejido|Tuzantán|Chiapas||30681|07|30681||15|103|5648|Rural|
+30693|Cuarto Cantón|Ejido|Tuzantán|Chiapas||30681|07|30681||15|103|5659|Rural|
+30693|Primer Cantón|Ranchería|Tuzantán|Chiapas||30681|07|30681||29|103|5828|Rural|
+30695|Villa Hidalgo|Colonia|Tuzantán|Chiapas||30681|07|30681||09|103|1622|Rural|
+30695|Tuzantan|Estación|Tuzantán|Chiapas||30681|07|30681||16|103|1621|Rural|

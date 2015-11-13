@@ -1,0 +1,58 @@
+70760|Benito Juárez|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|0889|Urbano|55
+70760|Infonavit Sandunga|Unidad habitacional|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||31|515|1047|Urbano|55
+70760|La Noria|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|1106|Urbano|55
+70760|Lopez Portillo|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3512|Urbano|55
+70760|El Cerrito|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|0968|Urbano|55
+70760|La Ladrillera|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|1096|Urbano|55
+70760|El Guayacán|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3636|Urbano|55
+70760|Industrial|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|1046|Urbano|55
+70760|Santa Maria|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|3511|Urbano|55
+70760|San Luis Rey|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3523|Urbano|55
+70760|Los Tamarindos|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|1166|Urbano|55
+70760|San Antonio|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1246|Urbano|55
+70760|Sección Corona|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3507|Urbano|55
+70760|El Jordan|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3510|Urbano|55
+70760|El Zapotal|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|3519|Urbano|55
+70760|23 de Noviembre|Unidad habitacional|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||31|515|3520|Urbano|55
+70760|Siglo XXI|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|3522|Urbano|55
+70760|Villas Del Sol|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|3637|Urbano|55
+70760|Las Pilas|Ranchería|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||29|515|4191|Semiurbano|55
+70760|Las Tejas|Ranchería|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||29|515|4192|Semiurbano|55
+70760|San Jacinto|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1259|Urbano|55
+70760|San Pablo|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|1275|Urbano|55
+70760|San Sebastián|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1283|Urbano|55
+70760|La Raza|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3513|Urbano|55
+70760|Santa Cruz Togolaba|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|3515|Urbano|55
+70760|Pearson|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3518|Urbano|55
+70760|Las Flores|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|3640|Urbano|55
+70760|Guichivere|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1036|Urbano|55
+70760|La Soledad|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1119|Urbano|55
+70760|El Pitayal|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|0989|Urbano|55
+70760|Jalisco|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1054|Urbano|55
+70760|Lieza|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1141|Urbano|55
+70760|Sección 3a de Santa Cruz Togolaba|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1333|Urbano|55
+70760|19 de Marzo|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3638|Urbano|55
+70760|Guiengola|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|4272|Urbano|55
+70760|San Juanico|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1269|Urbano|55
+70760|Sección 4a de Santa Cruz Togolaba|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|3514|Urbano|55
+70760|Tagolaba|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|3517|Urbano|55
+70760|Emiliano Zapata|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3521|Urbano|55
+70760|Flor de Azalea|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|4273|Urbano|55
+70760|San Jerónimo|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1263|Urbano|55
+70760|Vixhana|Barrio|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||02|515|1358|Urbano|55
+70760|Santo Domingo Tehuantepec Centro|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|2380|Urbano|55
+70760|El Cairo|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3508|Urbano|55
+70760|15 de Septiembre|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|3509|Urbano|55
+70760|Santa Elena|Fraccionamiento|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||21|515|3639|Urbano|55
+70760|Alejandro Cruz Martínez|Colonia|Santo Domingo Tehuantepec|Oaxaca|Santo Domingo Tehuantepec|70761|20|70761||09|515|4270|Urbano|55
+70762|Morro de Mazatán|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70601|20|70601||29|515|2382|Rural|
+70762|Santa Gertrudis Miramar|Pueblo|Santo Domingo Tehuantepec|Oaxaca||70601|20|70601||28|515|2383|Rural|
+70763|El Jordan|Pueblo|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||28|515|2379|Rural|
+70763|Cajón de Piedra|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||29|515|2385|Rural|
+70763|San José del Paraíso|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||29|515|4911|Rural|
+70763|Pishishi|Ejido|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||15|515|4910|Rural|
+70764|La Brecha (Lázaro Cárdenas)|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||29|515|4893|Rural|
+70765|Santa Clara|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70601|20|70601||29|515|2388|Rural|
+70766|Santa Cruz de Hidalgo|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||29|515|4879|Rural|
+70767|San Juan Zaragoza|Ranchería|Santo Domingo Tehuantepec|Oaxaca||70761|20|70761||29|515|4960|Rural|
+70769|Concepción Rincón Bamba|Congregación|Santo Domingo Tehuantepec|Oaxaca||70601|20|70601||11|515|2389|Rural|

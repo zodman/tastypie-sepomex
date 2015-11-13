@@ -1,0 +1,32 @@
+75050|Oyamecalco el Cajón|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2029|Rural|
+75050|Tlachichuca|Pueblo|Tlachichuca|Puebla||75521|21|75521||28|179|2035|Rural|
+75050|Guadalupe|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7602|Rural|
+75050|Santa Inés Varela la Luz|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2034|Rural|
+75050|Edmundo Cabañas|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7603|Rural|
+75050|Emancipación Quetzalapa|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2028|Rural|
+75050|San José la Capilla|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2032|Rural|
+75050|San Miguel Zoapan|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2033|Rural|
+75050|Cástulo Guerra|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7606|Rural|
+75050|Nicolás Vázquez Arreola|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7605|Rural|
+75050|Paso Nacional|Pueblo|Tlachichuca|Puebla||75521|21|75521||28|179|2030|Rural|
+75050|González|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7604|Rural|
+75052|Santa Cruz Buena Vista la Capilla|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7599|Rural|
+75052|Guadalupe Libertad (Río Valiente)|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2037|Rural|
+75052|Agrícola Bella Vista (San Vicente)|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7600|Rural|
+75053|Los Hornos|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7608|Rural|
+75053|Santa Cecilia Tepetitlán|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2039|Rural|
+75053|Los Álamos Tepetitlán|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2038|Rural|
+75053|Emiliano Zapata|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7607|Rural|
+75054|Lázaro Cárdenas|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2040|Rural|
+75055|La Colonia de San Pedro|Colonia|Tlachichuca|Puebla||75521|21|75521||09|179|7593|Rural|
+75055|José María Morelos|Pueblo|Tlachichuca|Puebla||75521|21|75521||28|179|2041|Rural|
+75055|Real del Valle|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7595|Rural|
+75056|San Francisco Independencia|Pueblo|Tlachichuca|Puebla||75521|21|75521||28|179|2042|Rural|
+75057|Rafael Ávila Camacho|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2043|Rural|
+75058|Santa María Oyamecalco (Los Ranchos)|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7594|Rural|
+75059|Miguel Hidalgo y Costilla|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2045|Rural|
+75059|San José Llano Grande|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7597|Rural|
+75059|Manuel Avalos E|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|2044|Rural|
+75059|Puerto Nacional|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7598|Rural|
+75059|Agua Escondida el Salitrero (La Jícara)|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7601|Rural|
+75059|Santa María el Aserradero (Peones Acasillados)|Ranchería|Tlachichuca|Puebla||75521|21|75521||29|179|7596|Rural|

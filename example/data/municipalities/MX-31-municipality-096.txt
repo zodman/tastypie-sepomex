@@ -1,0 +1,127 @@
+97700|Santa Cruz|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0687|Semiurbano|02
+97700|Tizimin Centro|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0409|Semiurbano|02
+97702|Benito Juárez|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0562|Semiurbano|02
+97702|Fovissste|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0603|Semiurbano|02
+97702|Los Reyes|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0926|Semiurbano|02
+97702|Los Aguacates|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0627|Semiurbano|02
+97702|Zoológico|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0950|Semiurbano|02
+97702|Campestre San Francisco|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0952|Semiurbano|02
+97702|Residencial Tizimín|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0002|Urbano|02
+97702|Viva|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0956|Semiurbano|02
+97702|Aviación|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0947|Semiurbano|02
+97702|San Martin|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|1003|Semiurbano|02
+97702|Las Palmas|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0001|Urbano|02
+97702|Jacinto Canek|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0615|Semiurbano|02
+97702|8 Calles|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0644|Semiurbano|02
+97702|Cruz Roja|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0957|Semiurbano|02
+97702|Santa Maria|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0949|Semiurbano|02
+97702|Villas Campestre|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0951|Semiurbano|02
+97702|Justo Sierra|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0953|Semiurbano|02
+97702|Comichén|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0003|Urbano|02
+97702|Placita de Toros|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0646|Semiurbano|02
+97703|Lázaro Cárdenas|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0954|Semiurbano|02
+97703|San Carlos|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0955|Semiurbano|02
+97703|Huayita|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0958|Semiurbano|02
+97703|Los Reyes|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0959|Semiurbano|02
+97703|Niños Héroes|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|1002|Semiurbano|02
+97703|Almendros|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0555|Semiurbano|02
+97703|Adolfo Lopez Mateos|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0554|Semiurbano|02
+97703|San Jose Nabalam|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0673|Semiurbano|02
+97703|Santo Domingo|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0696|Semiurbano|02
+97704|Residencial Del Parque|Fraccionamiento|Tizimín|Yucatán|Tizimín|97701|31|97701||21|096|0948|Semiurbano|02
+97704|Santa Maria de Lima|Colonia|Tizimín|Yucatán|Tizimín|97701|31|97701||09|096|0693|Semiurbano|02
+97705|Yokdzonot Meneses|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1595|Rural|
+97705|Kikil|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1582|Rural|
+97705|Sucopó|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0410|Rural|
+97705|Chan San Antonio|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0415|Rural|
+97705|X-Pambihá|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1596|Rural|
+97706|Dzadz Palma|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1537|Rural|
+97706|X-Panhatoro|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1551|Rural|
+97706|Xkalax de Dzibalkú|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1535|Rural|
+97706|Santa Clara Dzibalkú|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1536|Rural|
+97706|Libre Unión|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1543|Rural|
+97706|Bondzonot|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1559|Rural|
+97706|X-Lal|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1560|Rural|
+97706|Chunsubul|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1546|Rural|
+97706|Buena Esperanza|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1553|Rural|
+97706|Dzonot Tigre|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1563|Rural|
+97706|Dzonot|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1544|Rural|
+97706|San Román|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1545|Rural|
+97706|San Antonio|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1540|Rural|
+97706|Chenkekén|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1552|Rural|
+97706|X-Cail|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1562|Rural|
+97707|Yohactún de Hidalgo|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0416|Rural|
+97707|Las Coloradas|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0430|Rural|
+97707|Emiliano Zapata|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|1737|Rural|
+97707|El Cuyo|Hacienda|Tizimín|Yucatán||97701|31|97701||24|096|0423|Rural|
+97707|Benito Juárez|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1528|Rural|
+97707|San Juan|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1532|Rural|
+97707|Dzonot Carretero|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0420|Rural|
+97707|San Francisco|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1527|Rural|
+97707|Moctezuma|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1533|Rural|
+97707|Dolores|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1534|Rural|
+97709|Santa Rita|Colonia|Tizimín|Yucatán||97701|31|97701||09|096|0692|Semiurbano|
+97710|Teapa|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1574|Rural|
+97710|La Sierra|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1576|Rural|
+97710|Felipe Carrillo Puerto Dos|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1581|Rural|
+97710|El Ramonal|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1588|Rural|
+97710|San Isidro Chuncopó|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1572|Rural|
+97710|Cabichen|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1587|Rural|
+97710|San Enrique|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1583|Rural|
+97710|Dzonot Aké|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1566|Rural|
+97710|Buytzuc|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1571|Rural|
+97710|Orizaba|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1590|Rural|
+97710|San Pedro Juárez|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0417|Rural|
+97710|Yaxchekú|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1573|Rural|
+97710|Colonia Yucatán|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0419|Rural|
+97710|Lázaro Cárdenas|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1577|Rural|
+97710|San Luis Tzuctuk|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1592|Rural|
+97712|Santa Rosa Concepción|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0411|Rural|
+97713|Benito Juárez|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1557|Rural|
+97713|Rancho Grande|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|1561|Rural|
+97713|Paraíso|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1565|Rural|
+97713|San Miguel|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1538|Rural|
+97713|Samaria|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1556|Rural|
+97713|Santa Isabel|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1541|Rural|
+97713|Santa Rosa|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1547|Rural|
+97713|Santa Pilar|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1539|Rural|
+97713|Cenote Azul|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1554|Rural|
+97713|Santa Ana|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1564|Rural|
+97713|La Libertad|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1567|Rural|
+97714|Nuevo Tekat|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1530|Rural|
+97714|San Pedro Sacboc|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1529|Rural|
+97714|Nuevo Mundo|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1531|Rural|
+97714|Santa María|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0425|Rural|
+97715|San Pedro Bacab|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1548|Rural|
+97715|Tres Marias|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1575|Rural|
+97715|El Limonar|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1542|Rural|
+97715|San Arturo|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1555|Rural|
+97715|Santa Elena|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1579|Rural|
+97715|Nuevo Tezoco|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1550|Rural|
+97715|Santa Clara|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1570|Rural|
+97715|San Juan|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1578|Rural|
+97715|Francisco Villa|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1568|Rural|
+97715|San Hipólito|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0427|Rural|
+97715|Manuel Cepeda Peraza|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1569|Rural|
+97715|Luis Rosado Vega|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1580|Rural|
+97715|Nuevo León|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1549|Rural|
+97716|Papoinah|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0426|Rural|
+97716|Santa Rosa|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1585|Rural|
+97716|Chan Tres Reyes|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1597|Rural|
+97716|Adolfo López Mateos|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1584|Rural|
+97716|San Isidro|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1601|Rural|
+97716|El Edén|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0428|Rural|
+97716|La Esperanza|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1599|Rural|
+97716|San Manuel|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|0421|Rural|
+97716|Quintana|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1586|Rural|
+97716|San José Montecristo|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1591|Rural|
+97716|Felipe Carrillo Puerto Número Uno|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1594|Rural|
+97716|San Isidro|Ranchería|Tizimín|Yucatán||97701|31|97701||29|096|1558|Rural|
+97717|Tixcancal|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0412|Rural|
+97717|Trascorral|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1598|Rural|
+97717|Chan Cenote|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|0422|Rural|
+97717|San Lorenzo|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1602|Rural|
+97717|Altamirano|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1593|Rural|
+97717|U.G. Chiquila|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1603|Rural|
+97717|Dzonot Mezo|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1600|Rural|
+97717|San Isidro|Pueblo|Tizimín|Yucatán||97701|31|97701||28|096|1589|Rural|

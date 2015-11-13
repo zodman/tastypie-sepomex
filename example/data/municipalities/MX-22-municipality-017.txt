@@ -1,0 +1,76 @@
+76750|Tequisquiapan Centro|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|0596|Urbano|
+76750|Vista Hermosa|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|1048|Urbano|
+76750|Adolfo Lopez Mateos|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|1049|Urbano|
+76750|El Vergel|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|1047|Urbano|
+76750|La Magdalena|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|1052|Urbano|
+76753|Adolfo López Mateos 2a Sección|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2535|Urbano|
+76753|Bordo Blanco|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2537|Urbano|
+76753|Los Laureles|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|2536|Urbano|
+76754|Los Sabinos|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1823|Urbano|
+76754|Rincón del Marques|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1366|Urbano|
+76754|Villas Campestres|Conjunto habitacional|Tequisquiapan|Querétaro||76751|22|76751||12|017|2554|Urbano|
+76754|Los Cactus|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1365|Urbano|
+76754|Rivera de los Sabinos|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1367|Urbano|
+76754|Villas del Sol|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1833|Urbano|
+76754|Serena|Condominio|Tequisquiapan|Querétaro||76751|22|76751||10|017|1837|Urbano|
+76754|Tierra Blanca|Barrio|Tequisquiapan|Querétaro||76751|22|76751||02|017|1368|Urbano|
+76755|Residencial Tequisquiapan|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1371|Urbano|
+76755|Los Girasoles|Residencial|Tequisquiapan|Querétaro||76751|22|76751||30|017|1826|Urbano|
+76755|San Juan|Barrio|Tequisquiapan|Querétaro||76751|22|76751||02|017|1051|Urbano|
+76755|Colonial|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1370|Urbano|
+76755|Ibiza|Conjunto habitacional|Tequisquiapan|Querétaro||76751|22|76751||12|017|1825|Urbano|
+76755|Balcones de Tequisquiapan|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|1369|Urbano|
+76755|Villas del Puente Viejo|Conjunto habitacional|Tequisquiapan|Querétaro||76751|22|76751||12|017|1372|Urbano|
+76755|El Portalito|Condominio|Tequisquiapan|Querétaro||76751|22|76751||10|017|1834|Urbano|
+76755|Santa Fe|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|1050|Urbano|
+76755|Nahuil Ollin|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1828|Urbano|
+76755|Las Villitas|Conjunto habitacional|Tequisquiapan|Querétaro||76751|22|76751||12|017|1822|Urbano|
+76756|Los Jades|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1373|Urbano|
+76756|Los Claustros|Condominio|Tequisquiapan|Querétaro||76751|22|76751||10|017|1836|Urbano|
+76756|Nautha|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1375|Urbano|
+76756|Centenario|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1831|Urbano|
+76756|Manantiales del Prado|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1374|Urbano|
+76756|Villas del Centenario|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1377|Urbano|
+76756|Vergel del Acueducto|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1376|Urbano|
+76756|El Pedregal|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1821|Urbano|
+76756|Quintas de la Viña|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1830|Urbano|
+76756|Pedregal de Hacienda Grande|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2534|Urbano|
+76757|San Nicolás|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|2555|Urbano|
+76757|Quinta Sección del Club de Golf|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1378|Urbano|
+76770|San José|Ranchería|Tequisquiapan|Querétaro||76751|22|76751||29|017|2549|Rural|
+76770|Ejido San Nicolás|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0599|Rural|
+76773|Zona Sur Tequisquiapan|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2539|Rural|
+76773|El Cerrito|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0598|Rural|
+76773|Ramas Blancas|Poblado comunal|Tequisquiapan|Querétaro||76751|22|76751||27|017|2548|Rural|
+76774|La Trinidad|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0600|Rural|
+76775|Santa María del Camino|Ranchería|Tequisquiapan|Querétaro||76751|22|76751||29|017|1829|Rural|
+76775|Bordo Blanco|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0601|Urbano|
+76775|Cerrito San José (La Troje)|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|2553|Rural|
+76775|Las Corraletas (Familia Castillo)|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2541|Rural|
+76775|Los Naranjos|Ranchería|Tequisquiapan|Querétaro||76751|22|76751||29|017|2552|Rural|
+76775|La Ermita|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2544|Rural|
+76775|Presa Centenario (La Palapa)|Poblado comunal|Tequisquiapan|Querétaro||76751|22|76751||27|017|2547|Rural|
+76776|Estación Bernal|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0595|Rural|
+76776|Sección Oriente Tequisquiapan|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2542|Rural|
+76780|Fuentezuelas|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0602|Urbano|
+76781|El Tejocote|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0603|Urbano|
+76781|Quinta Rojas (Las Quintas)|Poblado comunal|Tequisquiapan|Querétaro||76751|22|76751||27|017|2550|Rural|
+76783|La Laja|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0604|Rural|
+76785|Los Cerritos|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0605|Rural|
+76786|Vista Hermosa|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2533|Urbano|
+76786|La Fuente Sección Oriente|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2546|Rural|
+76786|La Cañadita|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2556|Urbano|
+76786|La Fuente|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0606|Urbano|
+76786|Zona Noroeste de la Fuente|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2538|Rural|
+76790|Santillán|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0607|Rural|
+76790|Granjas Residencial de Tequisquiapan|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1270|Rural|
+76790|los Arquitos|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2543|Rural|
+76791|San José de la Laja|Congregación|Tequisquiapan|Querétaro||76751|22|76751||11|017|0608|Rural|
+76795|La Tortuga|Ranchería|Tequisquiapan|Querétaro||76751|22|76751||29|017|0609|Rural|
+76795|Viñedos|Residencial|Tequisquiapan|Querétaro||76751|22|76751||30|017|1271|Rural|
+76795|La Lagunita|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2540|Rural|
+76795|Residencial Haciendas de Tequisquiapan|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|2551|Rural|
+76795|Fátima (Ejido de Fuentezuelas)|Colonia|Tequisquiapan|Querétaro||76751|22|76751||09|017|2545|Rural|
+76796|El Sáuz|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0610|Urbano|
+76799|Hacienda Grande|Pueblo|Tequisquiapan|Querétaro||76751|22|76751||28|017|0611|Urbano|
+76799|Club de Golf Tequisquiapan|Fraccionamiento|Tequisquiapan|Querétaro||76751|22|76751||21|017|1260|Urbano|

@@ -1,0 +1,23 @@
+96370|Comercial|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4106|Rural|41
+96370|El Macayo|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4119|Rural|41
+96370|Cuichapa|Pueblo|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||28|111|3806|Rural|41
+96370|Aviación|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4088|Rural|41
+96370|Obrera|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4184|Rural|41
+96370|Petrolera|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4926|Rural|41
+96370|Cuichapa Viejo|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4927|Rural|41
+96370|Agraria|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4928|Rural|41
+96370|18 de Marzo|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4111|Rural|41
+96370|La Bomba|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4149|Rural|41
+96370|Ejidal|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4925|Rural|41
+96370|Lázaro Cárdenas|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|7550|Rural|41
+96370|Nueva Esperanza|Colonia|Moloacán|Veracruz de Ignacio de la Llave|Cuichapa|96371|30|96371||09|111|4180|Rural|41
+96372|Moloacan|Pueblo|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||28|111|3808|Rural|
+96372|Trancas Viejas|Ejido|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||15|111|3807|Rural|
+96373|Tacomango|Ranchería|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||29|111|0005|Rural|
+96373|San Lorenzo Mezcalapa|Pueblo|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||28|111|0001|Rural|
+96374|Arroyo Blanco|Ranchería|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||29|111|3810|Rural|
+96375|La Guadalupe|Rancho|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||48|111|0002|Rural|
+96375|Nueva Palma Sola|Rancho|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||48|111|0003|Rural|
+96375|Kilómetro Veinte|Rancho|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||48|111|0006|Rural|
+96376|Tlacuilolapan|Pueblo|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||28|111|3811|Rural|
+96377|San Juan de los Reyes (Los Caimanes)|Pueblo|Moloacán|Veracruz de Ignacio de la Llave||96361|30|96361||28|111|0004|Rural|

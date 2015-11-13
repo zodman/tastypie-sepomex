@@ -1,0 +1,42 @@
+92300|Naranjos Centro|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1370|Semiurbano|02
+92310|Standard|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|4687|Semiurbano|02
+92310|Nuevo Naranjos|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1373|Semiurbano|02
+92310|Kilómetro 22|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1372|Semiurbano|02
+92320|Americana|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1374|Semiurbano|02
+92320|Tamaulipas|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1375|Semiurbano|02
+92330|El Cafetal|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1376|Semiurbano|02
+92330|Rio Blanco|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1379|Semiurbano|02
+92330|Otilio Montaño|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|2039|Semiurbano|02
+92330|Kilómetro 24|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1377|Semiurbano|02
+92330|Las Flores|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1378|Semiurbano|02
+92340|Progreso|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1381|Semiurbano|02
+92340|Constitución|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1380|Semiurbano|02
+92350|Las Delicias|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1382|Semiurbano|02
+92350|Providencia|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1383|Semiurbano|02
+92350|Antonio Manuel Amor|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1769|Semiurbano|02
+92360|Campo Empleados de PEMEX|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1384|Semiurbano|02
+92360|Mariano Escobedo|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1385|Semiurbano|02
+92370|Manuel Avila Camacho|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1387|Semiurbano|02
+92370|16 de Septiembre|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1836|Semiurbano|02
+92370|Las Margaritas|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1386|Semiurbano|02
+92380|Adalberto Tejeda|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1756|Semiurbano|02
+92380|Rancho Nuevo|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1389|Semiurbano|02
+92380|5 de Mayo|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1388|Semiurbano|02
+92380|Emiliano Zapata|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|5002|Semiurbano|02
+92385|El Trébol|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1390|Semiurbano|02
+92388|Petrolera|Ampliación|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||38|013|1391|Semiurbano|02
+92389|Flores Magón|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1392|Semiurbano|02
+92390|Lopez Serna|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1986|Semiurbano|02
+92390|Lomas de La Huasteca|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|7913|Urbano|02
+92390|Faja de Oro|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1872|Semiurbano|02
+92390|Aviación|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1394|Semiurbano|02
+92390|Antonio J Bermúdez|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1393|Semiurbano|02
+92390|Petrolera|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave|Naranjos|92301|30|92301||09|013|1395|Semiurbano|02
+92410|Amatlan Tuxpan|Pueblo|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||28|013|1412|Rural|
+92410|Galeana|Congregación|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||11|013|1413|Rural|
+92412|CNOP (Entrada de los Pinos)|Colonia|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||09|013|0002|Rural|
+92412|Cervantes|Congregación|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||11|013|1414|Rural|
+92415|Ocampo|Congregación|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||11|013|1415|Rural|
+92417|Totomoxtepec|Rancho|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||48|013|0001|Rural|
+92417|Empalizada|Congregación|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||11|013|1416|Rural|
+92419|Zaragoza|Congregación|Naranjos Amatlán|Veracruz de Ignacio de la Llave||92301|30|92301||11|013|1417|Rural|

@@ -1,0 +1,4 @@
+68260|La Unión|Colonia|San Felipe Tejalápam|Oaxaca||68091|20|68091||09|135|4927|Urbano|
+68260|San Felipe Tejalápam|Pueblo|San Felipe Tejalápam|Oaxaca||68091|20|68091||28|135|0255|Rural|
+68262|La Unión|Ranchería|San Felipe Tejalápam|Oaxaca||68091|20|68091||29|135|0260|Rural|
+68262|Jalapa Del Valle|Ranchería|San Felipe Tejalápam|Oaxaca||68091|20|68091||29|135|0256|Rural|

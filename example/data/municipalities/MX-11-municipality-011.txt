@@ -1,0 +1,207 @@
+38300|Cortazar Centro|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2732|Semiurbano|04
+38309|Las Torres|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|2734|Urbano|04
+38310|Rinconada Ignacio Flores Quintana|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5200|Urbano|04
+38310|Villas del Sol|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|2735|Urbano|04
+38312|El Durazno|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|3485|Urbano|04
+38314|Villas de Amoles|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|3484|Urbano|04
+38314|El Ejemplo es Cortazar|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|2736|Urbano|04
+38315|Primero es Cortazar|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2737|Urbano|04
+38317|Chapingo|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2739|Urbano|04
+38317|Guanajuato|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4470|Urbano|04
+38317|Valle de las Espinas|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4535|Urbano|04
+38317|San Miguel|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4517|Urbano|04
+38317|Real de Chapingo|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4973|Urbano|04
+38320|Nueva del Valle|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4529|Urbano|04
+38320|Joya Plus|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4530|Semiurbano|04
+38320|Del Valle|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2740|Urbano|04
+38320|Del Río|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3488|Urbano|04
+38320|Dos Plazas|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|0079|Urbano|04
+38322|San Diego 3ra. Sección|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|5206|Urbano|04
+38322|Valle Hermoso|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3489|Urbano|04
+38322|Los Ángeles|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|5204|Urbano|04
+38322|El Molinito|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4469|Urbano|04
+38322|El Fortín|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4974|Semiurbano|04
+38322|San Diego 1ra. y 2da. Sección|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|5207|Urbano|04
+38324|Unión de Colonos|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4544|Urbano|04
+38324|Ejidal|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3476|Urbano|04
+38324|Del Bosque|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|5209|Urbano|04
+38324|Villas de Cortazar|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4545|Urbano|04
+38325|Campestre Los Pinos|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5205|Urbano|04
+38329|El Fresno|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2741|Urbano|04
+38329|La Ceiba|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4526|Urbano|04
+38330|Los Álamos|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2742|Urbano|04
+38332|Huertas de La Hacienda 2a Secc|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4524|Semiurbano|04
+38332|Huertas de La Hacienda|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|3487|Urbano|04
+38333|El Diamante|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4673|Urbano|04
+38334|El Diamante 2da. Sección|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5201|Urbano|04
+38335|Residencial Los Huertos|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5202|Urbano|04
+38337|San Carlos|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|5203|Urbano|04
+38337|Villas de San Cristóbal|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4525|Urbano|04
+38338|La Arboleda|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|2743|Urbano|04
+38342|La Perla|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3482|Urbano|04
+38342|Magueyes|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4520|Semiurbano|04
+38342|Cerrito Colorado 2a Sección|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4536|Urbano|04
+38343|El Parque|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5199|Urbano|04
+38343|La Palma|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4518|Urbano|04
+38343|Villas de Amoles 2a Sección|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|3483|Urbano|04
+38344|Nueva San Francisco|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3479|Urbano|04
+38344|San Francisco|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2745|Urbano|04
+38344|Las Flores|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3480|Urbano|04
+38345|Nueva Rosales|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2746|Urbano|04
+38346|San Vicente|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3478|Semiurbano|04
+38346|Rosales|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2747|Urbano|04
+38349|Burócrata|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2748|Semiurbano|04
+38349|Tabachines|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|3477|Urbano|04
+38349|El Peral|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4519|Semiurbano|04
+38350|Carrillo Puerto|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2749|Urbano|04
+38356|El Pipila|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2751|Urbano|04
+38357|Fray Elías Nieves|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2752|Urbano|04
+38358|Balcones de Cortázar|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4972|Rural|04
+38358|Lomas del Peral|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5196|Urbano|04
+38358|Cerrito Colorado|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2753|Urbano|04
+38359|Alameda|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2754|Urbano|04
+38360|Jacinto López|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|2755|Urbano|04
+38360|Agua Caliente|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4522|Urbano|04
+38360|Fray Daniel Patiño Moreno|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4521|Urbano|04
+38362|Santa Fe|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4540|Urbano|04
+38362|Panamericana|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3481|Urbano|04
+38363|La Palma II|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4541|Urbano|04
+38363|Santa María|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4523|Urbano|04
+38370|La Esperanza|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4516|Urbano|04
+38373|Joyas de Corralejo|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4975|Urbano|04
+38374|Juan Simón del Parque|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5210|Urbano|04
+38375|Villas del Pedregal|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5211|Urbano|04
+38380|Alianza Democrática|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4531|Urbano|04
+38382|Villas Residenciales|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|4672|Urbano|04
+38383|Fermín Monte Negro|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|5212|Semiurbano|04
+38390|La Españita|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4534|Urbano|04
+38390|Atenas|Fraccionamiento|Cortazar|Guanajuato|Cortazar|38301|11|38301||21|011|3491|Semiurbano|04
+38390|Panamá|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|4533|Urbano|04
+38395|Colonia la Calzada (La Olla)|Colonia|Cortazar|Guanajuato|Cortazar|38301|11|38301||09|011|3490|Urbano|04
+38490|Cañada de Caracheo|Pueblo|Cortazar|Guanajuato||38301|11|38301||28|011|2867|Rural|
+38493|Pozo Lázaro Cárdenas|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0051|Rural|
+38493|Galeras|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2888|Rural|
+38493|La Purísima|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2899|Rural|
+38493|Teresa Contreras Cuevas (San Isidro)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0074|Rural|
+38493|El Diezmo|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2869|Rural|
+38493|Colonia Guadalupe|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|2894|Rural|
+38493|Crecensio Rocha Ruiz (Callejones)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0010|Rural|
+38493|San José Cerro Gordo (El Tope)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0065|Rural|
+38493|Caracheo|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2868|Rural|
+38493|San José de la Peña|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2905|Rural|
+38493|El Jilote|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2898|Rural|
+38493|La Noria|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2904|Rural|
+38493|Granja Jardines|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0022|Rural|
+38493|Los Trejo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0039|Rural|
+38493|Piedra Clavada|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|4527|Rural|
+38493|Porfirio Vázquez García|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0049|Rural|
+38493|San José del Llano|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0066|Rural|
+38493|El Huevo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2902|Rural|
+38493|Buenavista de Culiacán|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0004|Rural|
+38493|Hermilo Frías García (El Carrizal)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0024|Rural|
+38493|Juan Aboytes|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0028|Rural|
+38493|Loma Linda (San José de Parra)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0037|Rural|
+38493|La Mocha|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2873|Rural|
+38493|Valencia de Fuentes|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2881|Rural|
+38493|San José de Parra (Cola de Pato)|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2900|Rural|
+38493|Colonia de Fuentes (Las Colonias)|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|0008|Rural|
+38493|San Agustín Culiacán|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2876|Rural|
+38494|Los Laureles|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|0080|Rural|
+38494|Tierra Fría|Pueblo|Cortazar|Guanajuato||38301|11|38301||28|011|2901|Rural|
+38495|Colonia Rinconada del Camino Viejo|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|0009|Rural|
+38495|El Coyote|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0013|Rural|
+38495|Granja Sanjuanita|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0023|Rural|
+38495|La Casa Blanca|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0031|Rural|
+38495|Manuel Macías (Camino Viejo)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0041|Rural|
+38495|Número 20 [Granja Avícola]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0043|Rural|
+38495|Fraccionamiento Laureles|Fraccionamiento|Cortazar|Guanajuato||38301|11|38301||21|011|4764|Rural|
+38495|Flores Mendoza (Segunda Fracción San Ignacio)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0021|Rural|
+38495|Pozo de Jorge Novoa|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0050|Rural|
+38495|Quinta la Esperanza|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0055|Rural|
+38495|Vázquez (Juan Manuel Vázquez) [Torno]|Poblado comunal|Cortazar|Guanajuato||38301|11|38301||27|011|0078|Rural|
+38495|Corralejo|Hacienda|Cortazar|Guanajuato||38301|11|38301||24|011|2882|Rural|
+38495|San José el Poblano|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2903|Rural|
+38495|Las Cuatas|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0001|Rural|
+38495|Colonia Alameda San José de los Amoles|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|0007|Rural|
+38495|El Álamo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0011|Rural|
+38495|De Parral|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2875|Rural|
+38495|Santa Ana|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2885|Rural|
+38495|El Tecolote (Cerrito de Hierbas)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0019|Rural|
+38495|Rancho Bonito|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0058|Rural|
+38495|Santa Teresa|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0072|Rural|
+38495|El Colorado|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2897|Rural|
+38495|El Culebrero|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0014|Rural|
+38495|Julián Navarrete|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0030|Rural|
+38495|Rancho Alegre|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0057|Rural|
+38495|Rancho San Lorenzo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0060|Rural|
+38495|El Carrizal|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0012|Rural|
+38495|Número 22 [Granja Postura]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0044|Rural|
+38495|Pueblo Viejo de Corralejo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0054|Rural|
+38495|San Lorenzo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0068|Rural|
+38495|Jaral Díaz|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0025|Rural|
+38495|Tres Lagunas|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0076|Rural|
+38495|Colonia la Fortaleza|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|3492|Urbano|
+38495|Colonia los Reyes|Colonia|Cortazar|Guanajuato||38301|11|38301||09|011|5208|Urbano|
+38496|Brasil (La Nopalera)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0002|Rural|
+38496|El Sandillal|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0017|Rural|
+38496|José Luis Patiño|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0026|Rural|
+38496|Quinta Medrano|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0056|Rural|
+38496|Residencial Privada de Cortazar|Fraccionamiento|Cortazar|Guanajuato||38301|11|38301||21|011|0062|Rural|
+38496|Universidad Politécnica de Guanajuato|Equipamiento|Cortazar|Guanajuato||38301|11|38301||17|011|0077|Rural|
+38496|Las Peñitas|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2874|Rural|
+38496|El Zapote|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2887|Rural|
+38496|El Saucito|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0018|Rural|
+38496|Los Pioneros [Invernadero Casa Verde]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0038|Rural|
+38496|San Antonio (La Granja)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0064|Rural|
+38496|Santa Anita|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0071|Rural|
+38496|Santo Domingo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0073|Rural|
+38496|Mandinga|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2889|Rural|
+38496|San Ramón|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0070|Rural|
+38496|El Baztán (El Milagro)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2891|Rural|
+38496|Cecilia Novoa Guzmán (San José de la Peña)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0005|Rural|
+38496|El Laurel|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0015|Rural|
+38496|La Soledad|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0036|Rural|
+38496|Número 23 [Granja Avícola]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0045|Rural|
+38496|Praderas de la Soledad [Radio Lobo]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0052|Rural|
+38496|La Huerta (San José de Amoles)|Hacienda|Cortazar|Guanajuato||38301|11|38301||24|011|2884|Rural|
+38496|Nuevo Ejido de Merino|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|4532|Rural|
+38496|El Pirul|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0016|Rural|
+38496|La Piedad|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0035|Rural|
+38496|Rancho Yolanda|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0061|Rural|
+38496|Vista Hermosa|Poblado comunal|Cortazar|Guanajuato||38301|11|38301||27|011|4682|Rural|
+38496|Báez Olague (Fracción la Palma)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0003|Rural|
+38496|La Palma|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0034|Rural|
+38496|Privada Residencial Cortazar|Fraccionamiento|Cortazar|Guanajuato||38301|11|38301||21|011|0053|Rural|
+38496|Juan Alonso|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2892|Rural|
+38496|Juan Tovar Mancera|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0029|Rural|
+38496|La Luz|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0033|Rural|
+38496|Número 50 [Granja Avícola]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0047|Rural|
+38496|Palmira|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0048|Rural|
+38496|Rosa María Torres Ojeda (Fracción la Palma)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0063|Rural|
+38496|Torres Juárez (La Palma)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0075|Rural|
+38496|Estación de Cortazar|Estación|Cortazar|Guanajuato||38301|11|38301||16|011|0020|Rural|
+38496|La Isla|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0032|Rural|
+38496|Número 12 [Granja Avícola]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0042|Rural|
+38496|Número 24 [Granja Avícola]|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0046|Rural|
+38496|Rancho el Gavilán (Porfirio Jamaica Nava)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0059|Rural|
+38496|San Juan de Santa Anita (Los Rodríguez)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0067|Rural|
+38496|Fraccionamiento Praderas del Laja|Fraccionamiento|Cortazar|Guanajuato||38301|11|38301||21|011|5213|Rural|
+38497|La Minilla|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2907|Rural|
+38497|Santa Fe de la Purísima|Poblado comunal|Cortazar|Guanajuato||38301|11|38301||27|011|4683|Rural|
+38497|Bellavista|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2890|Rural|
+38497|Merino|Hacienda|Cortazar|Guanajuato||38301|11|38301||24|011|2893|Rural|
+38497|La Luz de Orozco|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2906|Rural|
+38497|Sauz de Merino|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2896|Rural|
+38497|El Salitre|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2895|Rural|
+38498|Arreguín de Arriba|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2866|Rural|
+38498|La Gavia|Hacienda|Cortazar|Guanajuato||38301|11|38301||24|011|2872|Rural|
+38499|La Concepción|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2871|Rural|
+38499|Sauz de Fuentes|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2880|Rural|
+38499|El Huizache|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2886|Rural|
+38499|Cerro Culiacán|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0006|Rural|
+38499|San Isidro Culiacán|Ejido|Cortazar|Guanajuato||38301|11|38301||15|011|2878|Rural|
+38499|Manantiales|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0040|Rural|
+38499|San Francisco de los Leones|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2877|Rural|
+38499|San Pablo|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0069|Rural|
+38499|San Nicolás de Manantiales|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|2879|Rural|
+38499|José Razo Vera (El Zapote)|Ranchería|Cortazar|Guanajuato||38301|11|38301||29|011|0027|Rural|

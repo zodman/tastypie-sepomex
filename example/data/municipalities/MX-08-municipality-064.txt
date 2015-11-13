@@ -1,0 +1,13 @@
+33550|San Antonio del Tule|Pueblo|El Tule|Chihuahua||33562|08|33562||28|064|1864|Rural|
+33550|Jerusalén|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3326|Rural|
+33550|Juárez|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3327|Rural|
+33550|La Otra Banda|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3328|Rural|
+33550|Barrio Blanco|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3330|Rural|
+33550|Los Hoyos|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3332|Rural|
+33550|Hidalgo|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3329|Rural|
+33550|El Tule|Pueblo|El Tule|Chihuahua||33562|08|33562||28|064|1863|Rural|
+33550|Los Olivos|Barrio|El Tule|Chihuahua||33562|08|33562||02|064|3331|Rural|
+33551|Baqueteros|Hacienda|El Tule|Chihuahua||33181|08|33181||24|064|1865|Rural|
+33553|El Álamo|Ranchería|El Tule|Chihuahua||33181|08|33181||29|064|1867|Rural|
+33555|San Mateo|Pueblo|El Tule|Chihuahua||33181|08|33181||28|064|1868|Rural|
+33555|La Guitarrilla de Arriba|Ranchería|El Tule|Chihuahua||33181|08|33181||29|064|5657|Rural|

@@ -1,0 +1,18 @@
+70380|Cruz Azul|Colonia|El Barrio de la Soledad|Oaxaca|Lagunas|70381|20|70381||09|010|0921|Rural|48
+70380|Loma Azul|Fraccionamiento|El Barrio de la Soledad|Oaxaca|Lagunas|70381|20|70381||21|010|4662|Rural|48
+70380|Guigubaá|Fraccionamiento|El Barrio de la Soledad|Oaxaca|Lagunas|70381|20|70381||21|010|3854|Rural|48
+70380|Istmeña|Colonia|El Barrio de la Soledad|Oaxaca|Lagunas|70381|20|70381||09|010|3475|Rural|48
+70380|Niza Conejo|Colonia|El Barrio de la Soledad|Oaxaca|Lagunas|70381|20|70381||09|010|1196|Rural|48
+70380|Progreso|Colonia|El Barrio de la Soledad|Oaxaca|Lagunas|70381|20|70381||09|010|1229|Rural|48
+70382|Rio Grande|Congregación|El Barrio de la Soledad|Oaxaca||70381|20|70381||11|010|2199|Rural|
+70382|Chivaniza|Ranchería|El Barrio de la Soledad|Oaxaca||70381|20|70381||29|010|0001|Rural|
+70383|Hidalgo|Colonia|El Barrio de la Soledad|Oaxaca||70381|20|70381||09|010|4889|Rural|
+70383|Lachigoló|Colonia|El Barrio de la Soledad|Oaxaca||70381|20|70381||09|010|2198|Rural|
+70383|El Crucero Lagunas|Colonia|El Barrio de la Soledad|Oaxaca||70381|20|70381||09|010|0004|Rural|
+70384|Las Palmitas|Colonia|El Barrio de la Soledad|Oaxaca||70381|20|70381||09|010|0003|Rural|
+70390|El Barrio de la Soledad|Pueblo|El Barrio de la Soledad|Oaxaca||70381|20|70381||28|010|2201|Rural|
+70391|Almoloya de Gutiérrez|Pueblo|El Barrio de la Soledad|Oaxaca||70381|20|70381||28|010|2202|Rural|
+70391|Almoloya Bajo|Estación|El Barrio de la Soledad|Oaxaca||70381|20|70381||16|010|2203|Rural|
+70392|El Ajal|Ranchería|El Barrio de la Soledad|Oaxaca||70381|20|70381||29|010|0002|Rural|
+70392|Rincón Vaquero|Ranchería|El Barrio de la Soledad|Oaxaca||70381|20|70381||29|010|2204|Rural|
+70393|San Nicolás Vichinga|Congregación|El Barrio de la Soledad|Oaxaca||70381|20|70381||11|010|2205|Rural|

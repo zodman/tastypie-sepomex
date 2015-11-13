@@ -1,0 +1,79 @@
+50400|Del Calvario|Barrio|Temascalcingo|México||50401|15|50401||02|085|9279|Rural|
+50400|Temascalcingo de José María Velazco|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0504|Rural|
+50410|Maro|Barrio|Temascalcingo|México||50401|15|50401||02|085|0497|Rural|
+50410|La Magdalena Cruz Blanca|Barrio|Temascalcingo|México||50401|15|50401||02|085|7241|Rural|
+50410|Puruahua|Barrio|Temascalcingo|México||50401|15|50401||02|085|6626|Rural|
+50410|Bonsho|Barrio|Temascalcingo|México||50401|15|50401||02|085|7243|Rural|
+50410|Del Socorro|Barrio|Temascalcingo|México||50401|15|50401||02|085|8209|Rural|
+50410|La Magdalena|Barrio|Temascalcingo|México||50401|15|50401||02|085|0496|Rural|
+50413|La Magdalena Bosha|Barrio|Temascalcingo|México||50401|15|50401||02|085|6628|Rural|
+50413|Ahuacatitlán|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0494|Rural|
+50413|Ahuacatitlán ( La Providencia )|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6634|Rural|
+50413|Ahuacatitlán Centro|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|8723|Rural|
+50414|San Mateo el Viejo|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0500|Rural|
+50414|El Pedregal|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7247|Rural|
+50414|La Rinconada|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7248|Rural|
+50414|Santa Lucia (Ejido de San Mateo el Viejo)|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|0514|Rural|
+50414|San Pedro el Alto|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0501|Rural|
+50414|Barrio de Shelle|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|8721|Rural|
+50414|La Loma de San Mateo|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|8720|Rural|
+50415|Boqui|Barrio|Temascalcingo|México||50401|15|50401||02|085|7245|Rural|
+50415|Andaro|Barrio|Temascalcingo|México||50401|15|50401||02|085|0499|Rural|
+50415|Puente|Barrio|Temascalcingo|México||50401|15|50401||02|085|7246|Rural|
+50415|La Corona|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|0515|Rural|
+50420|Boshesda|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0495|Rural|
+50420|Mesa de Bombaro|Barrio|Temascalcingo|México||50401|15|50401||02|085|7251|Rural|
+50420|Santiago Coachochitlán Barrio del Rincón|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|7250|Rural|
+50420|Bombaro|Barrio|Temascalcingo|México||50401|15|50401||02|085|7252|Rural|
+50423|Pastores Primer Barrio|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|0498|Rural|
+50423|San Pedro Potla Primer Barrio Ejido|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|6622|Rural|
+50423|San Pedro Potla Tercer Barrio|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|7255|Rural|
+50423|San Pedro de la Loma|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|8722|Rural|
+50423|San Pedro Potla Centro|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0502|Rural|
+50423|San Pedro Potla Segundo Barrio|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|6621|Rural|
+50423|Los Pastores (Pastores Segundo Barrio)|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|6627|Rural|
+50424|Santa Ana Yenshu Ejido|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6620|Rural|
+50424|San Francisco Tepeolulco Segundo Barrio|Barrio|Temascalcingo|México||50401|15|50401||02|085|8717|Rural|
+50424|Santa Ana Yenshu Centro|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0508|Rural|
+50424|San Francisco Tepeolulco|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0506|Rural|
+50424|San Francisco Tepeolulco Tercer Barrio la Mesa|Barrio|Temascalcingo|México||50401|15|50401||02|085|6625|Rural|
+50424|Santa Ana Yenshu La Mesa|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6619|Rural|
+50424|San Francisco Tepeolulco Primer Barrio|Barrio|Temascalcingo|México||50401|15|50401||02|085|8716|Rural|
+50425|San Juanico el Alto|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0507|Rural|
+50425|San Juanico Centro|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6623|Rural|
+50425|Bachini|Barrio|Temascalcingo|México||50401|15|50401||02|085|7253|Rural|
+50430|La Huerta|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0513|Rural|
+50430|Juanacatlán|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0510|Rural|
+50433|San Francisco Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0526|Rural|
+50433|San Vicente Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0527|Rural|
+50434|Mesa de Santiago|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0511|Rural|
+50434|La Estanzuela|Pueblo|Temascalcingo|México||50401|15|50401||28|085|6629|Rural|
+50434|Mesa de los Garnica|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7249|Rural|
+50434|Santiago Coachochitlán|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0503|Rural|
+50434|Barrio las Peñas|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7256|Rural|
+50434|Santa María Canchesda|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0509|Rural|
+50434|Mesa de Bañi|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0512|Rural|
+50434|Barrio Santa María Chamacueros|Ranchería|Temascalcingo|México||50401|15|50401||29|085|7257|Rural|
+50435|Estación Solís (Estación Alberto Garduño)|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7244|Rural|
+50440|Pueblo Nuevo Solís (La Estancia)|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0516|Rural|
+50443|San Miguel Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0521|Rural|
+50443|Santa María Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0522|Rural|
+50443|Cuadrilla|Barrio|Temascalcingo|México||50401|15|50401||02|085|7242|Rural|
+50443|Los Pinos|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|8719|Rural|
+50443|Ex-hacienda de Solís|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|6630|Rural|
+50443|San José Solís|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6624|Rural|
+50444|Cerritos de Cárdenas|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6632|Rural|
+50444|Calderas|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6633|Rural|
+50444|Mogote de la Campana|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|8718|Rural|
+50444|Santa Rosa Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0520|Rural|
+50444|San Nicolás Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0519|Rural|
+50445|El Rodeo|Ranchería|Temascalcingo|México||50401|15|50401||29|085|6631|Rural|
+50445|La Mesa del Venado|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7239|Rural|
+50445|Pozo de las Palomas|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|7240|Rural|
+50446|San Antonio Solís|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0517|Rural|
+50446|San José los Reyes|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7237|Rural|
+50446|El Garay|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7238|Rural|
+50447|San José Ixtapa|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0523|Rural|
+50447|Ixtapa|Pueblo|Temascalcingo|México||50401|15|50401||28|085|7236|Rural|
+50447|El Tejocote (La Loma)|Poblado comunal|Temascalcingo|México||50401|15|50401||27|085|0524|Rural|
+50447|Guadalupe Ixtapa|Pueblo|Temascalcingo|México||50401|15|50401||28|085|0525|Rural|

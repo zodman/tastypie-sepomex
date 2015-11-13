@@ -1,0 +1,26 @@
+48970|Cihuatlán Centro|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|2799|Semiurbano|36
+48972|Educadores de México|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3699|Semiurbano|36
+48972|El Brasil|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3702|Semiurbano|36
+48972|Loma Bonita|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3704|Semiurbano|36
+48972|San Felipe|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|4144|Semiurbano|36
+48972|Benito Juárez|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3703|Semiurbano|36
+48972|Brisas de La Navidad|Fraccionamiento|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||21|022|4147|Semiurbano|36
+48972|Miguel Hidalgo|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3698|Semiurbano|36
+48972|Magisterial|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|4145|Semiurbano|36
+48972|Las Perlitas|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|4146|Semiurbano|36
+48972|El Barrito|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3701|Semiurbano|36
+48972|Villa Obregón|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|4143|Semiurbano|36
+48972|Costalegre|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3700|Semiurbano|36
+48974|Nuevo|Barrio|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||02|022|3707|Semiurbano|36
+48974|Casimiro Castillo|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3705|Semiurbano|36
+48974|Villa de las Flores|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3708|Semiurbano|36
+48974|El Mangalito|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3706|Semiurbano|36
+48974|Santa Cecilia|Colonia|Cihuatlán|Jalisco|Cihuatlán|48971|14|48971||09|022|3709|Semiurbano|36
+48976|Lázaro Cárdenas|Ejido|Cihuatlán|Jalisco||48982|14|48982||15|022|2801|Rural|
+48980|San Patricio O Melaque|Congregación|Cihuatlán|Jalisco||48982|14|48982||11|022|2802|Rural|
+48981|Playa Careyes|Ranchería|Cihuatlán|Jalisco||48982|14|48982||29|022|2803|Rural|
+48983|Emiliano Zapata|Ejido|Cihuatlán|Jalisco||48982|14|48982||15|022|2805|Rural|
+48985|Jaluco|Congregación|Cihuatlán|Jalisco||48971|14|48971||11|022|2807|Rural|
+48987|Barra de Navidad|Congregación|Cihuatlán|Jalisco||48984|14|48984||11|022|2808|Rural|
+48990|El Aguacate|Congregación|Cihuatlán|Jalisco||48971|14|48971||11|022|2809|Rural|
+48995|El Rebalse|Congregación|Cihuatlán|Jalisco||48971|14|48971||11|022|2810|Rural|

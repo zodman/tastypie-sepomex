@@ -1,0 +1,12 @@
+58450|San Antonio|Barrio|Lagunillas|Michoacán de Ocampo||61601|16|61601||02|048|6246|Urbano|
+58450|Lagunillas|Villa|Lagunillas|Michoacán de Ocampo||61601|16|61601||32|048|0536|Urbano|
+58453|Fontezuelas|Pueblo|Lagunillas|Michoacán de Ocampo||61601|16|61601||28|048|0534|Rural|
+58454|El Romeral|Ranchería|Lagunillas|Michoacán de Ocampo||61601|16|61601||29|048|6250|Rural|
+58454|La Caja|Ranchería|Lagunillas|Michoacán de Ocampo||61601|16|61601||29|048|0533|Rural|
+58454|Las Pilas|Ranchería|Lagunillas|Michoacán de Ocampo||61601|16|61601||29|048|0537|Rural|
+58455|Huatzangio|Pueblo|Lagunillas|Michoacán de Ocampo||61601|16|61601||28|048|0535|Rural|
+58455|El Rincón|Poblado comunal|Lagunillas|Michoacán de Ocampo||61601|16|61601||27|048|6247|Rural|
+58455|El Romeral (El Jicote)|Poblado comunal|Lagunillas|Michoacán de Ocampo||61601|16|61601||27|048|6248|Rural|
+58456|Ojo de Agua de Pastores|Ranchería|Lagunillas|Michoacán de Ocampo||61601|16|61601||29|048|0538|Rural|
+58456|Yerbabuena Vieja|Ranchería|Lagunillas|Michoacán de Ocampo||61601|16|61601||29|048|0001|Rural|
+58456|Pastores|Ranchería|Lagunillas|Michoacán de Ocampo||61601|16|61601||29|048|6249|Rural|

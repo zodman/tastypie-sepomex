@@ -1,0 +1,21 @@
+68230|Santiago Suchilquitongo Centro|Colonia|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||09|483|0230|Rural|11
+68230|Tetiche|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|3650|Rural|11
+68230|Del Sol|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|0001|Urbano|11
+68230|Del Arena|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|1064|Urbano|11
+68230|Del Peñasco|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|0987|Urbano|11
+68230|Los Tunillos|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|1168|Rural|11
+68230|Del Atayúco|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|0873|Urbano|11
+68230|Lázaro Cárdenas|Colonia|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||09|483|3291|Rural|11
+68230|El Aguacatal|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|3296|Urbano|11
+68230|Del Agua Buena|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|0862|Urbano|11
+68230|De las Limas|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|1132|Urbano|11
+68230|Nuevo|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|3295|Rural|11
+68230|De la Reforma|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|1113|Urbano|11
+68230|De la Santa Cruz|Barrio|Santiago Suchilquitongo|Oaxaca|Santiago Suchilquitongo|68202|20|68202||02|483|1114|Urbano|11
+68232|Santa Cruz Lachizolana|Pueblo|Santiago Suchilquitongo|Oaxaca||68202|20|68202||28|483|0229|Rural|
+68232|Tierra Blanca|Ranchería|Santiago Suchilquitongo|Oaxaca||68202|20|68202||29|483|0002|Rural|
+68232|El Pedregal|Ranchería|Santiago Suchilquitongo|Oaxaca||68202|20|68202||29|483|0003|Rural|
+68232|Santo Domingo Tlaltinango|Pueblo|Santiago Suchilquitongo|Oaxaca||68202|20|68202||28|483|0231|Rural|
+68232|El Zapotal|Barrio|Santiago Suchilquitongo|Oaxaca||68202|20|68202||02|483|0004|Rural|
+68233|El Llano Grande|Ranchería|Santiago Suchilquitongo|Oaxaca||68202|20|68202||29|483|0005|Rural|
+68233|Rancho el Zopilote|Ranchería|Santiago Suchilquitongo|Oaxaca||68202|20|68202||29|483|0006|Rural|

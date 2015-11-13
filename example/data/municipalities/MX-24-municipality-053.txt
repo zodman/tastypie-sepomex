@@ -1,0 +1,132 @@
+79930|Loma Bonita|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|2022|Rural|
+79930|La Libertad|Barrio|Axtla de Terrazas|San Luis Potosí||79961|24|79961||02|053|2478|Rural|
+79930|Villa de Guadalupe|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|4694|Rural|
+79930|Axtla de Terrazas|Pueblo|Axtla de Terrazas|San Luis Potosí||79961|24|79961||28|053|1674|Rural|
+79930|San Rafael|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|2023|Rural|
+79930|Jardines de Axtla|Fraccionamiento|Axtla de Terrazas|San Luis Potosí||79961|24|79961||21|053|4695|Rural|
+79930|La Realidad|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|4696|Rural|
+79930|Lomas de Axtla|Fraccionamiento|Axtla de Terrazas|San Luis Potosí||79961|24|79961||21|053|0001|Rural|
+79930|San Miguel|Barrio|Axtla de Terrazas|San Luis Potosí||79961|24|79961||02|053|2683|Rural|
+79930|Villas de Santa María|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|4697|Rural|
+79930|Jacarandas|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|2024|Rural|
+79930|Santa María Dos|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|2666|Rural|
+79930|Coamila|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1678|Rural|
+79930|Progreso|Colonia|Axtla de Terrazas|San Luis Potosí||79961|24|79961||09|053|2021|Rural|
+79930|San Juan|Barrio|Axtla de Terrazas|San Luis Potosí||79961|24|79961||02|053|2328|Rural|
+79933|Choteco|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4712|Rural|
+79933|Hacienda Tampochocho|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4740|Rural|
+79933|La Esmeralda|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4745|Rural|
+79933|Zacayuhual|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2736|Rural|
+79933|Agua Fría Dos|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4699|Rural|
+79933|La Gloria|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4747|Rural|
+79933|La Laja|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4748|Rural|
+79933|Arroyo de en Medio|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|2661|Rural|
+79933|Agua Fría|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4698|Rural|
+79933|Chenico|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4710|Rural|
+79933|Pomoco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4762|Rural|
+79933|Rancho Huasteco el Pino|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4767|Rural|
+79933|Tampochocho|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1676|Rural|
+79933|Ampliación Cuayo Buenavista|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4700|Rural|
+79933|Choteco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4711|Rural|
+79933|El Mirador|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4729|Rural|
+79933|La Libertad Segunda Sección|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4750|Rural|
+79933|Rancho el Avión|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4766|Rural|
+79933|Tempixco (Sihuapilco)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4778|Rural|
+79933|El Aquichal|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2664|Rural|
+79933|Doña Pilar|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4724|Rural|
+79933|El Sacrificio|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4734|Rural|
+79933|Fracción el Cerro|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4738|Rural|
+79933|Las Flores|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4754|Rural|
+79933|Rancho las Huastecas|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4768|Rural|
+79933|Rancho Nuevo|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4769|Rural|
+79933|Rancho Tres Negro|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4771|Rural|
+79933|Cuatecoyo|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4719|Rural|
+79933|Escalante|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4736|Rural|
+79933|Rancho Viejo|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4772|Rural|
+79933|Nuevo Ayotoxco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2435|Rural|
+79933|Barrio San José del Rincón|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4704|Rural|
+79933|La Libertad (Ejido la Libertad)|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4749|Rural|
+79934|Tamalacaco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1682|Rural|
+79934|La Noria|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4752|Rural|
+79934|Santa Rita|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4776|Rural|
+79934|Viejo Ayotoxco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4783|Rural|
+79934|Ahuacatitla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1677|Rural|
+79934|Juan José|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4742|Rural|
+79934|Tepetlaco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4781|Rural|
+79934|Xochititla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4785|Rural|
+79934|La Ceiba (Ezequiel Terrazas)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1679|Rural|
+79934|El Cerro|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2665|Rural|
+79934|Loma Bonita Choteco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4755|Rural|
+79934|Otlasxuaco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4760|Rural|
+79934|Rancho Axtlán|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4764|Rural|
+79934|Rancho Coyocala|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4765|Rural|
+79934|Chacuala (Mario Acosta)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4709|Rural|
+79934|Comunidad Jalpilla (Jalpilla Viejo)|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4715|Rural|
+79934|Ostatitla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4759|Rural|
+79934|Santa Cecilia (Tamoss)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4775|Rural|
+79934|Chacuala|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4708|Rural|
+79934|La Ceiba|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4743|Rural|
+79935|Jalpilla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1675|Rural|
+79936|Copalo (Chalco)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1685|Rural|
+79936|Zojualo (Chalco)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4788|Rural|
+79936|Michotlayo (Chalco)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4758|Rural|
+79936|Xocoyo (Chalco)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4786|Rural|
+79936|Comunidad Picholco (Picholco Viejo)|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4717|Rural|
+79936|Cuixcoatitla (Chalco)|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4723|Rural|
+79936|El Progreso|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4731|Rural|
+79936|Picholco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1680|Rural|
+79936|Las Cuevas|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1686|Rural|
+79936|Barrio San Isidro (Tlajumpal)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4703|Rural|
+79936|Cuayo (Chalco)|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4721|Rural|
+79936|Ensenada (Chalco)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4735|Rural|
+79937|Barrio el Tamarindo|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4702|Rural|
+79937|El Madrigal|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4728|Rural|
+79937|El Paraíso|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4730|Rural|
+79937|Vista Hermosa|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4784|Rural|
+79937|Tenexio|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1683|Rural|
+79937|Buenos Aires|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4706|Rural|
+79937|La Garita|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4746|Rural|
+79937|Crucero de Comoca|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4718|Rural|
+79937|El Laurel|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4727|Rural|
+79937|Texacal|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4782|Rural|
+79937|Barrio Santa Fe|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4705|Rural|
+79937|Comoca Ahuacatitla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2496|Rural|
+79937|Santa Fe Texacal (Centro Urbano)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2497|Rural|
+79937|Joaquín Jonguitud|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4741|Rural|
+79937|El Danubio|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4725|Rural|
+79937|Santo Tomás|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4777|Rural|
+79937|Chicaxtitla|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2662|Rural|
+79937|Arroyo Seco|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2735|Rural|
+79937|El Sacrificio|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4733|Rural|
+79937|Rancho Tenexcalco|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4770|Rural|
+79937|El Encinal|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4726|Rural|
+79937|Tenexcalco (La Ceiba)|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4779|Rural|
+79938|La Purísima|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2495|Rural|
+79938|Barrio el Saucito|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4701|Rural|
+79938|Comunidad la Purísima|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4716|Rural|
+79938|Y Griega Nueva|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2675|Rural|
+79938|Cuayo Buenavista|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4722|Rural|
+79938|Tenexcruz|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4780|Rural|
+79938|Rancho Nuevo|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|1681|Rural|
+79938|Coamila|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4713|Rural|
+79938|Fracción Ahuehueyo|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4737|Rural|
+79938|Cuatlácatl|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4720|Rural|
+79938|La Mora|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4751|Rural|
+79938|Xoloco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4787|Rural|
+79938|Cuayo Cerro|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2663|Rural|
+79938|Chimalaco|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2494|Rural|
+79938|Coatzontitla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|2498|Rural|
+79938|Calcahual|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4707|Rural|
+79938|Coamízatl|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4714|Rural|
+79938|La Ceiba|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4744|Rural|
+79938|La Purísima|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4753|Rural|
+79938|Mapaxtla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4756|Rural|
+79938|Matlalapa|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2821|Rural|
+79938|El Rincón|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|4732|Rural|
+79938|Fraccionamiento la Purísima|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4739|Rural|
+79938|Mapotla|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4757|Rural|
+79938|Papatlayo|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4761|Rural|
+79938|Rancho Ahuehueyo|Ranchería|Axtla de Terrazas|San Luis Potosí||79961|24|79961||29|053|4763|Rural|
+79938|San José|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4773|Rural|
+79938|Y Griega Vieja|Poblado comunal|Axtla de Terrazas|San Luis Potosí||79961|24|79961||27|053|2676|Rural|
+79938|San Miguel|Ejido|Axtla de Terrazas|San Luis Potosí||79961|24|79961||15|053|4774|Rural|

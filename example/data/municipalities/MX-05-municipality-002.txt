@@ -1,0 +1,119 @@
+26200|Ciudad Acuña Centro|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0794|Urbano|01
+26210|Luis Donaldo Colosio|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2211|Urbano|01
+26210|La Rivera|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2206|Urbano|01
+26210|División del Norte|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2210|Urbano|01
+26210|Granjas del Valle|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0796|Urbano|01
+26215|Benito Juárez|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0797|Urbano|01
+26215|10 de Mayo|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2212|Urbano|01
+26220|California|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|3265|Urbano|01
+26220|Parque Industrial Acuña|Zona industrial|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||37|002|2686|Urbano|01
+26220|Parque Industrial La Amistad|Zona industrial|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||37|002|0798|Urbano|01
+26230|Atilano Barrera|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0800|Urbano|01
+26230|Aeropuerto|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0799|Urbano|01
+26230|Irene Arreola|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2205|Urbano|01
+26230|Patios del Ferrocarril|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2213|Urbano|01
+26230|16 de Junio|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2680|Urbano|01
+26233|Noblasi|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0003|Urbano|01
+26233|Cedros|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2200|Urbano|01
+26233|La Obrera|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|3103|Urbano|01
+26234|Veracruz|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0001|Urbano|01
+26235|El Sol|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0801|Urbano|01
+26235|Municipio Libre|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0802|Urbano|01
+26235|Los Reales|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2204|Urbano|01
+26236|Emiliano Zapata|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0803|Urbano|01
+26236|Angel Pérez|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2691|Urbano|01
+26236|Sonora|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2670|Urbano|01
+26236|Valle del Mirador|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2695|Urbano|01
+26236|Fundadores|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2687|Urbano|01
+26236|Las Américas|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2233|Urbano|01
+26236|Linda Vista|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2683|Urbano|01
+26236|Benjamín Canales|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2692|Urbano|01
+26236|Los Nogales|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2684|Urbano|01
+26236|Nueva Laguna|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2203|Urbano|01
+26236|Arizona|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0006|Urbano|01
+26237|5 de Mayo|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2199|Urbano|01
+26237|Villa Milenio|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|3183|Urbano|01
+26237|Burócratas Municipales|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2694|Urbano|01
+26237|Tierra y Libertad|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0805|Urbano|01
+26237|Venustiano Carranza|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2201|Urbano|01
+26237|Revolución|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0804|Urbano|01
+26237|Valle Verde|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2202|Rural|01
+26237|Independencia|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2505|Urbano|01
+26237|Nuevo Acuña|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2198|Urbano|01
+26237|Acoros|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2693|Urbano|01
+26238|Parque Industrial Modelo|Zona industrial|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||37|002|0004|Urbano|01
+26238|Ibico|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2690|Urbano|01
+26238|Maestros Federales|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0806|Urbano|01
+26238|Parque Industrial la Paz|Zona industrial|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||37|002|2689|Urbano|01
+26239|INFONAVIT Unidad Mexicanidad|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0807|Urbano|01
+26240|Los Álamos|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0808|Urbano|01
+26248|Amistad|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0809|Urbano|01
+26248|Las Américas|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2207|Urbano|01
+26249|Francisco Villa|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0810|Urbano|01
+26250|Fresnos|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2217|Urbano|01
+26250|28 de Junio|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0812|Urbano|01
+26250|Ojo de Agua|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2216|Urbano|01
+26250|Francisco I Madero|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0811|Urbano|01
+26250|Los Tigres|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2678|Urbano|01
+26260|Flores Tapia|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0813|Urbano|01
+26260|Graciela Rivera|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2229|Urbano|01
+26260|Pérez Arreola|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2675|Urbano|01
+26260|San Andrés|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0814|Urbano|01
+26260|Villas Residenciales|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2226|Urbano|01
+26260|Yunuen|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2507|Urbano|01
+26260|FOVISSSTE Unidad|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0815|Urbano|01
+26263|Campistrano|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|3160|Urbano|01
+26263|Encinos|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2228|Urbano|01
+26263|Apolo|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2227|Urbano|01
+26263|Valle Verde|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2230|Urbano|01
+26264|Morelos|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2232|Urbano|01
+26269|Santa Martha|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2231|Urbano|01
+26269|Periodistas|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0816|Urbano|01
+26269|La Misión|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2673|Urbano|01
+26269|Mártires del 26 de Junio de 1906|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2674|Urbano|01
+26270|Santa Cecilia|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0817|Urbano|01
+26270|Eusebio Arizpe|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2224|Urbano|01
+26270|Teotihuacan Parte Alta|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2221|Urbano|01
+26270|Teotihuacan Parte Baja|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2222|Urbano|01
+26272|San Antonio|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2219|Urbano|01
+26272|Evaristo Pérez Arreola|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2220|Urbano|01
+26272|Enrique Martínez y Martínez|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2223|Urbano|01
+26272|Rubén Moreira|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0005|Urbano|01
+26278|11 de Octubre|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0818|Urbano|01
+26279|R Centro|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2225|Urbano|01
+26279|Porvenir|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0819|Urbano|01
+26280|1° de Mayo|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0820|Urbano|01
+26282|Jesús María Ramón|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2214|Urbano|01
+26282|Tierra y Esperanza|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2215|Urbano|01
+26283|Valle del Sol|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2208|Urbano|01
+26283|El Valle|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2681|Urbano|01
+26283|Las Quintas|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|3194|Urbano|01
+26283|Santa Rosa|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2682|Urbano|01
+26284|Altos de Santa Teresa|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2759|Urbano|01
+26284|San Alberto|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|0002|Urbano|01
+26284|Paraíso|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2506|Urbano|01
+26284|Nuevo Progreso|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|3177|Urbano|01
+26284|Santa Teresa|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2209|Urbano|01
+26284|Las Aves|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|2758|Urbano|01
+26284|Guanajuato|Fraccionamiento|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||21|002|3247|Urbano|01
+26288|Gamez Sumaran|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0821|Urbano|01
+26289|Lázaro Cárdenas|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0822|Urbano|01
+26290|Vista Hermosa|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0824|Urbano|01
+26290|San José|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0823|Urbano|01
+26293|Potrero el Abuelo|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|2676|Urbano|01
+26298|Los Ángeles|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0825|Urbano|01
+26299|Las Alamedas|Colonia|Acuña|Coahuila de Zaragoza|Ciudad Acuña|26201|05|26201||09|002|0826|Urbano|01
+26300|Balcones|Pueblo|Acuña|Coahuila de Zaragoza||26201|05|26201||28|002|0827|Rural|
+26301|Progreso|Ejido|Acuña|Coahuila de Zaragoza||26201|05|26201||15|002|0828|Rural|
+26304|Santa Eulalia|Ejido|Acuña|Coahuila de Zaragoza||26201|05|26201||15|002|0829|Rural|
+26305|El Olmo|Rancho|Acuña|Coahuila de Zaragoza||26201|05|26201||48|002|0830|Rural|
+26307|Las Cuevas|Ranchería|Acuña|Coahuila de Zaragoza||26201|05|26201||29|002|0831|Rural|
+26307|San Lorenzo|Rancho|Acuña|Coahuila de Zaragoza||26201|05|26201||48|002|0832|Rural|
+26308|El Castillo|Colonia|Acuña|Coahuila de Zaragoza||26201|05|26201||09|002|0833|Rural|
+26309|Jabalí Zorra|Colonia|Acuña|Coahuila de Zaragoza||26201|05|26201||09|002|0835|Rural|
+26309|Buena Vista|Ranchería|Acuña|Coahuila de Zaragoza||26201|05|26201||29|002|0834|Rural|
+26310|Santa Rosa|Ranchería|Acuña|Coahuila de Zaragoza||26201|05|26201||29|002|0836|Rural|
+26315|San Gregorio|Ranchería|Acuña|Coahuila de Zaragoza||26201|05|26201||29|002|0837|Rural|
+26317|San Miguel|Ejido|Acuña|Coahuila de Zaragoza||26201|05|26201||15|002|0838|Rural|
+26320|Santa María|Ranchería|Acuña|Coahuila de Zaragoza||26201|05|26201||29|002|0839|Rural|
+26328|El Cedrito|Ranchería|Acuña|Coahuila de Zaragoza||26201|05|26201||29|002|0840|Rural|

@@ -1,0 +1,163 @@
+76340|Centro|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|0392|Urbano|
+76342|Magisterial|Barrio|Jalpan de Serra|Querétaro||76343|22|76343||02|009|1519|Urbano|
+76342|El Mercado|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1341|Urbano|
+76342|La Santa Cruz|Barrio|Jalpan de Serra|Querétaro||76343|22|76343||02|009|1517|Rural|
+76342|Los Cocos (El Coco)|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1521|Urbano|
+76342|San Francisco|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1338|Urbano|
+76342|Paseos de los Adobes|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1516|Urbano|
+76342|El Puente|Barrio|Jalpan de Serra|Querétaro||76343|22|76343||02|009|1520|Urbano|
+76342|La Pedrera|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1337|Urbano|
+76342|La Cruz|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1515|Urbano|
+76342|Del Niño Jesús|Barrio|Jalpan de Serra|Querétaro||76343|22|76343||02|009|1518|Urbano|
+76342|San José|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1522|Urbano|
+76342|Arroyo del Real|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1529|Urbano|
+76344|Arboledas|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1526|Urbano|
+76344|El Platanito|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1342|Rural|
+76344|Las Ortigas|Barrio|Jalpan de Serra|Querétaro||76343|22|76343||02|009|1524|Urbano|
+76344|Del Panteón|Barrio|Jalpan de Serra|Querétaro||76343|22|76343||02|009|1525|Urbano|
+76344|Vivah|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1339|Urbano|
+76344|Buenos Aires|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1340|Urbano|
+76345|Bosques de la Sierra|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1508|Rural|
+76345|Las Auroras|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1510|Rural|
+76345|Alcantarilla|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1513|Urbano|
+76345|Santa Celia|Fraccionamiento|Jalpan de Serra|Querétaro||76343|22|76343||21|009|1514|Urbano|
+76345|Hermelinda González|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1501|Rural|
+76345|Lindavista|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1505|Rural|
+76345|Luis Donaldo Colosio|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1506|Rural|
+76345|Las Terrazas|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1503|Rural|
+76345|La Cruz Blanca|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2782|Urbano|
+76345|Arroyo de las Cañas|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1502|Rural|
+76345|Santa Inés|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1504|Rural|
+76345|Las Misiones|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1507|Rural|
+76345|Puerto de San Nicolás|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1509|Urbano|
+76345|Vista Hermosa|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1512|Urbano|
+76345|Solidaridad|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1511|Urbano|
+76345|San Nicolás|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|2089|Urbano|
+76346|Laguna de Pitzquintla|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0404|Rural|
+76346|La Cabaña|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2773|Rural|
+76346|Acatitlán del Río|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2090|Rural|
+76346|Manzanillos|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2227|Rural|
+76346|Río Adentro|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2738|Rural|
+76346|Las Lagunitas|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2746|Rural|
+76346|San Martín|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|2765|Rural|
+76346|Puerto de Ánimas|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0393|Rural|
+76346|El Zapote|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2083|Rural|
+76346|Puerto de Hoyos|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2748|Rural|
+76346|Capulines|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0403|Rural|
+76346|Moctezumas|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0405|Rural|
+76346|La Presa (Camino a Capulines)|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|1528|Rural|
+76346|Mohonera de Gudiño|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2230|Rural|
+76346|Cuesta de Timbal|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2747|Rural|
+76346|Avícola la Presa|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2772|Rural|
+76346|Huerta las Misiones|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2776|Rural|
+76346|Loma Alta de Pitzquintla|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2778|Rural|
+76346|Entronque a Piedras Anchas|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2780|Rural|
+76346|Entronque a Malila|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2783|Rural|
+76346|El Embocadero|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2080|Rural|
+76346|Puerto Hondo|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|2523|Rural|
+76346|Loma de la Guerra|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1527|Rural|
+76346|Cuesta del Sabino|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2769|Rural|
+76346|Rincón de Pitzquintla|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0406|Rural|
+76346|Villas Jalpan|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|1530|Rural|
+76346|Piedras Anchas|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|2091|Rural|
+76347|Malila|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|2234|Rural|
+76347|Tancoyolillo|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2741|Rural|
+76347|El Rincón (Ojo de Agua)|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2749|Rural|
+76347|San Vicente|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0394|Rural|
+76347|La Ceiba|Colonia|Jalpan de Serra|Querétaro||76343|22|76343||09|009|1523|Rural|
+76347|Carrera de Tancáma|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0407|Rural|
+76347|Tancáma|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0408|Rural|
+76347|Puerto de San Vicente|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2750|Rural|
+76347|Puerto de Tamales (Puerto de Tancáma)|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2736|Rural|
+76348|Madroño|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0409|Rural|
+76348|Teocho|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2088|Rural|
+76348|La Nopalera|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2440|Rural|
+76348|El Álamo|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2074|Rural|
+76348|Barreales|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2502|Rural|
+76348|Puerto del Naranjo|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|0410|Rural|
+76348|Yerbabuena|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0411|Rural|
+76348|La Arena|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2439|Rural|
+76348|Los Charcos|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2507|Rural|
+76348|El Limón|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2752|Rural|
+76348|El Pino|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2768|Rural|
+76348|Loma Delgada|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2086|Rural|
+76348|Quirambitos|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2737|Rural|
+76348|El Cuicillo|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2751|Rural|
+76348|El Tigre|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2766|Rural|
+76348|Carrizal de los Sánchez|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2075|Rural|
+76348|Agua Enterrada|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2506|Rural|
+76348|Jagüey (Jagüey Grande)|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2775|Rural|
+76350|Mesa del Sáuz|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0412|Rural|
+76350|El Tepamal|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2079|Rural|
+76350|Las Nuevas Flores|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2222|Rural|
+76350|Jagüey Cuate (La Cuchilla)|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2771|Rural|
+76350|Tancoyol|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|0413|Rural|
+76350|El Divisadero|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2082|Rural|
+76350|La Mesa del Pino|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2085|Rural|
+76350|Ojo de Agua|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2235|Rural|
+76350|La Carrera (La Perla)|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2774|Rural|
+76350|El Rincón|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2081|Rural|
+76350|Jagüey Nuevo|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2087|Rural|
+76350|Las Flores|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2238|Rural|
+76350|El Cañon|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|2336|Rural|
+76350|Orilla del Plan (La Laguna)|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2236|Rural|
+76350|Los Arados|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2763|Rural|
+76350|Jagüey Blanco|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2770|Rural|
+76350|Las Sávilas|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2781|Rural|
+76350|El Callejón|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2318|Rural|
+76350|Espadañuela|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2076|Rural|
+76353|Sabino Grande|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0396|Rural|
+76353|Ojo de Agua de los Mares|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2270|Rural|
+76353|Petzcola|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0402|Rural|
+76353|Arenitas|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2767|Rural|
+76353|Puerta del Naranjo|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2734|Rural|
+76353|Saucillo|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0401|Rural|
+76353|La Alberquita|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2727|Rural|
+76353|Limón de la Peña|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2733|Rural|
+76353|Los Naranjitos|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2745|Rural|
+76353|La Arenita Dos|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2755|Rural|
+76353|Sabino Chico|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0395|Rural|
+76353|El Refugio|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2732|Rural|
+76353|Tres Cruces|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2777|Rural|
+76353|El Limoncito|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2269|Rural|
+76353|Agua Amarga|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2726|Rural|
+76353|Guayabos Saucillo|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2730|Rural|
+76353|Lomas de Juárez|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2503|Rural|
+76353|La Ciénega|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2728|Rural|
+76354|El Saucito|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2754|Rural|
+76354|Ojo de Agua (San Francisco)|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2756|Rural|
+76354|Valle Verde|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0397|Rural|
+76354|La Cercada|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2518|Rural|
+76354|Rancho Nuevo|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2084|Rural|
+76354|El Tepozán|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2742|Rural|
+76354|La Barranca|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2759|Rural|
+76354|El Pocito|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2761|Rural|
+76354|San Isidro|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2762|Rural|
+76354|San Antonio Tancoyol|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2739|Rural|
+76354|El Noventa y Nueve|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2743|Rural|
+76354|Tanchanaquito|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2758|Rural|
+76354|San Juan de los Durán|Pueblo|Jalpan de Serra|Querétaro||76343|22|76343||28|009|2517|Rural|
+76354|La Isla|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2760|Rural|
+76354|La Esperanza|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2078|Rural|
+76354|Carrizal de los Durán|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2220|Rural|
+76355|Saldiveña|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0399|Rural|
+76355|El Fraile|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2324|Rural|
+76355|Ojo de Agua del Lindero|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2735|Rural|
+76355|El Limón|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2753|Rural|
+76355|El Lindero|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0398|Rural|
+76355|El Rayo|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2744|Rural|
+76355|San Francisco|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2757|Rural|
+76356|Charco Prieto|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2508|Rural|
+76356|Cerritos|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2764|Rural|
+76356|Soledad de Guadalupe|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0414|Rural|
+76356|La Cuchilla|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2779|Rural|
+76357|Zoyapilca|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0415|Rural|
+76358|Agua Fría|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2077|Rural|
+76358|Mojonera de Osorio|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2228|Rural|
+76358|La Mohonera|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2725|Rural|
+76358|La Cuchilla|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2729|Rural|
+76358|Carrizalito|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2221|Rural|
+76358|Los Jasso|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|2731|Rural|
+76358|Soledad del Refugio|Poblado comunal|Jalpan de Serra|Querétaro||76343|22|76343||27|009|2740|Rural|
+76358|Tierra Fría|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0416|Rural|
+76359|Guayabos|Ranchería|Jalpan de Serra|Querétaro||76343|22|76343||29|009|0417|Rural|

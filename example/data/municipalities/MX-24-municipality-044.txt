@@ -1,0 +1,19 @@
+78500|La Punta (San José de la Punta)|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0482|Rural|
+78500|Vanegas|Estación|Vanegas|San Luis Potosí||78521|24|78521||16|044|0483|Rural|
+78502|Presa de Santana|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0485|Rural|
+78503|Zaragoza|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0487|Rural|
+78503|Huertecillas|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0486|Rural|
+78506|La Sabanilla|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0004|Rural|
+78508|De Santiago|Barrio|Vanegas|San Luis Potosí||78521|24|78521||02|044|0001|Urbano|
+78508|Vanegas de Abajo|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0489|Rural|
+78508|San Juan de Vanegas|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0488|Rural|
+78510|El Salado|Pueblo|Vanegas|San Luis Potosí||78521|24|78521||28|044|0490|Rural|
+78511|El Tepetate|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0491|Rural|
+78512|San Vicente|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0493|Rural|
+78512|El Gallo|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0492|Rural|
+78513|Tanque de López|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0494|Rural|
+78513|Santa Teresa|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0003|Rural|
+78514|Noria de Jesús|Ranchería|Vanegas|San Luis Potosí||78521|24|78521||29|044|0495|Rural|
+78514|El Salto Colorado|Poblado comunal|Vanegas|San Luis Potosí||78521|24|78521||27|044|2827|Rural|
+78514|San Juan de La Cruz|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0496|Rural|
+78514|Noria de los Cedros|Ejido|Vanegas|San Luis Potosí||78521|24|78521||15|044|0002|Rural|

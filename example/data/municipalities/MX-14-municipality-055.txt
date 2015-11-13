@@ -1,0 +1,24 @@
+46470|Magdalena Centro|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|1565|Semiurbano|26
+46472|Lindavista|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3534|Semiurbano|26
+46472|Pinavetera|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3533|Semiurbano|26
+46472|Las Fresas 2a Sección|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3536|Semiurbano|26
+46472|Nueva Xochiltepec|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3535|Urbano|26
+46472|Las Fresas 1a Sección|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3537|Semiurbano|26
+46472|Miguel Hidalgo|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3539|Semiurbano|26
+46473|Los Espinos|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3540|Semiurbano|26
+46473|Rinconada Casa Blanca|Fraccionamiento|Magdalena|Jalisco|Magdalena|46471|14|46471||21|055|0001|Urbano|26
+46473|La Nogalera|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3538|Semiurbano|26
+46473|La Cañita|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3543|Semiurbano|26
+46473|Manecas|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3542|Semiurbano|26
+46474|Santuario|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|4250|Semiurbano|26
+46474|Las Matas|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3547|Semiurbano|26
+46474|Cerrito|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3541|Semiurbano|26
+46474|Caballito|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3546|Semiurbano|26
+46474|Los Pinos|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3545|Semiurbano|26
+46474|Estación|Colonia|Magdalena|Jalisco|Magdalena|46471|14|46471||09|055|3544|Semiurbano|26
+46475|San Andrés|Ejido|Magdalena|Jalisco||46471|14|46471||15|055|1567|Rural|
+46480|La Quemada|Ranchería|Magdalena|Jalisco||46471|14|46471||29|055|1568|Rural|
+46488|Ojo Zarco|Ranchería|Magdalena|Jalisco||46471|14|46471||29|055|1569|Rural|
+46489|San Simón|Ranchería|Magdalena|Jalisco||46471|14|46471||29|055|1570|Rural|
+46490|La Joya|Ejido|Magdalena|Jalisco||46471|14|46471||15|055|1571|Rural|
+46495|Huizizilapan|Hacienda|Magdalena|Jalisco||46471|14|46471||24|055|1572|Rural|

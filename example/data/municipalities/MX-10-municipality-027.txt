@@ -1,0 +1,31 @@
+35900|San Juan de Guadalupe|Parque industrial|San Juan de Guadalupe|Durango||35001|10|35001||26|027|1789|Rural|
+35901|San José de Barrones|Pueblo|San Juan de Guadalupe|Durango||35001|10|35001||28|027|1791|Rural|
+35901|Lázaro Cárdenas (el Zacate)|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1790|Rural|
+35903|El Sulfato|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1793|Rural|
+35903|Los Esquiveles|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1794|Rural|
+35904|Santo Niño|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1795|Rural|
+35905|La Barranca|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1796|Rural|
+35907|Benito Juárez (el Capadero)|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1797|Rural|
+35910|Acacio (estación Acacio)|Estación|San Juan de Guadalupe|Durango||35001|10|35001||16|027|1798|Rural|
+35911|Salitrillo|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1799|Rural|
+35917|Los Tenamastes|Rancho|San Juan de Guadalupe|Durango||35001|10|35001||48|027|0001|Rural|
+35917|El Pavo (mineral El Diez)|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1800|Rural|
+35918|Tamanica|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1801|Rural|
+35920|Symon (estación Symon)|Estación|San Juan de Guadalupe|Durango||35001|10|35001||16|027|1802|Rural|
+35922|Estación Rivas|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1803|Rural|
+35923|Guadalupito|Congregación|San Juan de Guadalupe|Durango||35001|10|35001||11|027|1804|Rural|
+35925|San Antonio de La Laguna|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1805|Rural|
+35930|Loma Alta|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1806|Rural|
+35932|San Antonio del Refugio|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1807|Rural|
+35937|Nueva Reforma|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1808|Rural|
+35938|La Escalera|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1810|Rural|
+35938|Agua Nueva|Ejido|San Juan de Guadalupe|Durango||35001|10|35001||15|027|1809|Rural|
+35940|Santa Cruz del Orégano (el Orégano)|Congregación|San Juan de Guadalupe|Durango||35001|10|35001||11|027|1811|Rural|
+35942|Cipriano|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1812|Rural|
+35942|Vicente Guerrero (7 Zacates)|Pueblo|San Juan de Guadalupe|Durango||35001|10|35001||28|027|1814|Rural|
+35942|El Zorrillo|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1813|Rural|
+35944|Palmas Verdes|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1816|Rural|
+35944|Magallanes|Congregación|San Juan de Guadalupe|Durango||35001|10|35001||11|027|1815|Rural|
+35945|El Puerto de La Palma|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1818|Rural|
+35945|La Planilla|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1817|Rural|
+35947|El Floreño|Ranchería|San Juan de Guadalupe|Durango||35001|10|35001||29|027|1819|Rural|

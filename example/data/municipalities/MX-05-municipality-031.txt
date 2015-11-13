@@ -1,0 +1,29 @@
+25500|San Buenaventura Centro|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|0410|Semiurbano|19
+25503|Benito Juárez|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2079|Semiurbano|19
+25503|Pueblo Nuevo|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|3178|Urbano|19
+25503|Nueva Esperanza|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|3179|Urbano|19
+25504|Saca de Bucareli|Ejido|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||15|031|2075|Semiurbano|19
+25504|Solidaridad|Ampliación|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||38|031|2078|Semiurbano|19
+25504|San Andrés|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2077|Semiurbano|19
+25504|Solidaridad|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2076|Semiurbano|19
+25505|Amalia Solórzano|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2074|Semiurbano|19
+25505|18 de Febrero|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2071|Semiurbano|19
+25505|Magisterio|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2070|Rural|19
+25505|Eulalio Gutiérrez|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2073|Semiurbano|19
+25506|California|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2067|Semiurbano|19
+25506|Reforma|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2068|Rural|19
+25506|16 de Abril|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2069|Semiurbano|19
+25506|Adelina Gutiérrez|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2072|Semiurbano|19
+25506|Chabacanos|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2066|Semiurbano|19
+25506|Manuel de los Santos|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2065|Semiurbano|19
+25507|Nogalera|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2064|Semiurbano|19
+25508|San Pedro|Fraccionamiento|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||21|031|2062|Semiurbano|19
+25508|Lindavista|Colonia|San Buenaventura|Coahuila de Zaragoza|San Buenaventura|25501|05|25501||09|031|2063|Semiurbano|19
+25530|San Francisco|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0413|Rural|
+25532|Guadalupe Victoria (El Cerrito)|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0414|Rural|
+25533|San Antonio de las Higueras|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0415|Rural|
+25533|San Blas|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0416|Rural|
+25534|San Lorenzo|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0417|Rural|
+25535|San Antonio de la Cascada|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0418|Rural|
+25536|Santa Gertrudis|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0411|Rural|
+25536|Nuevo Poblado del Sombrerete (Nuevo Sombrerete)|Ejido|San Buenaventura|Coahuila de Zaragoza||25501|05|25501||15|031|0409|Rural|

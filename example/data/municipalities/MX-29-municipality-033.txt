@@ -1,0 +1,104 @@
+90000|Tlaxcala Centro|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0001|Urbano|03
+90005|Huertas de San Francisco|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0855|Urbano|03
+90006|Universidad Autónoma de Tlaxcala|Gran usuario|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||22|033|0582|Urbano|03
+90007|Secretaria de Agricultura Ganaderia y Desarrollo Rural|Gran usuario|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||22|033|0006|Urbano|03
+90008|Centro SCT Tlaxcala|Gran usuario|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||22|033|0007|Urbano|03
+90009|Palacio de Gobierno del Estado de Tlaxcala|Gran usuario|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||22|033|0008|Urbano|03
+90010|San Buenaventura Atempan|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0009|Urbano|03
+90013|Xicoténcatl|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0630|Urbano|03
+90014|Los Causes|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0546|Urbano|03
+90014|El Bosque|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0543|Urbano|03
+90014|Los Potrillos|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0544|Urbano|03
+90014|Vista Hermosa|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0545|Urbano|03
+90014|Magisterial Vista Hermosa|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0547|Urbano|03
+90014|Vista Malintzi|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0003|Urbano|03
+90014|Cuarto Señorío|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0548|Urbano|03
+90014|Los Volcanes|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0629|Urbano|03
+90019|Los Pinos|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0010|Urbano|03
+90020|Pensionados Militares|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0011|Urbano|03
+90030|Los Volcanes|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0550|Urbano|03
+90030|Lomas de Coyotepec|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0555|Urbano|03
+90030|Villa de los Ángeles|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0686|Urbano|03
+90030|Felipe Santiago Xicoténcatl|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0012|Urbano|03
+90030|Las Ánimas|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0593|Urbano|03
+90030|Residencial Jardines de San Gabriel|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0685|Urbano|03
+90030|Los Girasoles|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0687|Urbano|03
+90030|Los Pinos|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0690|Urbano|03
+90030|Ameyal|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0684|Urbano|03
+90030|Las Ánimas|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0551|Urbano|03
+90030|El Real|Residencial|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||30|033|0799|Urbano|03
+90030|Paso de Cortes|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0552|Urbano|03
+90030|Cuarto Señoríos|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0553|Urbano|03
+90030|Real del Sol|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0554|Urbano|03
+90030|Los Cipreses|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0800|Urbano|03
+90040|San Miguel Tlamahuco|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0005|Urbano|03
+90040|Adolfo López Mateos|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0014|Urbano|03
+90050|Ocotlán INFONAVIT|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0015|Urbano|03
+90050|Mi Lupita|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0863|Urbano|03
+90060|San Isidro|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0016|Urbano|03
+90062|El Llanito|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0566|Urbano|03
+90062|Tlapala|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0835|Urbano|03
+90062|Xicoténcatl|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0577|Urbano|03
+90062|Insurgentes|Unidad habitacional|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||31|033|0689|Urbano|03
+90062|Insurgentes|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0833|Urbano|03
+90080|Del Maestro|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0018|Urbano|03
+90090|Loma Bonita|Colonia|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||09|033|0019|Urbano|03
+90099|Loma Linda|Fraccionamiento|Tlaxcala|Tlaxcala|Tlaxcala (Tlaxcala de Xicotencatl)|90001|29|90001||21|033|0628|Urbano|03
+90100|Rinconada de Ocotlán|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0023|Urbano|
+90100|Araucarias|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0538|Urbano|
+90100|Conjunto de las Rosas|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0539|Rural|
+90100|3er Señorío|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0536|Rural|
+90100|Ocotlán|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0022|Rural|
+90100|San Esteban Tizatlan|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|0024|Rural|
+90100|El Potrero|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|0787|Rural|
+90100|El Mirador|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0021|Urbano|
+90102|El Sabinal|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|0025|Rural|
+90102|Las Rosas|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0834|Urbano|
+90102|San Lucas|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0565|Rural|
+90102|Mirasol|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|1203|Rural|
+90102|La Cañada|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0549|Rural|
+90105|Tepetlapa|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0534|Urbano|
+90105|San Lazaro|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0004|Urbano|
+90105|Santa María Ixtulco|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0027|Urbano|
+90110|San Diego|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0760|Rural|
+90110|Xilotzingo|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|1200|Urbano|
+90110|El Alto|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|1204|Rural|
+90110|Zapotla|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|1205|Rural|
+90110|San Diego Metepec|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0028|Rural|
+90110|Grande|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|1202|Urbano|
+90110|San Lucas Cuauhtelulpan|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0029|Urbano|
+90110|Santa María Acuitlapilco|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0030|Urbano|
+90110|Geo Villas San Diego|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0761|Rural|
+90110|Guadalupe|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|1201|Urbano|
+90110|Los Pirules|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|1209|Urbano|
+90110|Tlayecac|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|0002|Urbano|
+90111|San Sebastián Atlahapa|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0031|Rural|
+90112|San Hipolito Chimalpa|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0032|Rural|
+90114|La Laguna|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0563|Rural|
+90114|Tlacomulco|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|0584|Rural|
+90114|El Rincón o Los Rosales|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0564|Rural|
+90114|La Herradura|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0794|Urbano|
+90114|Los Pinos|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0592|Rural|
+90114|Santa Agueda|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0597|Rural|
+90114|Miraflores|Barrio|Tlaxcala|Tlaxcala||90001|29|90001||02|033|0581|Rural|
+90114|La Joya|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0033|Rural|
+90114|El Cortijo|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0795|Rural|
+90114|El Tejocote|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0561|Rural|
+90114|UAT|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0562|Urbano|
+90114|La Vista|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0657|Rural|
+90114|El Fresno|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0832|Urbano|
+90114|El Rocío|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|1064|Urbano|
+90114|Amapotla|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0560|Rural|
+90115|La Trinidad Tepehitec|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0034|Rural|
+90115|Puesta del Sol|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0596|Rural|
+90115|San Fernando|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0556|Rural|
+90115|Esmeralda|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0557|Rural|
+90115|3 Volcanes|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|0559|Urbano|
+90115|Lomas de Guadalupe|Unidad habitacional|Tlaxcala|Tlaxcala||90001|29|90001||31|033|0558|Rural|
+90115|Del Valle|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|0579|Rural|
+90117|Bugambilias|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0864|Urbano|
+90117|Las Arboledas|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0595|Rural|
+90117|Colinas del Sur|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0594|Rural|
+90117|La Garita de Puebla|Fraccionamiento|Tlaxcala|Tlaxcala||90001|29|90001||21|033|0750|Rural|
+90117|San Gabriel Cuautla|Pueblo|Tlaxcala|Tlaxcala||90001|29|90001||28|033|0035|Rural|
+90118|Tlapancalco|Colonia|Tlaxcala|Tlaxcala||90001|29|90001||09|033|0036|Rural|

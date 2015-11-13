@@ -1,0 +1,4 @@
+99920|San Pedro Apulco|Pueblo|Apulco|Zacatecas||99922|32|99922||28|002|0732|Rural|
+99921|Agua Blanca|Ranchería|Apulco|Zacatecas||99922|32|99922||29|002|0733|Rural|
+99925|La Pitaya|Ranchería|Apulco|Zacatecas||99601|32|99601||29|002|0669|Rural|
+99930|Tenayuca|Pueblo|Apulco|Zacatecas||99922|32|99922||28|002|0735|Rural|

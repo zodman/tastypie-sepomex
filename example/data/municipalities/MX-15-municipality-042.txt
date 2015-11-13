@@ -1,0 +1,75 @@
+50740|San Francisco de Asís|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|5240|Rural|
+50740|Profedixi|Fraccionamiento|Ixtlahuaca|México||50741|15|50741||21|042|5242|Urbano|
+50740|Profedixi II|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|5243|Rural|
+50740|Sedue|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|5239|Rural|
+50740|La Concepción de los Baños|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6657|Rural|
+50740|Ixtlahuaca de Rayón Centro|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0744|Rural|
+50740|San Francisco|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|8755|Urbano|
+50740|Magisterial|Fraccionamiento|Ixtlahuaca|México||50741|15|50741||21|042|9518|Rural|
+50743|Los Reyes|Fraccionamiento|Ixtlahuaca|México||50741|15|50741||21|042|8754|Urbano|
+50744|Químico José Donaciano y Mier|Fraccionamiento|Ixtlahuaca|México||50741|15|50741||21|042|8752|Urbano|
+50744|ISSEMYM|Fraccionamiento|Ixtlahuaca|México||50741|15|50741||21|042|8753|Urbano|
+50744|Número 5|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|8756|Urbano|
+50750|San Antonio de los Remedios|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0746|Rural|
+50750|20 de Noviembre|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|7405|Rural|
+50750|Jalpa de los Baños|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0745|Rural|
+50750|Jalpa de Dolores|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|0759|Rural|
+50753|Cuauhtémoc|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|7406|Rural|
+50753|Guadalupe del Río|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|6647|Rural|
+50753|San Francisco del Río|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|6651|Rural|
+50754|San Cristóbal de los Baños|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0747|Rural|
+50754|Atotonilco|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6646|Rural|
+50754|La Concepción de los Baños Primero|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6656|Rural|
+50754|La Concepción de Baños|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0755|Rural|
+50755|Casa Blanca|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|7404|Rural|
+50755|San Pedro de los Baños|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0749|Rural|
+50760|San Ignacio del Pedregal|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0760|Rural|
+50760|Santa Ana la Ladera 4|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0762|Rural|
+50760|Santa Ana Ixtlahuaca|Poblado comunal|Ixtlahuaca|México||50741|15|50741||27|042|8284|Rural|
+50760|San Isidro Boxipe|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0763|Rural|
+50764|Shira|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|7401|Rural|
+50770|San Juan de las Manzanas|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0768|Rural|
+50770|El Rincón de los Perales|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|0770|Rural|
+50770|La Bandera|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|7402|Rural|
+50770|La Guadalupana (El Sauco)|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0766|Rural|
+50770|Dolores Enyege|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0765|Rural|
+50770|La Concepción Enyege|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0764|Rural|
+50770|Emiliano Zapata|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|6652|Rural|
+50770|San Miguel Enyege|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0769|Rural|
+50770|San Andrés del Pedregal|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0767|Rural|
+50773|El Tecomate|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|7403|Rural|
+50773|Guadalupe Cachi|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0743|Rural|
+50773|San Pedro|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|8761|Rural|
+50773|Santo Domingo de Guzmán|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0751|Rural|
+50773|San José del Río|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|6650|Rural|
+50773|San Pablo de los Remedios|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0748|Rural|
+50773|San Mateo Ixtlahuaca|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0754|Rural|
+50774|San Bartolo del Llano|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0758|Rural|
+50774|Huereje|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6658|Rural|
+50774|Ignacio Zaragoza|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|8961|Rural|
+50774|Número 9|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|8757|Rural|
+50774|San José Huereje|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|8762|Rural|
+50774|Santa María del Llano|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0757|Rural|
+50774|Santo Domingo Huereje|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|0750|Rural|
+50774|San Francisco de Guzmán|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|0753|Rural|
+50774|San Bartolo del Llano|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|8758|Rural|
+50774|Francisco I Madero|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|6648|Rural|
+50774|Las Trojes|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|0756|Rural|
+50774|Luis Donaldo Colosio|Colonia|Ixtlahuaca|México||50741|15|50741||09|042|7397|Rural|
+50775|San Miguel el Alto (Ranchos Viejos)|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|7398|Rural|
+50780|San Lorenzo Toxico Manzana Séptima|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6654|Rural|
+50780|San Francisco Ixtlahuaca|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|7396|Rural|
+50780|San Lorenzo Toxico|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0775|Rural|
+50780|San Ildefonso|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0773|Rural|
+50780|San Lorenzo Toxico Manzana Octava|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6655|Rural|
+50780|San Francisco|Ranchería|Ixtlahuaca|México||50741|15|50741||29|042|8759|Rural|
+50780|San Lorenzo Toxico Manzana Sexta|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|6653|Rural|
+50783|San Jerónimo la Cañada|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|7395|Rural|
+50783|San Joaquín el Junco|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|0774|Rural|
+50783|San Pedro la Cabecera|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0776|Rural|
+50783|Hacienda la Purísima|Fraccionamiento|Ixtlahuaca|México||50741|15|50741||21|042|8763|Rural|
+50783|San Joaquín la Cabecera|Barrio|Ixtlahuaca|México||50741|15|50741||02|042|6649|Rural|
+50783|San Antonio Bonixi|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0772|Rural|
+50783|La Purísima|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|0778|Rural|
+50785|San Jerónimo Ixtapantongo|Pueblo|Ixtlahuaca|México||50741|15|50741||28|042|0777|Rural|
+50785|San Jerónimo Ixtlapantongo|Ejido|Ixtlahuaca|México||50741|15|50741||15|042|8760|Rural|

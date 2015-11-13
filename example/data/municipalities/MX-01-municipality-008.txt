@@ -1,0 +1,29 @@
+20500|San José de Gracia|Pueblo|San José de Gracia|Aguascalientes||20671|01|20671||28|008|0582|Rural|
+20501|El Jocoqui|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0583|Rural|
+20502|Cieneguita|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0584|Rural|
+20503|El Toril|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0585|Rural|
+20504|Santa Elena de la Cruz (Capadero)|Colonia|San José de Gracia|Aguascalientes||20671|01|20671||09|008|0586|Rural|
+20506|Las Amarillas|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0588|Rural|
+20508|Tortugas|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0589|Rural|
+20508|Potrerillo|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|1249|Rural|
+20510|Ciénega de Alcorcha|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0590|Rural|
+20516|Boca del Túnel de Potrerillo|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0591|Rural|
+20520|La Congoja|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0592|Rural|
+20525|La Campana|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0593|Rural|
+20530|Bajío de La Tienda|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0594|Rural|
+20534|El Cepo|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0595|Rural|
+20538|Antrialgo|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0596|Rural|
+20538|Sierra Hermosa (Los Alamitos)|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|1250|Rural|
+20540|Paredes|Ejido|San José de Gracia|Aguascalientes||20671|01|20671||15|008|0597|Rural|
+20545|San Antonio de los Ríos|Ejido|San José de Gracia|Aguascalientes||20671|01|20671||15|008|0598|Rural|
+20550|Santa Rosa de Lima|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0599|Rural|
+20560|Presa del Sáuz|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0600|Rural|
+20564|Rancho Viejo|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0601|Rural|
+20567|Potrero de los López|Ejido|San José de Gracia|Aguascalientes||20671|01|20671||15|008|0602|Rural|
+20570|El Tecongo|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0603|Rural|
+20574|Estancia de San Marcos|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0604|Rural|
+20576|San José [Club Náutico]|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0605|Rural|
+20578|Paso del Sauz|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0606|Rural|
+20580|Guajolotes (Huijolotes)|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0607|Rural|
+20584|Santa Rosa|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0608|Rural|
+20590|El Taray|Ranchería|San José de Gracia|Aguascalientes||20671|01|20671||29|008|0609|Rural|

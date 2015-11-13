@@ -1,0 +1,25 @@
+75160|San Juan|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|7621|Rural|
+75160|Doctores|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|7623|Rural|
+75160|Tecoac|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|3729|Rural|
+75160|Jilotepec|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|3731|Rural|
+75160|Quecholac|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|3730|Rural|
+75160|San Miguel|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|7622|Rural|
+75160|San Salvador el Seco|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|2143|Rural|
+75160|Tecamachalco|Barrio|San Salvador el Seco|Puebla||75161|21|75161||02|142|3732|Rural|
+75162|Jilotepec|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7609|Rural|
+75163|La Higuera|Fraccionamiento|San Salvador el Seco|Puebla||75161|21|75161||21|142|2145|Rural|
+75163|María de los Ángeles (Parada la Higuera)|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7613|Rural|
+75163|Concepción Malpaís (Rancho la Concepción)|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7617|Rural|
+75163|San Agustín|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7620|Rural|
+75163|San Cristóbal|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7612|Rural|
+75164|San José Barroso|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|7615|Rural|
+75164|San Martín|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7610|Rural|
+75165|Guadalupe|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|2146|Rural|
+75166|Guadalupe Victoria|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|2147|Rural|
+75166|Los Álamos|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7616|Rural|
+75166|Las Margaritas|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7619|Rural|
+75166|Santa María (Kilómetro 6)|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7611|Rural|
+75167|Santa María Coatepec|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|2149|Rural|
+75169|Paso Puente de Santa Ana|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|2150|Rural|
+75169|San Francisco Aljibes|Ranchería|San Salvador el Seco|Puebla||75161|21|75161||29|142|7614|Rural|
+75169|San Francisco Aljibes|Pueblo|San Salvador el Seco|Puebla||75161|21|75161||28|142|7618|Rural|

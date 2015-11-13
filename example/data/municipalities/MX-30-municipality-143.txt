@@ -1,0 +1,332 @@
+95830|Santiago Tuxtla Centro|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|3556|Semiurbano|42
+95832|Revolución|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4831|Semiurbano|42
+95832|Alcaldía|Barrio|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||02|143|4835|Semiurbano|42
+95832|Angel Carbajal|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4832|Semiurbano|42
+95832|La Piedra de Cal|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4844|Rural|42
+95832|Dos Cuestas|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8080|Urbano|42
+95832|Xogoyo|Barrio|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||02|143|4833|Urbano|42
+95832|La Cruz|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8083|Urbano|42
+95832|La Guadalupe|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8084|Urbano|42
+95832|Los Pinos|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8088|Urbano|42
+95832|El Dagamal|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4836|Semiurbano|42
+95832|El Marquez|Barrio|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||02|143|4834|Semiurbano|42
+95832|Lomas del Márquez|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8087|Urbano|42
+95833|Sexta|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4840|Semiurbano|42
+95833|Axochio|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8078|Urbano|42
+95833|Pedregal|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4841|Semiurbano|42
+95833|Magda Moreno de Carbajal|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8089|Urbano|42
+95833|Pénjamo|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4838|Semiurbano|42
+95833|Francisco A Gómez|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4845|Semiurbano|42
+95833|Palenque|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4826|Semiurbano|42
+95833|El Pilar|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4837|Semiurbano|42
+95833|Pedregal 2|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8092|Urbano|42
+95833|Buena Vista|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8079|Urbano|42
+95833|Independencia|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8082|Urbano|42
+95833|Magisterial|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8090|Urbano|42
+95834|Las Flores|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8086|Urbano|42
+95834|El Bosque|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4829|Semiurbano|42
+95834|Predio Las Lomas|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8093|Urbano|42
+95834|El Edén|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4843|Rural|42
+95834|Emiliano Zapata|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|7566|Urbano|42
+95834|El Cedral|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8081|Urbano|42
+95834|Nueva Ampliación El Bosque|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8091|Urbano|42
+95834|El Paraíso|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|7580|Urbano|42
+95834|El Jardín|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|4830|Semiurbano|42
+95834|La Huerta|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||09|143|8085|Urbano|42
+95834|San Diego|Barrio|Santiago Tuxtla|Veracruz de Ignacio de la Llave|Santiago Tuxtla|95831|30|95831||02|143|4827|Semiurbano|42
+95835|El Cocal|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||09|143|4842|Rural|
+95835|Chachalacapan|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8131|Rural|
+95835|Colonia Cuesta Abajo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8140|Rural|
+95835|Dos Caminos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8155|Rural|
+95835|El Jiote|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8170|Rural|
+95835|El Mirador|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8173|Rural|
+95835|El Quico|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8188|Rural|
+95835|El Sacrificio|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8191|Rural|
+95835|El Zapote|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8205|Rural|
+95835|Finca Villa la Gallarda|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8209|Rural|
+95835|La Cuesta|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8233|Rural|
+95835|Rancho de la Maza|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8301|Rural|
+95835|Rancho Vargas|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8309|Rural|
+95835|Santa Elena|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8333|Rural|
+95835|Tanabalapa|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8342|Rural|
+95835|Trapiche de Xinagambasca|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8354|Rural|
+95835|Diente de León|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8154|Rural|
+95835|El Amate (Tepesiluapan)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8157|Rural|
+95835|El Encanto|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8166|Rural|
+95835|José Castellanos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8223|Rural|
+95835|La Aurora|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8226|Rural|
+95835|La Purificadora|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8248|Rural|
+95835|Raúl Carvajal|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8297|Rural|
+95835|Rancho Oliveros|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8306|Rural|
+95835|Sinapán|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8338|Rural|
+95835|Ubaldo Aguilera|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8360|Rural|
+95835|Chininiapan de Arriba|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8137|Rural|
+95835|Colonia el Palenque|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8141|Rural|
+95835|El Plantel (Mario Carvajal)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8183|Rural|
+95835|La Concahua|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8232|Rural|
+95835|La Vaina|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8252|Rural|
+95835|Nancinapan (Casa de Teja)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8280|Rural|
+95835|Popoctépetl|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8295|Rural|
+95835|Rancho Oliveros|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8307|Rural|
+95835|Sesecapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8337|Rural|
+95835|Tapalcapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8343|Rural|
+95835|Tatocapan|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8344|Rural|
+95835|Vista Hermosa|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3562|Rural|
+95835|Colonia la  Huerta (El Balneario)|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||09|143|7880|Rural|
+95835|Barrio de San Diego|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8113|Rural|
+95835|Cerro del Vigía de Abajo (Vigía Cooperativa)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8128|Rural|
+95835|Chininiapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8136|Rural|
+95835|Cotija|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8148|Rural|
+95835|Cuyuapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8152|Rural|
+95835|Flor del Ejido|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8210|Rural|
+95835|José Castellanos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8222|Rural|
+95835|La Ceiba|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8227|Rural|
+95835|Los Diez Hermanos|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8266|Rural|
+95835|San Matías|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8325|Rural|
+95835|Totocapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8352|Rural|
+95835|Un Recuerdo|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8361|Rural|
+95835|Xogapan|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8366|Rural|
+95835|Sehualaca|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3557|Rural|
+95835|Cesáreo Pío|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8130|Rural|
+95835|Chama Martínez (Tagala)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8132|Rural|
+95835|Colonia el Rosario|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8142|Rural|
+95835|Colonia las Brisas|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8143|Rural|
+95835|Colonia María Beltrán|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8144|Rural|
+95835|Pedro Urbina (Tagala)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8291|Rural|
+95835|San Armando|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8316|Rural|
+95835|San Rafael|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8328|Rural|
+95835|Tierra Colorada|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8350|Rural|
+95835|Cristina Castellanos (Tagala)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8149|Rural|
+95835|Crustitán|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8150|Rural|
+95835|Cuyuapan de Abajo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8153|Rural|
+95835|La Joya|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8242|Rural|
+95835|Texcochapan de Abajo|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3558|Rural|
+95835|Baixtepe|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8111|Rural|
+95835|Bonanza|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8119|Rural|
+95835|Chigalapa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8134|Rural|
+95835|Cinco Hermanos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8138|Rural|
+95835|El Mirador|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8174|Rural|
+95835|El Picayo|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8182|Rural|
+95835|El Soñador|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8193|Rural|
+95835|Flor María|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8211|Rural|
+95835|La Guadalupe|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8240|Rural|
+95835|Maxyapán|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8277|Rural|
+95835|San Martín|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8324|Rural|
+95835|Tamaniapa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8340|Rural|
+95835|Tepozapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8347|Rural|
+95835|Río Grande|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3555|Rural|
+95835|Arenal|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8102|Rural|
+95835|Ayotzintla|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8110|Rural|
+95835|Colonia Oteapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8146|Rural|
+95835|El Berral (Raúl Vargas)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8158|Rural|
+95835|El Soñador (Zapata)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8194|Rural|
+95835|El Tigre|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8195|Rural|
+95835|José María Migueles|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8224|Rural|
+95835|Las Quince Letras|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8258|Rural|
+95835|Palo Blanco|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8288|Rural|
+95835|Pollinapan|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8294|Rural|
+95835|Raúl Sosa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8298|Rural|
+95835|Rancho Solís|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8308|Rural|
+95835|Santa Elena|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8334|Rural|
+95835|Tetax Sesecapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8348|Rural|
+95835|Texcochapan de Arriba|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8349|Rural|
+95835|Tapalapan|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3564|Rural|
+95835|Álvaro Castellanos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8096|Rural|
+95835|Alta Luz|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8100|Rural|
+95835|Axochio|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8109|Rural|
+95835|Chilchutiuca|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8135|Rural|
+95835|Miguel Alemán|Colonia|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||09|143|8145|Rural|
+95835|Fernando Bustamante|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8208|Rural|
+95835|Hermanos Camino|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8217|Rural|
+95835|Loma Quemada|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8261|Rural|
+95835|Los Chaneques|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8264|Rural|
+95835|Mario Carvajal|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8274|Rural|
+95835|Rancho la Cuchilla|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8303|Rural|
+95835|Rancho la Guadalupe|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8304|Rural|
+95835|Santa Elena|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8332|Rural|
+95835|Santa Isabel|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8335|Rural|
+95836|Arroyo Salado (El Porvenir)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8106|Rural|
+95836|La Florida|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8237|Rural|
+95836|La Mechuda|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8245|Rural|
+95836|Los Pinos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8271|Rural|
+95836|Mazatán|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8278|Rural|
+95836|Rolando Victorio|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8311|Rural|
+95836|Tenejapan|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8345|Rural|
+95836|Salto de Agua de los Islaba|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|7562|Rural|
+95836|Cerro del Vigía de Enmedio|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8129|Rural|
+95836|El Zapote|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8203|Rural|
+95836|Pepetaca|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8292|Rural|
+95836|Salto de Agua de Pío (Dos Caminos)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8313|Rural|
+95836|Tepetapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8346|Rural|
+95836|Rincón de Zapateros|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3569|Rural|
+95836|Cruz de Vidaña|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8151|Rural|
+95836|El Potrero|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8185|Rural|
+95836|El Rincón|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8189|Rural|
+95836|El Vikingo (El Gringo)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8199|Rural|
+95836|La Guadalupe|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8241|Rural|
+95836|San Agustín|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8314|Rural|
+95836|Totogal|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8353|Rural|
+95836|Xaltepec|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8364|Rural|
+95836|El Platanar|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8184|Rural|
+95836|La Soledad|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8249|Rural|
+95836|Miguel Hidalgo y Costilla|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8279|Rural|
+95836|San Marcos|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8322|Rural|
+95836|San Miguel|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8326|Rural|
+95836|Arroyo de Piedra|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8103|Rural|
+95836|San Lorenzo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8321|Rural|
+95836|El Cañalito|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8159|Rural|
+95836|Palo Gacho (La Piedra)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8289|Rural|
+95836|Xigüipilincan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8365|Rural|
+95836|Boca del Monte|Ejido|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||15|143|3567|Rural|
+95836|El Aguaje|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8156|Rural|
+95836|El Nanchital|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8179|Rural|
+95836|El Palmar|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8180|Rural|
+95836|El Zapote|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8204|Rural|
+95836|Ojo de Agua|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8284|Rural|
+95836|Medellin de las Mercedes|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3554|Rural|
+95836|Rincón de Sosa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3568|Rural|
+95836|Rincón de Lucia|Congregación|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||11|143|7873|Rural|
+95836|La Ceiba|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8228|Rural|
+95836|Omeapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8286|Rural|
+95837|Banco de Grava|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8112|Rural|
+95837|El Laurel|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8171|Rural|
+95837|Entrada al Banco de Grava|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8207|Rural|
+95837|La Esmeralda|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8235|Rural|
+95837|Raúl Vargas|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8299|Rural|
+95837|El Morillo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8177|Rural|
+95837|Francisco I. Madero|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8212|Rural|
+95837|Francisco Isidoro Huatzozón|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8213|Rural|
+95837|La Encantada|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8234|Rural|
+95837|La Nueva Esperanza|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8246|Rural|
+95837|San José|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8320|Rural|
+95837|Camacho|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8120|Rural|
+95837|El Sacrificio|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8190|Rural|
+95837|Guinda|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8216|Rural|
+95837|Jesús de la Parra|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8221|Rural|
+95837|La Granja|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8239|Rural|
+95837|Los Mangos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8268|Rural|
+95837|Los Naranjos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8269|Rural|
+95837|Mario Flores|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8275|Rural|
+95837|Palmira|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8287|Rural|
+95837|Tibernal|Ejido|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||15|143|3559|Rural|
+95837|Abelino Lagunes|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8098|Rural|
+95837|El Embarcadero|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8165|Rural|
+95837|San Diego|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8317|Rural|
+95837|El Yuale Chico|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8201|Rural|
+95837|La Loma|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8244|Rural|
+95837|San Simón|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8330|Rural|
+95837|Kilómetro Diecinueve|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8225|Rural|
+95837|Pueblo Nuevo|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8296|Rural|
+95837|Francisco I. Madero|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3563|Rural|
+95837|El Zapotal|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3570|Rural|
+95837|Abelino Lagunes|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8097|Rural|
+95838|Cinco de Mayo|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3571|Rural|
+95838|La Pitahaya|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3572|Rural|
+95838|Boca las Carolinas|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8117|Rural|
+95838|Cerro Castro|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8124|Rural|
+95838|Cosoltiapa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8147|Rural|
+95838|El Hato|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8169|Rural|
+95838|El Mostal|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8178|Rural|
+95838|El Paraíso|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8181|Rural|
+95838|El Pretil|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8187|Rural|
+95838|El Treviso|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8197|Rural|
+95838|Guasimal|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8215|Rural|
+95838|Isletilla|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8220|Rural|
+95838|La Laguna|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8243|Rural|
+95838|Las Margaritas|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8255|Rural|
+95838|Lomas de Alonso Lázaro (El Burro)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8262|Rural|
+95838|Los Cañales|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8263|Rural|
+95838|Mata de Caña|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8276|Rural|
+95838|Rancho Nuevo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8305|Rural|
+95838|El Chiflón|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8163|Rural|
+95838|El Tular|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8198|Rural|
+95838|Las Lajas|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8254|Rural|
+95838|Las Palmas|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8256|Rural|
+95838|Sabaneta|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8312|Rural|
+95838|San Antonio de la Huerta|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8315|Rural|
+95838|Tres de Mayo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8355|Rural|
+95838|Trinidad Huesca Hernández|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8359|Rural|
+95838|Arroyo Largo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8105|Rural|
+95838|Bella Vista|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8114|Rural|
+95838|El Hato|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8168|Rural|
+95838|Los Chivos (El Hato)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8265|Rural|
+95838|San Fernando|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8318|Rural|
+95838|El Macuile|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8172|Rural|
+95838|Los Pérez|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8272|Rural|
+95838|Rancho de Parra|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8302|Rural|
+95838|San Isidro|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8319|Rural|
+95838|San Rafael|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8329|Rural|
+95838|Nuevo del Mostal|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3573|Rural|
+95838|Loma la Gravera|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8260|Rural|
+95838|Nuevo Totlalli|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8283|Rural|
+95838|Pixixiapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8293|Rural|
+95838|Santa Teresa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8336|Rural|
+95838|Zacatal (San José Buena Vista)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8367|Rural|
+95838|El Amate|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|7579|Rural|
+95838|El Campanario|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8160|Rural|
+95838|El Yuale Grande|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8202|Rural|
+95838|La Soledad (El Tamani)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8251|Rural|
+95838|San Simón|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8331|Rural|
+95838|El Coyol|Congregación|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||11|143|7879|Rural|
+95838|Bodegas de Otapan|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8118|Rural|
+95838|Cerro Colorado|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8125|Rural|
+95838|La Ceibilla|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8229|Rural|
+95838|Los Naranjos (Los Bravo)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8270|Rural|
+95838|Rancho Barrientos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8300|Rural|
+95838|Arturo Jiadan|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8108|Rural|
+95838|El Volcán|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8200|Rural|
+95838|La Cerca|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8230|Rural|
+95838|La Piedad|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8247|Rural|
+95838|La Soledad|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8250|Rural|
+95838|Las Pochotas|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8257|Rural|
+95838|Nayo Carballo|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8282|Rural|
+95838|Tamoanchan Totlalli|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8341|Rural|
+95839|Alonso Lázaro|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8099|Rural|
+95839|El Mirador (San Marquitos)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8175|Rural|
+95839|La Esmeralda (El Trapiche)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8236|Rural|
+95839|Laguna la Lagartera|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8253|Rural|
+95839|Los Jarochos|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8267|Rural|
+95839|Narciso Victorino Marrero (Palo Herrado)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8281|Rural|
+95839|Paso del Amate|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8290|Rural|
+95839|Tagala (Yuyu)|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8339|Rural|
+95839|Tlapacoyan|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3560|Rural|
+95839|El Espinal|Pueblo|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||28|143|3565|Rural|
+95839|Cedral|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8121|Rural|
+95839|Cerro de los Vázquez|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8126|Rural|
+95839|El Cerro|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8161|Rural|
+95839|El Espinalito (Puente el Espinal)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8167|Rural|
+95839|El Transbordador|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8196|Rural|
+95839|Gregorio González|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8214|Rural|
+95839|San Pablo|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8327|Rural|
+95839|Tres Zapotes Dos B|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8357|Rural|
+95839|Chicozapotal|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8133|Rural|
+95839|La Florida|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8238|Rural|
+95839|Tres Zapotes Dos a (Palo Herrado)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8356|Rural|
+95839|Arroyo San Isidro|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8107|Rural|
+95839|Boca de Tecomate|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8116|Rural|
+95839|Cerro Azul|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8122|Rural|
+95839|La Comisión|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8231|Rural|
+95839|Tres Zapotes Uno|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8358|Rural|
+95839|Vigía Corona|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8362|Rural|
+95839|Villa Rica|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8363|Rural|
+95839|3 Zapotes|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|3566|Rural|
+95839|Cobata|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8139|Rural|
+95839|El Moral|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8176|Rural|
+95839|El Predio de los Ixhuápam|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8186|Rural|
+95839|Tlapacoyan de Abajo|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8351|Rural|
+95839|Arroyo Grande|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8104|Rural|
+95839|Bella Vista|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8115|Rural|
+95839|El Sitio|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8192|Rural|
+95839|Emiliano Zapata|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8206|Rural|
+95839|Rodolfo Martínez|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8310|Rural|
+95839|Ampliación Cobata (Vigía Ladera)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8101|Rural|
+95839|Hueyapan de Mimendi (Salto de Islaba)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8219|Rural|
+95839|Licenciado Ángel Carvajal (Providencia II)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8259|Rural|
+95839|Cerro Blanco|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8123|Rural|
+95839|Cerro del Cubilete|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8127|Rural|
+95839|El Charrito|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8162|Rural|
+95839|El Ciruelo|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8164|Rural|
+95839|Hidalgo (Salto de los Islaba Dos)|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8218|Rural|
+95839|Los Xolos|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8273|Rural|
+95839|Olapa|Ranchería|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||29|143|8285|Rural|
+95839|San Marquitos|Poblado comunal|Santiago Tuxtla|Veracruz de Ignacio de la Llave||95831|30|95831||27|143|8323|Rural|

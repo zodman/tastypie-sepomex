@@ -1,0 +1,89 @@
+40900|La Capilla|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1357|Semiurbano|25
+40900|Las Tunas|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1436|Semiurbano|25
+40900|El Corte|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|3858|Semiurbano|25
+40900|Francisco I Madero|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1311|Semiurbano|25
+40900|Ramos|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1571|Semiurbano|25
+40900|Vicente Guerrero|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1715|Semiurbano|25
+40900|Tecpan de Galeana Centro|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1142|Semiurbano|25
+40900|Del PRI|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1204|Semiurbano|25
+40900|El Tepetate|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1286|Semiurbano|25
+40900|Ajuquiac|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|3859|Semiurbano|25
+40900|Caballero Aburto|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|3860|Semiurbano|25
+40900|El Cerrito|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1246|Semiurbano|25
+40900|El Tanque|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1284|Semiurbano|25
+40900|La Lagunilla|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1377|Semiurbano|25
+40900|Lindavista|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1456|Semiurbano|25
+40900|Manuel Doblado|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1483|Semiurbano|25
+40900|El Paracatal|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1265|Semiurbano|25
+40900|Emiliano Zapata|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1296|Semiurbano|25
+40900|Jesús María|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1349|Semiurbano|25
+40900|El Panteón|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|3857|Semiurbano|25
+40900|Loma Bonita|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|4235|Semiurbano|25
+40900|El Capire|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1243|Semiurbano|25
+40900|Revolución|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1575|Semiurbano|25
+40900|Vista Hermosa|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|3861|Semiurbano|25
+40900|Hermenegildo Galeana|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1322|Semiurbano|25
+40900|El Fortín|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|1259|Semiurbano|25
+40900|Manuel Abarca|Colonia|Técpan de Galeana|Guerrero|Técpan de Galeana|40901|12|40901||09|057|3862|Semiurbano|25
+40902|Tetitlán|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2787|Rural|
+40902|El Cerrito|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2782|Rural|
+40902|Achotla|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2781|Rural|
+40903|Villa Rotaria|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2789|Rural|
+40903|Tenexpa|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2788|Rural|
+40904|La Gloria|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2795|Rural|
+40904|Llanos de Navarrete|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2798|Rural|
+40904|La Zarza|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2791|Rural|
+40904|El Alto|Colonia|Técpan de Galeana|Guerrero||40901|12|40901||09|057|3869|Semiurbano|
+40904|El Carrizal|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2790|Rural|
+40904|Nuxco|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2792|Rural|
+40904|Ojo de Agua|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2793|Rural|
+40904|El Chilcahuite|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2794|Rural|
+40904|Los Tarros|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2797|Rural|
+40905|Tepetate|Colonia|Técpan de Galeana|Guerrero|San Luis San Pedro|40901|12|40901||09|057|1677|Rural|23
+40905|El Bajo|Colonia|Técpan de Galeana|Guerrero|San Luis San Pedro|40901|12|40901||09|057|3868|Rural|23
+40905|Reforma|Colonia|Técpan de Galeana|Guerrero|San Luis San Pedro|40901|12|40901||09|057|1573|Rural|23
+40905|San Luis San Pedro|Pueblo|Técpan de Galeana|Guerrero|San Luis San Pedro|40901|12|40901||28|057|2800|Rural|23
+40906|Vista Hermosa|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|1734|Rural|20
+40906|Hermenegildo Galeana|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|3854|Rural|20
+40906|El Panteón|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|3855|Rural|20
+40906|Ciudad Perdida|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|3856|Rural|20
+40906|Chincharrosa|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|1196|Rural|20
+40906|Guadalupe|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|1318|Rural|20
+40906|Cuauhtémoc|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|1186|Rural|20
+40906|San Luis de La Loma Centro|Colonia|Técpan de Galeana|Guerrero|San Luis de la Loma|40901|12|40901||09|057|2801|Rural|20
+40908|El Limón|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2809|Rural|
+40908|Rodesia|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2810|Rural|
+40909|El Porvenir|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2813|Rural|
+40909|Los Cimientos|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2796|Rural|
+40909|Puerto Escondido|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2807|Rural|
+40909|El Tamarindo|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2804|Rural|
+40909|El Trapiche|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2814|Rural|
+40909|Consuelito|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2802|Rural|
+40909|Rayo Verde|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2808|Rural|
+40909|Bajos del Balzamar|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2811|Rural|
+40909|El Cobano|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2812|Rural|
+40909|El Cayaquito|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2803|Rural|
+40909|Estero Colorado|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2805|Rural|
+40912|Palo de Arco|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2799|Rural|
+40912|Las Mesas|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2818|Rural|
+40912|La Llave|Campamento|Técpan de Galeana|Guerrero||40901|12|40901||04|057|2817|Rural|
+40912|Los Camarones|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2819|Rural|
+40912|Guayabillo|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2816|Rural|
+40913|20 de Noviembre|Colonia|Técpan de Galeana|Guerrero||40901|12|40901||09|057|2821|Rural|
+40914|Rancho Alegre del Llano|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2824|Rural|
+40914|Papanoa|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2806|Rural|
+40914|La Palma|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2822|Rural|
+40914|Los Laureles|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2823|Rural|
+40915|Santa Lucía|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2825|Rural|
+40919|La Sombra|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2827|Rural|
+40920|Las Parotas|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2829|Rural|
+40920|Los Letrados|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2830|Rural|
+40920|La Hacienda|Hacienda|Técpan de Galeana|Guerrero||40901|12|40901||24|057|2828|Rural|
+40922|Potrero de Carlos|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2785|Rural|
+40922|Santa María|Campamento|Técpan de Galeana|Guerrero||40901|12|40901||04|057|2786|Rural|
+40922|El Suchil|Pueblo|Técpan de Galeana|Guerrero||40901|12|40901||28|057|2784|Rural|
+40922|Diana Laura|Colonia|Técpan de Galeana|Guerrero||40901|12|40901||09|057|4076|Rural|
+40928|Vuelta del Barco|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2831|Rural|
+40929|El Cuajilote|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2832|Rural|
+40929|La Soledad|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2833|Rural|
+40929|Las Barrancas|Ranchería|Técpan de Galeana|Guerrero||40901|12|40901||29|057|2834|Rural|

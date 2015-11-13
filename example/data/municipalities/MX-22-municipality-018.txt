@@ -1,0 +1,94 @@
+76600|Tolimán|Pueblo|Tolimán|Querétaro||76601|22|76601||28|018|0540|Rural|
+76600|La Loma|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|1044|Urbano|
+76605|San Pedro de los Eucaliptos|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0062|Urbano|
+76605|Casas Viejas|Barrio|Tolimán|Querétaro||76601|22|76601||02|018|0544|Rural|
+76610|El Pedregal|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0002|Rural|
+76610|La Presita|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0001|Rural|
+76610|Ciprés|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0003|Rural|
+76610|El Tule|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0004|Rural|
+76613|Casa Blanca|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0542|Rural|
+76613|El Shaminal|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0006|Rural|
+76613|La Vibora|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0005|Rural|
+76613|Los González|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0007|Rural|
+76614|Los Rincones (San Pedro de los Eucaliptos)|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0008|Rural|
+76615|La Cañada|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0011|Rural|
+76615|Los Rincones (Casas Viejas)|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0012|Rural|
+76615|Barrio de Casas Viejas|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0010|Rural|
+76615|Rancho Viejo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0013|Rural|
+76615|Rancho de Guadalupe|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0009|Rural|
+76616|Corralitos|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0014|Rural|
+76616|Derramadero|Congregación|Tolimán|Querétaro||76601|22|76601||11|018|0546|Rural|
+76617|Maguey Manso|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0015|Rural|
+76617|Mesa de Ramírez|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0543|Rural|
+76617|El Saucito|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0016|Rural|
+76617|El Madroño|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0017|Rural|
+76618|Laguna de Álvarez|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0021|Rural|
+76618|Mesa de Chagoya|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0022|Rural|
+76618|Bomintzá|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0018|Rural|
+76618|Puerto Blanco|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0023|Rural|
+76618|Loma de Casa Blanca|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0019|Rural|
+76618|El Puertecito (Zapote de los Uribe)|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0020|Rural|
+76620|Carrizalillo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0547|Rural|
+76623|La Tinaja|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0026|Rural|
+76623|Adjuntillas|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0024|Rural|
+76623|Tuna Manza|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0025|Rural|
+76623|La Vereda|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0548|Rural|
+76623|Manantial|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|2206|Rural|
+76624|Las Cuatas|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0030|Rural|
+76624|El Puerto del Álamo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0029|Rural|
+76624|El Chilar|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0027|Rural|
+76624|Las Crucitas|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0028|Rural|
+76626|El Jabalí|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0032|Rural|
+76626|La Matamba Uno|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0031|Rural|
+76626|Ronquillo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0034|Rural|
+76626|La Matamba Dos|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0033|Rural|
+76626|Las Moras|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0035|Rural|
+76627|García|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0036|Rural|
+76627|Zapote de los Uribe (El Zapote)|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0038|Rural|
+76627|Bermejo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0037|Rural|
+76628|La Redonda|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0039|Rural|
+76630|La Peña|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0041|Rural|
+76630|Diezmero|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0043|Rural|
+76630|San Miguel|Pueblo|Tolimán|Querétaro||76601|22|76601||28|018|0550|Rural|
+76630|Don Lucas|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0040|Rural|
+76630|La Cebolleta|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0042|Rural|
+76631|El Tequesquite|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0551|Rural|
+76632|Longo|Barrio|Tolimán|Querétaro||76601|22|76601||02|018|0046|Rural|
+76632|Nueva el Granjeno|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0045|Rural|
+76632|Peña Blanca|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0047|Rural|
+76632|Tierra Volteada|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|1256|Rural|
+76632|El Molino|Barrio|Tolimán|Querétaro||76601|22|76601||02|018|0552|Rural|
+76632|Granjeno|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0044|Rural|
+76632|Linda Vista|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0048|Rural|
+76633|El Cerrito Parado|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0049|Rural|
+76633|El Terremote|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0050|Rural|
+76633|El Mezquite|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0051|Rural|
+76633|Familia Dimas|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0052|Rural|
+76633|La Cuchara|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0053|Rural|
+76633|Sabino de San Ambrosio|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0553|Rural|
+76634|La Estancia|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0054|Rural|
+76634|La Puerta|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0055|Rural|
+76634|Nogales|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0056|Rural|
+76634|Gudinos|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0554|Rural|
+76636|La Loma|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0057|Rural|
+76636|Horno de Cal|Barrio|Tolimán|Querétaro||76601|22|76601||02|018|0545|Rural|
+76637|Panales|Congregación|Tolimán|Querétaro||76601|22|76601||11|018|0555|Rural|
+76637|Lindero|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0058|Rural|
+76637|De García|Barrio|Tolimán|Querétaro||76601|22|76601||02|018|2504|Rural|
+76640|El Pueblito|Barrio|Tolimán|Querétaro||76601|22|76601||02|018|0556|Urbano|
+76640|Centro|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0557|Urbano|
+76640|El Rincón|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|2200|Rural|
+76643|Lomas Bonitas|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0068|Urbano|
+76643|La Villita|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0066|Urbano|
+76643|Campesina|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0069|Urbano|
+76643|San Pablo (San Pablo Tolimán)|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0067|Urbano|
+76644|Manantial Chalmita|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0065|Urbano|
+76644|Los Roque|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0064|Urbano|
+76644|El Cerrito|Colonia|Tolimán|Querétaro||76601|22|76601||09|018|0063|Urbano|
+76646|El Terrero|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0558|Urbano|
+76646|El Zapote|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|2226|Urbano|
+76646|La Campesina|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0059|Rural|
+76646|Rancho Nuevo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0060|Urbano|
+76646|El Patol|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|2225|Urbano|
+76647|Rancho el Cedazo|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0061|Rural|
+76649|San Antonio de la Cal|Ranchería|Tolimán|Querétaro||76601|22|76601||29|018|0559|Rural|

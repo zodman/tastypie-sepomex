@@ -1,0 +1,49 @@
+61290|Senguio|Pueblo|Senguio|Michoacán de Ocampo||61251|16|61251||28|080|2309|Urbano|
+61292|El Calabozo Primera Fracción|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|2307|Rural|
+61292|José María Morelos (Manzana Guadalupe)|Ejido|Senguio|Michoacán de Ocampo||61251|16|61251||15|080|2312|Rural|
+61292|San Pedro|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0032|Rural|
+61292|Ex-Hacienda de Soto|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|2311|Rural|
+61292|San Antonio Primera Fracción|Hacienda|Senguio|Michoacán de Ocampo||61251|16|61251||24|080|2315|Rural|
+61292|San José Soto|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0031|Rural|
+61292|Los Sauces|Ejido|Senguio|Michoacán de Ocampo||61251|16|61251||15|080|2313|Rural|
+61292|Cachivi|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0002|Rural|
+61292|Guadalupe Carindapaz|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0017|Rural|
+61292|El Puerto|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0012|Rural|
+61292|Manzana de Carindapaz Uno|Ejido|Senguio|Michoacán de Ocampo||61251|16|61251||15|080|2314|Rural|
+61292|El Calabozo Segunda Fracción|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0010|Rural|
+61293|Milpillas|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0028|Rural|
+61293|Tupátaro|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|2310|Rural|
+61293|Cerro del Tecomate|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0005|Rural|
+61293|Cuartel Tercero (Tupátaro)|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0008|Rural|
+61293|Segunda Manzana de Chincua|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0034|Rural|
+61293|El Cuartel Quinto (Colegio del Cuartel)|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0037|Rural|
+61293|El Calabocito|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0009|Rural|
+61293|El Huérfano (Emiliano Zapata)|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0011|Rural|
+61294|Chamangareo|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0007|Rural|
+61294|Los Membrillos|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0027|Rural|
+61294|Las Camelinas|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0023|Rural|
+61294|Cambaye|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0003|Rural|
+61294|Hacienda de San Antonio (Segunada de San Antonio)|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0018|Rural|
+61294|La Torre|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0022|Rural|
+61295|El Salitrillo|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0013|Rural|
+61295|La Lagunita|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0020|Rural|
+61295|Las Polvillas|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0025|Rural|
+61295|Las Cruces|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0024|Rural|
+61295|Peña Blanca|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0029|Rural|
+61295|Santa Ana|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0033|Rural|
+61295|Los Ailes (Río de los Ailes)|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0026|Rural|
+61295|Rosa Azul|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0030|Rural|
+61295|El Tejocote|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0014|Rural|
+61295|La Capilla de Ocotlán|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0019|Rural|
+61295|La Loma|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0021|Rural|
+61295|Pichardo Peña Blanca|Pueblo|Senguio|Michoacán de Ocampo||61251|16|61251||28|080|4037|Rural|
+61295|Chincua (Emiliano Zapata)|Colonia|Senguio|Michoacán de Ocampo||61251|16|61251||09|080|2316|Rural|
+61296|Tarimoro|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0035|Rural|
+61296|Guadalupe (Rancho de Guadalupe)|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0016|Rural|
+61296|San Nicolás Tarimoro|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|2308|Rural|
+61297|Emiliano Zapata (La Cuajada)|Ranchería|Senguio|Michoacán de Ocampo||61251|16|61251||29|080|0015|Rural|
+61297|Tarimoro Villamar|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0036|Rural|
+61297|San Juan Huerta|Ejido|Senguio|Michoacán de Ocampo||61251|16|61251||15|080|2317|Rural|
+61297|Canedo|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0004|Rural|
+61297|Cerro Pelón|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0006|Rural|
+61297|Acebuches|Rancho|Senguio|Michoacán de Ocampo||61251|16|61251||48|080|0001|Rural|
