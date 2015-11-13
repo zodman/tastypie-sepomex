@@ -17,4 +17,4 @@ class Command(BaseCommand):
                 for index, state in enumerate(reader)
             ]
             MXEstado.objects.bulk_create(mxstates)
-        print 'mxstates created!'
+        print u'{} Estados creados!'.format(len(mxstates))

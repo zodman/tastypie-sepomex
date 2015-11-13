@@ -27,7 +27,7 @@ from django.db import models
 
 class MXEstado(models.Model):
     nombre = models.CharField(max_length=200)
-    abbr = models.CharField(max_length=5, null=True, unique=True)
+    abbr = models.CharField(max_length=6, null=True, unique=True)
 
     class Meta:
         unique_together = ('nombre', 'abbr')
@@ -52,13 +52,11 @@ class MXMunicipio(models.Model):
 class MXAsentamiento(models.Model):
     nombre = models.CharField(max_length=200)
 
-    mx_municipio = models.ForeignKey(MXMunicipio)
+    mx_municipio = models.ForeignKey(MXMunicipio, related_name='municipio')
     tipo_asentamiento = models.CharField(max_length=100)
     zona = models.CharField(max_length=100)
-    cp = models.CharField(max_length=5, unique=True, null=True)
+    cp = models.CharField(max_length=5, null=True)
 
-    class Meta:
-        unique_together = ('mx_municipio', 'cp', 'nombre')
 
     def __unicode__(self):
         return self.nombre
