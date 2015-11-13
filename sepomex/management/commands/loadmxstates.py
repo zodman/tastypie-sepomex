@@ -13,7 +13,8 @@ class Command(BaseCommand):
         with open('data/sepomex_mx_states.txt') as mxstates_file:
             reader = csv.reader(mxstates_file, delimiter='|')
             mxstates = [
-                MXEstado(abbr=state[1], nombre=state[0]) for state in reader
+                MXEstado(id=index+1, abbr=state[1], nombre=state[0])
+                for index, state in enumerate(reader)
             ]
             MXEstado.objects.bulk_create(mxstates)
-        print MXEstado.objects.count(), 'mxstates created!'
+        print 'mxstates created!'

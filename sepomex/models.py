@@ -38,12 +38,12 @@ class MXEstado(models.Model):
 
 class MXMunicipio(models.Model):
     nombre = models.CharField(max_length=200)
-    clave = models.CharField(max_length=10, unique=True)
+    clave = models.CharField(max_length=10)
 
     mx_estado = models.ForeignKey(MXEstado, related_name='municipios')
 
     class Meta:
-        unique_together = ('clave', 'nombre')
+        unique_together = ('clave', 'nombre', 'mx_estado')
 
     def __unicode__(self):
         return self.nombre
