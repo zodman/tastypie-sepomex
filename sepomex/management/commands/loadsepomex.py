@@ -41,4 +41,4 @@ class Command(BaseCommand):
                 MXAsentamiento.objects.bulk_create(asentamientos)
 
                 print u'{}: {} asentamientos creados'.format(
-                    municipio.nombre, len(asentamientos)))
+                    municipio.nombre, len(asentamientos))
