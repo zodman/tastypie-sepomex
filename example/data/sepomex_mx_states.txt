@@ -2,10 +2,10 @@ Aguascalientes|MX-AGU
 Baja California|MX-BCN
 Baja California Sur|MX-BCS
 Campeche|MX-CAM
-Chiapas|MX-CHP
-Chihuahua|MX-CHH
 Coahuila|MX-COA
 Colima|MX-COL
+Chiapas|MX-CHP
+Chihuahua|MX-CHH
 Distrito Federal|MX-DIF
 Durango|MX-DUR
 Guanajuato|MX-GUA

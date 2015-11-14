@@ -27,14 +27,15 @@ class Command(BaseCommand):
                 reader = csv.reader(municipalities_file, delimiter='|')
 
                 municipality = reader.next()
-                municipio = MXMunicipio.objects.filter(
-                    clave=municipality[11],
+                state = MXEstado.objects.get(id=municipality[7])
+                municipio = MXMunicipio.objects.get(
+                    clave=municipality[11], mx_estado=state,
                     nombre=municipality[3].decode('latin-1'))
 
                 asentamientos = [
                     MXAsentamiento(
                         cp=item[0], nombre=item[1], tipo_asentamiento=item[2],
-                        zona=item[13], mx_municipio=municipio[0]
+                        zona=item[13], mx_municipio=municipio
                     ) for item in reader
                 ]
 
