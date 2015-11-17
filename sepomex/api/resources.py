@@ -14,7 +14,8 @@ class EstadoResource(ModelResource):
     class Meta:
         queryset = MXEstado.objects.all()
         filtering = {
-            'id': ALL
+            'id': ALL,
+            'nombre': 'exact',
         }
 
 
