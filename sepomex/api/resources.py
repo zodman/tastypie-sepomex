@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from tastypie.resources import ModelResource
+from tastypie.resources import ModelResource, ALL, ALL_WITH_RELATIONS
 from tastypie.fields import ToManyField, ForeignKey
 from ..models import MXEstado, MXMunicipio, MXAsentamiento
 
@@ -13,22 +13,26 @@ class AsentamientoResource(ModelResource):
 class EstadoResource(ModelResource):
     class Meta:
         queryset = MXEstado.objects.all()
+        filtering = {
+            'id': ALL
+        }
 
 
 class MunicipioResource(ModelResource):
     class Meta:
         queryset = MXMunicipio.objects.all()
+        filtering = {
+            'clave': 'exact',
+        }
 
 
 class MXMunicipioResource(MunicipioResource):
-    Estado = ForeignKey(EstadoResource, 'mx_estado', null=True, full=True)
+    mx_estado = ForeignKey(EstadoResource, 'mx_estado', null=True, full=True)
     # asentamientos = ToManyField(AsentamientoResource, 'municipio', full=True)
 
     class Meta(MunicipioResource.Meta):
         allowed_methods = ['get']
-        filtering = {
-            'nombre': 'exact',
-        }
+        MunicipioResource.Meta.filtering['mx_estado'] = ALL_WITH_RELATIONS
 
 
 class MXEstadoResource(EstadoResource):
@@ -43,5 +47,7 @@ class MXAsentamientoResource(AsentamientoResource):
     class Meta(AsentamientoResource.Meta):
         allowed_methods = ['get']
         filtering = {
-            'cp': 'exact'
+            'cp': 'exact',
+            'tipo_asentamiento': 'iexact',
+            'municipio': ALL_WITH_RELATIONS
         }

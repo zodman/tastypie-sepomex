@@ -10,11 +10,12 @@ class Command(BaseCommand):
     help = 'Load states objects from csv file'
 
     def handle(self, *args, **options):
+        MXEstado.objects.all().delete()
         with open('data/sepomex_mx_states.txt') as mxstates_file:
             reader = csv.reader(mxstates_file, delimiter='|')
             mxstates = [
-                MXEstado(id=index+1, abbr=state[1], nombre=state[0])
-                for index, state in enumerate(reader)
+                MXEstado(id=state[0], abbr=state[2], nombre=state[1])
+                for state in reader
             ]
             MXEstado.objects.bulk_create(mxstates)
         print u'{} Estados creados!'.format(len(mxstates))
