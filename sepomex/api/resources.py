@@ -7,7 +7,7 @@ from ..models import MXEstado, MXMunicipio, MXAsentamiento
 
 class AsentamientoResource(ModelResource):
     class Meta:
-        queryset = MXAsentamiento.objects.all()
+        queryset = MXAsentamiento.objects.all().order_by('nombre')
 
 
 class EstadoResource(ModelResource):
@@ -24,6 +24,7 @@ class MunicipioResource(ModelResource):
         queryset = MXMunicipio.objects.all()
         filtering = {
             'clave': 'exact',
+            'nombre': 'exact',
         }
 
 
