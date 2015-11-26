@@ -12,7 +12,7 @@ class AsentamientoResource(ModelResource):
 
 class EstadoResource(ModelResource):
     class Meta:
-        queryset = MXEstado.objects.all()
+        queryset = MXEstado.objects.all().order_by('nombre')
         filtering = {
             'id': ALL,
             'nombre': 'exact',
@@ -21,7 +21,7 @@ class EstadoResource(ModelResource):
 
 class MunicipioResource(ModelResource):
     class Meta:
-        queryset = MXMunicipio.objects.all()
+        queryset = MXMunicipio.objects.all().order_by('nombre')
         filtering = {
             'clave': 'exact',
             'nombre': 'exact',
