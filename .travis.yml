@@ -1,0 +1,21 @@
+language: python
+python: 3.5
+install:
+  - pip install tox
+script:
+  - tox
+env:
+  # Django 1.7
+  - TOXENV=py27-django1.7
+  - TOXENV=py32-django1.7
+  - TOXENV=py33-django1.7
+  - TOXENV=py34-django1.7
+  # Django 1.8
+  - TOXENV=py27-django1.8
+  - TOXENV=py32-django1.8
+  - TOXENV=py33-django1.8
+  - TOXENV=py34-django1.8
+  # Django 1.9
+  - TOXENV=py27-django1.9
+  - TOXENV=py34-django1.9
+  - TOXENV=py35-django1.9
