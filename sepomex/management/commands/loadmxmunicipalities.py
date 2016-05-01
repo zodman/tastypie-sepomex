@@ -4,7 +4,9 @@ import csv
 import glob
 
 from django.core.management.base import BaseCommand
+
 from sepomex.models import MXEstado, MXMunicipio
+from sepomex.settings import FIELDNAMES
 
 
 files = glob.glob('data/municipalities/*txt')
@@ -14,14 +16,17 @@ class Command(BaseCommand):
         municipalities = []
         for name in files:
             with open(name) as municipalities_file:
-                reader = csv.reader(municipalities_file, delimiter='|')
-
+                reader = csv.DictReader(municipalities_file,
+                                        delimiter='|',
+                                        fieldnames=FIELDNAMES)
                 municipality = reader.next()
-                state = MXEstado.objects.get(id=municipality[7])
+                state = MXEstado.objects.get(id=municipality['c_estado'])
 
                 municipalities.append(
-                    MXMunicipio(nombre=municipality[3].decode('latin-1'),
-                                clave=municipality[11], mx_estado=state)
+                    MXMunicipio(nombre=municipality['D_mnpio'].decode('latin-1'),
+                        clave=municipality['c_mnpio'],
+                        mx_estado=state
+                    )
                 )
 
         MXMunicipio.objects.bulk_create(municipalities)

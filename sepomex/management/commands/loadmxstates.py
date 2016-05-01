@@ -12,9 +12,11 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         MXEstado.objects.all().delete()
         with open('data/sepomex_mx_states.txt') as mxstates_file:
-            reader = csv.reader(mxstates_file, delimiter='|')
+            reader = csv.DictReader(mxstates_file,
+                                    delimiter='|',
+                                    fieldnames=['id', 'name', 'abbr'])
             mxstates = [
-                MXEstado(id=state[0], abbr=state[2], nombre=state[1])
+                MXEstado(id=state['id'], abbr=state['abbr'], nombre=state['name'])
                 for state in reader
             ]
             MXEstado.objects.bulk_create(mxstates)
