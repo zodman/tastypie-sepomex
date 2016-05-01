@@ -1,8 +1,0 @@
-74870|Quicayan|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1916|Rural|
-74870|Independencia|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1915|Rural|
-74870|Tecomatlán|Pueblo|Tecomatlán|Puebla||74881|21|74881||28|155|1917|Rural|
-74872|Mixquiapan|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1918|Rural|
-74874|La Unión|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1920|Rural|
-74874|El Tempexquixtle|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1919|Rural|
-74875|Olamatlan|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1921|Rural|
-74876|San Miguel de Lozano|Ranchería|Tecomatlán|Puebla||74881|21|74881||29|155|1922|Rural|

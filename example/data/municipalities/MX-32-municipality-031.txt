@@ -1,9 +1,0 @@
-99400|Las Mesitas|Colonia|Monte Escobedo|Zacatecas||99401|32|99401||09|031|1209|Rural|
-99400|La Palma|Colonia|Monte Escobedo|Zacatecas||99401|32|99401||09|031|0003|Rural|
-99400|Monte Escobedo Centro|Colonia|Monte Escobedo|Zacatecas||99401|32|99401||09|031|0612|Rural|
-99400|La Loma (Manuel M. Ponce)|Colonia|Monte Escobedo|Zacatecas||99401|32|99401||09|031|1211|Rural|
-99403|San Antonio de Abajo|Ranchería|Monte Escobedo|Zacatecas||99401|32|99401||29|031|0002|Rural|
-99410|Adjuntas Del Refugio|Ranchería|Monte Escobedo|Zacatecas||99251|32|99251||29|031|0614|Rural|
-99420|Laguna Grande|Pueblo|Monte Escobedo|Zacatecas||99401|32|99401||28|031|0615|Rural|
-99430|Maria de La Torre|Ranchería|Monte Escobedo|Zacatecas||46261|32|46261||29|031|0617|Rural|
-99436|Berrendos|Rancho|Monte Escobedo|Zacatecas||99401|32|99401||48|031|0001|Rural|

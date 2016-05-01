@@ -1,7 +1,0 @@
-95450|Dos Bocas|Congregación|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||11|012|3350|Rural|
-95450|El Corte|Congregación|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||11|012|3351|Rural|
-95450|Amatitlán|Pueblo|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||28|012|3349|Rural|
-95454|San Jose Papaloapan|Congregación|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||11|012|3353|Rural|
-95456|Rancho Nuevo (Los Cerros)|Ranchería|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||29|012|5548|Urbano|
-95458|Juan de la Luz Enríquez (Los Tenates)|Ranchería|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||29|012|0001|Rural|
-95458|Zacapexco|Pueblo|Amatitlán|Veracruz de Ignacio de la Llave||95451|30|95451||28|012|5547|Urbano|

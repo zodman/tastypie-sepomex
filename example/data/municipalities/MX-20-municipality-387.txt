@@ -1,6 +1,0 @@
-71340|La Noria|Barrio|Santa Gertrudis|Oaxaca||71201|20|71201||02|387|0003|Urbano|
-71340|Santa Gertrudis|Pueblo|Santa Gertrudis|Oaxaca||71201|20|71201||28|387|2831|Rural|
-71340|Del Panteón|Barrio|Santa Gertrudis|Oaxaca||71201|20|71201||02|387|0002|Urbano|
-71340|De la Esmeralda|Barrio|Santa Gertrudis|Oaxaca||71201|20|71201||02|387|0001|Urbano|
-71343|San José Guelatová de Díaz|Pueblo|Santa Gertrudis|Oaxaca||71201|20|71201||28|387|2832|Rural|
-71343|La Barda Paso de Piedras|Ranchería|Santa Gertrudis|Oaxaca||71201|20|71201||29|387|4777|Rural|

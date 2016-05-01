@@ -1,4 +1,0 @@
-90480|San José|Barrio|Tocatlán|Tlaxcala||90461|29|90461||02|035|1006|Rural|
-90480|Santa María Tocatlán|Pueblo|Tocatlán|Tlaxcala||90461|29|90461||28|035|0250|Rural|
-90482|Venustiano Carranza|Colonia|Tocatlán|Tlaxcala||90461|29|90461||09|035|0251|Urbano|
-90484|Acocotla|Pueblo|Tocatlán|Tlaxcala||90461|29|90461||28|035|0252|Rural|

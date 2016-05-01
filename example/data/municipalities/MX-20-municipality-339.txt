@@ -1,6 +1,0 @@
-69500|San Francisco|Barrio|San Pedro y San Pablo Teposcolula|Oaxaca||69505|20|69505||02|339|1250|Rural|
-69500|San Pedro y San Pablo Teposcolula|Pueblo|San Pedro y San Pablo Teposcolula|Oaxaca||69505|20|69505||28|339|1612|Rural|
-69501|Guadalupe Vista Hermosa|Ranchería|San Pedro y San Pablo Teposcolula|Oaxaca||69801|20|69801||29|339|1614|Rural|
-69502|San Miguel Tixa|Ranchería|San Pedro y San Pablo Teposcolula|Oaxaca||69801|20|69801||29|339|1615|Rural|
-69503|San Felipe Ixtapa|Ranchería|San Pedro y San Pablo Teposcolula|Oaxaca||69801|20|69801||29|339|1616|Rural|
-69504|Santo Tomas Tecolotitlan|Pueblo|San Pedro y San Pablo Teposcolula|Oaxaca||69801|20|69801||28|339|1617|Rural|

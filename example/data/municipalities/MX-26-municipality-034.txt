@@ -1,6 +1,0 @@
-84860|Huépac|Pueblo|Huépac|Sonora||84861|26|84861||28|034|0815|Rural|
-84863|Porvenir|Colonia|Huépac|Sonora||84861|26|84861||09|034|0002|Urbano|
-84864|Sur|Colonia|Huépac|Sonora||84861|26|84861||09|034|0003|Urbano|
-84865|Norte|Colonia|Huépac|Sonora||84861|26|84861||09|034|0001|Urbano|
-84874|Ojo de Agua de Huépac|Congregación|Huépac|Sonora||84861|26|84861||11|034|0817|Rural|
-84874|Ranchito de Huépac|Congregación|Huépac|Sonora||84861|26|84861||11|034|0818|Rural|

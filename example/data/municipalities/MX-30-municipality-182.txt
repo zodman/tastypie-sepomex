@@ -1,7 +1,0 @@
-91230|20 de Noviembre|Colonia|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||09|182|7236|Rural|
-91230|Tlalnelhuayocan|Pueblo|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||28|182|0180|Rural|
-91230|Otilpan|Pueblo|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||28|182|0179|Rural|
-91231|San Antonio|Pueblo|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||28|182|0181|Rural|
-91233|Ejidal|Colonia|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||09|182|5992|Urbano|
-91233|Loma Bonita|Colonia|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||09|182|6015|Urbano|
-91233|Santa Cecilia|Colonia|Tlalnelhuayocan|Veracruz de Ignacio de la Llave||91002|30|91002||09|182|7353|Urbano|

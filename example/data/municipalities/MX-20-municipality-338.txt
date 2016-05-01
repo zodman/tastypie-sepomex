@@ -1,8 +1,0 @@
-68200|Santo Domingo|Fraccionamiento|Villa de Etla|Oaxaca||68202|20|68202||21|338|3915|Rural|
-68200|Santo Domingo Barrio Alto|Pueblo|Villa de Etla|Oaxaca||68202|20|68202||28|338|4222|Rural|
-68200|Solidaridad|Colonia|Villa de Etla|Oaxaca||68202|20|68202||09|338|0002|Urbano|
-68200|Santo Domingo Barrio Bajo|Ranchería|Villa de Etla|Oaxaca||68202|20|68202||29|338|0199|Rural|
-68200|Benito Juárez|Colonia|Villa de Etla|Oaxaca||68202|20|68202||09|338|0001|Urbano|
-68200|Villa de Etla|Villa|Villa de Etla|Oaxaca||68202|20|68202||32|338|0200|Rural|
-68200|San José|Colonia|Villa de Etla|Oaxaca||68202|20|68202||09|338|4952|Urbano|
-68200|Nativitas Etla|Pueblo|Villa de Etla|Oaxaca||68202|20|68202||28|338|4225|Rural|

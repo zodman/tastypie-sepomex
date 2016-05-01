@@ -1,7 +1,0 @@
-98980|La Ballena|Ranchería|Villa Hidalgo|Zacatecas||98923|32|98923||29|054|0424|Rural|
-98980|San Agustin|Ranchería|Villa Hidalgo|Zacatecas||98923|32|98923||29|054|0425|Rural|
-98986|Refugio|Ranchería|Villa Hidalgo|Zacatecas||98991|32|98991||29|054|0428|Rural|
-98988|Purísima Del Rocio O El Rocio|Ranchería|Villa Hidalgo|Zacatecas||98991|32|98991||29|054|0427|Rural|
-98990|Villa Hidalgo Centro|Colonia|Villa Hidalgo|Zacatecas|Villa Hidalgo|98991|32|98991||09|054|0426|Urbano|08
-98994|Francisco E. García|Colonia|Villa Hidalgo|Zacatecas|Villa Hidalgo|98991|32|98991||09|054|0893|Urbano|08
-98995|Nueva|Colonia|Villa Hidalgo|Zacatecas|Villa Hidalgo|98991|32|98991||09|054|0892|Urbano|08

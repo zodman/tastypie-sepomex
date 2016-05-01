@@ -1,8 +1,0 @@
-96160|Tenejapa|Pueblo|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||28|116|3746|Rural|
-96160|Oluta|Pueblo|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||28|116|3745|Rural|
-96164|Los Laureles|Colonia|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||09|116|0004|Rural|
-96165|Ojapa|Pueblo|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||28|116|3748|Rural|
-96166|Los Amigos [Granja Avícola]|Rancho|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||48|116|0002|Rural|
-96166|San Judas Tadeo|Colonia|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||09|116|0001|Rural|
-96166|El Campero|Rancho|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||48|116|0003|Rural|
-96169|Correa|Ranchería|Oluta|Veracruz de Ignacio de la Llave||96001|30|96001||29|116|3749|Rural|

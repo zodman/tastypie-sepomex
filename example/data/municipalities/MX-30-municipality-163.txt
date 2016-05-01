@@ -1,7 +1,0 @@
-93780|El Colorado|Ejido|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||15|163|2547|Rural|
-93780|Tenochtitlán|Pueblo|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||28|163|2548|Rural|
-93783|Tetlepanquetzalt|Ranchería|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||29|163|0003|Rural|
-93783|Trojillas|Ranchería|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||29|163|0004|Rural|
-93787|La Cañada|Ranchería|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||29|163|0002|Rural|
-93789|Hidalgotitlán|Rancho|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||48|163|0001|Rural|
-93790|Gutiérrez Zamora|Pueblo|Tenochtitlán|Veracruz de Ignacio de la Llave||93821|30|93821||28|163|2549|Rural|

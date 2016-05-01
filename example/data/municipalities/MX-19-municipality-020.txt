@@ -1,9 +1,0 @@
-67000|Tijerina|Colonia|General Bravo|Nuevo León||67051|19|67051||09|020|0003|Rural|
-67000|Gral. Bravo|Pueblo|General Bravo|Nuevo León||67051|19|67051||28|020|1500|Rural|
-67002|Las Tranquitas|Ranchería|General Bravo|Nuevo León||67051|19|67051||29|020|1501|Rural|
-67003|Las 3 Caídas|Ranchería|General Bravo|Nuevo León||67051|19|67051||29|020|1502|Rural|
-67004|Conferín Arizpe|Pueblo|General Bravo|Nuevo León||67501|19|67501||28|020|0001|Rural|
-67004|Jardínes del Bravo|Colonia|General Bravo|Nuevo León||67501|19|67501||09|020|0002|Rural|
-67010|Esquina Del Potrero|Ranchería|General Bravo|Nuevo León||67051|19|67051||29|020|1503|Rural|
-67012|Santa Teresa|Ranchería|General Bravo|Nuevo León||67051|19|67051||29|020|1504|Rural|
-67030|El Mantillo|Ranchería|General Bravo|Nuevo León||67051|19|67051||29|020|1505|Rural|

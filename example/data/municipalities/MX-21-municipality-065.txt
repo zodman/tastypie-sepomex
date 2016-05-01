@@ -1,9 +1,0 @@
-75170|San Pablo de las Tunas|Pueblo|General Felipe Ángeles|Puebla||75152|21|75152||28|065|2152|Rural|
-75171|Candelaria Portezuelo|Pueblo|General Felipe Ángeles|Puebla||75152|21|75152||28|065|2153|Rural|
-75173|San Juan Portezuelo|Barrio|General Felipe Ángeles|Puebla||75152|21|75152||02|065|7213|Rural|
-75175|Santa Úrsula Chiconquiac|Pueblo|General Felipe Ángeles|Puebla||75152|21|75152||28|065|2154|Rural|
-75176|San Antonio Portezuelo|Pueblo|General Felipe Ángeles|Puebla||75152|21|75152||28|065|2155|Rural|
-75178|San Pedro Candelaria|Barrio|General Felipe Ángeles|Puebla||75152|21|75152||02|065|7216|Rural|
-75178|Guadalupe Analco|Barrio|General Felipe Ángeles|Puebla||75152|21|75152||02|065|7214|Rural|
-75178|San José Buenavista|Barrio|General Felipe Ángeles|Puebla||75152|21|75152||02|065|7215|Rural|
-75179|Santiago Tenango de Reyes|Pueblo|General Felipe Ángeles|Puebla||75152|21|75152||28|065|2156|Rural|

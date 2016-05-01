@@ -1,7 +1,0 @@
-69300|Villa San Juan Bautista Coixtlahuaca|Villa|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||32|176|1548|Rural|
-69300|Río Blanco|Ranchería|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||29|176|1547|Rural|
-69300|La Ciénega|Ranchería|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||29|176|0001|Rural|
-69302|Río Poblano|Ranchería|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||29|176|1550|Rural|
-69304|San Jerónimo Otla|Ranchería|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||29|176|1551|Rural|
-69305|Santa Catarina Ocotlan|Ranchería|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||29|176|1552|Rural|
-69307|La Estancia|Villa|San Juan Bautista Coixtlahuaca|Oaxaca||69301|20|69301||32|176|1553|Rural|

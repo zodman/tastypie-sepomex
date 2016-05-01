@@ -1,6 +1,0 @@
-70560|Santa Maria Zapotitlan|Ranchería|Santa María Ecatepec|Oaxaca||70535|20|70535||29|410|2298|Rural|
-70561|La Reforma|Ranchería|Santa María Ecatepec|Oaxaca||70535|20|70535||29|410|2299|Rural|
-70563|San Juan Acaltepec|Congregación|Santa María Ecatepec|Oaxaca||70535|20|70535||11|410|2300|Rural|
-70565|Santa María Ecatepec|Pueblo|Santa María Ecatepec|Oaxaca||70712|20|70712||28|410|2297|Rural|
-70565|San Lorenzo Jilotepequillo|Ranchería|Santa María Ecatepec|Oaxaca||70712|20|70712||29|410|2301|Rural|
-70569|Santo Tomas Teipan|Ranchería|Santa María Ecatepec|Oaxaca||70535|20|70535||29|410|2302|Rural|

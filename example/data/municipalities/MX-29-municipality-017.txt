@@ -1,7 +1,0 @@
-90870|Primera|Barrio|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||02|017|0431|Urbano|
-90873|Cuarta|Barrio|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||02|017|0914|Urbano|
-90874|Tercera|Barrio|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||02|017|0915|Urbano|
-90875|Segunda|Barrio|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||02|017|0916|Urbano|
-90876|Ramos Muñoz Manzano|Barrio|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||02|017|0004|Rural|
-90876|San Juan Ixhualco|Barrio|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||02|017|0003|Rural|
-90877|Zacatecoma|Ranchería|Mazatecochco de José María Morelos|Tlaxcala||90792|29|90792||29|017|0001|Rural|

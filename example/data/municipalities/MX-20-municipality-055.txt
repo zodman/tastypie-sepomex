@@ -1,9 +1,0 @@
-69250|20 de Noviembre|Colonia|Mariscala de Juárez|Oaxaca|Mariscala de Juárez|69251|20|69251||09|055|3431|Rural|42
-69250|Mariscala de Juárez Centro|Colonia|Mariscala de Juárez|Oaxaca|Mariscala de Juárez|69251|20|69251||09|055|1519|Rural|42
-69252|Santa María Nieves|Congregación|Mariscala de Juárez|Oaxaca||69251|20|69251||11|055|1524|Rural|
-69252|Santa Cruz El Fraile|Ranchería|Mariscala de Juárez|Oaxaca||69251|20|69251||29|055|1520|Rural|
-69253|Guadalupe Copaltepec|Villa|Mariscala de Juárez|Oaxaca||69251|20|69251||32|055|1521|Rural|
-69253|Guadalupe La Huertilla|Ranchería|Mariscala de Juárez|Oaxaca||69251|20|69251||29|055|1522|Rural|
-69254|San Pedro Atoyac|Congregación|Mariscala de Juárez|Oaxaca||69251|20|69251||11|055|1526|Rural|
-69255|San Miguel Carrizal|Congregación|Mariscala de Juárez|Oaxaca||69251|20|69251||11|055|1527|Rural|
-69257|San Miguel Tiuxi|Congregación|Mariscala de Juárez|Oaxaca||69251|20|69251||11|055|1528|Rural|

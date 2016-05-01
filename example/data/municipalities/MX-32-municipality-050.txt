@@ -1,5 +1,0 @@
-98140|Sauceda de la Borda|Pueblo|Vetagrande|Zacatecas||98001|32|98001||28|050|0103|Urbano|
-98140|Del Puerto|Barrio|Vetagrande|Zacatecas||98001|32|98001||02|050|1654|Rural|
-98140|Vetagrande|Pueblo|Vetagrande|Zacatecas||98001|32|98001||28|050|0104|Urbano|
-98150|La Era|Ranchería|Vetagrande|Zacatecas||98601|32|98601||29|050|0106|Rural|
-98150|El Lampotal|Ranchería|Vetagrande|Zacatecas||98601|32|98601||29|050|0105|Rural|

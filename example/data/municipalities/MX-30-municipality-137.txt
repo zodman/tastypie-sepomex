@@ -1,6 +1,0 @@
-95060|Reyes|Pueblo|Los Reyes|Veracruz de Ignacio de la Llave||94301|30|94301||28|137|3194|Rural|
-95060|Tlaquetzala|Ranchería|Los Reyes|Veracruz de Ignacio de la Llave||94301|30|94301||29|137|7148|Rural|
-95061|Atlanca|Ejido|Los Reyes|Veracruz de Ignacio de la Llave||94301|30|94301||15|137|3195|Rural|
-95064|Zoquiapa|Ejido|Los Reyes|Veracruz de Ignacio de la Llave||94301|30|94301||15|137|3196|Rural|
-95065|Cuacaballo|Pueblo|Los Reyes|Veracruz de Ignacio de la Llave||94301|30|94301||28|137|0002|Rural|
-95066|Tlanestla|Rancho|Los Reyes|Veracruz de Ignacio de la Llave||94301|30|94301||48|137|0001|Rural|

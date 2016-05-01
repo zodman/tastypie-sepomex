@@ -1,6 +1,0 @@
-74390|Independencia|Pueblo|Tepeojuma|Puebla||74401|21|74401||28|166|1659|Rural|
-74390|Tepeojuma|Pueblo|Tepeojuma|Puebla||74401|21|74401||28|166|1660|Rural|
-74393|Teyuca|Pueblo|Tepeojuma|Puebla||74401|21|74401||28|166|1661|Rural|
-74394|Xoyatla|Pueblo|Tepeojuma|Puebla||74401|21|74401||28|166|1662|Rural|
-74395|El Astillero|Ranchería|Tepeojuma|Puebla||74401|21|74401||29|166|1663|Rural|
-74397|La Magdalena|Fraccionamiento|Tepeojuma|Puebla||74401|21|74401||21|166|1664|Rural|

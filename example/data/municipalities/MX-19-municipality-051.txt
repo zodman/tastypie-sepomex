@@ -1,6 +1,0 @@
-65350|Villaldama Centro|Colonia|Villaldama|Nuevo León||65151|19|65151||09|051|2643|Urbano|
-65357|Santa Fe|Hacienda|Villaldama|Nuevo León||65151|19|65151||24|051|0658|Rural|
-65386|Independencia|Barrio|Villaldama|Nuevo León||65151|19|65151||02|051|2645|Rural|
-65390|Villaldama Estación|Barrio|Villaldama|Nuevo León||65151|19|65151||02|051|0659|Rural|
-65390|El Potrero|Hacienda|Villaldama|Nuevo León||65151|19|65151||24|051|0660|Rural|
-65395|El Álamo|Estación|Villaldama|Nuevo León||65151|19|65151||16|051|0661|Rural|

@@ -1,9 +1,0 @@
-94780|Huiloapan de Cuauhtémoc Centro|Colonia|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave|Huiloapan de Cuauhtémoc|94731|30|94731||09|074|3070|Semiurbano|57
-94782|San Lorenzo|Colonia|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave|Huiloapan de Cuauhtémoc|94731|30|94731||09|074|0001|Urbano|57
-94782|Cuauhtémoc|Colonia|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave|Huiloapan de Cuauhtémoc|94731|30|94731||09|074|4950|Semiurbano|57
-94783|Emancipación Obrera|Colonia|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave|Huiloapan de Cuauhtémoc|94731|30|94731||09|074|4951|Semiurbano|57
-94790|Potrerillo|Ranchería|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave||94731|30|94731||29|074|0005|Rural|
-94793|Paredón Viejo|Poblado comunal|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave||94731|30|94731||27|074|0003|Rural|
-94793|Peña Blanca|Ranchería|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave||94731|30|94731||29|074|0004|Rural|
-94793|San Cristóbal|Poblado comunal|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave||94731|30|94731||27|074|0006|Rural|
-94794|Donato Guerra|Poblado comunal|Huiloapan de Cuauhtémoc|Veracruz de Ignacio de la Llave||94731|30|94731||27|074|0002|Rural|

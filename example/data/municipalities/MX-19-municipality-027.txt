@@ -1,7 +1,0 @@
-66850|Los Herreras|Villa|Los Herreras|Nuevo León||66851|19|66851||32|027|1481|Rural|
-66860|San Vicente|Congregación|Los Herreras|Nuevo León||66851|19|66851||11|027|1483|Rural|
-66861|Guadalupe|Hacienda|Los Herreras|Nuevo León||66851|19|66851||24|027|1484|Rural|
-66865|San Jose de La Laja|Congregación|Los Herreras|Nuevo León||66851|19|66851||11|027|1485|Rural|
-66870|Los Herreras|Estación|Los Herreras|Nuevo León||66851|19|66851||16|027|1486|Rural|
-66872|San Agustin|Congregación|Los Herreras|Nuevo León||66851|19|66851||11|027|1487|Rural|
-66880|Barretosa|Congregación|Los Herreras|Nuevo León||66851|19|66851||11|027|1488|Rural|

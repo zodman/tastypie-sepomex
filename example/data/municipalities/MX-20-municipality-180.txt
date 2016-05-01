@@ -1,9 +1,0 @@
-71620|Abajo|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3412|Rural|35
-71620|La Cruz|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3410|Rural|35
-71620|San Juan Bautista Lo de Soto Centro|Colonia|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||09|180|3026|Rural|35
-71620|Arriba|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3411|Rural|35
-71620|Secundaria|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3409|Rural|35
-71620|Limón|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3413|Rural|35
-71620|Las Flores|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3414|Rural|35
-71620|Progreso|Barrio|San Juan Bautista Lo de Soto|Oaxaca|San Juan Bautista lo de Soto|71601|20|71601||02|180|3415|Rural|35
-71624|San Pedro Orizaba|Ranchería|San Juan Bautista Lo de Soto|Oaxaca||71601|20|71601||29|180|3029|Rural|

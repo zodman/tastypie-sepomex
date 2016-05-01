@@ -1,8 +1,0 @@
-90850|Cuauhtla|Barrio|Teolocholco|Tlaxcala||90801|29|90801||02|028|0636|Rural|
-90850|Segunda|Barrio|Teolocholco|Tlaxcala||90801|29|90801||02|028|0940|Urbano|
-90850|Actipa|Barrio|Teolocholco|Tlaxcala||90801|29|90801||02|028|0637|Rural|
-90850|Santa Maria Acxotla Del Monte|Pueblo|Teolocholco|Tlaxcala||90801|29|90801||28|028|0423|Rural|
-90850|Cuaxinca|Colonia|Teolocholco|Tlaxcala||90801|29|90801||09|028|0635|Rural|
-90850|Primera|Barrio|Teolocholco|Tlaxcala||90801|29|90801||02|028|0660|Urbano|
-90850|Tercera|Barrio|Teolocholco|Tlaxcala||90801|29|90801||02|028|0941|Urbano|
-90855|El Carmen Aztama|Pueblo|Teolocholco|Tlaxcala||90801|29|90801||28|028|0424|Rural|

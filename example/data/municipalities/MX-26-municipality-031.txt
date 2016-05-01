@@ -1,8 +1,0 @@
-84400|Huachinera|Pueblo|Huachinera|Sonora||84201|26|84201||28|031|0730|Rural|
-84403|La Calera|Barrio|Huachinera|Sonora||84201|26|84201||02|031|0004|Urbano|
-84404|Cerrito El Calvario|Barrio|Huachinera|Sonora||84201|26|84201||02|031|0003|Urbano|
-84405|La Higuera|Barrio|Huachinera|Sonora||84201|26|84201||02|031|0005|Urbano|
-84406|Bacatete|Barrio|Huachinera|Sonora||84201|26|84201||02|031|0002|Urbano|
-84407|Tacuba|Barrio|Huachinera|Sonora||84201|26|84201||02|031|0006|Rural|
-84415|Juribana|Colonia|Huachinera|Sonora||84201|26|84201||09|031|0001|Rural|
-84427|Aribabi|Ejido|Huachinera|Sonora||84201|26|84201||15|031|0731|Rural|

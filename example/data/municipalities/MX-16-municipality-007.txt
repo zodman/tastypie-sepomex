@@ -1,8 +1,0 @@
-61400|Aporo|Pueblo|Aporo|Michoacán de Ocampo||61101|16|61101||28|007|2360|Urbano|
-61400|Aserradero|Colonia|Aporo|Michoacán de Ocampo||61101|16|61101||09|007|0001|Urbano|
-61402|Arroyo Seco|Ranchería|Aporo|Michoacán de Ocampo||61101|16|61101||29|007|2362|Rural|
-61403|Rincón de Soto (El Oyamel)|Ranchería|Aporo|Michoacán de Ocampo||61101|16|61101||29|007|2363|Rural|
-61404|Alvarado|Ranchería|Aporo|Michoacán de Ocampo||61101|16|61101||29|007|0002|Rural|
-61404|Martinillos Juan Pérez|Ranchería|Aporo|Michoacán de Ocampo||61101|16|61101||29|007|2361|Rural|
-61404|Zarzamora|Rancho|Aporo|Michoacán de Ocampo||61101|16|61101||48|007|0004|Rural|
-61405|Ojo de Agua|Ranchería|Aporo|Michoacán de Ocampo||61101|16|61101||29|007|0003|Rural|

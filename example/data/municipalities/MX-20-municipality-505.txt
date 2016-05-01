@@ -1,7 +1,0 @@
-70120|Ingenio Santo Domingo|Pueblo|Santo Domingo Ingenio|Oaxaca||70001|20|70001||28|505|1958|Rural|
-70121|La Blanca|Ranchería|Santo Domingo Ingenio|Oaxaca||70001|20|70001||29|505|1959|Rural|
-70123|Carnero|Ranchería|Santo Domingo Ingenio|Oaxaca||70001|20|70001||29|505|4913|Rural|
-70124|Palo Blanco|Ranchería|Santo Domingo Ingenio|Oaxaca||70001|20|70001||29|505|4836|Rural|
-70124|Cerro Iguana|Pueblo|Santo Domingo Ingenio|Oaxaca||70001|20|70001||28|505|1961|Rural|
-70124|Chapopa|Ranchería|Santo Domingo Ingenio|Oaxaca||70001|20|70001||29|505|4837|Rural|
-70124|Cazadero|Ranchería|Santo Domingo Ingenio|Oaxaca||70001|20|70001||29|505|4835|Rural|

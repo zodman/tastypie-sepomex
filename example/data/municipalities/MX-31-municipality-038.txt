@@ -1,9 +1,0 @@
-97350|Papagayos|Colonia|Hunucmá|Yucatán||97351|31|97351||09|038|0001|Urbano|
-97350|Hunucmá|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|0288|Urbano|
-97350|Paseos de Chenku|Fraccionamiento|Hunucmá|Yucatán||97351|31|97351||21|038|0645|Urbano|
-97353|Hunkanab|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|1227|Rural|
-97353|San Antonio Chel|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|1226|Rural|
-97353|Texán de Palomeque|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|0289|Rural|
-97355|San Eduardo|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|1225|Rural|
-97356|Sisal|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|0291|Rural|
-97356|Punta Paz|Pueblo|Hunucmá|Yucatán||97351|31|97351||28|038|1224|Rural|

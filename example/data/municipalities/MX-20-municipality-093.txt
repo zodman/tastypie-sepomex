@@ -1,7 +1,0 @@
-69550|Tercera Sección|Colonia|San Andrés Lagunas|Oaxaca||69511|20|69511||09|093|5024|Urbano|
-69550|San Andrés Lagunas Centro|Colonia|San Andrés Lagunas|Oaxaca||69511|20|69511||09|093|1651|Rural|
-69550|Segunda Sección|Colonia|San Andrés Lagunas|Oaxaca||69511|20|69511||09|093|5023|Urbano|
-69550|Primera Sección|Colonia|San Andrés Lagunas|Oaxaca||69511|20|69511||09|093|5022|Urbano|
-69552|La Soledad|Ranchería|San Andrés Lagunas|Oaxaca||69511|20|69511||29|093|5021|Rural|
-69553|Guadalupe Lagunas|Ranchería|San Andrés Lagunas|Oaxaca||69511|20|69511||29|093|5020|Rural|
-69555|San Isidro Lagunas|Ranchería|San Andrés Lagunas|Oaxaca||69511|20|69511||29|093|1652|Rural|

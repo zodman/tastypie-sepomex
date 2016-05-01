@@ -1,9 +1,0 @@
-30110|Felipe Ángeles|Ranchería|Tzimol|Chiapas||30001|07|30001||29|104|1065|Rural|
-30110|Nueva Libertad|Ranchería|Tzimol|Chiapas||30001|07|30001||29|104|1067|Rural|
-30110|Tzimol Centro|Colonia|Tzimol|Chiapas||30001|07|30001||09|104|1069|Rural|
-30110|Ochuxhjob|Ranchería|Tzimol|Chiapas||30001|07|30001||29|104|1068|Rural|
-30110|Héroes de Chapultepec|Ranchería|Tzimol|Chiapas||30001|07|30001||29|104|1066|Rural|
-30111|Guadalupe Victoria|Pueblo|Tzimol|Chiapas||30001|07|30001||28|104|0002|Rural|
-30111|San Vicente la Mesilla|Ejido|Tzimol|Chiapas||30001|07|30001||15|104|1070|Rural|
-30115|Doctor Manuel Velasco Suárez|Pueblo|Tzimol|Chiapas||30001|07|30001||28|104|0001|Rural|
-30116|Laguna Esquel|Ejido|Tzimol|Chiapas||30001|07|30001||15|104|5801|Rural|

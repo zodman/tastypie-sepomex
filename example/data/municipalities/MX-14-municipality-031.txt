@@ -1,7 +1,0 @@
-46300|Chimaltitán|Pueblo|Chimaltitán|Jalisco||46101|14|46101||28|031|1530|Rural|
-46305|Agua Caliente|Ranchería|Chimaltitán|Jalisco||46101|14|46101||29|031|1531|Rural|
-46310|Cocuasco|Ranchería|Chimaltitán|Jalisco||46101|14|46101||29|031|1532|Rural|
-46315|Los Cerritos|Ranchería|Chimaltitán|Jalisco||46101|14|46101||29|031|0003|Rural|
-46315|Guadalupe|Rancho|Chimaltitán|Jalisco||46101|14|46101||48|031|0001|Rural|
-46325|San Juan de los Potreros|Pueblo|Chimaltitán|Jalisco||46101|14|46101||28|031|0002|Rural|
-46330|Tepizuac|Ranchería|Chimaltitán|Jalisco||46101|14|46101||29|031|1533|Rural|
