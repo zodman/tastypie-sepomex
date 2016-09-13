@@ -34,7 +34,6 @@ class Command(BaseCommand):
 
                     municipality = reader.next()
                     [municipality.update({k:v.decode("latin-1")}) for k,v in municipality.items()]
-                    print municipality
                     state = MXEstado.objects.get(id=municipality['c_estado'])
                     municipio = MXMunicipio.objects.get(
                         clave=municipality['c_mnpio'], mx_estado=state,
@@ -46,12 +45,13 @@ class Command(BaseCommand):
                             tipo_asentamiento=municipality['d_tipo_asenta'],
                             zona=municipality['d_zona'], mx_municipio=municipio,
                         )
+                    asentamientos = []
                     for item in reader:
                         [item.update({k:v.decode("latin-1")}) for k,v in item.items()]
-                        MXAsentamiento.objects.create(
+                        asentamientos.append(MXAsentamiento(
                             cp=item['d_codigo'], nombre=item['d_asenta'],
                             tipo_asentamiento=item['d_tipo_asenta'],
                             zona=item['d_zona'], mx_municipio=municipio
-                        ) 
-                        
-                    print "{} Asentamientos creados".format(MXAsentamiento.object.all().count())
+                        ))
+                    MXAsentamiento.objects.bulk_create(asentamientos)
+            print "{} Asentamientos creados".format(MXAsentamiento.objects.all().count())
