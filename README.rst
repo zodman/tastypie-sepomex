@@ -32,7 +32,13 @@ Configuration
 
     $ python manage.py migrate sepomex
 
-3. Populate your sepomex models
+3. The sepomex data is provided in a file called `sepomex-data.tar.gz`, you need to extract the content.
+
+::
+
+    $ tar xvf sepomex-data.tar.gz
+
+4. Populate your sepomex models
 
 ::
 
