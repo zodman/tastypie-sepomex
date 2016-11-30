@@ -97,3 +97,19 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 DEFAULT_CHARSET = 'latin-1'
+
+LOGGING = {
+    'version': 1.0,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'console': {
+            'class': 'logging.StreamHandler'
+        }
+    },
+    'loggers': {
+        'sepomex': {
+            'handlers': ['console'],
+            'level': os.getenv('DJANGO_LOG_LEVEL', 'INFO'),
+        }
+    }
+}

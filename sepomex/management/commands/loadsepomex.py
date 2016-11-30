@@ -1,6 +1,6 @@
-from __future__ import print_function
 import csv
 import glob
+import logging
 
 from django.core.management import call_command
 from django.core.management.base import BaseCommand
@@ -8,6 +8,7 @@ from django.core.management.base import BaseCommand
 from sepomex.models import MXEstado, MXAsentamiento, MXMunicipio
 from sepomex.settings import FIELDNAMES
 
+log = logging.getLogger('sepomex')
 
 class Command(BaseCommand):
     help = 'Load sepomex database into sepomex models'
@@ -50,4 +51,4 @@ class Command(BaseCommand):
                             zona=item['d_zona'], mx_municipio=municipio
                         ))
                     MXAsentamiento.objects.bulk_create(asentamientos)
-            print("{} Asentamientos creados".format(MXAsentamiento.objects.all().count()))
+            log.info("{} Asentamientos creados".format(MXAsentamiento.objects.all().count()))

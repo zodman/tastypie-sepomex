@@ -74,3 +74,27 @@ Coahuila's id is 5. If not specified, the limit objects per query is 20
 ::
 
     $ curl localhost:8000/api/v1/mxmunicipio/?mx_estado__id=5
+
+Activate sepomex logger
+-----------------------
+
+Example of `LOGGING` dict in `settings.py`. You might have more loggers.
+
+::
+
+    LOGGING = {
+        'version': 1.0,
+        'disable_existing_loggers': False,
+        'handlers': {
+            'console': {
+                'class': 'logging.StreamHandler'
+            }
+        },
+        'loggers': {
+            'sepomex': {
+                'handlers': ['console'],
+                'level': os.getenv('DJANGO_LOG_LEVEL', 'INFO'),
+            },
+            # Your loggers here
+        }
+    }

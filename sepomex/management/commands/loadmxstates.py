@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 
-from __future__ import print_function
-
 import csv
+import logging
 
 from django.core.management.base import BaseCommand, CommandError
 from sepomex.models import MXEstado
 
+log = logging.getLogger('sepomex')
 
 class Command(BaseCommand):
     help = 'Load states objects from csv file'
@@ -22,4 +22,4 @@ class Command(BaseCommand):
                 for state in reader
             ]
             MXEstado.objects.bulk_create(mxstates)
-        print(u'{} Estados creados!'.format(len(mxstates)))
+        log.info(u'{} Estados creados!'.format(len(mxstates)))

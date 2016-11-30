@@ -1,13 +1,15 @@
 # -*- coding: utf-8 -*-
-from __future__ import print_function
 
 import csv
 import glob
+import logging
 
 from django.core.management.base import BaseCommand
 
 from sepomex.models import MXEstado, MXMunicipio
 from sepomex.settings import FIELDNAMES
+
+log = logging.getLogger('sepomex')
 
 
 files = glob.glob('data/municipalities/*txt')
@@ -32,4 +34,4 @@ class Command(BaseCommand):
 
         MXMunicipio.objects.bulk_create(municipalities)
 
-        print(u'{} municipios creados!'.format(len(municipalities)))
+        log.info(u'{} municipios creados!'.format(len(municipalities)))
