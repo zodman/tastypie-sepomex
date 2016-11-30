@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from __future__ import print_function
 
 import csv
 import glob
@@ -15,15 +16,15 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         municipalities = []
         for name in files:
-            with open(name) as municipalities_file:
+            with open(name, encoding='latin-1') as municipalities_file:
                 reader = csv.DictReader(municipalities_file,
                                         delimiter='|',
                                         fieldnames=FIELDNAMES)
-                municipality = reader.next()
+                municipality = next(reader)
                 state = MXEstado.objects.get(id=municipality['c_estado'])
 
                 municipalities.append(
-                    MXMunicipio(nombre=municipality['D_mnpio'].decode('latin-1'),
+                    MXMunicipio(nombre=municipality['D_mnpio'],
                         clave=municipality['c_mnpio'],
                         mx_estado=state
                     )
@@ -31,4 +32,4 @@ class Command(BaseCommand):
 
         MXMunicipio.objects.bulk_create(municipalities)
 
-        print u'{} municipios creados!'.format(len(municipalities))
+        print(u'{} municipios creados!'.format(len(municipalities)))

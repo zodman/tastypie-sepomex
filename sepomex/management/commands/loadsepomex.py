@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# encoding=utf8
-# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
-# made by zodman
-
+from __future__ import print_function
 import csv
 import glob
 
@@ -11,7 +7,7 @@ from django.core.management.base import BaseCommand
 
 from sepomex.models import MXEstado, MXAsentamiento, MXMunicipio
 from sepomex.settings import FIELDNAMES
-import io
+
 
 class Command(BaseCommand):
     help = 'Load sepomex database into sepomex models'
@@ -27,13 +23,13 @@ class Command(BaseCommand):
             files = glob.glob('data/municipalities/*txt')
 
             for name in files:
-                with open(name) as municipalities_file:
+                with open(name, encoding='latin-1') as municipalities_file:
                     reader = csv.DictReader(municipalities_file,
                                             delimiter='|',
                                             fieldnames=FIELDNAMES)
 
-                    municipality = reader.next()
-                    [municipality.update({k:v.decode("latin-1")}) for k,v in municipality.items()]
+                    municipality = next(reader)
+                    [municipality.update({k:v}) for k,v in municipality.items()]
                     state = MXEstado.objects.get(id=municipality['c_estado'])
                     municipio = MXMunicipio.objects.get(
                         clave=municipality['c_mnpio'], mx_estado=state,
@@ -47,11 +43,11 @@ class Command(BaseCommand):
                         )
                     asentamientos = []
                     for item in reader:
-                        [item.update({k:v.decode("latin-1")}) for k,v in item.items()]
+                        [item.update({k:v}) for k,v in item.items()]
                         asentamientos.append(MXAsentamiento(
                             cp=item['d_codigo'], nombre=item['d_asenta'],
                             tipo_asentamiento=item['d_tipo_asenta'],
                             zona=item['d_zona'], mx_municipio=municipio
                         ))
                     MXAsentamiento.objects.bulk_create(asentamientos)
-            print "{} Asentamientos creados".format(MXAsentamiento.objects.all().count())
+            print("{} Asentamientos creados".format(MXAsentamiento.objects.all().count()))

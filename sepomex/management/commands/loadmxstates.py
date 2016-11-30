@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
+
 import csv
 
 from django.core.management.base import BaseCommand, CommandError
@@ -11,7 +13,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         MXEstado.objects.all().delete()
-        with open('data/sepomex_mx_states.txt') as mxstates_file:
+        with open('data/sepomex_mx_states.txt', encoding='latin-1') as mxstates_file:
             reader = csv.DictReader(mxstates_file,
                                     delimiter='|',
                                     fieldnames=['id', 'name', 'abbr'])
@@ -20,4 +22,4 @@ class Command(BaseCommand):
                 for state in reader
             ]
             MXEstado.objects.bulk_create(mxstates)
-        print u'{} Estados creados!'.format(len(mxstates))
+        print(u'{} Estados creados!'.format(len(mxstates)))
