@@ -31,10 +31,14 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = (
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
     'sepomex',
+    'corsheaders',
 )
 
 MIDDLEWARE_CLASSES = (
+    'corsheaders.middleware.CorsMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -97,6 +101,9 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 DEFAULT_CHARSET = 'latin-1'
+
+CORS_ORIGIN_ALLOW_ALL=True
+
 
 LOGGING = {
     'version': 1.0,

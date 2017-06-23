@@ -1,11 +1,11 @@
-import csv
+from unicodecsv.py2 import DictReader
 import glob
 import logging
-
+from tqdm import tqdm
 from django.core.management import call_command
 from django.core.management.base import BaseCommand
 
-from sepomex.models import MXEstado, MXAsentamiento, MXMunicipio
+from sepomex.models import MXEstado, MXAsentamiento, MXMunicipio, MXCiudad
 from sepomex.settings import FIELDNAMES
 
 log = logging.getLogger('sepomex')
@@ -24,8 +24,8 @@ class Command(BaseCommand):
             files = glob.glob('data/municipalities/*txt')
 
             for name in files:
-                with open(name, encoding='latin-1') as municipalities_file:
-                    reader = csv.DictReader(municipalities_file,
+                with open(name) as municipalities_file:
+                    reader = DictReader(municipalities_file,
                                             delimiter='|',
                                             fieldnames=FIELDNAMES)
 
@@ -43,12 +43,13 @@ class Command(BaseCommand):
                             zona=municipality['d_zona'], mx_municipio=municipio,
                         )
                     asentamientos = []
-                    for item in reader:
+                    for item in tqdm(reader):
                         [item.update({k:v}) for k,v in item.items()]
                         asentamientos.append(MXAsentamiento(
                             cp=item['d_codigo'], nombre=item['d_asenta'],
                             tipo_asentamiento=item['d_tipo_asenta'],
-                            zona=item['d_zona'], mx_municipio=municipio
+                            zona=item['d_zona'], mx_municipio=municipio,
+                            ciudad=item["d_ciudad"]
                         ))
                     MXAsentamiento.objects.bulk_create(asentamientos)
             log.info("{} Asentamientos creados".format(MXAsentamiento.objects.all().count()))

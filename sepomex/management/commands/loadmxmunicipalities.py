@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
-import csv
+from unicodecsv.py2 import DictReader
 import glob
 import logging
 
+from tqdm import tqdm
 from django.core.management.base import BaseCommand
 
 from sepomex.models import MXEstado, MXMunicipio
@@ -17,12 +18,12 @@ files = glob.glob('data/municipalities/*txt')
 class Command(BaseCommand):
     def handle(self, *args, **options):
         municipalities = []
-        for name in files:
-            with open(name, encoding='latin-1') as municipalities_file:
-                reader = csv.DictReader(municipalities_file,
+        for name in tqdm(files):
+            with open(name) as municipalities_file:
+                reader = DictReader(municipalities_file,
                                         delimiter='|',
                                         fieldnames=FIELDNAMES)
-                municipality = next(reader)
+                municipality = reader.next()
                 state = MXEstado.objects.get(id=municipality['c_estado'])
 
                 municipalities.append(

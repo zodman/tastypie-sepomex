@@ -48,9 +48,17 @@ class MXMunicipio(models.Model):
     def __unicode__(self):
         return self.nombre
 
+class MXCiudad(models.Model):
+    nombre = models.CharField(max_length=200)
+    mx_estado = models.ForeignKey(MXEstado, related_name="ciudades")
+
+    def __unicode__(self):
+        return self.nombre
+
 
 class MXAsentamiento(models.Model):
     nombre = models.CharField(max_length=200)
+    ciudad = models.CharField(max_length=200)
 
     mx_municipio = models.ForeignKey(MXMunicipio, related_name='municipio')
     tipo_asentamiento = models.CharField(max_length=100)

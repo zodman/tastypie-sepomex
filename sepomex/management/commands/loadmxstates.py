@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-
+from unicodecsv.py2 import DictReader
 import csv
 import logging
-
 from django.core.management.base import BaseCommand, CommandError
 from sepomex.models import MXEstado
 
@@ -13,8 +12,8 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         MXEstado.objects.all().delete()
-        with open('data/sepomex_mx_states.txt', encoding='latin-1') as mxstates_file:
-            reader = csv.DictReader(mxstates_file,
+        with open('data/sepomex_mx_states.txt') as mxstates_file:
+            reader = DictReader(mxstates_file,
                                     delimiter='|',
                                     fieldnames=['id', 'name', 'abbr'])
             mxstates = [

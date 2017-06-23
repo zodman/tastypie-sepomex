@@ -98,3 +98,18 @@ Example of `LOGGING` dict in `settings.py`. You might have more loggers.
             # Your loggers here
         }
     }
+
+
+Update from sepomex  
+-------------------
+if you had problems with unkown chars we did this:
+
+Go to http://www.sepomex.gob.mx/lservicios/servicios/
+
+Download the CPdescarga.txt
+
+mv CPdescarga.txt CPdescarga.origin.txt
+iconv -f ISO-8859 -t UTF-8  CPdescarga.origin.txt > CPdescarga.txt
+
+
+
