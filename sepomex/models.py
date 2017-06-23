@@ -39,7 +39,6 @@ class MXEstado(models.Model):
 class MXMunicipio(models.Model):
     nombre = models.CharField(max_length=200)
     clave = models.CharField(max_length=10)
-
     mx_estado = models.ForeignKey(MXEstado, related_name='municipios')
 
     class Meta:
@@ -58,9 +57,9 @@ class MXCiudad(models.Model):
 
 class MXAsentamiento(models.Model):
     nombre = models.CharField(max_length=200)
-    ciudad = models.CharField(max_length=200)
 
     mx_municipio = models.ForeignKey(MXMunicipio, related_name='municipio')
+    mx_ciudad = models.ForeignKey(MXCiudad, related_name="ciudad")
     tipo_asentamiento = models.CharField(max_length=100)
     zona = models.CharField(max_length=100)
     cp = models.CharField(max_length=5, null=True)

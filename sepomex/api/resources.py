@@ -3,7 +3,7 @@
 from django.http import HttpResponse
 from tastypie.resources import ModelResource, ALL, ALL_WITH_RELATIONS
 from tastypie.fields import ToManyField, ForeignKey
-from ..models import MXEstado, MXMunicipio, MXAsentamiento
+from ..models import MXEstado, MXMunicipio, MXAsentamiento, MXCiudad
 
 
 def build_content_type(format, encoding='utf-8'):
@@ -51,6 +51,18 @@ class MunicipioResource(BaseModelResource):
         }
 
 
+class CiudadResource(BaseModelResource):
+    class Meta:
+        queryset = MXCiudad.objects.all().order_by("nombre")
+        filtering = {}
+
+class MXCiudadResource(CiudadResource):
+    mx_estado = ForeignKey(EstadoResource, 'mx_estado', null=True, full=True)
+    class Meta(CiudadResource.Meta):
+        allowed_methods = ['get']
+        CiudadResource.Meta.filtering['mx_estado'] = ALL_WITH_RELATIONS
+
+
 class MXMunicipioResource(MunicipioResource):
     mx_estado = ForeignKey(EstadoResource, 'mx_estado', null=True, full=True)
     # asentamientos = ToManyField(AsentamientoResource, 'municipio', full=True)
@@ -68,7 +80,7 @@ class MXEstadoResource(EstadoResource):
 class MXAsentamientoResource(AsentamientoResource):
     municipio = ForeignKey(MunicipioResource, 'mx_municipio', null=True,
                            full=True)
-
+    ciudad = ForeignKey(CiudadResource, 'mx_ciudad', null=False, full=True) 
     class Meta(AsentamientoResource.Meta):
         allowed_methods = ['get']
         filtering = {

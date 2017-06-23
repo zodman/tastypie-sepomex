@@ -23,7 +23,7 @@ class Command(BaseCommand):
         if MXAsentamiento.objects.count() == 0:
             files = glob.glob('data/municipalities/*txt')
 
-            for name in files:
+            for name in tqdm(files):
                 with open(name) as municipalities_file:
                     reader = DictReader(municipalities_file,
                                             delimiter='|',
@@ -35,13 +35,8 @@ class Command(BaseCommand):
                     municipio = MXMunicipio.objects.get(
                         clave=municipality['c_mnpio'], mx_estado=state,
                         nombre=municipality['D_mnpio'])
-
-                    MXAsentamiento.objects.create(
-                            cp=municipality['d_codigo'],
-                            nombre=municipality['d_asenta'],
-                            tipo_asentamiento=municipality['d_tipo_asenta'],
-                            zona=municipality['d_zona'], mx_municipio=municipio,
-                        )
+                    ciudad, _ = MXCiudad.objects.get_or_create(
+                                        nombre=municipality["d_ciudad"], mx_estado=state)
                     asentamientos = []
                     for item in tqdm(reader):
                         [item.update({k:v}) for k,v in item.items()]
@@ -49,7 +44,7 @@ class Command(BaseCommand):
                             cp=item['d_codigo'], nombre=item['d_asenta'],
                             tipo_asentamiento=item['d_tipo_asenta'],
                             zona=item['d_zona'], mx_municipio=municipio,
-                            ciudad=item["d_ciudad"]
+                            mx_ciudad=ciudad,
                         ))
                     MXAsentamiento.objects.bulk_create(asentamientos)
             log.info("{} Asentamientos creados".format(MXAsentamiento.objects.all().count()))
