@@ -22,29 +22,40 @@ class Command(BaseCommand):
 
         if MXAsentamiento.objects.count() == 0:
             files = glob.glob('data/municipalities/*txt')
-
+            print("#### {} #### {}".format(len(files),2457))
             for name in tqdm(files):
+                if "MX-14" in name and '030' in name:
+                    print name
                 with open(name) as municipalities_file:
                     reader = DictReader(municipalities_file,
                                             delimiter='|',
                                             fieldnames=FIELDNAMES)
-
-                    municipality = next(reader)
-                    [municipality.update({k:v}) for k,v in municipality.items()]
-                    state = MXEstado.objects.get(id=municipality['c_estado'])
-                    municipio = MXMunicipio.objects.get(
-                        clave=municipality['c_mnpio'], mx_estado=state,
-                        nombre=municipality['D_mnpio'])
-                    ciudad, _ = MXCiudad.objects.get_or_create(
-                                        nombre=municipality["d_ciudad"], mx_estado=state)
-                    asentamientos = []
-                    for item in tqdm(reader):
+                    l = []
+                    for municipality in tqdm(reader):
+                        item = municipality.copy()
+                        if "MX-14" in name and  '030' in name:
+                            print(">{}".format(municipality))
+                        [municipality.update({k:v}) for k,v in municipality.items()]
+                        state = MXEstado.objects.get(id=municipality['c_estado'])
+                        municipio = MXMunicipio.objects.get(
+                            clave=municipality['c_mnpio'], mx_estado=state,
+                            nombre=municipality['D_mnpio'])
+                        ciudad, _ = MXCiudad.objects.get_or_create(
+                                            nombre=municipality["d_ciudad"], mx_estado=state)
                         [item.update({k:v}) for k,v in item.items()]
-                        asentamientos.append(MXAsentamiento(
+                        a =MXAsentamiento(
                             cp=item['d_codigo'], nombre=item['d_asenta'],
                             tipo_asentamiento=item['d_tipo_asenta'],
                             zona=item['d_zona'], mx_municipio=municipio,
                             mx_ciudad=ciudad,
-                        ))
-                    MXAsentamiento.objects.bulk_create(asentamientos)
+                        )
+                        if item['d_codigo'] == '45901':
+                            print(item)
+                            print("=========")
+                        l.append(a)
+                        if item['d_codigo'] == '45901':
+                            print("=========")
+                            print("CP id {}".format(a.id))
+                            assert False, o
+                MXAsentamiento.objects.bulk_create(l)
             log.info("{} Asentamientos creados".format(MXAsentamiento.objects.all().count()))

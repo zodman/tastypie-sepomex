@@ -34,11 +34,11 @@ INSTALLED_APPS = (
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'sepomex',
-    'corsheaders',
+#    'corsheaders',
 )
 
 MIDDLEWARE_CLASSES = (
-    'corsheaders.middleware.CorsMiddleware',
+ #   'corsheaders.middleware.CorsMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
